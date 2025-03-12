@@ -4,18 +4,19 @@ This script fetches facility data from the EPA's Risk Management Plan (RMP) Prog
 
 ## Overview
 
-The `epa_facility_data.py` script retrieves detailed information about facilities registered in the EPA's Risk Management Plan (RMP) database. It provides a convenient way to access facility information, emergency plans, processes, and chemicals stored at these facilities.
+The `epa_facility_data.py` script retrieves detailed information about facilities registered in the EPA's Risk Management Plan (RMP) database. It first searches for all facility submissions associated with a specific EPA Facility ID, then retrieves detailed information for each facility. This provides a comprehensive way to access facility information, emergency plans, processes, and chemicals stored at these facilities.
 
 ## Features
 
-- Retrieves comprehensive facility data from the EPA RMP API
-- Displays formatted information about the facility, including:
+- Searches for all facility submissions associated with an EPA Facility ID
+- Retrieves comprehensive facility data for each submission from the EPA RMP API
+- Displays formatted information about each facility, including:
   - Basic facility details (name, location, contact info)
   - Emergency plan information
   - Process details
   - Chemical inventories
-- Saves the complete data to a JSON file for further analysis
-- Supports command-line arguments to specify different facility IDs
+- Saves all data to JSON files in an organized directory structure
+- Supports command-line arguments to specify different EPA Facility IDs
 
 ## Requirements
 
@@ -40,26 +41,36 @@ The `epa_facility_data.py` script retrieves detailed information about facilitie
 python epa_facility_data.py
 ```
 
-This will fetch data for the default facility ID (1000041063).
+This will fetch data for the default EPA Facility ID (100000001892).
 
-### Specifying a Facility ID
+### Specifying an EPA Facility ID
 
 ```bash
-python epa_facility_data.py [facility_id]
+python epa_facility_data.py [epa_facility_id]
 ```
 
-Replace `[facility_id]` with the ID of the facility you want to retrieve.
+Replace `[epa_facility_id]` with the EPA Facility ID you want to retrieve data for.
 
-### Example Output
+### Output
 
-The script will display formatted information about the facility and save the complete data to a JSON file named `facility_[facility_id].json`.
+The script creates a directory named `epa_facility_[epa_facility_id]` and saves the following files:
 
-## API Information
+1. `search_results_[epa_facility_id].json` - Contains the initial search results
+2. `facility_[facility_id].json` - One file for each facility submission, containing detailed information
 
-The script uses the EPA's RMP API endpoint:
-```
-https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/{facility_id}
-```
+## API Endpoints
+
+The script uses two EPA RMP API endpoints:
+
+1. Search endpoint to find all facility submissions:
+   ```
+   https://cdxapps.epa.gov/olem-rmp-pds/api/search/submissions?id={epa_facility_id}
+   ```
+
+2. Facility endpoint to get detailed information for each facility:
+   ```
+   https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/{facility_id}
+   ```
 
 ## Data Fields
 
