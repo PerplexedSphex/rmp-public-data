@@ -7,11 +7,12 @@ in each one using the EPA's Risk Management Plan (RMP) Program Delivery System A
 then retrieves detailed information for each facility.
 
 Usage:
-    python epa_all_states.py [--start STATE_CODE]
+    python epa_all_states.py [--start STATE_CODE] [--parallel WORKERS]
     
     Optional:
     --start STATE_CODE: Start processing from a specific state code
                        (useful for resuming an interrupted run)
+    --parallel WORKERS: Number of parallel workers (default: 5)
 """
 import json
 import sys
@@ -21,6 +22,11 @@ import time
 import argparse
 from datetime import datetime
 from dotenv import load_dotenv
+import concurrent.futures
+import threading
+
+# Thread-local storage for session objects
+thread_local = threading.local()
 
 # List of all US states and territories
 ALL_STATES = [
@@ -48,6 +54,12 @@ STATE_NAMES = {
     "UT": "Utah", "VT": "Vermont", "VA": "Virginia", "VI": "Virgin Islands", 
     "WA": "Washington", "WV": "West Virginia", "WI": "Wisconsin", "WY": "Wyoming"
 }
+
+# Get thread-local session
+def get_session():
+    if not hasattr(thread_local, "session"):
+        thread_local.session = requests.Session()
+    return thread_local.session
 
 def search_facilities_by_state(state_code):
     """
@@ -93,7 +105,8 @@ def search_facilities_by_state(state_code):
     
     try:
         print(f"Searching for facilities in {STATE_NAMES.get(state_code, state_code)} ({state_code})")
-        response = requests.post(url, headers=headers, json=payload)
+        session = get_session()
+        response = session.post(url, headers=headers, json=payload)
         response.raise_for_status()  # Raise an exception for 4XX/5XX responses
         
         data = response.json()
@@ -133,7 +146,8 @@ def fetch_facility_ids(epa_facility_id):
     
     try:
         print(f"  Searching for submissions with EPA Facility ID: {epa_facility_id}")
-        response = requests.get(url, headers=headers)
+        session = get_session()
+        response = session.get(url, headers=headers)
         response.raise_for_status()  # Raise an exception for 4XX/5XX responses
         
         data = response.json()
@@ -170,7 +184,8 @@ def fetch_facility_data(facility_id):
     }
     
     try:
-        response = requests.get(url, headers=headers)
+        session = get_session()
+        response = session.get(url, headers=headers)
         response.raise_for_status()  # Raise an exception for 4XX/5XX responses
         return response.json()
     except requests.exceptions.RequestException as e:
@@ -269,12 +284,111 @@ def create_master_summary(base_dir="epa_all_states"):
     print(f"Total EPA facilities: {master_summary['total_epa_facilities']}")
     print(f"Total facility submissions: {master_summary['total_facility_submissions']}")
 
-def process_state(state_code):
+def process_facility_submission(facility_id, facility_dir):
+    """
+    Process a single facility submission.
+    
+    Args:
+        facility_id (str): The facility ID to process
+        facility_dir (str): The directory to save the facility data
+        
+    Returns:
+        dict: The facility submission data
+    """
+    facility_data = fetch_facility_data(facility_id)
+    
+    if facility_data:
+        # Display basic facility information
+        print(f"      Facility: {facility_data.get('facNm', 'N/A')}")
+        print(f"      Location: {facility_data.get('facCityNm', 'N/A')}, {facility_data.get('facStateCd', 'N/A')}")
+        
+        # Save the complete data to a file
+        output_file = os.path.join(facility_dir, f"facility_{facility_id}.json")
+        save_to_file(facility_data, output_file)
+        
+        # Return submission summary
+        return {
+            "facility_id": facility_id,
+            "facility_name": facility_data.get("facNm", "N/A"),
+            "city": facility_data.get("facCityNm", "N/A"),
+            "state": facility_data.get("facStateCd", "N/A"),
+            "receipt_date": facility_data.get("receiptDa", "N/A")
+        }
+    else:
+        print(f"      Failed to fetch data for facility ID: {facility_id}")
+        return None
+
+def process_epa_facility(epa_facility_id, output_dir, max_workers=10):
+    """
+    Process a single EPA facility ID.
+    
+    Args:
+        epa_facility_id (str): The EPA facility ID to process
+        output_dir (str): The base output directory
+        max_workers (int): Maximum number of parallel workers
+        
+    Returns:
+        dict: Facility summary data
+    """
+    # Create a directory for this EPA Facility ID
+    facility_dir = os.path.join(output_dir, f"facility_{epa_facility_id}")
+    if not os.path.exists(facility_dir):
+        os.makedirs(facility_dir)
+    
+    # Fetch all facility submissions for this EPA Facility ID
+    submissions, facility_ids = fetch_facility_ids(epa_facility_id)
+    
+    if not facility_ids:
+        print(f"  No facility submissions found for EPA Facility ID: {epa_facility_id}")
+        # Return empty facility summary
+        return {
+            "epa_facility_id": epa_facility_id,
+            "total_submissions": 0,
+            "submissions": []
+        }
+    
+    # Save the submissions search results
+    submissions_file = os.path.join(facility_dir, f"submissions_{epa_facility_id}.json")
+    save_to_file({"_embedded": submissions}, submissions_file)
+    
+    # Create facility summary
+    facility_summary = {
+        "epa_facility_id": epa_facility_id,
+        "total_submissions": len(facility_ids),
+        "submissions": []
+    }
+    
+    # Process facility submissions in parallel
+    print(f"    Processing {len(facility_ids)} submissions in parallel (max {max_workers} workers)")
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Create a dictionary of futures to facility IDs
+        future_to_facility = {
+            executor.submit(process_facility_submission, facility_id, facility_dir): facility_id
+            for facility_id in facility_ids
+        }
+        
+        # Process as they complete
+        for i, future in enumerate(concurrent.futures.as_completed(future_to_facility), 1):
+            facility_id = future_to_facility[future]
+            print(f"    [{i}/{len(facility_ids)}] Completed facility ID: {facility_id}")
+            
+            try:
+                submission_data = future.result()
+                if submission_data:
+                    facility_summary["submissions"].append(submission_data)
+            except Exception as e:
+                print(f"    Error processing facility ID {facility_id}: {e}")
+    
+    return facility_summary
+
+def process_state(state_code, max_facility_workers=10, max_submission_workers=10):
     """
     Process a single state to fetch and save all facility data.
     
     Args:
         state_code (str): The state code to process
+        max_facility_workers (int): Maximum number of parallel facility workers
+        max_submission_workers (int): Maximum number of parallel submission workers
         
     Returns:
         dict: Summary data for the state
@@ -311,70 +425,51 @@ def process_state(state_code):
         "epa_facilities": []
     }
     
-    # Process each EPA Facility ID
-    for i, epa_facility_id in enumerate(epa_facility_ids, 1):
-        print(f"\n[{i}/{len(epa_facility_ids)}] Processing EPA Facility ID: {epa_facility_id}")
-        
-        # Create a directory for this EPA Facility ID
-        facility_dir = os.path.join(output_dir, f"facility_{epa_facility_id}")
-        if not os.path.exists(facility_dir):
-            os.makedirs(facility_dir)
-        
-        # Fetch all facility submissions for this EPA Facility ID
-        submissions, facility_ids = fetch_facility_ids(epa_facility_id)
-        
-        if not facility_ids:
-            print(f"  No facility submissions found for EPA Facility ID: {epa_facility_id}")
-            # Add empty facility to summary
-            facility_summary = {
-                "epa_facility_id": epa_facility_id,
-                "total_submissions": 0,
-                "submissions": []
+    # Determine whether to process facilities sequentially or in parallel
+    if max_facility_workers > 1 and len(epa_facility_ids) > 1:
+        # Process facilities in parallel
+        print(f"\nProcessing {len(epa_facility_ids)} EPA Facility IDs in parallel (max {max_facility_workers} workers)")
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_facility_workers) as executor:
+            # Create a dictionary of futures to EPA facility IDs
+            future_to_epa_facility = {
+                executor.submit(process_epa_facility, epa_facility_id, output_dir, max_submission_workers): epa_facility_id
+                for epa_facility_id in epa_facility_ids
             }
-            summary_data["epa_facilities"].append(facility_summary)
-            continue
-        
-        # Save the submissions search results
-        submissions_file = os.path.join(facility_dir, f"submissions_{epa_facility_id}.json")
-        save_to_file({"_embedded": submissions}, submissions_file)
-        
-        # Add to summary data
-        facility_summary = {
-            "epa_facility_id": epa_facility_id,
-            "total_submissions": len(facility_ids),
-            "submissions": []
-        }
-        
-        # Process each facility submission
-        for j, facility_id in enumerate(facility_ids, 1):
-            print(f"    [{j}/{len(facility_ids)}] Fetching data for facility ID: {facility_id}")
-            facility_data = fetch_facility_data(facility_id)
             
-            if facility_data:
-                # Display basic facility information
-                print(f"      Facility: {facility_data.get('facNm', 'N/A')}")
-                print(f"      Location: {facility_data.get('facCityNm', 'N/A')}, {facility_data.get('facStateCd', 'N/A')}")
+            # Process as they complete
+            for i, future in enumerate(concurrent.futures.as_completed(future_to_epa_facility), 1):
+                epa_facility_id = future_to_epa_facility[future]
+                print(f"\n[{i}/{len(epa_facility_ids)}] Completed EPA Facility ID: {epa_facility_id}")
                 
-                # Save the complete data to a file
-                output_file = os.path.join(facility_dir, f"facility_{facility_id}.json")
-                save_to_file(facility_data, output_file)
-                
-                # Add to facility summary
-                facility_summary["submissions"].append({
-                    "facility_id": facility_id,
-                    "facility_name": facility_data.get("facNm", "N/A"),
-                    "city": facility_data.get("facCityNm", "N/A"),
-                    "state": facility_data.get("facStateCd", "N/A"),
-                    "receipt_date": facility_data.get("receiptDa", "N/A")
+                try:
+                    facility_summary = future.result()
+                    summary_data["epa_facilities"].append(facility_summary)
+                except Exception as e:
+                    print(f"Error processing EPA Facility ID {epa_facility_id}: {e}")
+                    # Add empty facility to summary
+                    summary_data["epa_facilities"].append({
+                        "epa_facility_id": epa_facility_id,
+                        "total_submissions": 0,
+                        "submissions": [],
+                        "error": str(e)
+                    })
+    else:
+        # Process each EPA Facility ID sequentially
+        for i, epa_facility_id in enumerate(epa_facility_ids, 1):
+            print(f"\n[{i}/{len(epa_facility_ids)}] Processing EPA Facility ID: {epa_facility_id}")
+            
+            try:
+                facility_summary = process_epa_facility(epa_facility_id, output_dir, max_submission_workers)
+                summary_data["epa_facilities"].append(facility_summary)
+            except Exception as e:
+                print(f"Error processing EPA Facility ID {epa_facility_id}: {e}")
+                # Add empty facility to summary
+                summary_data["epa_facilities"].append({
+                    "epa_facility_id": epa_facility_id,
+                    "total_submissions": 0,
+                    "submissions": [],
+                    "error": str(e)
                 })
-            else:
-                print(f"      Failed to fetch data for facility ID: {facility_id}")
-            
-            # Add a small delay to avoid overwhelming the API
-            time.sleep(0.5)
-        
-        # Add facility summary to overall summary
-        summary_data["epa_facilities"].append(facility_summary)
     
     # Save the summary data
     summary_file = os.path.join(output_dir, f"summary_{state_code}.json")
@@ -393,6 +488,7 @@ def main():
     # Parse command line arguments
     parser = argparse.ArgumentParser(description='Fetch EPA RMP facility data for all US states and territories.')
     parser.add_argument('--start', type=str, help='Start processing from a specific state code')
+    parser.add_argument('--parallel', type=int, default=5, help='Number of parallel workers (default: 5)')
     args = parser.parse_args()
     
     # Determine which states to process
@@ -411,13 +507,18 @@ def main():
     start_time = datetime.now()
     print(f"Starting data collection at {start_time.isoformat()}")
     print(f"Processing {len(states_to_process)} states/territories")
+    print(f"Using parallelism with {args.parallel} workers")
+    
+    # Determine parallel settings based on user input
+    max_facility_workers = min(3, args.parallel)  # Limit facility parallelism to avoid overwhelming the API
+    max_submission_workers = args.parallel
     
     for i, state_code in enumerate(states_to_process, 1):
         state_start_time = datetime.now()
         print(f"\n[{i}/{len(states_to_process)}] Processing {STATE_NAMES.get(state_code, state_code)} ({state_code})")
         
         try:
-            process_state(state_code)
+            process_state(state_code, max_facility_workers, max_submission_workers)
         except Exception as e:
             print(f"Error processing state {state_code}: {e}")
         
@@ -425,10 +526,10 @@ def main():
         state_duration = state_end_time - state_start_time
         print(f"Completed {state_code} in {state_duration}")
         
-        # Add a delay between states to avoid overwhelming the API
+        # Add a delay between states to avoid overwhelming the API (reduced by factor of 5)
         if i < len(states_to_process):
-            print(f"Waiting 5 seconds before processing next state...")
-            time.sleep(5)
+            print(f"Waiting 1 second before processing next state...")
+            time.sleep(1)
     
     # Create master summary
     create_master_summary(base_dir)
