@@ -1,0 +1,79 @@
+{
+  "facilityId": 24432,
+  "epaFacId": "100000006897",
+  "facNm": "35th Street",
+  "parntCo1Nm": "Cartersville Elevator, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "16725 245th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Mason City",
+  "facStateCd": "IA",
+  "countyNm": "CERRO GORDO",
+  "facZipCd": "50401",
+  "facZip4Cd": null,
+  "receiptDa": "2001-11-01T00:00:00.000",
+  "facLatDecMs": "43.120556",
+  "facLongDecMs": "-93.191944",
+  "lepcNm": "North Central Regional Emergen",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Floyd County LEPC",
+    "agencyPhoneNm": "6412287111",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24432"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24432"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24432"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24432"
+    }
+  }
+}

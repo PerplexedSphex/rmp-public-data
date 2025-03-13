@@ -1,0 +1,79 @@
+{
+  "facilityId": 6262,
+  "epaFacId": "100000083081",
+  "facNm": "Dean Foods - Rochester, IN",
+  "parntCo1Nm": null,
+  "facDunsNu": 5103973,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1700 N Old US 31",
+  "facStreet2Tx": null,
+  "facCityNm": "Rochester",
+  "facStateCd": "IN",
+  "countyNm": "FULTON",
+  "facZipCd": "46975",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "41.08",
+  "facLongDecMs": "-86.216667",
+  "lepcNm": "Fulton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fulton County LEPC",
+    "agencyPhoneNm": "2192236611",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6262"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6262"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6262"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6262"
+    }
+  }
+}

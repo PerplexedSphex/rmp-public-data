@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000042446,
+  "epaFacId": "100000133875",
+  "facNm": "Sierra Chemical Co., Sparks Facility",
+  "parntCo1Nm": null,
+  "facDunsNu": 884293911,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2302 Larkin Circle",
+  "facStreet2Tx": null,
+  "facCityNm": "Sparks",
+  "facStateCd": "NV",
+  "countyNm": "WASHOE",
+  "facZipCd": "89431",
+  "facZip4Cd": "6587",
+  "receiptDa": "2014-07-14T00:00:00.000",
+  "facLatDecMs": "39.523889",
+  "facLongDecMs": "-119.697500",
+  "lepcNm": "Washoe County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-08-26T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sparks Fire Department",
+    "agencyPhoneNm": "7753532261",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042446"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Merchant Wholesalers ",
+          "naicsCd": "42469",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42469"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042446"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042446"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042446"
+    }
+  }
+}

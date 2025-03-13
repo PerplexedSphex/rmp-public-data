@@ -1,0 +1,90 @@
+{
+  "facilityId": 7413,
+  "epaFacId": "100000092776",
+  "facNm": "WILBUR-ELLIS COMPANY",
+  "parntCo1Nm": "NA",
+  "facDunsNu": 6913479,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "WEST 305 - 1ST STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "FAIRFIELD",
+  "facStateCd": "WA",
+  "countyNm": "SPOKANE",
+  "facZipCd": "99012",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "47.383333",
+  "facLongDecMs": "-117.166667",
+  "lepcNm": "Spokane County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Spokane Fire Dist. #2",
+    "agencyPhoneNm": "5099266699",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7413"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7413"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7413"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7413"
+    }
+  }
+}

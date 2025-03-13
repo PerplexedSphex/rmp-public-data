@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000048301,
+  "epaFacId": "100000101285",
+  "facNm": "Houston Ammonia Terminal, L.P.",
+  "parntCo1Nm": "Terra Houston Ammonia, Inc.",
+  "facDunsNu": 613541069,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4403 Highway 225",
+  "facStreet2Tx": null,
+  "facCityNm": "Pasadena",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77503",
+  "facZip4Cd": null,
+  "receiptDa": "2015-02-04T00:00:00.000",
+  "facLatDecMs": "29.7330972",
+  "facLongDecMs": "-95.1501416",
+  "lepcNm": "Southeast Regional LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-07-11T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Southeast Regional LEPC",
+    "agencyPhoneNm": "7134757088",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048301"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Marine Cargo Handling",
+          "naicsCd": "48832",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48832"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048301"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048301"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048301"
+    }
+  }
+}

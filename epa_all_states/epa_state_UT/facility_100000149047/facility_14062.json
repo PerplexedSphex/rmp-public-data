@@ -1,0 +1,79 @@
+{
+  "facilityId": 14062,
+  "epaFacId": "100000149047",
+  "facNm": "Apex Operations",
+  "parntCo1Nm": "OM Group, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Mile 15 Hwy 91 West",
+  "facStreet2Tx": null,
+  "facCityNm": "St. George",
+  "facStateCd": "UT",
+  "countyNm": "WASHINGTON",
+  "facZipCd": "84770",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-25T00:00:00.000",
+  "facLatDecMs": "37.147222",
+  "facLongDecMs": "113.776389",
+  "lepcNm": "Washington County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2002-12-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Washington County LEPC",
+    "agencyPhoneNm": "4356734824",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14062"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14062"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14062"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14062"
+    }
+  }
+}

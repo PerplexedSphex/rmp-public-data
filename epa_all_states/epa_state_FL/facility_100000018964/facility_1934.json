@@ -1,0 +1,79 @@
+{
+  "facilityId": 1934,
+  "epaFacId": "100000018964",
+  "facNm": "Hudson Wastewater Treatment Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "10745 Denton Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Hudson",
+  "facStateCd": "FL",
+  "countyNm": "PASCO",
+  "facZipCd": "34667",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-04T00:00:00.000",
+  "facLatDecMs": "28.391667",
+  "facLongDecMs": "-82.636111",
+  "lepcNm": "District 8 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2003-03-27T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pasco County Fire Dept. HAZMAT",
+    "agencyPhoneNm": "0000000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1934"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1934"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1934"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1934"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 8729,
+  "epaFacId": "100000108313",
+  "facNm": "Foamex Corry Plant",
+  "parntCo1Nm": "Foamex LP",
+  "facDunsNu": 116023615,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "466 South Shady Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Corry",
+  "facStateCd": "PA",
+  "countyNm": "ERIE",
+  "facZipCd": "16407",
+  "facZip4Cd": "2043",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "41.916667",
+  "facLongDecMs": "-79.615278",
+  "lepcNm": "Erie County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Corry Fire Department",
+    "agencyPhoneNm": "8146649211",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8729"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+          "naicsCd": "32615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene diisocyanate (unspecified isomer)  [Benzene, 1,3-diisocyanatomethyl-]",
+          "casNu": "26471-62-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/77"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8729"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8729"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8729"
+    }
+  }
+}

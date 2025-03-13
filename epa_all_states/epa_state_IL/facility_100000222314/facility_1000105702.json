@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000105702,
+  "epaFacId": "100000222314",
+  "facNm": "PSW Retail LLC",
+  "parntCo1Nm": "",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2698 N 1800 East Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Bismarck",
+  "facStateCd": "IL",
+  "countyNm": "VERMILION",
+  "facZipCd": "61814",
+  "facZip4Cd": "",
+  "receiptDa": "2023-06-15T00:00:00.000",
+  "facLatDecMs": "40.2563",
+  "facLongDecMs": "-87.6048",
+  "lepcNm": "Vermilion County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Vermilion Co. lepc",
+    "agencyPhoneNm": "2174436010",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105702"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Merchant Wholesalers ",
+          "naicsCd": "42491",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42491"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105702"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105702"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105702"
+    }
+  }
+}

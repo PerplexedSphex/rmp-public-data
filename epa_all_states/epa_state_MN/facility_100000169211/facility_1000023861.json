@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000023861,
+  "epaFacId": "100000169211",
+  "facNm": "Jackson Terminal",
+  "parntCo1Nm": "Enterprise Products Operating, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "77045 Highway 71 South",
+  "facStreet2Tx": null,
+  "facCityNm": "Jackson",
+  "facStateCd": "MN",
+  "countyNm": "JACKSON",
+  "facZipCd": "56143",
+  "facZip4Cd": null,
+  "receiptDa": "2011-10-13T00:00:00.000",
+  "facLatDecMs": "43.603358",
+  "facLongDecMs": "-094.994852",
+  "lepcNm": "Jackson LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jackson County Fire Department",
+    "agencyPhoneNm": "5078473232",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023861"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023861"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023861"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023861"
+    }
+  }
+}

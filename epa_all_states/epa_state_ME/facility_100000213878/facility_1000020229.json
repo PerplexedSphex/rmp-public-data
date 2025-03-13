@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000020229,
+  "epaFacId": "100000213878",
+  "facNm": "Amerigas Transflow Operation",
+  "parntCo1Nm": "Amerigas Propane, L.P.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "75 Rigby Rd",
+  "facStreet2Tx": null,
+  "facCityNm": "South Portland",
+  "facStateCd": "ME",
+  "countyNm": "CUMBERLAND",
+  "facZipCd": "04106",
+  "facZip4Cd": null,
+  "receiptDa": "2011-02-01T00:00:00.000",
+  "facLatDecMs": "43.612856",
+  "facLongDecMs": "-70.299240",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Maine Emergency Management Agency",
+    "agencyPhoneNm": "2076244400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020229"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020229"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020229"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020229"
+    }
+  }
+}

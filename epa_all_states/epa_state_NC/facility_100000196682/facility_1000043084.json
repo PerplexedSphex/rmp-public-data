@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043084,
+  "epaFacId": "100000196682",
+  "facNm": "Motiva Enterprises LLC - Apex Terminal",
+  "parntCo1Nm": "Motiva Enterprises LLC",
+  "facDunsNu": 792514713,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2232 Ten-Ten Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Apex",
+  "facStateCd": "NC",
+  "countyNm": "WAKE",
+  "facZipCd": "27539",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-10T00:00:00.000",
+  "facLatDecMs": "35.716389",
+  "facLongDecMs": "-078.814657",
+  "lepcNm": "Wake County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Apex Fire Department",
+    "agencyPhoneNm": "9103624001",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043084"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043084"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043084"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043084"
+    }
+  }
+}

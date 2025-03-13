@@ -1,0 +1,79 @@
+{
+  "facilityId": 2559,
+  "epaFacId": "100000031235",
+  "facNm": "Kerr Grain and Seed Inc.",
+  "parntCo1Nm": "none",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "345 East Huntington St",
+  "facStreet2Tx": null,
+  "facCityNm": "Memphis",
+  "facStateCd": "MO",
+  "countyNm": "SCOTLAND",
+  "facZipCd": "63555",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-14T00:00:00.000",
+  "facLatDecMs": "40.457778",
+  "facLongDecMs": "-92.154167",
+  "lepcNm": "Scotland County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-12-11T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Local Fire Department",
+    "agencyPhoneNm": "6604652121",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2559"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2559"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2559"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2559"
+    }
+  }
+}

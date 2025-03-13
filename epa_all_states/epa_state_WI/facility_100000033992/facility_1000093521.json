@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000093521,
+  "epaFacId": "100000033992",
+  "facNm": "Jones Dairy (South)",
+  "parntCo1Nm": "Jones Dairy",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "801 Rockwell Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Fort Atkinson",
+  "facStateCd": "WI",
+  "countyNm": "JEFFERSON",
+  "facZipCd": "53538",
+  "facZip4Cd": null,
+  "receiptDa": "2022-04-26T00:00:00.000",
+  "facLatDecMs": "42.916389",
+  "facLongDecMs": "-088.849722",
+  "lepcNm": "Jefferson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jefferson County LEPC",
+    "agencyPhoneNm": "9206747260",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093521"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093521"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093521"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093521"
+    }
+  }
+}

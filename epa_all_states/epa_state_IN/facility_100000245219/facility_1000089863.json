@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000089863,
+  "epaFacId": "100000245219",
+  "facNm": "Interstate Cold Storage",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "6606 Lincoln Pkwy",
+  "facStreet2Tx": null,
+  "facCityNm": "Fort Wayne",
+  "facStateCd": "IN",
+  "countyNm": "ALLEN",
+  "facZipCd": "46804",
+  "facZip4Cd": null,
+  "receiptDa": "2020-09-14T13:30:23.000",
+  "facLatDecMs": "41.086010",
+  "facLongDecMs": "-85.229439",
+  "lepcNm": "Allen County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Allen County LEPC",
+    "agencyPhoneNm": "2604494663",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000089863"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000089863"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000089863"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000089863"
+    }
+  }
+}

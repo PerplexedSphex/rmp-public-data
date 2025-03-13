@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000047479,
+  "epaFacId": "100000210862",
+  "facNm": "Jacobson Warehouse Co.",
+  "parntCo1Nm": "Jacobson Acquisition Co.",
+  "facDunsNu": 179579677,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7405 CR 328",
+  "facStreet2Tx": null,
+  "facCityNm": "Palmyra",
+  "facStateCd": "MO",
+  "countyNm": "MARION",
+  "facZipCd": "63461",
+  "facZip4Cd": null,
+  "receiptDa": "2014-11-13T00:00:00.000",
+  "facLatDecMs": "39.805056",
+  "facLongDecMs": "-91.498344",
+  "lepcNm": "Marion County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-09-23T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Palmyra Fire Dept.",
+    "agencyPhoneNm": "5737695540",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047479"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isopropylamine [2-Propanamine]",
+          "casNu": "75-31-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/109"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047479"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047479"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047479"
+    }
+  }
+}

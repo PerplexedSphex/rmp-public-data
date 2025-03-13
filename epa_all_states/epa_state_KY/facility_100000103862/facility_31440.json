@@ -1,0 +1,90 @@
+{
+  "facilityId": 31440,
+  "epaFacId": "100000103862",
+  "facNm": "Johnson Controls Inc. Georgetown, Kentucky",
+  "parntCo1Nm": "Johnson Controls, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "824 Lemons Mill Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Georgetown",
+  "facStateCd": "KY",
+  "countyNm": "SCOTT",
+  "facZipCd": "40324",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-14T00:00:00.000",
+  "facLatDecMs": "38.201667",
+  "facLongDecMs": "-084.542778",
+  "lepcNm": "Scott County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Scott County EPC",
+    "agencyPhoneNm": "5028637848",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31440"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Motor Vehicle Seating and Interior Trim Manufacturing",
+          "naicsCd": "33636",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33636"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,6-diisocyanate  [Benzene, 1,3-diisocyanato-2-methyl-]",
+          "casNu": "91-08-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/20"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,4-diisocyanate  [Benzene, 2,4-diisocyanato-1-methyl-]",
+          "casNu": "584-84-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/44"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31440"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31440"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31440"
+    }
+  }
+}

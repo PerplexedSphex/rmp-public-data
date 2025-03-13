@@ -1,0 +1,79 @@
+{
+  "facilityId": 34142,
+  "epaFacId": "100000153353",
+  "facNm": "Genencor International, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 611454406,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1000 41st Avenue Drive S.W.",
+  "facStreet2Tx": null,
+  "facCityNm": "Cedar Rapids",
+  "facStateCd": "IA",
+  "countyNm": "LINN",
+  "facZipCd": "52404",
+  "facZip4Cd": "5048",
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "41.940000",
+  "facLongDecMs": "-091.640389",
+  "lepcNm": "Linn County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cedar Rapids Fire Department",
+    "agencyPhoneNm": "3192865212",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34142"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34142"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34142"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34142"
+    }
+  }
+}

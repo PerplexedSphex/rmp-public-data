@@ -1,0 +1,79 @@
+{
+  "facilityId": 3443,
+  "epaFacId": "100000043017",
+  "facNm": "CertainTeed, Athens Plant",
+  "parntCo1Nm": "CertainTeed Corporation",
+  "facDunsNu": 69223584,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "425 Athena Drive",
+  "facStreet2Tx": "P.O. Box 1988",
+  "facCityNm": "Athens",
+  "facStateCd": "GA",
+  "countyNm": "CLARKE",
+  "facZipCd": "30603",
+  "facZip4Cd": "1988",
+  "receiptDa": "1999-06-17T00:00:00.000",
+  "facLatDecMs": "33.978833",
+  "facLongDecMs": "-83.338056",
+  "lepcNm": "Georgia ERC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2000-01-17T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Dept, Ferguson Harbor",
+    "agencyPhoneNm": "8002351344",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3443"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Mineral Wool Manufacturing ",
+          "naicsCd": "327993",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/327993"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3443"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3443"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3443"
+    }
+  }
+}

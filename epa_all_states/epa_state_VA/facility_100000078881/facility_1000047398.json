@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000047398,
+  "epaFacId": "100000078881",
+  "facNm": "Radford Water Treatment Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 76531206,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "20 Forest Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Radford",
+  "facStateCd": "VA",
+  "countyNm": "RADFORD (CITY)",
+  "facZipCd": "24141",
+  "facZip4Cd": "4411",
+  "receiptDa": "2014-11-04T00:00:00.000",
+  "facLatDecMs": "37.126667",
+  "facLongDecMs": "-080.591944",
+  "lepcNm": "Radford LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Radford Emergency Planning Commiss.",
+    "agencyPhoneNm": "5407313639",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047398"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047398"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047398"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047398"
+    }
+  }
+}

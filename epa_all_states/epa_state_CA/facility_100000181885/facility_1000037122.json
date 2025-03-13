@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000037122,
+  "epaFacId": "100000181885",
+  "facNm": "Overhill Farms, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 47426663,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2727 Vernon Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Vernon",
+  "facStateCd": "CA",
+  "countyNm": "LOS ANGELES",
+  "facZipCd": "90058",
+  "facZip4Cd": null,
+  "receiptDa": "2013-11-18T00:00:00.000",
+  "facLatDecMs": "34.006583",
+  "facLongDecMs": "-118.224080",
+  "lepcNm": "California Region 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Vernon Fire Department",
+    "agencyPhoneNm": "3235838811",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037122"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Food Manufacturing",
+          "naicsCd": "31199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037122"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037122"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037122"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 17496,
+  "epaFacId": "100000161665",
+  "facNm": "Portland Wastewater Treatment Plant",
+  "parntCo1Nm": "Portland Water District",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "500 Marginal Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Portland",
+  "facStateCd": "ME",
+  "countyNm": "CUMBERLAND",
+  "facZipCd": "04103",
+  "facZip4Cd": null,
+  "receiptDa": "1999-08-19T00:00:00.000",
+  "facLatDecMs": "43.672944",
+  "facLongDecMs": "-70.263056",
+  "lepcNm": "Cumberland County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2006-05-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Portland Fire Dept.",
+    "agencyPhoneNm": "2078748400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17496"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17496"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17496"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17496"
+    }
+  }
+}

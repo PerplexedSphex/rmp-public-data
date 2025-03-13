@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000105747,
+  "epaFacId": "100000251238",
+  "facNm": "TYSON PROCESSING SERVICES, INC.",
+  "parntCo1Nm": "TYSON FOODS, INC.",
+  "facDunsNu": 1190498,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1388 Production Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Bowling Green",
+  "facStateCd": "KY",
+  "countyNm": "WARREN",
+  "facZipCd": "42101",
+  "facZip4Cd": "",
+  "receiptDa": "2023-08-28T00:00:00.000",
+  "facLatDecMs": "37.03442",
+  "facLongDecMs": "-86.28882",
+  "lepcNm": "Warren County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Warren County LEPC",
+    "agencyPhoneNm": "2708462488",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105747"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105747"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105747"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105747"
+    }
+  }
+}

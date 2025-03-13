@@ -1,0 +1,101 @@
+{
+  "facilityId": 1000038672,
+  "epaFacId": "100000201462",
+  "facNm": "DuPont El Dorado Plant",
+  "parntCo1Nm": "E.I. duPont de Nemours & Co., Inc.",
+  "facDunsNu": 962720640,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "322 Southfield Cutoff",
+  "facStreet2Tx": null,
+  "facCityNm": "El Dorado",
+  "facStateCd": "AR",
+  "countyNm": "UNION",
+  "facZipCd": "71730",
+  "facZip4Cd": null,
+  "receiptDa": "2014-01-27T00:00:00.000",
+  "facLatDecMs": "33.110000",
+  "facLongDecMs": "-092.675000",
+  "lepcNm": "Union County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Union County, Arkansas LEPC",
+    "agencyPhoneNm": "8708641901",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038672"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinylidene fluoride [Ethene, 1,1-difluoro-]",
+          "casNu": "75-38-7",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/112"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethylene  [Ethene]",
+          "casNu": "74-85-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/95"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038672"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038672"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038672"
+    }
+  }
+}

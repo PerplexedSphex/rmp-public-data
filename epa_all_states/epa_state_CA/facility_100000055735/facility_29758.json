@@ -1,0 +1,79 @@
+{
+  "facilityId": 29758,
+  "epaFacId": "100000055735",
+  "facNm": "Campbell Soup Supply Company LLC -Sacramento Plant",
+  "parntCo1Nm": "Campbell Soup Company",
+  "facDunsNu": 1288042,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6200 Franklin Boulevard",
+  "facStreet2Tx": null,
+  "facCityNm": "Sacramento",
+  "facStateCd": "CA",
+  "countyNm": "SACRAMENTO",
+  "facZipCd": "95824",
+  "facZip4Cd": null,
+  "receiptDa": "2004-03-31T00:00:00.000",
+  "facLatDecMs": "38.510278",
+  "facLongDecMs": "-121.466944",
+  "lepcNm": "Sacramento HAZMAT Division",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2013-06-04T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sacramento Fire Department HAZMAT",
+    "agencyPhoneNm": "9162645266",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29758"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Specialty Canning ",
+          "naicsCd": "311422",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311422"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29758"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29758"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29758"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000016538,
+  "epaFacId": "100000192846",
+  "facNm": "Distribution Plus, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 69284123,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1000 Prince Georges Blvd",
+  "facStreet2Tx": null,
+  "facCityNm": "Upper Marlboro",
+  "facStateCd": "MD",
+  "countyNm": "PRINCE GEORGE'S",
+  "facZipCd": "20774",
+  "facZip4Cd": null,
+  "receiptDa": "2010-09-28T00:00:00.000",
+  "facLatDecMs": "38.873548",
+  "facLongDecMs": "-076.725563",
+  "lepcNm": "Prince George's County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-03-09T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Prince Georges County LEPC",
+    "agencyPhoneNm": "3018837753",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000016538"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000016538"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000016538"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000016538"
+    }
+  }
+}

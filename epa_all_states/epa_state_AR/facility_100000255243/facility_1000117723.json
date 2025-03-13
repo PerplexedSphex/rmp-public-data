@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000117723,
+  "epaFacId": "100000255243",
+  "facNm": "Welsco, Inc",
+  "parntCo1Nm": "nexAir, LLC",
+  "facDunsNu": 943169482,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "9006 Crystal Hill Rd.",
+  "facStreet2Tx": "",
+  "facCityNm": "North Little Rock",
+  "facStateCd": "AR",
+  "countyNm": "PULASKI",
+  "facZipCd": "72113",
+  "facZip4Cd": "",
+  "receiptDa": "2024-09-17T00:00:00.000",
+  "facLatDecMs": "34.812600",
+  "facLongDecMs": "-92.364610",
+  "lepcNm": "North Little Rock LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "NLR FD Station #4",
+    "agencyPhoneNm": "5016802624",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000117723"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000117723"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000117723"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000117723"
+    }
+  }
+}

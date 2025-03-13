@@ -1,0 +1,79 @@
+{
+  "facilityId": 1181,
+  "epaFacId": "100000013834",
+  "facNm": "Clark County Farmers Elevator Ammonia Facility",
+  "parntCo1Nm": null,
+  "facDunsNu": 24312605,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "West Highway 212",
+  "facStreet2Tx": null,
+  "facCityNm": "Clark",
+  "facStateCd": "SD",
+  "countyNm": "CLARK",
+  "facZipCd": "57225",
+  "facZip4Cd": null,
+  "receiptDa": "1999-05-26T00:00:00.000",
+  "facLatDecMs": "44.877972",
+  "facLongDecMs": "-97.745139",
+  "lepcNm": "Clark County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-05-28T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clark Fire Department",
+    "agencyPhoneNm": "6055323113",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1181"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Soil Preparation, Planting, and Cultivating ",
+          "naicsCd": "115112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/115112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1181"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1181"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1181"
+    }
+  }
+}

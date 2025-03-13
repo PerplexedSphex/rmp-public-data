@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000081442,
+  "epaFacId": "100000131252",
+  "facNm": "City of Columbia Water Treatment Plant",
+  "parntCo1Nm": "City of Columbia",
+  "facDunsNu": 156219560,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6851 West State Hwy K",
+  "facStreet2Tx": null,
+  "facCityNm": "Columbia",
+  "facStateCd": "MO",
+  "countyNm": "BOONE",
+  "facZipCd": "65203",
+  "facZip4Cd": "0000",
+  "receiptDa": "2020-09-15T19:26:15.000",
+  "facLatDecMs": "38.886500",
+  "facLongDecMs": "-092.442700",
+  "lepcNm": "Boone County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Columbia Fire Department",
+    "agencyPhoneNm": "5738747391",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081442"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081442"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081442"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081442"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 12391,
+  "epaFacId": "100000131779",
+  "facNm": "Matheson Gas Products, LLC",
+  "parntCo1Nm": "Nippon Sanso Corp",
+  "facDunsNu": 106236144,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "61 GROVE STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "GLOUCESTER",
+  "facStateCd": "MA",
+  "countyNm": "ESSEX",
+  "facZipCd": "01930",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "42.621556",
+  "facLongDecMs": "-70.668194",
+  "lepcNm": "Gloucester LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-06-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "fire department",
+    "agencyPhoneNm": "9782832424",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12391"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Arsine",
+          "casNu": "7784-42-1",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/67"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12391"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12391"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12391"
+    }
+  }
+}

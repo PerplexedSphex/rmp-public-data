@@ -1,0 +1,79 @@
+{
+  "facilityId": 54998,
+  "epaFacId": "100000131047",
+  "facNm": "Allegheny Ludlum Corporation Vandergrift Facility",
+  "parntCo1Nm": "Allegheny Technologies Incorporated",
+  "facDunsNu": 4378501,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "130 Lincoln Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Vandergrift",
+  "facStateCd": "PA",
+  "countyNm": "WESTMORELAND",
+  "facZipCd": "15690",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-23T00:00:00.000",
+  "facLatDecMs": "40.600000",
+  "facLongDecMs": "-079.567778",
+  "lepcNm": "Westmoreland County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2013-04-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Westmoreland Count Emergency Mgmnt",
+    "agencyPhoneNm": "7248347007",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54998"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Iron and Steel Mills",
+          "naicsCd": "331111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54998"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54998"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54998"
+    }
+  }
+}

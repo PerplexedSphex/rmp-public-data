@@ -1,0 +1,90 @@
+{
+  "facilityId": 12666,
+  "epaFacId": "100000133125",
+  "facNm": "FARMER JOHN MEATS",
+  "parntCo1Nm": "CLOUGHERTY PACKING COMPANY",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3049 EAST VERNON AVENUE",
+  "facStreet2Tx": null,
+  "facCityNm": "VERNON",
+  "facStateCd": "CA",
+  "countyNm": "LOS ANGELES",
+  "facZipCd": "90058",
+  "facZip4Cd": "0870",
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "34.001111",
+  "facLongDecMs": "-118.21",
+  "lepcNm": "California Region 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2023-03-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department of City of Vernon",
+    "agencyPhoneNm": "6265834821",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12666"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12666"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12666"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12666"
+    }
+  }
+}

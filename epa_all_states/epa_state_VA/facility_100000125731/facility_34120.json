@@ -1,0 +1,90 @@
+{
+  "facilityId": 34120,
+  "epaFacId": "100000125731",
+  "facNm": "FMC Wastewater Treatment Plant",
+  "parntCo1Nm": "Spotsylvania County Department of Utilities",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "11801 Capital Lane",
+  "facStreet2Tx": null,
+  "facCityNm": "Fredericksburg",
+  "facStateCd": "VA",
+  "countyNm": "SPOTSYLVANIA",
+  "facZipCd": "22408",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "38.281944",
+  "facLongDecMs": "-077.445000",
+  "lepcNm": "Spotsylvania County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2010-05-26T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Virginia Dept of Emergency Services",
+    "agencyPhoneNm": "8048976574",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34120"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34120"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34120"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34120"
+    }
+  }
+}

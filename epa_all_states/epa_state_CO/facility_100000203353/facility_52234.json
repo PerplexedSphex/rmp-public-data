@@ -1,0 +1,79 @@
+{
+  "facilityId": 52234,
+  "epaFacId": "100000203353",
+  "facNm": "Robinson Dairy, LLC",
+  "parntCo1Nm": "Dean West, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2401 W. 6th Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Denver",
+  "facStateCd": "CO",
+  "countyNm": "DENVER",
+  "facZipCd": "80204",
+  "facZip4Cd": null,
+  "receiptDa": "2008-07-30T00:00:00.000",
+  "facLatDecMs": "39.726500",
+  "facLongDecMs": "-105.016361",
+  "lepcNm": "Denver LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-03-25T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Denver Fire Department",
+    "agencyPhoneNm": "7209133570",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52234"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52234"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52234"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52234"
+    }
+  }
+}

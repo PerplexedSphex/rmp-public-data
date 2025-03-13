@@ -1,0 +1,79 @@
+{
+  "facilityId": 16452,
+  "epaFacId": "100000139307",
+  "facNm": "Miami Products",
+  "parntCo1Nm": null,
+  "facDunsNu": 4279378,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "520 Lonoke Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Dayton",
+  "facStateCd": "OH",
+  "countyNm": "MONTGOMERY",
+  "facZipCd": "45403",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "39.758889",
+  "facLongDecMs": "-84.195278",
+  "lepcNm": "Greene/Montgomery County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2001-10-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dayton Fire Department",
+    "agencyPhoneNm": "9372249241",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16452"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Unclassified Establishment",
+          "naicsCd": "99999",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/99999"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16452"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16452"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16452"
+    }
+  }
+}

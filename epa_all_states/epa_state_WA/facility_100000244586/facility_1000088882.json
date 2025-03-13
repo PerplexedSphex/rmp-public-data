@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000088882,
+  "epaFacId": "100000244586",
+  "facNm": "Sysco Seattle",
+  "parntCo1Nm": null,
+  "facDunsNu": 835568965,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "22820 54th Ave S",
+  "facStreet2Tx": null,
+  "facCityNm": "Kent",
+  "facStateCd": "WA",
+  "countyNm": "KING",
+  "facZipCd": "98032",
+  "facZip4Cd": null,
+  "receiptDa": "2020-07-22T13:53:26.000",
+  "facLatDecMs": "47.395374",
+  "facLongDecMs": "-122.264146",
+  "lepcNm": "King County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Puget Sound Regional Fire Authority",
+    "agencyPhoneNm": "2538564300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088882"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Line Grocery Merchant Wholesalers ",
+          "naicsCd": "42441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088882"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088882"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088882"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "facilityId": 10571,
+  "epaFacId": "100000058803",
+  "facNm": "CertainTeed, Kansas City Plant",
+  "parntCo1Nm": "CertainTeed Corporation",
+  "facDunsNu": 41146473,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "103 Funston Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Kansas City",
+  "facStateCd": "KS",
+  "countyNm": "WYANDOTTE",
+  "facZipCd": "66115",
+  "facZip4Cd": "1309",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "39.142778",
+  "facLongDecMs": "-94.616333",
+  "lepcNm": "Wyandotte County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "1999-11-29T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LERC & Kansas State Fire Dept.",
+    "agencyPhoneNm": "9135737300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10571"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Mineral Wool Manufacturing ",
+          "naicsCd": "327993",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/327993"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10571"
+        }
+      }
+    },
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Mineral Wool Manufacturing ",
+          "naicsCd": "327993",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/327993"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10571"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10571"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10571"
+    }
+  }
+}

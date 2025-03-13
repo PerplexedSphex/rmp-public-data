@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000058368,
+  "epaFacId": "100000005503",
+  "facNm": "Meijer Central Kitchen",
+  "parntCo1Nm": "Meijer, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "536 North Main Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Middlebury",
+  "facStateCd": "IN",
+  "countyNm": "ELKHART",
+  "facZipCd": "46540",
+  "facZip4Cd": "8612",
+  "receiptDa": "2016-06-28T00:00:00.000",
+  "facLatDecMs": "41.696047",
+  "facLongDecMs": "-085.690628",
+  "lepcNm": "Elkhart County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Elkhart County LEPC",
+    "agencyPhoneNm": "5745334151",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058368"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058368"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058368"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058368"
+    }
+  }
+}

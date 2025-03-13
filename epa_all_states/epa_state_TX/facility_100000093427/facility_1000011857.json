@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000011857,
+  "epaFacId": "100000093427",
+  "facNm": "Stillhouse Wastewater Treatment Plant",
+  "parntCo1Nm": "City of Gatesville, Texas",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "402 Stillhouse Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Gatesville",
+  "facStateCd": "TX",
+  "countyNm": "CORYELL",
+  "facZipCd": "76528",
+  "facZip4Cd": null,
+  "receiptDa": "2009-12-04T00:00:00.000",
+  "facLatDecMs": "31.2643",
+  "facLongDecMs": "-97.41861",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Gatesville Volunteer Fire Dept.",
+    "agencyPhoneNm": "2548656416",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011857"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Alkalies and Chlorine Manufacturing",
+          "naicsCd": "325181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011857"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011857"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011857"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 8304,
+  "epaFacId": "100000104184",
+  "facNm": "Brown Water Treatment Plant",
+  "parntCo1Nm": "City of Durham Dept. of Environmental Resources",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1615 Infinity Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Durham",
+  "facStateCd": "NC",
+  "countyNm": "DURHAM",
+  "facZipCd": "27712",
+  "facZip4Cd": "9566",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "36.090667",
+  "facLongDecMs": "-78.872556",
+  "lepcNm": "Durham County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2003-07-10T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Durham Fire Dept/HAZMAT",
+    "agencyPhoneNm": "9195604242",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8304"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8304"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8304"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8304"
+    }
+  }
+}

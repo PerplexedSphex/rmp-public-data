@@ -1,0 +1,79 @@
+{
+  "facilityId": 31958,
+  "epaFacId": "100000096344",
+  "facNm": "The Eggo Company",
+  "parntCo1Nm": "Kellogg Company",
+  "facDunsNu": 5356209,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "585 Morrison Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Rossville",
+  "facStateCd": "TN",
+  "countyNm": "FAYETTE",
+  "facZipCd": "38066",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-15T00:00:00.000",
+  "facLatDecMs": "35.045833",
+  "facLongDecMs": "-089.547778",
+  "lepcNm": "Fayette County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2024-11-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rossville Fire Department",
+    "agencyPhoneNm": "9018534681",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31958"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31958"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31958"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31958"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "facilityId": 1000105458,
+  "epaFacId": "100000055502",
+  "facNm": "West Branch Gas Plant",
+  "parntCo1Nm": "Cobra Oil & Gas Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2251 Simmons Road",
+  "facStreet2Tx": "",
+  "facCityNm": "West Branch",
+  "facStateCd": "MI",
+  "countyNm": "OGEMAW",
+  "facZipCd": "48661",
+  "facZip4Cd": "",
+  "receiptDa": "2023-06-01T00:00:00.000",
+  "facLatDecMs": "44.269006",
+  "facLongDecMs": "-84.178889",
+  "lepcNm": "Ogemaw County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ogemaw Fire Department - W.Branch",
+    "agencyPhoneNm": "9893453411",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105458"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Natural Gas Extraction ",
+          "naicsCd": "21113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Ethane",
+              "casNu": "74-84-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/94"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Propane",
+              "casNu": "74-98-6",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Butane",
+              "casNu": "106-97-8",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Pentane",
+              "casNu": "109-66-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105458"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105458"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105458"
+    }
+  }
+}

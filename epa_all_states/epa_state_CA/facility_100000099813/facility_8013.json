@@ -1,0 +1,79 @@
+{
+  "facilityId": 8013,
+  "epaFacId": "100000099813",
+  "facNm": "El Dorado Hills Water Treatment Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Francisco Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "El Dorado Hills",
+  "facStateCd": "CA",
+  "countyNm": "EL DORADO",
+  "facZipCd": "95762",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "38.723333",
+  "facLongDecMs": "-121.086667",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-11-03T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "El Dorado Hills Fire Department",
+    "agencyPhoneNm": "9169336623",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8013"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8013"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8013"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8013"
+    }
+  }
+}

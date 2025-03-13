@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000105308,
+  "epaFacId": "100000250998",
+  "facNm": "Linde Gas and Equipment Inc. Terrell, TX",
+  "parntCo1Nm": "Linde Inc.",
+  "facDunsNu": 42845636,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "421 Apache Trail",
+  "facStreet2Tx": "",
+  "facCityNm": "Terrell",
+  "facStateCd": "TX",
+  "countyNm": "KAUFMAN",
+  "facZipCd": "75160",
+  "facZip4Cd": "",
+  "receiptDa": "2023-05-23T00:00:00.000",
+  "facLatDecMs": "32.728086",
+  "facLongDecMs": "-96.325246",
+  "lepcNm": "Kaufman County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Terrell Fire Department",
+    "agencyPhoneNm": "9725516650",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105308"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Merchant Wholesalers ",
+          "naicsCd": "42469",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42469"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen chloride (anhydrous) [Hydrochloric acid]",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/54"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Trichlorosilane  [Silane, trichloro-]",
+          "casNu": "10025-78-2",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/153"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105308"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105308"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105308"
+    }
+  }
+}

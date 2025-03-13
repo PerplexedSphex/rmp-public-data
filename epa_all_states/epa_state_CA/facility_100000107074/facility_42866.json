@@ -1,0 +1,79 @@
+{
+  "facilityId": 42866,
+  "epaFacId": "100000107074",
+  "facNm": "S 30 Natomas Sewage Pumping Station",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "East Side of Airport Rd",
+  "facStreet2Tx": "just North of San Juan Rd",
+  "facCityNm": "Sacramento",
+  "facStateCd": "CA",
+  "countyNm": "SACRAMENTO",
+  "facZipCd": "95834",
+  "facZip4Cd": null,
+  "receiptDa": "2005-05-17T00:00:00.000",
+  "facLatDecMs": "38.629333",
+  "facLongDecMs": "-121.513139",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-10-14T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sac. County EMD, HazMat Div",
+    "agencyPhoneNm": "9168758550",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42866"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42866"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42866"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42866"
+    }
+  }
+}

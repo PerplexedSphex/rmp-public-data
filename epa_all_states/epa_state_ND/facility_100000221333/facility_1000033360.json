@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000033360,
+  "epaFacId": "100000221333",
+  "facNm": "Red Wing Creek Gas Plant II",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "20 miles S of Arnegard, ND on CR 27",
+  "facStreet2Tx": null,
+  "facCityNm": "Watford City",
+  "facStateCd": "ND",
+  "countyNm": "MCKENZIE",
+  "facZipCd": "58854",
+  "facZip4Cd": null,
+  "receiptDa": "2013-05-24T00:00:00.000",
+  "facLatDecMs": "47.615304",
+  "facLongDecMs": "-103.538509",
+  "lepcNm": "Mckenzie County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "McKenzie Co. Emergency Management",
+    "agencyPhoneNm": "7014446853",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033360"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033360"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033360"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033360"
+    }
+  }
+}

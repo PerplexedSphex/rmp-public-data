@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001046,
+  "epaFacId": "100000000330",
+  "facNm": "Helena Chemical Company - Canby",
+  "parntCo1Nm": "Helena Chemical Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "120 First St. West",
+  "facStreet2Tx": null,
+  "facCityNm": "Canby",
+  "facStateCd": "MN",
+  "countyNm": "YELLOW MEDICINE",
+  "facZipCd": "56220",
+  "facZip4Cd": null,
+  "receiptDa": "2009-05-14T00:00:00.000",
+  "facLatDecMs": "44.708917",
+  "facLongDecMs": "-096.277167",
+  "lepcNm": "Yellow Medicine LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Fire Dept (911)Yellow Medicine LEPC",
+    "agencyPhoneNm": "3205643134",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001046"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Merchant Wholesalers ",
+          "naicsCd": "42491",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42491"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001046"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001046"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001046"
+    }
+  }
+}

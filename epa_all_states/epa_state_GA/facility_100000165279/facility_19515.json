@@ -1,0 +1,79 @@
+{
+  "facilityId": 19515,
+  "epaFacId": "100000165279",
+  "facNm": "Waycross Water Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "512 Alice Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Waycross",
+  "facStateCd": "GA",
+  "countyNm": "WARE",
+  "facZipCd": "31501",
+  "facZip4Cd": null,
+  "receiptDa": "2000-01-07T00:00:00.000",
+  "facLatDecMs": "31.217306",
+  "facLongDecMs": "82.360861",
+  "lepcNm": "GA Emergency Management Agency",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2008-07-28T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Waycross Fire Department",
+    "agencyPhoneNm": "9122872937",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19515"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19515"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19515"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19515"
+    }
+  }
+}

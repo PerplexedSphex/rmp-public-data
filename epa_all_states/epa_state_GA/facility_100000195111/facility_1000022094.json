@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000022094,
+  "epaFacId": "100000195111",
+  "facNm": "RCS-Perry",
+  "parntCo1Nm": "Richmond Cold Storage Company, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "240A Hwy 247 Spur",
+  "facStreet2Tx": null,
+  "facCityNm": "Perry",
+  "facStateCd": "GA",
+  "countyNm": "HOUSTON",
+  "facZipCd": "31069",
+  "facZip4Cd": null,
+  "receiptDa": "2011-05-05T00:00:00.000",
+  "facLatDecMs": "32.443417",
+  "facLongDecMs": "-083.630389",
+  "lepcNm": "Houston County Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2021-02-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Houston County Fire Department",
+    "agencyPhoneNm": "9129296966",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022094"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022094"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022094"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022094"
+    }
+  }
+}

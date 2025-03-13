@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000109904,
+  "epaFacId": "100000252843",
+  "facNm": "Milner Injection",
+  "parntCo1Nm": "CEA Twin Falls, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "South 1200 W",
+  "facStreet2Tx": "",
+  "facCityNm": "Murtaugh",
+  "facStateCd": "ID",
+  "countyNm": "TWIN FALLS",
+  "facZipCd": "83344",
+  "facZip4Cd": "",
+  "receiptDa": "2024-01-26T00:00:00.000",
+  "facLatDecMs": "42.482",
+  "facLongDecMs": "-114.030",
+  "lepcNm": "Twin Falls County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Burley Fire Department",
+    "agencyPhoneNm": "2088787371",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000109904"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000109904"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000109904"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000109904"
+    }
+  }
+}

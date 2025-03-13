@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000072501,
+  "epaFacId": "100000221823",
+  "facNm": "Indianapolis Refinery",
+  "parntCo1Nm": "Heritage-Crystal Clean, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3970 W. 10th St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Indianapolis",
+  "facStateCd": "IN",
+  "countyNm": "MARION",
+  "facZipCd": "46222",
+  "facZip4Cd": null,
+  "receiptDa": "2018-12-18T18:28:26.000",
+  "facLatDecMs": "39.781162",
+  "facLongDecMs": "-86.225313",
+  "lepcNm": "Marion County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Speedway Fire Department",
+    "agencyPhoneNm": "3172464300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072501"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Petroleum and Coal Products Manufacturing",
+          "naicsCd": "32419",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32419"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072501"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072501"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072501"
+    }
+  }
+}

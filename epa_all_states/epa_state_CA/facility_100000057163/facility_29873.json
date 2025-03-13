@@ -1,0 +1,79 @@
+{
+  "facilityId": 29873,
+  "epaFacId": "100000057163",
+  "facNm": "General Mills - Bakersfield",
+  "parntCo1Nm": "General Mills, Inc.",
+  "facDunsNu": 783435258,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6800 McDivitt Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Bakersfield",
+  "facStateCd": "CA",
+  "countyNm": "KERN",
+  "facZipCd": "93313",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-09T00:00:00.000",
+  "facLatDecMs": "35.314722",
+  "facLongDecMs": "-119.079444",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2011-02-07T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bakersfield City Fire Department",
+    "agencyPhoneNm": "6613263979",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29873"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Mixes and Dough Manufacturing from Purchased Flour",
+          "naicsCd": "311822",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311822"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29873"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29873"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29873"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 50318,
+  "epaFacId": "100000076106",
+  "facNm": "Rohm and Haas Philadelphia Plant",
+  "parntCo1Nm": "Rohm and Haas Company",
+  "facDunsNu": 2292050,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5000 Richmond Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Philadelphia",
+  "facStateCd": "PA",
+  "countyNm": "PHILADELPHIA",
+  "facZipCd": "19137",
+  "facZip4Cd": null,
+  "receiptDa": "2007-12-07T00:00:00.000",
+  "facLatDecMs": "40.005556",
+  "facLongDecMs": "-075.063889",
+  "lepcNm": "Philadelphia LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2012-01-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Philadelphia LEPC",
+    "agencyPhoneNm": "2156861141",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50318"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+          "naicsCd": "32532",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32532"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Nitric acid (conc 80% or greater)",
+          "casNu": "7697-37-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/58"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50318"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50318"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50318"
+    }
+  }
+}

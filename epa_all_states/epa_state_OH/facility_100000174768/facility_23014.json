@@ -1,0 +1,79 @@
+{
+  "facilityId": 23014,
+  "epaFacId": "100000174768",
+  "facNm": "SIFCO Forge Group, Inc.",
+  "parntCo1Nm": "SIFCO Industries, Inc.",
+  "facDunsNu": 4154407,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "970 East 64th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Cleveland",
+  "facStateCd": "OH",
+  "countyNm": "CUYAHOGA",
+  "facZipCd": "44103",
+  "facZip4Cd": null,
+  "receiptDa": "2001-03-16T00:00:00.000",
+  "facLatDecMs": "41.526111",
+  "facLongDecMs": "-81.647222",
+  "lepcNm": "Cuyahoga County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2002-05-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department",
+    "agencyPhoneNm": "2166646350",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23014"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Iron and Steel Forging ",
+          "naicsCd": "332111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23014"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23014"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23014"
+    }
+  }
+}

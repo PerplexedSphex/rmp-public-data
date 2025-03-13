@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000088566,
+  "epaFacId": "100000057733",
+  "facNm": "Elliott Company Cryodynamic Products",
+  "parntCo1Nm": "Elliott Group",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "350 Salomon Circle",
+  "facStreet2Tx": null,
+  "facCityNm": "Sparks",
+  "facStateCd": "NV",
+  "countyNm": "WASHOE",
+  "facZipCd": "89434",
+  "facZip4Cd": "6635",
+  "receiptDa": "2020-07-01T00:00:00.000",
+  "facLatDecMs": "39.5309",
+  "facLongDecMs": "-119.7001",
+  "lepcNm": "Washoe County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-09-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sparks Fire Depatment",
+    "agencyPhoneNm": "7753531659",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088566"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pump and Compressor Manufacturing",
+          "naicsCd": "33391",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33391"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088566"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088566"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088566"
+    }
+  }
+}

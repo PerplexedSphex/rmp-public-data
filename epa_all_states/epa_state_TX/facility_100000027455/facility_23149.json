@@ -1,0 +1,79 @@
+{
+  "facilityId": 23149,
+  "epaFacId": "100000027455",
+  "facNm": "Samsung Austin Semiconductor",
+  "parntCo1Nm": null,
+  "facDunsNu": 701623222,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "12100 Samsung Boulevard",
+  "facStreet2Tx": null,
+  "facCityNm": "Austin",
+  "facStateCd": "TX",
+  "countyNm": "TRAVIS",
+  "facZipCd": "78754",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-11T00:00:00.000",
+  "facLatDecMs": "30.375",
+  "facLongDecMs": "-97.631389",
+  "lepcNm": "Travis County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "1999-10-18T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Austin Fire Department",
+    "agencyPhoneNm": "5124775784",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23149"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Semiconductor and Other Electronic Component Manufacturing",
+          "naicsCd": "33441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23149"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23149"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23149"
+    }
+  }
+}

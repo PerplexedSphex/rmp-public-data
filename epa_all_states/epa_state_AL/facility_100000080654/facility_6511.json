@@ -1,0 +1,88 @@
+{
+  "facilityId": 6511,
+  "epaFacId": "100000080654",
+  "facNm": "Wise Alloys LLC - Alabama Reclamation Plant",
+  "parntCo1Nm": "Wise Metals Group LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1009 Ford Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Muscle Shoals",
+  "facStateCd": "AL",
+  "countyNm": "COLBERT",
+  "facZipCd": "35661",
+  "facZip4Cd": "1119",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "34.773889",
+  "facLongDecMs": "-87.594167",
+  "lepcNm": "Colbert County Ems",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2007-10-22T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Colbert County EMA",
+    "agencyPhoneNm": "2563868558",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6511"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Aluminum Sheet, Plate, and Foil Manufacturing ",
+          "naicsCd": "331315",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331315"
+            }
+          }
+        },
+        {
+          "description": "Secondary Smelting and Alloying of Aluminum ",
+          "naicsCd": "331314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6511"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6511"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6511"
+    }
+  }
+}

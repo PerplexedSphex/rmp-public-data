@@ -1,0 +1,79 @@
+{
+  "facilityId": 5792,
+  "epaFacId": "100000073886",
+  "facNm": "Copeland Beverage Group, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 151588514,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "231 E. 23rd St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Los Angeles",
+  "facStateCd": "CA",
+  "countyNm": "LOS ANGELES",
+  "facZipCd": "90011",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "34.026694",
+  "facLongDecMs": "-118.265472",
+  "lepcNm": "California Region 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2000-04-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Los Angeles City Fire Department",
+    "agencyPhoneNm": "2134858994",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5792"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5792"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5792"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5792"
+    }
+  }
+}

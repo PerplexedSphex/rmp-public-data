@@ -1,0 +1,90 @@
+{
+  "facilityId": 7071,
+  "epaFacId": "100000088308",
+  "facNm": "AlliedSignal, Inc. - Buffalo Research Laboratory",
+  "parntCo1Nm": "AlliedSignal, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "20 Peabody Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Buffalo",
+  "facStateCd": "NY",
+  "countyNm": "ERIE",
+  "facZipCd": "14210",
+  "facZip4Cd": "1523",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "42.868611",
+  "facLongDecMs": "-78.841111",
+  "lepcNm": "Erie County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-04-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Erie County LEPC",
+    "agencyPhoneNm": "7168586578",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7071"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Boron trifluoride  [Borane, trifluoro-]",
+          "casNu": "7637-07-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/52"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl ether  [Ethane, 1,1'-oxybis-]",
+          "casNu": "60-29-7",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/92"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7071"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7071"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7071"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000023919,
+  "epaFacId": "100000215732",
+  "facNm": "Cambria Winery",
+  "parntCo1Nm": "Kendall Jackson",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "5475 Chardonnay Ln",
+  "facStreet2Tx": null,
+  "facCityNm": "Santa Maria",
+  "facStateCd": "CA",
+  "countyNm": "SANTA BARBARA",
+  "facZipCd": "93454",
+  "facZip4Cd": null,
+  "receiptDa": "2011-09-29T00:00:00.000",
+  "facLatDecMs": "34.877225",
+  "facLongDecMs": "-120.260036",
+  "lepcNm": "California Region 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-12-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Santa Barbara County Fire Departmen",
+    "agencyPhoneNm": "8056814044",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023919"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Wineries",
+          "naicsCd": "31213",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31213"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023919"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023919"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023919"
+    }
+  }
+}

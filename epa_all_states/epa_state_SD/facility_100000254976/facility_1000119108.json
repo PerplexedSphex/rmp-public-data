@@ -1,0 +1,101 @@
+{
+  "facilityId": 1000119108,
+  "epaFacId": "100000254976",
+  "facNm": "Marshall West",
+  "parntCo1Nm": "",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "10464 445th Ave.",
+  "facStreet2Tx": "",
+  "facCityNm": "Veblen",
+  "facStateCd": "SD",
+  "countyNm": "MARSHALL",
+  "facZipCd": "57270",
+  "facZip4Cd": "",
+  "receiptDa": "2025-01-06T00:00:00.000",
+  "facLatDecMs": "45.868949",
+  "facLongDecMs": "-97.310255",
+  "lepcNm": "Marshall County Emer Mgmt Dept",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Marshall County Emergency Mgmt Dpt",
+    "agencyPhoneNm": "6054482339",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119108"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Biomass Electric Power Generation ",
+          "naicsCd": "221117",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221117"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Methane",
+              "casNu": "74-82-8",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119108"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119108"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119108"
+    }
+  }
+}

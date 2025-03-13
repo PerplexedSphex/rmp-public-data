@@ -1,0 +1,79 @@
+{
+  "facilityId": 38909,
+  "epaFacId": "100000120692",
+  "facNm": "Allegheny Rodney - New Bedford Facility",
+  "parntCo1Nm": "Allegheny Technologies Incorporated",
+  "facDunsNu": 1067941,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1357 East Rodney French Boulevard",
+  "facStreet2Tx": null,
+  "facCityNm": "New Bedford",
+  "facStateCd": "MA",
+  "countyNm": "BRISTOL",
+  "facZipCd": "02742",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-24T00:00:00.000",
+  "facLatDecMs": "41.603889",
+  "facLongDecMs": "-070.904444",
+  "lepcNm": "New Bedford LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2006-10-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "New Bedford Emergency Mgmt",
+    "agencyPhoneNm": "5089916386",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38909"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Iron and Steel Mills",
+          "naicsCd": "331111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38909"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38909"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38909"
+    }
+  }
+}

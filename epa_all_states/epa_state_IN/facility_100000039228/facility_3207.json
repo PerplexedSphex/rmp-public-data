@@ -1,0 +1,79 @@
+{
+  "facilityId": 3207,
+  "epaFacId": "100000039228",
+  "facNm": "Bayer Miles Avenue Complex",
+  "parntCo1Nm": "Bayer Corporation",
+  "facDunsNu": 878011238,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1884 Miles Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Elkhart",
+  "facStateCd": "IN",
+  "countyNm": "ELKHART",
+  "facZipCd": "46514",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-16T00:00:00.000",
+  "facLatDecMs": "41.7",
+  "facLongDecMs": "-85.983333",
+  "lepcNm": "Elkhart County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2003-11-18T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Elkhart City Fire Dept/HAZMAT Team",
+    "agencyPhoneNm": "2192932175",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3207"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pharmaceutical and Medicine Manufacturing",
+          "naicsCd": "32541",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32541"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3207"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3207"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3207"
+    }
+  }
+}

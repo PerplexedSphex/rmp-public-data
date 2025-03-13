@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000054744,
+  "epaFacId": "100000169499",
+  "facNm": "Tiverton Power, LLC",
+  "parntCo1Nm": "Cogentrix Energy Power Management, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "304 Progress Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Tiverton",
+  "facStateCd": "RI",
+  "countyNm": "NEWPORT",
+  "facZipCd": "02878",
+  "facZip4Cd": "3126",
+  "receiptDa": "2016-01-04T00:00:00.000",
+  "facLatDecMs": "41.641891",
+  "facLongDecMs": "-71.170204",
+  "lepcNm": "District 5",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Tiverton Fire Department",
+    "agencyPhoneNm": "4016256707",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054744"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054744"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054744"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054744"
+    }
+  }
+}

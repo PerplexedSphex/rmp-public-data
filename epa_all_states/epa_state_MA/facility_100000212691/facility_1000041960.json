@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000041960,
+  "epaFacId": "100000212691",
+  "facNm": "INEOS Melamines LLC",
+  "parntCo1Nm": "INEOS Industries Holdings Limited",
+  "facDunsNu": 869261094,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "730 B Worcester Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Springfield",
+  "facStateCd": "MA",
+  "countyNm": "HAMPDEN",
+  "facZipCd": "01151",
+  "facZip4Cd": null,
+  "receiptDa": "2016-06-24T00:00:00.000",
+  "facLatDecMs": "42.159065",
+  "facLongDecMs": "-72.517605",
+  "lepcNm": "Springfield LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Springfield Emergency",
+    "agencyPhoneNm": "4137876720",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041960"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Paint and Coating Manufacturing",
+          "naicsCd": "32551",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32551"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041960"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041960"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041960"
+    }
+  }
+}

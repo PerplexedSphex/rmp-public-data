@@ -1,0 +1,79 @@
+{
+  "facilityId": 11770,
+  "epaFacId": "100000123966",
+  "facNm": "Newtown Creek Water Pollution Control Plant",
+  "parntCo1Nm": "New York City Dept. of Environmental Protection",
+  "facDunsNu": 155563711,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "301 Greenpoint Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Brooklyn",
+  "facStateCd": "NY",
+  "countyNm": "KINGS",
+  "facZipCd": "11222",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "40.732778",
+  "facLongDecMs": "-73.947778",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2004-06-23T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department of New York",
+    "agencyPhoneNm": "7186226900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11770"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11770"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11770"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11770"
+    }
+  }
+}

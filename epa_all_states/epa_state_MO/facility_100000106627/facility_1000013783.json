@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000013783,
+  "epaFacId": "100000106627",
+  "facNm": "Arnette Limited, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 804731362,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "8905 S. Wollard Blvd",
+  "facStreet2Tx": null,
+  "facCityNm": "Richmond",
+  "facStateCd": "MO",
+  "countyNm": "RAY",
+  "facZipCd": "64085",
+  "facZip4Cd": null,
+  "receiptDa": "2010-06-15T00:00:00.000",
+  "facLatDecMs": "39.245833",
+  "facLongDecMs": "-093.945833",
+  "lepcNm": "Ray County Mid America LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Richmond Fire Department",
+    "agencyPhoneNm": "8167762121",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013783"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Epichlorohydrin  [Oxirane, (chloromethyl)-]",
+          "casNu": "106-89-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/21"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013783"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013783"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013783"
+    }
+  }
+}

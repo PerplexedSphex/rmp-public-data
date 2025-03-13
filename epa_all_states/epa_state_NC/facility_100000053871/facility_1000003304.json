@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000003304,
+  "epaFacId": "100000053871",
+  "facNm": "United States Cold Storage, Warsaw",
+  "parntCo1Nm": "United States Cold Storage, Inc.",
+  "facDunsNu": 159754100,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "240 Bruce Costin Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Warsaw",
+  "facStateCd": "NC",
+  "countyNm": "DUPLIN",
+  "facZipCd": "28398",
+  "facZip4Cd": "0627",
+  "receiptDa": "2009-06-16T00:00:00.000",
+  "facLatDecMs": "35.013611",
+  "facLongDecMs": "-078.111944",
+  "lepcNm": "Duplin County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Warsaw Fire Department",
+    "agencyPhoneNm": "9102934034",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003304"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003304"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003304"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003304"
+    }
+  }
+}

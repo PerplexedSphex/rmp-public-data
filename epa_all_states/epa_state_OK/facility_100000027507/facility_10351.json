@@ -1,0 +1,151 @@
+{
+  "facilityId": 10351,
+  "epaFacId": "100000027507",
+  "facNm": "Mustang Gas Plant",
+  "parntCo1Nm": "Conoco Inc.",
+  "facDunsNu": 48008726,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3 mi east of Tuttle and 1 mi west",
+  "facStreet2Tx": null,
+  "facCityNm": "Tuttle",
+  "facStateCd": "OK",
+  "countyNm": "GRADY",
+  "facZipCd": "73089",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-11T00:00:00.000",
+  "facLatDecMs": "35.305833",
+  "facLongDecMs": "-97.763889",
+  "lepcNm": "Grady County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-07-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tuttle Fire Department",
+    "agencyPhoneNm": "4053814465",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10351"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Isopentane  [Butane, 2-methyl-]",
+              "casNu": "78-78-4",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/115"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Ethane",
+              "casNu": "74-84-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/94"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Propane",
+              "casNu": "74-98-6",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Isobutane  [Propane, 2-methyl]",
+              "casNu": "75-28-5",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/107"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Butane",
+              "casNu": "106-97-8",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Pentane",
+              "casNu": "109-66-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10351"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10351"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10351"
+    }
+  }
+}

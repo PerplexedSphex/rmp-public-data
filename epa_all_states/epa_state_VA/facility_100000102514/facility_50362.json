@@ -1,0 +1,79 @@
+{
+  "facilityId": 50362,
+  "epaFacId": "100000102514",
+  "facNm": "RCS - Airport",
+  "parntCo1Nm": "Richmond Cold Storage, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5501 Corrugated Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Sandston",
+  "facStateCd": "VA",
+  "countyNm": "HENRICO",
+  "facZipCd": "23150",
+  "facZip4Cd": null,
+  "receiptDa": "2007-12-12T00:00:00.000",
+  "facLatDecMs": "37.508278",
+  "facLongDecMs": "-077.343861",
+  "lepcNm": "Henrico County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Henrico County LEPC",
+    "agencyPhoneNm": "8042852100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50362"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50362"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50362"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50362"
+    }
+  }
+}

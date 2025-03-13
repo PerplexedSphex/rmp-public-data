@@ -1,0 +1,79 @@
+{
+  "facilityId": 28569,
+  "epaFacId": "100000183099",
+  "facNm": "Helena Chemical Company, Buckeye AZ",
+  "parntCo1Nm": "Helena Chemical Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "30826 South Old Highway 80",
+  "facStreet2Tx": null,
+  "facCityNm": "Buckeye",
+  "facStateCd": "AZ",
+  "countyNm": "MARICOPA",
+  "facZipCd": "85326",
+  "facZip4Cd": null,
+  "receiptDa": "2003-06-24T00:00:00.000",
+  "facLatDecMs": "33.163333",
+  "facLongDecMs": "-112.683611",
+  "lepcNm": "Maricopa County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2008-01-10T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Buckeye Valley Rural Fire Dept.",
+    "agencyPhoneNm": "6233865906",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28569"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28569"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28569"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28569"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000047138,
+  "epaFacId": "100000030968",
+  "facNm": "City of Fergus Falls Water Treatment Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": " 1024 Water Plant Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Fergus Falls",
+  "facStateCd": "MN",
+  "countyNm": "OTTER TAIL",
+  "facZipCd": "56537",
+  "facZip4Cd": null,
+  "receiptDa": "2014-10-21T00:00:00.000",
+  "facLatDecMs": "46.292893",
+  "facLongDecMs": "-96.041041",
+  "lepcNm": "Fergus Falls LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Fergus Falls Fire Department",
+    "agencyPhoneNm": "2183325551",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047138"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047138"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047138"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047138"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 6367,
+  "epaFacId": "100000084623",
+  "facNm": "Bowling Green Water Treatment Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "16568 Pike 282",
+  "facStreet2Tx": null,
+  "facCityNm": "Bowling Green",
+  "facStateCd": "MO",
+  "countyNm": "PIKE",
+  "facZipCd": "63334",
+  "facZip4Cd": "3342",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "39.344361",
+  "facLongDecMs": "-91.171111",
+  "lepcNm": "Pike County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-03-04T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pike County",
+    "agencyPhoneNm": "5733245447",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6367"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Alkalies and Chlorine Manufacturing",
+          "naicsCd": "325181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6367"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6367"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6367"
+    }
+  }
+}

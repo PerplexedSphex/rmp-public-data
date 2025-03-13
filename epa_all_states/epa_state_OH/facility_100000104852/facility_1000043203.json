@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043203,
+  "epaFacId": "100000104852",
+  "facNm": "Anheuser-Busch LLC Columbus Brewery",
+  "parntCo1Nm": "Anheuser-Busch LLC",
+  "facDunsNu": 46428405,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "700 Schrock Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Columbus",
+  "facStateCd": "OH",
+  "countyNm": "FRANKLIN",
+  "facZipCd": "43229",
+  "facZip4Cd": "1159",
+  "receiptDa": "2014-06-10T00:00:00.000",
+  "facLatDecMs": "40.103056",
+  "facLongDecMs": "-082.993056",
+  "lepcNm": "Franklin County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Franklin County LEPC (CEPAC)",
+    "agencyPhoneNm": "6146456275",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043203"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043203"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043203"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043203"
+    }
+  }
+}

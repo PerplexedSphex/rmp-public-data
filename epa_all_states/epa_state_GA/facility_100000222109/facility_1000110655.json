@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000110655,
+  "epaFacId": "100000222109",
+  "facNm": "Starbucks Manufacturing Corp",
+  "parntCo1Nm": "",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "11 Valencia Way",
+  "facStreet2Tx": "",
+  "facCityNm": "Augusta",
+  "facStateCd": "GA",
+  "countyNm": "RICHMOND",
+  "facZipCd": "30906",
+  "facZip4Cd": "",
+  "receiptDa": "2024-02-21T00:00:00.000",
+  "facLatDecMs": "33.28424",
+  "facLongDecMs": "-81.95590",
+  "lepcNm": "Richmond County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Richmond County LEPC",
+    "agencyPhoneNm": "7068211155",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110655"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Coffee and Tea Manufacturing",
+          "naicsCd": "31192",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31192"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110655"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110655"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110655"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 12553,
+  "epaFacId": "100000135472",
+  "facNm": "Rapid City Water Reclamation Facility",
+  "parntCo1Nm": "City of Rapid City",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "7903 South Side Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Rapid City",
+  "facStateCd": "SD",
+  "countyNm": "PENNINGTON",
+  "facZipCd": "57703",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "44.016667",
+  "facLongDecMs": "-103.1",
+  "lepcNm": "Pennington County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2002-11-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rapid City Fire Department",
+    "agencyPhoneNm": "6053944180",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12553"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12553"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12553"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12553"
+    }
+  }
+}

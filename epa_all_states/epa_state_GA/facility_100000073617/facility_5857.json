@@ -1,0 +1,90 @@
+{
+  "facilityId": 5857,
+  "epaFacId": "100000073617",
+  "facNm": "Southern States Phosphate and Fertilizer Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 3293198,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1600 East President Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Savannah",
+  "facStateCd": "GA",
+  "countyNm": "CHATHAM",
+  "facZipCd": "31404",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "32.071444",
+  "facLongDecMs": "-81.063889",
+  "lepcNm": "Chatham County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2000-03-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Savannah Fire Department",
+    "agencyPhoneNm": "9126516758",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5857"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "325188",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325188"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5857"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5857"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5857"
+    }
+  }
+}

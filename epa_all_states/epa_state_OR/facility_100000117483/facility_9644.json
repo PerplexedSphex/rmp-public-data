@@ -1,0 +1,79 @@
+{
+  "facilityId": 9644,
+  "epaFacId": "100000117483",
+  "facNm": "Northwest Aluminum Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 154015022,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3313 West Second Street",
+  "facStreet2Tx": null,
+  "facCityNm": "The Dalles",
+  "facStateCd": "OR",
+  "countyNm": "WASCO",
+  "facZipCd": "97058",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "45.625",
+  "facLongDecMs": "-121.208333",
+  "lepcNm": "Wasco Emergency Services",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2004-06-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wasco County Emergency Services",
+    "agencyPhoneNm": "5412966424",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9644"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Primary Aluminum Production",
+          "naicsCd": "331312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9644"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9644"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9644"
+    }
+  }
+}

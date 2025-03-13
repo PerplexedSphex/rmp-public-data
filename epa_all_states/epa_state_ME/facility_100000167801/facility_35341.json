@@ -1,0 +1,79 @@
+{
+  "facilityId": 35341,
+  "epaFacId": "100000167801",
+  "facNm": "Maine Independence Station",
+  "parntCo1Nm": "Casco Bay Energy Company, LLC",
+  "facDunsNu": 949448104,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "125 Shore Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Veazie",
+  "facStateCd": "ME",
+  "countyNm": "PENOBSCOT",
+  "facZipCd": "04401",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "44.823889",
+  "facLongDecMs": "-068.708056",
+  "lepcNm": "Penobscot County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Veazie Fire Department",
+    "agencyPhoneNm": "2079472911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35341"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35341"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35341"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35341"
+    }
+  }
+}

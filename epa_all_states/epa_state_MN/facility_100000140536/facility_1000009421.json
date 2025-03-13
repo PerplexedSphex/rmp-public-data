@@ -1,0 +1,97 @@
+{
+  "facilityId": 1000009421,
+  "epaFacId": "100000140536",
+  "facNm": "PM Windom",
+  "parntCo1Nm": "PM Beef Group LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2850 East Highway 60",
+  "facStreet2Tx": null,
+  "facCityNm": "Windom",
+  "facStateCd": "MN",
+  "countyNm": "COTTONWOOD",
+  "facZipCd": "56101",
+  "facZip4Cd": null,
+  "receiptDa": "2009-07-01T00:00:00.000",
+  "facLatDecMs": "43.886299",
+  "facLongDecMs": "-095.099783",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2015-11-03T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Windom Fire Department",
+    "agencyPhoneNm": "5078316128",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009421"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal (except Poultry) Slaughtering ",
+          "naicsCd": "311611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311611"
+            }
+          }
+        },
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        },
+        {
+          "description": "Rendering and Meat Byproduct Processing ",
+          "naicsCd": "311613",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311613"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009421"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009421"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009421"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000116199,
+  "epaFacId": "100000241598",
+  "facNm": "MPLX - Kenova LP Terminal",
+  "parntCo1Nm": "MPLX Operations LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "149 21st Street",
+  "facStreet2Tx": "",
+  "facCityNm": "Kenova",
+  "facStateCd": "WV",
+  "countyNm": "WAYNE",
+  "facZipCd": "25530",
+  "facZip4Cd": "",
+  "receiptDa": "2024-09-09T00:00:00.000",
+  "facLatDecMs": "38.406505",
+  "facLongDecMs": "-82.585059",
+  "lepcNm": "Cabell/Wayne County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kenova Fire Department",
+    "agencyPhoneNm": "3044535555",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000116199"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000116199"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000116199"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000116199"
+    }
+  }
+}

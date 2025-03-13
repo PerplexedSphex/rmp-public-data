@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000012304,
+  "epaFacId": "100000009493",
+  "facNm": "Winterset Water Treatment Plant",
+  "parntCo1Nm": "Winterset Municipal Utilities",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3301 Cedar Bridge Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Winterset",
+  "facStateCd": "IA",
+  "countyNm": "MADISON",
+  "facZipCd": "50273",
+  "facZip4Cd": null,
+  "receiptDa": "2010-02-09T00:00:00.000",
+  "facLatDecMs": "41.363611",
+  "facLongDecMs": "-093.992417",
+  "lepcNm": "Madison County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-07-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Madison County Emergency Management",
+    "agencyPhoneNm": "5154624255",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012304"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012304"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012304"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012304"
+    }
+  }
+}

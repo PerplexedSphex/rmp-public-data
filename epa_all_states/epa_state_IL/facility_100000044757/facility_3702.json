@@ -1,0 +1,79 @@
+{
+  "facilityId": 3702,
+  "epaFacId": "100000044757",
+  "facNm": "Pekin Terminal",
+  "parntCo1Nm": "Koch Nitrogen Company",
+  "facDunsNu": 791524002,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1141 Wesley Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Creve Couer",
+  "facStateCd": "IL",
+  "countyNm": "TAZEWELL",
+  "facZipCd": "61611",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-17T00:00:00.000",
+  "facLatDecMs": "40.6325",
+  "facLongDecMs": "-89.622778",
+  "lepcNm": "Tazewell County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-10-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Creve Coeur Police Department",
+    "agencyPhoneNm": "0000000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3702"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Warehousing and Storage",
+          "naicsCd": "49319",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49319"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3702"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3702"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3702"
+    }
+  }
+}

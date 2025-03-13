@@ -1,0 +1,79 @@
+{
+  "facilityId": 4465,
+  "epaFacId": "100000054479",
+  "facNm": "The Stroh Brewery Company, Seattle",
+  "parntCo1Nm": "The Stroh Companies, Inc",
+  "facDunsNu": 5357041,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3100 Airport Way South",
+  "facStreet2Tx": null,
+  "facCityNm": "Seattle",
+  "facStateCd": "WA",
+  "countyNm": "KING",
+  "facZipCd": "98134",
+  "facZip4Cd": "2116",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "47.577222",
+  "facLongDecMs": "-122.320278",
+  "lepcNm": "King County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "1999-12-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Seattle Fire Marshal",
+    "agencyPhoneNm": "2063861412",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4465"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4465"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4465"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4465"
+    }
+  }
+}

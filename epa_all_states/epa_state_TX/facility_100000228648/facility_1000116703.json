@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000116703,
+  "epaFacId": "100000228648",
+  "facNm": "Brakebush-Irving",
+  "parntCo1Nm": "Brakebush Brothers Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2230 E Union Bower Rd",
+  "facStreet2Tx": "",
+  "facCityNm": "Irving",
+  "facStateCd": "TX",
+  "countyNm": "DALLAS",
+  "facZipCd": "75061",
+  "facZip4Cd": "",
+  "receiptDa": "2024-08-07T00:00:00.000",
+  "facLatDecMs": "32.822864",
+  "facLongDecMs": "-96.913108",
+  "lepcNm": "Dallas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department",
+    "agencyPhoneNm": "9727212651",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000116703"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000116703"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000116703"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000116703"
+    }
+  }
+}

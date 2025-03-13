@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000052137,
+  "epaFacId": "100000230387",
+  "facNm": "Gloucester Seafood Processing",
+  "parntCo1Nm": "Twenty-One Great Republic, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "21 Great Republic Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Gloucester",
+  "facStateCd": "MA",
+  "countyNm": "ESSEX",
+  "facZipCd": "01930",
+  "facZip4Cd": null,
+  "receiptDa": "2015-10-14T00:00:00.000",
+  "facLatDecMs": "42.627031",
+  "facLongDecMs": "-70.649171",
+  "lepcNm": "Essex LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-09-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Gloucester Fire Department",
+    "agencyPhoneNm": "9782819760",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052137"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Seafood Product Preparation and Packaging",
+          "naicsCd": "31171",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31171"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052137"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052137"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052137"
+    }
+  }
+}

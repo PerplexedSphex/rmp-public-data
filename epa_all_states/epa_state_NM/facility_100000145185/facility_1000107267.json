@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000107267,
+  "epaFacId": "100000145185",
+  "facNm": "Leprino Foods Company, Roswell, NM Plant",
+  "parntCo1Nm": "Leprino Foods Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5600 Omaha Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Roswell",
+  "facStateCd": "NM",
+  "countyNm": "CHAVES",
+  "facZipCd": "88203",
+  "facZip4Cd": "",
+  "receiptDa": "2023-10-11T00:00:00.000",
+  "facLatDecMs": "33.330445",
+  "facLongDecMs": "-104.482652",
+  "lepcNm": "Chaves County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chaves County LEPC",
+    "agencyPhoneNm": "5056246770",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107267"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107267"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107267"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107267"
+    }
+  }
+}

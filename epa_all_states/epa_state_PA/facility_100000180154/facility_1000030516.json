@@ -1,0 +1,100 @@
+{
+  "facilityId": 1000030516,
+  "epaFacId": "100000180154",
+  "facNm": "Johns Manville Hazleton",
+  "parntCo1Nm": "Johns Manville",
+  "facDunsNu": 16945896,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "600 Jaycee Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Hazel Township",
+  "facStateCd": "PA",
+  "countyNm": "LUZERNE",
+  "facZipCd": "18202",
+  "facZip4Cd": null,
+  "receiptDa": "2012-09-19T00:00:00.000",
+  "facLatDecMs": "40.964167",
+  "facLongDecMs": "-076.024444",
+  "lepcNm": "Luzerne County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Hazle Township Fire & Rescue",
+    "agencyPhoneNm": "5704543411",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030516"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+          "naicsCd": "32615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Isopentane  [Butane, 2-methyl-]",
+              "casNu": "78-78-4",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/115"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Pentane",
+              "casNu": "109-66-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030516"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030516"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030516"
+    }
+  }
+}

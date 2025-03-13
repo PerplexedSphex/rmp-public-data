@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000011345,
+  "epaFacId": "100000060836",
+  "facNm": "H.B. Fuller - Covington Plant",
+  "parntCo1Nm": "H.B. Fuller",
+  "facDunsNu": 152845020,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "12110 Harland Drive N.E.",
+  "facStreet2Tx": null,
+  "facCityNm": "Covington",
+  "facStateCd": "GA",
+  "countyNm": "NEWTON",
+  "facZipCd": "30014",
+  "facZip4Cd": null,
+  "receiptDa": "2009-10-14T00:00:00.000",
+  "facLatDecMs": "33.617778",
+  "facLongDecMs": "-083.831389",
+  "lepcNm": "none",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Covington Fire Department",
+    "agencyPhoneNm": "7703852100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011345"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Adhesive Manufacturing",
+          "naicsCd": "32552",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32552"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011345"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011345"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011345"
+    }
+  }
+}

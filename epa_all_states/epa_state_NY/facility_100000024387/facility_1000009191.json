@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000009191,
+  "epaFacId": "100000024387",
+  "facNm": "Benjamin Moore & Company, Johnstown, NY Plant",
+  "parntCo1Nm": "Benjamin Moore & Company",
+  "facDunsNu": 780729919,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Union Avenue Extension",
+  "facStreet2Tx": null,
+  "facCityNm": "Johnstown",
+  "facStateCd": "NY",
+  "countyNm": "FULTON",
+  "facZipCd": "12095",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-25T00:00:00.000",
+  "facLatDecMs": "42.993056",
+  "facLongDecMs": "-074.391111",
+  "lepcNm": "Fulton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fulton County F & E Coordinator",
+    "agencyPhoneNm": "5187362100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009191"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Paint and Coating Manufacturing",
+          "naicsCd": "32551",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32551"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009191"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009191"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009191"
+    }
+  }
+}

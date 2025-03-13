@@ -1,0 +1,79 @@
+{
+  "facilityId": 49634,
+  "epaFacId": "100000199938",
+  "facNm": "Sugar Creek Packing Co.",
+  "parntCo1Nm": null,
+  "facDunsNu": 61712279,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1241 North Gettysburg Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Dayton",
+  "facStateCd": "OH",
+  "countyNm": "MONTGOMERY",
+  "facZipCd": "45427",
+  "facZip4Cd": null,
+  "receiptDa": "2007-08-31T00:00:00.000",
+  "facLatDecMs": "39.762604",
+  "facLongDecMs": "-084.255524",
+  "lepcNm": "Greene/Montgomery County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dayton Hazmat Team",
+    "agencyPhoneNm": "9375125103",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49634"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49634"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49634"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49634"
+    }
+  }
+}

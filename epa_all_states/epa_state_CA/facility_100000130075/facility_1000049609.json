@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000049609,
+  "epaFacId": "100000130075",
+  "facNm": "Rio Bravo Fresno",
+  "parntCo1Nm": "NA",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3350 South Willow",
+  "facStreet2Tx": null,
+  "facCityNm": "Fresno",
+  "facStateCd": "CA",
+  "countyNm": "FRESNO",
+  "facZipCd": "93725",
+  "facZip4Cd": null,
+  "receiptDa": "2015-04-22T00:00:00.000",
+  "facLatDecMs": "36.688611",
+  "facLongDecMs": "-119.723333",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "California Department of Forestry",
+    "agencyPhoneNm": "5592686488",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049609"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049609"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049609"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049609"
+    }
+  }
+}

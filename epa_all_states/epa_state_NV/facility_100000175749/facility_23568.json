@@ -1,0 +1,79 @@
+{
+  "facilityId": 23568,
+  "epaFacId": "100000175749",
+  "facNm": "TRI-Center Power Plant",
+  "parntCo1Nm": "Naniwa Energy LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "225 Amsterdam Court",
+  "facStreet2Tx": "Tahoe Reno Industrial Center",
+  "facCityNm": "McCarran",
+  "facStateCd": "NV",
+  "countyNm": "STOREY",
+  "facZipCd": "89434",
+  "facZip4Cd": null,
+  "receiptDa": "2001-06-04T00:00:00.000",
+  "facLatDecMs": "39.55925",
+  "facLongDecMs": "-119.521278",
+  "lepcNm": "Storey County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-11-22T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Office of Emergency Management",
+    "agencyPhoneNm": "7758470954",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23568"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23568"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23568"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23568"
+    }
+  }
+}

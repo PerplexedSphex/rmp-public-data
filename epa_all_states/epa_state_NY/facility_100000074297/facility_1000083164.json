@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000083164,
+  "epaFacId": "100000074297",
+  "facNm": "Durez Corporation - Niagara Falls Facility",
+  "parntCo1Nm": "Durez Corporation",
+  "facDunsNu": 21239616,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5000 Packard Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Niagara Falls",
+  "facStateCd": "NY",
+  "countyNm": "NIAGARA",
+  "facZipCd": "14304",
+  "facZip4Cd": null,
+  "receiptDa": "2019-11-06T16:06:07.000",
+  "facLatDecMs": "43.100101",
+  "facLongDecMs": "-079.002075",
+  "lepcNm": "Niagara County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Niagara Falls Fire Department",
+    "agencyPhoneNm": "7162864725",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083164"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083164"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083164"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083164"
+    }
+  }
+}

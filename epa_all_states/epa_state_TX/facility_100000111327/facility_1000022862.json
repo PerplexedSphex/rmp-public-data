@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000022862,
+  "epaFacId": "100000111327",
+  "facNm": "John Soules Foods, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 43295765,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10150 FM 14",
+  "facStreet2Tx": null,
+  "facCityNm": "Tyler",
+  "facStateCd": "TX",
+  "countyNm": "SMITH",
+  "facZipCd": "75706",
+  "facZip4Cd": null,
+  "receiptDa": "2011-06-29T00:00:00.000",
+  "facLatDecMs": "32.410714",
+  "facLongDecMs": "-095.277289",
+  "lepcNm": "Smith County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Red Springs Fire Department",
+    "agencyPhoneNm": "9038582411",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022862"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022862"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022862"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022862"
+    }
+  }
+}

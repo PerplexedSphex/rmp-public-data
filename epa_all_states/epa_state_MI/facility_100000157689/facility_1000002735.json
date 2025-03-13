@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000002735,
+  "epaFacId": "100000157689",
+  "facNm": "ADCO Products, INC.",
+  "parntCo1Nm": "ADCO Global, INC.",
+  "facDunsNu": 107579133,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4401 Page Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Michigan Center",
+  "facStateCd": "MI",
+  "countyNm": "JACKSON",
+  "facZipCd": "49254",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-09T00:00:00.000",
+  "facLatDecMs": "42.231459",
+  "facLongDecMs": "-084.333744",
+  "lepcNm": "Jackson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-04-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jackson Co. Emergency Mgmt.",
+    "agencyPhoneNm": "5177687946",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002735"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Adhesive Manufacturing",
+          "naicsCd": "32552",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32552"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,4-diisocyanate  [Benzene, 2,4-diisocyanato-1-methyl-]",
+          "casNu": "584-84-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/44"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002735"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002735"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002735"
+    }
+  }
+}

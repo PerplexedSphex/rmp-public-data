@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000003579,
+  "epaFacId": "100000139824",
+  "facNm": "Cypress Catalyst Plant",
+  "parntCo1Nm": "W.R. Grace & Conn. - Conn.",
+  "facDunsNu": 612967141,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "16122 River Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Norco",
+  "facStateCd": "LA",
+  "countyNm": "ST. CHARLES",
+  "facZipCd": "70079",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-11T00:00:00.000",
+  "facLatDecMs": "30.003252",
+  "facLongDecMs": "-090.425145",
+  "lepcNm": "St. Charles Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "St. Charles Parish DEP",
+    "agencyPhoneNm": "9857835050",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003579"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petrochemical Manufacturing",
+          "naicsCd": "32511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Titanium tetrachloride  [Titanium chloride (TiCl4) (T-4)-]",
+          "casNu": "7550-45-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/51"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isopentane  [Butane, 2-methyl-]",
+          "casNu": "78-78-4",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/115"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003579"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003579"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003579"
+    }
+  }
+}

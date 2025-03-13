@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001728,
+  "epaFacId": "100000124643",
+  "facNm": "Rocky Hill Water Pollution Control Facility",
+  "parntCo1Nm": "The Metropolitan District",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "80 Goff Brook Lane",
+  "facStreet2Tx": null,
+  "facCityNm": "Rocky Hill",
+  "facStateCd": "CT",
+  "countyNm": "HARTFORD",
+  "facZipCd": "06067",
+  "facZip4Cd": "1603",
+  "receiptDa": "2009-06-17T00:00:00.000",
+  "facLatDecMs": "41.683333",
+  "facLongDecMs": "-072.645833",
+  "lepcNm": "CREPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-02-22T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rocky Hill Fire Department",
+    "agencyPhoneNm": "8602587603",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001728"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001728"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001728"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001728"
+    }
+  }
+}

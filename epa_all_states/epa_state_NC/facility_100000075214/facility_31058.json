@@ -1,0 +1,79 @@
+{
+  "facilityId": 31058,
+  "epaFacId": "100000075214",
+  "facNm": "Gold Kist Siler City Processing Plant",
+  "parntCo1Nm": "Gold Kist Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "602 S. Chatham Avenue",
+  "facStreet2Tx": "PO Box 524",
+  "facCityNm": "Siler City",
+  "facStateCd": "NC",
+  "countyNm": "CHATHAM",
+  "facZipCd": "27344",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-08T00:00:00.000",
+  "facLatDecMs": "35.716250",
+  "facLongDecMs": "-079.459750",
+  "lepcNm": "Chatham County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2008-06-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chatham County LEPC",
+    "agencyPhoneNm": "9195429111",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31058"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31058"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31058"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31058"
+    }
+  }
+}

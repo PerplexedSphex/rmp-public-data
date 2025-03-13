@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000088107,
+  "epaFacId": "100000165965",
+  "facNm": "Baltimore LPG Terminal",
+  "parntCo1Nm": "ThompsonGas Propane Holdings, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3101 Shell Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Baltimore",
+  "facStateCd": "MD",
+  "countyNm": "BALTIMORE CITY",
+  "facZipCd": "21226",
+  "facZip4Cd": "1102",
+  "receiptDa": "2020-06-08T16:57:00.000",
+  "facLatDecMs": "39.240639",
+  "facLongDecMs": "-076.593056",
+  "lepcNm": "Baltimore City LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Baltimore City Fire Department",
+    "agencyPhoneNm": "4105476422",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088107"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088107"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088107"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088107"
+    }
+  }
+}

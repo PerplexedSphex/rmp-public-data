@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000057144,
+  "epaFacId": "100000230378",
+  "facNm": "Big Lake Plant",
+  "parntCo1Nm": "Cogent Midstream LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1775 County Road 10",
+  "facStreet2Tx": null,
+  "facCityNm": "Big Lake",
+  "facStateCd": "TX",
+  "countyNm": "REAGAN",
+  "facZipCd": "76932",
+  "facZip4Cd": null,
+  "receiptDa": "2017-02-21T00:00:00.000",
+  "facLatDecMs": "31.1105614",
+  "facLongDecMs": "-101.362548",
+  "lepcNm": "Reagan County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department",
+    "agencyPhoneNm": "3258843650",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000057144"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Pentane",
+              "casNu": "109-66-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000057144"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000057144"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000057144"
+    }
+  }
+}

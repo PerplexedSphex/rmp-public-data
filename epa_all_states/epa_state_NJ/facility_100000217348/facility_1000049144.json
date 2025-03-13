@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000049144,
+  "epaFacId": "100000217348",
+  "facNm": "Rinchem Company Inc. (CSC 24)",
+  "parntCo1Nm": null,
+  "facDunsNu": 25003625,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "55 River Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Raritan Township",
+  "facStateCd": "NJ",
+  "countyNm": "HUNTERDON",
+  "facZipCd": "08822",
+  "facZip4Cd": null,
+  "receiptDa": "2015-03-20T00:00:00.000",
+  "facLatDecMs": "40.522368",
+  "facLongDecMs": "-74.8324487",
+  "lepcNm": "Raritan Township OEM",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Raritan Township OEM",
+    "agencyPhoneNm": "9087828889",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049144"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrochloric acid (conc 37% or greater)",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/53"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049144"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049144"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049144"
+    }
+  }
+}

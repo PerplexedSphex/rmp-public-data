@@ -1,0 +1,79 @@
+{
+  "facilityId": 29549,
+  "epaFacId": "100000185097",
+  "facNm": "South Carolina Electric & Gas, Williams Station",
+  "parntCo1Nm": "SCANA",
+  "facDunsNu": 7919517,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2242 Bushy Park Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Goose Creek",
+  "facStateCd": "SC",
+  "countyNm": "BERKELEY",
+  "facZipCd": "29445",
+  "facZip4Cd": null,
+  "receiptDa": "2004-02-11T00:00:00.000",
+  "facLatDecMs": "33.016389",
+  "facLongDecMs": "-79.928611",
+  "lepcNm": "Berkeley County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Berkeley Co. Emergency Management",
+    "agencyPhoneNm": "8437194166",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29549"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29549"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29549"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29549"
+    }
+  }
+}

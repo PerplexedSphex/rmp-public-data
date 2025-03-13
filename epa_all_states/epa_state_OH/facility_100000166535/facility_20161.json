@@ -1,0 +1,79 @@
+{
+  "facilityId": 20161,
+  "epaFacId": "100000166535",
+  "facNm": "Hess & Clark, Inc.",
+  "parntCo1Nm": "United Agri Products, Inc.",
+  "facDunsNu": 37284445,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "10 E. 7th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Ashland",
+  "facStateCd": "OH",
+  "countyNm": "ASHLAND",
+  "facZipCd": "44805",
+  "facZip4Cd": "1799",
+  "receiptDa": "2000-01-31T00:00:00.000",
+  "facLatDecMs": "40.872806",
+  "facLongDecMs": "-82.31525",
+  "lepcNm": "Ashland County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-01-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ashland Fire Department",
+    "agencyPhoneNm": "4192892911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20161"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+          "naicsCd": "32532",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32532"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20161"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20161"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20161"
+    }
+  }
+}

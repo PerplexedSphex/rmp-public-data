@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000102524,
+  "epaFacId": "100000249279",
+  "facNm": "Kinder Morgan Las Vegas Terminal",
+  "parntCo1Nm": "Kinder Morgan CalNev Pipe Line LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "5049 North Sloan Lane",
+  "facStreet2Tx": "",
+  "facCityNm": "Las Vegas",
+  "facStateCd": "NV",
+  "countyNm": "CLARK",
+  "facZipCd": "89115",
+  "facZip4Cd": "",
+  "receiptDa": "2022-12-14T00:00:00.000",
+  "facLatDecMs": "36.251606",
+  "facLongDecMs": "-115.047048",
+  "lepcNm": "Clark County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clark County Fire Department",
+    "agencyPhoneNm": "7024557311",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102524"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102524"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102524"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102524"
+    }
+  }
+}

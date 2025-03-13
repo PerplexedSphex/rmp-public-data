@@ -1,0 +1,79 @@
+{
+  "facilityId": 3214,
+  "epaFacId": "100000039692",
+  "facNm": "Deer Valley Water Treatment Plant",
+  "parntCo1Nm": "City of Phoenix",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3030 W. Dunlap Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Phoenix",
+  "facStateCd": "AZ",
+  "countyNm": "MARICOPA",
+  "facZipCd": "85051",
+  "facZip4Cd": "3429",
+  "receiptDa": "1999-06-16T00:00:00.000",
+  "facLatDecMs": "33.570778",
+  "facLongDecMs": "-112.125472",
+  "lepcNm": "Maricopa County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Phoenix Fire Department",
+    "agencyPhoneNm": "6022626595",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3214"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3214"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3214"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3214"
+    }
+  }
+}

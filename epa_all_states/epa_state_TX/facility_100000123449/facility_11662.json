@@ -1,0 +1,131 @@
+{
+  "facilityId": 11662,
+  "epaFacId": "100000123449",
+  "facNm": "Haldor Topsoe Bayport Facility",
+  "parntCo1Nm": "Haldor Topsoe A/S",
+  "facDunsNu": 77874162,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "10010 Bayport Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Pasadena",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77507",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "29.610556",
+  "facLongDecMs": "-95.059167",
+  "lepcNm": "Harris County-Bay Area LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2001-01-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bay Area LEPC",
+    "agencyPhoneNm": "2813265900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11662"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petrochemical Manufacturing",
+          "naicsCd": "32511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Propane",
+              "casNu": "74-98-6",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Butane",
+              "casNu": "106-97-8",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Propylene  [1-Propene]",
+              "casNu": "115-07-1",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/129"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Butene",
+              "casNu": "25167-67-3",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/154"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11662"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11662"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11662"
+    }
+  }
+}

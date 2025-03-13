@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043968,
+  "epaFacId": "100000136907",
+  "facNm": "Hydrol Chemical Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 2261907,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "520 Commerce Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Yeadon",
+  "facStateCd": "PA",
+  "countyNm": "DELAWARE",
+  "facZipCd": "19050",
+  "facZip4Cd": "3076",
+  "receiptDa": "2014-06-09T00:00:00.000",
+  "facLatDecMs": "39.935389",
+  "facLongDecMs": "-075.258222",
+  "lepcNm": "Delaware County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "DELCO LEPC",
+    "agencyPhoneNm": "6105658700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043968"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "All Other Chemical Product and Preparation Manufacturing",
+          "naicsCd": "32599",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32599"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043968"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043968"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043968"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106221,
+  "epaFacId": "100000183785",
+  "facNm": "Wise County Power Company, LLC",
+  "parntCo1Nm": "Vistra Corp.",
+  "facDunsNu": 54447164,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "800 Boons Creek Lane",
+  "facStreet2Tx": "",
+  "facCityNm": "Poolville",
+  "facStateCd": "TX",
+  "countyNm": "WISE",
+  "facZipCd": "76487",
+  "facZip4Cd": "",
+  "receiptDa": "2023-08-02T00:00:00.000",
+  "facLatDecMs": "33.060530",
+  "facLongDecMs": "-097.910780",
+  "lepcNm": "Wise County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wise County LEPC",
+    "agencyPhoneNm": "9406275870",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106221"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Electric Power Distribution ",
+          "naicsCd": "221122",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221122"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106221"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106221"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106221"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000108327,
+  "epaFacId": "100000220085",
+  "facNm": "Hutchinson Rail Terminal",
+  "parntCo1Nm": "Williams Hutch Rail Company, LLC ",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "407 S. Obee Rd",
+  "facStreet2Tx": "",
+  "facCityNm": "Hutchinson",
+  "facStateCd": "KS",
+  "countyNm": "RENO",
+  "facZipCd": "67501",
+  "facZip4Cd": "",
+  "receiptDa": "2023-11-23T00:00:00.000",
+  "facLatDecMs": "38.046861",
+  "facLongDecMs": "-97.853157",
+  "lepcNm": "Reno County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Reno County Office of Emergency Mgt",
+    "agencyPhoneNm": "6206942974",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108327"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pipeline Transportation of Natural Gas",
+          "naicsCd": "48621",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48621"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108327"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108327"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108327"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000013862,
+  "epaFacId": "100000211291",
+  "facNm": "Americold Tacoma 2130",
+  "parntCo1Nm": "AmeriCold Logistics LLC",
+  "facDunsNu": 58149378,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1301 26th Ave. East",
+  "facStreet2Tx": null,
+  "facCityNm": "Tacoma",
+  "facStateCd": "WA",
+  "countyNm": "PIERCE",
+  "facZipCd": "98424",
+  "facZip4Cd": null,
+  "receiptDa": "2010-06-21T00:00:00.000",
+  "facLatDecMs": "47.245728",
+  "facLongDecMs": "-122.392453",
+  "lepcNm": "Pierce/Tacoma County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Port of Tacoma Fire Department",
+    "agencyPhoneNm": "2535915737",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013862"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013862"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013862"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013862"
+    }
+  }
+}

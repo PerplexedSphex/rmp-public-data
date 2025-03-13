@@ -1,0 +1,79 @@
+{
+  "facilityId": 20265,
+  "epaFacId": "100000166937",
+  "facNm": "Walters' Ag Service, Inc",
+  "parntCo1Nm": null,
+  "facDunsNu": 607962289,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Rt 116 West",
+  "facStreet2Tx": "P O Box 146",
+  "facCityNm": "Farmington",
+  "facStateCd": "IL",
+  "countyNm": "FULTON",
+  "facZipCd": "61531",
+  "facZip4Cd": null,
+  "receiptDa": "2000-02-08T00:00:00.000",
+  "facLatDecMs": "40.707444",
+  "facLongDecMs": "-90.030389",
+  "lepcNm": "Fulton County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Farmington Fire Department",
+    "agencyPhoneNm": "3092452421",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20265"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20265"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20265"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20265"
+    }
+  }
+}

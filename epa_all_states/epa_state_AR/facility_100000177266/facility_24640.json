@@ -1,0 +1,90 @@
+{
+  "facilityId": 24640,
+  "epaFacId": "100000177266",
+  "facNm": "Dow Chemical",
+  "parntCo1Nm": "Dow Chemical",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1 Jim Walter Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Texarkana",
+  "facStateCd": "AR",
+  "countyNm": "MILLER",
+  "facZipCd": "71854",
+  "facZip4Cd": null,
+  "receiptDa": "2001-11-28T00:00:00.000",
+  "facLatDecMs": "33.45",
+  "facLongDecMs": "-94.008333",
+  "lepcNm": "Arkansas Unit #69",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2011-08-25T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Boots & Coots",
+    "agencyPhoneNm": "9037918144",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24640"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+          "naicsCd": "32615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Isopentane  [Butane, 2-methyl-]",
+              "casNu": "78-78-4",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/115"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24640"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24640"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24640"
+    }
+  }
+}

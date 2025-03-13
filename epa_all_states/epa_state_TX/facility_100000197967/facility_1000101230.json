@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101230,
+  "epaFacId": "100000197967",
+  "facNm": "Alamo Dynamic LLC dba Dynamic Foods",
+  "parntCo1Nm": null,
+  "facDunsNu": 184757094,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1001 E. 33rd Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Lubbock",
+  "facStateCd": "TX",
+  "countyNm": "LUBBOCK",
+  "facZipCd": "79404",
+  "facZip4Cd": null,
+  "receiptDa": "2022-06-14T00:00:00.000",
+  "facLatDecMs": "33.565542",
+  "facLongDecMs": "-101.824741",
+  "lepcNm": "Lubbock County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-08-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Lubbock Fire Department",
+    "agencyPhoneNm": "8067752632",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101230"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101230"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101230"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101230"
+    }
+  }
+}

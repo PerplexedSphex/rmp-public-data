@@ -1,0 +1,79 @@
+{
+  "facilityId": 11600,
+  "epaFacId": "100000123494",
+  "facNm": "Arnie's Bakery,Inc.",
+  "parntCo1Nm": "Maplehurst Bakeries, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "# 1 Bagel Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Nebraska City",
+  "facStateCd": "NE",
+  "countyNm": "OTOE",
+  "facZipCd": "68410",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "40.518056",
+  "facLongDecMs": "95.45",
+  "lepcNm": "Nebraska LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-10-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Otoe County Commission",
+    "agencyPhoneNm": "4028733556",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11600"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Frozen Cakes, Pies, and Other Pastries Manufacturing ",
+          "naicsCd": "311813",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311813"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11600"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11600"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11600"
+    }
+  }
+}

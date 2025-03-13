@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000012906,
+  "epaFacId": "100000079023",
+  "facNm": "Farmland Foods, Inc.",
+  "parntCo1Nm": "Farmland Foods, Inc.",
+  "facDunsNu": 604260448,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1220 North Sixth Street Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Monmouth",
+  "facStateCd": "IL",
+  "countyNm": "WARREN",
+  "facZipCd": "61642",
+  "facZip4Cd": null,
+  "receiptDa": "2010-03-12T00:00:00.000",
+  "facLatDecMs": "40.928056",
+  "facLongDecMs": "-090.641389",
+  "lepcNm": "Warren County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Monmouth Fire Department",
+    "agencyPhoneNm": "3097348383",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012906"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012906"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012906"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012906"
+    }
+  }
+}

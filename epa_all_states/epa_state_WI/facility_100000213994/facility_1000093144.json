@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000093144,
+  "epaFacId": "100000213994",
+  "facNm": "Great Lakes Cheese of La Crosse, Wisconsin, INC.",
+  "parntCo1Nm": "Great Lakes Cheese Company, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2200 Enterprise Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "La Crosse",
+  "facStateCd": "WI",
+  "countyNm": "LA CROSSE",
+  "facZipCd": "54603",
+  "facZip4Cd": null,
+  "receiptDa": "2021-04-07T13:29:43.000",
+  "facLatDecMs": "43.864167",
+  "facLongDecMs": "-91.223056",
+  "lepcNm": "La Crosse County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "La Crosse Fire Department & LEPC",
+    "agencyPhoneNm": "6087897260",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093144"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093144"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093144"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093144"
+    }
+  }
+}

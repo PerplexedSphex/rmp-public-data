@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000047297,
+  "epaFacId": "100000176187",
+  "facNm": "Tyson Refrigerated Processed Meats, Portwall",
+  "parntCo1Nm": "Tyson Foods Inc.",
+  "facDunsNu": 600306690,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "300 Portwall Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Houston",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77029",
+  "facZip4Cd": null,
+  "receiptDa": "2014-11-03T00:00:00.000",
+  "facLatDecMs": "29.784306",
+  "facLongDecMs": "-095.280282",
+  "lepcNm": "Harris County-City Of Houston",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Houston LEPC- Houston Fire Dept.",
+    "agencyPhoneNm": "7139284298",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047297"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047297"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047297"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047297"
+    }
+  }
+}

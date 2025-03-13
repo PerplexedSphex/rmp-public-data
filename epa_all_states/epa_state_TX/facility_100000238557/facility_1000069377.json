@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000069377,
+  "epaFacId": "100000238557",
+  "facNm": "EPI Breads",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4710 West Ledbetter Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Dallas",
+  "facStateCd": "TX",
+  "countyNm": "DALLAS",
+  "facZipCd": "75236",
+  "facZip4Cd": null,
+  "receiptDa": "2018-04-23T00:00:00.000",
+  "facLatDecMs": "32.690390",
+  "facLongDecMs": "-96.899292",
+  "lepcNm": "Dallas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-05-28T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Dallas Fire Department",
+    "agencyPhoneNm": "2146705085",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069377"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Bread and Bakery Product Manufacturing",
+          "naicsCd": "31181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069377"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069377"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069377"
+    }
+  }
+}

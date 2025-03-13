@@ -1,0 +1,110 @@
+{
+  "facilityId": 1000076340,
+  "epaFacId": "100000241339",
+  "facNm": "Ring-neck Energy & Feed, LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 79886801,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "901 Redwood Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Onida",
+  "facStateCd": "SD",
+  "countyNm": "SULLY",
+  "facZipCd": "57564",
+  "facZip4Cd": null,
+  "receiptDa": "2019-04-09T17:11:45.000",
+  "facLatDecMs": "44.692222",
+  "facLongDecMs": "-100.06149",
+  "lepcNm": "Sully County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sully County LEPC",
+    "agencyPhoneNm": "6052582244",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076340"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ethyl Alcohol Manufacturing ",
+          "naicsCd": "325193",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325193"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Isopentane  [Butane, 2-methyl-]",
+              "casNu": "78-78-4",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/115"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Butane",
+              "casNu": "106-97-8",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Pentane",
+              "casNu": "109-66-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076340"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076340"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076340"
+    }
+  }
+}

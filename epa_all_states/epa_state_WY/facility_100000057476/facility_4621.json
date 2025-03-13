@@ -1,0 +1,79 @@
+{
+  "facilityId": 4621,
+  "epaFacId": "100000057476",
+  "facNm": "Sheridan Water Treatment Plant",
+  "parntCo1Nm": "City of Sheridan, Wyoming",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "6 Soldier Creek Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Sheridan",
+  "facStateCd": "WY",
+  "countyNm": "SHERIDAN",
+  "facZipCd": "82801",
+  "facZip4Cd": "9466",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "44.80075",
+  "facLongDecMs": "-107.011667",
+  "lepcNm": "Sheridan County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2008-05-20T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sheridan HazMat Team",
+    "agencyPhoneNm": "3076747244",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4621"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Alkalies and Chlorine Manufacturing",
+          "naicsCd": "325181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4621"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4621"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4621"
+    }
+  }
+}

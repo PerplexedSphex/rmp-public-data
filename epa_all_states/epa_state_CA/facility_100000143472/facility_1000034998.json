@@ -1,0 +1,132 @@
+{
+  "facilityId": 1000034998,
+  "epaFacId": "100000143472",
+  "facNm": "Bakersfield LPG Terminal",
+  "parntCo1Nm": "Enterprise Products Partners L.P.",
+  "facDunsNu": 48210686,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4937 Standard Steet",
+  "facStreet2Tx": "(off street - use GPS coordinates)",
+  "facCityNm": "Bakersfield",
+  "facStateCd": "CA",
+  "countyNm": "KERN",
+  "facZipCd": "93308",
+  "facZip4Cd": "4531",
+  "receiptDa": "2013-07-11T00:00:00.000",
+  "facLatDecMs": "35.398611",
+  "facLongDecMs": "-119.054250",
+  "lepcNm": "Kern County Envir. Health Svcs",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Bakersfield Fire Department",
+    "agencyPhoneNm": "6613244542",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034998"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Isopentane  [Butane, 2-methyl-]",
+              "casNu": "78-78-4",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/115"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Butane",
+              "casNu": "106-97-8",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Pentane",
+              "casNu": "109-66-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034998"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034998"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034998"
+    }
+  }
+}

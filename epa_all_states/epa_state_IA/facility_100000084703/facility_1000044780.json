@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000044780,
+  "epaFacId": "100000084703",
+  "facNm": "Northwest Water Treatment Plant",
+  "parntCo1Nm": "City of Cedar Rapids",
+  "facDunsNu": 797232860,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7807 Ellis Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Cedar Rapids",
+  "facStateCd": "IA",
+  "countyNm": "LINN",
+  "facZipCd": "52405",
+  "facZip4Cd": null,
+  "receiptDa": "2014-07-16T00:00:00.000",
+  "facLatDecMs": "41.997039",
+  "facLongDecMs": "-91.771894",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cedar Rapids Fire Department",
+    "agencyPhoneNm": "3192865200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044780"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044780"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044780"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044780"
+    }
+  }
+}

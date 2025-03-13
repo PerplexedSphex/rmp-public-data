@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000044644,
+  "epaFacId": "100000149458",
+  "facNm": "DTE Stockton, LLC",
+  "parntCo1Nm": "DTE Energy Services, Inc.",
+  "facDunsNu": 60357403,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2526 W. Washington St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Stockton",
+  "facStateCd": "CA",
+  "countyNm": "SAN JOAQUIN",
+  "facZipCd": "95203",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-16T00:00:00.000",
+  "facLatDecMs": "37.943207",
+  "facLongDecMs": "-121.329784",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Stockton Fire Department",
+    "agencyPhoneNm": "2099378661",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044644"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Biomass Electric Power Generation ",
+          "naicsCd": "221117",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221117"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044644"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044644"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044644"
+    }
+  }
+}

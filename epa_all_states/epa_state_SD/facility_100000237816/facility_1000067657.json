@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000067657,
+  "epaFacId": "100000237816",
+  "facNm": "Dakota Provisions West",
+  "parntCo1Nm": null,
+  "facDunsNu": 138323881,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "58 West Park Avenue",
+  "facStreet2Tx": "PO BOX 1257",
+  "facCityNm": "Huron",
+  "facStateCd": "SD",
+  "countyNm": "BEADLE",
+  "facZipCd": "57350",
+  "facZip4Cd": null,
+  "receiptDa": "2018-02-09T00:00:00.000",
+  "facLatDecMs": "44.366362",
+  "facLongDecMs": "-98.253526",
+  "lepcNm": "Beadle County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Huron Fire Department",
+    "agencyPhoneNm": "6053528520",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067657"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067657"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067657"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067657"
+    }
+  }
+}

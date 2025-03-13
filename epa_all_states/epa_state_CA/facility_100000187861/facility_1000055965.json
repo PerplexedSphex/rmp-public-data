@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000055965,
+  "epaFacId": "100000187861",
+  "facNm": "Earthbound Farm",
+  "parntCo1Nm": "Earthbound Farm",
+  "facDunsNu": 858556517,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1721 San Juan Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "San Juan Bautista",
+  "facStateCd": "CA",
+  "countyNm": "SAN BENITO",
+  "facZipCd": "95045",
+  "facZip4Cd": null,
+  "receiptDa": "2016-02-25T00:00:00.000",
+  "facLatDecMs": "36.873056",
+  "facLongDecMs": "-121.553333",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "San Benito County Health Department",
+    "agencyPhoneNm": "8316364035",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055965"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        },
+        {
+          "description": "Postharvest Crop Activities (except Cotton Ginning) ",
+          "naicsCd": "115114",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/115114"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055965"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055965"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055965"
+    }
+  }
+}

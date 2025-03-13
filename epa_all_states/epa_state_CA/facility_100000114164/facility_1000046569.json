@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000046569,
+  "epaFacId": "100000114164",
+  "facNm": "California Spray Dry Company",
+  "parntCo1Nm": "Modesto Tallow Company",
+  "facDunsNu": 38561135,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4221 E. Mariposa Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Stockton",
+  "facStateCd": "CA",
+  "countyNm": "SAN JOAQUIN",
+  "facZipCd": "95215",
+  "facZip4Cd": null,
+  "receiptDa": "2014-11-06T00:00:00.000",
+  "facLatDecMs": "37.929806",
+  "facLongDecMs": "-121.221806",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2015-05-17T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "San Joaquin County OES",
+    "agencyPhoneNm": "2094683962",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046569"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Food Manufacturing",
+          "naicsCd": "31111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046569"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046569"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046569"
+    }
+  }
+}

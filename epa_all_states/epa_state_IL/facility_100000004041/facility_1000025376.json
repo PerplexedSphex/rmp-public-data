@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000025376,
+  "epaFacId": "100000004041",
+  "facNm": "Vitality Foodservice, Inc.",
+  "parntCo1Nm": "Vitality Foodservice Holding Corp.",
+  "facDunsNu": 133132758,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1821 S. Kilbourn",
+  "facStreet2Tx": null,
+  "facCityNm": "Chicago",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60623",
+  "facZip4Cd": "2307",
+  "receiptDa": "2012-01-05T00:00:00.000",
+  "facLatDecMs": "41.856297",
+  "facLongDecMs": "-087.735588",
+  "lepcNm": "City of Chicago LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department & Chicago OEMC",
+    "agencyPhoneNm": "7735210181",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025376"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Fruit, Juice, and Vegetable Manufacturing ",
+          "naicsCd": "311411",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311411"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025376"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025376"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025376"
+    }
+  }
+}

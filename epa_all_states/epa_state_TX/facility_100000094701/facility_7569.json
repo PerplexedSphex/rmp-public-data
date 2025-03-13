@@ -1,0 +1,88 @@
+{
+  "facilityId": 7569,
+  "epaFacId": "100000094701",
+  "facNm": "Dairy Farmers of America, Inc.(Sulphur Springs)",
+  "parntCo1Nm": null,
+  "facDunsNu": 11312522,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1101 Main Street",
+  "facStreet2Tx": "1101 Main Street",
+  "facCityNm": "Sulphur Springs",
+  "facStateCd": "TX",
+  "countyNm": "HOPKINS",
+  "facZipCd": "75482",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "33.116667",
+  "facLongDecMs": "-95.620833",
+  "lepcNm": "Hopkins County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-06-29T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hopkins Co. Emergency Response",
+    "agencyPhoneNm": "9038857602",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7569"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        },
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7569"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7569"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7569"
+    }
+  }
+}

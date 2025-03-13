@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080656,
+  "epaFacId": "100000140377",
+  "facNm": "Oshkosh Wastewater Treatment Plant",
+  "parntCo1Nm": "City of Oshkosh",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "233 North Campbell Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Oshkosh",
+  "facStateCd": "WI",
+  "countyNm": "WINNEBAGO",
+  "facZipCd": "54902",
+  "facZip4Cd": "3488",
+  "receiptDa": "2019-06-25T00:00:00.000",
+  "facLatDecMs": "44.019722",
+  "facLongDecMs": "-088.558889",
+  "lepcNm": "Winnebago County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Oshkosh Fire Department",
+    "agencyPhoneNm": "9202365240",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080656"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080656"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080656"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080656"
+    }
+  }
+}

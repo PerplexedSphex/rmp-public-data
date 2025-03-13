@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000061123,
+  "epaFacId": "100000230715",
+  "facNm": "Center Point Terminal J&W, LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3117 Talleyrand Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Jacksonville",
+  "facStateCd": "FL",
+  "countyNm": "DUVAL",
+  "facZipCd": "32206",
+  "facZip4Cd": null,
+  "receiptDa": "2016-12-05T00:00:00.000",
+  "facLatDecMs": "30.357981",
+  "facLongDecMs": "-81.623163",
+  "lepcNm": "Duval County Fire & Rescue",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Duval County Fire & Rescue",
+    "agencyPhoneNm": "9046300434",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061123"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Warehousing and Storage",
+          "naicsCd": "49319",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49319"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061123"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061123"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061123"
+    }
+  }
+}

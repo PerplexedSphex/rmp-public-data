@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106224,
+  "epaFacId": "100000107234",
+  "facNm": "DFA Dairy Brands Fluid LLC dba Country Fresh LLC",
+  "parntCo1Nm": "DFA Dairy Brands Fluid LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2555 Buchanan Ave. S.W.",
+  "facStreet2Tx": "",
+  "facCityNm": "Grand Rapids",
+  "facStateCd": "MI",
+  "countyNm": "KENT",
+  "facZipCd": "49548",
+  "facZip4Cd": "",
+  "receiptDa": "2023-12-27T00:00:00.000",
+  "facLatDecMs": "42.917572",
+  "facLongDecMs": "-085.671782",
+  "lepcNm": "Kent County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Wyoming Fire Department",
+    "agencyPhoneNm": "6165307300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106224"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106224"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106224"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106224"
+    }
+  }
+}

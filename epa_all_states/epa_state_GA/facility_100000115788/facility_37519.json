@@ -1,0 +1,79 @@
+{
+  "facilityId": 37519,
+  "epaFacId": "100000115788",
+  "facNm": "Atlanta Distribution Center",
+  "parntCo1Nm": "Winn-Dixie Logistics, Inc.",
+  "facDunsNu": 6921902,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5400 Fulton Industrial Boulevard",
+  "facStreet2Tx": null,
+  "facCityNm": "Atlanta",
+  "facStateCd": "GA",
+  "countyNm": "FULTON",
+  "facZipCd": "30336",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-23T00:00:00.000",
+  "facLatDecMs": "33.740000",
+  "facLongDecMs": "-084.567500",
+  "lepcNm": "Fulton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fulton County Haz. Mat. Team",
+    "agencyPhoneNm": "8002414113",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37519"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37519"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37519"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37519"
+    }
+  }
+}

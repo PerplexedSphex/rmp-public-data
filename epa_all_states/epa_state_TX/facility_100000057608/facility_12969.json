@@ -1,0 +1,90 @@
+{
+  "facilityId": 12969,
+  "epaFacId": "100000057608",
+  "facNm": "City of Houston Southeast Water Purification Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 118849199,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3100 Genoa-Red Bluff Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Houston",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77034",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "29.616889",
+  "facLongDecMs": "-95.133556",
+  "lepcNm": "Pasadena  LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Houston  Fire Department",
+    "agencyPhoneNm": "7139202831",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12969"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12969"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12969"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12969"
+    }
+  }
+}

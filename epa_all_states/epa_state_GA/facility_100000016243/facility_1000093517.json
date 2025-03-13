@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000093517,
+  "epaFacId": "100000016243",
+  "facNm": "Claxton Cold Storage",
+  "parntCo1Nm": null,
+  "facDunsNu": 835921172,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6424 Highway 301",
+  "facStreet2Tx": null,
+  "facCityNm": "Claxton",
+  "facStateCd": "GA",
+  "countyNm": "EVANS",
+  "facZipCd": "30417",
+  "facZip4Cd": null,
+  "receiptDa": "2021-05-04T14:46:50.000",
+  "facLatDecMs": "32.153056",
+  "facLongDecMs": "-081.903333",
+  "lepcNm": "24 Hour Warning LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "24 Hour Warning LEPC, GEMA",
+    "agencyPhoneNm": "4046357200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093517"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093517"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093517"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093517"
+    }
+  }
+}

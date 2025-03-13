@@ -1,0 +1,79 @@
+{
+  "facilityId": 30143,
+  "epaFacId": "100000032555",
+  "facNm": "DIAB LP DBA/DIAB, Inc",
+  "parntCo1Nm": "DIAB LP DBA/DIAB, Inc",
+  "facDunsNu": 96809603,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "315 Seahawk Dr.",
+  "facStreet2Tx": null,
+  "facCityNm": "DeSoto",
+  "facStateCd": "TX",
+  "countyNm": "DALLAS",
+  "facZipCd": "75115",
+  "facZip4Cd": "2419",
+  "receiptDa": "2004-05-24T00:00:00.000",
+  "facLatDecMs": "32.622778",
+  "facLongDecMs": "-096.853056",
+  "lepcNm": "Dallas County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2005-05-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "DeSoto Public Safety Departments",
+    "agencyPhoneNm": "9722309680",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30143"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+          "naicsCd": "32615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,6-diisocyanate  [Benzene, 1,3-diisocyanato-2-methyl-]",
+          "casNu": "91-08-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/20"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30143"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30143"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30143"
+    }
+  }
+}

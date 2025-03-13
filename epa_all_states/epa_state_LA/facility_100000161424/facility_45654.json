@@ -1,0 +1,79 @@
+{
+  "facilityId": 45654,
+  "epaFacId": "100000161424",
+  "facNm": "Kaplan Water Treatment Plant",
+  "parntCo1Nm": "City of Kaplan",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "305 South Lemaire Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Kaplan",
+  "facStateCd": "LA",
+  "countyNm": "VERMILION",
+  "facZipCd": "70548",
+  "facZip4Cd": null,
+  "receiptDa": "2006-05-19T00:00:00.000",
+  "facLatDecMs": "29.99472",
+  "facLongDecMs": "-092.28143",
+  "lepcNm": "Vermilion Parish LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kaplan Police Department",
+    "agencyPhoneNm": "3376437311",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45654"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45654"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45654"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45654"
+    }
+  }
+}

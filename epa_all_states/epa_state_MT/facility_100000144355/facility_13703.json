@@ -1,0 +1,79 @@
+{
+  "facilityId": 13703,
+  "epaFacId": "100000144355",
+  "facNm": "Montana Sulphur & Chemical Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 6233456,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "627 Exxon Road",
+  "facStreet2Tx": null,
+  "facCityNm": "NE of Billings",
+  "facStateCd": "MT",
+  "countyNm": "YELLOWSTONE",
+  "facZipCd": "59101",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "45.813111",
+  "facLongDecMs": "-108.428917",
+  "lepcNm": "Yellowstone County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2007-03-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Yellowstone Disaster and Emergency",
+    "agencyPhoneNm": "4062562775",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13703"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen sulfide",
+          "casNu": "7783-06-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/63"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13703"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13703"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13703"
+    }
+  }
+}

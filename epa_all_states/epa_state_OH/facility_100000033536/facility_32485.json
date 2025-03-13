@@ -1,0 +1,79 @@
+{
+  "facilityId": 32485,
+  "epaFacId": "100000033536",
+  "facNm": "U.S.Food Service,Inc.-Cincinnati",
+  "parntCo1Nm": "U.S. Foodservice, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5445 Spellmire Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Cincinnati",
+  "facStateCd": "OH",
+  "countyNm": "BUTLER",
+  "facZipCd": "45246",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-17T00:00:00.000",
+  "facLatDecMs": "39.301944",
+  "facLongDecMs": "-084.445000",
+  "lepcNm": "Butler County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2007-01-08T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hamilton County LEPC",
+    "agencyPhoneNm": "5138448020",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32485"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32485"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32485"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32485"
+    }
+  }
+}

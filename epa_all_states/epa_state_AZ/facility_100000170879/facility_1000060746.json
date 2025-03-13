@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000060746,
+  "epaFacId": "100000170879",
+  "facNm": "Enterprise Flagstaff (Winona) Terminal",
+  "parntCo1Nm": "Enterprise Products Operating, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "13625 Townsend Winona Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "Flagstaff",
+  "facStateCd": "AZ",
+  "countyNm": "COCONINO",
+  "facZipCd": "86004",
+  "facZip4Cd": null,
+  "receiptDa": "2016-11-29T00:00:00.000",
+  "facLatDecMs": "35.204778",
+  "facLongDecMs": "-111.406111",
+  "lepcNm": "Coconino County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Summit Fire District",
+    "agencyPhoneNm": "9285269537",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060746"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060746"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060746"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060746"
+    }
+  }
+}

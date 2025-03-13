@@ -1,0 +1,111 @@
+{
+  "facilityId": 1000037479,
+  "epaFacId": "100000206485",
+  "facNm": "Cortec Spray Technologies",
+  "parntCo1Nm": "Cortec Corporation",
+  "facDunsNu": 186173662,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1300 S River St",
+  "facStreet2Tx": null,
+  "facCityNm": "Spooner",
+  "facStateCd": "WI",
+  "countyNm": "WASHBURN",
+  "facZipCd": "54801",
+  "facZip4Cd": null,
+  "receiptDa": "2014-03-20T00:00:00.000",
+  "facLatDecMs": "45.812520",
+  "facLongDecMs": "-091.896880",
+  "lepcNm": "Washburn County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Spooner Fire Department",
+    "agencyPhoneNm": "7156359115",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037479"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+          "naicsCd": "325998",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325998"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isobutane  [Propane, 2-methyl]",
+          "casNu": "75-28-5",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/107"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Propane",
+              "casNu": "74-98-6",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Isobutane  [Propane, 2-methyl]",
+              "casNu": "75-28-5",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/107"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037479"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037479"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037479"
+    }
+  }
+}

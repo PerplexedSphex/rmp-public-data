@@ -1,0 +1,79 @@
+{
+  "facilityId": 42004,
+  "epaFacId": "100000167204",
+  "facNm": "Southern Resin, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3340 Denton Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Thomasville",
+  "facStateCd": "NC",
+  "countyNm": "DAVIDSON",
+  "facZipCd": "27360",
+  "facZip4Cd": null,
+  "receiptDa": "2005-02-07T00:00:00.000",
+  "facLatDecMs": "35.825000",
+  "facLongDecMs": "-080.097222",
+  "lepcNm": "Davidson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fair Grove Fire Department",
+    "agencyPhoneNm": "3364767711",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42004"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42004"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42004"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42004"
+    }
+  }
+}

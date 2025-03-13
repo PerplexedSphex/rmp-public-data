@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000018758,
+  "epaFacId": "100000170245",
+  "facNm": "Panama City, FL Terminal",
+  "parntCo1Nm": "AmeriGas Propane, L.P.",
+  "facDunsNu": 835406539,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1830 East 3rd Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Panama City",
+  "facStateCd": "FL",
+  "countyNm": "BAY",
+  "facZipCd": "32401",
+  "facZip4Cd": null,
+  "receiptDa": "2010-12-02T00:00:00.000",
+  "facLatDecMs": "30.153056",
+  "facLongDecMs": "-085.635833",
+  "lepcNm": "District 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2017-08-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Panama City Fire Department",
+    "agencyPhoneNm": "8508723056",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018758"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018758"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018758"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018758"
+    }
+  }
+}

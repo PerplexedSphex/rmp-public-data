@@ -1,0 +1,79 @@
+{
+  "facilityId": 9526,
+  "epaFacId": "100000117508",
+  "facNm": "The Procter & Gamble Manufacturing Company",
+  "parntCo1Nm": "The Procter & Gamble Company",
+  "facDunsNu": 1326827,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3464 Mike Padgett Hwy",
+  "facStreet2Tx": null,
+  "facCityNm": "Augusta",
+  "facStateCd": "GA",
+  "countyNm": "RICHMOND",
+  "facZipCd": "30906",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "33.39125",
+  "facLongDecMs": "-82.002306",
+  "lepcNm": "Augusta Richmond County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2002-02-28T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Augusta Richmond County EMA",
+    "agencyPhoneNm": "7068211155",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9526"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Soap and Other Detergent Manufacturing ",
+          "naicsCd": "325611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Oleum (Fuming Sulfuric acid)  [Sulfuric acid, mixture with sulfur trioxide]",
+          "casNu": "8014-95-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/69"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9526"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9526"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9526"
+    }
+  }
+}

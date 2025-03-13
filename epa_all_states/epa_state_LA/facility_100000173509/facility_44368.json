@@ -1,0 +1,90 @@
+{
+  "facilityId": 44368,
+  "epaFacId": "100000173509",
+  "facNm": "Addis Plant A",
+  "parntCo1Nm": "C-K Tech, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "9750 LA-1 South",
+  "facStreet2Tx": null,
+  "facCityNm": "Addis",
+  "facStateCd": "LA",
+  "countyNm": "WEST BATON ROUGE",
+  "facZipCd": "70710",
+  "facZip4Cd": null,
+  "receiptDa": "2005-12-01T00:00:00.000",
+  "facLatDecMs": "30.319720",
+  "facLongDecMs": "-091.259720",
+  "lepcNm": "West Baton Rouge Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "West Baton Rouge Parish LEPC",
+    "agencyPhoneNm": "2253561577",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44368"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl chloride  [Ethene, chloro-]",
+          "casNu": "75-01-4",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/101"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44368"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44368"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44368"
+    }
+  }
+}

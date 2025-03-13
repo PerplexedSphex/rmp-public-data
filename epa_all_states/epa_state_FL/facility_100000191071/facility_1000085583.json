@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000085583,
+  "epaFacId": "100000191071",
+  "facNm": "FPL Manatee Plant",
+  "parntCo1Nm": "Florida Power & Light Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "19050 State Road 62",
+  "facStreet2Tx": null,
+  "facCityNm": "Parrish",
+  "facStateCd": "FL",
+  "countyNm": "MANATEE",
+  "facZipCd": "34219",
+  "facZip4Cd": null,
+  "receiptDa": "2020-02-28T07:20:12.000",
+  "facLatDecMs": "27.595983",
+  "facLongDecMs": "-082.344149",
+  "lepcNm": "District 8 LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Manatee County Hazmat Coordinator",
+    "agencyPhoneNm": "9417493543",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085583"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085583"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085583"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085583"
+    }
+  }
+}

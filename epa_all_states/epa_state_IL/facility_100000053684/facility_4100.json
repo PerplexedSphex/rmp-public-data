@@ -1,0 +1,79 @@
+{
+  "facilityId": 4100,
+  "epaFacId": "100000053684",
+  "facNm": "Bernardi Italian Foods, Inc.",
+  "parntCo1Nm": "Windsor Frozen Foods",
+  "facDunsNu": 44223840,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "301 West 3rd Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Toluca",
+  "facStateCd": "IL",
+  "countyNm": "MARSHALL",
+  "facZipCd": "61369",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "41.001944",
+  "facLongDecMs": "-89.136667",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Toluca Fire Department",
+    "agencyPhoneNm": "8154522341",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4100"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Specialty Food Manufacturing ",
+          "naicsCd": "311412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4100"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4100"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4100"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 3706,
+  "epaFacId": "100000044908",
+  "facNm": "Heinz Frozen Food Company, West Chester",
+  "parntCo1Nm": "Heinz Frozen Food Company",
+  "facDunsNu": 45263092,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "700 Old Fern Hill Road",
+  "facStreet2Tx": null,
+  "facCityNm": "West Chester",
+  "facStateCd": "PA",
+  "countyNm": "CHESTER",
+  "facZipCd": "19380",
+  "facZip4Cd": "4206",
+  "receiptDa": "1999-06-17T00:00:00.000",
+  "facLatDecMs": "39.977333",
+  "facLongDecMs": "-75.589778",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-08-12T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": " Chester County LEPC",
+    "agencyPhoneNm": "6103445000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3706"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3706"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3706"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3706"
+    }
+  }
+}

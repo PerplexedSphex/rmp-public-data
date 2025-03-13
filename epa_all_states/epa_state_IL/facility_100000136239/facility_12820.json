@@ -1,0 +1,79 @@
+{
+  "facilityId": 12820,
+  "epaFacId": "100000136239",
+  "facNm": "Viking Chemical Co.",
+  "parntCo1Nm": "Viking Chemical Co.",
+  "facDunsNu": 25807272,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1827 Eighteenth Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Rockford",
+  "facStateCd": "IL",
+  "countyNm": "WINNEBAGO",
+  "facZipCd": "61104",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "42.2475",
+  "facLongDecMs": "-89.067778",
+  "lepcNm": "Winnebago County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rockford Fire Department",
+    "agencyPhoneNm": "8159875555",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12820"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Wholesalers",
+          "naicsCd": "42269",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42269"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12820"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12820"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12820"
+    }
+  }
+}

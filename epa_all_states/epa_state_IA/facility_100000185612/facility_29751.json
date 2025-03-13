@@ -1,0 +1,88 @@
+{
+  "facilityId": 29751,
+  "epaFacId": "100000185612",
+  "facNm": "Postville Bulk Plant",
+  "parntCo1Nm": "Fauser Oil Co., Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "280 North West St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Postville",
+  "facStateCd": "IA",
+  "countyNm": "ALLAMAKEE",
+  "facZipCd": "52162",
+  "facZip4Cd": null,
+  "receiptDa": "2004-03-30T00:00:00.000",
+  "facLatDecMs": "43.086944",
+  "facLongDecMs": "-91.578333",
+  "lepcNm": "Allamakee County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-01-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Postville Fire Dept.",
+    "agencyPhoneNm": "5638647777",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29751"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Liquefied Petroleum Gas (Bottled Gas) Dealers",
+          "naicsCd": "454312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/454312"
+            }
+          }
+        },
+        {
+          "description": "Petroleum and Petroleum Products Wholesalers (Except Bulk Stations and Terminals)",
+          "naicsCd": "42272",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42272"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29751"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29751"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29751"
+    }
+  }
+}

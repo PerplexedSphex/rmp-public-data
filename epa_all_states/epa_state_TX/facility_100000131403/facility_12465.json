@@ -1,0 +1,90 @@
+{
+  "facilityId": 12465,
+  "epaFacId": "100000131403",
+  "facNm": "BASF Corporation Clear Lake Site",
+  "parntCo1Nm": "BASF Corporation",
+  "facDunsNu": 6287163,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "11200 Bay Area Blvd",
+  "facStreet2Tx": null,
+  "facCityNm": "Pasadena",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77507",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "29.619722",
+  "facLongDecMs": "-95.041389",
+  "lepcNm": "LaPorte LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2000-01-17T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Channel Industries Mutual Aid -CIMA",
+    "agencyPhoneNm": "2818379191",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12465"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Surface Active Agent Manufacturing ",
+          "naicsCd": "325613",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325613"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethylene oxide  [Oxirane]",
+          "casNu": "75-21-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/9"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene oxide  [Oxirane, methyl-]",
+          "casNu": "75-56-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/12"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12465"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12465"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12465"
+    }
+  }
+}

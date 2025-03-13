@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000031716,
+  "epaFacId": "100000199126",
+  "facNm": "Salem Gas Processing Plant",
+  "parntCo1Nm": "Citation Oil & Gas Corp.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2302 Hoots Chapel Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Odin",
+  "facStateCd": "IL",
+  "countyNm": "MARION",
+  "facZipCd": "62870",
+  "facZip4Cd": null,
+  "receiptDa": "2012-11-15T00:00:00.000",
+  "facLatDecMs": "38.555556",
+  "facLongDecMs": "-089.015556",
+  "lepcNm": "Marion County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2021-02-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Salem Fire Department",
+    "agencyPhoneNm": "6185481818",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000031716"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000031716"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000031716"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000031716"
+    }
+  }
+}

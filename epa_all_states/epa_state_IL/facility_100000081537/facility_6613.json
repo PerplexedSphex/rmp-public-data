@@ -1,0 +1,90 @@
+{
+  "facilityId": 6613,
+  "epaFacId": "100000081537",
+  "facNm": "Reichhold Inc.",
+  "parntCo1Nm": "Reichhold, Inc.",
+  "facDunsNu": 115758393,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "7440 West DuPont Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Morris",
+  "facStateCd": "IL",
+  "countyNm": "GRUNDY",
+  "facZipCd": "60450",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "41.305278",
+  "facLongDecMs": "-88.56",
+  "lepcNm": "Grundy County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Grundy County LEPC",
+    "agencyPhoneNm": "8159413212",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6613"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethylene  [Ethene]",
+          "casNu": "74-85-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/95"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6613"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6613"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6613"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000033806,
+  "epaFacId": "100000169701",
+  "facNm": "Wal-Mart Distribution Center #6056",
+  "parntCo1Nm": "Wal-Mart Stores, Inc.",
+  "facDunsNu": 51957769,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "591 Apache Trail",
+  "facStreet2Tx": null,
+  "facCityNm": "Terrell",
+  "facStateCd": "TX",
+  "countyNm": "KAUFMAN",
+  "facZipCd": "75160",
+  "facZip4Cd": null,
+  "receiptDa": "2013-04-03T00:00:00.000",
+  "facLatDecMs": "32.725833",
+  "facLongDecMs": "-096.319167",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Terrell Fire Dept. - Roger Roach",
+    "agencyPhoneNm": "9725516650",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033806"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033806"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033806"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033806"
+    }
+  }
+}

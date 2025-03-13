@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000092488,
+  "epaFacId": "100000152522",
+  "facNm": "Willard CO2 Seperation Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 617430996,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1190 County Rd 330",
+  "facStreet2Tx": null,
+  "facCityNm": "Denver City",
+  "facStateCd": "TX",
+  "countyNm": "YOAKUM",
+  "facZipCd": "79323",
+  "facZip4Cd": null,
+  "receiptDa": "2021-02-22T00:00:00.000",
+  "facLatDecMs": "33.02671",
+  "facLongDecMs": "-102.82756",
+  "lepcNm": "Yoakum County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Yoakum County LEPC",
+    "agencyPhoneNm": "8062151525",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092488"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Oil and Gas Extraction",
+          "naicsCd": "21111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092488"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092488"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092488"
+    }
+  }
+}

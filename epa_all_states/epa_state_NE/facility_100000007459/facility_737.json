@@ -1,0 +1,79 @@
+{
+  "facilityId": 737,
+  "epaFacId": "100000007459",
+  "facNm": "COLUMBUS EAST AMMONIA PLANT",
+  "parntCo1Nm": "FARM & HOME COOP",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1362 3rd AVE.",
+  "facStreet2Tx": null,
+  "facCityNm": "COLUMBUS",
+  "facStateCd": "NE",
+  "countyNm": "PLATTE",
+  "facZipCd": "68601",
+  "facZip4Cd": null,
+  "receiptDa": "1999-05-12T00:00:00.000",
+  "facLatDecMs": "41.429111",
+  "facLongDecMs": "-97.332",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-01-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "COLUMBUS FIRE DEPT.",
+    "agencyPhoneNm": "0000000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/737"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Product Warehousing and Storage",
+          "naicsCd": "49313",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49313"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/737"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/737"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/737"
+    }
+  }
+}

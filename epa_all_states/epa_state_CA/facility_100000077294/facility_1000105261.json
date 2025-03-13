@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000105261,
+  "epaFacId": "100000077294",
+  "facNm": "Los Angeles Cold Storage Company",
+  "parntCo1Nm": "Standard Southern Corporation",
+  "facDunsNu": 28547008,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "400 South Central Ave.",
+  "facStreet2Tx": "",
+  "facCityNm": "Los Angeles",
+  "facStateCd": "CA",
+  "countyNm": "LOS ANGELES",
+  "facZipCd": "90013",
+  "facZip4Cd": "",
+  "receiptDa": "2023-05-17T00:00:00.000",
+  "facLatDecMs": "34.042807",
+  "facLongDecMs": "-118.239016",
+  "lepcNm": "California Region 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Los Angeles City Fire Department",
+    "agencyPhoneNm": "2134855971",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105261"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105261"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105261"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105261"
+    }
+  }
+}

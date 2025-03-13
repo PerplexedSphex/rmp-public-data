@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000090605,
+  "epaFacId": "100000109072",
+  "facNm": "Stahl-Meyer Foods, Inc.",
+  "parntCo1Nm": "",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "294 SW Harvey Greene Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Madison",
+  "facStateCd": "FL",
+  "countyNm": "MADISON",
+  "facZipCd": "32340",
+  "facZip4Cd": "",
+  "receiptDa": "2023-10-26T00:00:00.000",
+  "facLatDecMs": "30.453889",
+  "facLongDecMs": "-083.411110",
+  "lepcNm": "District 3 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Madison Fire Department",
+    "agencyPhoneNm": "8509735075",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090605"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090605"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090605"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090605"
+    }
+  }
+}

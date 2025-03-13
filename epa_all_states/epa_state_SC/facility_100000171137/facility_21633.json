@@ -1,0 +1,79 @@
+{
+  "facilityId": 21633,
+  "epaFacId": "100000171137",
+  "facNm": "BILO Distribution Facility, Greenville, SC",
+  "parntCo1Nm": "BILO Inc",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "208 Industrial Blvd",
+  "facStreet2Tx": null,
+  "facCityNm": "Greenville",
+  "facStateCd": "SC",
+  "countyNm": "GREENVILLE",
+  "facZipCd": "29682",
+  "facZip4Cd": null,
+  "receiptDa": "2000-07-17T00:00:00.000",
+  "facLatDecMs": "34.806611",
+  "facLongDecMs": "-82.308722",
+  "lepcNm": "Mauldin, SC LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mauldin Fire Department",
+    "agencyPhoneNm": "8432898926",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21633"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21633"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21633"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21633"
+    }
+  }
+}

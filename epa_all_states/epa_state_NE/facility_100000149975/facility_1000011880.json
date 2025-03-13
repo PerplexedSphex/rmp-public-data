@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000011880,
+  "epaFacId": "100000149975",
+  "facNm": "Linweld Acetylene Plant",
+  "parntCo1Nm": "Linweld Manufacturing, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "11th & Commercial",
+  "facStreet2Tx": "PO Box 133",
+  "facCityNm": "Oakland",
+  "facStateCd": "NE",
+  "countyNm": "BURT",
+  "facZipCd": "68045",
+  "facZip4Cd": "0133",
+  "receiptDa": "2009-12-18T00:00:00.000",
+  "facLatDecMs": "41.847222",
+  "facLongDecMs": "-096.466944",
+  "lepcNm": "Burt LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2011-07-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Oakland Fire Department",
+    "agencyPhoneNm": "4026855115",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011880"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Manufacturing ",
+          "naicsCd": "339999",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/339999"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Acetylene  [Ethyne]",
+          "casNu": "74-86-2",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/96"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011880"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011880"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011880"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000024467,
+  "epaFacId": "100000216045",
+  "facNm": "5N Plus, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 58866989,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "515 Commerce Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Fairfield",
+  "facStateCd": "CT",
+  "countyNm": "FAIRFIELD",
+  "facZipCd": "06825",
+  "facZip4Cd": null,
+  "receiptDa": "2011-11-03T00:00:00.000",
+  "facLatDecMs": "41.164049",
+  "facLongDecMs": "-73.231480",
+  "lepcNm": "Fairfield LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-12-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Fairfield Fire Department",
+    "agencyPhoneNm": "2032544708",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024467"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "325188",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325188"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024467"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024467"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024467"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000038286,
+  "epaFacId": "100000063094",
+  "facNm": "Wayne Farms LLC - Decatur Fresh Processing",
+  "parntCo1Nm": null,
+  "facDunsNu": 797613275,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "254 Ipsco Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Decatur",
+  "facStateCd": "AL",
+  "countyNm": "MORGAN",
+  "facZipCd": "35601",
+  "facZip4Cd": null,
+  "receiptDa": "2014-11-18T00:00:00.000",
+  "facLatDecMs": "34.608139",
+  "facLongDecMs": "-087.044525",
+  "lepcNm": "Morgan County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Decatur Fire Department",
+    "agencyPhoneNm": "2563504613",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038286"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038286"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038286"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038286"
+    }
+  }
+}

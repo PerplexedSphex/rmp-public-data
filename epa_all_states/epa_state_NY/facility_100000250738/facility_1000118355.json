@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000118355,
+  "epaFacId": "100000250738",
+  "facNm": "Adams RNG",
+  "parntCo1Nm": "Adams RNG, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4419 Walker Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Randolph",
+  "facStateCd": "NY",
+  "countyNm": "CATTARAUGUS",
+  "facZipCd": "14772",
+  "facZip4Cd": "",
+  "receiptDa": "2024-11-01T00:00:00.000",
+  "facLatDecMs": "42.186811",
+  "facLongDecMs": "-78.948866",
+  "lepcNm": "\u00a0Conewango Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "\u00a0Conewango Fire Department",
+    "agencyPhoneNm": "7162873718",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118355"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Biomass Electric Power Generation ",
+          "naicsCd": "221117",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221117"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Methane",
+              "casNu": "74-82-8",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118355"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118355"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118355"
+    }
+  }
+}

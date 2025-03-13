@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000054277,
+  "epaFacId": "100000217632",
+  "facNm": "Wilbur-Ellis RNA-San Joaquin",
+  "parntCo1Nm": "Wilbur-Ellis Company LLC",
+  "facDunsNu": 6913479,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "22312 Railroad Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "San Joaquin",
+  "facStateCd": "CA",
+  "countyNm": "FRESNO",
+  "facZipCd": "93660",
+  "facZip4Cd": null,
+  "receiptDa": "2015-12-07T00:00:00.000",
+  "facLatDecMs": "36.610196",
+  "facLongDecMs": "-120.193989",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Fresno County Environmental Health",
+    "agencyPhoneNm": "5596003271",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054277"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054277"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054277"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054277"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000038721,
+  "epaFacId": "100000140956",
+  "facNm": "Central Cold Storage",
+  "parntCo1Nm": "The VPS Companies",
+  "facDunsNu": 76126317,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "13526 Blackie Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Castroville",
+  "facStateCd": "CA",
+  "countyNm": "MONTEREY",
+  "facZipCd": "95012",
+  "facZip4Cd": null,
+  "receiptDa": "2014-02-04T00:00:00.000",
+  "facLatDecMs": "36.757756",
+  "facLongDecMs": "-121.742950",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Monterey County Public Health Dept.",
+    "agencyPhoneNm": "8317554505",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038721"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        },
+        {
+          "description": "Postharvest Crop Activities (except Cotton Ginning) ",
+          "naicsCd": "115114",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/115114"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038721"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038721"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038721"
+    }
+  }
+}

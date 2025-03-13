@@ -1,0 +1,79 @@
+{
+  "facilityId": 15569,
+  "epaFacId": "100000026303",
+  "facNm": "Techalloy Company, Inc. - Northampton Wiire Plant",
+  "parntCo1Nm": "Techalloy Company, Inc.",
+  "facDunsNu": 793111634,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "122 Federal Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Northampton",
+  "facStateCd": "MA",
+  "countyNm": "HAMPSHIRE",
+  "facZipCd": "01060",
+  "facZip4Cd": null,
+  "receiptDa": "1999-08-02T00:00:00.000",
+  "facLatDecMs": "42.323278",
+  "facLongDecMs": "-72.656389",
+  "lepcNm": "Northampton LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2002-06-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "northampton fire department",
+    "agencyPhoneNm": "4135847165",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15569"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Steel Wire Drawing ",
+          "naicsCd": "331222",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331222"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15569"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15569"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15569"
+    }
+  }
+}

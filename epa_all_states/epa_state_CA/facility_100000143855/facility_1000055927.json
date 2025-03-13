@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000055927,
+  "epaFacId": "100000143855",
+  "facNm": "ALVARADO WATER TREATMENT PLANT",
+  "parntCo1Nm": "CITY OF SAN DIEGO WATER DEPARTMENT",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5540 Kiowa Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "LA MESA",
+  "facStateCd": "CA",
+  "countyNm": "SAN DIEGO",
+  "facZipCd": "91942",
+  "facZip4Cd": null,
+  "receiptDa": "2016-03-10T00:00:00.000",
+  "facLatDecMs": "32.818333",
+  "facLongDecMs": "-117.046083",
+  "lepcNm": "Region VI LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "County Dpt of Env Health HazMat",
+    "agencyPhoneNm": "6193382284",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055927"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055927"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055927"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055927"
+    }
+  }
+}

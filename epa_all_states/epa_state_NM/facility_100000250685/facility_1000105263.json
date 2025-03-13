@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000105263,
+  "epaFacId": "100000250685",
+  "facNm": "Blue Stem Terminal",
+  "parntCo1Nm": "LM Touchdown Crude II, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "21.6 NE of Carlsbad",
+  "facStreet2Tx": "",
+  "facCityNm": "Carlsbad",
+  "facStateCd": "NM",
+  "countyNm": "EDDY",
+  "facZipCd": "77777",
+  "facZip4Cd": "",
+  "receiptDa": "2023-09-12T00:00:00.000",
+  "facLatDecMs": "32.639561",
+  "facLongDecMs": "-103.965606",
+  "lepcNm": "Eddy County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Local FD",
+    "agencyPhoneNm": "5555555555",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105263"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Crude Petroleum Extraction ",
+          "naicsCd": "21112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105263"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105263"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105263"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000003397,
+  "epaFacId": "100000037257",
+  "facNm": "Kraft Foods Group, Inc - Davenport",
+  "parntCo1Nm": "Kraft Foods Group, Inc.",
+  "facDunsNu": 39010590,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1337 West Second Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Davenport",
+  "facStateCd": "IA",
+  "countyNm": "SCOTT",
+  "facZipCd": "52802",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-11T00:00:00.000",
+  "facLatDecMs": "41.520833",
+  "facLongDecMs": "-090.593889",
+  "lepcNm": "Scott County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-12-07T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Davenport Fire Department",
+    "agencyPhoneNm": "5633267906",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003397"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003397"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003397"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003397"
+    }
+  }
+}

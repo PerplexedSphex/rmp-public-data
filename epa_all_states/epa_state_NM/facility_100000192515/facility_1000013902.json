@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000013902,
+  "epaFacId": "100000192515",
+  "facNm": "Southwest Cheese Company LLC",
+  "parntCo1Nm": "Glanbia",
+  "facDunsNu": 156187465,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1141 Curry Road 4",
+  "facStreet2Tx": null,
+  "facCityNm": "Clovis",
+  "facStateCd": "NM",
+  "countyNm": "CURRY",
+  "facZipCd": "88101",
+  "facZip4Cd": null,
+  "receiptDa": "2010-05-07T00:00:00.000",
+  "facLatDecMs": "34.317500",
+  "facLongDecMs": "-103.221944",
+  "lepcNm": "Curry County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Curry County LEPC",
+    "agencyPhoneNm": "5757639485",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013902"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013902"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013902"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013902"
+    }
+  }
+}

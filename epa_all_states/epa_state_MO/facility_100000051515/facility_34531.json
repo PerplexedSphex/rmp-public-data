@@ -1,0 +1,79 @@
+{
+  "facilityId": 34531,
+  "epaFacId": "100000051515",
+  "facNm": "Petit Jean Poultry, Buffalo Plant",
+  "parntCo1Nm": "Petit Jean Poultry, Inc",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "900 N Cedar",
+  "facStreet2Tx": null,
+  "facCityNm": "Buffalo",
+  "facStateCd": "MO",
+  "countyNm": "DALLAS",
+  "facZipCd": "65622",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "37.655000",
+  "facLongDecMs": "-093.095833",
+  "lepcNm": "Dallas County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2008-10-03T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Buffalo Fire Department",
+    "agencyPhoneNm": "4173457800",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34531"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34531"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34531"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34531"
+    }
+  }
+}

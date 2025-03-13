@@ -1,0 +1,79 @@
+{
+  "facilityId": 45503,
+  "epaFacId": "100000095443",
+  "facNm": "Mid States Dairy",
+  "parntCo1Nm": "Schnuck Markets  Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6040 North Lindbergh Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Hazelwood",
+  "facStateCd": "MO",
+  "countyNm": "ST. LOUIS",
+  "facZipCd": "63042",
+  "facZip4Cd": null,
+  "receiptDa": "2006-04-24T00:00:00.000",
+  "facLatDecMs": "38.768889",
+  "facLongDecMs": "-090.366083",
+  "lepcNm": "St. Louis LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2007-07-09T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hazelwood Fire Department",
+    "agencyPhoneNm": "3147313424",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45503"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45503"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45503"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45503"
+    }
+  }
+}

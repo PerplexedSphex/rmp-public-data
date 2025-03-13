@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000104882,
+  "epaFacId": "100000202531",
+  "facNm": "Iroquois Bio-Energy Company",
+  "parntCo1Nm": "Harvestone Low Carbon Partners",
+  "facDunsNu": 30518869,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "751 West State Road 114",
+  "facStreet2Tx": "",
+  "facCityNm": "Rensselaer",
+  "facStateCd": "IN",
+  "countyNm": "JASPER",
+  "facZipCd": "47978",
+  "facZip4Cd": "",
+  "receiptDa": "2023-04-28T00:00:00.000",
+  "facLatDecMs": "40.933056",
+  "facLongDecMs": "-087.067222",
+  "lepcNm": "Jasper County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "LEPC Jasper County",
+    "agencyPhoneNm": "2198669423",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104882"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ethyl Alcohol Manufacturing ",
+          "naicsCd": "325193",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325193"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Isopentane  [Butane, 2-methyl-]",
+              "casNu": "78-78-4",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/115"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104882"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104882"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104882"
+    }
+  }
+}

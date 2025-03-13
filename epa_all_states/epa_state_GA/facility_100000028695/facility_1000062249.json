@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000062249,
+  "epaFacId": "100000028695",
+  "facNm": "DG Distribution GA LLC",
+  "parntCo1Nm": "Dollar General Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3569 International Park Drive SE",
+  "facStreet2Tx": null,
+  "facCityNm": "Atlanta",
+  "facStateCd": "GA",
+  "countyNm": "DEKALB",
+  "facZipCd": "30316",
+  "facZip4Cd": null,
+  "receiptDa": "2017-02-16T00:00:00.000",
+  "facLatDecMs": "33.684503",
+  "facLongDecMs": "-84.324657",
+  "lepcNm": "DeKalb County Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "DeKalb County Fire Department",
+    "agencyPhoneNm": "7702701413",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062249"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062249"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062249"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062249"
+    }
+  }
+}

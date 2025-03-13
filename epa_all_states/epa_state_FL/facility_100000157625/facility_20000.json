@@ -1,0 +1,79 @@
+{
+  "facilityId": 20000,
+  "epaFacId": "100000157625",
+  "facNm": "Indiantown Cogeneration Company, L.P.",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "19140 SW Warfield Blvd",
+  "facStreet2Tx": null,
+  "facCityNm": "Indiantown",
+  "facStateCd": "FL",
+  "countyNm": "MARTIN",
+  "facZipCd": "34956",
+  "facZip4Cd": null,
+  "receiptDa": "1999-08-02T00:00:00.000",
+  "facLatDecMs": "27.038889",
+  "facLongDecMs": "-80.5125",
+  "lepcNm": "District 10 LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Martin Co. Emer. Mgmt. Comm. Center",
+    "agencyPhoneNm": "5612885694",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20000"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20000"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20000"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20000"
+    }
+  }
+}

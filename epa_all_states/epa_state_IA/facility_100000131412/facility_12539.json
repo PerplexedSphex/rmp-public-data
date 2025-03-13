@@ -1,0 +1,79 @@
+{
+  "facilityId": 12539,
+  "epaFacId": "100000131412",
+  "facNm": "Lamont Elevator",
+  "parntCo1Nm": "Arlington Co-op Comm. Co.",
+  "facDunsNu": 220146200,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1301 Washburn Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Lamont",
+  "facStateCd": "IA",
+  "countyNm": "BUCHANAN",
+  "facZipCd": "50650",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "42.6",
+  "facLongDecMs": "91.633583",
+  "lepcNm": "Buchanan County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Agrocom",
+    "agencyPhoneNm": "8888810878",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12539"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12539"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12539"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12539"
+    }
+  }
+}

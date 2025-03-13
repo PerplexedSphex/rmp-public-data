@@ -1,0 +1,79 @@
+{
+  "facilityId": 13200,
+  "epaFacId": "100000139469",
+  "facNm": "Jimmy Dean Foods",
+  "parntCo1Nm": "Sara Lee Corporation",
+  "facDunsNu": 189650914,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2000 Biffle Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Newbern",
+  "facStateCd": "TN",
+  "countyNm": "DYER",
+  "facZipCd": "38059",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "36.141111",
+  "facLongDecMs": "-89.273333",
+  "lepcNm": "Dyer County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Newbern Fire Department",
+    "agencyPhoneNm": "9016273221",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13200"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13200"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13200"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13200"
+    }
+  }
+}

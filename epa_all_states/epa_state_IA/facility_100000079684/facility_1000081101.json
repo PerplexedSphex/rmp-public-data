@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000081101,
+  "epaFacId": "100000079684",
+  "facNm": "Anderson Erickson Dairy Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 5278734,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2229 Hubbell Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Des Moines",
+  "facStateCd": "IA",
+  "countyNm": "POLK",
+  "facZipCd": "50317",
+  "facZip4Cd": null,
+  "receiptDa": "2019-07-05T09:45:55.000",
+  "facLatDecMs": "41.601389",
+  "facLongDecMs": "-093.576389",
+  "lepcNm": "Polk County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Polk County LEPC",
+    "agencyPhoneNm": "5152862107",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081101"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081101"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081101"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081101"
+    }
+  }
+}

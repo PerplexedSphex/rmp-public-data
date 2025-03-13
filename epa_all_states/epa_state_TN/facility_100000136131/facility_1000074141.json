@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000074141,
+  "epaFacId": "100000136131",
+  "facNm": "George's Prepared Foods",
+  "parntCo1Nm": "George's Inc.",
+  "facDunsNu": 94768702,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "241 Elkins Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Caryville",
+  "facStateCd": "TN",
+  "countyNm": "CAMPBELL",
+  "facZipCd": "37714",
+  "facZip4Cd": null,
+  "receiptDa": "2018-11-12T13:12:11.000",
+  "facLatDecMs": "36.315639",
+  "facLongDecMs": "-084.209333",
+  "lepcNm": "Campbell County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Campbell County EMA",
+    "agencyPhoneNm": "4235626151",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074141"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074141"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074141"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074141"
+    }
+  }
+}

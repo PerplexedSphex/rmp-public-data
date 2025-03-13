@@ -1,0 +1,90 @@
+{
+  "facilityId": 16338,
+  "epaFacId": "100000158321",
+  "facNm": "New Castle Hot Mix Inc.",
+  "parntCo1Nm": "Parkway Gravel Inc.",
+  "facDunsNu": 21977908,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "800 Marsh Lane",
+  "facStreet2Tx": "Route 13",
+  "facCityNm": "New Castle",
+  "facStateCd": "DE",
+  "countyNm": "NEW CASTLE",
+  "facZipCd": "19720",
+  "facZip4Cd": null,
+  "receiptDa": "1999-08-12T00:00:00.000",
+  "facLatDecMs": "39.709722",
+  "facLongDecMs": "-75.573333",
+  "lepcNm": "New Castle LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2004-05-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Minquadale Fire Department",
+    "agencyPhoneNm": "3026520986",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16338"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Asphalt Paving Mixture and Block Manufacturing ",
+          "naicsCd": "324121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/324121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Propane",
+              "casNu": "74-98-6",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16338"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16338"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16338"
+    }
+  }
+}

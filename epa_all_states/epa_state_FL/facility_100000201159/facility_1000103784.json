@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000103784,
+  "epaFacId": "100000201159",
+  "facNm": "Sysco South Redistribution Center",
+  "parntCo1Nm": "SYSCO Corporation",
+  "facDunsNu": 209134393,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "12421 NW 173rd Street",
+  "facStreet2Tx": "",
+  "facCityNm": "Alachua",
+  "facStateCd": "FL",
+  "countyNm": "ALACHUA",
+  "facZipCd": "32615",
+  "facZip4Cd": "",
+  "receiptDa": "2022-12-21T00:00:00.000",
+  "facLatDecMs": "29.770657",
+  "facLongDecMs": "-82.519493",
+  "lepcNm": "District 3 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Alachua Fire and Rescue",
+    "agencyPhoneNm": "3864622813",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103784"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103784"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103784"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103784"
+    }
+  }
+}

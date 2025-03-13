@@ -1,0 +1,79 @@
+{
+  "facilityId": 4060,
+  "epaFacId": "100000054317",
+  "facNm": "Chester Farm Service Corp.",
+  "parntCo1Nm": null,
+  "facDunsNu": 161918925,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "305 4th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Chester",
+  "facStateCd": "SD",
+  "countyNm": "LAKE",
+  "facZipCd": "57016",
+  "facZip4Cd": "0099",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "43.897639",
+  "facLongDecMs": "-96.925278",
+  "lepcNm": "Lake County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Local Fire Department and LEPC",
+    "agencyPhoneNm": "6054892301",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4060"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4060"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4060"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4060"
+    }
+  }
+}

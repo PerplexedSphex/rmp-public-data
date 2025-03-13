@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000032418,
+  "epaFacId": "100000158884",
+  "facNm": "Koch Nitrogen Company, LLC - Garretson Terminal",
+  "parntCo1Nm": "Koch Fertilizer, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "205 Railroad Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Garretson",
+  "facStateCd": "SD",
+  "countyNm": "MINNEHAHA",
+  "facZipCd": "57030",
+  "facZip4Cd": null,
+  "receiptDa": "2013-01-14T00:00:00.000",
+  "facLatDecMs": "43.711518",
+  "facLongDecMs": "-096.507211",
+  "lepcNm": "Minnehaha County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-08-29T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Minnehaha County LEPC",
+    "agencyPhoneNm": "6053674290",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032418"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032418"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032418"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032418"
+    }
+  }
+}

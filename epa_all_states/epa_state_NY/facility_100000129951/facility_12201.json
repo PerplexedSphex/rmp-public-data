@@ -1,0 +1,79 @@
+{
+  "facilityId": 12201,
+  "epaFacId": "100000129951",
+  "facNm": "City of Fulton Water Pollution Control Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 107398604,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1690 State Route 48",
+  "facStreet2Tx": null,
+  "facCityNm": "Fulton",
+  "facStateCd": "NY",
+  "countyNm": "OSWEGO",
+  "facZipCd": "13609",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "43.335278",
+  "facLongDecMs": "-76.422222",
+  "lepcNm": "Oswego County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Oswego County LEPC",
+    "agencyPhoneNm": null,
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12201"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12201"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12201"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12201"
+    }
+  }
+}

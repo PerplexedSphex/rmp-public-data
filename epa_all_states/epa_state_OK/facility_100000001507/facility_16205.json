@@ -1,0 +1,90 @@
+{
+  "facilityId": 16205,
+  "epaFacId": "100000001507",
+  "facNm": "Brainerd Chemical Co., Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 787442417,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "6507 East 42nd Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Tulsa",
+  "facStateCd": "OK",
+  "countyNm": "TULSA",
+  "facZipCd": "74145",
+  "facZip4Cd": null,
+  "receiptDa": "1999-03-29T00:00:00.000",
+  "facLatDecMs": "36.101944",
+  "facLongDecMs": "-95.904056",
+  "lepcNm": "Tulsa LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2002-12-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tulsa LEPC",
+    "agencyPhoneNm": "9185962290",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16205"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Wholesalers",
+          "naicsCd": "42269",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42269"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Nitric acid (conc 80% or greater)",
+          "casNu": "7697-37-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/58"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16205"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16205"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16205"
+    }
+  }
+}

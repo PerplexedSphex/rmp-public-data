@@ -1,0 +1,79 @@
+{
+  "facilityId": 23931,
+  "epaFacId": "100000176436",
+  "facNm": "Defense Distribution Norfolk Virginia",
+  "parntCo1Nm": "Defense Logistics Agency",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1968 Gilbert Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Norfolk",
+  "facStateCd": "VA",
+  "countyNm": "NORFOLK (CITY)",
+  "facZipCd": "23512",
+  "facZip4Cd": "0001",
+  "receiptDa": "2001-08-13T00:00:00.000",
+  "facLatDecMs": "36.945",
+  "facLongDecMs": "-76.329444",
+  "lepcNm": "Norfolk LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-04-14T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Norfolk LEPC",
+    "agencyPhoneNm": "7574412005",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23931"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23931"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23931"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23931"
+    }
+  }
+}

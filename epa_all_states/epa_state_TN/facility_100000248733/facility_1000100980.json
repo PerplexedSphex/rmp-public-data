@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100980,
+  "epaFacId": "100000248733",
+  "facNm": "ADM Riverport",
+  "parntCo1Nm": "ADM",
+  "facDunsNu": 45880085,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1245 Channel Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Memphis",
+  "facStateCd": "TN",
+  "countyNm": "SHELBY",
+  "facZipCd": "38113",
+  "facZip4Cd": "",
+  "receiptDa": "2023-01-24T00:00:00.000",
+  "facLatDecMs": "35.103611",
+  "facLongDecMs": "-90.094444",
+  "lepcNm": "Shelby County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Memphis - Shelby County  LEPC",
+    "agencyPhoneNm": "9012226700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100980"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Port and Harbor Operations",
+          "naicsCd": "48831",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48831"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100980"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100980"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100980"
+    }
+  }
+}

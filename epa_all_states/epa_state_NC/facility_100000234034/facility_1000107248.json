@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000107248,
+  "epaFacId": "100000234034",
+  "facNm": "Sanderson Farms St. Pauls Processing",
+  "parntCo1Nm": "Sanderson Farms LLC",
+  "facDunsNu": 27306400,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2076 NC Hwy 20 West",
+  "facStreet2Tx": "",
+  "facCityNm": "St. Pauls",
+  "facStateCd": "NC",
+  "countyNm": "ROBESON",
+  "facZipCd": "28384",
+  "facZip4Cd": "",
+  "receiptDa": "2023-10-02T00:00:00.000",
+  "facLatDecMs": "34.829725",
+  "facLongDecMs": "-79.012953",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "St. Pauls Fire Department",
+    "agencyPhoneNm": "9108655155",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107248"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107248"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107248"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107248"
+    }
+  }
+}

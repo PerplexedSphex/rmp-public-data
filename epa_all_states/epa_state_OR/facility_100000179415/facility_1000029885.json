@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000029885,
+  "epaFacId": "100000179415",
+  "facNm": "Columbia River Processing Inc.",
+  "parntCo1Nm": "Tillamook County Creamery Association",
+  "facDunsNu": 7909278,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "79588 Rippee Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Boardman",
+  "facStateCd": "OR",
+  "countyNm": "MORROW",
+  "facZipCd": "97818",
+  "facZip4Cd": null,
+  "receiptDa": "2012-08-09T00:00:00.000",
+  "facLatDecMs": "45.843948",
+  "facLongDecMs": "-119.657600",
+  "lepcNm": "Morrow County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Boardman Fire Protection District",
+    "agencyPhoneNm": "5414813473",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000029885"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000029885"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000029885"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000029885"
+    }
+  }
+}

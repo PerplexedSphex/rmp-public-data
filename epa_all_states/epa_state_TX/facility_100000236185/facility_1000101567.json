@@ -1,0 +1,142 @@
+{
+  "facilityId": 1000101567,
+  "epaFacId": "100000236185",
+  "facNm": "Gemini HDPE LLC - La Porte Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 51061573,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1230 Independence Parkway South",
+  "facStreet2Tx": "Gemini HDPE Unit",
+  "facCityNm": "La Porte",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77571",
+  "facZip4Cd": null,
+  "receiptDa": "2022-07-20T00:00:00.000",
+  "facLatDecMs": "29.722325",
+  "facLongDecMs": "-95.089589",
+  "lepcNm": "La Porte LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "La Porte LEPC",
+    "agencyPhoneNm": "2814700009",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101567"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isobutane  [Propane, 2-methyl]",
+          "casNu": "75-28-5",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/107"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene  [1-Propene]",
+          "casNu": "115-07-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/129"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Ethane",
+              "casNu": "74-84-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/94"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Isobutane  [Propane, 2-methyl]",
+              "casNu": "75-28-5",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/107"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Hydrogen",
+              "casNu": "1333-74-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Ethylene  [Ethene]",
+              "casNu": "74-85-1",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/95"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101567"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101567"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101567"
+    }
+  }
+}

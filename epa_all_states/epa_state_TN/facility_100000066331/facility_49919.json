@@ -1,0 +1,79 @@
+{
+  "facilityId": 49919,
+  "epaFacId": "100000066331",
+  "facNm": "Perdue Farms Incorporated, Monterey Facility",
+  "parntCo1Nm": "Perdue Farms Incorporated",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2300 Industrial Dr",
+  "facStreet2Tx": null,
+  "facCityNm": "Monterey",
+  "facStateCd": "TN",
+  "countyNm": "PUTNAM",
+  "facZipCd": "38574",
+  "facZip4Cd": null,
+  "receiptDa": "2007-10-15T00:00:00.000",
+  "facLatDecMs": "36.120833",
+  "facLongDecMs": "-085.250000",
+  "lepcNm": "Putnam County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Monterey Fire Dept",
+    "agencyPhoneNm": "9318392808",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49919"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49919"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49919"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49919"
+    }
+  }
+}

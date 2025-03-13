@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000005796,
+  "epaFacId": "100000128952",
+  "facNm": "Empire Cheese, Inc.",
+  "parntCo1Nm": "Great Lakes Cheese Co., Inc.",
+  "facDunsNu": 130746001,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4520 Haskell Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Cuba",
+  "facStateCd": "NY",
+  "countyNm": "ALLEGANY",
+  "facZipCd": "14727",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-15T00:00:00.000",
+  "facLatDecMs": "42.197778",
+  "facLongDecMs": "-078.275000",
+  "lepcNm": "Allegany County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2025-02-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Allegany County LEPC",
+    "agencyPhoneNm": "7162687658",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005796"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005796"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005796"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005796"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000101989,
+  "epaFacId": "100000212628",
+  "facNm": "BASF Corporation - Malcom Site",
+  "parntCo1Nm": "BASF Corporation",
+  "facDunsNu": 199469677,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "106 Main Street",
+  "facStreet2Tx": "",
+  "facCityNm": "Malcom",
+  "facStateCd": "IA",
+  "countyNm": "POWESHIEK",
+  "facZipCd": "50157",
+  "facZip4Cd": "",
+  "receiptDa": "2022-08-16T00:00:00.000",
+  "facLatDecMs": "41.70633",
+  "facLongDecMs": "-92.55596",
+  "lepcNm": "Poweshiek County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clean Harbors",
+    "agencyPhoneNm": "8006458265",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101989"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,6-diisocyanate  [Benzene, 1,3-diisocyanato-2-methyl-]",
+          "casNu": "91-08-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/20"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,4-diisocyanate  [Benzene, 2,4-diisocyanato-1-methyl-]",
+          "casNu": "584-84-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/44"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101989"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101989"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101989"
+    }
+  }
+}

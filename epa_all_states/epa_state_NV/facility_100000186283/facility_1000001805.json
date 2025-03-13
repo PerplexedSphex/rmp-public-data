@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001805,
+  "epaFacId": "100000186283",
+  "facNm": "Southern Foods Group, LLC d/b/a Meadow Gold Dairie",
+  "parntCo1Nm": "Dean West, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6350 East Centennial Pkwy",
+  "facStreet2Tx": null,
+  "facCityNm": "N. Las Vegas",
+  "facStateCd": "NV",
+  "countyNm": "CLARK",
+  "facZipCd": "89115",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-08T00:00:00.000",
+  "facLatDecMs": "36.276972",
+  "facLongDecMs": "-115.032083",
+  "lepcNm": "Clark County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "North Las Vegas Fire Department",
+    "agencyPhoneNm": "7026331115",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001805"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001805"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001805"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001805"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 20898,
+  "epaFacId": "100000168463",
+  "facNm": "BASF Performance Co-Polymers LLC",
+  "parntCo1Nm": "BASF",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4201A  Degussa Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Theodore",
+  "facStateCd": "AL",
+  "countyNm": "MOBILE",
+  "facZipCd": "36582",
+  "facZip4Cd": null,
+  "receiptDa": "2000-04-03T00:00:00.000",
+  "facLatDecMs": "30.526944",
+  "facLongDecMs": "-88.136111",
+  "lepcNm": "Mobile County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2003-08-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mobile County EMA",
+    "agencyPhoneNm": "3344608000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20898"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methyl formate  [Formic acid, methyl ester]",
+          "casNu": "107-31-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/124"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20898"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20898"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20898"
+    }
+  }
+}

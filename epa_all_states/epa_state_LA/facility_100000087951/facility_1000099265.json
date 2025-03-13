@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000099265,
+  "epaFacId": "100000087951",
+  "facNm": "Neale Gas Processing Facility",
+  "parntCo1Nm": "Texas Petroleum Investment Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1088 Arco Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Merryville",
+  "facStateCd": "LA",
+  "countyNm": "BEAUREGARD",
+  "facZipCd": "70653",
+  "facZip4Cd": null,
+  "receiptDa": "2022-02-02T09:17:14.000",
+  "facLatDecMs": "30.772139",
+  "facLongDecMs": "-093.469472",
+  "lepcNm": "Beauregard Parish LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Beauregard LEPC",
+    "agencyPhoneNm": "3374633281",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099265"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Natural Gas Extraction ",
+          "naicsCd": "21113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099265"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099265"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099265"
+    }
+  }
+}

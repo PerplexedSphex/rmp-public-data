@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000109902,
+  "epaFacId": "100000252807",
+  "facNm": "Empire Dairy RNG",
+  "parntCo1Nm": "CEA Greely, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1473 County Road S",
+  "facStreet2Tx": "",
+  "facCityNm": "Wiggins",
+  "facStateCd": "CO",
+  "countyNm": "MORGAN",
+  "facZipCd": "80654",
+  "facZip4Cd": "",
+  "receiptDa": "2024-01-26T00:00:00.000",
+  "facLatDecMs": "40.264",
+  "facLongDecMs": "-104.130",
+  "lepcNm": "Morgan County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Morgan County Fire Department",
+    "agencyPhoneNm": "9704836666",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000109902"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000109902"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000109902"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000109902"
+    }
+  }
+}

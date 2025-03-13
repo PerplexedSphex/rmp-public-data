@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000103766,
+  "epaFacId": "100000147771",
+  "facNm": "Rinchem Company, LLC. - CSC 11 East Warehouse",
+  "parntCo1Nm": "",
+  "facDunsNu": 2208627,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6139 B Edith Blvd. NE",
+  "facStreet2Tx": "",
+  "facCityNm": "Albuquerque",
+  "facStateCd": "NM",
+  "countyNm": "BERNALILLO",
+  "facZipCd": "87107",
+  "facZip4Cd": "",
+  "receiptDa": "2022-12-29T00:00:00.000",
+  "facLatDecMs": "35.1445444",
+  "facLongDecMs": "-106.627505",
+  "lepcNm": "Bernalillo LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Bernalillo County Fire Department",
+    "agencyPhoneNm": "5053427922",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103766"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrochloric acid (conc 37% or greater)",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/53"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103766"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103766"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103766"
+    }
+  }
+}

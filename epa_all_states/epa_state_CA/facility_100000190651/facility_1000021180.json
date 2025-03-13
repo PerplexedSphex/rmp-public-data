@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000021180,
+  "epaFacId": "100000190651",
+  "facNm": "La Paloma Generating Plant",
+  "parntCo1Nm": "La Paloma Generating Company, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1760 West Skyline Road",
+  "facStreet2Tx": null,
+  "facCityNm": "McKittrick",
+  "facStateCd": "CA",
+  "countyNm": "KERN",
+  "facZipCd": "93251",
+  "facZip4Cd": null,
+  "receiptDa": "2011-05-02T00:00:00.000",
+  "facLatDecMs": "35.295167",
+  "facLongDecMs": "-119.593611",
+  "lepcNm": "Kern County",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "CUPA - Kern County",
+    "agencyPhoneNm": "6618628700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021180"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021180"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021180"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021180"
+    }
+  }
+}

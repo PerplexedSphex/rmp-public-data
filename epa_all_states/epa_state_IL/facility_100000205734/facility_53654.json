@@ -1,0 +1,79 @@
+{
+  "facilityId": 53654,
+  "epaFacId": "100000205734",
+  "facNm": "United States Cold Storage, Wilmington",
+  "parntCo1Nm": "United States Cold Storage, Inc.",
+  "facDunsNu": 67464289,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "800 East Kankakee River Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Wilmington",
+  "facStateCd": "IL",
+  "countyNm": "WILL",
+  "facZipCd": "60481",
+  "facZip4Cd": null,
+  "receiptDa": "2009-02-09T00:00:00.000",
+  "facLatDecMs": "41.320833",
+  "facLongDecMs": "-088.135833",
+  "lepcNm": "Will County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wilmington Fire Department",
+    "agencyPhoneNm": "8154766675",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53654"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53654"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53654"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53654"
+    }
+  }
+}

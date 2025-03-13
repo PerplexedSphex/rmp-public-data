@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000099527,
+  "epaFacId": "100000138683",
+  "facNm": "Foster Farms Belgravia Plant",
+  "parntCo1Nm": "Foster Farms",
+  "facDunsNu": 193426202,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "900 West Belgravia Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Fresno",
+  "facStateCd": "CA",
+  "countyNm": "FRESNO",
+  "facZipCd": "93706",
+  "facZip4Cd": null,
+  "receiptDa": "2022-02-02T12:57:01.000",
+  "facLatDecMs": "36.716956",
+  "facLongDecMs": "-119.823060",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fresno City Fire Department",
+    "agencyPhoneNm": "5592911580",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099527"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099527"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099527"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099527"
+    }
+  }
+}

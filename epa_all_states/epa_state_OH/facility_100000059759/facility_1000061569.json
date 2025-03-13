@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000061569,
+  "epaFacId": "100000059759",
+  "facNm": "NaChurs Alpine Solutions - Marion Plant",
+  "parntCo1Nm": "Trans Resources, Inc.",
+  "facDunsNu": 49013811,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "421 Leader Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Marion",
+  "facStateCd": "OH",
+  "countyNm": "MARION",
+  "facZipCd": "43302",
+  "facZip4Cd": null,
+  "receiptDa": "2017-01-27T00:00:00.000",
+  "facLatDecMs": "40.59529",
+  "facLongDecMs": "-83.13962",
+  "lepcNm": "Marion County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Marion Fire Department",
+    "agencyPhoneNm": "7403820040",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061569"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061569"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061569"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061569"
+    }
+  }
+}

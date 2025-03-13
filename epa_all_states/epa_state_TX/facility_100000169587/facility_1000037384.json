@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000037384,
+  "epaFacId": "100000169587",
+  "facNm": "Kellers Creamery",
+  "parntCo1Nm": "Dairy Farmers of America",
+  "facDunsNu": 784127284,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1015 East Broadway Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Winnsboro",
+  "facStateCd": "TX",
+  "countyNm": "WOOD",
+  "facZipCd": "75494",
+  "facZip4Cd": null,
+  "receiptDa": "2013-11-19T00:00:00.000",
+  "facLatDecMs": "32.957281",
+  "facLongDecMs": "-095.273189",
+  "lepcNm": "Wood County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Winnsboro Police Department",
+    "agencyPhoneNm": "9033423620",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037384"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        },
+        {
+          "description": "Creamery Butter Manufacturing ",
+          "naicsCd": "311512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037384"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037384"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037384"
+    }
+  }
+}

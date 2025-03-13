@@ -1,0 +1,79 @@
+{
+  "facilityId": 46279,
+  "epaFacId": "100000196192",
+  "facNm": "Cape Cod Ice",
+  "parntCo1Nm": null,
+  "facDunsNu": 175760040,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "7 Jan Sebastian Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Sandwich",
+  "facStateCd": "MA",
+  "countyNm": "BARNSTABLE",
+  "facZipCd": "02563",
+  "facZip4Cd": null,
+  "receiptDa": "2006-08-15T00:00:00.000",
+  "facLatDecMs": "41.719091",
+  "facLongDecMs": "-070.485565",
+  "lepcNm": "Barnstable LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-11-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Barnstable LEPC",
+    "agencyPhoneNm": "5083756618",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/46279"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Manufacturing ",
+          "naicsCd": "312113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/312113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/46279"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/46279"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/46279"
+    }
+  }
+}

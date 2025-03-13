@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000010621,
+  "epaFacId": "100000192472",
+  "facNm": "Henningsen Cold Storage Co. Grand Forks, ND",
+  "parntCo1Nm": "Henningsen Cold Storage Co.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5200 11th Avenue South",
+  "facStreet2Tx": null,
+  "facCityNm": "Grand Forks",
+  "facStateCd": "ND",
+  "countyNm": "GRAND FORKS",
+  "facZipCd": "58201",
+  "facZip4Cd": "3817",
+  "receiptDa": "2009-12-08T00:00:00.000",
+  "facLatDecMs": "47.912170",
+  "facLongDecMs": "-097.105040",
+  "lepcNm": "Grand Forks County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Grand Forks Fire Department",
+    "agencyPhoneNm": "7017462569",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010621"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010621"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010621"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010621"
+    }
+  }
+}

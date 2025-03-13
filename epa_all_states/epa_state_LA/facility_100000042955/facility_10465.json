@@ -1,0 +1,79 @@
+{
+  "facilityId": 10465,
+  "epaFacId": "100000042955",
+  "facNm": "MG Industries - West Lake",
+  "parntCo1Nm": "MG Industries",
+  "facDunsNu": 2233088,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2745 Houston River Road",
+  "facStreet2Tx": null,
+  "facCityNm": "West Lake",
+  "facStateCd": "LA",
+  "countyNm": "CALCASIEU",
+  "facZipCd": "70669",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-16T00:00:00.000",
+  "facLatDecMs": "30.255",
+  "facLongDecMs": "-93.2775",
+  "lepcNm": "Calcasieu Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-12-20T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Westlake Fire Department",
+    "agencyPhoneNm": "3184367417",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10465"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10465"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10465"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10465"
+    }
+  }
+}

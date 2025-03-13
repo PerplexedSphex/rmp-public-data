@@ -1,0 +1,79 @@
+{
+  "facilityId": 10631,
+  "epaFacId": "100000056798",
+  "facNm": "Las Vegas Water Pollution Control Facility",
+  "parntCo1Nm": "City of Las Vegas",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "6005 E. Vegas Valley Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Las Vegas",
+  "facStateCd": "NV",
+  "countyNm": "CLARK",
+  "facZipCd": "89122",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "36.136972",
+  "facLongDecMs": "-115.032556",
+  "lepcNm": "Clark County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-08-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clark County Fire Department",
+    "agencyPhoneNm": "7024557311",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10631"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10631"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10631"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10631"
+    }
+  }
+}

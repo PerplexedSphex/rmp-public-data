@@ -1,0 +1,90 @@
+{
+  "facilityId": 22455,
+  "epaFacId": "100000173938",
+  "facNm": "New Albany Wastewater Treatment Plant",
+  "parntCo1Nm": "City of New Albany, Indiana",
+  "facDunsNu": 556006096,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "38 West Tenth Street",
+  "facStreet2Tx": null,
+  "facCityNm": "New Albany",
+  "facStateCd": "IN",
+  "countyNm": "FLOYD",
+  "facZipCd": "47150",
+  "facZip4Cd": null,
+  "receiptDa": "2001-01-16T00:00:00.000",
+  "facLatDecMs": "38.278611",
+  "facLongDecMs": "-85.830833",
+  "lepcNm": "Floyd County EMA",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-12-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Floyd County EMA",
+    "agencyPhoneNm": "8129485454",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22455"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22455"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22455"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22455"
+    }
+  }
+}

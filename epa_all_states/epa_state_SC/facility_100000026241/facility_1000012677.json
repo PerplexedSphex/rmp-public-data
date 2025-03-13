@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000012677,
+  "epaFacId": "100000026241",
+  "facNm": "Don L Moore Water Treatment Plant",
+  "parntCo1Nm": "Easley Combined Utilities",
+  "facDunsNu": 70363874,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "324 Buckskin Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Easley",
+  "facStateCd": "SC",
+  "countyNm": "PICKENS",
+  "facZipCd": "29640",
+  "facZip4Cd": "7320",
+  "receiptDa": "2010-04-20T00:00:00.000",
+  "facLatDecMs": "34.854722",
+  "facLongDecMs": "-082.520000",
+  "lepcNm": "Pickens County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Easley Fire Department",
+    "agencyPhoneNm": "8648598950",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012677"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012677"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012677"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012677"
+    }
+  }
+}

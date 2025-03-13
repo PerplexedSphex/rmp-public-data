@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000107526,
+  "epaFacId": "100000252193",
+  "facNm": "NLC Energy Denmark LLC",
+  "parntCo1Nm": "NLC Energy LLC",
+  "facDunsNu": 58595,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "6601 CTR R",
+  "facStreet2Tx": "",
+  "facCityNm": "Denmark",
+  "facStateCd": "WI",
+  "countyNm": "BROWN",
+  "facZipCd": "54208",
+  "facZip4Cd": "",
+  "receiptDa": "2023-10-26T00:00:00.000",
+  "facLatDecMs": "44.332563",
+  "facLongDecMs": "-87.797136",
+  "lepcNm": "Brown County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Denmark Fire Department",
+    "agencyPhoneNm": "9208638466",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107526"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107526"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107526"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107526"
+    }
+  }
+}

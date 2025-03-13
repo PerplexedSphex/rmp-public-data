@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000102462,
+  "epaFacId": "100000211674",
+  "facNm": "Kwik Trip Dairy",
+  "parntCo1Nm": "Kwik Trip, Inc",
+  "facDunsNu": 59039339,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1626 Oak Street",
+  "facStreet2Tx": "",
+  "facCityNm": "La Crosse",
+  "facStateCd": "WI",
+  "countyNm": "LA CROSSE",
+  "facZipCd": "54602",
+  "facZip4Cd": "",
+  "receiptDa": "2022-09-12T00:00:00.000",
+  "facLatDecMs": "43.847056",
+  "facLongDecMs": "-091.227361",
+  "lepcNm": " La Crosse County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "La Crosse County Emergency Mngt",
+    "agencyPhoneNm": "6087894811",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102462"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        },
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102462"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102462"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102462"
+    }
+  }
+}

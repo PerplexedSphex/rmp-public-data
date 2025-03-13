@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000087703,
+  "epaFacId": "100000118277",
+  "facNm": "Ocean City Water Treatment Plant 136th Street",
+  "parntCo1Nm": "Town of Ocean City, Maryland",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "201 137th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Ocean City",
+  "facStateCd": "MD",
+  "countyNm": "WORCESTER",
+  "facZipCd": "21842",
+  "facZip4Cd": "5219",
+  "receiptDa": "2020-05-22T14:51:53.000",
+  "facLatDecMs": "38.442778",
+  "facLongDecMs": "-075.055000",
+  "lepcNm": "Ocean City LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ocean City Emergency Management",
+    "agencyPhoneNm": "4107236616",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087703"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087703"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087703"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087703"
+    }
+  }
+}

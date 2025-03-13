@@ -1,0 +1,100 @@
+{
+  "facilityId": 25827,
+  "epaFacId": "100000013914",
+  "facNm": "Air Products, Martinez-Equilon",
+  "parntCo1Nm": "Air Products and Chemicals, Inc.",
+  "facDunsNu": 838557299,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "110 Waterfront Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Martinez",
+  "facStateCd": "CA",
+  "countyNm": "CONTRA COSTA",
+  "facZipCd": "94553",
+  "facZip4Cd": "1451",
+  "receiptDa": "2002-05-23T00:00:00.000",
+  "facLatDecMs": "38.021111",
+  "facLongDecMs": "-122.106667",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "CCC Consodated Fire Department",
+    "agencyPhoneNm": "9259305500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/25827"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Methane",
+              "casNu": "74-82-8",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Hydrogen",
+              "casNu": "1333-74-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/25827"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/25827"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/25827"
+    }
+  }
+}

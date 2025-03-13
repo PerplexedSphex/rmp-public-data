@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000040133,
+  "epaFacId": "100000038871",
+  "facNm": "Amy's Kitchen, Inc.  - Pocatello",
+  "parntCo1Nm": "Amy's Kitchen, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "221 Phil Meador Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Pocatello",
+  "facStateCd": "ID",
+  "countyNm": "BANNOCK",
+  "facZipCd": "83202",
+  "facZip4Cd": null,
+  "receiptDa": "2014-05-21T00:00:00.000",
+  "facLatDecMs": "42.907942",
+  "facLongDecMs": "-112.457214",
+  "lepcNm": "Bannock County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pocatello Fire Department",
+    "agencyPhoneNm": "2082346201",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040133"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Specialty Food Manufacturing ",
+          "naicsCd": "311412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040133"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040133"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040133"
+    }
+  }
+}

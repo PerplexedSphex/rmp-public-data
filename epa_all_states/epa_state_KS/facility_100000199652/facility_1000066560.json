@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000066560,
+  "epaFacId": "100000199652",
+  "facNm": "Bonanza BioEnergy, LLC",
+  "parntCo1Nm": "Conestoga Energy Partners, LLC",
+  "facDunsNu": 784984416,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2830 E. U.S. Highway 50",
+  "facStreet2Tx": null,
+  "facCityNm": "Garden City",
+  "facStateCd": "KS",
+  "countyNm": "FINNEY",
+  "facZipCd": "67846",
+  "facZip4Cd": null,
+  "receiptDa": "2017-11-02T00:00:00.000",
+  "facLatDecMs": "37.958639",
+  "facLongDecMs": "-100.836000",
+  "lepcNm": "Finney County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Garden City Fire Department",
+    "agencyPhoneNm": "6202761140",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066560"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ethyl Alcohol Manufacturing ",
+          "naicsCd": "325193",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325193"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Pentane",
+              "casNu": "109-66-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066560"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066560"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066560"
+    }
+  }
+}

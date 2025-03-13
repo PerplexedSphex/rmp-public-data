@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000006616,
+  "epaFacId": "100000104111",
+  "facNm": "Rio Bravo Rocklin",
+  "parntCo1Nm": null,
+  "facDunsNu": 602240392,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3100 Thunder Valley Court",
+  "facStreet2Tx": null,
+  "facCityNm": "Lincoln",
+  "facStateCd": "CA",
+  "countyNm": "PLACER",
+  "facZipCd": "95648",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-12T00:00:00.000",
+  "facLatDecMs": "38.830556",
+  "facLongDecMs": "-121.310000",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Placer County Dept. Env. Health",
+    "agencyPhoneNm": "5307452340",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006616"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006616"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006616"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006616"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 38846,
+  "epaFacId": "100000132554",
+  "facNm": "Chemtrade Logistics Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2250 E. 130 ST",
+  "facStreet2Tx": null,
+  "facCityNm": "Chicago",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60633",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-28T00:00:00.000",
+  "facLatDecMs": "41.660556",
+  "facLongDecMs": "-087.568889",
+  "lepcNm": "Cook County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2005-10-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chicago Fire Department",
+    "agencyPhoneNm": "3127477555",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38846"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+          "naicsCd": "325998",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325998"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38846"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38846"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38846"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000024604,
+  "epaFacId": "100000082466",
+  "facNm": "Carolina Pride Foods, Inc",
+  "parntCo1Nm": "Carolina Pride Foods, Inc",
+  "facDunsNu": 3345949,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1 Packer Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Greenwood",
+  "facStateCd": "SC",
+  "countyNm": "GREENWOOD",
+  "facZipCd": "29646",
+  "facZip4Cd": "0000",
+  "receiptDa": "2011-11-14T00:00:00.000",
+  "facLatDecMs": "34.190270",
+  "facLongDecMs": "-082.143350",
+  "lepcNm": "Greenwood County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Greenwood Emergency Prepareness",
+    "agencyPhoneNm": "8649428553",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024604"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024604"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024604"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024604"
+    }
+  }
+}

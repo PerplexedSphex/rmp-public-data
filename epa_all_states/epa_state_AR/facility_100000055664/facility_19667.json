@@ -1,0 +1,79 @@
+{
+  "facilityId": 19667,
+  "epaFacId": "100000055664",
+  "facNm": "ConAgra Poultry Company",
+  "parntCo1Nm": "ConAgra, Inc.",
+  "facDunsNu": 67027052,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1810 Southwest Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "El Dorado",
+  "facStateCd": "AR",
+  "countyNm": "UNION",
+  "facZipCd": "71731",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "33.194444",
+  "facLongDecMs": "-92.668333",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-05-21T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "El Dorado Fire Department",
+    "agencyPhoneNm": "8708638129",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19667"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19667"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19667"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19667"
+    }
+  }
+}

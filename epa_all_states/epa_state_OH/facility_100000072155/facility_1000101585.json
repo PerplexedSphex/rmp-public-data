@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101585,
+  "epaFacId": "100000072155",
+  "facNm": "Linde  - Twinsburg",
+  "parntCo1Nm": "Linde Inc.",
+  "facDunsNu": 42845636,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2045 E. Aurora Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Twinsburg",
+  "facStateCd": "OH",
+  "countyNm": "SUMMIT",
+  "facZipCd": "44087",
+  "facZip4Cd": null,
+  "receiptDa": "2022-07-28T00:00:00.000",
+  "facLatDecMs": "41.312811",
+  "facLongDecMs": "-081.466090",
+  "lepcNm": "Summit County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Twinsburg Fire Department",
+    "agencyPhoneNm": "3309636256",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101585"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Acetylene  [Ethyne]",
+          "casNu": "74-86-2",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/96"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101585"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101585"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101585"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000076486,
+  "epaFacId": "100000033206",
+  "facNm": "23rd Avenue Wastewater Treatment Plant",
+  "parntCo1Nm": "City of Phoenix",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2470 S. 22nd Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Phoenix",
+  "facStateCd": "AZ",
+  "countyNm": "MARICOPA",
+  "facZipCd": "85009",
+  "facZip4Cd": null,
+  "receiptDa": "2019-04-02T18:45:34.000",
+  "facLatDecMs": "33.423067",
+  "facLongDecMs": "-112.109519",
+  "lepcNm": "Maricopa County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Phoenix Fire Department",
+    "agencyPhoneNm": "6022626297",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076486"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076486"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076486"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076486"
+    }
+  }
+}

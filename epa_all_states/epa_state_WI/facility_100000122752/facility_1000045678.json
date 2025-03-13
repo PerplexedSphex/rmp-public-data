@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000045678,
+  "epaFacId": "100000122752",
+  "facNm": "Cargill Beef Milwaukee",
+  "parntCo1Nm": "Cargill Inc.",
+  "facDunsNu": 945062974,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1915 West Canal Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Milwaukee",
+  "facStateCd": "WI",
+  "countyNm": "MILWAUKEE",
+  "facZipCd": "53233",
+  "facZip4Cd": "2619",
+  "receiptDa": "2014-07-28T00:00:00.000",
+  "facLatDecMs": "43.031111",
+  "facLongDecMs": "-087.937500",
+  "lepcNm": "Milwaukee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-08-11T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Milwaukee Fire Department",
+    "agencyPhoneNm": "4142868948",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045678"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal (except Poultry) Slaughtering ",
+          "naicsCd": "311611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045678"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045678"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045678"
+    }
+  }
+}

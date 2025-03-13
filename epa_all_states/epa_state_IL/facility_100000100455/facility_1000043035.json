@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043035,
+  "epaFacId": "100000100455",
+  "facNm": "Prairie Farms Dairy - Carlinville, IL",
+  "parntCo1Nm": "Prairie Farms Dairy",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1100 North Broadway",
+  "facStreet2Tx": null,
+  "facCityNm": "Carlinville",
+  "facStateCd": "IL",
+  "countyNm": "MACOUPIN",
+  "facZipCd": "62626",
+  "facZip4Cd": null,
+  "receiptDa": "2014-05-28T00:00:00.000",
+  "facLatDecMs": "39.292277",
+  "facLongDecMs": "-089.879658",
+  "lepcNm": "Macoupin County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Carlinville Fire Department",
+    "agencyPhoneNm": "2178542813",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043035"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043035"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043035"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043035"
+    }
+  }
+}

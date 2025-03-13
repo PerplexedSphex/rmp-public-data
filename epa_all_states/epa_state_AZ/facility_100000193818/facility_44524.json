@@ -1,0 +1,79 @@
+{
+  "facilityId": 44524,
+  "epaFacId": "100000193818",
+  "facNm": "Sara Lee Mixing Facility",
+  "parntCo1Nm": "Sara Lee Corporation",
+  "facDunsNu": 5213962,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "501 South 107th Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Tolleson",
+  "facStateCd": "AZ",
+  "countyNm": "MARICOPA",
+  "facZipCd": "85353",
+  "facZip4Cd": null,
+  "receiptDa": "2005-12-20T00:00:00.000",
+  "facLatDecMs": "33.438333",
+  "facLongDecMs": "-112.288611",
+  "lepcNm": "Maricopa County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2015-10-04T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tolleson Fire Department",
+    "agencyPhoneNm": "6239368500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44524"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44524"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44524"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44524"
+    }
+  }
+}

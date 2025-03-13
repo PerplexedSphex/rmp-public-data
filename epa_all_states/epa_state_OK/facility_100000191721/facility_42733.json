@@ -1,0 +1,79 @@
+{
+  "facilityId": 42733,
+  "epaFacId": "100000191721",
+  "facNm": "Allen Station",
+  "parntCo1Nm": "Magellan Pipeline Company, L.P.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "107 S. Camper Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Allen",
+  "facStateCd": "OK",
+  "countyNm": "PONTOTOC",
+  "facZipCd": "74825",
+  "facZip4Cd": null,
+  "receiptDa": "2005-05-02T00:00:00.000",
+  "facLatDecMs": "34.880278",
+  "facLongDecMs": "-096.424167",
+  "lepcNm": "Pontotoc LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pontotoc LEPC",
+    "agencyPhoneNm": "5804368055",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42733"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pipeline Transportation of Refined Petroleum Products",
+          "naicsCd": "48691",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48691"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42733"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42733"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42733"
+    }
+  }
+}

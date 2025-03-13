@@ -1,0 +1,110 @@
+{
+  "facilityId": 1000093848,
+  "epaFacId": "100000232713",
+  "facNm": "Valspar - Menomonee Falls Warehouse",
+  "parntCo1Nm": "The Sherwin-Williams Company",
+  "facDunsNu": 50736453,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "W142 N9251 Fountain Blvd",
+  "facStreet2Tx": null,
+  "facCityNm": "Menomonee Falls",
+  "facStateCd": "WI",
+  "countyNm": "WAUKESHA",
+  "facZipCd": "53051",
+  "facZip4Cd": null,
+  "receiptDa": "2021-05-19T21:42:02.000",
+  "facLatDecMs": "43.182713",
+  "facLongDecMs": "-88.085608",
+  "lepcNm": "Waukesha LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Menomonee Falls Fire Department",
+    "agencyPhoneNm": "2625328700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093848"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Other Warehousing and Storage",
+          "naicsCd": "49319",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49319"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Propane",
+              "casNu": "74-98-6",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Butane",
+              "casNu": "106-97-8",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Methyl ether  [Methane, oxybis-]",
+              "casNu": "115-10-6",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/130"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093848"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093848"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093848"
+    }
+  }
+}

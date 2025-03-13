@@ -1,0 +1,90 @@
+{
+  "facilityId": 3917,
+  "epaFacId": "100000049011",
+  "facNm": "Arch Specialty Chemicals, Inc.",
+  "parntCo1Nm": "Arch Chemicals, Inc.",
+  "facDunsNu": 75758030,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "40 Circuit Road",
+  "facStreet2Tx": null,
+  "facCityNm": "North Kingstown",
+  "facStateCd": "RI",
+  "countyNm": "WASHINGTON",
+  "facZipCd": "02914",
+  "facZip4Cd": "2009",
+  "receiptDa": "1999-06-17T00:00:00.000",
+  "facLatDecMs": "41.592028",
+  "facLongDecMs": "-71.432361",
+  "lepcNm": "District 8 LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2001-12-07T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC",
+    "agencyPhoneNm": "4012943346",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3917"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrochloric acid (conc 30% or greater)",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/157"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3917"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3917"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3917"
+    }
+  }
+}

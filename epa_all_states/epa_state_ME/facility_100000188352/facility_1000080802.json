@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080802,
+  "epaFacId": "100000188352",
+  "facNm": "Penobscot McCrum, LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "32 Pierce St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Belfast",
+  "facStateCd": "ME",
+  "countyNm": "WALDO",
+  "facZipCd": "04915",
+  "facZip4Cd": null,
+  "receiptDa": "2019-06-26T07:13:06.000",
+  "facLatDecMs": "44.432195",
+  "facLongDecMs": "-069.012104",
+  "lepcNm": "Waldo County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Waldo County Emergency Mgmt Agency",
+    "agencyPhoneNm": "2073383870",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080802"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Fruit, Juice, and Vegetable Manufacturing ",
+          "naicsCd": "311411",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311411"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080802"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080802"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080802"
+    }
+  }
+}

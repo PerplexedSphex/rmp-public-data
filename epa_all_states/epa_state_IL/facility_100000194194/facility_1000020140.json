@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000020140,
+  "epaFacId": "100000194194",
+  "facNm": "Archer Daniels Midland Company Loc-401",
+  "parntCo1Nm": "Archer Daniels Midland Company",
+  "facDunsNu": 38412078,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1 Edmund Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Peoria",
+  "facStateCd": "IL",
+  "countyNm": "PEORIA",
+  "facZipCd": "61602",
+  "facZip4Cd": null,
+  "receiptDa": "2011-02-04T00:00:00.000",
+  "facLatDecMs": "40.675583",
+  "facLongDecMs": "-089.607194",
+  "lepcNm": "Peoria County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Peoria Fire Department",
+    "agencyPhoneNm": "3096743131",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020140"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ethyl Alcohol Manufacturing ",
+          "naicsCd": "325193",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325193"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020140"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020140"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020140"
+    }
+  }
+}

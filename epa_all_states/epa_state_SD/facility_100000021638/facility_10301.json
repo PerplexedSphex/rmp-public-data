@@ -1,0 +1,90 @@
+{
+  "facilityId": 10301,
+  "epaFacId": "100000021638",
+  "facNm": "Columbia Facility, Station #07",
+  "parntCo1Nm": "South Dakota Wheat Growers Association",
+  "facDunsNu": 156088007,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "24 South Mill Street",
+  "facStreet2Tx": "PO Box 16",
+  "facCityNm": "Columbia",
+  "facStateCd": "SD",
+  "countyNm": "BROWN",
+  "facZipCd": "57433",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-07T00:00:00.000",
+  "facLatDecMs": "45.609444",
+  "facLongDecMs": "-98.309167",
+  "lepcNm": "Brown County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-02-27T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Columbia Fire Department",
+    "agencyPhoneNm": "6053962634",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10301"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Support Activities for Crop Production",
+          "naicsCd": "11511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10301"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10301"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10301"
+    }
+  }
+}

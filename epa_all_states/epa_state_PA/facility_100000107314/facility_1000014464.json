@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000014464,
+  "epaFacId": "100000107314",
+  "facNm": "Dormont Manufacturing Company",
+  "parntCo1Nm": "Watts Water Technologies",
+  "facDunsNu": 4396909,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6015 Enterprise Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Export",
+  "facStateCd": "PA",
+  "countyNm": "WESTMORELAND",
+  "facZipCd": "15632",
+  "facZip4Cd": null,
+  "receiptDa": "2010-06-21T00:00:00.000",
+  "facLatDecMs": "40.403889",
+  "facLongDecMs": "-079.614722",
+  "lepcNm": "Westmoreland County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-06-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Westmoreland Dept. of Public Safety",
+    "agencyPhoneNm": "7248303800",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014464"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Iron and Steel Pipe and Tube Manufacturing from Purchased Steel",
+          "naicsCd": "33121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014464"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014464"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014464"
+    }
+  }
+}

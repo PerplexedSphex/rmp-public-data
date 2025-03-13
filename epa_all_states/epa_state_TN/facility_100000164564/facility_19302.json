@@ -1,0 +1,79 @@
+{
+  "facilityId": 19302,
+  "epaFacId": "100000164564",
+  "facNm": "Seaboard Farms (Further Processing)",
+  "parntCo1Nm": "Seaboard Corporation",
+  "facDunsNu": 3331758,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1300 Market Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Chattanooga",
+  "facStateCd": "TN",
+  "countyNm": "HAMILTON",
+  "facZipCd": "37401",
+  "facZip4Cd": null,
+  "receiptDa": "1999-12-20T00:00:00.000",
+  "facLatDecMs": "35.041667",
+  "facLongDecMs": "-85.166667",
+  "lepcNm": "Hamilton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chattanooga/Hamilton County LEPC",
+    "agencyPhoneNm": "4232096913",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19302"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19302"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19302"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19302"
+    }
+  }
+}

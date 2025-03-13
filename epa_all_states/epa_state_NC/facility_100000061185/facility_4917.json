@@ -1,0 +1,79 @@
+{
+  "facilityId": 4917,
+  "epaFacId": "100000061185",
+  "facNm": "Brunswick Steam Electric Plant (BSEP)",
+  "parntCo1Nm": "Carolina Power & Light, Co.",
+  "facDunsNu": 6997217,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "NC Highway 87",
+  "facStreet2Tx": null,
+  "facCityNm": "Southport",
+  "facStateCd": "NC",
+  "countyNm": "BRUNSWICK",
+  "facZipCd": "28461",
+  "facZip4Cd": "0429",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "33.958333",
+  "facLongDecMs": "78.008333",
+  "lepcNm": "Brunswick County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2007-10-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Brunswick County Emergency Mgmt.",
+    "agencyPhoneNm": "9102534376",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4917"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4917"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4917"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4917"
+    }
+  }
+}

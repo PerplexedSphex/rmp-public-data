@@ -1,0 +1,79 @@
+{
+  "facilityId": 12635,
+  "epaFacId": "100000133401",
+  "facNm": "ADM Milling Co. - Camp Hill",
+  "parntCo1Nm": "Archer Daniels Midland Co.",
+  "facDunsNu": 3026879,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Spangler Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Camp Hill",
+  "facStateCd": "PA",
+  "countyNm": "CUMBERLAND",
+  "facZipCd": "17011",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "40.232778",
+  "facLongDecMs": "-76.924722",
+  "lepcNm": "Cumberland County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Cumberland County LEPC",
+    "agencyPhoneNm": "7172406400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12635"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12635"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12635"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12635"
+    }
+  }
+}

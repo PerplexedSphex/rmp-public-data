@@ -1,0 +1,90 @@
+{
+  "facilityId": 28850,
+  "epaFacId": "100000134776",
+  "facNm": "A&M Gas Plant",
+  "parntCo1Nm": "Devon Gas Services, L.P.",
+  "facDunsNu": 72626950,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5 miles south of FM 60 on FM 50",
+  "facStreet2Tx": null,
+  "facCityNm": "Snook",
+  "facStateCd": "TX",
+  "countyNm": "BURLESON",
+  "facZipCd": "77879",
+  "facZip4Cd": null,
+  "receiptDa": "2003-08-20T00:00:00.000",
+  "facLatDecMs": "30.498333",
+  "facLongDecMs": "-96.387222",
+  "lepcNm": "Burleson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-03-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Burleson County LEPC (Jay Lemon)",
+    "agencyPhoneNm": "9755674343",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28850"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Pentane",
+              "casNu": "109-66-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28850"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28850"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28850"
+    }
+  }
+}

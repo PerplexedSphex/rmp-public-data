@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000000275,
+  "epaFacId": "100000185836",
+  "facNm": "Peter Pan Seafoods - Port Moller, AK",
+  "parntCo1Nm": "Peter Pan Seafoods, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2200 Airport Way",
+  "facStreet2Tx": "Port Moller - Plant",
+  "facCityNm": "Port Moller",
+  "facStateCd": "AK",
+  "countyNm": "ALEUTIANS EAST (B)",
+  "facZipCd": "99571",
+  "facZip4Cd": null,
+  "receiptDa": "2009-04-23T00:00:00.000",
+  "facLatDecMs": "55.979167",
+  "facLongDecMs": "-160.513333",
+  "lepcNm": "AEB -LEPC listed as innactive",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Alaska State Emergency Response Com",
+    "agencyPhoneNm": "9074287000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000275"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fresh and Frozen Seafood Processing",
+          "naicsCd": "311712",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311712"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000275"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000275"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000275"
+    }
+  }
+}

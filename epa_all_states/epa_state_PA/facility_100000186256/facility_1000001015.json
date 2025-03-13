@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001015,
+  "epaFacId": "100000186256",
+  "facNm": "Farmer's Pride, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 8935892,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "154 West Main Street",
+  "facStreet2Tx": "P.O. Box 39",
+  "facCityNm": "Fredericksburg",
+  "facStateCd": "PA",
+  "countyNm": "LEBANON",
+  "facZipCd": "17026",
+  "facZip4Cd": "0039",
+  "receiptDa": "2009-05-15T00:00:00.000",
+  "facLatDecMs": "40.445014",
+  "facLongDecMs": "-076.434420",
+  "lepcNm": "Lebanon County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2023-02-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lebanon County EMA",
+    "agencyPhoneNm": "7172727621",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001015"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001015"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001015"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001015"
+    }
+  }
+}

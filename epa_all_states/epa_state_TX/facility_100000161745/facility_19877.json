@@ -1,0 +1,79 @@
+{
+  "facilityId": 19877,
+  "epaFacId": "100000161745",
+  "facNm": "TYLER GAS PROCESSING PLANT",
+  "parntCo1Nm": "J-W OPERATING COMPANY",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Country Rd. 42 and",
+  "facStreet2Tx": "3.8 mile on Hwy 724",
+  "facCityNm": "TYLER",
+  "facStateCd": "TX",
+  "countyNm": "SMITH",
+  "facZipCd": "75704",
+  "facZip4Cd": null,
+  "receiptDa": "1999-09-13T00:00:00.000",
+  "facLatDecMs": "32.382778",
+  "facLongDecMs": "-95.431389",
+  "lepcNm": "Smith County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "DIXIE VOLUNTEER FIRE DEPARTMENT",
+    "agencyPhoneNm": "9035970212",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19877"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19877"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19877"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19877"
+    }
+  }
+}

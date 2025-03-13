@@ -1,0 +1,79 @@
+{
+  "facilityId": 7502,
+  "epaFacId": "100000093089",
+  "facNm": "R. M. Levy Water Treatment Plant",
+  "parntCo1Nm": "Helix Water District",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "9550 Lake Jennings Park Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Lakeside",
+  "facStateCd": "CA",
+  "countyNm": "SAN DIEGO",
+  "facZipCd": "92040",
+  "facZip4Cd": "3513",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "32.852361",
+  "facLongDecMs": "-116.894306",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "SD County Hazardous Materials Div.",
+    "agencyPhoneNm": "6193382222",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7502"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7502"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7502"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7502"
+    }
+  }
+}

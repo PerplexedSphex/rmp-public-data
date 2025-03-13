@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000045336,
+  "epaFacId": "100000093935",
+  "facNm": "Terrell Facility",
+  "parntCo1Nm": "Occidental Petroleum Corporation",
+  "facDunsNu": 44643240,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "30 mi. South of Sheffield, TX on",
+  "facStreet2Tx": "Highway 349 & 3 mi. E. on FM 3166",
+  "facCityNm": "Sheffield",
+  "facStateCd": "TX",
+  "countyNm": "TERRELL",
+  "facZipCd": "79781",
+  "facZip4Cd": null,
+  "receiptDa": "2014-07-14T00:00:00.000",
+  "facLatDecMs": "30.369444",
+  "facLongDecMs": "-101.845278",
+  "lepcNm": "Terrell County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Terrell County Sheriff's Department",
+    "agencyPhoneNm": "4323452525",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045336"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Extraction ",
+          "naicsCd": "21113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045336"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045336"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045336"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 22172,
+  "epaFacId": "100000114468",
+  "facNm": "Borden Chemical, Inc., Virginia Plant",
+  "parntCo1Nm": "Borden, Inc.",
+  "facDunsNu": 151371171,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1507 Southern Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Virginia",
+  "facStateCd": "MN",
+  "countyNm": "ST. LOUIS",
+  "facZipCd": "55792",
+  "facZip4Cd": null,
+  "receiptDa": "2000-12-05T00:00:00.000",
+  "facLatDecMs": "47.5",
+  "facLongDecMs": "-92.55",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2008-05-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Virginia Fire Department",
+    "agencyPhoneNm": "2187411488",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22172"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22172"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22172"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22172"
+    }
+  }
+}

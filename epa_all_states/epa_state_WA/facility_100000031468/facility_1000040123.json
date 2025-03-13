@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000040123,
+  "epaFacId": "100000031468",
+  "facNm": "Chemtrade Performance ChemicalsUS LLC Kalama Plant",
+  "parntCo1Nm": "Chemtrade Logistics (US) Inc.",
+  "facDunsNu": 556736721,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "404 Hendrickson Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Kalama",
+  "facStateCd": "WA",
+  "countyNm": "COWLITZ",
+  "facZipCd": "98625",
+  "facZip4Cd": null,
+  "receiptDa": "2014-05-27T00:00:00.000",
+  "facLatDecMs": "45.993560",
+  "facLongDecMs": "-122.840750",
+  "lepcNm": "Cowlitz County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-02-24T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cowlitz Fire Dept. - Dist. 5",
+    "agencyPhoneNm": "3606732222",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040123"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040123"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040123"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040123"
+    }
+  }
+}

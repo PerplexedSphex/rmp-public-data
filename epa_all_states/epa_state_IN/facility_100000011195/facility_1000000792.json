@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000000792,
+  "epaFacId": "100000011195",
+  "facNm": "Helena Chemical Company - Markle Division",
+  "parntCo1Nm": "Marubeni America Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "325 East Logan St",
+  "facStreet2Tx": null,
+  "facCityNm": "Markle",
+  "facStateCd": "IN",
+  "countyNm": "WELLS",
+  "facZipCd": "46770",
+  "facZip4Cd": null,
+  "receiptDa": "2009-04-30T00:00:00.000",
+  "facLatDecMs": "40.829722",
+  "facLongDecMs": "-085.332806",
+  "lepcNm": "Wells County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Markle Fire Department",
+    "agencyPhoneNm": "2197583285",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000792"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Merchant Wholesalers ",
+          "naicsCd": "42491",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42491"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000792"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000792"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000792"
+    }
+  }
+}

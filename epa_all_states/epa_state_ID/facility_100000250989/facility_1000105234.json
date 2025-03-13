@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000105234,
+  "epaFacId": "100000250989",
+  "facNm": "Shell RNG Wendell Idaho",
+  "parntCo1Nm": "Equilon Enterprises LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2828 S. 2300 E",
+  "facStreet2Tx": "",
+  "facCityNm": "Wendell",
+  "facStateCd": "ID",
+  "countyNm": "GOODING",
+  "facZipCd": "83355",
+  "facZip4Cd": "",
+  "receiptDa": "2023-10-03T00:00:00.000",
+  "facLatDecMs": "42.792609",
+  "facLongDecMs": "-114.633658",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Gooding City & Rural Fire District",
+    "agencyPhoneNm": "2089348348",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105234"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Natural Gas Distribution",
+          "naicsCd": "22121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105234"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105234"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105234"
+    }
+  }
+}

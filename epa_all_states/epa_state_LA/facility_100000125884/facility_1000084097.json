@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000084097,
+  "epaFacId": "100000125884",
+  "facNm": "Solvay USA Inc., Baton Rouge Facility",
+  "parntCo1Nm": "Solvay Holding Inc.",
+  "facDunsNu": 8161234,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1275 Airline Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "Baton Rouge",
+  "facStateCd": "LA",
+  "countyNm": "EAST BATON ROUGE",
+  "facZipCd": "70805",
+  "facZip4Cd": null,
+  "receiptDa": "2019-12-11T08:38:21.000",
+  "facLatDecMs": "30.508889",
+  "facLongDecMs": "-091.187500",
+  "lepcNm": "East Baton Rouge Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Baton Rouge Fire Dept",
+    "agencyPhoneNm": "2253892055",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084097"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl chloride  [Ethane, chloro-]",
+          "casNu": "75-00-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/100"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methyl chloride  [Methane, chloro-]",
+          "casNu": "74-87-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/5"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084097"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084097"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084097"
+    }
+  }
+}

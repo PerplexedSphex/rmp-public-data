@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000102395,
+  "epaFacId": "100000236602",
+  "facNm": "Pacific Gas & Electric CNG Fueling Facility",
+  "parntCo1Nm": "Pacific Gas and Electric Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2320 W Yosemite Ave",
+  "facStreet2Tx": "Suite 107",
+  "facCityNm": "Manteca",
+  "facStateCd": "CA",
+  "countyNm": "SAN JOAQUIN",
+  "facZipCd": "95337",
+  "facZip4Cd": "",
+  "receiptDa": "2022-09-12T00:00:00.000",
+  "facLatDecMs": "37.796792",
+  "facLongDecMs": "-121.257325",
+  "lepcNm": " Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "City of Manteca Fire Department",
+    "agencyPhoneNm": "2094568300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102395"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Natural Gas Distribution",
+          "naicsCd": "22121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102395"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102395"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102395"
+    }
+  }
+}

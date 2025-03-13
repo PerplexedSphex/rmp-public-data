@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000058109,
+  "epaFacId": "100000138111",
+  "facNm": "Molson Coors Shenandoah Brewery",
+  "parntCo1Nm": "Molson Coors Beverage Company USA LLC",
+  "facDunsNu": 622406635,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5135 South Eastside Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "Elkton",
+  "facStateCd": "VA",
+  "countyNm": "ROCKINGHAM",
+  "facZipCd": "22827",
+  "facZip4Cd": null,
+  "receiptDa": "2016-06-23T00:00:00.000",
+  "facLatDecMs": "38.357441",
+  "facLongDecMs": "-078.675587",
+  "lepcNm": "Harrisonburg Joint LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "McGaheysville Fire Department",
+    "agencyPhoneNm": "5402895318",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058109"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058109"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058109"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058109"
+    }
+  }
+}

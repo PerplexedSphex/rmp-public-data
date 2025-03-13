@@ -1,0 +1,79 @@
+{
+  "facilityId": 11525,
+  "epaFacId": "100000121334",
+  "facNm": "Lyondell Chemical Company Institute Plant",
+  "parntCo1Nm": "Lyondell Chemical Company",
+  "facDunsNu": 867402489,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Route 25",
+  "facStreet2Tx": null,
+  "facCityNm": "Institute",
+  "facStateCd": "WV",
+  "countyNm": "KANAWHA",
+  "facZipCd": "25112",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "38.382222",
+  "facLongDecMs": "-81.778333",
+  "lepcNm": "Kanawha Putnam Emerg Plan Comm",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-04-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kanawha Putnam EPC",
+    "agencyPhoneNm": "3047441838",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11525"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene oxide  [Oxirane, methyl-]",
+          "casNu": "75-56-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/12"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11525"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11525"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11525"
+    }
+  }
+}

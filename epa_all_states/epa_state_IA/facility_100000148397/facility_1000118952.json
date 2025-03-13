@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000118952,
+  "epaFacId": "100000148397",
+  "facNm": "Nutrien US LLC Early, IA Distribution Terminal",
+  "parntCo1Nm": "Nutrien US Newco B LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1887 Karr Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Early",
+  "facStateCd": "IA",
+  "countyNm": "SAC",
+  "facZipCd": "50535",
+  "facZip4Cd": "7419",
+  "receiptDa": "2024-12-09T00:00:00.000",
+  "facLatDecMs": "42.52",
+  "facLongDecMs": "-095.152222",
+  "lepcNm": "Region V Hazmat LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": " Region V Hazmat LEPC",
+    "agencyPhoneNm": "5159556748",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118952"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Merchant Wholesalers ",
+          "naicsCd": "42491",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42491"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118952"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118952"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118952"
+    }
+  }
+}

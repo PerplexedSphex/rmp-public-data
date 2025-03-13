@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100837,
+  "epaFacId": "100000144408",
+  "facNm": "Mt. Poso Cogeneration Facility",
+  "parntCo1Nm": "Mt. Poso Cogeneration Company, LLC",
+  "facDunsNu": 189760028,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "36157 Famoso Rd.",
+  "facStreet2Tx": "",
+  "facCityNm": "Bakersfield",
+  "facStateCd": "CA",
+  "countyNm": "KERN",
+  "facZipCd": "93308",
+  "facZip4Cd": "",
+  "receiptDa": "2022-08-18T00:00:00.000",
+  "facLatDecMs": "35.575680",
+  "facLongDecMs": "-119.006621",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kern County Fire Department (NH3)",
+    "agencyPhoneNm": "6613227243",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100837"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100837"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100837"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100837"
+    }
+  }
+}

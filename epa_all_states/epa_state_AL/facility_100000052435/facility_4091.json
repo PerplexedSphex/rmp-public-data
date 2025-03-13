@@ -1,0 +1,79 @@
+{
+  "facilityId": 4091,
+  "epaFacId": "100000052435",
+  "facNm": "Tri-State Plant Food, Inc",
+  "parntCo1Nm": null,
+  "facDunsNu": 150579910,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1615 East Burdeshaw Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Dothan",
+  "facStateCd": "AL",
+  "countyNm": "HOUSTON",
+  "facZipCd": "36303",
+  "facZip4Cd": "1745",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "31.235944",
+  "facLongDecMs": "-85.403",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-07-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Houston County Emergency Management",
+    "agencyPhoneNm": "3346774836",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4091"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Nitrogenous Fertilizer Manufacturing ",
+          "naicsCd": "325311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4091"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4091"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4091"
+    }
+  }
+}

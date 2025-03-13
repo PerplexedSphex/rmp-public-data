@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000073307,
+  "epaFacId": "100000082395",
+  "facNm": "Allnex USA Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 78786182,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4730 Crittenden Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Louisville",
+  "facStateCd": "KY",
+  "countyNm": "JEFFERSON",
+  "facZipCd": "40209",
+  "facZip4Cd": "1518",
+  "receiptDa": "2018-10-11T00:00:00.000",
+  "facLatDecMs": "38.180278",
+  "facLongDecMs": "-085.753611",
+  "lepcNm": "Jefferson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2020-02-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Heritage Environmental",
+    "agencyPhoneNm": "5024730368",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073307"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073307"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073307"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073307"
+    }
+  }
+}

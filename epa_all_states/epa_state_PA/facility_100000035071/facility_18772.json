@@ -1,0 +1,79 @@
+{
+  "facilityId": 18772,
+  "epaFacId": "100000035071",
+  "facNm": "Shawville Station",
+  "parntCo1Nm": "GPU Generation, Inc.",
+  "facDunsNu": 790875629,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Junction of Route 879 and Route 970",
+  "facStreet2Tx": null,
+  "facCityNm": "Shawville",
+  "facStateCd": "PA",
+  "countyNm": "CLEARFIELD",
+  "facZipCd": "16873",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-14T00:00:00.000",
+  "facLatDecMs": "41.066667",
+  "facLongDecMs": "-78.366667",
+  "lepcNm": "Clearfield County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2015-07-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clearfield County LEPC",
+    "agencyPhoneNm": "8147655357",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18772"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18772"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18772"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18772"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000038991,
+  "epaFacId": "100000084687",
+  "facNm": "City of Wyoming Clean Water Plant",
+  "parntCo1Nm": "City of Wyoming",
+  "facDunsNu": 79283982,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2350 Ivanrest SW",
+  "facStreet2Tx": null,
+  "facCityNm": "Wyoming",
+  "facStateCd": "MI",
+  "countyNm": "KENT",
+  "facZipCd": "49418",
+  "facZip4Cd": "1197",
+  "receiptDa": "2014-03-31T00:00:00.000",
+  "facLatDecMs": "42.922222",
+  "facLongDecMs": "-085.741944",
+  "lepcNm": "Kent County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-10-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Wyoming Fire Department",
+    "agencyPhoneNm": "6165307260",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038991"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038991"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038991"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038991"
+    }
+  }
+}

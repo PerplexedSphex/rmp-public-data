@@ -1,0 +1,88 @@
+{
+  "facilityId": 31330,
+  "epaFacId": "100000023921",
+  "facNm": "Dean Milk Company, INC",
+  "parntCo1Nm": "Dean East II, LLC",
+  "facDunsNu": 6393680,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4420 Bishop Lane",
+  "facStreet2Tx": null,
+  "facCityNm": "Louisville",
+  "facStateCd": "KY",
+  "countyNm": "JEFFERSON",
+  "facZipCd": "40218",
+  "facZip4Cd": "4598",
+  "receiptDa": "2004-06-10T00:00:00.000",
+  "facLatDecMs": "38.195833",
+  "facLongDecMs": "-085.687778",
+  "lepcNm": "Jefferson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-10-22T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Louisville & Jefferson County LEPC",
+    "agencyPhoneNm": "5025743900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31330"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        },
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31330"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31330"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31330"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000026780,
+  "epaFacId": "100000203601",
+  "facNm": "Unilever Foods N.A.",
+  "parntCo1Nm": "Unilever Supply Chain, Inc.",
+  "facDunsNu": 151334075,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1901 Ragu Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Owensboro",
+  "facStateCd": "KY",
+  "countyNm": "DAVIESS",
+  "facZipCd": "42302",
+  "facZip4Cd": "1907",
+  "receiptDa": "2012-04-17T00:00:00.000",
+  "facLatDecMs": "37.764556",
+  "facLongDecMs": "-087.075917",
+  "lepcNm": "Daviess County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Owensboro Fire Dept.",
+    "agencyPhoneNm": "2706878401",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026780"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        },
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026780"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026780"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026780"
+    }
+  }
+}

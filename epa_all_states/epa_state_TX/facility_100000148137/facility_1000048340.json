@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000048340,
+  "epaFacId": "100000148137",
+  "facNm": "Martin Operating Partnership, LP",
+  "parntCo1Nm": "Martin Midstream Partners, LP",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Hwy 194 West",
+  "facStreet2Tx": null,
+  "facCityNm": "Plainview",
+  "facStateCd": "TX",
+  "countyNm": "HALE",
+  "facZipCd": "79072",
+  "facZip4Cd": null,
+  "receiptDa": "2015-01-14T00:00:00.000",
+  "facLatDecMs": "34.223333",
+  "facLongDecMs": "-101.755833",
+  "lepcNm": "Hale County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Plainview Fire Department",
+    "agencyPhoneNm": "8062961172",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048340"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Nitrogenous Fertilizer Manufacturing ",
+          "naicsCd": "325311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048340"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048340"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048340"
+    }
+  }
+}

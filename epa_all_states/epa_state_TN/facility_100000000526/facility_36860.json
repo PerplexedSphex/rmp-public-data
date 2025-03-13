@@ -1,0 +1,88 @@
+{
+  "facilityId": 36860,
+  "epaFacId": "100000000526",
+  "facNm": "Purity Dairies, Inc.",
+  "parntCo1Nm": "Deans Southeast II LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "360 Murfreesboro Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Nashville",
+  "facStateCd": "TN",
+  "countyNm": "DAVIDSON",
+  "facZipCd": "37210",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-23T00:00:00.000",
+  "facLatDecMs": "36.145556",
+  "facLongDecMs": "-086.751389",
+  "lepcNm": "Davidson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Nashville Fire Department HazMat",
+    "agencyPhoneNm": "6158625230",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36860"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        },
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36860"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36860"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36860"
+    }
+  }
+}

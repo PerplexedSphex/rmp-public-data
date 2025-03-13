@@ -1,0 +1,79 @@
+{
+  "facilityId": 5002,
+  "epaFacId": "100000064592",
+  "facNm": "Jackson Ice Cream Company",
+  "parntCo1Nm": "Jackson Ice Cream Company",
+  "facDunsNu": 7243629,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2600 East 4th  Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Hutchinson",
+  "facStateCd": "KS",
+  "countyNm": "RENO",
+  "facZipCd": "67504",
+  "facZip4Cd": "0429",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "38.058889",
+  "facLongDecMs": "-97.882778",
+  "lepcNm": "Reno County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hutchinson, KS Fire Dept.",
+    "agencyPhoneNm": "3166942871",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5002"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5002"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5002"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5002"
+    }
+  }
+}

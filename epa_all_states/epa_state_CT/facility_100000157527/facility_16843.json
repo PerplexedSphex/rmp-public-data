@@ -1,0 +1,79 @@
+{
+  "facilityId": 16843,
+  "epaFacId": "100000157527",
+  "facNm": "Bayer Corp.-Pharma Division, West Haven CT",
+  "parntCo1Nm": "Bayer Corporation",
+  "facDunsNu": 46418059,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "400 Morgan Lane",
+  "facStreet2Tx": "NA",
+  "facCityNm": "West Haven",
+  "facStateCd": "CT",
+  "countyNm": "NEW HAVEN",
+  "facZipCd": "06516",
+  "facZip4Cd": "4175",
+  "receiptDa": "1999-08-02T00:00:00.000",
+  "facLatDecMs": "41.256389",
+  "facLongDecMs": "-72.988611",
+  "lepcNm": "West Haven LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2008-04-10T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "West Shore Fire Department",
+    "agencyPhoneNm": "2039338420",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16843"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pharmaceutical Preparation Manufacturing ",
+          "naicsCd": "325412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16843"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16843"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16843"
+    }
+  }
+}

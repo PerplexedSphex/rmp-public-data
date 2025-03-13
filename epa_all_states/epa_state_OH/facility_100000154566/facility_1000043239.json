@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043239,
+  "epaFacId": "100000154566",
+  "facNm": "Advanced Pierre Foods, Inc.",
+  "parntCo1Nm": "Oak Tree Capital Management Group",
+  "facDunsNu": 48465686,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "9990 Princeton Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Cincinnati",
+  "facStateCd": "OH",
+  "countyNm": "BUTLER",
+  "facZipCd": "45246",
+  "facZip4Cd": "1127",
+  "receiptDa": "2014-05-30T00:00:00.000",
+  "facLatDecMs": "39.307645",
+  "facLongDecMs": "-084.463414",
+  "lepcNm": "Butler County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Westchester Fire Department",
+    "agencyPhoneNm": "5137771133",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043239"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043239"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043239"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043239"
+    }
+  }
+}

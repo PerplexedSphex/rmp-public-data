@@ -1,0 +1,79 @@
+{
+  "facilityId": 14292,
+  "epaFacId": "100000150597",
+  "facNm": "Smith-Kem Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 27303684,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "200 Railroad Ave. S",
+  "facStreet2Tx": null,
+  "facCityNm": "Ellensburg",
+  "facStateCd": "WA",
+  "countyNm": "KITTITAS",
+  "facZipCd": "98926",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-28T00:00:00.000",
+  "facLatDecMs": "46.990556",
+  "facLongDecMs": "-120.555",
+  "lepcNm": "Kittitas County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2000-08-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ellensburg Fire Department",
+    "agencyPhoneNm": "5099627279",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14292"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14292"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14292"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14292"
+    }
+  }
+}

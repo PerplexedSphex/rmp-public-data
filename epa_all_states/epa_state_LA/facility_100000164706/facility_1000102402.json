@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000102402,
+  "epaFacId": "100000164706",
+  "facNm": "Brenntag Southwest, Inc.  St. Gabriel Bleach Plant",
+  "parntCo1Nm": "Brenntag, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4205 Hwy 75",
+  "facStreet2Tx": "",
+  "facCityNm": "St. Gabriel",
+  "facStateCd": "LA",
+  "countyNm": "IBERVILLE",
+  "facZipCd": "70776",
+  "facZip4Cd": "",
+  "receiptDa": "2023-02-02T00:00:00.000",
+  "facLatDecMs": "30.240906",
+  "facLongDecMs": "-091.103443",
+  "lepcNm": " Iberville Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Iberville Parish LEPC",
+    "agencyPhoneNm": "2256875140",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102402"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102402"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102402"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102402"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 38388,
+  "epaFacId": "100000120406",
+  "facNm": "Polychemie Inc. - Pittsburg, CA",
+  "parntCo1Nm": "SNF Holding Company",
+  "facDunsNu": 607951886,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "501 Nichols Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Pittsburg",
+  "facStateCd": "CA",
+  "countyNm": "CONTRA COSTA",
+  "facZipCd": "94565",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-24T00:00:00.000",
+  "facLatDecMs": "38.046667",
+  "facLongDecMs": "-121.986389",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-06-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Contra Costa Co. Dept of Health Srv",
+    "agencyPhoneNm": "9256462286",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38388"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+          "naicsCd": "325998",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325998"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Dimethylamine  [Methanamine, N-methyl-]",
+          "casNu": "124-40-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/133"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38388"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38388"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38388"
+    }
+  }
+}

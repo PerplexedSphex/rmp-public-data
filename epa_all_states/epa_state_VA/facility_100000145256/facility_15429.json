@@ -1,0 +1,79 @@
+{
+  "facilityId": 15429,
+  "epaFacId": "100000145256",
+  "facNm": "Perdue Farms Inc., Accomac Processing Plant",
+  "parntCo1Nm": "Perdue Farms Incorporated",
+  "facDunsNu": 49928286,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "22520 Lankford Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "Accomac",
+  "facStateCd": "VA",
+  "countyNm": "ACCOMACK",
+  "facZipCd": "23301",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "37.736111",
+  "facLongDecMs": "-75.656111",
+  "lepcNm": "Accomack County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC - County Hazmat Coordinator",
+    "agencyPhoneNm": "7577870911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15429"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Broilers and Other Meat Type Chicken Production",
+          "naicsCd": "11232",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11232"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15429"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15429"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15429"
+    }
+  }
+}

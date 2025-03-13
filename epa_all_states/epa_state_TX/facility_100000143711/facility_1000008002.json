@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000008002,
+  "epaFacId": "100000143711",
+  "facNm": "City of San Angelo Water Treatment Plant",
+  "parntCo1Nm": "City of San Angelo, Texas",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "327 E. Avenue I",
+  "facStreet2Tx": null,
+  "facCityNm": "San Angelo",
+  "facStateCd": "TX",
+  "countyNm": "TOM GREEN",
+  "facZipCd": "76903",
+  "facZip4Cd": "7538",
+  "receiptDa": "2009-06-16T00:00:00.000",
+  "facLatDecMs": "31.448269",
+  "facLongDecMs": "-100.428175",
+  "lepcNm": "Tom Green County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "San Angelo Fire Department",
+    "agencyPhoneNm": "3259110000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008002"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008002"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008002"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008002"
+    }
+  }
+}

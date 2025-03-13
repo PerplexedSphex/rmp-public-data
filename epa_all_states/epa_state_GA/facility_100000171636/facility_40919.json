@@ -1,0 +1,79 @@
+{
+  "facilityId": 40919,
+  "epaFacId": "100000171636",
+  "facNm": "Perdue Farms Incorporated, Perry, GA",
+  "parntCo1Nm": "Perdue Farms Incorporated",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "250 Hwy 247 Spur",
+  "facStreet2Tx": null,
+  "facCityNm": "Perry",
+  "facStateCd": "GA",
+  "countyNm": "HOUSTON",
+  "facZipCd": "31069",
+  "facZip4Cd": null,
+  "receiptDa": "2004-10-20T00:00:00.000",
+  "facLatDecMs": "32.443056",
+  "facLongDecMs": "-083.628611",
+  "lepcNm": "Houston County Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Houston County Fire Department",
+    "agencyPhoneNm": "9129296966",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40919"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40919"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40919"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40919"
+    }
+  }
+}

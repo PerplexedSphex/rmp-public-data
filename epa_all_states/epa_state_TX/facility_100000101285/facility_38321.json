@@ -1,0 +1,79 @@
+{
+  "facilityId": 38321,
+  "epaFacId": "100000101285",
+  "facNm": "Houston Ammonia Terminal",
+  "parntCo1Nm": "TNI, Inc. Co-general Partner",
+  "facDunsNu": 613541069,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4403 Highway 225",
+  "facStreet2Tx": null,
+  "facCityNm": "Pasadena",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77501",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-24T00:00:00.000",
+  "facLatDecMs": "29.435100",
+  "facLongDecMs": "-095.090400",
+  "lepcNm": "Pasadena  LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-07-11T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC",
+    "agencyPhoneNm": "7134795588",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38321"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Marine Cargo Handling",
+          "naicsCd": "48832",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48832"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38321"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38321"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38321"
+    }
+  }
+}

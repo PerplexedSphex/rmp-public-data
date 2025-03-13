@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100936,
+  "epaFacId": "100000235676",
+  "facNm": "Mexican Original Inc.- Portland",
+  "parntCo1Nm": "Tyson Foods Inc.",
+  "facDunsNu": 928326842,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1355 W. Tyson Rd",
+  "facStreet2Tx": "",
+  "facCityNm": "Portland",
+  "facStateCd": "IN",
+  "countyNm": "JAY",
+  "facZipCd": "47371",
+  "facZip4Cd": "",
+  "receiptDa": "2022-05-16T00:00:00.000",
+  "facLatDecMs": "40.430485",
+  "facLongDecMs": "-85.002222",
+  "lepcNm": "Jay County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Portland Fire Department",
+    "agencyPhoneNm": "2607264500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100936"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Tortilla Manufacturing",
+          "naicsCd": "31183",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31183"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100936"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100936"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100936"
+    }
+  }
+}

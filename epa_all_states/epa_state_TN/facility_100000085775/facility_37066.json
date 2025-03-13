@@ -1,0 +1,79 @@
+{
+  "facilityId": 37066,
+  "epaFacId": "100000085775",
+  "facNm": "Pilgrim's Pride Chattanooga Processing Plant",
+  "parntCo1Nm": "Pilgrim's Pride Corporation",
+  "facDunsNu": 859712841,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "414 West 16th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Chattanooga",
+  "facStateCd": "TN",
+  "countyNm": "HAMILTON",
+  "facZipCd": "37401",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-23T00:00:00.000",
+  "facLatDecMs": "35.036425",
+  "facLongDecMs": "-085.312761",
+  "lepcNm": "Hamilton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chattanooga/Hamilton Co. LEPC",
+    "agencyPhoneNm": "4232096913",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37066"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37066"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37066"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37066"
+    }
+  }
+}

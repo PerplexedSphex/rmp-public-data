@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000014021,
+  "epaFacId": "100000037774",
+  "facNm": "Linde Gas LLC",
+  "parntCo1Nm": "Linde AG",
+  "facDunsNu": 4174819,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "900 Linde Lane",
+  "facStreet2Tx": "Hwy 20",
+  "facCityNm": "Decatur",
+  "facStateCd": "AL",
+  "countyNm": "MORGAN",
+  "facZipCd": "35601",
+  "facZip4Cd": null,
+  "receiptDa": "2010-05-20T00:00:00.000",
+  "facLatDecMs": "34.621611",
+  "facLongDecMs": "-087.011667",
+  "lepcNm": "Morgan County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Morgan County EMA",
+    "agencyPhoneNm": "2563514620",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014021"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014021"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014021"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014021"
+    }
+  }
+}

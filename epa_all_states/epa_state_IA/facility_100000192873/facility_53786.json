@@ -1,0 +1,79 @@
+{
+  "facilityId": 53786,
+  "epaFacId": "100000192873",
+  "facNm": "Nash Finch Cedar Rapids Facility",
+  "parntCo1Nm": null,
+  "facDunsNu": 43477314,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1201 Blairs Ferry Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Cedar Rapids",
+  "facStateCd": "IA",
+  "countyNm": "LINN",
+  "facZipCd": "52402",
+  "facZip4Cd": null,
+  "receiptDa": "2009-02-17T00:00:00.000",
+  "facLatDecMs": "42.035000",
+  "facLongDecMs": "-091.652500",
+  "lepcNm": "Linn County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-05-10T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department",
+    "agencyPhoneNm": "3192865200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53786"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53786"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53786"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53786"
+    }
+  }
+}

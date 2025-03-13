@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000067677,
+  "epaFacId": "100000220913",
+  "facNm": "Valley International Cold Storage",
+  "parntCo1Nm": "VICS Holding Company, LLC",
+  "facDunsNu": 883240251,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "200 FM 509",
+  "facStreet2Tx": null,
+  "facCityNm": "Harlingen",
+  "facStateCd": "TX",
+  "countyNm": "CAMERON",
+  "facZipCd": "78550",
+  "facZip4Cd": null,
+  "receiptDa": "2018-01-30T00:00:00.000",
+  "facLatDecMs": "26.196478",
+  "facLongDecMs": "-97.634239",
+  "lepcNm": "Cameron County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Harlingen Fire Department",
+    "agencyPhoneNm": "9562165701",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067677"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067677"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067677"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067677"
+    }
+  }
+}

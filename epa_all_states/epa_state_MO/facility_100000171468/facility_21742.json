@@ -1,0 +1,79 @@
+{
+  "facilityId": 21742,
+  "epaFacId": "100000171468",
+  "facNm": "IBP, inc.",
+  "parntCo1Nm": "IBP, inc.",
+  "facDunsNu": 144667198,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1001 Harness Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Montgomery City",
+  "facStateCd": "MO",
+  "countyNm": "MONTGOMERY",
+  "facZipCd": "63361",
+  "facZip4Cd": null,
+  "receiptDa": "2000-08-14T00:00:00.000",
+  "facLatDecMs": "38.965",
+  "facLongDecMs": "-91.489722",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-12-22T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Local Emergency Planning commission",
+    "agencyPhoneNm": "5735642283",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21742"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21742"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21742"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21742"
+    }
+  }
+}

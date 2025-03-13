@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000115306,
+  "epaFacId": "100000109205",
+  "facNm": "EMD Acquisition LLC",
+  "parntCo1Nm": "",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "560 West Lake Mead Parkway",
+  "facStreet2Tx": "",
+  "facCityNm": "Henderson",
+  "facStateCd": "NV",
+  "countyNm": "CLARK",
+  "facZipCd": "89015",
+  "facZip4Cd": "",
+  "receiptDa": "2024-06-13T00:00:00.000",
+  "facLatDecMs": "36.043167",
+  "facLongDecMs": "-114.999639",
+  "lepcNm": "Clark County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clark County Nevada FD",
+    "agencyPhoneNm": "7024557311",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115306"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Boron trichloride  [Borane, trichloro-]",
+          "casNu": "10294-34-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/73"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115306"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115306"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115306"
+    }
+  }
+}

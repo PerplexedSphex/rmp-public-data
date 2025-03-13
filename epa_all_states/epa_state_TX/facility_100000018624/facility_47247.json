@@ -1,0 +1,79 @@
+{
+  "facilityId": 47247,
+  "epaFacId": "100000018624",
+  "facNm": "AES Deepwater",
+  "parntCo1Nm": "AES Corporation",
+  "facDunsNu": 556966828,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "701 Light Company Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Pasadena",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77506",
+  "facZip4Cd": null,
+  "receiptDa": "2006-12-15T00:00:00.000",
+  "facLatDecMs": "29.716944",
+  "facLongDecMs": "-095.227778",
+  "lepcNm": "Pasadena  LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2011-06-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pasadena LEPC",
+    "agencyPhoneNm": "7134755588",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/47247"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/47247"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/47247"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/47247"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 12602,
+  "epaFacId": "100000135383",
+  "facNm": "Coors Brewing Company, Memphis",
+  "parntCo1Nm": "Coors Brewing Company",
+  "facDunsNu": 622406635,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "5151 East Raines Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Memphis",
+  "facStateCd": "TN",
+  "countyNm": "SHELBY",
+  "facZipCd": "38118",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "35.032778",
+  "facLongDecMs": "-89.8925",
+  "lepcNm": "Shelby County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2006-09-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Memphis Fire Department",
+    "agencyPhoneNm": "9013855124",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12602"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12602"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12602"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12602"
+    }
+  }
+}

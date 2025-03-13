@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000063741,
+  "epaFacId": "100000210318",
+  "facNm": "Pennsylvania Grain Processing, LLC",
+  "parntCo1Nm": "Zeeland Farm Services, Inc",
+  "facDunsNu": 884270385,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "250 Technology Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Clearfield",
+  "facStateCd": "PA",
+  "countyNm": "CLEARFIELD",
+  "facZipCd": "16830",
+  "facZip4Cd": null,
+  "receiptDa": "2017-07-20T00:00:00.000",
+  "facLatDecMs": "41.028280",
+  "facLongDecMs": "-78.424620",
+  "lepcNm": "Clearfield County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clearfield County Emergency Mgmt. ",
+    "agencyPhoneNm": "8147655357",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063741"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ethyl Alcohol Manufacturing ",
+          "naicsCd": "325193",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325193"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063741"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063741"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063741"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 4404,
+  "epaFacId": "100000050286",
+  "facNm": "Dow Chemical Torrance California Site",
+  "parntCo1Nm": "The Dow Chemical Company",
+  "facDunsNu": 155929987,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "305 Crenshaw Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Torrance",
+  "facStateCd": "CA",
+  "countyNm": "LOS ANGELES",
+  "facZipCd": "90503",
+  "facZip4Cd": "1707",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "33.844722",
+  "facLongDecMs": "-118.330556",
+  "lepcNm": "Region 1",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2000-03-17T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": null,
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Torrance Fire Department",
+    "agencyPhoneNm": "3106182973",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4404"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Polystyrene Foam Product Manufacturing",
+          "naicsCd": "32614",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32614"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl chloride  [Ethane, chloro-]",
+          "casNu": "75-00-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/100"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4404"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4404"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4404"
+    }
+  }
+}

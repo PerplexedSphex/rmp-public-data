@@ -1,0 +1,79 @@
+{
+  "facilityId": 12365,
+  "epaFacId": "100000131699",
+  "facNm": "Valspar Coatings - Chicago Facility",
+  "parntCo1Nm": "The Valspar Corporation",
+  "facDunsNu": 47907555,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2841 South Ashland Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Chicago",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60608",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "41.841389",
+  "facLongDecMs": "-87.666667",
+  "lepcNm": "City of Chicago LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2006-05-26T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Chicago Fire Department",
+    "agencyPhoneNm": "7737444762",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12365"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene diisocyanate (unspecified isomer)  [Benzene, 1,3-diisocyanatomethyl-]",
+          "casNu": "26471-62-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/77"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12365"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12365"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12365"
+    }
+  }
+}

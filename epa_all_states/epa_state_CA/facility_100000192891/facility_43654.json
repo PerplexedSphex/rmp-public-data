@@ -1,0 +1,88 @@
+{
+  "facilityId": 43654,
+  "epaFacId": "100000192891",
+  "facNm": "Salyer American Cooling",
+  "parntCo1Nm": "Salyer American Cooling",
+  "facDunsNu": 196138465,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "11200 Commercial Parkway",
+  "facStreet2Tx": null,
+  "facCityNm": "Castroville",
+  "facStateCd": "CA",
+  "countyNm": "MONTEREY",
+  "facZipCd": "95012",
+  "facZip4Cd": null,
+  "receiptDa": "2005-08-22T00:00:00.000",
+  "facLatDecMs": "36.755556",
+  "facLongDecMs": "-121.736667",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2015-04-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Monterey County Health Department",
+    "agencyPhoneNm": "8317554511",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43654"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Postharvest Crop Activities (except Cotton Ginning) ",
+          "naicsCd": "115114",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/115114"
+            }
+          }
+        },
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43654"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43654"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43654"
+    }
+  }
+}

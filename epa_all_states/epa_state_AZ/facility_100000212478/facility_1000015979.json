@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000015979,
+  "epaFacId": "100000212478",
+  "facNm": "Flavor Right Foods Group, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 35907658,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1910 W Mountain View Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Phoenix",
+  "facStateCd": "AZ",
+  "countyNm": "MARICOPA",
+  "facZipCd": "85021",
+  "facZip4Cd": null,
+  "receiptDa": "2010-10-13T00:00:00.000",
+  "facLatDecMs": "33.343139",
+  "facLongDecMs": "-112.060527",
+  "lepcNm": "Maricopa County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Phoenix Fire Department",
+    "agencyPhoneNm": "6022626297",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015979"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flavoring Syrup and Concentrate Manufacturing",
+          "naicsCd": "31193",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31193"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015979"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015979"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015979"
+    }
+  }
+}

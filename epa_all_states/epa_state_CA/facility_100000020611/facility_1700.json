@@ -1,0 +1,79 @@
+{
+  "facilityId": 1700,
+  "epaFacId": "100000020611",
+  "facNm": "The Pillsbury Company - Tulare",
+  "parntCo1Nm": "Diageo Inc.",
+  "facDunsNu": 115083131,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "970 Continental Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Tulare",
+  "facStateCd": "CA",
+  "countyNm": "TULARE",
+  "facZipCd": "93274",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-07T00:00:00.000",
+  "facLatDecMs": "36.1875",
+  "facLongDecMs": "-119.336111",
+  "lepcNm": "Tulare Co Env Health Services",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tulare Co Env Health Services",
+    "agencyPhoneNm": "2097336441",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1700"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1700"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1700"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1700"
+    }
+  }
+}

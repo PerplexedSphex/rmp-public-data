@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000008102,
+  "epaFacId": "100000003658",
+  "facNm": "Delta Pride Catfish, Inc. - Main Plant",
+  "parntCo1Nm": "Consolidated Catfish Producers, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1301 Industrial Parkway",
+  "facStreet2Tx": "P. O. Box 850",
+  "facCityNm": "Indianola",
+  "facStateCd": "MS",
+  "countyNm": "SUNFLOWER",
+  "facZipCd": "38751",
+  "facZip4Cd": null,
+  "receiptDa": "2010-05-03T00:00:00.000",
+  "facLatDecMs": "33.43875",
+  "facLongDecMs": "-090.619167",
+  "lepcNm": "Sunflower County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2011-01-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Indianola Fire Department",
+    "agencyPhoneNm": "6628871313",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008102"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fresh and Frozen Seafood Processing",
+          "naicsCd": "311712",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311712"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008102"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008102"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008102"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 2727,
+  "epaFacId": "100000033411",
+  "facNm": "Belleville Wastewater Treatment Facility",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "498 Environmental Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Belleville",
+  "facStateCd": "IL",
+  "countyNm": "ST. CLAIR",
+  "facZipCd": "62220",
+  "facZip4Cd": "2105",
+  "receiptDa": "1999-06-14T00:00:00.000",
+  "facLatDecMs": "38.518667",
+  "facLongDecMs": "-89.909778",
+  "lepcNm": "St. Clair County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-03-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Belleville Fire Department",
+    "agencyPhoneNm": "6182342236",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2727"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Other Basic Organic Chemical Manufacturing",
+          "naicsCd": "32519",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32519"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2727"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2727"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2727"
+    }
+  }
+}

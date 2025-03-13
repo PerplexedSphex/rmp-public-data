@@ -1,0 +1,79 @@
+{
+  "facilityId": 21681,
+  "epaFacId": "100000079746",
+  "facNm": "Hampton, South Carolina Plant",
+  "parntCo1Nm": "Georgia-Pacific Corporation",
+  "facDunsNu": 120933791,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "609 Nix Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Hampton",
+  "facStateCd": "SC",
+  "countyNm": "HAMPTON",
+  "facZipCd": "29924",
+  "facZip4Cd": null,
+  "receiptDa": "2000-07-28T00:00:00.000",
+  "facLatDecMs": "32.876667",
+  "facLongDecMs": "-81.109167",
+  "lepcNm": "Hampton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2002-04-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hampton County Fire Department",
+    "agencyPhoneNm": "8039432979",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21681"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21681"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21681"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21681"
+    }
+  }
+}

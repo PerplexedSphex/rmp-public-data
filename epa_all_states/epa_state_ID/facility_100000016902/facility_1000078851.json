@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000078851,
+  "epaFacId": "100000016902",
+  "facNm": "Tessenderlo Kerley, Inc. - Burley Facility",
+  "parntCo1Nm": "Tessenderlo Kerley, Inc.",
+  "facDunsNu": 7720584,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "480 S, 260 W",
+  "facStreet2Tx": null,
+  "facCityNm": "Burley",
+  "facStateCd": "ID",
+  "countyNm": "CASSIA",
+  "facZipCd": "83318",
+  "facZip4Cd": null,
+  "receiptDa": "2019-05-16T13:24:25.000",
+  "facLatDecMs": "42.463800",
+  "facLongDecMs": "-113.845573",
+  "lepcNm": "Mini-Cassia LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cassia County LEPC",
+    "agencyPhoneNm": "2088782251",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078851"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+          "naicsCd": "32532",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32532"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Carbon disulfide",
+          "casNu": "75-15-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/8"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methylamine  [Methanamine]",
+          "casNu": "74-89-5",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/97"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078851"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078851"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078851"
+    }
+  }
+}

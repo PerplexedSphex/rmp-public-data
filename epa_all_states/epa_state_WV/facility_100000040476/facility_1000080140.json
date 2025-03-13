@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080140,
+  "epaFacId": "100000040476",
+  "facNm": "Ashland Neal Plant",
+  "parntCo1Nm": "Ashland LLC",
+  "facDunsNu": 5003264,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "100 Big Sandy River Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Kenova",
+  "facStateCd": "WV",
+  "countyNm": "WAYNE",
+  "facZipCd": "25530",
+  "facZip4Cd": null,
+  "receiptDa": "2019-06-06T16:57:18.000",
+  "facLatDecMs": "38.367444",
+  "facLongDecMs": "-082.593500",
+  "lepcNm": "Cabell/Wayne County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kenova Volunteer Fire Department",
+    "agencyPhoneNm": "3044534153",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080140"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Organic Chemical Manufacturing",
+          "naicsCd": "32519",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32519"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080140"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080140"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080140"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000062178,
+  "epaFacId": "100000135953",
+  "facNm": "Fritz Products, Inc",
+  "parntCo1Nm": "Fritz Enterprises, Inc",
+  "facDunsNu": 161887930,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "255 Marion Street",
+  "facStreet2Tx": null,
+  "facCityNm": "River Rouge",
+  "facStateCd": "MI",
+  "countyNm": "WAYNE",
+  "facZipCd": "48218",
+  "facZip4Cd": null,
+  "receiptDa": "2017-02-17T00:00:00.000",
+  "facLatDecMs": "42.273650",
+  "facLongDecMs": "-083.120890",
+  "lepcNm": "Wayne County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "River Rouge Fire Department",
+    "agencyPhoneNm": "3138421717",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062178"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Secondary Smelting and Alloying of Aluminum ",
+          "naicsCd": "331314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062178"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062178"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062178"
+    }
+  }
+}

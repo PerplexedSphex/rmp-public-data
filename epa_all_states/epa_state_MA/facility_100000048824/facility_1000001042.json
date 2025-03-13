@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001042,
+  "epaFacId": "100000048824",
+  "facNm": "Hercules Incorporated",
+  "parntCo1Nm": "Ashland Incorporated",
+  "facDunsNu": 1120997,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1111 Grattan Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Chicopee",
+  "facStateCd": "MA",
+  "countyNm": "HAMPDEN",
+  "facZipCd": "01013",
+  "facZip4Cd": "5209",
+  "receiptDa": "2009-06-16T00:00:00.000",
+  "facLatDecMs": "42.181944",
+  "facLongDecMs": "-072.609167",
+  "lepcNm": "Chicopee LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chicopee Fire Department",
+    "agencyPhoneNm": "4135941600",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001042"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Epichlorohydrin  [Oxirane, (chloromethyl)-]",
+          "casNu": "106-89-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/21"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001042"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001042"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001042"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000021602,
+  "epaFacId": "100000047718",
+  "facNm": "Helena Chemical Company - Scarsboro, IL Facility",
+  "parntCo1Nm": "Helena Chemical Company ",
+  "facDunsNu": 7036759,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1318 Steward Rd",
+  "facStreet2Tx": null,
+  "facCityNm": "Steward",
+  "facStateCd": "IL",
+  "countyNm": "LEE",
+  "facZipCd": "61853",
+  "facZip4Cd": null,
+  "receiptDa": "2014-04-11T00:00:00.000",
+  "facLatDecMs": "41.777750",
+  "facLongDecMs": "-089.034111",
+  "lepcNm": "Lee County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Compton Fire Dept",
+    "agencyPhoneNm": "8156272341",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021602"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Support Activities for Crop Production",
+          "naicsCd": "11511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021602"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021602"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021602"
+    }
+  }
+}

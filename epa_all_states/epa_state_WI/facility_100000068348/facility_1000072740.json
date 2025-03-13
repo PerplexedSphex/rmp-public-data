@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000072740,
+  "epaFacId": "100000068348",
+  "facNm": "Sargento Foods, Inc.",
+  "parntCo1Nm": "Sargento Foods, Inc.",
+  "facDunsNu": 23218233,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1 Persnickety Place",
+  "facStreet2Tx": null,
+  "facCityNm": "Kiel",
+  "facStateCd": "WI",
+  "countyNm": "MANITOWOC",
+  "facZipCd": "53042",
+  "facZip4Cd": "0175",
+  "receiptDa": "2018-10-15T00:00:00.000",
+  "facLatDecMs": "43.927500",
+  "facLongDecMs": "-088.021944",
+  "lepcNm": "Manitowoc County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Manitowoc County LEPC",
+    "agencyPhoneNm": "9206834207",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072740"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072740"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072740"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072740"
+    }
+  }
+}

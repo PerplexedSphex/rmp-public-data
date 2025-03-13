@@ -1,0 +1,79 @@
+{
+  "facilityId": 42166,
+  "epaFacId": "100000190802",
+  "facNm": "WPS Niagara Generation, LLC",
+  "parntCo1Nm": "USRG Niagara Biomass, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "5300 Frontier Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Niagara Falls",
+  "facStateCd": "NY",
+  "countyNm": "NIAGARA",
+  "facZipCd": "14304",
+  "facZip4Cd": null,
+  "receiptDa": "2005-02-23T00:00:00.000",
+  "facLatDecMs": "43.083389",
+  "facLongDecMs": "-079.002972",
+  "lepcNm": "Niagara County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2012-11-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Niagara County LEPC",
+    "agencyPhoneNm": "7154383476",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42166"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Electric Power Transmission, Control, and Distribution",
+          "naicsCd": "22112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42166"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42166"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42166"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000035436,
+  "epaFacId": "100000203638",
+  "facNm": "Greensboro II Terminal",
+  "parntCo1Nm": "Magellan Terminal Holdings, L.P.",
+  "facDunsNu": 5144332,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7109 W Market St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Greensboro",
+  "facStateCd": "NC",
+  "countyNm": "GUILFORD",
+  "facZipCd": "27419",
+  "facZip4Cd": null,
+  "receiptDa": "2013-07-29T00:00:00.000",
+  "facLatDecMs": "36.08",
+  "facLongDecMs": "-79.9323",
+  "lepcNm": "Guilford County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Greensboro Fire Department",
+    "agencyPhoneNm": "3364567890",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035436"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035436"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035436"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035436"
+    }
+  }
+}

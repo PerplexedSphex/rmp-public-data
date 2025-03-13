@@ -1,0 +1,79 @@
+{
+  "facilityId": 111,
+  "epaFacId": "100000000900",
+  "facNm": "Air Products, Marlborough",
+  "parntCo1Nm": "Air Products and Chemicals, Inc.",
+  "facDunsNu": 107900425,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "102 Hayes Memorial Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Marlborough",
+  "facStateCd": "MA",
+  "countyNm": "MIDDLESEX",
+  "facZipCd": "01752",
+  "facZip4Cd": "1888",
+  "receiptDa": "1999-03-18T00:00:00.000",
+  "facLatDecMs": "42.327222",
+  "facLongDecMs": "-71.598889",
+  "lepcNm": "Marlborough LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Marlborough Fire Department",
+    "agencyPhoneNm": "5084852323",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/111"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Wholesalers",
+          "naicsCd": "42269",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42269"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/111"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/111"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/111"
+    }
+  }
+}

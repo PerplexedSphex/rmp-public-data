@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000021998,
+  "epaFacId": "100000168695",
+  "facNm": "Bluewater Thermal Solutions LLC",
+  "parntCo1Nm": "Bluewater Thermal Services Processing LLC",
+  "facDunsNu": 113092373,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "75 E. Lake Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Northlake",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60164",
+  "facZip4Cd": null,
+  "receiptDa": "2011-04-28T00:00:00.000",
+  "facLatDecMs": "41.900871",
+  "facLongDecMs": "-087.902670",
+  "lepcNm": "Cook County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "NORTHLAKE FIRE DEPARTMENT",
+    "agencyPhoneNm": "7085623182",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021998"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Metal Heat Treating ",
+          "naicsCd": "332811",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332811"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021998"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021998"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021998"
+    }
+  }
+}

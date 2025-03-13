@@ -1,0 +1,79 @@
+{
+  "facilityId": 29819,
+  "epaFacId": "100000185729",
+  "facNm": "Indianapolis Power & Light Company",
+  "parntCo1Nm": "AES Corporation",
+  "facDunsNu": 38906889,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "6925 N. State Rd. 57",
+  "facStreet2Tx": null,
+  "facCityNm": "Petersburg",
+  "facStateCd": "IN",
+  "countyNm": "PIKE",
+  "facZipCd": "47567",
+  "facZip4Cd": null,
+  "receiptDa": "2004-04-19T00:00:00.000",
+  "facLatDecMs": "38.527694",
+  "facLongDecMs": "-87.250667",
+  "lepcNm": "Pike County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pike Co. LEPC",
+    "agencyPhoneNm": "8123546776",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29819"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29819"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29819"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29819"
+    }
+  }
+}

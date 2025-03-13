@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000023520,
+  "epaFacId": "100000060792",
+  "facNm": "Tyson Prepared Foods, North Richland Hills",
+  "parntCo1Nm": "Tyson Foods Inc.",
+  "facDunsNu": 600306690,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6350 Browning Court",
+  "facStreet2Tx": null,
+  "facCityNm": "North Richland Hill",
+  "facStateCd": "TX",
+  "countyNm": "TARRANT",
+  "facZipCd": "76180",
+  "facZip4Cd": "6013",
+  "receiptDa": "2011-08-24T00:00:00.000",
+  "facLatDecMs": "32.851944",
+  "facLongDecMs": "-097.245556",
+  "lepcNm": "Tarrant County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "NRH Fire Department",
+    "agencyPhoneNm": "8172811000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023520"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023520"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023520"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023520"
+    }
+  }
+}

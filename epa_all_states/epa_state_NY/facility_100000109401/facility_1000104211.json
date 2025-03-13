@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000104211,
+  "epaFacId": "100000109401",
+  "facNm": "Genpak LLC - Middletown",
+  "parntCo1Nm": "",
+  "facDunsNu": 96191192,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "26 Republic Plaza",
+  "facStreet2Tx": "",
+  "facCityNm": "Middletown",
+  "facStateCd": "NY",
+  "countyNm": "ORANGE",
+  "facZipCd": "10940",
+  "facZip4Cd": "6543",
+  "receiptDa": "2023-02-07T00:00:00.000",
+  "facLatDecMs": "41.430619",
+  "facLongDecMs": "-74.419421",
+  "lepcNm": "Orange County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Middletown Fire Department",
+    "agencyPhoneNm": "8453434169",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104211"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Polystyrene Foam Product Manufacturing",
+          "naicsCd": "32614",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32614"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isopentane  [Butane, 2-methyl-]",
+          "casNu": "78-78-4",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/115"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104211"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104211"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104211"
+    }
+  }
+}

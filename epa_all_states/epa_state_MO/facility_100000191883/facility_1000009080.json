@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000009080,
+  "epaFacId": "100000191883",
+  "facNm": "Enterprise Kearney Terminal & Storage",
+  "parntCo1Nm": "Enterprise Terminals & Storage, LLC",
+  "facDunsNu": 48210686,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1015 North Jefferson",
+  "facStreet2Tx": null,
+  "facCityNm": "Kearney",
+  "facStateCd": "MO",
+  "countyNm": "CLAY",
+  "facZipCd": "64060",
+  "facZip4Cd": null,
+  "receiptDa": "2009-07-17T00:00:00.000",
+  "facLatDecMs": "39.388805",
+  "facLongDecMs": "-094.368720",
+  "lepcNm": "Clay County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kearney Fire Dept.",
+    "agencyPhoneNm": "8166284122",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009080"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Pipeline Transportation",
+          "naicsCd": "48699",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48699"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009080"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009080"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009080"
+    }
+  }
+}

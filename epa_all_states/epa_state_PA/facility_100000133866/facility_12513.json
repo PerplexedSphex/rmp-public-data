@@ -1,0 +1,79 @@
+{
+  "facilityId": 12513,
+  "epaFacId": "100000133866",
+  "facNm": "Riverside BiLo Perishables Distribution Center",
+  "parntCo1Nm": "Penn Traffic Company",
+  "facDunsNu": 122860489,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "851Beaver Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Du Bois",
+  "facStateCd": "PA",
+  "countyNm": "CLEARFIELD",
+  "facZipCd": "15801",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "41.123056",
+  "facLongDecMs": "-78.736667",
+  "lepcNm": "Clearfield County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Du Bois Fire Department",
+    "agencyPhoneNm": "8143713535",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12513"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Packaged Frozen Food Wholesalers",
+          "naicsCd": "42242",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42242"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12513"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12513"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12513"
+    }
+  }
+}

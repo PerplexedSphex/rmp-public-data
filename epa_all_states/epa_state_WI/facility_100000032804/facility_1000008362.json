@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000008362,
+  "epaFacId": "100000032804",
+  "facNm": "ERCO Worldwide (USA) Inc.",
+  "parntCo1Nm": "Superior Plus (US) Holdings, Inc.",
+  "facDunsNu": 46536231,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "101 Highway 73 South",
+  "facStreet2Tx": null,
+  "facCityNm": "Nekoosa",
+  "facStateCd": "WI",
+  "countyNm": "WOOD",
+  "facZipCd": "54457",
+  "facZip4Cd": "8235",
+  "receiptDa": "2009-07-29T00:00:00.000",
+  "facLatDecMs": "44.338056",
+  "facLongDecMs": "-089.886389",
+  "lepcNm": "Wood County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wood County LEPC",
+    "agencyPhoneNm": "7154218500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008362"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Alkalies and Chlorine Manufacturing",
+          "naicsCd": "325181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008362"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008362"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008362"
+    }
+  }
+}

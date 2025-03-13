@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101097,
+  "epaFacId": "100000248591",
+  "facNm": "Avanti Polar Lipids",
+  "parntCo1Nm": "Croda, Inc.",
+  "facDunsNu": 75473496,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "700 Industrial Park Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Alabaster",
+  "facStateCd": "AL",
+  "countyNm": "SHELBY",
+  "facZipCd": "35007",
+  "facZip4Cd": "9105",
+  "receiptDa": "2022-06-03T00:00:00.000",
+  "facLatDecMs": "33.252047",
+  "facLongDecMs": "-86.820942",
+  "lepcNm": "Shelby County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Alabaster Fire Department",
+    "agencyPhoneNm": "2056646818",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101097"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Pharmaceutical Preparation Manufacturing ",
+          "naicsCd": "325412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chloroform  [Methane, trichloro-]",
+          "casNu": "67-66-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/4"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101097"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101097"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101097"
+    }
+  }
+}

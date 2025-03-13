@@ -1,0 +1,88 @@
+{
+  "facilityId": 43158,
+  "epaFacId": "100000129997",
+  "facNm": "Beef Packers Inc",
+  "parntCo1Nm": null,
+  "facDunsNu": 28188043,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3115 S Fig Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Fresno",
+  "facStateCd": "CA",
+  "countyNm": "FRESNO",
+  "facZipCd": "93703",
+  "facZip4Cd": "5647",
+  "receiptDa": "2005-06-20T00:00:00.000",
+  "facLatDecMs": "35.906915",
+  "facLongDecMs": "-120.918732",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Red Cross",
+    "agencyPhoneNm": "5595424242",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43158"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal (except Poultry) Slaughtering ",
+          "naicsCd": "311611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311611"
+            }
+          }
+        },
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43158"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43158"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43158"
+    }
+  }
+}

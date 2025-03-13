@@ -1,0 +1,79 @@
+{
+  "facilityId": 42669,
+  "epaFacId": "100000121637",
+  "facNm": "Ocean State Power",
+  "parntCo1Nm": "TCPL Power LTD.",
+  "facDunsNu": 931391239,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1575 Sherman Farm Rd",
+  "facStreet2Tx": null,
+  "facCityNm": "Harrisville",
+  "facStateCd": "RI",
+  "countyNm": "PROVIDENCE",
+  "facZipCd": "02830",
+  "facZip4Cd": null,
+  "receiptDa": "2005-04-21T00:00:00.000",
+  "facLatDecMs": "42.008333",
+  "facLongDecMs": "-071.670833",
+  "lepcNm": "District 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Harrisville Fire Department",
+    "agencyPhoneNm": "4015686255",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42669"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42669"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42669"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42669"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1757,
+  "epaFacId": "100000021923",
+  "facNm": "Budd Chemical Co.",
+  "parntCo1Nm": "Liberty Plastics Inc.",
+  "facDunsNu": 148206642,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "431S.Pennsville Auburn Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Carneys Point",
+  "facStateCd": "NJ",
+  "countyNm": "SALEM",
+  "facZipCd": "08069",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-07T00:00:00.000",
+  "facLatDecMs": "39.691111",
+  "facLongDecMs": "-75.468889",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "1999-12-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Carneys Point Fire and Rescue",
+    "agencyPhoneNm": "6092994505",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1757"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1757"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1757"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1757"
+    }
+  }
+}

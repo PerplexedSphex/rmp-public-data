@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000090703,
+  "epaFacId": "100000139094",
+  "facNm": "Woodland Biomass Power, LLC",
+  "parntCo1Nm": "DTE Energy Services",
+  "facDunsNu": 603224031,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1786 East Kentucky Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Woodland",
+  "facStateCd": "CA",
+  "countyNm": "YOLO",
+  "facZipCd": "95776",
+  "facZip4Cd": null,
+  "receiptDa": "2020-11-04T10:54:38.000",
+  "facLatDecMs": "38.691111",
+  "facLongDecMs": "-121.737778",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Yolo County Health Department",
+    "agencyPhoneNm": "5306668646",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090703"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090703"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090703"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090703"
+    }
+  }
+}

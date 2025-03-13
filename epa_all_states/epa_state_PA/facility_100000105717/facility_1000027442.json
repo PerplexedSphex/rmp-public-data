@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000027442,
+  "epaFacId": "100000105717",
+  "facNm": "US Steel Clairton Works",
+  "parntCo1Nm": "US Steel Corporation",
+  "facDunsNu": 2028801,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "400 State Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Clairton",
+  "facStateCd": "PA",
+  "countyNm": "ALLEGHENY",
+  "facZipCd": "15025",
+  "facZip4Cd": "1855",
+  "receiptDa": "2012-03-21T00:00:00.000",
+  "facLatDecMs": "40.294722",
+  "facLongDecMs": "-079.874444",
+  "lepcNm": "Allegheny County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Clairton",
+    "agencyPhoneNm": "4122336211",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027442"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Iron and Steel Mills",
+          "naicsCd": "331111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027442"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027442"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027442"
+    }
+  }
+}

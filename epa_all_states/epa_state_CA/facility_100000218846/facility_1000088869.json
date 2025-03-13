@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000088869,
+  "epaFacId": "100000218846",
+  "facNm": "Rich Products Corporation- Union City Facility",
+  "parntCo1Nm": "Rich Products Corporation",
+  "facDunsNu": 825109598,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1600 Whipple Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Union City",
+  "facStateCd": "CA",
+  "countyNm": "ALAMEDA",
+  "facZipCd": "94587",
+  "facZip4Cd": null,
+  "receiptDa": "2020-07-29T15:28:32.000",
+  "facLatDecMs": "37.604975",
+  "facLongDecMs": "-122.04624",
+  "lepcNm": "Alameda County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Alameda County Fire Department",
+    "agencyPhoneNm": "5106183490",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088869"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088869"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088869"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088869"
+    }
+  }
+}

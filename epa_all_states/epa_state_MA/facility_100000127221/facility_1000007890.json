@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000007890,
+  "epaFacId": "100000127221",
+  "facNm": "Garelick Farms, LLC - Lynn",
+  "parntCo1Nm": "Dean East, LLC",
+  "facDunsNu": 1017110,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "626 LYNNWAY",
+  "facStreet2Tx": null,
+  "facCityNm": "LYNN",
+  "facStateCd": "MA",
+  "countyNm": "ESSEX",
+  "facZipCd": "01905",
+  "facZip4Cd": "3068",
+  "receiptDa": "2009-06-17T00:00:00.000",
+  "facLatDecMs": "42.452889",
+  "facLongDecMs": "-070.961361",
+  "lepcNm": "Lynn LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-08-29T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LYNN LEPC",
+    "agencyPhoneNm": "7814777116",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007890"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007890"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007890"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007890"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "facilityId": 48450,
+  "epaFacId": "100000179399",
+  "facNm": "Nash Finch Company - Bridgeport Michigan Facility",
+  "parntCo1Nm": "Nash Finch Company",
+  "facDunsNu": 6962294,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5425 Dixie Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "Bridgeport",
+  "facStateCd": "MI",
+  "countyNm": "SAGINAW",
+  "facZipCd": "48722",
+  "facZip4Cd": "0617",
+  "receiptDa": "2007-06-07T00:00:00.000",
+  "facLatDecMs": "43.362222",
+  "facLongDecMs": "-083.884167",
+  "lepcNm": "Saginaw County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2010-09-24T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bridgeport Fire Department",
+    "agencyPhoneNm": "9897772400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48450"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        },
+        {
+          "description": "General Line Grocery Merchant Wholesalers ",
+          "naicsCd": "42441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48450"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48450"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48450"
+    }
+  }
+}

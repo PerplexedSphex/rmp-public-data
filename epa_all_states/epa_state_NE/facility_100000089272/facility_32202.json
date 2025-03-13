@@ -1,0 +1,90 @@
+{
+  "facilityId": 32202,
+  "epaFacId": "100000089272",
+  "facNm": "Tri-Con Industries, Ltd. Manufacturing Plant",
+  "parntCo1Nm": "TS Tech Japan",
+  "facDunsNu": 176235224,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4000 NW 44th st.",
+  "facStreet2Tx": null,
+  "facCityNm": "Lincoln",
+  "facStateCd": "NE",
+  "countyNm": "LANCASTER",
+  "facZipCd": "68524",
+  "facZip4Cd": "1626",
+  "receiptDa": "2004-06-16T00:00:00.000",
+  "facLatDecMs": "40.854167",
+  "facLongDecMs": "-096.781111",
+  "lepcNm": "Lancaster County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "city of Lincoln Hazmat Team",
+    "agencyPhoneNm": "4024418494",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32202"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Motorcycle, Bicycle, and Parts Manufacturing ",
+          "naicsCd": "336991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/336991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,6-diisocyanate  [Benzene, 1,3-diisocyanato-2-methyl-]",
+          "casNu": "91-08-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/20"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,4-diisocyanate  [Benzene, 2,4-diisocyanato-1-methyl-]",
+          "casNu": "584-84-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/44"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32202"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32202"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32202"
+    }
+  }
+}

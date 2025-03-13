@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000010585,
+  "epaFacId": "100000052051",
+  "facNm": "Tasty Baking Co.",
+  "parntCo1Nm": "Tasty Baking Co.",
+  "facDunsNu": 2266369,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2801 Hunting Park Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Philadelphia",
+  "facStateCd": "PA",
+  "countyNm": "PHILADELPHIA",
+  "facZipCd": "19129",
+  "facZip4Cd": null,
+  "receiptDa": "2009-09-04T00:00:00.000",
+  "facLatDecMs": "40.006890",
+  "facLongDecMs": "-075.175470",
+  "lepcNm": "Philadelphia LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2011-08-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Philadelphia Fire Dept.",
+    "agencyPhoneNm": "2156858063",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010585"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Bread and Bakery Product Manufacturing",
+          "naicsCd": "31181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010585"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010585"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010585"
+    }
+  }
+}

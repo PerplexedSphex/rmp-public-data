@@ -1,0 +1,79 @@
+{
+  "facilityId": 42161,
+  "epaFacId": "100000133456",
+  "facNm": "East Stroudsburg Wastewater Plant",
+  "parntCo1Nm": "The Borough of East Stroudsburg",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "360 Lincoln Ave",
+  "facStreet2Tx": "PO Box 303",
+  "facCityNm": "East Stroudsburg",
+  "facStateCd": "PA",
+  "countyNm": "MONROE",
+  "facZipCd": "18301",
+  "facZip4Cd": null,
+  "receiptDa": "2005-02-23T00:00:00.000",
+  "facLatDecMs": "40.986389",
+  "facLongDecMs": "-075.180278",
+  "lepcNm": "Monroe County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2006-06-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Monroe County LEPC",
+    "agencyPhoneNm": "5704216110",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42161"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Other General Government Support ",
+          "naicsCd": "92119",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/92119"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42161"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42161"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42161"
+    }
+  }
+}

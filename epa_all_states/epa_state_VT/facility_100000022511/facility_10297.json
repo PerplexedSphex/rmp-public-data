@@ -1,0 +1,79 @@
+{
+  "facilityId": 10297,
+  "epaFacId": "100000022511",
+  "facNm": "Newton's Gas Company",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "70 Lee Court",
+  "facStreet2Tx": null,
+  "facCityNm": "Colchester",
+  "facStateCd": "VT",
+  "countyNm": "CHITTENDEN",
+  "facZipCd": "05446",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-07T00:00:00.000",
+  "facLatDecMs": "44.594722",
+  "facLongDecMs": "-73.184167",
+  "lepcNm": "Vermont District 1",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2007-07-10T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Colchester Fire Department",
+    "agencyPhoneNm": "8028788961",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10297"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Liquefied Petroleum Gas (Bottled Gas) Dealers",
+          "naicsCd": "454312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/454312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10297"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10297"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10297"
+    }
+  }
+}

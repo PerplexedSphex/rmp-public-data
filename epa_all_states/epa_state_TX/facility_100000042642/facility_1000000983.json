@@ -1,0 +1,101 @@
+{
+  "facilityId": 1000000983,
+  "epaFacId": "100000042642",
+  "facNm": "SACHEM, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2311 Pipeline Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Cleburne",
+  "facStateCd": "TX",
+  "countyNm": "JOHNSON",
+  "facZipCd": "76033",
+  "facZip4Cd": "7747",
+  "receiptDa": "2009-05-07T00:00:00.000",
+  "facLatDecMs": "32.388833",
+  "facLongDecMs": "-097.399722",
+  "lepcNm": "Johnson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Cleburne Fire Department",
+    "agencyPhoneNm": "5126450966",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000983"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl chloride  [Ethane, chloro-]",
+          "casNu": "75-00-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/100"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Trimethylamine [Methanamine, N,N-dimethyl-]",
+          "casNu": "75-50-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/113"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methyl chloride  [Methane, chloro-]",
+          "casNu": "74-87-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/5"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000983"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000983"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000983"
+    }
+  }
+}

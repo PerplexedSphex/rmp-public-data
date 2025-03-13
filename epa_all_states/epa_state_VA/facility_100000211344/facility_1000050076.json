@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000050076,
+  "epaFacId": "100000211344",
+  "facNm": "Marva Maid Dairy",
+  "parntCo1Nm": "Maryland and Virginia Milk Producers Co-op",
+  "facDunsNu": 23821473,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5500 Chestnut Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Newport News",
+  "facStateCd": "VA",
+  "countyNm": "NEWPORT NEWS (CITY)",
+  "facZipCd": "23605",
+  "facZip4Cd": null,
+  "receiptDa": "2015-05-22T00:00:00.000",
+  "facLatDecMs": "37.006918",
+  "facLongDecMs": "-76.417025",
+  "lepcNm": "Peninsula LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Newport News Fire Department",
+    "agencyPhoneNm": "7579268404",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050076"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050076"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050076"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050076"
+    }
+  }
+}

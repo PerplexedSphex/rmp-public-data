@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000017876,
+  "epaFacId": "100000213155",
+  "facNm": "Advanced Chemical Logistics",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "7101 Burns St",
+  "facStreet2Tx": null,
+  "facCityNm": "Richland Hills",
+  "facStateCd": "TX",
+  "countyNm": "TARRANT",
+  "facZipCd": "76118",
+  "facZip4Cd": null,
+  "receiptDa": "2011-07-21T00:00:00.000",
+  "facLatDecMs": "32.7959116",
+  "facLongDecMs": "-97.2297154",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2015-09-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Richland Hills Fire Department",
+    "agencyPhoneNm": "8172991850",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017876"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Specialized Freight (except Used Goods) Trucking, Local",
+          "naicsCd": "48422",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48422"
+            }
+          }
+        },
+        {
+          "description": "Other Chemical and Allied Products Merchant Wholesalers ",
+          "naicsCd": "42469",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42469"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017876"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017876"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017876"
+    }
+  }
+}

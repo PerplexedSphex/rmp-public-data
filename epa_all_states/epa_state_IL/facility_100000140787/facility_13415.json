@@ -1,0 +1,79 @@
+{
+  "facilityId": 13415,
+  "epaFacId": "100000140787",
+  "facNm": "THE AMMONIA PLANT",
+  "parntCo1Nm": "PETERSEN PROPANE CO.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "16N731 WALKER RD.",
+  "facStreet2Tx": null,
+  "facCityNm": "HAMPSHIRE",
+  "facStateCd": "IL",
+  "countyNm": "KANE",
+  "facZipCd": "60140",
+  "facZip4Cd": "0398",
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "42.109528",
+  "facLongDecMs": "-88.567306",
+  "lepcNm": "Kane County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-03-03T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "HAMPSHIRE FIRE PROTECTION DIST.",
+    "agencyPhoneNm": "8476832629",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13415"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13415"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13415"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13415"
+    }
+  }
+}

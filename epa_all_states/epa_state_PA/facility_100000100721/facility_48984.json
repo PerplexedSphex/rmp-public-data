@@ -1,0 +1,79 @@
+{
+  "facilityId": 48984,
+  "epaFacId": "100000100721",
+  "facNm": "AK Steel Corporation, Butler Works",
+  "parntCo1Nm": "AK Steel Corporation",
+  "facDunsNu": 606072130,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Route 8 South",
+  "facStreet2Tx": null,
+  "facCityNm": "Butler",
+  "facStateCd": "PA",
+  "countyNm": "BUTLER",
+  "facZipCd": "16003",
+  "facZip4Cd": "0832",
+  "receiptDa": "2007-07-02T00:00:00.000",
+  "facLatDecMs": "40.845460",
+  "facLongDecMs": "-079.920690",
+  "lepcNm": "Butler County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Butler County LEPC",
+    "agencyPhoneNm": "7242845211",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48984"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Iron and Steel Mills and Ferroalloy Manufacturing",
+          "naicsCd": "33111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48984"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48984"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48984"
+    }
+  }
+}

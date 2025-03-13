@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000107122,
+  "epaFacId": "100000195246",
+  "facNm": "Vertical Cold Storage",
+  "parntCo1Nm": "Vertical Cold Storage",
+  "facDunsNu": 786296405,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "725 West Pioneer Trace",
+  "facStreet2Tx": "",
+  "facCityNm": "Pendleton",
+  "facStateCd": "IN",
+  "countyNm": "MADISON",
+  "facZipCd": "46064",
+  "facZip4Cd": "",
+  "receiptDa": "2023-09-25T00:00:00.000",
+  "facLatDecMs": "39.999304",
+  "facLongDecMs": "-085.76710",
+  "lepcNm": "Madison County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pendleton Fire Department",
+    "agencyPhoneNm": "7657782400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107122"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107122"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107122"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107122"
+    }
+  }
+}

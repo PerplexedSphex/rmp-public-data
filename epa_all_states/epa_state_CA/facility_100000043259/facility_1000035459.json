@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000035459,
+  "epaFacId": "100000043259",
+  "facNm": "Agrium US Inc, West Sacramento Nitrogen Operations",
+  "parntCo1Nm": "Agrium U.S. Inc.",
+  "facDunsNu": 71573794,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3961 Channel Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "West Sacramento",
+  "facStateCd": "CA",
+  "countyNm": "YOLO",
+  "facZipCd": "95691",
+  "facZip4Cd": null,
+  "receiptDa": "2013-08-12T00:00:00.000",
+  "facLatDecMs": "38.558333",
+  "facLongDecMs": "-121.575833",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2016-07-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of West Sacramento Fire Dept.",
+    "agencyPhoneNm": "9166174600",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035459"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Nitrogenous Fertilizer Manufacturing ",
+          "naicsCd": "325311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035459"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035459"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035459"
+    }
+  }
+}

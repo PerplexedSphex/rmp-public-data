@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001087,
+  "epaFacId": "100000055003",
+  "facNm": "Unilever",
+  "parntCo1Nm": "Unilever Manufacturing (US), Inc.  ",
+  "facDunsNu": 806190393,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5400 118th Avenue North",
+  "facStreet2Tx": null,
+  "facCityNm": "Clearwater",
+  "facStateCd": "FL",
+  "countyNm": "PINELLAS",
+  "facZipCd": "33760",
+  "facZip4Cd": "4315",
+  "receiptDa": "2009-05-07T00:00:00.000",
+  "facLatDecMs": "27.878333",
+  "facLongDecMs": "-082.707222",
+  "lepcNm": "District 8 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-12-10T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pinnellas Park Fire Department",
+    "agencyPhoneNm": "7275410712",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001087"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001087"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001087"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001087"
+    }
+  }
+}

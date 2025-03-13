@@ -1,0 +1,79 @@
+{
+  "facilityId": 37932,
+  "epaFacId": "100000187898",
+  "facNm": "Sacramento Logistics LLC",
+  "parntCo1Nm": "CNS Wholesale",
+  "facDunsNu": 6943773,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3771 Channel Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "West Sacramento",
+  "facStateCd": "CA",
+  "countyNm": "YOLO",
+  "facZipCd": "95691",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-23T00:00:00.000",
+  "facLatDecMs": "38.561333",
+  "facLongDecMs": "-121.571333",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-09-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "West Sacramento Fire Department",
+    "agencyPhoneNm": "9163756474",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37932"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37932"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37932"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37932"
+    }
+  }
+}

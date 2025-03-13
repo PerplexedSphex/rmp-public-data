@@ -1,0 +1,90 @@
+{
+  "facilityId": 41248,
+  "epaFacId": "100000166036",
+  "facNm": "Hattiesburg Terminal",
+  "parntCo1Nm": "Dynegy Inc.",
+  "facDunsNu": 87018339,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "18 Chappel Hill Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Petal",
+  "facStateCd": "MS",
+  "countyNm": "FORREST",
+  "facZipCd": "39465",
+  "facZip4Cd": null,
+  "receiptDa": "2004-11-16T00:00:00.000",
+  "facLatDecMs": "31.364167",
+  "facLongDecMs": "-089.267778",
+  "lepcNm": "Forrest County Emergency Mgmt",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hattiesburg Fire Department",
+    "agencyPhoneNm": "6015821511",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/41248"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl mercaptan [Ethanethiol]",
+          "casNu": "75-08-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/105"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/41248"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/41248"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/41248"
+    }
+  }
+}

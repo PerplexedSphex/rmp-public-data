@@ -1,0 +1,79 @@
+{
+  "facilityId": 26359,
+  "epaFacId": "100000179594",
+  "facNm": "Riviera Power Plant",
+  "parntCo1Nm": "Florida Power & Light Company",
+  "facDunsNu": 6922371,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "200-300 Broadway",
+  "facStreet2Tx": null,
+  "facCityNm": "Riviera Beach",
+  "facStateCd": "FL",
+  "countyNm": "PALM BEACH",
+  "facZipCd": "33034",
+  "facZip4Cd": null,
+  "receiptDa": "2002-07-31T00:00:00.000",
+  "facLatDecMs": "26.765278",
+  "facLongDecMs": "-80.052778",
+  "lepcNm": "District 10 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2008-11-03T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "PALM BEACH COUNTY HAZMAT",
+    "agencyPhoneNm": "0000000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26359"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26359"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26359"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26359"
+    }
+  }
+}

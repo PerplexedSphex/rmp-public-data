@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000001026,
+  "epaFacId": "100000063708",
+  "facNm": "Dome Petroleum Corp.- Green Springs Terminal",
+  "parntCo1Nm": "Dome Petroleum Corporation",
+  "facDunsNu": 966862187,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "8500 N. Township Road 75",
+  "facStreet2Tx": null,
+  "facCityNm": "Green Springs",
+  "facStateCd": "OH",
+  "countyNm": "SENECA",
+  "facZipCd": "44836",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-15T00:00:00.000",
+  "facLatDecMs": "41.248056",
+  "facLongDecMs": "-83.112778",
+  "lepcNm": "Seneca County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Old Fort Fire Dept.",
+    "agencyPhoneNm": "4199924518",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001026"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl mercaptan [Ethanethiol]",
+          "casNu": "75-08-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/105"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001026"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001026"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001026"
+    }
+  }
+}

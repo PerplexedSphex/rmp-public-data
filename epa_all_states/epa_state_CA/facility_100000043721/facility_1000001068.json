@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001068,
+  "epaFacId": "100000043721",
+  "facNm": "Pactiv Corp - Fresno, CA",
+  "parntCo1Nm": "Pactiv Corporaton",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5370 East Home Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Fresno",
+  "facStateCd": "CA",
+  "countyNm": "FRESNO",
+  "facZipCd": "93727",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-05T00:00:00.000",
+  "facLatDecMs": "36.762009",
+  "facLongDecMs": "-119.709735",
+  "lepcNm": "Fresno County Health Dept.",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Fresno Fire Dept.",
+    "agencyPhoneNm": "5596214000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001068"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Polystyrene Foam Product Manufacturing",
+          "naicsCd": "32614",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32614"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001068"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001068"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001068"
+    }
+  }
+}

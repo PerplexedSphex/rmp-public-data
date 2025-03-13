@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000091148,
+  "epaFacId": "100000245843",
+  "facNm": "PST North Haven",
+  "parntCo1Nm": "Praxair Surface Technologies",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "441 Sackett Point Rd",
+  "facStreet2Tx": "",
+  "facCityNm": "North Haven",
+  "facStateCd": "CT",
+  "countyNm": "NEW HAVEN",
+  "facZipCd": "06473",
+  "facZip4Cd": "3105",
+  "receiptDa": "2020-12-07T00:00:00.000",
+  "facLatDecMs": "41.368017",
+  "facLongDecMs": "-72.882536",
+  "lepcNm": "North Haven LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "North Haven Fire Dept",
+    "agencyPhoneNm": "2032395321",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091148"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers ",
+          "naicsCd": "332812",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332812"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Acetylene  [Ethyne]",
+              "casNu": "74-86-2",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/96"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091148"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091148"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091148"
+    }
+  }
+}

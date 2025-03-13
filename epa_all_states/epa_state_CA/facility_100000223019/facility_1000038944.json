@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000038944,
+  "epaFacId": "100000223019",
+  "facNm": "Certis USA",
+  "parntCo1Nm": "Mitsui & CO",
+  "facDunsNu": 945349959,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "720 5th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Wasco",
+  "facStateCd": "CA",
+  "countyNm": "KERN",
+  "facZipCd": "93280",
+  "facZip4Cd": null,
+  "receiptDa": "2014-02-25T00:00:00.000",
+  "facLatDecMs": "35.597208",
+  "facLongDecMs": "-119.333298",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-02-22T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kern Co. Environmental Health",
+    "agencyPhoneNm": "6613213000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038944"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+          "naicsCd": "32532",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32532"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038944"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038944"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038944"
+    }
+  }
+}

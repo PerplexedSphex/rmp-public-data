@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000081960,
+  "epaFacId": "100000179111",
+  "facNm": "Sika Corporation Rmax Dallas",
+  "parntCo1Nm": "Sika Corporation",
+  "facDunsNu": 116968229,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "13524 Welch Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Dallas",
+  "facStateCd": "TX",
+  "countyNm": "DALLAS",
+  "facZipCd": "75244",
+  "facZip4Cd": "5227",
+  "receiptDa": "2019-10-01T15:20:46.000",
+  "facLatDecMs": "32.931345",
+  "facLongDecMs": "-096.829913",
+  "lepcNm": "Dallas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Farmers Branch Fire Dept",
+    "agencyPhoneNm": "9724843620",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081960"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+          "naicsCd": "32615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081960"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081960"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081960"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000085451,
+  "epaFacId": "100000102505",
+  "facNm": "Durez Corporation - Kenton Facility",
+  "parntCo1Nm": "Durez Corporation",
+  "facDunsNu": 21239616,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "13717 US Highway Route 68 S.",
+  "facStreet2Tx": null,
+  "facCityNm": "Kenton",
+  "facStateCd": "OH",
+  "countyNm": "HARDIN",
+  "facZipCd": "43326",
+  "facZip4Cd": null,
+  "receiptDa": "2020-02-24T08:20:28.000",
+  "facLatDecMs": "40.621111",
+  "facLongDecMs": "-083.619722",
+  "lepcNm": "Hardin County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hardin County LEPC",
+    "agencyPhoneNm": "4196742276",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085451"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085451"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085451"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085451"
+    }
+  }
+}

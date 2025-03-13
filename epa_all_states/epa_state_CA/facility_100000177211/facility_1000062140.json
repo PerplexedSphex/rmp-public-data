@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000062140,
+  "epaFacId": "100000177211",
+  "facNm": "Fremont Ice Packaging Facility",
+  "parntCo1Nm": "Arctic Glacier USA",
+  "facDunsNu": 63551873,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "43960 Fremont Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Fremont",
+  "facStateCd": "CA",
+  "countyNm": "ALAMEDA",
+  "facZipCd": "94538",
+  "facZip4Cd": null,
+  "receiptDa": "2017-02-15T00:00:00.000",
+  "facLatDecMs": "37.511503",
+  "facLongDecMs": "-121.949328",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Fremont F. D. HazMat",
+    "agencyPhoneNm": "5104944200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062140"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Manufacturing ",
+          "naicsCd": "312113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/312113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062140"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062140"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062140"
+    }
+  }
+}

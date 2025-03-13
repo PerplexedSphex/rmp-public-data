@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000083185,
+  "epaFacId": "100000005193",
+  "facNm": "Jacobson Companies dba XPO Logistics Supply Chain",
+  "parntCo1Nm": "XPO Logistics",
+  "facDunsNu": 7155745,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "41/43 Runway Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Levittown",
+  "facStateCd": "PA",
+  "countyNm": "BUCKS",
+  "facZipCd": "19057",
+  "facZip4Cd": null,
+  "receiptDa": "2019-11-13T09:31:50.000",
+  "facLatDecMs": "40.130819",
+  "facLongDecMs": "-074.845344",
+  "lepcNm": "Bucks County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Bristol Township Fire Marshal",
+    "agencyPhoneNm": "2157850500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083185"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl ether  [Ethane, 1,1'-oxybis-]",
+          "casNu": "60-29-7",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/92"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083185"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083185"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083185"
+    }
+  }
+}

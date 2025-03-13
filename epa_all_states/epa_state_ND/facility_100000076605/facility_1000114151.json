@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000114151,
+  "epaFacId": "100000076605",
+  "facNm": "American Crystal Sugar Company - Hillsboro",
+  "parntCo1Nm": "American Crystal Sugar Company",
+  "facDunsNu": 1753974,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "121 Highway 81 NE",
+  "facStreet2Tx": "",
+  "facCityNm": "Hillsboro",
+  "facStateCd": "ND",
+  "countyNm": "TRAILL",
+  "facZipCd": "58045",
+  "facZip4Cd": "",
+  "receiptDa": "2024-05-31T00:00:00.000",
+  "facLatDecMs": "47.435833",
+  "facLongDecMs": "-097.062500",
+  "lepcNm": "Traill County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hillsboro Fire Department",
+    "agencyPhoneNm": "7014365476",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114151"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sugar Manufacturing",
+          "naicsCd": "31131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114151"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114151"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114151"
+    }
+  }
+}

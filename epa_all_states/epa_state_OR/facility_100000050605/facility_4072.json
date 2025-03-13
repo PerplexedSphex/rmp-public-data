@@ -1,0 +1,79 @@
+{
+  "facilityId": 4072,
+  "epaFacId": "100000050605",
+  "facNm": "Simpson Timber Company, Oregon Overlays Division",
+  "parntCo1Nm": "Simpson Investment Company",
+  "facDunsNu": 9056045,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2301 N Columbia Blvd",
+  "facStreet2Tx": "PO Box 17307",
+  "facCityNm": "Portland",
+  "facStateCd": "OR",
+  "countyNm": "MULTNOMAH",
+  "facZipCd": "97217",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "45.587778",
+  "facLongDecMs": "-122.689444",
+  "lepcNm": "ECHO - Portland, OR",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Portland Fire Bureau",
+    "agencyPhoneNm": "5038233333",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4072"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Coated and Laminated Paper Manufacturing",
+          "naicsCd": "322222",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/322222"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4072"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4072"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4072"
+    }
+  }
+}

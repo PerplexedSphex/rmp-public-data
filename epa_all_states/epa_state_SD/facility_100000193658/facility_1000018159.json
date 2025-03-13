@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000018159,
+  "epaFacId": "100000193658",
+  "facNm": "Portionables",
+  "parntCo1Nm": "Sargento Foods, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "803 North Derby Lane",
+  "facStreet2Tx": null,
+  "facCityNm": "North Sioux City",
+  "facStateCd": "SD",
+  "countyNm": "UNION",
+  "facZipCd": "57049",
+  "facZip4Cd": "3028",
+  "receiptDa": "2010-11-17T00:00:00.000",
+  "facLatDecMs": "42.541667",
+  "facLongDecMs": "-096.498889",
+  "lepcNm": "Union County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-09-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "North Sioux City Fire Dept.",
+    "agencyPhoneNm": "6052324286",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018159"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Specialty Food Manufacturing ",
+          "naicsCd": "311412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018159"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018159"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018159"
+    }
+  }
+}

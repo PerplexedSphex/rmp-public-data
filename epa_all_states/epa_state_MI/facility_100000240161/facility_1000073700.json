@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000073700,
+  "epaFacId": "100000240161",
+  "facNm": "Wolverine Packing Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 5369343,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4225 Dequindre Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Detroit",
+  "facStateCd": "MI",
+  "countyNm": "WAYNE",
+  "facZipCd": "48207",
+  "facZip4Cd": null,
+  "receiptDa": "2018-12-06T10:30:15.000",
+  "facLatDecMs": "42.358750",
+  "facLongDecMs": "-83.045034",
+  "lepcNm": "Wayne County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wayne County LEPC",
+    "agencyPhoneNm": "7347283711",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073700"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073700"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073700"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073700"
+    }
+  }
+}

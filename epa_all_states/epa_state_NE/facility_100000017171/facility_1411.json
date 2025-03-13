@@ -1,0 +1,79 @@
+{
+  "facilityId": 1411,
+  "epaFacId": "100000017171",
+  "facNm": "Farmer's Cooperative Company, Waverly, Ne",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "10741 North 142nd Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Waverly",
+  "facStateCd": "NE",
+  "countyNm": "LANCASTER",
+  "facZipCd": "68462",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-01T00:00:00.000",
+  "facLatDecMs": "40.926",
+  "facLongDecMs": "-96.520306",
+  "lepcNm": "Lancaster County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Waverly Community Emergency Committ",
+    "agencyPhoneNm": "4027862942",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1411"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Product Warehousing and Storage",
+          "naicsCd": "49313",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49313"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1411"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1411"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1411"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000117042,
+  "epaFacId": "100000204076",
+  "facNm": "Double D Group",
+  "parntCo1Nm": "Fairmont Foods, Inc.",
+  "facDunsNu": 118909913,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "100 Double D Dr.",
+  "facStreet2Tx": "",
+  "facCityNm": "Greenville",
+  "facStateCd": "KY",
+  "countyNm": "MUHLENBERG",
+  "facZipCd": "42345",
+  "facZip4Cd": "",
+  "receiptDa": "2025-02-24T00:00:00.000",
+  "facLatDecMs": "37.218108",
+  "facLongDecMs": "-087.175711",
+  "lepcNm": "Muhlenberg LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Greenville Fire Department",
+    "agencyPhoneNm": "2703382000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000117042"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000117042"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000117042"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000117042"
+    }
+  }
+}

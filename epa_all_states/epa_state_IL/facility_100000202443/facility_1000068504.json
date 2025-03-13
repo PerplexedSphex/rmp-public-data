@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000068504,
+  "epaFacId": "100000202443",
+  "facNm": "Fontanini Foods, LLC",
+  "parntCo1Nm": "Hormel Foods Corporation",
+  "facDunsNu": 25070269,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "8751 West 50th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "McCook",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60525",
+  "facZip4Cd": null,
+  "receiptDa": "2018-05-16T10:28:30.000",
+  "facLatDecMs": "41.799299",
+  "facLongDecMs": "-087.835833",
+  "lepcNm": "Cook County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cook County (Suburban) LEPC",
+    "agencyPhoneNm": "8159559827",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068504"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068504"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068504"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068504"
+    }
+  }
+}

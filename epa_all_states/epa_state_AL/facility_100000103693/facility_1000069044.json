@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000069044,
+  "epaFacId": "100000103693",
+  "facNm": "Pilgrim's Pride - Guntersville Processing Plant",
+  "parntCo1Nm": "Pilgrim's Pride Corporation",
+  "facDunsNu": 615250651,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3500 Lake Guntersville Park Dr.",
+  "facStreet2Tx": "P.O. Box 400",
+  "facCityNm": "Guntersville",
+  "facStateCd": "AL",
+  "countyNm": "MARSHALL",
+  "facZipCd": "35976",
+  "facZip4Cd": "1965",
+  "receiptDa": "2018-04-30T10:07:54.000",
+  "facLatDecMs": "34.347025",
+  "facLongDecMs": "-086.281319",
+  "lepcNm": "Marshall County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Guntersville Fire Department",
+    "agencyPhoneNm": "2565717575",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069044"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069044"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069044"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069044"
+    }
+  }
+}

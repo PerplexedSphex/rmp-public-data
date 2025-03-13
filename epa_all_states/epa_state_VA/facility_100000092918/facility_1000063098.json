@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000063098,
+  "epaFacId": "100000092918",
+  "facNm": "International Paper",
+  "parntCo1Nm": "International Paper",
+  "facDunsNu": 3112265,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "34040 Union Camp Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Franklin",
+  "facStateCd": "VA",
+  "countyNm": "ISLE OF WIGHT",
+  "facZipCd": "23851",
+  "facZip4Cd": null,
+  "receiptDa": "2017-05-05T00:00:00.000",
+  "facLatDecMs": "36.680278",
+  "facLongDecMs": "-076.912778",
+  "lepcNm": "Isle of Wight/Franklin LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Isle of Wight/Franklin LEPC",
+    "agencyPhoneNm": "7575628581",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063098"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pulp Mills",
+          "naicsCd": "32211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine dioxide  [Chlorine oxide (ClO2)]",
+          "casNu": "10049-04-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/71"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063098"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063098"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063098"
+    }
+  }
+}

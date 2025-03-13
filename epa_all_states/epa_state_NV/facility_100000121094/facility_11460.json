@@ -1,0 +1,79 @@
+{
+  "facilityId": 11460,
+  "epaFacId": "100000121094",
+  "facNm": "Pioneer Chlor Alkali Company Inc. -  Henderson",
+  "parntCo1Nm": "Pioneer Chlor Alkali Company Inc.",
+  "facDunsNu": 62081500,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "8000 Lake Mead Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Henderson",
+  "facStateCd": "NV",
+  "countyNm": "CLARK",
+  "facZipCd": "89009",
+  "facZip4Cd": "6199",
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "36.045556",
+  "facLongDecMs": "-115.009444",
+  "lepcNm": "Clark County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clark County Office of Emergency",
+    "agencyPhoneNm": "7024555370",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11460"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Alkalies and Chlorine Manufacturing",
+          "naicsCd": "325181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11460"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11460"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11460"
+    }
+  }
+}

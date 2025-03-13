@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000046641,
+  "epaFacId": "100000132983",
+  "facNm": "Air Liquide Delaware City, DE CO2 Plant",
+  "parntCo1Nm": "Air Liquide Industrial US L.P.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4442 Wrangle Hill Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Delaware City",
+  "facStateCd": "DE",
+  "countyNm": "NEW CASTLE",
+  "facZipCd": "19706",
+  "facZip4Cd": null,
+  "receiptDa": "2014-09-16T00:00:00.000",
+  "facLatDecMs": "39.581088",
+  "facLongDecMs": "-075.638463",
+  "lepcNm": "New Castle LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2016-12-14T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "New Castle County LEPC",
+    "agencyPhoneNm": "3027921590",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046641"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046641"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046641"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046641"
+    }
+  }
+}

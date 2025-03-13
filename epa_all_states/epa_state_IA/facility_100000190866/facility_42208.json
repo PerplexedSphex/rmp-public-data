@@ -1,0 +1,79 @@
+{
+  "facilityId": 42208,
+  "epaFacId": "100000190866",
+  "facNm": "Enterprise Sanborn Terminal and Storage",
+  "parntCo1Nm": "Enterprise Terminal and Storage, L.L.C.",
+  "facDunsNu": 48210686,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3220 Silver Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Sanborn",
+  "facStateCd": "IA",
+  "countyNm": "O'BRIEN",
+  "facZipCd": "52248",
+  "facZip4Cd": null,
+  "receiptDa": "2005-02-24T00:00:00.000",
+  "facLatDecMs": "43.181035",
+  "facLongDecMs": "-095.622464",
+  "lepcNm": "O'Brien County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "O'brien County LEPC",
+    "agencyPhoneNm": "7127573415",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42208"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Pipeline Transportation",
+          "naicsCd": "48699",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48699"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42208"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42208"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42208"
+    }
+  }
+}

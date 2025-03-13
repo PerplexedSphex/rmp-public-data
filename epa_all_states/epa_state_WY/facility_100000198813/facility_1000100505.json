@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100505,
+  "epaFacId": "100000198813",
+  "facNm": "Walmart Distribution Center #7077",
+  "parntCo1Nm": "Walmart Stores Inc.",
+  "facDunsNu": 51957769,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "426 Logistics Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Cheyenne",
+  "facStateCd": "WY",
+  "countyNm": "LARAMIE",
+  "facZipCd": "82009",
+  "facZip4Cd": null,
+  "receiptDa": "2022-03-28T00:00:00.000",
+  "facLatDecMs": "41.119995",
+  "facLongDecMs": "-104.899902",
+  "lepcNm": "Laramie County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Laramie County LEPC ",
+    "agencyPhoneNm": "3076334700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100505"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100505"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100505"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100505"
+    }
+  }
+}

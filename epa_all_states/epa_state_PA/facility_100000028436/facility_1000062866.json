@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000062866,
+  "epaFacId": "100000028436",
+  "facNm": "Americold",
+  "parntCo1Nm": "Americold Logistics, LLC",
+  "facDunsNu": 252741426,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3800 Hempland Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Mountville",
+  "facStateCd": "PA",
+  "countyNm": "LANCASTER",
+  "facZipCd": "17554",
+  "facZip4Cd": "1500",
+  "receiptDa": "2017-03-31T00:00:00.000",
+  "facLatDecMs": "40.042676",
+  "facLongDecMs": "-76.418601",
+  "lepcNm": "Lancaster County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lancaster County LEPC",
+    "agencyPhoneNm": "8008085236",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062866"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062866"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062866"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062866"
+    }
+  }
+}

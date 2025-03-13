@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000035685,
+  "epaFacId": "100000011569",
+  "facNm": "Cloverleaf Cold Storage - Benson",
+  "parntCo1Nm": "Cloverleaf Cold Storage ",
+  "facDunsNu": 75479931,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "444 Gilbert Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Benson",
+  "facStateCd": "NC",
+  "countyNm": "JOHNSTON",
+  "facZipCd": "27504",
+  "facZip4Cd": null,
+  "receiptDa": "2013-08-07T00:00:00.000",
+  "facLatDecMs": "35.427800",
+  "facLongDecMs": "-078.488900",
+  "lepcNm": "Johnston County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Benson Fire Department",
+    "agencyPhoneNm": "9198948990",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035685"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035685"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035685"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035685"
+    }
+  }
+}

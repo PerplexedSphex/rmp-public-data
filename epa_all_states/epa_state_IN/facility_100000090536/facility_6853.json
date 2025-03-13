@@ -1,0 +1,79 @@
+{
+  "facilityId": 6853,
+  "epaFacId": "100000090536",
+  "facNm": "Rhodia Inc.",
+  "parntCo1Nm": "Rhodia Inc.",
+  "facDunsNu": 2959810,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2000 Michigan Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Hammond",
+  "facStateCd": "IN",
+  "countyNm": "LAKE",
+  "facZipCd": "46320",
+  "facZip4Cd": "1462",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "41.607778",
+  "facLongDecMs": "-87.477778",
+  "lepcNm": "Lake County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2003-09-22T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hammond Fire Department",
+    "agencyPhoneNm": "2198536418",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6853"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Hazardous Waste Treatment and Disposal ",
+          "naicsCd": "562211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/562211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chloroform  [Methane, trichloro-]",
+          "casNu": "67-66-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/4"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6853"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6853"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6853"
+    }
+  }
+}

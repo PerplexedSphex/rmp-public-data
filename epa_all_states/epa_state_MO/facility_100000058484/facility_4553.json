@@ -1,0 +1,79 @@
+{
+  "facilityId": 4553,
+  "epaFacId": "100000058484",
+  "facNm": "The Pillsbury Company - Hazelwood",
+  "parntCo1Nm": "Diageo Inc.",
+  "facDunsNu": 787682301,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "8840 Pershall Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Hazelwood",
+  "facStateCd": "MO",
+  "countyNm": "ST. LOUIS",
+  "facZipCd": "63042",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "38.775833",
+  "facLongDecMs": "-90.345833",
+  "lepcNm": "St. Louis County",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2004-03-09T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hazelwood Fire Department",
+    "agencyPhoneNm": "3147311100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4553"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Bread and Bakery Product Manufacturing",
+          "naicsCd": "31181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4553"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4553"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4553"
+    }
+  }
+}

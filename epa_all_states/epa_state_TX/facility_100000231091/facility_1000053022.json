@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000053022,
+  "epaFacId": "100000231091",
+  "facNm": "Maund  CGF-B",
+  "parntCo1Nm": "Springfield Pipeline LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "22 miles SW of Carrizo Springs",
+  "facStreet2Tx": null,
+  "facCityNm": "Carrizo Springs",
+  "facStateCd": "TX",
+  "countyNm": "DIMMIT",
+  "facZipCd": "78834",
+  "facZip4Cd": null,
+  "receiptDa": "2015-10-29T00:00:00.000",
+  "facLatDecMs": "28.2979",
+  "facLongDecMs": "-99.9635",
+  "lepcNm": "Dimmit County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dimmit County LEPC",
+    "agencyPhoneNm": "8308765720",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053022"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Crude Petroleum and Natural Gas Extraction",
+          "naicsCd": "211111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethane",
+          "casNu": "74-84-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/94"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053022"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053022"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053022"
+    }
+  }
+}

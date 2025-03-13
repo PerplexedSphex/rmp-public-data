@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000028062,
+  "epaFacId": "100000198957",
+  "facNm": "ALDI Inc. - Tully Facility",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "300 State Route 281",
+  "facStreet2Tx": null,
+  "facCityNm": "Tully",
+  "facStateCd": "NY",
+  "countyNm": "ONONDAGA",
+  "facZipCd": "13159",
+  "facZip4Cd": "0584",
+  "receiptDa": "2012-04-30T00:00:00.000",
+  "facLatDecMs": "42.785500",
+  "facLongDecMs": "-076.118100",
+  "lepcNm": "Onondaga County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tully Fire Department",
+    "agencyPhoneNm": "3156966414",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028062"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Supermarkets and Other Grocery Retailers (except Convenience Retailers) ",
+          "naicsCd": "44511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/44511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028062"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028062"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028062"
+    }
+  }
+}

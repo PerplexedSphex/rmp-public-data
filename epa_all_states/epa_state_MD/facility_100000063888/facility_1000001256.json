@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001256,
+  "epaFacId": "100000063888",
+  "facNm": "Ashland Inc.",
+  "parntCo1Nm": "Ashland Inc.",
+  "facDunsNu": 3067832,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "329 West Main Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Elkton",
+  "facStateCd": "MD",
+  "countyNm": "CECIL",
+  "facZipCd": "21921",
+  "facZip4Cd": "5294",
+  "receiptDa": "2009-05-12T00:00:00.000",
+  "facLatDecMs": "39.606389",
+  "facLongDecMs": "-075.842222",
+  "lepcNm": "Cecil County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-08-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cecil County LEPC",
+    "agencyPhoneNm": "4109965350",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001256"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001256"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001256"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001256"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000026942,
+  "epaFacId": "100000198243",
+  "facNm": "SuperValu Anniston Division",
+  "parntCo1Nm": "SuperValu, Inc.",
+  "facDunsNu": 6961411,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2130 Roberts Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Anniston",
+  "facStateCd": "AL",
+  "countyNm": "CALHOUN",
+  "facZipCd": "36207",
+  "facZip4Cd": null,
+  "receiptDa": "2012-02-25T00:00:00.000",
+  "facLatDecMs": "33.624444",
+  "facLongDecMs": "-085.798611",
+  "lepcNm": "Calhoun County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Calhoun County EMA",
+    "agencyPhoneNm": "2564350543",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026942"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Supermarkets and Other Grocery Retailers (except Convenience Retailers) ",
+          "naicsCd": "44511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/44511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026942"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026942"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026942"
+    }
+  }
+}

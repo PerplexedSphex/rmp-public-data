@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000093846,
+  "epaFacId": "100000177202",
+  "facNm": "Ennis Power Company, LLC",
+  "parntCo1Nm": "Vistra Corp.",
+  "facDunsNu": 185542268,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4001 West Ennis Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Ennis",
+  "facStateCd": "TX",
+  "countyNm": "ELLIS",
+  "facZipCd": "75119",
+  "facZip4Cd": "",
+  "receiptDa": "2021-05-19T00:00:00.000",
+  "facLatDecMs": "32.320700",
+  "facLongDecMs": "-096.678500",
+  "lepcNm": "Ellis LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ennis LEPC",
+    "agencyPhoneNm": "9728255199",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093846"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093846"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093846"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093846"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 52090,
+  "epaFacId": "100000129997",
+  "facNm": "Cargill, Inc.",
+  "parntCo1Nm": "Cargill, Inc.",
+  "facDunsNu": 6249189,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "515 West North Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Fresno",
+  "facStateCd": "CA",
+  "countyNm": "FRESNO",
+  "facZipCd": "93706",
+  "facZip4Cd": null,
+  "receiptDa": "2008-07-10T00:00:00.000",
+  "facLatDecMs": "36.690556",
+  "facLongDecMs": "-119.800278",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fresno Fire Department",
+    "agencyPhoneNm": "5594852800",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52090"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52090"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52090"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52090"
+    }
+  }
+}

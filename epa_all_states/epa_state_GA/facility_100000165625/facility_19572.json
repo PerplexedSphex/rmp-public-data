@@ -1,0 +1,79 @@
+{
+  "facilityId": 19572,
+  "epaFacId": "100000165625",
+  "facNm": "Milner Terminal",
+  "parntCo1Nm": "Dixie Pipeline Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1345 Old 41 Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "Milner",
+  "facStateCd": "GA",
+  "countyNm": "LAMAR",
+  "facZipCd": "30257",
+  "facZip4Cd": null,
+  "receiptDa": "2000-01-14T00:00:00.000",
+  "facLatDecMs": "33.151306",
+  "facLongDecMs": "-84.2085",
+  "lepcNm": "Lamar County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lamar County Fire Department",
+    "agencyPhoneNm": "7703585159",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19572"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Pipeline Transportation",
+          "naicsCd": "48699",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48699"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19572"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19572"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19572"
+    }
+  }
+}

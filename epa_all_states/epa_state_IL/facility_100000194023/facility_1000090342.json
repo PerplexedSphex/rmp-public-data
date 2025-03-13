@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000090342,
+  "epaFacId": "100000194023",
+  "facNm": "Walmart Distribution Center #7024",
+  "parntCo1Nm": "Walmart Stores, Inc.",
+  "facDunsNu": 51957769,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "23769 Matthew Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Sterling",
+  "facStateCd": "IL",
+  "countyNm": "WHITESIDE",
+  "facZipCd": "61081",
+  "facZip4Cd": "",
+  "receiptDa": "2020-10-27T00:00:00.000",
+  "facLatDecMs": "41.776647",
+  "facLongDecMs": "-089.790339",
+  "lepcNm": "Whiteside County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Whiteside County LEPC",
+    "agencyPhoneNm": "8157725215",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090342"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090342"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090342"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090342"
+    }
+  }
+}

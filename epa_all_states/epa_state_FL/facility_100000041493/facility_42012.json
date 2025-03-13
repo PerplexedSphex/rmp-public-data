@@ -1,0 +1,79 @@
+{
+  "facilityId": 42012,
+  "epaFacId": "100000041493",
+  "facNm": "City of Punta Gorda Water Treatment Plant",
+  "parntCo1Nm": "City of Punt Gorda",
+  "facDunsNu": 40215121,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "38100 Washington Loop Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Punta Gorda",
+  "facStateCd": "FL",
+  "countyNm": "CHARLOTTE",
+  "facZipCd": "33982",
+  "facZip4Cd": null,
+  "receiptDa": "2005-02-08T00:00:00.000",
+  "facLatDecMs": "26.975803",
+  "facLongDecMs": "-081.935238",
+  "lepcNm": "District 9 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-09-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Charlotte County EOC",
+    "agencyPhoneNm": "9417431270",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42012"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42012"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42012"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42012"
+    }
+  }
+}

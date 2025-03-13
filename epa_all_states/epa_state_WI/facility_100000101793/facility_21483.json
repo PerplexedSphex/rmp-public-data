@@ -1,0 +1,79 @@
+{
+  "facilityId": 21483,
+  "epaFacId": "100000101793",
+  "facNm": "Madison-Kipp Corporation",
+  "parntCo1Nm": "None",
+  "facDunsNu": 6071716,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "201 Waubesa Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Madison",
+  "facStateCd": "WI",
+  "countyNm": "DANE",
+  "facZipCd": "53704",
+  "facZip4Cd": "3037",
+  "receiptDa": "2000-06-13T00:00:00.000",
+  "facLatDecMs": "43.09475",
+  "facLongDecMs": "-89.343028",
+  "lepcNm": "Dane County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2009-04-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dane Co. LEPC",
+    "agencyPhoneNm": "6082664330",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21483"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Aluminum Die-Casting Foundries",
+          "naicsCd": "331521",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331521"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21483"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21483"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21483"
+    }
+  }
+}

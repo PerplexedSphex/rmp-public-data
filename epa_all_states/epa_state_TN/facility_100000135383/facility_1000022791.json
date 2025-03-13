@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000022791,
+  "epaFacId": "100000135383",
+  "facNm": "Blues City Brewery",
+  "parntCo1Nm": "City Brewing Company",
+  "facDunsNu": 785986287,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5151 E Raines Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Memphis",
+  "facStateCd": "TN",
+  "countyNm": "SHELBY",
+  "facZipCd": "38118",
+  "facZip4Cd": null,
+  "receiptDa": "2011-06-21T00:00:00.000",
+  "facLatDecMs": "35.032778",
+  "facLongDecMs": "-089.892500",
+  "lepcNm": "Shelby County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Memphis Fire Department",
+    "agencyPhoneNm": "9010000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022791"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Soft Drink Manufacturing ",
+          "naicsCd": "312111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/312111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022791"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022791"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022791"
+    }
+  }
+}

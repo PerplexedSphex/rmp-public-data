@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000040417,
+  "epaFacId": "100000224937",
+  "facNm": "Grande Brownsville",
+  "parntCo1Nm": null,
+  "facDunsNu": 6110274,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Dairy Road",
+  "facStreet2Tx": "PO Box 67",
+  "facCityNm": "Brownsville",
+  "facStateCd": "WI",
+  "countyNm": "DODGE",
+  "facZipCd": "53006",
+  "facZip4Cd": null,
+  "receiptDa": "2014-04-28T00:00:00.000",
+  "facLatDecMs": "43.616165",
+  "facLongDecMs": "-88.541654",
+  "lepcNm": "Dodge County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dodge County LEPC",
+    "agencyPhoneNm": "9203863993",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040417"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040417"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040417"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040417"
+    }
+  }
+}

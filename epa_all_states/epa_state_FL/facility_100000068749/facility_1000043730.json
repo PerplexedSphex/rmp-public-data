@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043730,
+  "epaFacId": "100000068749",
+  "facNm": "Lee County Solid Waste Resource Recovery Facility",
+  "parntCo1Nm": "Covanta Lee, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10500 Buckingham Road",
+  "facStreet2Tx": "Suite 400",
+  "facCityNm": "Fort Myers",
+  "facStateCd": "FL",
+  "countyNm": "LEE",
+  "facZipCd": "33905",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-05T00:00:00.000",
+  "facLatDecMs": "26.631667",
+  "facLongDecMs": "-081.755833",
+  "lepcNm": "District 9 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fort Myers Fire Dept HAZMAT Team ",
+    "agencyPhoneNm": "2393217350",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043730"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Solid Waste Combustors and Incinerators ",
+          "naicsCd": "562213",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/562213"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043730"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043730"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043730"
+    }
+  }
+}

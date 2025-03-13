@@ -1,0 +1,79 @@
+{
+  "facilityId": 22436,
+  "epaFacId": "100000045373",
+  "facNm": "Columbus Pulp & Paper Complex",
+  "parntCo1Nm": "Weyerhaeuser Company",
+  "facDunsNu": 103801437,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Carson Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Columbus",
+  "facStateCd": "MS",
+  "countyNm": "LOWNDES",
+  "facZipCd": "39703",
+  "facZip4Cd": "1830",
+  "receiptDa": "2001-01-10T00:00:00.000",
+  "facLatDecMs": "33.341667",
+  "facLongDecMs": "-88.45",
+  "lepcNm": "Lowndes County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lowndes Office of Emergency Managem",
+    "agencyPhoneNm": "6623295110",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22436"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pulp Mills",
+          "naicsCd": "32211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine dioxide  [Chlorine oxide (ClO2)]",
+          "casNu": "10049-04-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/71"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22436"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22436"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22436"
+    }
+  }
+}

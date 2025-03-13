@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000028542,
+  "epaFacId": "100000207457",
+  "facNm": "BHJ USA Inc.",
+  "parntCo1Nm": "BHJ A/S",
+  "facDunsNu": 88385190,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2516 Edward Babe Gomez Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Omaha",
+  "facStateCd": "NE",
+  "countyNm": "DOUGLAS",
+  "facZipCd": "68107",
+  "facZip4Cd": null,
+  "receiptDa": "2012-05-22T00:00:00.000",
+  "facLatDecMs": "41.199698",
+  "facLongDecMs": "-095.949195",
+  "lepcNm": "Douglas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Douglas County LEPC",
+    "agencyPhoneNm": "4024445040",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028542"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Rendering and Meat Byproduct Processing ",
+          "naicsCd": "311613",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311613"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028542"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028542"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028542"
+    }
+  }
+}

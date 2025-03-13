@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000103840,
+  "epaFacId": "100000109722",
+  "facNm": "Sanderson Farms, LLC",
+  "parntCo1Nm": "SANDERSON FARMS, LLC",
+  "facDunsNu": 8172512,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4039 River Ridge Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Summit",
+  "facStateCd": "MS",
+  "countyNm": "PIKE",
+  "facZipCd": "39648",
+  "facZip4Cd": "",
+  "receiptDa": "2023-02-15T00:00:00.000",
+  "facLatDecMs": "31.275000",
+  "facLongDecMs": "-090.374722",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Civil Defense Council",
+    "agencyPhoneNm": "6016843564",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103840"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103840"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103840"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103840"
+    }
+  }
+}

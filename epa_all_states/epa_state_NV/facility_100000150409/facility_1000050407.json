@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000050407,
+  "epaFacId": "100000150409",
+  "facNm": "Thatcher Company of Nevada, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 614838845,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "90 Business Center Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Henderson",
+  "facStateCd": "NV",
+  "countyNm": "CLARK",
+  "facZipCd": "89015",
+  "facZip4Cd": null,
+  "receiptDa": "2015-06-17T00:00:00.000",
+  "facLatDecMs": "36.032778",
+  "facLongDecMs": "-115.020833",
+  "lepcNm": "Clark County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Henderson Fire",
+    "agencyPhoneNm": "7022672222",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050407"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050407"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050407"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050407"
+    }
+  }
+}

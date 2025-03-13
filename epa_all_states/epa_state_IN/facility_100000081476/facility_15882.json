@@ -1,0 +1,79 @@
+{
+  "facilityId": 15882,
+  "epaFacId": "100000081476",
+  "facNm": "Harlan Bakeries, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 147075170,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "7597 East U.S. Highway 36",
+  "facStreet2Tx": null,
+  "facCityNm": "Avon",
+  "facStateCd": "IN",
+  "countyNm": "HENDRICKS",
+  "facZipCd": "46123",
+  "facZip4Cd": "7171",
+  "receiptDa": "1999-08-09T00:00:00.000",
+  "facLatDecMs": "39.759722",
+  "facLongDecMs": "-86.387778",
+  "lepcNm": "Hendricks County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Avon Fire Department",
+    "agencyPhoneNm": "3172722155",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15882"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Commercial Bakeries ",
+          "naicsCd": "311812",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311812"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15882"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15882"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15882"
+    }
+  }
+}

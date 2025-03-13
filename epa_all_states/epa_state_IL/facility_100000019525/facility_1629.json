@@ -1,0 +1,79 @@
+{
+  "facilityId": 1629,
+  "epaFacId": "100000019525",
+  "facNm": "Illini FS, Inc. - Martinsville NH3",
+  "parntCo1Nm": null,
+  "facDunsNu": 52664869,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "13791 N Cline Orchard Rd",
+  "facStreet2Tx": null,
+  "facCityNm": "Martinsville",
+  "facStateCd": "IL",
+  "countyNm": "CLARK",
+  "facZipCd": "62442",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-04T00:00:00.000",
+  "facLatDecMs": "39.349167",
+  "facLongDecMs": "-87.835833",
+  "lepcNm": "Clark County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Martinsville Fire Department",
+    "agencyPhoneNm": "2173824223",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1629"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1629"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1629"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1629"
+    }
+  }
+}

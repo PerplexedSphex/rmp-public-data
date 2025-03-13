@@ -1,0 +1,79 @@
+{
+  "facilityId": 54567,
+  "epaFacId": "100000012684",
+  "facNm": "JBS - Grand Island Beef Processing Facility",
+  "parntCo1Nm": "JBS USA LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "555 South Stuhr Rd",
+  "facStreet2Tx": null,
+  "facCityNm": "Grand Island",
+  "facStateCd": "NE",
+  "countyNm": "HALL",
+  "facZipCd": "68801",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-11T00:00:00.000",
+  "facLatDecMs": "40.922583",
+  "facLongDecMs": "-098.318861",
+  "lepcNm": "Hall County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Grand Island Hill County Fire Dept.",
+    "agencyPhoneNm": "3083855370",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54567"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54567"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54567"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54567"
+    }
+  }
+}

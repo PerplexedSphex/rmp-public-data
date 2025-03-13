@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000076300,
+  "epaFacId": "100000225188",
+  "facNm": "Abbyland Food Distribution Center",
+  "parntCo1Nm": "Abbyland Foods, Inc.",
+  "facDunsNu": 42009316,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "323 Plaza Dr.",
+  "facStreet2Tx": null,
+  "facCityNm": "Curtiss",
+  "facStateCd": "WI",
+  "countyNm": "CLARK",
+  "facZipCd": "54422",
+  "facZip4Cd": null,
+  "receiptDa": "2019-03-28T14:32:25.000",
+  "facLatDecMs": "44.945566",
+  "facLongDecMs": "-90.427689",
+  "lepcNm": "Clark LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Owen-Withee-Curtiss Fire Department",
+    "agencyPhoneNm": "7152292652",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076300"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076300"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076300"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076300"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 24478,
+  "epaFacId": "100000177033",
+  "facNm": "DBA-Tolleson Dairy",
+  "parntCo1Nm": "Kroger Company",
+  "facDunsNu": 43700194,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "500 South 99th Ave. Building #3",
+  "facStreet2Tx": null,
+  "facCityNm": "Tolleson",
+  "facStateCd": "AZ",
+  "countyNm": "MARICOPA",
+  "facZipCd": "85353",
+  "facZip4Cd": null,
+  "receiptDa": "2001-11-08T00:00:00.000",
+  "facLatDecMs": "33.448056",
+  "facLongDecMs": "-112.190833",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tolleson Fire Department",
+    "agencyPhoneNm": "6239368500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24478"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dry, Condensed, and Evaporated Dairy Product Manufacturing ",
+          "naicsCd": "311514",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311514"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24478"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24478"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24478"
+    }
+  }
+}

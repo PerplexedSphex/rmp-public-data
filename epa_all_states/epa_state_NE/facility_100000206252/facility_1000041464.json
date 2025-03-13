@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000041464,
+  "epaFacId": "100000206252",
+  "facNm": "Abengoa Bioenergy of Nebraska",
+  "parntCo1Nm": "Abengoa Bioenergy Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "35955 Navaho Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Ravenna",
+  "facStateCd": "NE",
+  "countyNm": "BUFFALO",
+  "facZipCd": "68869",
+  "facZip4Cd": null,
+  "receiptDa": "2014-05-15T00:00:00.000",
+  "facLatDecMs": "41.023749",
+  "facLongDecMs": "-98.875110",
+  "lepcNm": "Buffalo County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2014-11-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ravenna Fire Department",
+    "agencyPhoneNm": "3084523237",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041464"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ethyl Alcohol Manufacturing ",
+          "naicsCd": "325193",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325193"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041464"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041464"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041464"
+    }
+  }
+}

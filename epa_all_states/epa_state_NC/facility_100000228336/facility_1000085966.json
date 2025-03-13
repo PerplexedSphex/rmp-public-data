@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000085966,
+  "epaFacId": "100000228336",
+  "facNm": "Acme Smoked Fish of NC",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "360 Acme Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Wilmington",
+  "facStateCd": "NC",
+  "countyNm": "PENDER",
+  "facZipCd": "28401",
+  "facZip4Cd": null,
+  "receiptDa": "2020-03-20T08:07:45.000",
+  "facLatDecMs": "34.344848",
+  "facLongDecMs": "-78.018163",
+  "lepcNm": "New Hanover County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Pender County Emergency Management",
+    "agencyPhoneNm": "9102591210",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085966"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Seafood Product Preparation and Packaging",
+          "naicsCd": "31171",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31171"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085966"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085966"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085966"
+    }
+  }
+}

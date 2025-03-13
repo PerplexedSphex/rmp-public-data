@@ -1,0 +1,79 @@
+{
+  "facilityId": 3235,
+  "epaFacId": "100000040225",
+  "facNm": "MG Industries - Muscatine",
+  "parntCo1Nm": "MG Industries",
+  "facDunsNu": 2233088,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2200 Stewart Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Muscatine",
+  "facStateCd": "IA",
+  "countyNm": "MUSCATINE",
+  "facZipCd": "52761",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-16T00:00:00.000",
+  "facLatDecMs": "41.390833",
+  "facLongDecMs": "-91.070833",
+  "lepcNm": "Muscatine County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Muscatine Fire Department",
+    "agencyPhoneNm": "3192639233",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3235"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3235"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3235"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3235"
+    }
+  }
+}

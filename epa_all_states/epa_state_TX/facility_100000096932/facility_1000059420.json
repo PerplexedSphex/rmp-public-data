@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000059420,
+  "epaFacId": "100000096932",
+  "facNm": "Celanese - Bay City Plant",
+  "parntCo1Nm": "Celanese Ltd.",
+  "facDunsNu": 26040709,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2001 FM 3057",
+  "facStreet2Tx": null,
+  "facCityNm": "Bay City",
+  "facStateCd": "TX",
+  "countyNm": "MATAGORDA",
+  "facZipCd": "77414",
+  "facZip4Cd": "2968",
+  "receiptDa": "2017-02-24T00:00:00.000",
+  "facLatDecMs": "28.861667",
+  "facLongDecMs": "-096.020833",
+  "lepcNm": "Matagorda County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Matagorda County LEPC Office",
+    "agencyPhoneNm": "9793230707",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000059420"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Acetaldehyde",
+          "casNu": "75-07-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/104"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000059420"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000059420"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000059420"
+    }
+  }
+}

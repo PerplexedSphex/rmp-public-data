@@ -1,0 +1,90 @@
+{
+  "facilityId": 18462,
+  "epaFacId": "100000163235",
+  "facNm": "Bondo/Mar-Hyde Corporation",
+  "parntCo1Nm": "RPM, Inc.",
+  "facDunsNu": 4240123,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4677 Devitt Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Cincinnati",
+  "facStateCd": "OH",
+  "countyNm": "BUTLER",
+  "facZipCd": "45246",
+  "facZip4Cd": null,
+  "receiptDa": "1999-11-03T00:00:00.000",
+  "facLatDecMs": "39.308667",
+  "facLongDecMs": "-84.466889",
+  "lepcNm": "Butler County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2002-11-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Union Township Fire Department",
+    "agencyPhoneNm": "5138742443",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18462"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Paint and Coating Manufacturing",
+          "naicsCd": "32551",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32551"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isobutane  [Propane, 2-methyl]",
+          "casNu": "75-28-5",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/107"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18462"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18462"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18462"
+    }
+  }
+}

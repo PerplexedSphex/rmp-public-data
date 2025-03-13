@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000063133,
+  "epaFacId": "100000198733",
+  "facNm": " Waverly Plant",
+  "parntCo1Nm": "Tecumseh Poultry, LLC",
+  "facDunsNu": 806233354,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "13151 Dovers Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Waverly",
+  "facStateCd": "NE",
+  "countyNm": "LANCASTER",
+  "facZipCd": "68462",
+  "facZip4Cd": null,
+  "receiptDa": "2017-05-04T00:00:00.000",
+  "facLatDecMs": "40.901207",
+  "facLongDecMs": "-96.544486",
+  "lepcNm": "Lancaster County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lancaster County LEPC",
+    "agencyPhoneNm": "4024417441",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063133"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063133"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063133"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063133"
+    }
+  }
+}

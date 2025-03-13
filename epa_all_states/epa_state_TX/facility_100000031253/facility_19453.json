@@ -1,0 +1,90 @@
+{
+  "facilityId": 19453,
+  "epaFacId": "100000031253",
+  "facNm": "Ameripol Synpol Corporation-Odessa Plant",
+  "parntCo1Nm": "Ameripol Synpol Corporation",
+  "facDunsNu": 797205515,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2000 East Pool",
+  "facStreet2Tx": null,
+  "facCityNm": "Odessa",
+  "facStateCd": "TX",
+  "countyNm": "ECTOR",
+  "facZipCd": "70766",
+  "facZip4Cd": "2032",
+  "receiptDa": "1999-06-14T00:00:00.000",
+  "facLatDecMs": "31.831944",
+  "facLongDecMs": "-102.336389",
+  "lepcNm": "Ector County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2002-05-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Local Emergency Planning Commission",
+    "agencyPhoneNm": "9153354230",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19453"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Rubber Product Manufacturing",
+          "naicsCd": "32629",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32629"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "1,3-Butadiene",
+          "casNu": "106-99-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/120"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19453"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19453"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19453"
+    }
+  }
+}

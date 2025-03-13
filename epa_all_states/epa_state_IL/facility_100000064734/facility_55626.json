@@ -1,0 +1,97 @@
+{
+  "facilityId": 55626,
+  "epaFacId": "100000064734",
+  "facNm": "Kraft Foods Group, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 39010590,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1701 West Bradley Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Champaign",
+  "facStateCd": "IL",
+  "countyNm": "CHAMPAIGN",
+  "facZipCd": "61821",
+  "facZip4Cd": "2200",
+  "receiptDa": "2009-06-30T00:00:00.000",
+  "facLatDecMs": "40.125833",
+  "facLongDecMs": "-088.271667",
+  "lepcNm": "Champaign County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Champaign Fire Department",
+    "agencyPhoneNm": "2173514522",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55626"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        },
+        {
+          "description": "Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing ",
+          "naicsCd": "311941",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311941"
+            }
+          }
+        },
+        {
+          "description": "Dry Pasta Manufacturing",
+          "naicsCd": "311823",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311823"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55626"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55626"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55626"
+    }
+  }
+}

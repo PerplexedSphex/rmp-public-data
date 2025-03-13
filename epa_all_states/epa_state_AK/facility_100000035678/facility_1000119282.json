@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000119282,
+  "epaFacId": "100000035678",
+  "facNm": "EC Phillips and Son Inc., Ketchikan",
+  "parntCo1Nm": "EC Phillips and Son Inc., Ketchikan",
+  "facDunsNu": 35421130,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1775 Tongass Ave",
+  "facStreet2Tx": "",
+  "facCityNm": "Ketchikan",
+  "facStateCd": "AK",
+  "countyNm": "KETCHIKAN GATEWAY (B)",
+  "facZipCd": "99901",
+  "facZip4Cd": "",
+  "receiptDa": "2025-01-10T00:00:00.000",
+  "facLatDecMs": "55.350000",
+  "facLongDecMs": "-131.666667",
+  "lepcNm": "Greater Ketchikan Area LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ketchikan Fire Department",
+    "agencyPhoneNm": "9072259616",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119282"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Seafood Product Preparation and Packaging",
+          "naicsCd": "31171",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31171"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119282"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119282"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119282"
+    }
+  }
+}

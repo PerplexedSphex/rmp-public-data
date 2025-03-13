@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000102121,
+  "epaFacId": "100000236096",
+  "facNm": "Roto-Die Company, Inc. dba Micrometrics Systems",
+  "parntCo1Nm": "RTMS Holding Company",
+  "facDunsNu": 42667303,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "225 Jeb Stuart Highway",
+  "facStreet2Tx": "",
+  "facCityNm": "Meadows of Dan",
+  "facStateCd": "VA",
+  "countyNm": "PATRICK",
+  "facZipCd": "24120",
+  "facZip4Cd": "",
+  "receiptDa": "2022-08-24T00:00:00.000",
+  "facLatDecMs": "36.735833",
+  "facLongDecMs": "-80.45055",
+  "lepcNm": " Patrick County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Laurel Fork Fire Dept.",
+    "agencyPhoneNm": "2762368101",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102121"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Machine Shops",
+          "naicsCd": "33271",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33271"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102121"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102121"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102121"
+    }
+  }
+}

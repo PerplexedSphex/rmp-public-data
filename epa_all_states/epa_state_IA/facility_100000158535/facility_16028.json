@@ -1,0 +1,88 @@
+{
+  "facilityId": 16028,
+  "epaFacId": "100000158535",
+  "facNm": "Nutra-Flo Floyd Facility",
+  "parntCo1Nm": "Nutra-Flo Company, Inc",
+  "facDunsNu": 107609422,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "514 S. Floyd Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Sioux City",
+  "facStateCd": "IA",
+  "countyNm": "WOODBURY",
+  "facZipCd": "51101",
+  "facZip4Cd": null,
+  "receiptDa": "1999-08-13T00:00:00.000",
+  "facLatDecMs": "42.485556",
+  "facLongDecMs": "-96.390278",
+  "lepcNm": "Woodbury Disaster & Emergency",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sioux City Emergency Services",
+    "agencyPhoneNm": "7122796314",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16028"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Phosphatic Fertilizer Manufacturing ",
+          "naicsCd": "325312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325312"
+            }
+          }
+        },
+        {
+          "description": "Nitrogenous Fertilizer Manufacturing ",
+          "naicsCd": "325311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16028"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16028"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16028"
+    }
+  }
+}

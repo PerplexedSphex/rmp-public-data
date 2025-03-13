@@ -1,0 +1,79 @@
+{
+  "facilityId": 40500,
+  "epaFacId": "100000189299",
+  "facNm": "Washington Terminal",
+  "parntCo1Nm": "Texon, L.P.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "228 Dixie Wood Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Washington",
+  "facStateCd": "GA",
+  "countyNm": "WILKES",
+  "facZipCd": "30673",
+  "facZip4Cd": null,
+  "receiptDa": "2004-09-20T00:00:00.000",
+  "facLatDecMs": "33.705200",
+  "facLongDecMs": "-082.753500",
+  "lepcNm": "Wilkes County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2023-05-12T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Washington Fire Department",
+    "agencyPhoneNm": "7066787113",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40500"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pipeline Transportation of Natural Gas",
+          "naicsCd": "48621",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48621"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40500"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40500"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40500"
+    }
+  }
+}

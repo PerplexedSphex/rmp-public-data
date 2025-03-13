@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000095423,
+  "epaFacId": "100000247342",
+  "facNm": "PAW Exeter WWTP",
+  "parntCo1Nm": "Pennsylvania American Water Company",
+  "facDunsNu": 7916380,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "400 Hanover Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Birdsboro",
+  "facStateCd": "PA",
+  "countyNm": "BERKS",
+  "facZipCd": "19508",
+  "facZip4Cd": null,
+  "receiptDa": "2021-08-18T00:00:00.000",
+  "facLatDecMs": "40.1644",
+  "facLongDecMs": "-75.52964",
+  "lepcNm": "Berks County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-05-26T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Berks County Emergency Management",
+    "agencyPhoneNm": "6106218198",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000095423"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000095423"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000095423"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000095423"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000105843,
+  "epaFacId": "100000174045",
+  "facNm": "Bimbo Bakehouse",
+  "parntCo1Nm": "Grupo Bimbo",
+  "facDunsNu": 89828644,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1955 Blue Hills Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Roanoke",
+  "facStateCd": "VA",
+  "countyNm": "ROANOKE (CITY)",
+  "facZipCd": "24012",
+  "facZip4Cd": "",
+  "receiptDa": "2023-07-06T00:00:00.000",
+  "facLatDecMs": "37.307728",
+  "facLongDecMs": "-79.906757",
+  "lepcNm": "Roanoke Joint LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Roanoke City Fire and Rescue",
+    "agencyPhoneNm": "5408532411",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105843"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Commercial Bakeries ",
+          "naicsCd": "311812",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311812"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105843"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105843"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105843"
+    }
+  }
+}

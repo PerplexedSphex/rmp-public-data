@@ -1,0 +1,79 @@
+{
+  "facilityId": 20563,
+  "epaFacId": "100000139977",
+  "facNm": "Precision Ag Services, Ellsworth Plant",
+  "parntCo1Nm": "Equity Cooperative of Amery",
+  "facDunsNu": 7784692,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "W6311 Highway 63",
+  "facStreet2Tx": null,
+  "facCityNm": "Ellsworth",
+  "facStateCd": "WI",
+  "countyNm": "PIERCE",
+  "facZipCd": "54012",
+  "facZip4Cd": null,
+  "receiptDa": "2000-02-16T00:00:00.000",
+  "facLatDecMs": "44.730722",
+  "facLongDecMs": "-92.447361",
+  "lepcNm": "Pierce County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2017-09-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pierce County LEPC",
+    "agencyPhoneNm": "7152736751",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20563"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20563"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20563"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20563"
+    }
+  }
+}

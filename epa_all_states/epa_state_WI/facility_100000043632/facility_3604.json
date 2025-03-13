@@ -1,0 +1,79 @@
+{
+  "facilityId": 3604,
+  "epaFacId": "100000043632",
+  "facNm": "Wisconsin Public Service Corp, Pulliam Power Plant",
+  "parntCo1Nm": "Wisconsin Public Service Corporation",
+  "facDunsNu": 877719260,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1530 North Bylsby Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Green Bay",
+  "facStateCd": "WI",
+  "countyNm": "BROWN",
+  "facZipCd": "54303",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-17T00:00:00.000",
+  "facLatDecMs": "44.54",
+  "facLongDecMs": "-88.008333",
+  "lepcNm": "Brown County Emergency Office",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2001-07-10T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Brown County Emergency Office",
+    "agencyPhoneNm": "9204484700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3604"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3604"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3604"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3604"
+    }
+  }
+}

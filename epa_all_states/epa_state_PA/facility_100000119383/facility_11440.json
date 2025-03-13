@@ -1,0 +1,79 @@
+{
+  "facilityId": 11440,
+  "epaFacId": "100000119383",
+  "facNm": "Willamette Industries Inc.- Johnsonburg mill",
+  "parntCo1Nm": null,
+  "facDunsNu": 41265026,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "100 Center Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Johnsonburg",
+  "facStateCd": "PA",
+  "countyNm": "ELK",
+  "facZipCd": "15845",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "41.491944",
+  "facLongDecMs": "78.693333",
+  "lepcNm": "Elk County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Elk County LEPC",
+    "agencyPhoneNm": "8147720006",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11440"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pulp Mills",
+          "naicsCd": "32211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine dioxide  [Chlorine oxide (ClO2)]",
+          "casNu": "10049-04-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/71"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11440"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11440"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11440"
+    }
+  }
+}

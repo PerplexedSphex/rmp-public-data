@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000022817,
+  "epaFacId": "100000214537",
+  "facNm": "Outokumpu Stainless USA, LLC",
+  "parntCo1Nm": "Outokumpu Americas, Inc.",
+  "facDunsNu": 808410349,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1 Steel Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Calvert",
+  "facStateCd": "AL",
+  "countyNm": "MOBILE",
+  "facZipCd": "36513",
+  "facZip4Cd": null,
+  "receiptDa": "2011-10-28T00:00:00.000",
+  "facLatDecMs": "31.160065",
+  "facLongDecMs": "-87.985473",
+  "lepcNm": "Mobile County, Alabama LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mobile County, Alabama LEPC",
+    "agencyPhoneNm": "2514608000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022817"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Iron and Steel Mills and Ferroalloy Manufacturing",
+          "naicsCd": "33111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022817"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022817"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022817"
+    }
+  }
+}

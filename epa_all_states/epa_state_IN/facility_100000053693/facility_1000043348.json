@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043348,
+  "epaFacId": "100000053693",
+  "facNm": "Genpak LLC - Scottsburg",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "845 Elm Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Scottsburg",
+  "facStateCd": "IN",
+  "countyNm": "SCOTT",
+  "facZipCd": "47170",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-19T00:00:00.000",
+  "facLatDecMs": "38.673556",
+  "facLongDecMs": "-085.778599",
+  "lepcNm": "Scott County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Scottsburg Fire Department",
+    "agencyPhoneNm": "8127522121",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043348"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Polystyrene Foam Product Manufacturing",
+          "naicsCd": "32614",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32614"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isopentane  [Butane, 2-methyl-]",
+          "casNu": "78-78-4",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/115"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043348"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043348"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043348"
+    }
+  }
+}

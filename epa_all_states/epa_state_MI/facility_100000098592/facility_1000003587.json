@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000003587,
+  "epaFacId": "100000098592",
+  "facNm": "Burdick & Jackson",
+  "parntCo1Nm": "Honeywell",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1953 South Harvey Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Muskegon",
+  "facStateCd": "MI",
+  "countyNm": "MUSKEGON",
+  "facZipCd": "49442",
+  "facZip4Cd": "6184",
+  "receiptDa": "2009-06-16T00:00:00.000",
+  "facLatDecMs": "43.216667",
+  "facLongDecMs": "-086.206667",
+  "lepcNm": "Muskegon County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Muskegon Fire Department",
+    "agencyPhoneNm": "2317246792",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003587"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chloroform  [Methane, trichloro-]",
+          "casNu": "67-66-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/4"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl ether  [Ethane, 1,1'-oxybis-]",
+          "casNu": "60-29-7",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/92"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003587"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003587"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003587"
+    }
+  }
+}

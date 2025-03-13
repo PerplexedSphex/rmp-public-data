@@ -1,0 +1,79 @@
+{
+  "facilityId": 46061,
+  "epaFacId": "100000195852",
+  "facNm": "Smith Dairy Products Milk Processing",
+  "parntCo1Nm": "Smith Dairy Products",
+  "facDunsNu": 4213930,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "230 N. Vine St",
+  "facStreet2Tx": null,
+  "facCityNm": "Orrville",
+  "facStateCd": "OH",
+  "countyNm": "WAYNE",
+  "facZipCd": "44667",
+  "facZip4Cd": null,
+  "receiptDa": "2006-06-22T00:00:00.000",
+  "facLatDecMs": "40.841667",
+  "facLongDecMs": "-081.764722",
+  "lepcNm": "Wayne County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wayne County Emergency Managemnt",
+    "agencyPhoneNm": "3302629817",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/46061"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/46061"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/46061"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/46061"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 42856,
+  "epaFacId": "100000167268",
+  "facNm": "Inergy Terminal",
+  "parntCo1Nm": "Inergy Propane, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10523 East County Road 975 North",
+  "facStreet2Tx": null,
+  "facCityNm": "Seymour",
+  "facStateCd": "IN",
+  "countyNm": "JACKSON",
+  "facZipCd": "47274",
+  "facZip4Cd": null,
+  "receiptDa": "2005-05-17T00:00:00.000",
+  "facLatDecMs": "39.023056",
+  "facLongDecMs": "-085.844917",
+  "lepcNm": "Jackson County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jackson County LEPC",
+    "agencyPhoneNm": "8125238557",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42856"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Liquefied Petroleum Gas (Bottled Gas) Dealers",
+          "naicsCd": "454312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/454312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42856"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42856"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42856"
+    }
+  }
+}

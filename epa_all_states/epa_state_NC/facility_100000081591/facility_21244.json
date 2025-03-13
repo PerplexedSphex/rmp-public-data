@@ -1,0 +1,88 @@
+{
+  "facilityId": 21244,
+  "epaFacId": "100000081591",
+  "facNm": "Sara Lee Bakery - Tarboro",
+  "parntCo1Nm": "Sara Lee Corporation",
+  "facDunsNu": 97182828,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "110 Sara Lee Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Tarboro",
+  "facStateCd": "NC",
+  "countyNm": "EDGECOMBE",
+  "facZipCd": "27886",
+  "facZip4Cd": null,
+  "receiptDa": "2000-05-08T00:00:00.000",
+  "facLatDecMs": "35.873889",
+  "facLongDecMs": "-77.559167",
+  "lepcNm": "Edgecombe County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department / E.Carolina Hazmat",
+    "agencyPhoneNm": "2526414288",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21244"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Cakes, Pies, and Other Pastries Manufacturing ",
+          "naicsCd": "311813",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311813"
+            }
+          }
+        },
+        {
+          "description": "Bread and Bakery Product Manufacturing",
+          "naicsCd": "31181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21244"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21244"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21244"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000069997,
+  "epaFacId": "100000182312",
+  "facNm": "Compania Cervecera de Puerto Rico, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 41000079,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "100 Blvd. Alfonso Valdez",
+  "facStreet2Tx": null,
+  "facCityNm": "Mayaguez",
+  "facStateCd": "PR",
+  "countyNm": "MAYAGUEZ",
+  "facZipCd": "00680",
+  "facZip4Cd": null,
+  "receiptDa": "2018-05-29T09:09:03.000",
+  "facLatDecMs": "18.206944",
+  "facLongDecMs": "-067.141667",
+  "lepcNm": "LEPC Region Mayaguez",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC Mayaguez Region",
+    "agencyPhoneNm": "7878331188",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069997"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        },
+        {
+          "description": "Malt Manufacturing ",
+          "naicsCd": "311213",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311213"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069997"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069997"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069997"
+    }
+  }
+}

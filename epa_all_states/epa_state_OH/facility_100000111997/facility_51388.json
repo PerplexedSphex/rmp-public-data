@@ -1,0 +1,79 @@
+{
+  "facilityId": 51388,
+  "epaFacId": "100000111997",
+  "facNm": "Heinz Frozen Food Company, Massillon",
+  "parntCo1Nm": "H.J. Heinz, Inc.",
+  "facDunsNu": 783238710,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1301 Oberlin Road S.W.",
+  "facStreet2Tx": null,
+  "facCityNm": "Massillon",
+  "facStateCd": "OH",
+  "countyNm": "STARK",
+  "facZipCd": "44647",
+  "facZip4Cd": null,
+  "receiptDa": "2008-04-09T00:00:00.000",
+  "facLatDecMs": "40.777778",
+  "facLongDecMs": "-081.538889",
+  "lepcNm": "Stark County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Massillon Fire Department",
+    "agencyPhoneNm": "3308331051",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/51388"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/51388"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/51388"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/51388"
+    }
+  }
+}

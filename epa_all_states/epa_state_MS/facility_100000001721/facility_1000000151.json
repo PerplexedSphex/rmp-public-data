@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000000151,
+  "epaFacId": "100000001721",
+  "facNm": "Pascagoula / Moss Point WWTP",
+  "parntCo1Nm": "Jackson County Utility Authority",
+  "facDunsNu": 139233597,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3103 Frederic Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Pascagoula",
+  "facStateCd": "MS",
+  "countyNm": "JACKSON",
+  "facZipCd": "39567",
+  "facZip4Cd": null,
+  "receiptDa": "2009-04-30T00:00:00.000",
+  "facLatDecMs": "30.365833",
+  "facLongDecMs": "-88.567778",
+  "lepcNm": "Jackson County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pascagoula Fire Department",
+    "agencyPhoneNm": "2287623066",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000151"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000151"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000151"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000151"
+    }
+  }
+}

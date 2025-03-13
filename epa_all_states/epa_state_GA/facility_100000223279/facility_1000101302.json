@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101302,
+  "epaFacId": "100000223279",
+  "facNm": "Atlanta Terminal",
+  "parntCo1Nm": "Buckeye Partners L.P.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2970 Parrott Avenue NW",
+  "facStreet2Tx": "",
+  "facCityNm": "Atlanta",
+  "facStateCd": "GA",
+  "countyNm": "FULTON",
+  "facZipCd": "30318",
+  "facZip4Cd": "",
+  "receiptDa": "2022-06-28T00:00:00.000",
+  "facLatDecMs": "33.807676",
+  "facLongDecMs": "-84.483830",
+  "lepcNm": "Atlanta-Fulton Co.Emerg. Mgt.",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Atlanta-Fulton Co. Emerg Mgt Agency",
+    "agencyPhoneNm": "4047305600",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101302"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101302"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101302"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101302"
+    }
+  }
+}

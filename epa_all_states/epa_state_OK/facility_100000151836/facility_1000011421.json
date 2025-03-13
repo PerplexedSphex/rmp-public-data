@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000011421,
+  "epaFacId": "100000151836",
+  "facNm": "North Canadian Wastewater Plant",
+  "parntCo1Nm": "City of Oklahoma City",
+  "facDunsNu": 172413759,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "12800 N. Anderson Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Jones",
+  "facStateCd": "OK",
+  "countyNm": "OKLAHOMA",
+  "facZipCd": "73049",
+  "facZip4Cd": null,
+  "receiptDa": "2009-10-20T00:00:00.000",
+  "facLatDecMs": "35.598567",
+  "facLongDecMs": "-097.312050",
+  "lepcNm": "Oklahoma County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Oklahoma City Fire Dept.",
+    "agencyPhoneNm": "4052973439",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011421"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011421"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011421"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011421"
+    }
+  }
+}

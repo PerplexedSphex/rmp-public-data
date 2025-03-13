@@ -1,0 +1,79 @@
+{
+  "facilityId": 13542,
+  "epaFacId": "100000141278",
+  "facNm": "The Mennel Milling Company of Virginia",
+  "parntCo1Nm": "The Mennel Milling Company",
+  "facDunsNu": 64701212,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1702 S. Jefferson",
+  "facStreet2Tx": null,
+  "facCityNm": "Roanoke",
+  "facStateCd": "VA",
+  "countyNm": "ROANOKE",
+  "facZipCd": "24016",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "37.256917",
+  "facLongDecMs": "-79.942222",
+  "lepcNm": "Roanoke Joint LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-01-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Roanoke Fire Department",
+    "agencyPhoneNm": "5408532327",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13542"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13542"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13542"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13542"
+    }
+  }
+}

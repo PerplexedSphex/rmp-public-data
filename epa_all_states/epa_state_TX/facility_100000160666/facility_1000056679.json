@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000056679,
+  "epaFacId": "100000160666",
+  "facNm": "Slaughter Gasoline Plant",
+  "parntCo1Nm": "Occidental Permian Ltd.",
+  "facDunsNu": 160164927,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3751 Wildcat Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Sundown",
+  "facStateCd": "TX",
+  "countyNm": "HOCKLEY",
+  "facZipCd": "79372",
+  "facZip4Cd": null,
+  "receiptDa": "2016-04-21T00:00:00.000",
+  "facLatDecMs": "33.46837",
+  "facLongDecMs": "-102.56036",
+  "lepcNm": "Hockley County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hockley County Sheriff's Dept.",
+    "agencyPhoneNm": "8068943126",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056679"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056679"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056679"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056679"
+    }
+  }
+}

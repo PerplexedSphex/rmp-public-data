@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000013001,
+  "epaFacId": "100000195479",
+  "facNm": "Sysco Gulf Coast, Inc.",
+  "parntCo1Nm": "Sysco Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2001 W. Magnolia Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Geneva",
+  "facStateCd": "AL",
+  "countyNm": "GENEVA",
+  "facZipCd": "36340",
+  "facZip4Cd": null,
+  "receiptDa": "2011-06-08T00:00:00.000",
+  "facLatDecMs": "31.032030",
+  "facLongDecMs": "-085.547350",
+  "lepcNm": "Geneva County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Geneva Fire Department",
+    "agencyPhoneNm": "3346849962",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013001"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Line Grocery Merchant Wholesalers ",
+          "naicsCd": "42441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013001"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013001"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013001"
+    }
+  }
+}

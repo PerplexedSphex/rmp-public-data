@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000118583,
+  "epaFacId": "100000254958",
+  "facNm": "Homer NE-Iowa Tap",
+  "parntCo1Nm": "NE RNG Interconnect, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "G Avenue and 225th Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Homer",
+  "facStateCd": "NE",
+  "countyNm": "DAKOTA",
+  "facZipCd": "68030",
+  "facZip4Cd": "",
+  "receiptDa": "2024-11-17T00:00:00.000",
+  "facLatDecMs": "42.343839",
+  "facLongDecMs": "-96.478770",
+  "lepcNm": "DakotaCountyEmergencyPlanning",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Homer Fire Department",
+    "agencyPhoneNm": "4024947555",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118583"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Biomass Electric Power Generation ",
+          "naicsCd": "221117",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221117"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118583"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118583"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118583"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 36205,
+  "epaFacId": "100000012014",
+  "facNm": "ADM Milling Company",
+  "parntCo1Nm": "Archer Daniels Midland Company",
+  "facDunsNu": 58684952,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "614 West 2nd St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Mt. Vernon",
+  "facStateCd": "IN",
+  "countyNm": "POSEY",
+  "facZipCd": "47620",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-22T00:00:00.000",
+  "facLatDecMs": "37.928333",
+  "facLongDecMs": "-087.902222",
+  "lepcNm": "Posey County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Posey County LEPC",
+    "agencyPhoneNm": "8166824514",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36205"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36205"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36205"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36205"
+    }
+  }
+}

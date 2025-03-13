@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000076439,
+  "epaFacId": "100000110444",
+  "facNm": "Ely's Inc",
+  "parntCo1Nm": "",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "101 University Street",
+  "facStreet2Tx": "",
+  "facCityNm": "Guide Rock",
+  "facStateCd": "NE",
+  "countyNm": "WEBSTER",
+  "facZipCd": "68942",
+  "facZip4Cd": "",
+  "receiptDa": "2024-02-07T00:00:00.000",
+  "facLatDecMs": "40.070760",
+  "facLongDecMs": "-098.330680",
+  "lepcNm": "Nuckolls/Thayer/Webster LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Depratment",
+    "agencyPhoneNm": "4022573945",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076439"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Wheat Farming",
+          "naicsCd": "11114",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11114"
+            }
+          }
+        },
+        {
+          "description": "Corn Farming",
+          "naicsCd": "11115",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11115"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076439"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076439"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000076439"
+    }
+  }
+}

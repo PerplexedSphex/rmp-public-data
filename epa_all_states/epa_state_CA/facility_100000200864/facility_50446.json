@@ -1,0 +1,79 @@
+{
+  "facilityId": 50446,
+  "epaFacId": "100000200864",
+  "facNm": "Merced Power LLC",
+  "parntCo1Nm": "Global Ampersand LLC",
+  "facDunsNu": 827109070,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "30 West Sandy Mush Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Merced",
+  "facStateCd": "CA",
+  "countyNm": "MERCED",
+  "facZipCd": "95317",
+  "facZip4Cd": null,
+  "receiptDa": "2007-12-21T00:00:00.000",
+  "facLatDecMs": "37.186056",
+  "facLongDecMs": "-120.490667",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Merced County Fire Department",
+    "agencyPhoneNm": "2093857344",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50446"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Electric Power Generation",
+          "naicsCd": "221119",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221119"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50446"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50446"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50446"
+    }
+  }
+}

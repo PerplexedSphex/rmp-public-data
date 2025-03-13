@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000002701,
+  "epaFacId": "100000091027",
+  "facNm": "M&M SERVICE CO. LITCHFIELD (IMC)",
+  "parntCo1Nm": null,
+  "facDunsNu": 6870612,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1287 NORTH 13TH AVE",
+  "facStreet2Tx": null,
+  "facCityNm": "LITCHFIELD",
+  "facStateCd": "IL",
+  "countyNm": "MONTGOMERY",
+  "facZipCd": "62511",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-11T00:00:00.000",
+  "facLatDecMs": "39.191111",
+  "facLongDecMs": "-089.665556",
+  "lepcNm": "Montgomery County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "LEPC",
+    "agencyPhoneNm": "2173242111",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002701"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Merchant Wholesalers ",
+          "naicsCd": "42491",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42491"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002701"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002701"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002701"
+    }
+  }
+}

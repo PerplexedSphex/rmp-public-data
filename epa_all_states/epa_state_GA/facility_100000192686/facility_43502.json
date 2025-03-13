@@ -1,0 +1,79 @@
+{
+  "facilityId": 43502,
+  "epaFacId": "100000192686",
+  "facNm": "Sanderson Farms, Inc.",
+  "parntCo1Nm": "Sanderson Farms, Inc.",
+  "facDunsNu": 8172512,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "700 GA Hwy 133",
+  "facStreet2Tx": null,
+  "facCityNm": "Moultrie",
+  "facStateCd": "GA",
+  "countyNm": "COLQUITT",
+  "facZipCd": "31768",
+  "facZip4Cd": null,
+  "receiptDa": "2005-08-02T00:00:00.000",
+  "facLatDecMs": "31.160000",
+  "facLongDecMs": "-083.743611",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Moultrie Fire Department",
+    "agencyPhoneNm": "2296167470",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43502"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43502"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43502"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43502"
+    }
+  }
+}

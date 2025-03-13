@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000046282,
+  "epaFacId": "100000017377",
+  "facNm": "Trident Seafoods Corporation Anacortes Plant",
+  "parntCo1Nm": "Trident Seafoods Corporation",
+  "facDunsNu": 63362370,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1400 4th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Anacortes",
+  "facStateCd": "WA",
+  "countyNm": "SKAGIT",
+  "facZipCd": "98221",
+  "facZip4Cd": "1532",
+  "receiptDa": "2014-09-03T00:00:00.000",
+  "facLatDecMs": "48.519967",
+  "facLongDecMs": "-122.616599",
+  "lepcNm": "Skagit County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Anacortes Fire Department",
+    "agencyPhoneNm": "3602931925",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046282"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Seafood Product Preparation and Packaging",
+          "naicsCd": "31171",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31171"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046282"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046282"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046282"
+    }
+  }
+}

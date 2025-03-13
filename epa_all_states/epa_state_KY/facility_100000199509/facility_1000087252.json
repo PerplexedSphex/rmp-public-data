@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000087252,
+  "epaFacId": "100000199509",
+  "facNm": "JM Smucker, LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 149114113,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1070 Smith's Grove Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Scottsville",
+  "facStateCd": "KY",
+  "countyNm": "ALLEN",
+  "facZipCd": "42164",
+  "facZip4Cd": null,
+  "receiptDa": "2020-07-20T18:37:45.000",
+  "facLatDecMs": "36.7636111",
+  "facLongDecMs": "-086.183333",
+  "lepcNm": "Allen County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Scottsville Fire Department",
+    "agencyPhoneNm": "2702375367",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087252"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Specialty Food Manufacturing ",
+          "naicsCd": "311412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087252"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087252"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087252"
+    }
+  }
+}

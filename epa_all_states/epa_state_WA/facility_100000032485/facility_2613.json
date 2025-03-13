@@ -1,0 +1,79 @@
+{
+  "facilityId": 2613,
+  "epaFacId": "100000032485",
+  "facNm": "McCain Foods, Othello Plant",
+  "parntCo1Nm": "McCain Foods USA, Inc.",
+  "facDunsNu": 1104736,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "100 Lee Street",
+  "facStreet2Tx": "P.O. Box 607",
+  "facCityNm": "Othello",
+  "facStateCd": "WA",
+  "countyNm": "ADAMS",
+  "facZipCd": "99344",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-14T00:00:00.000",
+  "facLatDecMs": "46.840556",
+  "facLongDecMs": "-119.173889",
+  "lepcNm": "Adams County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Othello Fire Department",
+    "agencyPhoneNm": "5094882626",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2613"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2613"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2613"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2613"
+    }
+  }
+}

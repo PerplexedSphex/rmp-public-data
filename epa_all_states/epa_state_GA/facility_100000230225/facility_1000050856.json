@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000050856,
+  "epaFacId": "100000230225",
+  "facNm": "Ardent Mills, LLC",
+  "parntCo1Nm": "Ardent Mills, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "211 Lower Poplar Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Macon",
+  "facStateCd": "GA",
+  "countyNm": "BIBB",
+  "facZipCd": "31201",
+  "facZip4Cd": null,
+  "receiptDa": "2016-08-16T00:00:00.000",
+  "facLatDecMs": "32.829522",
+  "facLongDecMs": "-83.620770",
+  "lepcNm": "Macon-Bibb County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-08-23T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bibb county Fire Department",
+    "agencyPhoneNm": "4787519180",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050856"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050856"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050856"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050856"
+    }
+  }
+}

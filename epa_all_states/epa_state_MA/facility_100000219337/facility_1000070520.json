@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000070520,
+  "epaFacId": "100000219337",
+  "facNm": "Astro Chemicals, Inc.",
+  "parntCo1Nm": "",
+  "facDunsNu": 48666465,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "126 Memorial Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Springfield",
+  "facStateCd": "MA",
+  "countyNm": "HAMPDEN",
+  "facZipCd": "01104",
+  "facZip4Cd": "",
+  "receiptDa": "2022-11-07T00:00:00.000",
+  "facLatDecMs": "42.139029",
+  "facLongDecMs": "-72.543374",
+  "lepcNm": "Springfield LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Springfield LEPC",
+    "agencyPhoneNm": "4137876720",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070520"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Merchant Wholesalers ",
+          "naicsCd": "42469",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42469"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrochloric acid (conc 37% or greater)",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/53"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070520"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070520"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070520"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "facilityId": 1000045595,
+  "epaFacId": "100000201505",
+  "facNm": "Tedia Company Inc.",
+  "parntCo1Nm": "Same",
+  "facDunsNu": 76784040,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1000 Tedia Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Fairfield",
+  "facStateCd": "OH",
+  "countyNm": "BUTLER",
+  "facZipCd": "45014",
+  "facZip4Cd": null,
+  "receiptDa": "2014-07-17T00:00:00.000",
+  "facLatDecMs": "39.348611",
+  "facLongDecMs": "-084.524167",
+  "lepcNm": "Butler County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fairfield Fire Department",
+    "agencyPhoneNm": "5138675379",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045595"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chloroform  [Methane, trichloro-]",
+          "casNu": "67-66-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/4"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl ether  [Ethane, 1,1'-oxybis-]",
+          "casNu": "60-29-7",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/92"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045595"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045595"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045595"
+    }
+  }
+}

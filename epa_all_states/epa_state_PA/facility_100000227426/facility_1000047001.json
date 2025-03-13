@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000047001,
+  "epaFacId": "100000227426",
+  "facNm": "Avondale Terminal",
+  "parntCo1Nm": "Crestwood Midstream LLC",
+  "facDunsNu": 39949222,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "66 Baltimore Pike",
+  "facStreet2Tx": null,
+  "facCityNm": "Avondale",
+  "facStateCd": "PA",
+  "countyNm": "CHESTER",
+  "facZipCd": "19311",
+  "facZip4Cd": null,
+  "receiptDa": "2014-11-03T00:00:00.000",
+  "facLatDecMs": "39.721413",
+  "facLongDecMs": "-75.35973",
+  "lepcNm": "Chester County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2017-08-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Avondale Fire Company",
+    "agencyPhoneNm": "6102682486",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047001"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Specialized Freight (except Used Goods) Trucking, Long-Distance",
+          "naicsCd": "48423",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48423"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene  [1-Propene]",
+          "casNu": "115-07-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/129"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047001"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047001"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047001"
+    }
+  }
+}

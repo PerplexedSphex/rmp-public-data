@@ -1,0 +1,79 @@
+{
+  "facilityId": 14595,
+  "epaFacId": "100000006502",
+  "facNm": "Calvert Cliffs Nuclear Power Plant",
+  "parntCo1Nm": "Baltimore Gas & Electric Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1650 Calvert Cliffs Parkway",
+  "facStreet2Tx": "N/A",
+  "facCityNm": "Lusby",
+  "facStateCd": "MD",
+  "countyNm": "CALVERT",
+  "facZipCd": "20657",
+  "facZip4Cd": "4702",
+  "receiptDa": "1999-05-07T00:00:00.000",
+  "facLatDecMs": "38.434444",
+  "facLongDecMs": "-76.441944",
+  "lepcNm": "Calvert County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2008-06-27T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Calvert County Emerg. Operations",
+    "agencyPhoneNm": "4105351623",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14595"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Nuclear Electric Power Generation ",
+          "naicsCd": "221113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14595"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14595"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14595"
+    }
+  }
+}

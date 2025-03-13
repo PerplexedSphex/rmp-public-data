@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106578,
+  "epaFacId": "100000251693",
+  "facNm": "Buckhead Meats of Dallas",
+  "parntCo1Nm": "Sysco Corporation",
+  "facDunsNu": 46859489,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4216 Mint Way",
+  "facStreet2Tx": "",
+  "facCityNm": "Dallas",
+  "facStateCd": "TX",
+  "countyNm": "DALLAS",
+  "facZipCd": "75237",
+  "facZip4Cd": "",
+  "receiptDa": "2023-09-01T00:00:00.000",
+  "facLatDecMs": "32.684409",
+  "facLongDecMs": "-96.888710",
+  "lepcNm": "Dallas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dallas Fire/Rescue",
+    "agencyPhoneNm": "2146704321",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106578"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106578"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106578"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106578"
+    }
+  }
+}

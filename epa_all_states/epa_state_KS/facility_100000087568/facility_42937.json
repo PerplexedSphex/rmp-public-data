@@ -1,0 +1,79 @@
+{
+  "facilityId": 42937,
+  "epaFacId": "100000087568",
+  "facNm": "Beef Products, Inc. Finney County KS",
+  "parntCo1Nm": null,
+  "facDunsNu": 625435151,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "West Highway 50",
+  "facStreet2Tx": null,
+  "facCityNm": "Holcomb",
+  "facStateCd": "KS",
+  "countyNm": "FINNEY",
+  "facZipCd": "67851",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-29T00:00:00.000",
+  "facLatDecMs": "38.000000",
+  "facLongDecMs": "-101.026111",
+  "lepcNm": "Finney County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-07-19T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Finney County LEPC",
+    "agencyPhoneNm": "3162323300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42937"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42937"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42937"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42937"
+    }
+  }
+}

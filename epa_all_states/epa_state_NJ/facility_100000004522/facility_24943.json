@@ -1,0 +1,79 @@
+{
+  "facilityId": 24943,
+  "epaFacId": "100000004522",
+  "facNm": "Elan Incorporated",
+  "parntCo1Nm": null,
+  "facDunsNu": 42895680,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "268 Doremus Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Newark",
+  "facStateCd": "NJ",
+  "countyNm": "ESSEX",
+  "facZipCd": "07105",
+  "facZip4Cd": null,
+  "receiptDa": "2002-01-24T00:00:00.000",
+  "facLatDecMs": "40.734583",
+  "facLongDecMs": "-74.123917",
+  "lepcNm": "Newark City LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-12-20T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Newark HAZMAT Team",
+    "agencyPhoneNm": "9737337400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24943"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl chloride  [Ethane, chloro-]",
+          "casNu": "75-00-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/100"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24943"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24943"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24943"
+    }
+  }
+}

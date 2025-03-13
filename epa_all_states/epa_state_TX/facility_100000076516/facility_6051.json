@@ -1,0 +1,79 @@
+{
+  "facilityId": 6051,
+  "epaFacId": "100000076516",
+  "facNm": "National Semiconductor Texas",
+  "parntCo1Nm": null,
+  "facDunsNu": 41472986,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1111 West Bardin Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Arlington",
+  "facStateCd": "TX",
+  "countyNm": "TARRANT",
+  "facZipCd": "76017",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "32.672778",
+  "facLongDecMs": "-97.1275",
+  "lepcNm": "Tarrant County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "1999-06-21T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Arlington Fire Department",
+    "agencyPhoneNm": "8174595500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6051"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Semiconductor and Other Electronic Component Manufacturing",
+          "naicsCd": "33441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrochloric acid (conc 37% or greater)",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/53"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6051"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6051"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6051"
+    }
+  }
+}

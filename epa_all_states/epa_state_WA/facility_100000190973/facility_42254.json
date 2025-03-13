@@ -1,0 +1,79 @@
+{
+  "facilityId": 42254,
+  "epaFacId": "100000190973",
+  "facNm": "Arlington Propane Terminal",
+  "parntCo1Nm": "Plains LPG Services",
+  "facDunsNu": 200471790,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "20715 67th Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Arlington",
+  "facStateCd": "WA",
+  "countyNm": "SNOHOMISH",
+  "facZipCd": "98223",
+  "facZip4Cd": null,
+  "receiptDa": "2005-03-03T00:00:00.000",
+  "facLatDecMs": "48.183778",
+  "facLongDecMs": "-122.136472",
+  "lepcNm": "Snohomish County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-12-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Arlington Fire Department",
+    "agencyPhoneNm": "3604353818",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42254"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42254"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42254"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42254"
+    }
+  }
+}

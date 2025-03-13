@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000094829,
+  "epaFacId": "100000212539",
+  "facNm": "East Houston Terminal",
+  "parntCo1Nm": "ONEOK, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7901 Wallisville Rd",
+  "facStreet2Tx": "",
+  "facCityNm": "Houston",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77029",
+  "facZip4Cd": "",
+  "receiptDa": "2021-07-23T00:00:00.000",
+  "facLatDecMs": "29.79926",
+  "facLongDecMs": "-95.282352",
+  "lepcNm": "Houston Fire Dept - Station 45",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Houston Fire Dept Station 45",
+    "agencyPhoneNm": "8323946700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094829"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pipeline Transportation of Refined Petroleum Products",
+          "naicsCd": "48691",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48691"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094829"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094829"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094829"
+    }
+  }
+}

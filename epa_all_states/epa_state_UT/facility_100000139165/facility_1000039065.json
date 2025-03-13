@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000039065,
+  "epaFacId": "100000139165",
+  "facNm": "Layton Ice Cream",
+  "parntCo1Nm": "The Kroger Company",
+  "facDunsNu": 43700194,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "500 North Sugar Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Layton",
+  "facStateCd": "UT",
+  "countyNm": "DAVIS",
+  "facZipCd": "84041",
+  "facZip4Cd": null,
+  "receiptDa": "2014-02-13T00:00:00.000",
+  "facLatDecMs": "41.064000",
+  "facLongDecMs": "-111.982778",
+  "lepcNm": "Davis County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Layton Fire Department",
+    "agencyPhoneNm": "8013363940",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039065"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039065"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039065"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039065"
+    }
+  }
+}

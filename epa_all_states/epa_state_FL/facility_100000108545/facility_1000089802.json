@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000089802,
+  "epaFacId": "100000108545",
+  "facNm": "Water Reclamation Facility",
+  "parntCo1Nm": "City of Naples",
+  "facDunsNu": 84130293,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1400 3rd Ave. North",
+  "facStreet2Tx": "",
+  "facCityNm": "Naples",
+  "facStateCd": "FL",
+  "countyNm": "COLLIER",
+  "facZipCd": "34102",
+  "facZip4Cd": "",
+  "receiptDa": "2020-10-05T00:00:00.000",
+  "facLatDecMs": "26.152757",
+  "facLongDecMs": "-081.788346",
+  "lepcNm": "Collier County Emergency Mgmt",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "City of Naples Fire Department",
+    "agencyPhoneNm": "2392133078",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000089802"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000089802"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000089802"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000089802"
+    }
+  }
+}

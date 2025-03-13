@@ -1,0 +1,79 @@
+{
+  "facilityId": 52303,
+  "epaFacId": "100000084829",
+  "facNm": "Underwood Fruit & Warehouse Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 151163490,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6550 Washington State Route 14",
+  "facStreet2Tx": null,
+  "facCityNm": "Bingen",
+  "facStateCd": "WA",
+  "countyNm": "KLICKITAT",
+  "facZipCd": "98605",
+  "facZip4Cd": null,
+  "receiptDa": "2008-08-08T00:00:00.000",
+  "facLatDecMs": "45.720556",
+  "facLongDecMs": "-121.477778",
+  "lepcNm": "Klickitat County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bingen Fire Department",
+    "agencyPhoneNm": "0000000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52303"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52303"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52303"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52303"
+    }
+  }
+}

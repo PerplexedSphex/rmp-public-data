@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000049176,
+  "epaFacId": "100000228595",
+  "facNm": "Greencore USA, Inc - Rhode Island",
+  "parntCo1Nm": "Greencore USA, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "320 Commerce Park Rd",
+  "facStreet2Tx": null,
+  "facCityNm": "North Kingstown",
+  "facStateCd": "RI",
+  "countyNm": "WASHINGTON",
+  "facZipCd": "02852",
+  "facZip4Cd": null,
+  "receiptDa": "2015-03-19T00:00:00.000",
+  "facLatDecMs": "41.603742",
+  "facLongDecMs": "-71.440636",
+  "lepcNm": "LEPC-4",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "North Kingstown Fire Department",
+    "agencyPhoneNm": "4012943346",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049176"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049176"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049176"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049176"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100872,
+  "epaFacId": "100000104488",
+  "facNm": "Iatric Manufacturing Solutions",
+  "parntCo1Nm": "Rockline Industries",
+  "facDunsNu": 81221758,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "328 Hamblen Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Morristown",
+  "facStateCd": "TN",
+  "countyNm": "HAMBLEN",
+  "facZipCd": "37813",
+  "facZip4Cd": null,
+  "receiptDa": "2022-05-25T00:00:00.000",
+  "facLatDecMs": "36.243382",
+  "facLongDecMs": "-83.212914",
+  "lepcNm": "Hamblen County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "East Hamblen County Fire Department",
+    "agencyPhoneNm": "4234384241",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100872"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Pharmaceutical Preparation Manufacturing ",
+          "naicsCd": "325412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrochloric acid (conc 37% or greater)",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/53"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100872"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100872"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100872"
+    }
+  }
+}

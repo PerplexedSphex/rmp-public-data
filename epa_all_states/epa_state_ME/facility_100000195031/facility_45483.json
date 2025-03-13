@@ -1,0 +1,79 @@
+{
+  "facilityId": 45483,
+  "epaFacId": "100000195031",
+  "facNm": "Wal-Mart Distribution Center #7014",
+  "parntCo1Nm": "Wal-Mart Stores, Inc.",
+  "facDunsNu": 51957769,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "31 Alfred Plourde Parkway",
+  "facStreet2Tx": null,
+  "facCityNm": "Lewiston",
+  "facStateCd": "ME",
+  "countyNm": "ANDROSCOGGIN",
+  "facZipCd": "04240",
+  "facZip4Cd": null,
+  "receiptDa": "2006-04-19T00:00:00.000",
+  "facLatDecMs": "44.060556",
+  "facLongDecMs": "-070.192222",
+  "lepcNm": "Androscoggin County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lewiston Fire Department",
+    "agencyPhoneNm": "2077950084",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45483"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45483"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45483"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45483"
+    }
+  }
+}

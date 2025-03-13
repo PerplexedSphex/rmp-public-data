@@ -1,0 +1,79 @@
+{
+  "facilityId": 17809,
+  "epaFacId": "100000162575",
+  "facNm": "Helm Fertilizer Terminal, Inc.",
+  "parntCo1Nm": "Helm Dungemittle",
+  "facDunsNu": 606146561,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1421 Channel Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Memphis",
+  "facStateCd": "TN",
+  "countyNm": "SHELBY",
+  "facZipCd": "38113",
+  "facZip4Cd": null,
+  "receiptDa": "1999-10-04T00:00:00.000",
+  "facLatDecMs": "35.122222",
+  "facLongDecMs": "-90.071778",
+  "lepcNm": "Shelby County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Memphis Fire Department",
+    "agencyPhoneNm": "9013205414",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17809"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17809"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17809"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17809"
+    }
+  }
+}

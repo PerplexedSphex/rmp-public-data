@@ -1,0 +1,79 @@
+{
+  "facilityId": 45579,
+  "epaFacId": "100000195335",
+  "facNm": "American Carbon Technologies, Inc.",
+  "parntCo1Nm": "American Carbon Technologies, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "564 Ecology Lane",
+  "facStreet2Tx": null,
+  "facCityNm": "Chester",
+  "facStateCd": "SC",
+  "countyNm": "CHESTER",
+  "facZipCd": "29706",
+  "facZip4Cd": null,
+  "receiptDa": "2006-05-02T00:00:00.000",
+  "facLatDecMs": "34.708540",
+  "facLongDecMs": "-081.137490",
+  "lepcNm": "Chester County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-12-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chester Fire Department",
+    "agencyPhoneNm": "8033852123",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45579"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "All Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "325188",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325188"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "CBI Acids",
+          "casNu": "00-00-00",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/78"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45579"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45579"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45579"
+    }
+  }
+}

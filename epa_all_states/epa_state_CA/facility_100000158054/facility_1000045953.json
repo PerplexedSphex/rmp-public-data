@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000045953,
+  "epaFacId": "100000158054",
+  "facNm": "TST Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 115410854,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "11601 Etiwanda Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Fontana",
+  "facStateCd": "CA",
+  "countyNm": "SAN BERNARDINO",
+  "facZipCd": "92337",
+  "facZip4Cd": null,
+  "receiptDa": "2014-08-04T00:00:00.000",
+  "facLatDecMs": "34.044083",
+  "facLongDecMs": "-117.521861",
+  "lepcNm": "Region VI LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "San Bernardino Co.Fire Haz Mat",
+    "agencyPhoneNm": "9093868401",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045953"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Secondary Smelting and Alloying of Aluminum ",
+          "naicsCd": "331314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045953"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045953"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045953"
+    }
+  }
+}

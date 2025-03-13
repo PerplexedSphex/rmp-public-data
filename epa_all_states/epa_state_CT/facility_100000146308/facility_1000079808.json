@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000079808,
+  "epaFacId": "100000146308",
+  "facNm": "StanChem, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 47711346,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "401 Berlin Street",
+  "facStreet2Tx": null,
+  "facCityNm": "East Berlin",
+  "facStateCd": "CT",
+  "countyNm": "HARTFORD",
+  "facZipCd": "06023",
+  "facZip4Cd": null,
+  "receiptDa": "2019-06-05T21:10:02.000",
+  "facLatDecMs": "41.620000",
+  "facLongDecMs": "-072.713889",
+  "lepcNm": "Berlin LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Berlin Fire Department",
+    "agencyPhoneNm": "8608287053",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079808"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Adhesive Manufacturing",
+          "naicsCd": "32552",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32552"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079808"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079808"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079808"
+    }
+  }
+}

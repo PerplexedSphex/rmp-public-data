@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000114638,
+  "epaFacId": "100000105557",
+  "facNm": "Anheuser-Busch, Inc.",
+  "parntCo1Nm": "Anheuser-Busch Companies, Inc.",
+  "facDunsNu": 6288799,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2885 Belgium Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Baldwinsville",
+  "facStateCd": "NY",
+  "countyNm": "ONONDAGA",
+  "facZipCd": "13027",
+  "facZip4Cd": "",
+  "receiptDa": "2024-06-04T00:00:00.000",
+  "facLatDecMs": "43.169444",
+  "facLongDecMs": "-076.311111",
+  "lepcNm": "Onondaga County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Onondaga County LEPC",
+    "agencyPhoneNm": "3154352525",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114638"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114638"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114638"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114638"
+    }
+  }
+}

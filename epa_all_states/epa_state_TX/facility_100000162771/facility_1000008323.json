@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000008323,
+  "epaFacId": "100000162771",
+  "facNm": "Sara Lee Refrigerated Dough Products",
+  "parntCo1Nm": "Sara Lee Corporation",
+  "facDunsNu": 22820286,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1905 Country Club Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Carrollton",
+  "facStateCd": "TX",
+  "countyNm": "DALLAS",
+  "facZipCd": "75006",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-19T00:00:00.000",
+  "facLatDecMs": "32.961040",
+  "facLongDecMs": "-096.889980",
+  "lepcNm": "Dallas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dallas County LEPC",
+    "agencyPhoneNm": "2149205990",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008323"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Mixes and Dough Manufacturing from Purchased Flour",
+          "naicsCd": "311822",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311822"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008323"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008323"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008323"
+    }
+  }
+}

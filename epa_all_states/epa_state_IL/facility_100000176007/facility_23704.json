@@ -1,0 +1,90 @@
+{
+  "facilityId": 23704,
+  "epaFacId": "100000176007",
+  "facNm": "Monee Terminal",
+  "parntCo1Nm": "TE Products Pipeline Company, Limited Partnership",
+  "facDunsNu": 781768122,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "23313 S. Ridgeland Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Monee",
+  "facStateCd": "IL",
+  "countyNm": "WILL",
+  "facZipCd": "60449",
+  "facZip4Cd": null,
+  "receiptDa": "2001-06-28T00:00:00.000",
+  "facLatDecMs": "41.467667",
+  "facLongDecMs": "-87.764417",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Monee Fire Department",
+    "agencyPhoneNm": "7085348772",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23704"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals",
+          "naicsCd": "42271",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42271"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl mercaptan [Ethanethiol]",
+          "casNu": "75-08-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/105"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23704"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23704"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23704"
+    }
+  }
+}

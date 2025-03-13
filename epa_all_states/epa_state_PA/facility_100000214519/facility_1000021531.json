@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000021531,
+  "epaFacId": "100000214519",
+  "facNm": "Coyne Chemical - Reading Plant",
+  "parntCo1Nm": "George S. Coyne Chemical Co., Inc.",
+  "facDunsNu": 112233445,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "125 Witman Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Reading",
+  "facStateCd": "PA",
+  "countyNm": "BERKS",
+  "facZipCd": "19605",
+  "facZip4Cd": null,
+  "receiptDa": "2011-05-27T00:00:00.000",
+  "facLatDecMs": "40.397472",
+  "facLongDecMs": "-075.932750",
+  "lepcNm": "Berks County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Berks County LEPC",
+    "agencyPhoneNm": "6103744300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021531"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Merchant Wholesalers ",
+          "naicsCd": "42469",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42469"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021531"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021531"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021531"
+    }
+  }
+}

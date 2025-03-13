@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000105050,
+  "epaFacId": "100000238628",
+  "facNm": "North American Cold Storage, Inc.",
+  "parntCo1Nm": "",
+  "facDunsNu": 79424437,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "23202 Roemer Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Woodburn",
+  "facStateCd": "IN",
+  "countyNm": "ALLEN",
+  "facZipCd": "46797",
+  "facZip4Cd": "",
+  "receiptDa": "2023-04-21T00:00:00.000",
+  "facLatDecMs": "41.137010",
+  "facLongDecMs": "-84.841535",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Woodburn Fire Department",
+    "agencyPhoneNm": "2606329200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105050"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105050"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105050"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105050"
+    }
+  }
+}

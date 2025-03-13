@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000021237,
+  "epaFacId": "100000214207",
+  "facNm": "Columbus Manufacturing, Inc.",
+  "parntCo1Nm": "Columbus Foods, LLC",
+  "facDunsNu": 177751658,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "30977 San Antonio Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Hayward",
+  "facStateCd": "CA",
+  "countyNm": "ALAMEDA",
+  "facZipCd": "94544",
+  "facZip4Cd": null,
+  "receiptDa": "2011-05-24T00:00:00.000",
+  "facLatDecMs": "37.61211",
+  "facLongDecMs": "-122.04869",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2024-06-11T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Hayward Fire Dept.",
+    "agencyPhoneNm": "5105834900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021237"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Food Manufacturing ",
+          "naicsCd": "311999",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311999"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021237"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021237"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021237"
+    }
+  }
+}

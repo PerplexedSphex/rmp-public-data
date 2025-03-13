@@ -1,0 +1,79 @@
+{
+  "facilityId": 7909,
+  "epaFacId": "100000102337",
+  "facNm": "Dean Foods Company - Huntley",
+  "parntCo1Nm": "Dean Foods Company",
+  "facDunsNu": 5103858,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "11713 Mill Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Huntley",
+  "facStateCd": "IL",
+  "countyNm": "MCHENRY",
+  "facZipCd": "60142",
+  "facZip4Cd": "0008",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "42.166389",
+  "facLongDecMs": "-88.425556",
+  "lepcNm": "Mchenry County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-09-24T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Huntley Fire Department",
+    "agencyPhoneNm": "8476695066",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7909"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7909"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7909"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7909"
+    }
+  }
+}

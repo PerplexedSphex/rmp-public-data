@@ -1,0 +1,79 @@
+{
+  "facilityId": 3359,
+  "epaFacId": "100000042544",
+  "facNm": "Air Products, Hennepin, IL",
+  "parntCo1Nm": "Air Products and Chemicals Inc.",
+  "facDunsNu": 106598923,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Power House Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Hennepin",
+  "facStateCd": "IL",
+  "countyNm": "PUTNAM",
+  "facZipCd": "61327",
+  "facZip4Cd": "0407",
+  "receiptDa": "1999-06-16T00:00:00.000",
+  "facLatDecMs": "41.264167",
+  "facLongDecMs": "-89.333333",
+  "lepcNm": "Putnam County EMSDA",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2002-11-14T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hennepin Fire Department",
+    "agencyPhoneNm": "8159257225",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3359"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3359"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3359"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3359"
+    }
+  }
+}

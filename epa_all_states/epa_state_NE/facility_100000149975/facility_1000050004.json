@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000050004,
+  "epaFacId": "100000149975",
+  "facNm": "Western International Gas & Cylinders, Inc.Oakland",
+  "parntCo1Nm": "Western International Gas & Cylinders Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1101 Commercial Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Oakland",
+  "facStateCd": "NE",
+  "countyNm": "BURT",
+  "facZipCd": "68045",
+  "facZip4Cd": "0133",
+  "receiptDa": "2015-05-15T00:00:00.000",
+  "facLatDecMs": "41.847259",
+  "facLongDecMs": "-096.466831",
+  "lepcNm": "Burt LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Oakland Fire Department",
+    "agencyPhoneNm": "4026855115",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050004"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Acetylene  [Ethyne]",
+          "casNu": "74-86-2",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/96"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050004"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050004"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050004"
+    }
+  }
+}

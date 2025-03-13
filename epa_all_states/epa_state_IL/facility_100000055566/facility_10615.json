@@ -1,0 +1,90 @@
+{
+  "facilityId": 10615,
+  "epaFacId": "100000055566",
+  "facNm": "Kinder Morgan Energy Partners, L.P.-Lemont Termin.",
+  "parntCo1Nm": "Kinder Morgan G.P., Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "12327 New Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Lemont",
+  "facStateCd": "IL",
+  "countyNm": "WILL",
+  "facZipCd": "60439",
+  "facZip4Cd": "3687",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "41.661944",
+  "facLongDecMs": "-88.034722",
+  "lepcNm": "Will County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lemont Fire Department",
+    "agencyPhoneNm": "6302572376",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10615"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Warehousing and Storage",
+          "naicsCd": "49319",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49319"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl mercaptan [Ethanethiol]",
+          "casNu": "75-08-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/105"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10615"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10615"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10615"
+    }
+  }
+}

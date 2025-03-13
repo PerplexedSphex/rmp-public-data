@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000114984,
+  "epaFacId": "100000057573",
+  "facNm": "United States Cold Storage, Laredo II",
+  "parntCo1Nm": "United States Cold Storage, Inc.",
+  "facDunsNu": 943716712,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1601 Justo Penn Rd",
+  "facStreet2Tx": "",
+  "facCityNm": "Laredo",
+  "facStateCd": "TX",
+  "countyNm": "WEBB",
+  "facZipCd": "78041",
+  "facZip4Cd": "",
+  "receiptDa": "2024-06-06T00:00:00.000",
+  "facLatDecMs": "27.545556",
+  "facLongDecMs": "-099.512500",
+  "lepcNm": "Webb County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Laredo Fire Department",
+    "agencyPhoneNm": "9567186000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114984"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114984"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114984"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114984"
+    }
+  }
+}

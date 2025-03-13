@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000048903,
+  "epaFacId": "100000032118",
+  "facNm": "Water Treatment Plant",
+  "parntCo1Nm": "Corbin City Utilities Commission",
+  "facDunsNu": 59562983,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "60 West Hinkle Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Corbin",
+  "facStateCd": "KY",
+  "countyNm": "WHITLEY",
+  "facZipCd": "40701",
+  "facZip4Cd": "1805",
+  "receiptDa": "2015-02-24T00:00:00.000",
+  "facLatDecMs": "36.956997",
+  "facLongDecMs": "-84.112868",
+  "lepcNm": "Whitley LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Corbin Fire Department",
+    "agencyPhoneNm": "6065282411",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048903"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048903"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048903"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048903"
+    }
+  }
+}

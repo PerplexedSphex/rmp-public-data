@@ -1,0 +1,90 @@
+{
+  "facilityId": 35630,
+  "epaFacId": "100000144266",
+  "facNm": "Formosa Plastics Corporation IL",
+  "parntCo1Nm": "Formosa Plastics Corporation USA",
+  "facDunsNu": 39944004,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "19800 Route 36",
+  "facStreet2Tx": null,
+  "facCityNm": "Illiopolis",
+  "facStateCd": "IL",
+  "countyNm": "SANGAMON",
+  "facZipCd": "62539",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-22T00:00:00.000",
+  "facLatDecMs": "39.847222",
+  "facLongDecMs": "-089.275278",
+  "lepcNm": "Sangamon County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2009-05-20T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sangamon County LEPC",
+    "agencyPhoneNm": "2177892280",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35630"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl chloride  [Ethene, chloro-]",
+          "casNu": "75-01-4",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/101"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35630"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35630"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35630"
+    }
+  }
+}

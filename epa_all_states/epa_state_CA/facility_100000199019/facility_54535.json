@@ -1,0 +1,90 @@
+{
+  "facilityId": 54535,
+  "epaFacId": "100000199019",
+  "facNm": "Wilbur-Ellis Company, Manteca",
+  "parntCo1Nm": null,
+  "facDunsNu": 6913479,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "13771 Prescott Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Manteca",
+  "facStateCd": "CA",
+  "countyNm": "SAN JOAQUIN",
+  "facZipCd": "95336",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-12T00:00:00.000",
+  "facLatDecMs": "37.830000",
+  "facLongDecMs": "-121.160000",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-10-03T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "San Joaquin OES",
+    "agencyPhoneNm": "2094683969",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54535"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Soil Preparation, Planting, and Cultivating ",
+          "naicsCd": "115112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/115112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54535"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54535"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54535"
+    }
+  }
+}

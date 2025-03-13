@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000090444,
+  "epaFacId": "100000188682",
+  "facNm": "Amick Farms, LLC",
+  "parntCo1Nm": "OSI Group, LLC",
+  "facDunsNu": 46508875,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2079 Batesburg Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "Batesburg",
+  "facStateCd": "SC",
+  "countyNm": "SALUDA",
+  "facZipCd": "29006",
+  "facZip4Cd": null,
+  "receiptDa": "2020-10-19T10:16:51.000",
+  "facLatDecMs": "33.95575",
+  "facLongDecMs": "-081.636917",
+  "lepcNm": "Saluda County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Saluda Emergency Planning Commissio",
+    "agencyPhoneNm": "8649924591",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090444"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Broilers and Other Meat Type Chicken Production",
+          "naicsCd": "11232",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11232"
+            }
+          }
+        },
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090444"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090444"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090444"
+    }
+  }
+}

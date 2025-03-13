@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000022945,
+  "epaFacId": "100000168766",
+  "facNm": "Perishable Warehouse",
+  "parntCo1Nm": "Schnuck Markets Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "12921 Enterprise Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Bridgeton",
+  "facStateCd": "MO",
+  "countyNm": "ST. LOUIS",
+  "facZipCd": "63044",
+  "facZip4Cd": null,
+  "receiptDa": "2011-11-01T00:00:00.000",
+  "facLatDecMs": "38.751694",
+  "facLongDecMs": "-090.417806",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-09-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Roberson Fire District",
+    "agencyPhoneNm": "3142916671",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022945"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Supermarkets and Other Grocery Retailers (except Convenience Retailers) ",
+          "naicsCd": "44511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/44511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022945"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022945"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022945"
+    }
+  }
+}

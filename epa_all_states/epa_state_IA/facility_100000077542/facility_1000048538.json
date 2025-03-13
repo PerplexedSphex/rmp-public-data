@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000048538,
+  "epaFacId": "100000077542",
+  "facNm": "Hormel Foods Corporation Knoxville Plant",
+  "parntCo1Nm": "Hormel Foods Corporation",
+  "facDunsNu": 80288079,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "209 N. Godfrey Lane",
+  "facStreet2Tx": null,
+  "facCityNm": "Knoxville",
+  "facStateCd": "IA",
+  "countyNm": "MARION",
+  "facZipCd": "50138",
+  "facZip4Cd": "9586",
+  "receiptDa": "2015-01-29T00:00:00.000",
+  "facLatDecMs": "41.31804",
+  "facLongDecMs": "-093.06072",
+  "lepcNm": "Marion County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Knoxville Fire Department",
+    "agencyPhoneNm": "6418280586",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048538"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048538"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048538"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048538"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 2013,
+  "epaFacId": "100000024911",
+  "facNm": "CROPMATE COMPANY/UAP, KENTLAND, IN",
+  "parntCo1Nm": "UNITED AGRI PRODUCTS",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3022W 1500S",
+  "facStreet2Tx": null,
+  "facCityNm": "KENTLAND",
+  "facStateCd": "IN",
+  "countyNm": "NEWTON",
+  "facZipCd": "47951",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-10T00:00:00.000",
+  "facLatDecMs": "40.783333",
+  "facLongDecMs": "-87.449167",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "KENTLAND FIRE DEPARTMENT",
+    "agencyPhoneNm": "2194745062",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2013"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fertilizer and Compost Manufacturing",
+          "naicsCd": "32531",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32531"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2013"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2013"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2013"
+    }
+  }
+}

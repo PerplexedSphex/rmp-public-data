@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000048019,
+  "epaFacId": "100000096754",
+  "facNm": "Fieldale Farms Cornelia Complex",
+  "parntCo1Nm": "Fieldale Farms Corporation",
+  "facDunsNu": 57265027,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "124 Wayside Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Cornelia",
+  "facStateCd": "GA",
+  "countyNm": "HABERSHAM",
+  "facZipCd": "30531",
+  "facZip4Cd": null,
+  "receiptDa": "2014-12-16T00:00:00.000",
+  "facLatDecMs": "34.508611",
+  "facLongDecMs": "-083.535833",
+  "lepcNm": "Habersham County EMA",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Habersham County EMA",
+    "agencyPhoneNm": "7067789500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048019"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048019"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048019"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048019"
+    }
+  }
+}

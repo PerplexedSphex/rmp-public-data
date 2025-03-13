@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000014957,
+  "epaFacId": "100000143356",
+  "facNm": "Metson Station",
+  "parntCo1Nm": "Plains All Amrican Pipeline, L.P.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2.8 Miles South of Highway 166",
+  "facStreet2Tx": "1 Mile East of Basic School Road",
+  "facCityNm": "Maricopa",
+  "facStateCd": "CA",
+  "countyNm": "KERN",
+  "facZipCd": "93311",
+  "facZip4Cd": null,
+  "receiptDa": "2010-07-28T00:00:00.000",
+  "facLatDecMs": "35.017083",
+  "facLongDecMs": "-119.289722",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kern County Fire Department",
+    "agencyPhoneNm": "6618313467",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014957"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pipeline Transportation of Crude Oil",
+          "naicsCd": "48611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014957"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014957"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014957"
+    }
+  }
+}

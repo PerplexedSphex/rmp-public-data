@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000006041,
+  "epaFacId": "100000042198",
+  "facNm": "Siemer Milling Company - Hopkinsville Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 6275648,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "315 Quintin Court",
+  "facStreet2Tx": null,
+  "facCityNm": "Hopkinsville",
+  "facStateCd": "KY",
+  "countyNm": "CHRISTIAN",
+  "facZipCd": "42240",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-11T00:00:00.000",
+  "facLatDecMs": "36.795833",
+  "facLongDecMs": "-087.390000",
+  "lepcNm": "Christian County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hopkinsville EOC",
+    "agencyPhoneNm": "2708901300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006041"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006041"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006041"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006041"
+    }
+  }
+}

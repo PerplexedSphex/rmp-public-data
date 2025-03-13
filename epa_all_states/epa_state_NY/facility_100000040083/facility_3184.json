@@ -1,0 +1,79 @@
+{
+  "facilityId": 3184,
+  "epaFacId": "100000040083",
+  "facNm": "Herkimer County WWTP",
+  "parntCo1Nm": "Herkimer County",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "106 West Main Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Mohawk",
+  "facStateCd": "NY",
+  "countyNm": "HERKIMER",
+  "facZipCd": "13407",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-16T00:00:00.000",
+  "facLatDecMs": "43.015361",
+  "facLongDecMs": "-75.025528",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2003-06-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mohawk Fiire Department",
+    "agencyPhoneNm": "3158663600",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3184"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Waste Treatment and Disposal ",
+          "naicsCd": "56221",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/56221"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3184"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3184"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3184"
+    }
+  }
+}

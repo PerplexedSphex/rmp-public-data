@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101144,
+  "epaFacId": "100000235248",
+  "facNm": "Kronospan LLC",
+  "parntCo1Nm": "Kronospan Inc.",
+  "facDunsNu": 80116781,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1 Kronospan Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Eastaboga",
+  "facStateCd": "AL",
+  "countyNm": "CALHOUN",
+  "facZipCd": "36260",
+  "facZip4Cd": null,
+  "receiptDa": "2022-06-13T00:00:00.000",
+  "facLatDecMs": "33.610823",
+  "facLongDecMs": "-85.974524",
+  "lepcNm": "Calhoun County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Spectrum Industrial Services",
+    "agencyPhoneNm": "2056642000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101144"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101144"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101144"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101144"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 16936,
+  "epaFacId": "100000160782",
+  "facNm": "Eagle Chemicals, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 72862535,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2550 Bobmeyer Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Hamilton",
+  "facStateCd": "OH",
+  "countyNm": "BUTLER",
+  "facZipCd": "45015",
+  "facZip4Cd": "1366",
+  "receiptDa": "1999-08-27T00:00:00.000",
+  "facLatDecMs": "39.365833",
+  "facLongDecMs": "-84.536944",
+  "lepcNm": "Butler County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-09-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Butler County EMA Director",
+    "agencyPhoneNm": "5138448020",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16936"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen chloride (anhydrous) [Hydrochloric acid]",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/54"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16936"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16936"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16936"
+    }
+  }
+}

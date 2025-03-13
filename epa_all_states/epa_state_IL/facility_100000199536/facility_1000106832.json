@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106832,
+  "epaFacId": "100000199536",
+  "facNm": "Dutch Farms, Inc.",
+  "parntCo1Nm": "",
+  "facDunsNu": 182163469,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "801 E. 107th St.",
+  "facStreet2Tx": "",
+  "facCityNm": "Chicago",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60628",
+  "facZip4Cd": "",
+  "receiptDa": "2023-08-29T00:00:00.000",
+  "facLatDecMs": "41.7133327",
+  "facLongDecMs": "-087.607754",
+  "lepcNm": "Cook County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chicago Fire Department",
+    "agencyPhoneNm": "3127476738",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106832"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106832"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106832"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106832"
+    }
+  }
+}

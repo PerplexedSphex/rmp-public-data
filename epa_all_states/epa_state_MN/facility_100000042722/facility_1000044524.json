@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000044524,
+  "epaFacId": "100000042722",
+  "facNm": "Seneca Foods Corp.-Proc Facility, Rochester, MN",
+  "parntCo1Nm": null,
+  "facDunsNu": 2207322,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1217 3rd Ave. S.E.",
+  "facStreet2Tx": null,
+  "facCityNm": "Rochester",
+  "facStateCd": "MN",
+  "countyNm": "OLMSTED",
+  "facZipCd": "55904",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-16T00:00:00.000",
+  "facLatDecMs": "44.006667",
+  "facLongDecMs": "-092.459167",
+  "lepcNm": "Olmsted County",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2018-10-24T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Rochester Fire Department",
+    "agencyPhoneNm": "5073282830",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044524"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Fruit, Juice, and Vegetable Manufacturing ",
+          "naicsCd": "311411",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311411"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044524"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044524"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044524"
+    }
+  }
+}

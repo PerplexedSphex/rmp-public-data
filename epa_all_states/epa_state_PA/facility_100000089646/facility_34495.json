@@ -1,0 +1,79 @@
+{
+  "facilityId": 34495,
+  "epaFacId": "100000089646",
+  "facNm": "DEAN DAIRY PRODUCTS CO.",
+  "parntCo1Nm": "DEAN FOODS NORTH EAST II, LLC",
+  "facDunsNu": 101589067,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1858 ONEIDA LANE",
+  "facStreet2Tx": null,
+  "facCityNm": "SHARPSVILLE",
+  "facStateCd": "PA",
+  "countyNm": "MERCER",
+  "facZipCd": "16150",
+  "facZip4Cd": "9638",
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "41.289167",
+  "facLongDecMs": "-080.485278",
+  "lepcNm": "Mercer County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mercer County LEPC",
+    "agencyPhoneNm": "7246626100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34495"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34495"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34495"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34495"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1197,
+  "epaFacId": "100000014076",
+  "facNm": "Simmons Foods",
+  "parntCo1Nm": "Simmons Foods",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "101 Stephen Taylor Dr.",
+  "facStreet2Tx": "P. O. Box 1570",
+  "facCityNm": "McAlester",
+  "facStateCd": "OK",
+  "countyNm": "PITTSBURG",
+  "facZipCd": "74501",
+  "facZip4Cd": null,
+  "receiptDa": "1999-05-26T00:00:00.000",
+  "facLatDecMs": "34.925",
+  "facLongDecMs": "-95.828889",
+  "lepcNm": "Pittsburg County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-05-20T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pittsburg Co. LEPC",
+    "agencyPhoneNm": "9184235655",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1197"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1197"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1197"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1197"
+    }
+  }
+}

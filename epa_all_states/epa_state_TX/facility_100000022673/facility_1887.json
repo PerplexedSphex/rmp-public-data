@@ -1,0 +1,79 @@
+{
+  "facilityId": 1887,
+  "epaFacId": "100000022673",
+  "facNm": "Miller Brewing Company (Fort Worth, TX)",
+  "parntCo1Nm": "Philip Morris",
+  "facDunsNu": 26445395,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "7001 South Freeway",
+  "facStreet2Tx": null,
+  "facCityNm": "Fort Worth",
+  "facStateCd": "TX",
+  "countyNm": "TARRANT",
+  "facZipCd": "76134",
+  "facZip4Cd": "4098",
+  "receiptDa": "1999-06-08T00:00:00.000",
+  "facLatDecMs": "32.644444",
+  "facLongDecMs": "-97.32",
+  "lepcNm": "Tarrant County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fort Worth Fire Department",
+    "agencyPhoneNm": "8178716800",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1887"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1887"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1887"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1887"
+    }
+  }
+}

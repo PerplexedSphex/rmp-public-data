@@ -1,0 +1,79 @@
+{
+  "facilityId": 35185,
+  "epaFacId": "100000139922",
+  "facNm": "Perdue Farms Inc. Dillon, SC Processing Plant",
+  "parntCo1Nm": "Perdue Farms Incorporated",
+  "facDunsNu": 789507647,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2047 Highway 9 West",
+  "facStreet2Tx": null,
+  "facCityNm": "Dillon",
+  "facStateCd": "SC",
+  "countyNm": "DILLON",
+  "facZipCd": "29536",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "34.460278",
+  "facLongDecMs": "-079.391389",
+  "lepcNm": "Dillon County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Disaster Preparedness",
+    "agencyPhoneNm": "8437741414",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35185"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Broilers and Other Meat Type Chicken Production",
+          "naicsCd": "11232",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11232"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35185"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35185"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35185"
+    }
+  }
+}

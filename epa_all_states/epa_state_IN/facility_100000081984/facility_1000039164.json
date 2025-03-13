@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000039164,
+  "epaFacId": "100000081984",
+  "facNm": "Alcoa Inc. Warrick Operations",
+  "parntCo1Nm": "Aloca Inc.",
+  "facDunsNu": 6366819,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "State Road 66",
+  "facStreet2Tx": null,
+  "facCityNm": "Newburgh",
+  "facStateCd": "IN",
+  "countyNm": "WARRICK",
+  "facZipCd": "47629",
+  "facZip4Cd": "0010",
+  "receiptDa": "2014-02-24T00:00:00.000",
+  "facLatDecMs": "37.920833",
+  "facLongDecMs": "-087.329444",
+  "lepcNm": "Warrick County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2019-02-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Warrick County Dispatch",
+    "agencyPhoneNm": "8128971200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039164"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Secondary Smelting and Alloying of Aluminum ",
+          "naicsCd": "331314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039164"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039164"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039164"
+    }
+  }
+}

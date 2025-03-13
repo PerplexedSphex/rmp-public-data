@@ -1,0 +1,79 @@
+{
+  "facilityId": 22711,
+  "epaFacId": "100000174232",
+  "facNm": "Houghton Chemical Plant",
+  "parntCo1Nm": "N/A",
+  "facDunsNu": 1024058,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "52 Cambridge Street",
+  "facStreet2Tx": "PO Box 307",
+  "facCityNm": "Allston(Boston)",
+  "facStateCd": "MA",
+  "countyNm": "SUFFOLK",
+  "facZipCd": "02134",
+  "facZip4Cd": null,
+  "receiptDa": "2001-02-07T00:00:00.000",
+  "facLatDecMs": "42.359167",
+  "facLongDecMs": "-71.119167",
+  "lepcNm": "Boston LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2006-03-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Boston Fire Department",
+    "agencyPhoneNm": "6173433550",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22711"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Wholesalers",
+          "naicsCd": "42269",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42269"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22711"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22711"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22711"
+    }
+  }
+}

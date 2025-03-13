@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000086729,
+  "epaFacId": "100000067492",
+  "facNm": "Purolite",
+  "parntCo1Nm": "Purolite Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3620 G Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Philadelphia",
+  "facStateCd": "PA",
+  "countyNm": "PHILADELPHIA",
+  "facZipCd": "19134",
+  "facZip4Cd": null,
+  "receiptDa": "2020-04-13T14:20:39.000",
+  "facLatDecMs": "40.003590",
+  "facLongDecMs": "-075.113990",
+  "lepcNm": "Philadelphia LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Philadelphia Fire Department",
+    "agencyPhoneNm": "2156858961",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086729"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Oleum (Fuming Sulfuric acid)  [Sulfuric acid, mixture with sulfur trioxide]",
+          "casNu": "8014-95-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/69"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086729"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086729"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086729"
+    }
+  }
+}

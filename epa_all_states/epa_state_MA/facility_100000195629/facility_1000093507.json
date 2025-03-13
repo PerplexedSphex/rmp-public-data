@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000093507,
+  "epaFacId": "100000195629",
+  "facNm": "Crystal Ice Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 1009026,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "178 Front Street",
+  "facStreet2Tx": null,
+  "facCityNm": "New Bedford",
+  "facStateCd": "MA",
+  "countyNm": "BRISTOL",
+  "facZipCd": "02740",
+  "facZip4Cd": null,
+  "receiptDa": "2021-04-29T11:35:54.000",
+  "facLatDecMs": "41.637028",
+  "facLongDecMs": "-070.921333",
+  "lepcNm": "SouthCoast REPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "New Bedford Fire Dept.",
+    "agencyPhoneNm": "5089934305",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093507"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Manufacturing ",
+          "naicsCd": "312113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/312113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093507"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093507"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093507"
+    }
+  }
+}

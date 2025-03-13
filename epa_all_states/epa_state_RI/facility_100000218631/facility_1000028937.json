@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000028937,
+  "epaFacId": "100000218631",
+  "facNm": "Cape Cod Ice",
+  "parntCo1Nm": null,
+  "facDunsNu": 175760040,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1 Noyes Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "East Providence",
+  "facStateCd": "RI",
+  "countyNm": "PROVIDENCE",
+  "facZipCd": "02916",
+  "facZip4Cd": null,
+  "receiptDa": "2012-07-02T00:00:00.000",
+  "facLatDecMs": "41.846756",
+  "facLongDecMs": "-71.367259",
+  "lepcNm": "District 5 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Local Fire Department",
+    "agencyPhoneNm": "4014357600",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028937"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Manufacturing ",
+          "naicsCd": "312113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/312113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028937"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028937"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028937"
+    }
+  }
+}

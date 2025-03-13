@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000045626,
+  "epaFacId": "100000053915",
+  "facNm": "USALCO Baltimore Plant, LLC",
+  "parntCo1Nm": "USALCO, LLC",
+  "facDunsNu": 3068228,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2601 Cannery Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Baltimore",
+  "facStateCd": "MD",
+  "countyNm": "BALTIMORE CITY",
+  "facZipCd": "21226",
+  "facZip4Cd": "1595",
+  "receiptDa": "2014-07-21T00:00:00.000",
+  "facLatDecMs": "39.230529",
+  "facLongDecMs": "-076.563630",
+  "lepcNm": "Baltimore City LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2015-12-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Baltimore City Fire Department",
+    "agencyPhoneNm": "4103965680",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045626"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Dimethylamine  [Methanamine, N-methyl-]",
+          "casNu": "124-40-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/133"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045626"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045626"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045626"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000080294,
+  "epaFacId": "100000062086",
+  "facNm": "Bellevue Milk and Ice Cream",
+  "parntCo1Nm": "Safeway Inc.",
+  "facDunsNu": 931956858,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1723 124th Avenue NE",
+  "facStreet2Tx": null,
+  "facCityNm": "Bellevue",
+  "facStateCd": "WA",
+  "countyNm": "KING",
+  "facZipCd": "98005",
+  "facZip4Cd": "2109",
+  "receiptDa": "2019-06-10T21:23:13.000",
+  "facLatDecMs": "47.625995",
+  "facLongDecMs": "-122.178490",
+  "lepcNm": "King County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Bellevue Fire Department",
+    "agencyPhoneNm": "4254526895",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080294"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        },
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080294"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080294"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080294"
+    }
+  }
+}

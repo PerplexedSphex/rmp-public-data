@@ -1,0 +1,79 @@
+{
+  "facilityId": 22116,
+  "epaFacId": "100000171592",
+  "facNm": "Compeq International",
+  "parntCo1Nm": "Compeq Manufacturing Co., Ltd., In Taiwan",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "620 N John Glenn Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Salt Lake City",
+  "facStateCd": "UT",
+  "countyNm": "SALT LAKE",
+  "facZipCd": "84116",
+  "facZip4Cd": null,
+  "receiptDa": "2000-08-21T00:00:00.000",
+  "facLatDecMs": "40.781667",
+  "facLongDecMs": "112.033333",
+  "lepcNm": "Salt Lake City LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-04-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Salt Lake City Fire Department",
+    "agencyPhoneNm": "8015965251",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22116"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Industrial Machinery Manufacturing",
+          "naicsCd": "333298",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/333298"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrochloric acid (conc 37% or greater)",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/53"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22116"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22116"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22116"
+    }
+  }
+}

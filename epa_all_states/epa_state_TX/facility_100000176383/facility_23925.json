@@ -1,0 +1,79 @@
+{
+  "facilityId": 23925,
+  "epaFacId": "100000176383",
+  "facNm": "Channel Energy Center",
+  "parntCo1Nm": "Calpine Central. L.P.",
+  "facDunsNu": 10198583,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "12000 Lawndale Street, Gate 8",
+  "facStreet2Tx": null,
+  "facCityNm": "Houston",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77017",
+  "facZip4Cd": null,
+  "receiptDa": "2001-08-09T00:00:00.000",
+  "facLatDecMs": "29.711667",
+  "facLongDecMs": "-95.226944",
+  "lepcNm": "Harris County/Houston LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Harris County/Houston LEPC",
+    "agencyPhoneNm": "7132223434",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23925"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23925"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23925"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23925"
+    }
+  }
+}

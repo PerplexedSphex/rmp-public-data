@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000081272,
+  "epaFacId": "100000150098",
+  "facNm": "Thatcher Company of New York",
+  "parntCo1Nm": null,
+  "facDunsNu": 785624636,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4135 RT 104",
+  "facStreet2Tx": "PO Box 118",
+  "facCityNm": "Williamson",
+  "facStateCd": "NY",
+  "countyNm": "WAYNE",
+  "facZipCd": "14589",
+  "facZip4Cd": null,
+  "receiptDa": "2019-07-12T00:00:00.000",
+  "facLatDecMs": "43.233889",
+  "facLongDecMs": "-077.184444",
+  "lepcNm": "Wayne County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2020-07-21T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wayne County Em. Mgt. LEPC",
+    "agencyPhoneNm": "3159465663",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081272"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081272"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081272"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000081272"
+    }
+  }
+}

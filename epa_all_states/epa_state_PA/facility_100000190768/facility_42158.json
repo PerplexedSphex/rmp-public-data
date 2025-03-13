@@ -1,0 +1,90 @@
+{
+  "facilityId": 42158,
+  "epaFacId": "100000190768",
+  "facNm": "Pfizer, Inc.",
+  "parntCo1Nm": "Pfizer, Inc.",
+  "facDunsNu": 1325919,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "400 W. Lincoln Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Lititz",
+  "facStateCd": "PA",
+  "countyNm": "LANCASTER",
+  "facZipCd": "17543",
+  "facZip4Cd": null,
+  "receiptDa": "2004-10-15T00:00:00.000",
+  "facLatDecMs": "40.160610",
+  "facLongDecMs": "-076.317389",
+  "lepcNm": "Lancaster County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2016-07-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lancaster Emergency Management",
+    "agencyPhoneNm": "7176641200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42158"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Pharmaceutical Preparation Manufacturing ",
+          "naicsCd": "325412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isobutane  [Propane, 2-methyl]",
+          "casNu": "75-28-5",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/107"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42158"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42158"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42158"
+    }
+  }
+}

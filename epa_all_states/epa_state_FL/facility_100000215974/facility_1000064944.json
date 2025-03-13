@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000064944,
+  "epaFacId": "100000215974",
+  "facNm": "Lineage Logistics, South Florida",
+  "parntCo1Nm": "Lineage Logistics, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "12855 NW 113th Court",
+  "facStreet2Tx": null,
+  "facCityNm": "MIami",
+  "facStateCd": "FL",
+  "countyNm": "MIAMI-DADE",
+  "facZipCd": "33178",
+  "facZip4Cd": null,
+  "receiptDa": "2019-11-11T12:01:57.000",
+  "facLatDecMs": "25.8902000",
+  "facLongDecMs": "-80.3753333",
+  "lepcNm": "District 11 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Miami-Dade County Fire Rescue Dept.",
+    "agencyPhoneNm": "7863315000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000064944"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000064944"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000064944"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000064944"
+    }
+  }
+}

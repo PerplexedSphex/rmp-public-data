@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000009037,
+  "epaFacId": "100000060033",
+  "facNm": "Dolco Packaging - Decatur",
+  "parntCo1Nm": "Tekni-Plex, Inc.",
+  "facDunsNu": 56034572,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2110 Patterson Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Decatur",
+  "facStateCd": "IN",
+  "countyNm": "ADAMS",
+  "facZipCd": "46733",
+  "facZip4Cd": "5005",
+  "receiptDa": "2009-06-22T00:00:00.000",
+  "facLatDecMs": "40.825000",
+  "facLongDecMs": "-084.947778",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Decatur Fire Department",
+    "agencyPhoneNm": "2197248909",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009037"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Polystyrene Foam Product Manufacturing",
+          "naicsCd": "32614",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32614"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009037"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009037"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009037"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 7848,
+  "epaFacId": "100000102355",
+  "facNm": "Diaz Chemical Corporation",
+  "parntCo1Nm": null,
+  "facDunsNu": 67532580,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "40 Jackson Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Holley",
+  "facStateCd": "NY",
+  "countyNm": "ORLEANS",
+  "facZipCd": "14470",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "43.220833",
+  "facLongDecMs": "-78.0275",
+  "lepcNm": "Orleans County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2006-03-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Holley Fire Dept.",
+    "agencyPhoneNm": "7166386611",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7848"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cyclic Crude and Intermediate Manufacturing",
+          "naicsCd": "325192",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325192"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Bromine",
+          "casNu": "7726-95-6",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/60"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7848"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7848"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7848"
+    }
+  }
+}

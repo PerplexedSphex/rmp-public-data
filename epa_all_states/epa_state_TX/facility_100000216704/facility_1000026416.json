@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000026416,
+  "epaFacId": "100000216704",
+  "facNm": "Taylor Farms Texas, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 123760758,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1001 N. Cockrell Hill Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Dallas",
+  "facStateCd": "TX",
+  "countyNm": "DALLAS",
+  "facZipCd": "75211",
+  "facZip4Cd": null,
+  "receiptDa": "2012-04-19T00:00:00.000",
+  "facLatDecMs": "32.751026",
+  "facLongDecMs": "-96.892816",
+  "lepcNm": "Dallas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "lepc",
+    "agencyPhoneNm": "2147498641",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026416"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fruit and Vegetable Canning, Pickling, and Drying",
+          "naicsCd": "31142",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31142"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026416"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026416"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026416"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 40197,
+  "epaFacId": "100000094391",
+  "facNm": "CF Industries, Inc. Tampa Terminal",
+  "parntCo1Nm": "CF Industries, Inc.",
+  "facDunsNu": 10519445,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3222 Maritime Boulevard",
+  "facStreet2Tx": null,
+  "facCityNm": "Tampa",
+  "facStateCd": "FL",
+  "countyNm": "HILLSBOROUGH",
+  "facZipCd": "33605",
+  "facZip4Cd": null,
+  "receiptDa": "2004-09-02T00:00:00.000",
+  "facLatDecMs": "27.917222",
+  "facLongDecMs": "-082.439167",
+  "lepcNm": "District 8 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tampa Fire Department",
+    "agencyPhoneNm": "8132425384",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40197"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Port and Harbor Operations",
+          "naicsCd": "48831",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48831"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40197"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40197"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40197"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000046519,
+  "epaFacId": "100000219827",
+  "facNm": "CHS Propane Terminal - Biddeford",
+  "parntCo1Nm": "CHS Inc.",
+  "facDunsNu": 6147177,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "24 Pomerleau Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Biddeford",
+  "facStateCd": "ME",
+  "countyNm": "YORK",
+  "facZipCd": "04005",
+  "facZip4Cd": null,
+  "receiptDa": "2015-11-25T00:00:00.000",
+  "facLatDecMs": "43.484336",
+  "facLongDecMs": "-70.480825",
+  "lepcNm": "York County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2023-12-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Biddeford Fire Department",
+    "agencyPhoneNm": "2072826632",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046519"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046519"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046519"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046519"
+    }
+  }
+}

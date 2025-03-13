@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000091102,
+  "epaFacId": "100000201676",
+  "facNm": "Quaker City Chemicals",
+  "parntCo1Nm": null,
+  "facDunsNu": 59013128,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7360 Milnor Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Philadelphia",
+  "facStateCd": "PA",
+  "countyNm": "PHILADELPHIA",
+  "facZipCd": "19136",
+  "facZip4Cd": null,
+  "receiptDa": "2020-12-01T11:21:30.000",
+  "facLatDecMs": "40.024810",
+  "facLongDecMs": "-075.028240",
+  "lepcNm": "Philadelphia LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Philadelphia Emergency Management",
+    "agencyPhoneNm": "2159315608",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091102"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethylenediamine  [1,2-Ethanediamine]",
+          "casNu": "107-15-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/26"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091102"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091102"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091102"
+    }
+  }
+}

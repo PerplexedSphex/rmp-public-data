@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000006656,
+  "epaFacId": "100000067009",
+  "facNm": "Hill Brothers Chemical Co. - Salt Lake City",
+  "parntCo1Nm": "Hill Brothers Chemical Co.",
+  "facDunsNu": 56599178,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "75 North 640 West Street",
+  "facStreet2Tx": null,
+  "facCityNm": "North Salt Lake",
+  "facStateCd": "UT",
+  "countyNm": "DAVIS",
+  "facZipCd": "84054",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-18T00:00:00.000",
+  "facLatDecMs": "40.844167",
+  "facLongDecMs": "-111.926111",
+  "lepcNm": "Davis County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-12-20T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "South Davis Fire Dept",
+    "agencyPhoneNm": "8019363880",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006656"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Merchant Wholesalers ",
+          "naicsCd": "42469",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42469"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006656"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006656"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006656"
+    }
+  }
+}

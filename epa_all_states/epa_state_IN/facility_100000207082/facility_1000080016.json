@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080016,
+  "epaFacId": "100000207082",
+  "facNm": "DOT Foods, Inc. (Cambridge City, IN)",
+  "parntCo1Nm": "DOT Foods, Inc.",
+  "facDunsNu": 813581501,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "14600 Gateway Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Cambridge City",
+  "facStateCd": "IN",
+  "countyNm": "WAYNE",
+  "facZipCd": "47327",
+  "facZip4Cd": null,
+  "receiptDa": "2019-06-06T16:11:30.000",
+  "facLatDecMs": "39.850846",
+  "facLongDecMs": "-85.150802",
+  "lepcNm": "Wayne County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cambridge City Fire Department",
+    "agencyPhoneNm": "7659739355",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080016"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080016"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080016"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080016"
+    }
+  }
+}

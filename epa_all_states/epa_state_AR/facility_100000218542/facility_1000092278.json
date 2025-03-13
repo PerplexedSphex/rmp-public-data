@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000092278,
+  "epaFacId": "100000218542",
+  "facNm": "Turk Power Plant",
+  "parntCo1Nm": "SWEPCO",
+  "facDunsNu": 847178055,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3711 Highway 355 S",
+  "facStreet2Tx": "",
+  "facCityNm": "Fulton",
+  "facStateCd": "AR",
+  "countyNm": "HEMPSTEAD",
+  "facZipCd": "71838",
+  "facZip4Cd": "",
+  "receiptDa": "2021-03-08T00:00:00.000",
+  "facLatDecMs": "33.652587",
+  "facLongDecMs": "-93.810368",
+  "lepcNm": "Hempstead County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hempstead County OEM",
+    "agencyPhoneNm": "8707225408",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092278"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092278"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092278"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092278"
+    }
+  }
+}

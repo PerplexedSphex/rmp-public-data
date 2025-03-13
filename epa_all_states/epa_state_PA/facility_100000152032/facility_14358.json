@@ -1,0 +1,79 @@
+{
+  "facilityId": 14358,
+  "epaFacId": "100000152032",
+  "facNm": "Triple Seven Warehouse, Inc.",
+  "parntCo1Nm": "N/A",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "777 Pattison Avenue",
+  "facStreet2Tx": "in between 7th and Darien St.",
+  "facCityNm": "Philadelphia",
+  "facStateCd": "PA",
+  "countyNm": "PHILADELPHIA",
+  "facZipCd": "19148",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-28T00:00:00.000",
+  "facLatDecMs": "-39.903917",
+  "facLongDecMs": "-75.163444",
+  "lepcNm": "Philadelphia LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2003-08-07T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Philadelphia Fire Department",
+    "agencyPhoneNm": "2153314097",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14358"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14358"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14358"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14358"
+    }
+  }
+}

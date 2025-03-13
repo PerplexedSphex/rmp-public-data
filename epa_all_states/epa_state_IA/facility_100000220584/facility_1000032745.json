@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000032745,
+  "epaFacId": "100000220584",
+  "facNm": "Pro-V Packing",
+  "parntCo1Nm": "Nor-Am Cold Storage",
+  "facDunsNu": 123648383,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "801 6th Street S W",
+  "facStreet2Tx": null,
+  "facCityNm": "LeMars",
+  "facStateCd": "IA",
+  "countyNm": "PLYMOUTH",
+  "facZipCd": "51031",
+  "facZip4Cd": null,
+  "receiptDa": "2013-02-04T00:00:00.000",
+  "facLatDecMs": "42.786508",
+  "facLongDecMs": "-96.178963",
+  "lepcNm": "Plymouth County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Plymouth County Emergency Managemen",
+    "agencyPhoneNm": "7125462701",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032745"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032745"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032745"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032745"
+    }
+  }
+}

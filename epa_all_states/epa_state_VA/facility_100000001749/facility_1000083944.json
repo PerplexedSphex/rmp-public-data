@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000083944,
+  "epaFacId": "100000001749",
+  "facNm": "Americold- Chesapeake",
+  "parntCo1Nm": "Americold",
+  "facDunsNu": 58001596,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1229 Fleetway Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Chesapeake",
+  "facStateCd": "VA",
+  "countyNm": "CHESAPEAKE (CITY)",
+  "facZipCd": "23323",
+  "facZip4Cd": "",
+  "receiptDa": "2020-01-22T00:00:00.000",
+  "facLatDecMs": "36.780090",
+  "facLongDecMs": "-076.371590",
+  "lepcNm": " Chesapeake LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Virginia Emergency Response Council",
+    "agencyPhoneNm": "8005350207",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083944"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083944"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083944"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083944"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000088327,
+  "epaFacId": "100000150739",
+  "facNm": "Carl Buddig and Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 5204631,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "50 West Taft Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "South Holland",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60473",
+  "facZip4Cd": null,
+  "receiptDa": "2020-09-21T15:25:28.000",
+  "facLatDecMs": "41.5947222",
+  "facLongDecMs": "-087.619722",
+  "lepcNm": "Cook County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "South Holland Fire Department/LEPC",
+    "agencyPhoneNm": "7088654766",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088327"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088327"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088327"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000088327"
+    }
+  }
+}

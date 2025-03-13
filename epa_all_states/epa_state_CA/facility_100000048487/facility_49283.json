@@ -1,0 +1,90 @@
+{
+  "facilityId": 49283,
+  "epaFacId": "100000048487",
+  "facNm": "Stratford Growers, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 7969215,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "19813 Madison Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Stratford",
+  "facStateCd": "CA",
+  "countyNm": "KINGS",
+  "facZipCd": "93266",
+  "facZip4Cd": "0068",
+  "receiptDa": "2007-08-21T00:00:00.000",
+  "facLatDecMs": "36.100090",
+  "facLongDecMs": "-119.484420",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2017-04-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kings County Fire Department",
+    "agencyPhoneNm": "5595823211",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49283"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Cotton Farming",
+          "naicsCd": "11192",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11192"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49283"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49283"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49283"
+    }
+  }
+}

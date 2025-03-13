@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000000808,
+  "epaFacId": "100000206911",
+  "facNm": "Rinchem Company Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 2208627,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "23650 NW Huffman Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Hillsboro",
+  "facStateCd": "OR",
+  "countyNm": "WASHINGTON",
+  "facZipCd": "97124",
+  "facZip4Cd": null,
+  "receiptDa": "2009-08-10T00:00:00.000",
+  "facLatDecMs": "45.332266",
+  "facLongDecMs": "-122.74331",
+  "lepcNm": "Tualatin Valley Fire Dept. ",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-03-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tualatin Valley Fire and Rescue ",
+    "agencyPhoneNm": "5036816166",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000808"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "General Freight Trucking, Local",
+          "naicsCd": "48411",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48411"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000808"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000808"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000808"
+    }
+  }
+}

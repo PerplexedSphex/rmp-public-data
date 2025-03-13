@@ -1,0 +1,79 @@
+{
+  "facilityId": 49791,
+  "epaFacId": "100000200169",
+  "facNm": "ADM Milling Company Lincoln, NE",
+  "parntCo1Nm": "Archer Daniels Midland Co.",
+  "facDunsNu": 61536199,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "540 South Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Lincoln",
+  "facStateCd": "NE",
+  "countyNm": "LANCASTER",
+  "facZipCd": "68502",
+  "facZip4Cd": null,
+  "receiptDa": "2007-09-24T00:00:00.000",
+  "facLatDecMs": "40.791667",
+  "facLongDecMs": "-096.713611",
+  "lepcNm": "Lancaster County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-06-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lincoln Fire Dept. & Rescue",
+    "agencyPhoneNm": "4024418494",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49791"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling and Malt Manufacturing",
+          "naicsCd": "31121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49791"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49791"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49791"
+    }
+  }
+}

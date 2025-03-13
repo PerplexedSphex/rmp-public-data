@@ -1,0 +1,79 @@
+{
+  "facilityId": 18420,
+  "epaFacId": "100000126124",
+  "facNm": "JCI Jones Chemicals, Inc. Merrimack Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 52016540,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "40 Railroad Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Merrimack",
+  "facStateCd": "NH",
+  "countyNm": "HILLSBOROUGH",
+  "facZipCd": "03054",
+  "facZip4Cd": "1089",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "42.857222",
+  "facLongDecMs": "-71.488333",
+  "lepcNm": "Merrimack Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Merrimack Fire Department",
+    "agencyPhoneNm": "6034243690",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18420"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Alkalies and Chlorine Manufacturing",
+          "naicsCd": "325181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18420"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18420"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18420"
+    }
+  }
+}

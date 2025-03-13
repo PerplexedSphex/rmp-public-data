@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000114537,
+  "epaFacId": "100000058625",
+  "facNm": "Michigan Dairy",
+  "parntCo1Nm": "The Kroger Company",
+  "facDunsNu": 137624404,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "29601 Industrial Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Livonia",
+  "facStateCd": "MI",
+  "countyNm": "WAYNE",
+  "facZipCd": "48150",
+  "facZip4Cd": "",
+  "receiptDa": "2024-06-05T00:00:00.000",
+  "facLatDecMs": "42.380389",
+  "facLongDecMs": "-083.338778",
+  "lepcNm": "Wayne County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Livonia Fire Department",
+    "agencyPhoneNm": "7344662444",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114537"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114537"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114537"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114537"
+    }
+  }
+}

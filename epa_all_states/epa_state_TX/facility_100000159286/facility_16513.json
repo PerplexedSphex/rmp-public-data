@@ -1,0 +1,90 @@
+{
+  "facilityId": 16513,
+  "epaFacId": "100000159286",
+  "facNm": "Fina Oil and Chemical Port Arthur Refinery",
+  "parntCo1Nm": "Fina Oil and Chemical Company",
+  "facDunsNu": 1329077,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Hwy 366 & 32nd Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Port Arthur",
+  "facStateCd": "TX",
+  "countyNm": "JEFFERSON",
+  "facZipCd": "77642",
+  "facZip4Cd": null,
+  "receiptDa": "1999-08-19T00:00:00.000",
+  "facLatDecMs": "29.963889",
+  "facLongDecMs": "-93.887222",
+  "lepcNm": "Jefferson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Texas General Land Office",
+    "agencyPhoneNm": "4097277481",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16513"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Refineries",
+          "naicsCd": "32411",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32411"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16513"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16513"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16513"
+    }
+  }
+}

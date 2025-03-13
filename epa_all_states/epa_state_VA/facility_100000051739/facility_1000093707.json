@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000093707,
+  "epaFacId": "100000051739",
+  "facNm": "George's Food LLC. , HARRISONBURG, VA.",
+  "parntCo1Nm": "George's Food LLC",
+  "facDunsNu": 804587004,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "501 N. LIBERTY ST.",
+  "facStreet2Tx": null,
+  "facCityNm": "HARRISONBURG",
+  "facStateCd": "VA",
+  "countyNm": "ROCKINGHAM",
+  "facZipCd": "22802",
+  "facZip4Cd": null,
+  "receiptDa": "2021-05-17T17:47:56.000",
+  "facLatDecMs": "38.455705",
+  "facLongDecMs": "-078.868905",
+  "lepcNm": "Harrisonburg Joint LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "REGIONAL HAZMAT RESPONSE TEAM",
+    "agencyPhoneNm": "5404346452",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093707"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093707"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093707"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093707"
+    }
+  }
+}

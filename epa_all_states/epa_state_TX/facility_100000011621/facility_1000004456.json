@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000004456,
+  "epaFacId": "100000011621",
+  "facNm": "Welsh Power Plant",
+  "parntCo1Nm": "Southwestern Electric Power Co.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Rt. 4 Box 221",
+  "facStreet2Tx": "1187 CR 4865",
+  "facCityNm": "Pittsburg",
+  "facStateCd": "TX",
+  "countyNm": "TITUS",
+  "facZipCd": "75686",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-17T00:00:00.000",
+  "facLatDecMs": "33.055000",
+  "facLongDecMs": "-094.840278",
+  "lepcNm": "Mount Pleasant Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2010-09-24T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mount Pleasant Fire Department",
+    "agencyPhoneNm": "9035754167",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004456"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004456"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004456"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004456"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000042130,
+  "epaFacId": "100000098002",
+  "facNm": "Glasgow Wastewater Treatment Plant",
+  "parntCo1Nm": "Glasgow Water Company",
+  "facDunsNu": 156253999,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "705 Glenn Garry Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Glasgow",
+  "facStateCd": "KY",
+  "countyNm": "BARREN",
+  "facZipCd": "42141",
+  "facZip4Cd": null,
+  "receiptDa": "2014-05-13T00:00:00.000",
+  "facLatDecMs": "36.983611",
+  "facLongDecMs": "-085.957222",
+  "lepcNm": "Barren County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-09-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Glasgow Fire Department",
+    "agencyPhoneNm": "2706515170",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042130"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042130"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042130"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042130"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 20001,
+  "epaFacId": "100000157661",
+  "facNm": "Highwood Plant",
+  "parntCo1Nm": "Kernaghan's Service Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "North Bench Road",
+  "facStreet2Tx": null,
+  "facCityNm": "N. of Highwood",
+  "facStateCd": "MT",
+  "countyNm": "CHOUTEAU",
+  "facZipCd": "59450",
+  "facZip4Cd": null,
+  "receiptDa": "1999-08-02T00:00:00.000",
+  "facLatDecMs": "47.634167",
+  "facLongDecMs": "-110.7925",
+  "lepcNm": "Linda Williams",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2007-03-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Haz Mat Response Inc.",
+    "agencyPhoneNm": "8002295252",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20001"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Other Direct Selling Establishments",
+          "naicsCd": "45439",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/45439"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20001"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20001"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20001"
+    }
+  }
+}

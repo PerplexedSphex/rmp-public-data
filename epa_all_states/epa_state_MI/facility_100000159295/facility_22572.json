@@ -1,0 +1,79 @@
+{
+  "facilityId": 22572,
+  "epaFacId": "100000159295",
+  "facNm": "Patterson Laboratories, Inc",
+  "parntCo1Nm": "JJAM",
+  "facDunsNu": 5352711,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "11930 Pleasant Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Detroit",
+  "facStateCd": "MI",
+  "countyNm": "WAYNE",
+  "facZipCd": "48217",
+  "facZip4Cd": null,
+  "receiptDa": "1999-07-06T00:00:00.000",
+  "facLatDecMs": "42.271111",
+  "facLongDecMs": "-83.135556",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2011-08-03T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "City of Detroit Fire",
+    "agencyPhoneNm": "3139620400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22572"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22572"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22572"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22572"
+    }
+  }
+}

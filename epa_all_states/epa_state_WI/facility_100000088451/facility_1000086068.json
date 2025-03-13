@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000086068,
+  "epaFacId": "100000088451",
+  "facNm": "Solenis, LLC - Milwaukee Plant",
+  "parntCo1Nm": "Solenis, LLC ",
+  "facDunsNu": 6106744,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5228 N. Hopkins Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Milwaukee",
+  "facStateCd": "WI",
+  "countyNm": "MILWAUKEE",
+  "facZipCd": "53209",
+  "facZip4Cd": "4634",
+  "receiptDa": "2020-03-20T10:52:15.000",
+  "facLatDecMs": "43.112500",
+  "facLongDecMs": "-087.963056",
+  "lepcNm": "Milwaukee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Milwaukee Fire and HAZMAT",
+    "agencyPhoneNm": "4142868948",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086068"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Epichlorohydrin  [Oxirane, (chloromethyl)-]",
+          "casNu": "106-89-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/21"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086068"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086068"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086068"
+    }
+  }
+}

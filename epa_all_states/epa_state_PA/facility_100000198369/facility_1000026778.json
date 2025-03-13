@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000026778,
+  "epaFacId": "100000198369",
+  "facNm": "City Brewing Company, LLC",
+  "parntCo1Nm": "City Brewing Company, LLC",
+  "facDunsNu": 196889963,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "100 33rd Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Latrobe",
+  "facStateCd": "PA",
+  "countyNm": "WESTMORELAND",
+  "facZipCd": "15650",
+  "facZip4Cd": null,
+  "receiptDa": "2012-03-08T00:00:00.000",
+  "facLatDecMs": "40.320370",
+  "facLongDecMs": "-079.390100",
+  "lepcNm": "Westmoreland County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Westmorland Emergency",
+    "agencyPhoneNm": "7248303800",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026778"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026778"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026778"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026778"
+    }
+  }
+}

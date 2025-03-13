@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000041774,
+  "epaFacId": "100000189752",
+  "facNm": "Taft, TX 5001",
+  "parntCo1Nm": "Nutrien Ag Solutions",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "103 Davis Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Taft",
+  "facStateCd": "TX",
+  "countyNm": "SAN PATRICIO",
+  "facZipCd": "78390",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-11T00:00:00.000",
+  "facLatDecMs": "27.978696",
+  "facLongDecMs": "-97.400391",
+  "lepcNm": "San Patricio County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "LEPC",
+    "agencyPhoneNm": "3613649650",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041774"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Phosphatic Fertilizer Manufacturing ",
+          "naicsCd": "325312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041774"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041774"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041774"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000037781,
+  "epaFacId": "100000051463",
+  "facNm": "OMNOVA Solutions Inc. - Calhoun Latex Plant",
+  "parntCo1Nm": "OMNOVA Solutions Inc.",
+  "facDunsNu": 894686180,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1601 Highway 41 S.W.",
+  "facStreet2Tx": null,
+  "facCityNm": "Calhoun",
+  "facStateCd": "GA",
+  "countyNm": "GORDON",
+  "facZipCd": "30701",
+  "facZip4Cd": "3651",
+  "receiptDa": "2016-01-29T00:00:00.000",
+  "facLatDecMs": "34.464722",
+  "facLongDecMs": "-084.935000",
+  "lepcNm": "Gordon County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-06-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Gordon County Fire Department",
+    "agencyPhoneNm": "7066298851",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037781"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Synthetic Rubber Manufacturing ",
+          "naicsCd": "325212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "1,3-Butadiene",
+          "casNu": "106-99-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/120"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037781"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037781"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037781"
+    }
+  }
+}

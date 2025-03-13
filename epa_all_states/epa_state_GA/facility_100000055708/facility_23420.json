@@ -1,0 +1,88 @@
+{
+  "facilityId": 23420,
+  "epaFacId": "100000055708",
+  "facNm": "West Oak Plant",
+  "parntCo1Nm": "Vinings Industries, Inc.",
+  "facDunsNu": 48713697,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1654 West Oak Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Marietta",
+  "facStateCd": "GA",
+  "countyNm": "COBB",
+  "facZipCd": "30062",
+  "facZip4Cd": null,
+  "receiptDa": "2001-05-04T00:00:00.000",
+  "facLatDecMs": "33.991667",
+  "facLongDecMs": "-84.528333",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2002-06-28T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cobb County Fire & Emergency Serv.",
+    "agencyPhoneNm": "7705288000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23420"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Waste Treatment and Disposal ",
+          "naicsCd": "56221",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/56221"
+            }
+          }
+        },
+        {
+          "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+          "naicsCd": "325998",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325998"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23420"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23420"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23420"
+    }
+  }
+}

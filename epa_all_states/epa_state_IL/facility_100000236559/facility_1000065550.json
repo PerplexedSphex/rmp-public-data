@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000065550,
+  "epaFacId": "100000236559",
+  "facNm": "Gateway FS, Inc. - Baldwin",
+  "parntCo1Nm": "Gateway FS, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "10357 Riverview Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Red Bud",
+  "facStateCd": "IL",
+  "countyNm": "RANDOLPH",
+  "facZipCd": "62278",
+  "facZip4Cd": null,
+  "receiptDa": "2018-01-03T00:00:00.000",
+  "facLatDecMs": "38.188824",
+  "facLongDecMs": "-89.896753",
+  "lepcNm": "Randolph County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Randolph County ESDA",
+    "agencyPhoneNm": "6188265000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000065550"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "All Other Crop Farming",
+          "naicsCd": "11199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000065550"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000065550"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000065550"
+    }
+  }
+}

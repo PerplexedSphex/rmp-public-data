@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000011209,
+  "epaFacId": "100000203415",
+  "facNm": "Mankato Terminal & Storage",
+  "parntCo1Nm": "Magellan Ammonia Pipeline, L.P.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "16076 US Highway 169",
+  "facStreet2Tx": null,
+  "facCityNm": "Garden City",
+  "facStateCd": "MN",
+  "countyNm": "BLUE EARTH",
+  "facZipCd": "56034",
+  "facZip4Cd": null,
+  "receiptDa": "2009-10-23T00:00:00.000",
+  "facLatDecMs": "44.014194",
+  "facLongDecMs": "-094.173013",
+  "lepcNm": "Blue Earth County Emerg. Mgmt.",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-06-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Blue Earth County Emerg. Mgmt.",
+    "agencyPhoneNm": "5073878779",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011209"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Pipeline Transportation",
+          "naicsCd": "48699",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48699"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011209"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011209"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011209"
+    }
+  }
+}

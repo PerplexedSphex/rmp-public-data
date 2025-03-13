@@ -1,0 +1,79 @@
+{
+  "facilityId": 20134,
+  "epaFacId": "100000008494",
+  "facNm": "IBP, inc.",
+  "parntCo1Nm": "IBP, inc.",
+  "facDunsNu": 23769169,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2125 South County Road 125W",
+  "facStreet2Tx": null,
+  "facCityNm": "Logansport",
+  "facStateCd": "IN",
+  "countyNm": "CASS",
+  "facZipCd": "46947",
+  "facZip4Cd": null,
+  "receiptDa": "2000-01-31T00:00:00.000",
+  "facLatDecMs": "40.765556",
+  "facLongDecMs": "-86.391667",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Local Emergency Planning Commission",
+    "agencyPhoneNm": "2197222484",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20134"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal (except Poultry) Slaughtering ",
+          "naicsCd": "311611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20134"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20134"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20134"
+    }
+  }
+}

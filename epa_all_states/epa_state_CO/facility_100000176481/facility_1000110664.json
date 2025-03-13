@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000110664,
+  "epaFacId": "100000176481",
+  "facNm": "Sinton Dairy Food's Comp. L.L.C.",
+  "parntCo1Nm": "LALA U.S.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3801 N. Sinton Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Colorado Springs",
+  "facStateCd": "CO",
+  "countyNm": "EL PASO",
+  "facZipCd": "80907",
+  "facZip4Cd": "",
+  "receiptDa": "2024-02-23T00:00:00.000",
+  "facLatDecMs": "38.885997",
+  "facLongDecMs": "-104.832955",
+  "lepcNm": "Colorado Springs LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2024-12-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Colorado Springs Fire Department",
+    "agencyPhoneNm": "7193855950",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110664"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110664"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110664"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110664"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000037476,
+  "epaFacId": "100000087595",
+  "facNm": "SAFT America, Inc.",
+  "parntCo1Nm": "SAFT America, Inc.",
+  "facDunsNu": 63152573,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "313 CRESCENT STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "VALDESE",
+  "facStateCd": "NC",
+  "countyNm": "BURKE",
+  "facZipCd": "28690",
+  "facZip4Cd": null,
+  "receiptDa": "2013-11-19T00:00:00.000",
+  "facLatDecMs": "35.765910",
+  "facLongDecMs": "-081.555000",
+  "lepcNm": "Burke County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Valdese Fire Department",
+    "agencyPhoneNm": "8288742121",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037476"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Battery Manufacturing",
+          "naicsCd": "33591",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33591"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037476"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037476"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037476"
+    }
+  }
+}

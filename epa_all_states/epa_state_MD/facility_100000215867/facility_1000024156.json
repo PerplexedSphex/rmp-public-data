@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000024156,
+  "epaFacId": "100000215867",
+  "facNm": "Kemira Water Solutions, Inc.",
+  "parntCo1Nm": "Kemira Chemicals, Inc.",
+  "facDunsNu": 33870585,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3925 Fort Armistead Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Baltimore",
+  "facStateCd": "MD",
+  "countyNm": "BALTIMORE CITY",
+  "facZipCd": "21226",
+  "facZip4Cd": null,
+  "receiptDa": "2011-10-17T00:00:00.000",
+  "facLatDecMs": "39.2080",
+  "facLongDecMs": "-76.5429",
+  "lepcNm": "Baltimore City LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mayor's Office of Emergency Mngmnt.",
+    "agencyPhoneNm": "4103966188",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024156"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024156"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024156"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024156"
+    }
+  }
+}

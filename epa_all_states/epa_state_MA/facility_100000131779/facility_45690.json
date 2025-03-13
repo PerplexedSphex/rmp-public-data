@@ -1,0 +1,79 @@
+{
+  "facilityId": 45690,
+  "epaFacId": "100000131779",
+  "facNm": "MATHESON TRI-GAS, INC. - GLOUCESTER",
+  "parntCo1Nm": "NIPPON SANSO CORP.",
+  "facDunsNu": 179092028,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "61 GROVE STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "GLOUCESTER",
+  "facStateCd": "MA",
+  "countyNm": "ESSEX",
+  "facZipCd": "01930",
+  "facZip4Cd": null,
+  "receiptDa": "2004-04-09T00:00:00.000",
+  "facLatDecMs": "42.622222",
+  "facLongDecMs": "-070.666667",
+  "lepcNm": "Gloucester LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-06-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Gloucester Fire Department",
+    "agencyPhoneNm": "9782832424",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45690"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen chloride (anhydrous) [Hydrochloric acid]",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/54"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45690"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45690"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45690"
+    }
+  }
+}

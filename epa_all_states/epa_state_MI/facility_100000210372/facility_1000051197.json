@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000051197,
+  "epaFacId": "100000210372",
+  "facNm": "Woodworth Inc. Flint",
+  "parntCo1Nm": null,
+  "facDunsNu": 26140644,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4201 Peir North Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Flint",
+  "facStateCd": "MI",
+  "countyNm": "GENESEE",
+  "facZipCd": "48504",
+  "facZip4Cd": null,
+  "receiptDa": "2015-08-19T00:00:00.000",
+  "facLatDecMs": "43.068745",
+  "facLongDecMs": "-083.766601",
+  "lepcNm": "Genesee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mount Morris Fire Department",
+    "agencyPhoneNm": "8107877190",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051197"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Metal Heat Treating ",
+          "naicsCd": "332811",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332811"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051197"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051197"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051197"
+    }
+  }
+}

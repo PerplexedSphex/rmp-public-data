@@ -1,0 +1,90 @@
+{
+  "facilityId": 21325,
+  "epaFacId": "100000169667",
+  "facNm": "Global Octanes Corporation",
+  "parntCo1Nm": "Global Octanes, Texas L.P.",
+  "facDunsNu": 622024495,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2621 Tidal Road",
+  "facStreet2Tx": "P.O. Box 190",
+  "facCityNm": "Deer Park",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77536",
+  "facZip4Cd": "0190",
+  "receiptDa": "2000-05-25T00:00:00.000",
+  "facLatDecMs": "29.736389",
+  "facLongDecMs": "-95.096389",
+  "lepcNm": "Harris County-Deer Park Area L",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Deer Park LEPC",
+    "agencyPhoneNm": "2814792394",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21325"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petrochemical Manufacturing",
+          "naicsCd": "32511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isobutane  [Propane, 2-methyl]",
+          "casNu": "75-28-5",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/107"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21325"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21325"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21325"
+    }
+  }
+}

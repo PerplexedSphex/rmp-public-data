@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000023040,
+  "epaFacId": "100000173796",
+  "facNm": "Nestle Dreyers Ice Cream",
+  "parntCo1Nm": "Nestle, Inc.",
+  "facDunsNu": 133509237,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "850 East 2100 South",
+  "facStreet2Tx": null,
+  "facCityNm": "Salt Lake City",
+  "facStateCd": "UT",
+  "countyNm": "SALT LAKE",
+  "facZipCd": "84106",
+  "facZip4Cd": null,
+  "receiptDa": "2011-07-14T00:00:00.000",
+  "facLatDecMs": "40.725048",
+  "facLongDecMs": "-111.866333",
+  "lepcNm": "Salt Lake City LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-04-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Salt Lake County Fire Dept. / LEPC",
+    "agencyPhoneNm": "8017437100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023040"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023040"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023040"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023040"
+    }
+  }
+}

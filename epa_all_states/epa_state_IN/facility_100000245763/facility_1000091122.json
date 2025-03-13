@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000091122,
+  "epaFacId": "100000245763",
+  "facNm": "Main Street",
+  "parntCo1Nm": "Praxair Surface Technologies",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1415 Main Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Speedway",
+  "facStateCd": "IN",
+  "countyNm": "MARION",
+  "facZipCd": "46224",
+  "facZip4Cd": "6533",
+  "receiptDa": "2020-12-07T10:04:11.000",
+  "facLatDecMs": "39.784887",
+  "facLongDecMs": "-86.240777",
+  "lepcNm": "Speedway Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Marion County LEPC",
+    "agencyPhoneNm": "3172464300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091122"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers ",
+          "naicsCd": "332812",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332812"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Acetylene  [Ethyne]",
+              "casNu": "74-86-2",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/96"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091122"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091122"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091122"
+    }
+  }
+}

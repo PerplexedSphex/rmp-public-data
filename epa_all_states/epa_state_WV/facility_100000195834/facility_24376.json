@@ -1,0 +1,79 @@
+{
+  "facilityId": 24376,
+  "epaFacId": "100000195834",
+  "facNm": "Bayer ACN Railcar at Dow Massey Railyard",
+  "parntCo1Nm": "Bayer Corporation",
+  "facDunsNu": 5005483,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "437 MacCorkle Avenue, SW",
+  "facStreet2Tx": null,
+  "facCityNm": "South Charleston",
+  "facStateCd": "WV",
+  "countyNm": "KANAWHA",
+  "facZipCd": "25303",
+  "facZip4Cd": null,
+  "receiptDa": "2001-10-23T00:00:00.000",
+  "facLatDecMs": "38.357778",
+  "facLongDecMs": "-81.7075",
+  "lepcNm": "Kanawha Putnam Emerg Plan Comm",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kanawha Putnam EPC",
+    "agencyPhoneNm": "3047441838",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24376"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Rail Transportation",
+          "naicsCd": "48211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Acrylonitrile  [2-Propenenitrile]",
+          "casNu": "107-13-1",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/25"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24376"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24376"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24376"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "facilityId": 1000022216,
+  "epaFacId": "100000213903",
+  "facNm": "Avon Products, Inc.",
+  "parntCo1Nm": "Avon Products, Inc.",
+  "facDunsNu": 1468693,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3605 Bateman Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Zanesville",
+  "facStateCd": "OH",
+  "countyNm": "MUSKINGUM",
+  "facZipCd": "43701",
+  "facZip4Cd": null,
+  "receiptDa": "2011-06-07T00:00:00.000",
+  "facLatDecMs": "39.98639",
+  "facLongDecMs": "-81.964603",
+  "lepcNm": "Muskingum County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2017-08-29T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Muskingum County EMA",
+    "agencyPhoneNm": "7404531655",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022216"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Drugs and Druggists' Sundries Merchant Wholesalers ",
+          "naicsCd": "42421",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42421"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Propane",
+              "casNu": "74-98-6",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Isobutane  [Propane, 2-methyl]",
+              "casNu": "75-28-5",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/107"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022216"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022216"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022216"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001852,
+  "epaFacId": "100000140956",
+  "facNm": "Central Cold Storage",
+  "parntCo1Nm": "The VPS Companies",
+  "facDunsNu": 76126317,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "13526 Blackie Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Castroville",
+  "facStateCd": "CA",
+  "countyNm": "MONTEREY",
+  "facZipCd": "95012",
+  "facZip4Cd": null,
+  "receiptDa": "2009-05-20T00:00:00.000",
+  "facLatDecMs": "36",
+  "facLongDecMs": "-121",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Monterey County Public Health Dept.",
+    "agencyPhoneNm": "8317574511",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001852"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001852"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001852"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001852"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000048976,
+  "epaFacId": "100000213226",
+  "facNm": "PSEG Fossil, LLC - Hudson Generating Staiton",
+  "parntCo1Nm": "PSEG Power LLC",
+  "facDunsNu": 848793910,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Duffield and Van Keuren Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Jersey City",
+  "facStateCd": "NJ",
+  "countyNm": "HUDSON",
+  "facZipCd": "07306",
+  "facZip4Cd": null,
+  "receiptDa": "2015-03-02T00:00:00.000",
+  "facLatDecMs": "40.749122",
+  "facLongDecMs": "-074.071446",
+  "lepcNm": "Jersey City OEM",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2017-06-26T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jersey City OEM",
+    "agencyPhoneNm": "2015475681",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048976"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048976"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048976"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048976"
+    }
+  }
+}

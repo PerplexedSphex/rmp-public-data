@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000008855,
+  "epaFacId": "100000144275",
+  "facNm": "Phibro-Tech, Inc. Joliet Facility",
+  "parntCo1Nm": "Phibro Animal Health Corporation",
+  "facDunsNu": 784519837,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10 Industry Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Joliet",
+  "facStateCd": "IL",
+  "countyNm": "WILL",
+  "facZipCd": "60435",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-19T00:00:00.000",
+  "facLatDecMs": "41.330100",
+  "facLongDecMs": "-088.045800",
+  "lepcNm": "Will County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-05-25T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Will County Emergency Management",
+    "agencyPhoneNm": "8157400911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008855"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008855"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008855"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008855"
+    }
+  }
+}

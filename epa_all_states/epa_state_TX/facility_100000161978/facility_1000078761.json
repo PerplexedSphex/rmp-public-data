@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000078761,
+  "epaFacId": "100000161978",
+  "facNm": "Rich Products Corporation - Brownsville Facility",
+  "parntCo1Nm": "Rich Products Corporation",
+  "facDunsNu": 80095094,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3555 East 14th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Brownsville",
+  "facStateCd": "TX",
+  "countyNm": "CAMERON",
+  "facZipCd": "78521",
+  "facZip4Cd": null,
+  "receiptDa": "2019-05-17T12:01:16.000",
+  "facLatDecMs": "25.917280",
+  "facLongDecMs": "-097.472520",
+  "lepcNm": "Cameron County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Brownsville",
+    "agencyPhoneNm": "9565047405",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078761"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Seafood Product Preparation and Packaging",
+          "naicsCd": "31171",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31171"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078761"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078761"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078761"
+    }
+  }
+}

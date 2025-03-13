@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000102573,
+  "epaFacId": "100000200338",
+  "facNm": "Airgas - Hopewell, VA. CO2 Plant",
+  "parntCo1Nm": "Air Liquide USA, LLC",
+  "facDunsNu": 78301808,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "103 Industrial St",
+  "facStreet2Tx": "",
+  "facCityNm": "Hopewell",
+  "facStateCd": "VA",
+  "countyNm": "HOPEWELL (CITY)",
+  "facZipCd": "23860",
+  "facZip4Cd": "",
+  "receiptDa": "2022-09-20T00:00:00.000",
+  "facLatDecMs": "37.303611",
+  "facLongDecMs": "-077.278056",
+  "lepcNm": "Hopewell LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Hopewell LEPC",
+    "agencyPhoneNm": "8045412222",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102573"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102573"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102573"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102573"
+    }
+  }
+}

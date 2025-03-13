@@ -1,0 +1,79 @@
+{
+  "facilityId": 9281,
+  "epaFacId": "100000112585",
+  "facNm": "Agrium,  Reese Operations",
+  "parntCo1Nm": "Agrium U.S. Inc.",
+  "facDunsNu": 102412244,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2405 Vassar Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Reese",
+  "facStateCd": "MI",
+  "countyNm": "SAGINAW",
+  "facZipCd": "48757",
+  "facZip4Cd": "0383",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "43.441111",
+  "facLongDecMs": "-83.752778",
+  "lepcNm": "Saginaw County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Saginaw County LEPC",
+    "agencyPhoneNm": "5177976850",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9281"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9281"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9281"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9281"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000063278,
+  "epaFacId": "100000088479",
+  "facNm": "Westinghouse Electric Company LLC",
+  "parntCo1Nm": "Toshiba Corporation",
+  "facDunsNu": 62661272,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5801 Bluff Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Hopkins",
+  "facStateCd": "SC",
+  "countyNm": "RICHLAND",
+  "facZipCd": "29061",
+  "facZip4Cd": "9121",
+  "receiptDa": "2017-05-08T00:00:00.000",
+  "facLatDecMs": "33.881944",
+  "facLongDecMs": "-080.920556",
+  "lepcNm": "Richland County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Richland County LEPC Coordinator",
+    "agencyPhoneNm": "8035763417",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063278"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063278"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063278"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063278"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000022926,
+  "epaFacId": "100000214136",
+  "facNm": "Prochem Inc",
+  "parntCo1Nm": null,
+  "facDunsNu": 161052998,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "16161 6th St",
+  "facStreet2Tx": null,
+  "facCityNm": "Seward",
+  "facStateCd": "IL",
+  "countyNm": "WINNEBAGO",
+  "facZipCd": "61077",
+  "facZip4Cd": null,
+  "receiptDa": "2011-10-06T00:00:00.000",
+  "facLatDecMs": "42.2341",
+  "facLongDecMs": "-89.3514",
+  "lepcNm": "Winnebago County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-06-03T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pecatonica Fire Dept",
+    "agencyPhoneNm": "8152392500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022926"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "325188",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325188"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022926"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022926"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022926"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000105230,
+  "epaFacId": "100000127524",
+  "facNm": "JBS Marshalltown Pork Facility",
+  "parntCo1Nm": "JBS USA LLC",
+  "facDunsNu": 944394410,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "402 N 10th Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Marshalltown",
+  "facStateCd": "IA",
+  "countyNm": "MARSHALL",
+  "facZipCd": "50158",
+  "facZip4Cd": "",
+  "receiptDa": "2023-05-09T00:00:00.000",
+  "facLatDecMs": "42.054417",
+  "facLongDecMs": "-092.897944",
+  "lepcNm": "Marshall County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Marshall County LEPC",
+    "agencyPhoneNm": "6417546385",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105230"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal (except Poultry) Slaughtering ",
+          "naicsCd": "311611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105230"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105230"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105230"
+    }
+  }
+}

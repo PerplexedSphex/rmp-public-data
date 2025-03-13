@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080336,
+  "epaFacId": "100000001099",
+  "facNm": "Wetumka Natural Gas Processing Plant",
+  "parntCo1Nm": "Energy Transfer LP",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6 miles S. & 4 miles E. of Wetumka",
+  "facStreet2Tx": "Rt. 1 Box 87C",
+  "facCityNm": "Wetumka",
+  "facStateCd": "OK",
+  "countyNm": "HUGHES",
+  "facZipCd": "74883",
+  "facZip4Cd": null,
+  "receiptDa": "2019-06-12T11:31:35.000",
+  "facLatDecMs": "35.140000",
+  "facLongDecMs": "-096.169167",
+  "lepcNm": "Hughes County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hughes County LEPC - OK132",
+    "agencyPhoneNm": "4053792203",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080336"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Extraction ",
+          "naicsCd": "21113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethane",
+          "casNu": "74-84-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/94"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080336"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080336"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080336"
+    }
+  }
+}

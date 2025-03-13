@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100343,
+  "epaFacId": "100000178755",
+  "facNm": "Kincaid Generation, L.L.C.",
+  "parntCo1Nm": "Vistra Corp",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4 Miles W. of Kincaid on Route 104",
+  "facStreet2Tx": null,
+  "facCityNm": "Kincaid",
+  "facStateCd": "IL",
+  "countyNm": "CHRISTIAN",
+  "facZipCd": "62540",
+  "facZip4Cd": "0260",
+  "receiptDa": "2022-03-18T00:00:00.000",
+  "facLatDecMs": "39.590584",
+  "facLongDecMs": "-89.498075",
+  "lepcNm": "Christian County EMA (LEPC)",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Christian County EMA",
+    "agencyPhoneNm": "2175611197",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100343"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100343"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100343"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100343"
+    }
+  }
+}

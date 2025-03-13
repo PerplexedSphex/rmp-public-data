@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000050423,
+  "epaFacId": "100000023869",
+  "facNm": "Pepperidge Farm Inc. - Downingtown Plant",
+  "parntCo1Nm": "Campbell Soup Company",
+  "facDunsNu": 1184472,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "421 Boot Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Downingtown",
+  "facStateCd": "PA",
+  "countyNm": "CHESTER",
+  "facZipCd": "19335",
+  "facZip4Cd": null,
+  "receiptDa": "2015-06-22T00:00:00.000",
+  "facLatDecMs": "40.003611",
+  "facLongDecMs": "-075.685833",
+  "lepcNm": "Chester County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Downingtown Fire Department",
+    "agencyPhoneNm": "6102692797",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050423"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Cakes, Pies, and Other Pastries Manufacturing ",
+          "naicsCd": "311813",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311813"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050423"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050423"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050423"
+    }
+  }
+}

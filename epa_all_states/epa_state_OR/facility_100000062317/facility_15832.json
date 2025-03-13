@@ -1,0 +1,79 @@
+{
+  "facilityId": 15832,
+  "epaFacId": "100000062317",
+  "facNm": "The Stroh Brewery Company Portland",
+  "parntCo1Nm": "The Stroh Companies, Inc",
+  "facDunsNu": 5357041,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1133 West Burnside Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Portland",
+  "facStateCd": "OR",
+  "countyNm": "MULTNOMAH",
+  "facZipCd": "97209",
+  "facZip4Cd": "2989",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "45.523611",
+  "facLongDecMs": "-122.681944",
+  "lepcNm": "Multnomah Cnty Emergency Mgmt",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "1999-12-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Oregon State Fire Marshal",
+    "agencyPhoneNm": "5032224351",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15832"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15832"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15832"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15832"
+    }
+  }
+}

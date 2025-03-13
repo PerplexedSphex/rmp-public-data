@@ -1,0 +1,79 @@
+{
+  "facilityId": 22518,
+  "epaFacId": "100000174036",
+  "facNm": "Moss Landing Power Plant",
+  "parntCo1Nm": "Duke Energy Moss Landing, LLC",
+  "facDunsNu": 9056628,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Highway 1 and Dolan Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Moss Landing",
+  "facStateCd": "CA",
+  "countyNm": "MONTEREY",
+  "facZipCd": "95039",
+  "facZip4Cd": "0690",
+  "receiptDa": "2001-01-26T00:00:00.000",
+  "facLatDecMs": "36.804194",
+  "facLongDecMs": "-121.774083",
+  "lepcNm": "Monterey County Dept of Health",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "North County Fire District",
+    "agencyPhoneNm": "8316332578",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22518"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22518"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22518"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22518"
+    }
+  }
+}

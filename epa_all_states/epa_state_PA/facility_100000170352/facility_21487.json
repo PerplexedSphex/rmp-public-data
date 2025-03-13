@@ -1,0 +1,79 @@
+{
+  "facilityId": 21487,
+  "epaFacId": "100000170352",
+  "facNm": "Keystone Propane Service, Inc.",
+  "parntCo1Nm": "Same",
+  "facDunsNu": 93042539,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Route 423 Church Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Tobyhanna",
+  "facStateCd": "PA",
+  "countyNm": "MONROE",
+  "facZipCd": "18466",
+  "facZip4Cd": null,
+  "receiptDa": "2000-06-14T00:00:00.000",
+  "facLatDecMs": "41.192556",
+  "facLongDecMs": "-75.374417",
+  "lepcNm": "Monroe County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-03-24T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Coolbaugh Fire Department",
+    "agencyPhoneNm": "5108944032",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21487"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals",
+          "naicsCd": "42271",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42271"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21487"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21487"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21487"
+    }
+  }
+}

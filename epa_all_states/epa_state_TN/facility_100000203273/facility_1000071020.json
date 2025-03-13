@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000071020,
+  "epaFacId": "100000203273",
+  "facNm": "Fort Loudoun Propane Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7631 New Hwy 68 S",
+  "facStreet2Tx": null,
+  "facCityNm": "Madisonville",
+  "facStateCd": "TN",
+  "countyNm": "MONROE",
+  "facZipCd": "37354",
+  "facZip4Cd": null,
+  "receiptDa": "2018-07-10T00:00:00.000",
+  "facLatDecMs": "35.518120",
+  "facLongDecMs": "-084.321490",
+  "lepcNm": "Monroe County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-04-12T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mt. Vernon Volunteer Fire Dept.",
+    "agencyPhoneNm": "4232532100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071020"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fuel Dealers",
+          "naicsCd": "45431",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/45431"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071020"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071020"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071020"
+    }
+  }
+}

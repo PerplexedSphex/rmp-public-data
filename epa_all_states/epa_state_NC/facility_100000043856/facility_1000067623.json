@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000067623,
+  "epaFacId": "100000043856",
+  "facNm": "Town of Yadkinville Wastewater Treatment Plant",
+  "parntCo1Nm": "Town of Yadkinville",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1620 Fred Hinshaw Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Yadkinville",
+  "facStateCd": "NC",
+  "countyNm": "YADKIN",
+  "facZipCd": "27055",
+  "facZip4Cd": null,
+  "receiptDa": "2018-01-23T00:00:00.000",
+  "facLatDecMs": "36.130556",
+  "facLongDecMs": "-080.632778",
+  "lepcNm": "Yadkin County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Yadkin County E.M.S",
+    "agencyPhoneNm": "3366794232",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067623"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Nonhazardous Waste Treatment and Disposal ",
+          "naicsCd": "562219",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/562219"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067623"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067623"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067623"
+    }
+  }
+}

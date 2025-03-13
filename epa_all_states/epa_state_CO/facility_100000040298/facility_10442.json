@@ -1,0 +1,90 @@
+{
+  "facilityId": 10442,
+  "epaFacId": "100000040298",
+  "facNm": "Scott's Liquid Gold-INC.",
+  "parntCo1Nm": null,
+  "facDunsNu": 7072176,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4880 Havana Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Denver",
+  "facStateCd": "CO",
+  "countyNm": "DENVER",
+  "facZipCd": "80239",
+  "facZip4Cd": "0019",
+  "receiptDa": "1999-06-16T00:00:00.000",
+  "facLatDecMs": "39.795278",
+  "facLongDecMs": "104.865833",
+  "lepcNm": "Denver LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2017-09-08T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Denver Fire Department",
+    "agencyPhoneNm": "3033738527",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10442"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Toilet Preparation Manufacturing",
+          "naicsCd": "32562",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32562"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Difluoroethane  [Ethane, 1,1-difluoro-]",
+          "casNu": "75-37-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/111"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10442"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10442"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/10442"
+    }
+  }
+}

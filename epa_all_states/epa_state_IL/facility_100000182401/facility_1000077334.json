@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000077334,
+  "epaFacId": "100000182401",
+  "facNm": "Edwards Power Station",
+  "parntCo1Nm": "Illinois Power Resources generating, LLC",
+  "facDunsNu": 6935258,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7800 S. Cilco Lane",
+  "facStreet2Tx": null,
+  "facCityNm": "Bartonville",
+  "facStateCd": "IL",
+  "countyNm": "PEORIA",
+  "facZipCd": "61607",
+  "facZip4Cd": null,
+  "receiptDa": "2019-04-04T00:00:00.000",
+  "facLatDecMs": "40.597481",
+  "facLongDecMs": "-089.662841",
+  "lepcNm": "Tri-County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2022-12-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Timber Hollis Fire Department",
+    "agencyPhoneNm": "3093892525",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000077334"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000077334"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000077334"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000077334"
+    }
+  }
+}

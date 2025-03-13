@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000113587,
+  "epaFacId": "100000140527",
+  "facNm": "Bostik Inc",
+  "parntCo1Nm": "Arkema Delaware Inc",
+  "facDunsNu": 118631812,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "410 Old Pelzer Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Piedmont",
+  "facStateCd": "SC",
+  "countyNm": "GREENVILLE",
+  "facZipCd": "29673",
+  "facZip4Cd": "",
+  "receiptDa": "2024-05-16T00:00:00.000",
+  "facLatDecMs": "34.726110",
+  "facLongDecMs": "-082.446667",
+  "lepcNm": "Greenville County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Piedmont Fire Department",
+    "agencyPhoneNm": "8648456817",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113587"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Adhesive Manufacturing",
+          "naicsCd": "32552",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32552"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113587"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113587"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113587"
+    }
+  }
+}

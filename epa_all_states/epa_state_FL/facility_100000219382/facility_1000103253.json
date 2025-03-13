@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000103253,
+  "epaFacId": "100000219382",
+  "facNm": "Jacksonville (Bruss) Facility",
+  "parntCo1Nm": "Tyson Foods, Inc",
+  "facDunsNu": 94605375,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5441 West 5th St.",
+  "facStreet2Tx": "",
+  "facCityNm": "Jacksonville",
+  "facStateCd": "FL",
+  "countyNm": "DUVAL",
+  "facZipCd": "32254",
+  "facZip4Cd": "",
+  "receiptDa": "2022-11-11T00:00:00.000",
+  "facLatDecMs": "30.343652",
+  "facLongDecMs": "-81.7404905",
+  "lepcNm": "District 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2024-01-10T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jacksonville Fire Department",
+    "agencyPhoneNm": "9046307903",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103253"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103253"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103253"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103253"
+    }
+  }
+}

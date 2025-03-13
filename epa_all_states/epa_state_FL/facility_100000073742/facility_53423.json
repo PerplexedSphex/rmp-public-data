@@ -1,0 +1,79 @@
+{
+  "facilityId": 53423,
+  "epaFacId": "100000073742",
+  "facNm": "Port Sutton Ammonia Terminal",
+  "parntCo1Nm": "Yara North America, Inc.",
+  "facDunsNu": 795163518,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3421 Port Sutton Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Tampa",
+  "facStateCd": "FL",
+  "countyNm": "HILLSBOROUGH",
+  "facZipCd": "33619",
+  "facZip4Cd": "9625",
+  "receiptDa": "2009-01-14T00:00:00.000",
+  "facLatDecMs": "27.905300",
+  "facLongDecMs": "-082.424200",
+  "lepcNm": "District 8 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hillsborough County",
+    "agencyPhoneNm": "0000000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53423"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Merchant Wholesalers ",
+          "naicsCd": "42491",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42491"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53423"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53423"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53423"
+    }
+  }
+}

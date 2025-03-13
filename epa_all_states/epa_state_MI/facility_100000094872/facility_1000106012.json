@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106012,
+  "epaFacId": "100000094872",
+  "facNm": "Sysco Grand Rapids, LLC",
+  "parntCo1Nm": "Sysco Corporation",
+  "facDunsNu": 51763969,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3700 Sysco Court S.E.",
+  "facStreet2Tx": "",
+  "facCityNm": "Grand Rapids",
+  "facStateCd": "MI",
+  "countyNm": "KENT",
+  "facZipCd": "49512",
+  "facZip4Cd": "2083",
+  "receiptDa": "2023-07-11T00:00:00.000",
+  "facLatDecMs": "42.894639",
+  "facLongDecMs": "-85.538742",
+  "lepcNm": "Kent County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cascade Fire Department",
+    "agencyPhoneNm": "6169491320",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106012"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Line Grocery Merchant Wholesalers ",
+          "naicsCd": "42441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106012"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106012"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106012"
+    }
+  }
+}

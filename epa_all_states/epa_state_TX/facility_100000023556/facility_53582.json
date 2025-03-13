@@ -1,0 +1,79 @@
+{
+  "facilityId": 53582,
+  "epaFacId": "100000023556",
+  "facNm": "Fain Gas Plant",
+  "parntCo1Nm": "Pioneer Natural Resources USA, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "25 miles N of Amarilo TX on Hwy 287",
+  "facStreet2Tx": "then 2 miles East",
+  "facCityNm": "Masterson",
+  "facStateCd": "TX",
+  "countyNm": "POTTER",
+  "facZipCd": "79058",
+  "facZip4Cd": null,
+  "receiptDa": "2009-02-05T00:00:00.000",
+  "facLatDecMs": "35.538056",
+  "facLongDecMs": "-101.895556",
+  "lepcNm": "Potter/Randall County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Potter/Randall County LEPC",
+    "agencyPhoneNm": "8063789377",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53582"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53582"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53582"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53582"
+    }
+  }
+}

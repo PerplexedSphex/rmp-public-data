@@ -1,0 +1,79 @@
+{
+  "facilityId": 22002,
+  "epaFacId": "100000172412",
+  "facNm": "Las Animas Fertilizer Company, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 804643310,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "8th Street, east of Carson Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Las Animas",
+  "facStateCd": "CO",
+  "countyNm": "BENT",
+  "facZipCd": "81054",
+  "facZip4Cd": "0000",
+  "receiptDa": "2000-10-04T00:00:00.000",
+  "facLatDecMs": "38.063833",
+  "facLongDecMs": "-103.217333",
+  "lepcNm": "Bent County Emergency Mgm't",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2011-09-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bent County Emergency Mgm't",
+    "agencyPhoneNm": "7194561825",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22002"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22002"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22002"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22002"
+    }
+  }
+}

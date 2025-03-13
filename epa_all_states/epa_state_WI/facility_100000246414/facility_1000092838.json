@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000092838,
+  "epaFacId": "100000246414",
+  "facNm": "Garner Cold Storage 4",
+  "parntCo1Nm": null,
+  "facDunsNu": 117743696,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "7502 Hwy 73",
+  "facStreet2Tx": null,
+  "facCityNm": "pittsville",
+  "facStateCd": "WI",
+  "countyNm": "WOOD",
+  "facZipCd": "54466",
+  "facZip4Cd": null,
+  "receiptDa": "2021-03-25T13:21:26.000",
+  "facLatDecMs": "44.456005",
+  "facLongDecMs": "-90.086152",
+  "lepcNm": "Wood County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wood county LEPC",
+    "agencyPhoneNm": "7154218500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092838"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092838"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092838"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092838"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000018276,
+  "epaFacId": "100000213253",
+  "facNm": "BC Systems King City",
+  "parntCo1Nm": null,
+  "facDunsNu": 154483457,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "600 Airport Dr",
+  "facStreet2Tx": null,
+  "facCityNm": "King City",
+  "facStateCd": "CA",
+  "countyNm": "MONTEREY",
+  "facZipCd": "93930",
+  "facZip4Cd": null,
+  "receiptDa": "2010-11-12T00:00:00.000",
+  "facLatDecMs": "36.225833",
+  "facLongDecMs": "-121.125833",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-04-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "King City Fire Dept",
+    "agencyPhoneNm": "8313853430",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018276"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018276"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018276"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018276"
+    }
+  }
+}

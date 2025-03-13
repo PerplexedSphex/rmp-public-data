@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000012744,
+  "epaFacId": "100000023654",
+  "facNm": "Trident Seafoods Corporation - St. Paul, Alaska",
+  "parntCo1Nm": "Trident Seafoods Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "909 Harbor Blvd",
+  "facStreet2Tx": null,
+  "facCityNm": "St Paul",
+  "facStateCd": "AK",
+  "countyNm": "ALEUTIANS WEST (C)",
+  "facZipCd": "99660",
+  "facZip4Cd": null,
+  "receiptDa": "2010-04-22T00:00:00.000",
+  "facLatDecMs": "57.131944",
+  "facLongDecMs": "-170.283333",
+  "lepcNm": "Aleutian  LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2023-02-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of St. Paul",
+    "agencyPhoneNm": "9075462331",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012744"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fresh and Frozen Seafood Processing",
+          "naicsCd": "311712",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311712"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012744"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012744"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012744"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 22494,
+  "epaFacId": "100000173992",
+  "facNm": "Cropmate Company",
+  "parntCo1Nm": "Midwest Agriculture Warehouse Company",
+  "facDunsNu": 132615493,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1821 330th St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Odebolt",
+  "facStateCd": "IA",
+  "countyNm": "SAC",
+  "facZipCd": "51458",
+  "facZip4Cd": null,
+  "receiptDa": "2001-01-19T00:00:00.000",
+  "facLatDecMs": "42.314222",
+  "facLongDecMs": "-95.2305",
+  "lepcNm": "Region 5 LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2011-03-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Odebolt Fire Department",
+    "agencyPhoneNm": "7126684501",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22494"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22494"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22494"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22494"
+    }
+  }
+}

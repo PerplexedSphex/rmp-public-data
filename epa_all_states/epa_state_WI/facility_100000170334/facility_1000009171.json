@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000009171,
+  "epaFacId": "100000170334",
+  "facNm": "Supervalu - Green Bay Distribution",
+  "parntCo1Nm": "Supervalu Inc.",
+  "facDunsNu": 6961411,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "451 Joannes Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Green Bay",
+  "facStateCd": "WI",
+  "countyNm": "BROWN",
+  "facZipCd": "54304",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-23T00:00:00.000",
+  "facLatDecMs": "44.492500",
+  "facLongDecMs": "-088.040833",
+  "lepcNm": "Brown County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Brown County LEPC",
+    "agencyPhoneNm": "9204484272",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009171"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        },
+        {
+          "description": "General Freight Trucking, Local",
+          "naicsCd": "48411",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48411"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009171"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009171"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009171"
+    }
+  }
+}

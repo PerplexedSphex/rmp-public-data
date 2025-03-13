@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000044790,
+  "epaFacId": "100000060505",
+  "facNm": "Western Power & Steam, Inc.",
+  "parntCo1Nm": "All American Oil & Gas, Inc.",
+  "facDunsNu": 42695682,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3300 Manor Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Bakersfield",
+  "facStateCd": "CA",
+  "countyNm": "KERN",
+  "facZipCd": "93308",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-18T00:00:00.000",
+  "facLatDecMs": "35.440556",
+  "facLongDecMs": "-119.011944",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Kern County Environmental Health",
+    "agencyPhoneNm": "6618628700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044790"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044790"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044790"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044790"
+    }
+  }
+}

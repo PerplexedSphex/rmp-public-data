@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000045962,
+  "epaFacId": "100000226542",
+  "facNm": "Howard glasscock AGI plant",
+  "parntCo1Nm": "ConocoPhillips Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "13000 hwy 87 south",
+  "facStreet2Tx": null,
+  "facCityNm": "Forsan",
+  "facStateCd": "TX",
+  "countyNm": "HOWARD",
+  "facZipCd": "79733",
+  "facZip4Cd": null,
+  "receiptDa": "2014-08-20T00:00:00.000",
+  "facLatDecMs": "32.142564",
+  "facLongDecMs": "-101.268333",
+  "lepcNm": "Howard County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-12-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Big Spring & Howard County, Texas",
+    "agencyPhoneNm": "4328161164",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045962"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Crude Petroleum and Natural Gas Extraction",
+          "naicsCd": "211111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen sulfide",
+          "casNu": "7783-06-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/63"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045962"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045962"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045962"
+    }
+  }
+}

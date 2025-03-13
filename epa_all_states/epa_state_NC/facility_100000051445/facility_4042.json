@@ -1,0 +1,79 @@
+{
+  "facilityId": 4042,
+  "epaFacId": "100000051445",
+  "facNm": "PERDUE FARMS INCORPORATED CONCORD,N.C.",
+  "parntCo1Nm": "PERDUE FARMS INCORPORATED SALISBURY,MARYLAND",
+  "facDunsNu": 6004214,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "862 HARRIS STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "CONCORD",
+  "facStateCd": "NC",
+  "countyNm": "CABARRUS",
+  "facZipCd": "28026",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-17T00:00:00.000",
+  "facLatDecMs": "35.430222",
+  "facLongDecMs": "-80.606",
+  "lepcNm": "CONCORD FIRE DEPT",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "CONCORD FIRE DEPARTMENT",
+    "agencyPhoneNm": "7047841507",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4042"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4042"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4042"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4042"
+    }
+  }
+}

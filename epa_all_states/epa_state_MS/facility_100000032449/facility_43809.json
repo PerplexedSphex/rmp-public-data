@@ -1,0 +1,79 @@
+{
+  "facilityId": 43809,
+  "epaFacId": "100000032449",
+  "facNm": "Airgas Liquid CO2 and Dry Ice Plant",
+  "parntCo1Nm": "Airgas, Inc.",
+  "facDunsNu": 41138371,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "217 Andrew Jackson Circle",
+  "facStreet2Tx": null,
+  "facCityNm": "Star",
+  "facStateCd": "MS",
+  "countyNm": "RANKIN",
+  "facZipCd": "39167",
+  "facZip4Cd": null,
+  "receiptDa": "2005-09-14T00:00:00.000",
+  "facLatDecMs": "32.102694",
+  "facLongDecMs": "-090.052556",
+  "lepcNm": "Rankin County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rankin County LEPC",
+    "agencyPhoneNm": "6018251499",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43809"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43809"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43809"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43809"
+    }
+  }
+}

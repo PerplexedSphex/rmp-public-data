@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000019856,
+  "epaFacId": "100000173901",
+  "facNm": "Yuengling Brewery",
+  "parntCo1Nm": "Yuengling Brewery",
+  "facDunsNu": 2324499,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "310 Mill Creek",
+  "facStreet2Tx": null,
+  "facCityNm": "Pottsville",
+  "facStateCd": "PA",
+  "countyNm": "SCHUYLKILL",
+  "facZipCd": "17901",
+  "facZip4Cd": null,
+  "receiptDa": "2011-01-14T00:00:00.000",
+  "facLatDecMs": "40.699722",
+  "facLongDecMs": "-076.175278",
+  "lepcNm": "Schuylkill County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Schuykill County LEPC",
+    "agencyPhoneNm": "5706223739",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000019856"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000019856"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000019856"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000019856"
+    }
+  }
+}

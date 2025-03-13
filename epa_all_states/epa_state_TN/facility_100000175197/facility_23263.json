@@ -1,0 +1,79 @@
+{
+  "facilityId": 23263,
+  "epaFacId": "100000175197",
+  "facNm": "IBP, inc.",
+  "parntCo1Nm": "IBP, inc.",
+  "facDunsNu": 4727439,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "201 Cartwright Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Goodlettsville",
+  "facStateCd": "TN",
+  "countyNm": "DAVIDSON",
+  "facZipCd": "37072",
+  "facZip4Cd": "1447",
+  "receiptDa": "2001-04-16T00:00:00.000",
+  "facLatDecMs": "36.331389",
+  "facLongDecMs": "-86.711389",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Local Emergency Planning Commission",
+    "agencyPhoneNm": "6158628530",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23263"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23263"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23263"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23263"
+    }
+  }
+}

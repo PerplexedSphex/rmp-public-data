@@ -1,0 +1,90 @@
+{
+  "facilityId": 4096,
+  "epaFacId": "100000053274",
+  "facNm": "Wilmington Facility",
+  "parntCo1Nm": "Koch Sulfur Products Company",
+  "facDunsNu": 102387214,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2600 Hwy 421 North",
+  "facStreet2Tx": null,
+  "facCityNm": "Wilmington",
+  "facStateCd": "NC",
+  "countyNm": "NEW HANOVER",
+  "facZipCd": "28401",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "34.270278",
+  "facLongDecMs": "-77.952778",
+  "lepcNm": "New Hanover County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2001-04-18T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "New Hanover County EMA",
+    "agencyPhoneNm": "9103414300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4096"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "325188",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325188"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Nitric acid (conc 80% or greater)",
+          "casNu": "7697-37-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/58"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Oleum (Fuming Sulfuric acid)  [Sulfuric acid, mixture with sulfur trioxide]",
+          "casNu": "8014-95-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/69"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4096"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4096"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4096"
+    }
+  }
+}

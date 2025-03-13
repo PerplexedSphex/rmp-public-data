@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000062661,
+  "epaFacId": "100000234962",
+  "facNm": "CORMETECH",
+  "parntCo1Nm": "Corning",
+  "facDunsNu": 123676566,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3300 OLD TASSO ROAD NE",
+  "facStreet2Tx": null,
+  "facCityNm": "CLEVELAND",
+  "facStateCd": "TN",
+  "countyNm": "BRADLEY",
+  "facZipCd": "37312",
+  "facZip4Cd": null,
+  "receiptDa": "2017-03-30T00:00:00.000",
+  "facLatDecMs": "35.170894",
+  "facLongDecMs": "-84.836063",
+  "lepcNm": "Bradley County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2017-03-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bradley County EMA",
+    "agencyPhoneNm": "4237287289",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062661"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Nonmetallic Mineral Product Manufacturing ",
+          "naicsCd": "327999",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/327999"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062661"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062661"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062661"
+    }
+  }
+}

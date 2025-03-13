@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000039690,
+  "epaFacId": "100000127105",
+  "facNm": "Pilgrim's Pride - Lufkin Poultry Processing Plant",
+  "parntCo1Nm": "Pilgrim's Pride Corporation",
+  "facDunsNu": 102962672,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1800 West Frank Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Lufkin",
+  "facStateCd": "TX",
+  "countyNm": "ANGELINA",
+  "facZipCd": "75901",
+  "facZip4Cd": null,
+  "receiptDa": "2014-03-25T00:00:00.000",
+  "facLatDecMs": "31.334656",
+  "facLongDecMs": "-094.754414",
+  "lepcNm": "Angelina County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lufkin Fire Department",
+    "agencyPhoneNm": "9366330356",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039690"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039690"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039690"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039690"
+    }
+  }
+}

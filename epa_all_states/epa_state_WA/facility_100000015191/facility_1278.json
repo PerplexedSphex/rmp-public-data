@@ -1,0 +1,79 @@
+{
+  "facilityId": 1278,
+  "epaFacId": "100000015191",
+  "facNm": "Tolt Water Treatment Plant",
+  "parntCo1Nm": "Seattle Public Utilities",
+  "facDunsNu": 117353730,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "12910 Kelly Road NE",
+  "facStreet2Tx": null,
+  "facCityNm": "Duvall",
+  "facStateCd": "WA",
+  "countyNm": "KING",
+  "facZipCd": "98019",
+  "facZip4Cd": null,
+  "receiptDa": "1999-05-28T00:00:00.000",
+  "facLatDecMs": "47.704667",
+  "facLongDecMs": "-121.792583",
+  "lepcNm": "King County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2001-01-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Eastside Fire & Rescue / KCFD 45",
+    "agencyPhoneNm": "4253923433",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1278"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1278"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1278"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1278"
+    }
+  }
+}

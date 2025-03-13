@@ -1,0 +1,79 @@
+{
+  "facilityId": 26007,
+  "epaFacId": "100000179193",
+  "facNm": "Washington DC Processing and Distribution Center",
+  "parntCo1Nm": "United States Postal Service",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "900 Brentwood Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Washington",
+  "facStateCd": "DC",
+  "countyNm": "DISTRICT OF COLUMBIA",
+  "facZipCd": "20002",
+  "facZip4Cd": "9998",
+  "receiptDa": "2002-06-18T00:00:00.000",
+  "facLatDecMs": "38.916472",
+  "facLongDecMs": "-76.994583",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2003-05-19T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "DC EMS",
+    "agencyPhoneNm": "2026456093",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26007"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Postal Service",
+          "naicsCd": "49111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine dioxide  [Chlorine oxide (ClO2)]",
+          "casNu": "10049-04-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/71"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26007"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26007"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26007"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000000694,
+  "epaFacId": "100000087862",
+  "facNm": "SI Group Texas Operations",
+  "parntCo1Nm": "SI Group, Inc.",
+  "facDunsNu": 10797389,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "702 FM 523",
+  "facStreet2Tx": null,
+  "facCityNm": "Freeport",
+  "facStateCd": "TX",
+  "countyNm": "BRAZORIA",
+  "facZipCd": "77541",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-17T00:00:00.000",
+  "facLatDecMs": "28.973666",
+  "facLongDecMs": "-095.342458",
+  "lepcNm": "Brazoria County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "CAER",
+    "agencyPhoneNm": "9792382112",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000694"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petrochemical Manufacturing",
+          "naicsCd": "32511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "2-Methylpropene  [1-Propene, 2-methyl-]",
+          "casNu": "115-11-7",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/131"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butene",
+          "casNu": "25167-67-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/154"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000694"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000694"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000694"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000035663,
+  "epaFacId": "100000215439",
+  "facNm": "Rapid City Production Plant",
+  "parntCo1Nm": "Kugler Oil Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1650 Culvert St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Rapid City",
+  "facStateCd": "SD",
+  "countyNm": "PENNINGTON",
+  "facZipCd": "57701",
+  "facZip4Cd": null,
+  "receiptDa": "2013-08-05T00:00:00.000",
+  "facLatDecMs": "44.044404",
+  "facLongDecMs": "-103.187465",
+  "lepcNm": "Pennington County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Rapid City Fire Department",
+    "agencyPhoneNm": "6053945233",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035663"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fertilizer and Compost Manufacturing",
+          "naicsCd": "32531",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32531"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035663"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035663"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035663"
+    }
+  }
+}

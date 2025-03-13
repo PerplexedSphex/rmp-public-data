@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000108370,
+  "epaFacId": "100000185649",
+  "facNm": "Trenton Agri Products LLC",
+  "parntCo1Nm": "",
+  "facDunsNu": 142989172,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "36638 US Highway 34",
+  "facStreet2Tx": "",
+  "facCityNm": "Trenton",
+  "facStateCd": "NE",
+  "countyNm": "HITCHCOCK",
+  "facZipCd": "69044",
+  "facZip4Cd": "",
+  "receiptDa": "2023-12-18T00:00:00.000",
+  "facLatDecMs": "40.192494",
+  "facLongDecMs": "-100.974944",
+  "lepcNm": "SWNE LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Hitchcock County Emergency Manager",
+    "agencyPhoneNm": "3083345300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108370"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ethyl Alcohol Manufacturing ",
+          "naicsCd": "325193",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325193"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Pentane",
+              "casNu": "109-66-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108370"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108370"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108370"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000074400,
+  "epaFacId": "100000240483",
+  "facNm": "United Industries Inc",
+  "parntCo1Nm": null,
+  "facDunsNu": 21344387,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1900 E Central Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Bentonville",
+  "facStateCd": "AR",
+  "countyNm": "BENTON",
+  "facZipCd": "72712",
+  "facZip4Cd": null,
+  "receiptDa": "2018-12-20T12:51:00.000",
+  "facLatDecMs": "36.368269",
+  "facLongDecMs": "-94.188813",
+  "lepcNm": "Benton LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bentonville Fire Department",
+    "agencyPhoneNm": "4792713151",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074400"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Polystyrene Foam Product Manufacturing",
+          "naicsCd": "32614",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32614"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Difluoroethane  [Ethane, 1,1-difluoro-]",
+          "casNu": "75-37-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/111"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074400"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074400"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074400"
+    }
+  }
+}

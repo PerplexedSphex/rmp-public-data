@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000086812,
+  "epaFacId": "100000191758",
+  "facNm": "West Tulsa Terminal",
+  "parntCo1Nm": "ONEOK, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2120 S. 33rd West Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Tulsa",
+  "facStateCd": "OK",
+  "countyNm": "TULSA",
+  "facZipCd": "74107",
+  "facZip4Cd": "",
+  "receiptDa": "2020-04-17T00:00:00.000",
+  "facLatDecMs": "36.13170",
+  "facLongDecMs": "-96.02855",
+  "lepcNm": "Tulsa LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Tulsa County LEPC",
+    "agencyPhoneNm": "9185969899",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086812"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pipeline Transportation of Refined Petroleum Products",
+          "naicsCd": "48691",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48691"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086812"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086812"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086812"
+    }
+  }
+}

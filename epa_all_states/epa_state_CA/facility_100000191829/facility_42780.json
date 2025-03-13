@@ -1,0 +1,79 @@
+{
+  "facilityId": 42780,
+  "epaFacId": "100000191829",
+  "facNm": "Wellhead Power Panoche, LLC",
+  "parntCo1Nm": "Wellhead Electric Company, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "43649 W. Panoche Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Firebaugh",
+  "facStateCd": "CA",
+  "countyNm": "FRESNO",
+  "facZipCd": "93662",
+  "facZip4Cd": null,
+  "receiptDa": "2005-05-05T00:00:00.000",
+  "facLatDecMs": "36.655430",
+  "facLongDecMs": "-120.580200",
+  "lepcNm": "Fresno County CUPA",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2015-09-11T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fresno County Environmental Health",
+    "agencyPhoneNm": "5594453271",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42780"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Electric Power Generation",
+          "naicsCd": "221119",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221119"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42780"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42780"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42780"
+    }
+  }
+}

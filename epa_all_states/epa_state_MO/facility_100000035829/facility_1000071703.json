@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000071703,
+  "epaFacId": "100000035829",
+  "facNm": "KraftHeinz Company",
+  "parntCo1Nm": "KraftHeinz Company",
+  "facDunsNu": 39010590,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2035 E. Bennett Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Springfield",
+  "facStateCd": "MO",
+  "countyNm": "GREENE",
+  "facZipCd": "65804",
+  "facZip4Cd": "3440",
+  "receiptDa": "2018-08-03T17:30:57.000",
+  "facLatDecMs": "37.188889",
+  "facLongDecMs": "-093.256667",
+  "lepcNm": "Greene County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Springfield Fire Department",
+    "agencyPhoneNm": "4178641500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071703"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dry, Condensed, and Evaporated Dairy Product Manufacturing ",
+          "naicsCd": "311514",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311514"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071703"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071703"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071703"
+    }
+  }
+}

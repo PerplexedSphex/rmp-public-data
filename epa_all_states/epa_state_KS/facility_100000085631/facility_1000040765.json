@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000040765,
+  "epaFacId": "100000085631",
+  "facNm": "Dold Foods, LLC",
+  "parntCo1Nm": "Hormel Foods Corporation",
+  "facDunsNu": 793518853,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2929 N. Ohio Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Wichita",
+  "facStateCd": "KS",
+  "countyNm": "SEDGWICK",
+  "facZipCd": "67219",
+  "facZip4Cd": "4320",
+  "receiptDa": "2014-05-10T00:00:00.000",
+  "facLatDecMs": "37.73667",
+  "facLongDecMs": "-097.32564",
+  "lepcNm": "Sedgwick County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wichita Fire Department - St. 10",
+    "agencyPhoneNm": "3163379410",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040765"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040765"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040765"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000040765"
+    }
+  }
+}

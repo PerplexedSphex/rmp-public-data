@@ -1,0 +1,88 @@
+{
+  "facilityId": 1514,
+  "epaFacId": "100000017929",
+  "facNm": "Cargill AgHorizons - Stockham Plant",
+  "parntCo1Nm": "Cargill, Incorporated",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Main Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Stockham",
+  "facStateCd": "NE",
+  "countyNm": "HAMILTON",
+  "facZipCd": "68818",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-03T00:00:00.000",
+  "facLatDecMs": "40.72",
+  "facLongDecMs": "-97.941111",
+  "lepcNm": "Hamilton County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hamilton County Sheriff's Office",
+    "agencyPhoneNm": "4026943855",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1514"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        },
+        {
+          "description": "Other Direct Selling Establishments",
+          "naicsCd": "45439",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/45439"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1514"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1514"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1514"
+    }
+  }
+}

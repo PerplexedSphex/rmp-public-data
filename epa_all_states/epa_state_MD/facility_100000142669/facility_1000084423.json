@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000084423,
+  "epaFacId": "100000142669",
+  "facNm": "Wilkins Rogers Maryland, Inc",
+  "parntCo1Nm": "Wilkins Rogers Maryland, Inc.",
+  "facDunsNu": 53937983,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "27 Frederick Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Ellicott City",
+  "facStateCd": "MD",
+  "countyNm": "BALTIMORE",
+  "facZipCd": "21043",
+  "facZip4Cd": null,
+  "receiptDa": "2020-01-06T00:00:00.000",
+  "facLatDecMs": "39.266944",
+  "facLongDecMs": "-076.793333",
+  "lepcNm": "Baltimore County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-01-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "fire department",
+    "agencyPhoneNm": "4108874500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084423"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084423"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084423"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084423"
+    }
+  }
+}

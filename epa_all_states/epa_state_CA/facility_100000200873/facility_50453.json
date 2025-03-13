@@ -1,0 +1,79 @@
+{
+  "facilityId": 50453,
+  "epaFacId": "100000200873",
+  "facNm": "Mirant Potrero, LLC",
+  "parntCo1Nm": "Mirant Corporation",
+  "facDunsNu": 126099436,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1201-A Illinois St.",
+  "facStreet2Tx": null,
+  "facCityNm": "San Francisco",
+  "facStateCd": "CA",
+  "countyNm": "SAN FRANCISCO",
+  "facZipCd": "94107",
+  "facZip4Cd": "3106",
+  "receiptDa": "2007-12-24T00:00:00.000",
+  "facLatDecMs": "37.756778",
+  "facLongDecMs": "-122.382583",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2011-03-08T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "San Francisco Fire Departement",
+    "agencyPhoneNm": "4155583342",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50453"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50453"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50453"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50453"
+    }
+  }
+}

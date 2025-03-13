@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000038703,
+  "epaFacId": "100000205725",
+  "facNm": "Sysco Pittsburgh",
+  "parntCo1Nm": "SYSCO Corporation",
+  "facDunsNu": 51099661,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "One Whitney Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Harmony",
+  "facStateCd": "PA",
+  "countyNm": "BUTLER",
+  "facZipCd": "16037",
+  "facZip4Cd": null,
+  "receiptDa": "2014-01-31T00:00:00.000",
+  "facLatDecMs": "40.800056",
+  "facLongDecMs": "-080.120250",
+  "lepcNm": "Butler County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Harmony Fire Dept.",
+    "agencyPhoneNm": "7244524046",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038703"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Line Grocery Merchant Wholesalers ",
+          "naicsCd": "42441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038703"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038703"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000038703"
+    }
+  }
+}

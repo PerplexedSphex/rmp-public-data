@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000066679,
+  "epaFacId": "100000200034",
+  "facNm": "Lear Corporation - Hebron Plant",
+  "parntCo1Nm": "Lear Corporation",
+  "facDunsNu": 2326721,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "180 North High Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Hebron",
+  "facStateCd": "OH",
+  "countyNm": "LICKING",
+  "facZipCd": "43025",
+  "facZip4Cd": null,
+  "receiptDa": "2017-11-03T00:00:00.000",
+  "facLatDecMs": "39.968706",
+  "facLongDecMs": "-082.488339",
+  "lepcNm": "Licking County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Licking County LEPC",
+    "agencyPhoneNm": "7406705575",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066679"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Motor Vehicle Seating and Interior Trim Manufacturing",
+          "naicsCd": "33636",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33636"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,6-diisocyanate  [Benzene, 1,3-diisocyanato-2-methyl-]",
+          "casNu": "91-08-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/20"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,4-diisocyanate  [Benzene, 2,4-diisocyanato-1-methyl-]",
+          "casNu": "584-84-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/44"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066679"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066679"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066679"
+    }
+  }
+}

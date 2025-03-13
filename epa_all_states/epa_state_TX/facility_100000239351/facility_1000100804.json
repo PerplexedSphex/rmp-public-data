@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100804,
+  "epaFacId": "100000239351",
+  "facNm": "Miller Milling Co.",
+  "parntCo1Nm": null,
+  "facDunsNu": 80343293,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "221 Fairmount Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Saginaw",
+  "facStateCd": "TX",
+  "countyNm": "TARRANT",
+  "facZipCd": "76179",
+  "facZip4Cd": null,
+  "receiptDa": "2022-04-26T00:00:00.000",
+  "facLatDecMs": "32.8589",
+  "facLongDecMs": "-97.3595",
+  "lepcNm": "Tarrant County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tarrant County",
+    "agencyPhoneNm": "8178841804",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100804"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling and Malt Manufacturing",
+          "naicsCd": "31121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100804"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100804"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100804"
+    }
+  }
+}

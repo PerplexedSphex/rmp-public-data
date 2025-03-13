@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000005505,
+  "epaFacId": "100000071352",
+  "facNm": "American Crystal Sugar Company-Moorhead",
+  "parntCo1Nm": "American Crystal Sugar Company",
+  "facDunsNu": 134487818,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2500 11th Street North",
+  "facStreet2Tx": null,
+  "facCityNm": "Moorhead",
+  "facStateCd": "MN",
+  "countyNm": "CLAY",
+  "facZipCd": "56560",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-17T00:00:00.000",
+  "facLatDecMs": "46.903056",
+  "facLongDecMs": "-096.759722",
+  "lepcNm": "Clay County Emergency Services",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2011-06-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Moorhead Fire Department",
+    "agencyPhoneNm": "2182995434",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005505"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sugar Manufacturing",
+          "naicsCd": "31131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005505"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005505"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005505"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000012498,
+  "epaFacId": "100000084507",
+  "facNm": "Sara Lee Corporation Shannon Mississippi",
+  "parntCo1Nm": "Sara Lee Corporation",
+  "facDunsNu": 46871559,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "184 Bryan Boulevard",
+  "facStreet2Tx": null,
+  "facCityNm": "Shannon",
+  "facStateCd": "MS",
+  "countyNm": "LEE",
+  "facZipCd": "38868",
+  "facZip4Cd": null,
+  "receiptDa": "2010-02-12T00:00:00.000",
+  "facLatDecMs": "34.171944",
+  "facLongDecMs": "-088.697778",
+  "lepcNm": "Lee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-04-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lee County Emergency Management",
+    "agencyPhoneNm": "6628419020",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012498"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012498"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012498"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012498"
+    }
+  }
+}

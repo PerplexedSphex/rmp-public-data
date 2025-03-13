@@ -1,0 +1,79 @@
+{
+  "facilityId": 24670,
+  "epaFacId": "100000177293",
+  "facNm": "Tacoma",
+  "parntCo1Nm": "Air Liquide America Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1451 Thorne Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Tacoma",
+  "facStateCd": "WA",
+  "countyNm": "PIERCE",
+  "facZipCd": "98421",
+  "facZip4Cd": null,
+  "receiptDa": "2001-12-04T00:00:00.000",
+  "facLatDecMs": "47.2635",
+  "facLongDecMs": "-122.407361",
+  "lepcNm": "Pierce/Tacoma County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-06-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tacoma Fire Department",
+    "agencyPhoneNm": "2535915740",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24670"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene  [1-Propene]",
+          "casNu": "115-07-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/129"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24670"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24670"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24670"
+    }
+  }
+}

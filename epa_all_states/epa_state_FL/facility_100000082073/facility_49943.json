@@ -1,0 +1,79 @@
+{
+  "facilityId": 49943,
+  "epaFacId": "100000082073",
+  "facNm": "Pepsi Cola Bottling Company",
+  "parntCo1Nm": "Pepsi Americas",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7305 Garden Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Riviera Beach",
+  "facStateCd": "FL",
+  "countyNm": "PALM BEACH",
+  "facZipCd": "33404",
+  "facZip4Cd": null,
+  "receiptDa": "2007-10-16T00:00:00.000",
+  "facLatDecMs": "26.785000",
+  "facLongDecMs": "-080.092500",
+  "lepcNm": "District 10 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2006-02-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "City of Riviera Beach Fire Dept.",
+    "agencyPhoneNm": "5618454114",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49943"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Soft Drink Manufacturing ",
+          "naicsCd": "312111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/312111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49943"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49943"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49943"
+    }
+  }
+}

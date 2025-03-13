@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000083743,
+  "epaFacId": "100000060355",
+  "facNm": "Spectrum Thermal Processing LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 79239657,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "818 Wellington ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Cranston",
+  "facStateCd": "RI",
+  "countyNm": "PROVIDENCE",
+  "facZipCd": "02910",
+  "facZip4Cd": "3719",
+  "receiptDa": "2019-11-14T09:02:30.000",
+  "facLatDecMs": "41.767060",
+  "facLongDecMs": "-071.428253",
+  "lepcNm": "LEPC 3",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2021-06-21T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC # 3 Cranston Fire Department.",
+    "agencyPhoneNm": "4014614161",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083743"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Metal Heat Treating ",
+          "naicsCd": "332811",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332811"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083743"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083743"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083743"
+    }
+  }
+}

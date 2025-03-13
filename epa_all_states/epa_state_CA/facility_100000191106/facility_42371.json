@@ -1,0 +1,79 @@
+{
+  "facilityId": 42371,
+  "epaFacId": "100000191106",
+  "facNm": "Sierra Aluninum Fontana Extrusion Operation",
+  "parntCo1Nm": "Sierra Aluminum Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "11711 Pacific Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Fontana",
+  "facStateCd": "CA",
+  "countyNm": "SAN BERNARDINO",
+  "facZipCd": "92337",
+  "facZip4Cd": null,
+  "receiptDa": "2005-03-16T00:00:00.000",
+  "facLatDecMs": "34.023300",
+  "facLongDecMs": "-117.311500",
+  "lepcNm": "Region VI LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2005-10-25T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "San Bernardino County Fire Dept.",
+    "agencyPhoneNm": "9093551098",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42371"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Aluminum Extruded Product Manufacturing",
+          "naicsCd": "331316",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331316"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42371"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42371"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42371"
+    }
+  }
+}

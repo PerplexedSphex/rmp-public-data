@@ -1,0 +1,79 @@
+{
+  "facilityId": 14495,
+  "epaFacId": "100000152648",
+  "facNm": "Sierra Pacific - Patterson",
+  "parntCo1Nm": null,
+  "facDunsNu": 783722622,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "340 South First Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Patterson",
+  "facStateCd": "CA",
+  "countyNm": "STANISLAUS",
+  "facZipCd": "95363",
+  "facZip4Cd": null,
+  "receiptDa": "1999-07-01T00:00:00.000",
+  "facLatDecMs": "37.468889",
+  "facLongDecMs": "-121.124556",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-05-18T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Stanislaus County",
+    "agencyPhoneNm": "2095256700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14495"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14495"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14495"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14495"
+    }
+  }
+}

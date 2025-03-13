@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000025138,
+  "epaFacId": "100000197912",
+  "facNm": "Dubberly Gas Plant",
+  "parntCo1Nm": "Regency Energy Partners LP",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Sand Plant Cutoff Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Dubberly",
+  "facStateCd": "LA",
+  "countyNm": "WEBSTER",
+  "facZipCd": "71024",
+  "facZip4Cd": null,
+  "receiptDa": "2011-12-06T00:00:00.000",
+  "facLatDecMs": "32.505417",
+  "facLongDecMs": "-093.185861",
+  "lepcNm": "Webster Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dubberly Volunteer Fire Department",
+    "agencyPhoneNm": "3183778247",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025138"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025138"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025138"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025138"
+    }
+  }
+}

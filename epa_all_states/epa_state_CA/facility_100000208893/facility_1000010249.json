@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000010249,
+  "epaFacId": "100000208893",
+  "facNm": "Kettleman Compressor Station",
+  "parntCo1Nm": null,
+  "facDunsNu": 6912877,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "34453 Plymouth Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Avenal",
+  "facStateCd": "CA",
+  "countyNm": "KINGS",
+  "facZipCd": "93204",
+  "facZip4Cd": null,
+  "receiptDa": "2009-08-12T00:00:00.000",
+  "facLatDecMs": "36.071236",
+  "facLongDecMs": "-120.086780",
+  "lepcNm": "Kings County Fire Department",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2014-12-18T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kings County Fire Department",
+    "agencyPhoneNm": "5595823211",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010249"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Distribution",
+          "naicsCd": "22121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010249"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010249"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010249"
+    }
+  }
+}

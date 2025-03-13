@@ -1,0 +1,79 @@
+{
+  "facilityId": 11736,
+  "epaFacId": "100000123403",
+  "facNm": "Shell Chemical Company Inc. Taft Plant",
+  "parntCo1Nm": "Shell Oil Company Inc.",
+  "facDunsNu": 184957348,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "473 HWY 3142",
+  "facStreet2Tx": null,
+  "facCityNm": "Taft",
+  "facStateCd": "LA",
+  "countyNm": "ST. CHARLES",
+  "facZipCd": "70057",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "29.979167",
+  "facLongDecMs": "-90.455278",
+  "lepcNm": "St. Charles Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2003-01-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "St. Charles Parish EOC",
+    "agencyPhoneNm": "5047835050",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11736"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "1-Butene",
+          "casNu": "106-98-9",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/119"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11736"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11736"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11736"
+    }
+  }
+}

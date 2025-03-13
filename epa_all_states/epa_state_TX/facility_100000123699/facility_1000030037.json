@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000030037,
+  "epaFacId": "100000123699",
+  "facNm": "SCHWAN'S FOOD MANUFACTURING, INC.",
+  "parntCo1Nm": "THE SCHWAN FOOD COMPANY",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1251 SCARBOROUGH LANE",
+  "facStreet2Tx": null,
+  "facCityNm": "PASADENA",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77506",
+  "facZip4Cd": null,
+  "receiptDa": "2012-08-24T00:00:00.000",
+  "facLatDecMs": "29.691820",
+  "facLongDecMs": "-095.226932",
+  "lepcNm": "Pasadena  LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "PASADENA FIRE DEPARTMENT",
+    "agencyPhoneNm": "7134755554",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030037"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030037"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030037"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030037"
+    }
+  }
+}

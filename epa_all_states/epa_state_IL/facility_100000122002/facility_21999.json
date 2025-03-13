@@ -1,0 +1,88 @@
+{
+  "facilityId": 21999,
+  "epaFacId": "100000122002",
+  "facNm": "Aventis Behring L.L.C.",
+  "parntCo1Nm": "Aventis",
+  "facDunsNu": 931896963,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Route 50 and Armour Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Bradley",
+  "facStateCd": "IL",
+  "countyNm": "KANKAKEE",
+  "facZipCd": "60915",
+  "facZip4Cd": null,
+  "receiptDa": "2000-10-04T00:00:00.000",
+  "facLatDecMs": "41.160278",
+  "facLongDecMs": "-87.854167",
+  "lepcNm": "Kankakee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bourbonnais Fire Department",
+    "agencyPhoneNm": "8159339670",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21999"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pharmaceutical Preparation Manufacturing ",
+          "naicsCd": "325412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325412"
+            }
+          }
+        },
+        {
+          "description": "Biological Product (except Diagnostic) Manufacturing ",
+          "naicsCd": "325414",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325414"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21999"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21999"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21999"
+    }
+  }
+}

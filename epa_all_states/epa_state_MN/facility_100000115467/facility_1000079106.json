@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000079106,
+  "epaFacId": "100000115467",
+  "facNm": "Seneca Foods Corporation, Montgomery, Minnesota",
+  "parntCo1Nm": null,
+  "facDunsNu": 2207322,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "600 5th Street Southeast",
+  "facStreet2Tx": null,
+  "facCityNm": "Montgomery",
+  "facStateCd": "MN",
+  "countyNm": "LE SUEUR",
+  "facZipCd": "56069",
+  "facZip4Cd": null,
+  "receiptDa": "2019-05-21T00:00:00.000",
+  "facLatDecMs": "44.431944",
+  "facLongDecMs": "-93.578056",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Montgomery Fire Department",
+    "agencyPhoneNm": "5073648888",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079106"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079106"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079106"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079106"
+    }
+  }
+}

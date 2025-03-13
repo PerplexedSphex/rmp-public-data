@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000046905,
+  "epaFacId": "100000179674",
+  "facNm": "Wastewater Treatment Plant",
+  "parntCo1Nm": "Bodega Bay Public Utility District",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "265 Doran Park Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Bodega Bay",
+  "facStateCd": "CA",
+  "countyNm": "SONOMA",
+  "facZipCd": "94923",
+  "facZip4Cd": null,
+  "receiptDa": "2015-01-06T00:00:00.000",
+  "facLatDecMs": "38.318900",
+  "facLongDecMs": "-123.034600",
+  "lepcNm": "Sonoma County Fire & Emergency",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "County of Sonoma Fire and Emergency",
+    "agencyPhoneNm": "7075651152",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046905"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Nonhazardous Waste Treatment and Disposal ",
+          "naicsCd": "562219",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/562219"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046905"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046905"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046905"
+    }
+  }
+}

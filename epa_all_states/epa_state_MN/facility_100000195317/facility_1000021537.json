@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000021537,
+  "epaFacId": "100000195317",
+  "facNm": "Dakota Premium Foods, LLC",
+  "parntCo1Nm": "American Foods Group, LLC",
+  "facDunsNu": 46712444,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "425 South Concord Street",
+  "facStreet2Tx": null,
+  "facCityNm": "South St. Paul",
+  "facStateCd": "MN",
+  "countyNm": "DAKOTA",
+  "facZipCd": "55075",
+  "facZip4Cd": null,
+  "receiptDa": "2011-05-19T00:00:00.000",
+  "facLatDecMs": "44.885833",
+  "facLongDecMs": "-093.031667",
+  "lepcNm": "Minnesota LEPCs",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2014-07-22T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "South Metro Fire Department",
+    "agencyPhoneNm": "6515524171",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021537"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021537"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021537"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021537"
+    }
+  }
+}

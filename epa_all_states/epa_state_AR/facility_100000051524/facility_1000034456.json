@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000034456,
+  "epaFacId": "100000051524",
+  "facNm": "TYSON FOODS, INC. BERRYVILLE, AR.",
+  "parntCo1Nm": "TYSON FOODS, INC.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "110 WEST FREEMAN AVE.",
+  "facStreet2Tx": null,
+  "facCityNm": "BERRYVILLE",
+  "facStateCd": "AR",
+  "countyNm": "CARROLL",
+  "facZipCd": "72616",
+  "facZip4Cd": "3399",
+  "receiptDa": "2013-07-08T00:00:00.000",
+  "facLatDecMs": "36.370833",
+  "facLongDecMs": "-093.570556",
+  "lepcNm": "Carroll County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "BERRYVILLE FIRE DEPT.",
+    "agencyPhoneNm": "8704232345",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034456"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034456"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034456"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034456"
+    }
+  }
+}

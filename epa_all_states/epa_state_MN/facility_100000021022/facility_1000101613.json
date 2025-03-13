@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101613,
+  "epaFacId": "100000021022",
+  "facNm": "General Mills - Chanhassen",
+  "parntCo1Nm": "General Mills, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "8000 Audubon Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Chanhassen",
+  "facStateCd": "MN",
+  "countyNm": "CARVER",
+  "facZipCd": "55317",
+  "facZip4Cd": "",
+  "receiptDa": "2023-05-03T00:00:00.000",
+  "facLatDecMs": "44.859393",
+  "facLongDecMs": "-093.562619",
+  "lepcNm": "Carver County Emergency Mgmt",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chanhassen Fire Department",
+    "agencyPhoneNm": "9522271153",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101613"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour ",
+          "naicsCd": "311824",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311824"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101613"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101613"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101613"
+    }
+  }
+}

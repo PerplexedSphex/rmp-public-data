@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000075440,
+  "epaFacId": "100000185177",
+  "facNm": "DFA Dairy Brands Fluid, LLC dba Tuscan Dairy",
+  "parntCo1Nm": "DFA Dairy Brands Fluid, LLC",
+  "facDunsNu": 1430172,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "117 Cumberland Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Florence",
+  "facStateCd": "NJ",
+  "countyNm": "BURLINGTON",
+  "facZipCd": "08518",
+  "facZip4Cd": null,
+  "receiptDa": "2019-01-15T00:00:00.000",
+  "facLatDecMs": "40.105556",
+  "facLongDecMs": "-074.790000",
+  "lepcNm": "Florence Township OEM",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Florence Township LEPC",
+    "agencyPhoneNm": "6094991393",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075440"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075440"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075440"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075440"
+    }
+  }
+}

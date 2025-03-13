@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000045423,
+  "epaFacId": "100000185792",
+  "facNm": "PSEG Fossil, LLC - Mercer Generating Station",
+  "parntCo1Nm": "PSEG Power, LLC",
+  "facDunsNu": 848793910,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2512 Lamberton Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Hamilton",
+  "facStateCd": "NJ",
+  "countyNm": "MERCER",
+  "facZipCd": "08611",
+  "facZip4Cd": null,
+  "receiptDa": "2014-07-10T00:00:00.000",
+  "facLatDecMs": "40.178707",
+  "facLongDecMs": "-074.733870",
+  "lepcNm": "Hamilton Township OEM",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2017-07-12T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hamilton Township OEM",
+    "agencyPhoneNm": "6095814000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045423"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045423"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045423"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045423"
+    }
+  }
+}

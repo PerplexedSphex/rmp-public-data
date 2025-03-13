@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000000726,
+  "epaFacId": "100000024467",
+  "facNm": "Harpeth Valley Utilities District",
+  "parntCo1Nm": null,
+  "facDunsNu": 79124426,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5910 River Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Nashville",
+  "facStateCd": "TN",
+  "countyNm": "DAVIDSON",
+  "facZipCd": "37209",
+  "facZip4Cd": null,
+  "receiptDa": "2009-04-28T00:00:00.000",
+  "facLatDecMs": "36.133611",
+  "facLongDecMs": "-086.920833",
+  "lepcNm": "Davidson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-09-26T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Metro Emergency Management Agency",
+    "agencyPhoneNm": "6158628530",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000726"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000726"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000726"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000726"
+    }
+  }
+}

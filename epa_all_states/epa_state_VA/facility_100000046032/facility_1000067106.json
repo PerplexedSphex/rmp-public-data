@@ -1,0 +1,101 @@
+{
+  "facilityId": 1000067106,
+  "epaFacId": "100000046032",
+  "facNm": "Ascent Chemicals",
+  "parntCo1Nm": "Ascent Chemicals",
+  "facDunsNu": 607417441,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1975 Old Richmond Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Danville",
+  "facStateCd": "VA",
+  "countyNm": "PITTSYLVANIA",
+  "facZipCd": "24540",
+  "facZip4Cd": "5725",
+  "receiptDa": "2017-12-07T00:00:00.000",
+  "facLatDecMs": "36.608889",
+  "facLongDecMs": "-079.364167",
+  "lepcNm": "Pittsylvania Cnty Emer. Coord.",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ringgold Fire Department",
+    "agencyPhoneNm": "4348228026",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067106"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl methyl ether  [Ethene, methoxy-]",
+          "casNu": "107-25-5",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/123"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Vinyl methyl ether  [Ethene, methoxy-]",
+              "casNu": "107-25-5",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/123"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067106"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067106"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067106"
+    }
+  }
+}

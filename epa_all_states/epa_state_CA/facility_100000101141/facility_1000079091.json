@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000079091,
+  "epaFacId": "100000101141",
+  "facNm": "Future Foam, Inc",
+  "parntCo1Nm": null,
+  "facDunsNu": 7261415,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2451 Cypress Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Fullerton",
+  "facStateCd": "CA",
+  "countyNm": "ORANGE",
+  "facZipCd": "92831",
+  "facZip4Cd": null,
+  "receiptDa": "2019-05-14T00:00:00.000",
+  "facLatDecMs": "33.861944",
+  "facLongDecMs": "-117.885833",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Fullerton Fire Department",
+    "agencyPhoneNm": "7147386500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079091"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+          "naicsCd": "32615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "CBI Isocyanates and Isothiocyanates",
+          "casNu": "00-00-00",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/87"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079091"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079091"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079091"
+    }
+  }
+}

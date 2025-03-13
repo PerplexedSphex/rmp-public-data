@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000011219,
+  "epaFacId": "100000189574",
+  "facNm": "Greater Des Moines Energy Center",
+  "parntCo1Nm": "MidAmerican Energy Company",
+  "facDunsNu": 884718768,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4401 Carlisle Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Pleasant Hill",
+  "facStateCd": "IA",
+  "countyNm": "POLK",
+  "facZipCd": "50327",
+  "facZip4Cd": "1300",
+  "receiptDa": "2009-10-09T00:00:00.000",
+  "facLatDecMs": "41.556340",
+  "facLongDecMs": "-093.525390",
+  "lepcNm": "Polk County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Polk County LEPC",
+    "agencyPhoneNm": "5152834768",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011219"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Other Electric Power Generation",
+          "naicsCd": "221119",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221119"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011219"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011219"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011219"
+    }
+  }
+}

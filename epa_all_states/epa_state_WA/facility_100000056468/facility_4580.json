@@ -1,0 +1,79 @@
+{
+  "facilityId": 4580,
+  "epaFacId": "100000056468",
+  "facNm": "Olympic Chemical",
+  "parntCo1Nm": "Olympic Chemical",
+  "facDunsNu": 83362822,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1002 East \"D\" Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Tacoma",
+  "facStateCd": "WA",
+  "countyNm": "PIERCE",
+  "facZipCd": "98421",
+  "facZip4Cd": "1818",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "47.255333",
+  "facLongDecMs": "-122.430083",
+  "lepcNm": "Tacoma Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-09-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department",
+    "agencyPhoneNm": "2535915737",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4580"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "325188",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325188"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4580"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4580"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4580"
+    }
+  }
+}

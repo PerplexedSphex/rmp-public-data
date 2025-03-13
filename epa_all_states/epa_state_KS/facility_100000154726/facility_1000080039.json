@@ -1,0 +1,110 @@
+{
+  "facilityId": 1000080039,
+  "epaFacId": "100000154726",
+  "facNm": "Systech Environmental Corporation",
+  "parntCo1Nm": "Geocycle LLC",
+  "facDunsNu": 38721056,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1420 South Cement Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Fredonia",
+  "facStateCd": "KS",
+  "countyNm": "WILSON",
+  "facZipCd": "66736",
+  "facZip4Cd": null,
+  "receiptDa": "2019-06-18T15:15:50.000",
+  "facLatDecMs": "37.508064",
+  "facLongDecMs": "-095.823967",
+  "lepcNm": "Wilson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Fredonia Fire Department",
+    "agencyPhoneNm": "6203782188",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080039"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Hazardous Waste Treatment and Disposal ",
+          "naicsCd": "562211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/562211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Isopentane  [Butane, 2-methyl-]",
+              "casNu": "78-78-4",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/115"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Pentane",
+              "casNu": "109-66-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Ethyl ether  [Ethane, 1,1'-oxybis-]",
+              "casNu": "60-29-7",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/92"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080039"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080039"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080039"
+    }
+  }
+}

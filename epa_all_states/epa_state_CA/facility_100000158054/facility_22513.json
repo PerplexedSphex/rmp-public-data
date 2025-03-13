@@ -1,0 +1,79 @@
+{
+  "facilityId": 22513,
+  "epaFacId": "100000158054",
+  "facNm": "TST Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 115410854,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "11601 Etiwanda Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Fontana",
+  "facStateCd": "CA",
+  "countyNm": "SAN BERNARDINO",
+  "facZipCd": "92337",
+  "facZip4Cd": null,
+  "receiptDa": "2001-01-25T00:00:00.000",
+  "facLatDecMs": "34.044083",
+  "facLongDecMs": "-117.521861",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "SB Co Fire Dept. Haz Mat Div.",
+    "agencyPhoneNm": "9093873044",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22513"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Secondary Smelting and Alloying of Aluminum ",
+          "naicsCd": "331314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22513"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22513"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22513"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 50173,
+  "epaFacId": "100000200702",
+  "facNm": "Flint Hills Resources, LP - Bettendorf Terminal",
+  "parntCo1Nm": "Koch Industries, Inc",
+  "facDunsNu": 152515383,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4100 Elm Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Bettendorf",
+  "facStateCd": "IA",
+  "countyNm": "SCOTT",
+  "facZipCd": "52722",
+  "facZip4Cd": null,
+  "receiptDa": "2007-11-26T00:00:00.000",
+  "facLatDecMs": "41.523916",
+  "facLongDecMs": "-090.478610",
+  "lepcNm": "Scott County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-04-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Scott County Emergency Mgmt Agency",
+    "agencyPhoneNm": "5633268663",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50173"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Isopentane  [Butane, 2-methyl-]",
+              "casNu": "78-78-4",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/115"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50173"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50173"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50173"
+    }
+  }
+}

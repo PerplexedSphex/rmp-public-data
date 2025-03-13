@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000104094,
+  "epaFacId": "100000113405",
+  "facNm": "JBS Hyrum Beef Facility",
+  "parntCo1Nm": "JBS USA LLC",
+  "facDunsNu": 86186285,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "410 North 200 West",
+  "facStreet2Tx": "",
+  "facCityNm": "Hyrum",
+  "facStateCd": "UT",
+  "countyNm": "CACHE",
+  "facZipCd": "84319",
+  "facZip4Cd": "",
+  "receiptDa": "2023-01-31T00:00:00.000",
+  "facLatDecMs": "41.643444",
+  "facLongDecMs": "-111.859778",
+  "lepcNm": "Cache County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cache County LEPC",
+    "agencyPhoneNm": "4357505495",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104094"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104094"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104094"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104094"
+    }
+  }
+}

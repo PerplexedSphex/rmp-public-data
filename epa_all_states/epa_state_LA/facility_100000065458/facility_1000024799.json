@@ -1,0 +1,101 @@
+{
+  "facilityId": 1000024799,
+  "epaFacId": "100000065458",
+  "facNm": "East West Copolymer, LLC, Baton Rouge Plant",
+  "parntCo1Nm": "East West Copolymer and Rubber, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1836 Shada Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Baton Rouge",
+  "facStateCd": "LA",
+  "countyNm": "EAST BATON ROUGE",
+  "facZipCd": "70805",
+  "facZip4Cd": "1049",
+  "receiptDa": "2011-11-17T00:00:00.000",
+  "facLatDecMs": "30.504628",
+  "facLongDecMs": "-091.173241",
+  "lepcNm": "East Baton Rouge LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2017-08-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Baton Rouge Fire Department",
+    "agencyPhoneNm": "2253894615",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024799"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Synthetic Rubber Manufacturing ",
+          "naicsCd": "325212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "1,3-Butadiene",
+          "casNu": "106-99-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/120"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Acrylonitrile  [2-Propenenitrile]",
+          "casNu": "107-13-1",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/25"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024799"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024799"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024799"
+    }
+  }
+}

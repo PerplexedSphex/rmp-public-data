@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001384,
+  "epaFacId": "100000168374",
+  "facNm": "Interstate Warehousing Denver",
+  "parntCo1Nm": "Tippmann Group",
+  "facDunsNu": 928279157,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10251 E. 51st Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Denver",
+  "facStateCd": "CO",
+  "countyNm": "DENVER",
+  "facZipCd": "80239",
+  "facZip4Cd": "2100",
+  "receiptDa": "2009-05-13T00:00:00.000",
+  "facLatDecMs": "39.823889",
+  "facLongDecMs": "-104.869167",
+  "lepcNm": "Denver LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Denver Fire Department District 5",
+    "agencyPhoneNm": "3038929111",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001384"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001384"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001384"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001384"
+    }
+  }
+}

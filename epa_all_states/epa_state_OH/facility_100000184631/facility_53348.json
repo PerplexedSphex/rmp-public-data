@@ -1,0 +1,79 @@
+{
+  "facilityId": 53348,
+  "epaFacId": "100000184631",
+  "facNm": "FirstEnergy Generation Corp.",
+  "parntCo1Nm": null,
+  "facDunsNu": 6998371,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "57246 Ferry Landing Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Shadyside",
+  "facStateCd": "OH",
+  "countyNm": "BELMONT",
+  "facZipCd": "43947",
+  "facZip4Cd": "9701",
+  "receiptDa": "2009-01-07T00:00:00.000",
+  "facLatDecMs": "39.909167",
+  "facLongDecMs": "-080.760556",
+  "lepcNm": "Belmont County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2010-11-19T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Belmont LEPC",
+    "agencyPhoneNm": "7406955984",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53348"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53348"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53348"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53348"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000095704,
+  "epaFacId": "100000190633",
+  "facNm": "Oberweis Dairy",
+  "parntCo1Nm": null,
+  "facDunsNu": 19926567,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "951 Ice Cream Drive ",
+  "facStreet2Tx": null,
+  "facCityNm": "North Aurora",
+  "facStateCd": "IL",
+  "countyNm": "KANE",
+  "facZipCd": "60542",
+  "facZip4Cd": null,
+  "receiptDa": "2021-09-22T18:19:59.000",
+  "facLatDecMs": "41.798489",
+  "facLongDecMs": "-088.348433",
+  "lepcNm": "Kane County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "North Aurora Fire Protection Distri",
+    "agencyPhoneNm": "6308979698",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000095704"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        },
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000095704"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000095704"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000095704"
+    }
+  }
+}

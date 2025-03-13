@@ -1,0 +1,79 @@
+{
+  "facilityId": 21500,
+  "epaFacId": "100000170502",
+  "facNm": "SYSCO Food Services of San Antonio",
+  "parntCo1Nm": "SYSCO Coporation",
+  "facDunsNu": 99572992,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "5711 FM 78",
+  "facStreet2Tx": null,
+  "facCityNm": "San Antonio",
+  "facStateCd": "TX",
+  "countyNm": "BEXAR",
+  "facZipCd": "78244",
+  "facZip4Cd": "1005",
+  "receiptDa": "2000-06-15T00:00:00.000",
+  "facLatDecMs": "29.475611",
+  "facLongDecMs": "-98.377",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "San Antonio Fire Department",
+    "agencyPhoneNm": "2102077744",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21500"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21500"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21500"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21500"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1116,
+  "epaFacId": "100000012112",
+  "facNm": "WASTEWATER TREATMENT PLANT",
+  "parntCo1Nm": "CITY OF YANKTON",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "700 LEVEE STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "YANKTON",
+  "facStateCd": "SD",
+  "countyNm": "YANKTON",
+  "facZipCd": "57078",
+  "facZip4Cd": "0176",
+  "receiptDa": "1999-05-24T00:00:00.000",
+  "facLatDecMs": "42.867667",
+  "facLongDecMs": "-97.3815",
+  "lepcNm": "Yankton County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2002-10-17T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "FIRE DEPARTMENT",
+    "agencyPhoneNm": "6056685228",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1116"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1116"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1116"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1116"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 8544,
+  "epaFacId": "100000107234",
+  "facNm": "Country Fresh Grand Rapids Division",
+  "parntCo1Nm": "Country Fresh Inc",
+  "facDunsNu": 5869078,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2555 Buchanan Ave. SW",
+  "facStreet2Tx": null,
+  "facCityNm": "Grand Rapids",
+  "facStateCd": "MI",
+  "countyNm": "KENT",
+  "facZipCd": "49518",
+  "facZip4Cd": "0814",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "42.901111",
+  "facLongDecMs": "-85.6725",
+  "lepcNm": "Kent County",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wyoming Fire Dept.",
+    "agencyPhoneNm": "6165307250",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8544"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8544"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8544"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8544"
+    }
+  }
+}

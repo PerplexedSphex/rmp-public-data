@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000029396,
+  "epaFacId": "100000217222",
+  "facNm": "Intel Corporation NM Site",
+  "parntCo1Nm": "Intel Corporation",
+  "facDunsNu": 47897855,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4100 Sara Road",
+  "facStreet2Tx": "RR5-465",
+  "facCityNm": "Rio Rancho",
+  "facStateCd": "NM",
+  "countyNm": "SANDOVAL",
+  "facZipCd": "87124",
+  "facZip4Cd": "1025",
+  "receiptDa": "2012-10-17T00:00:00.000",
+  "facLatDecMs": "35.2246",
+  "facLongDecMs": "-106.6569",
+  "lepcNm": "Sandoval LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2024-07-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rio Rancho Fire and Rescue",
+    "agencyPhoneNm": "5058919501",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000029396"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Semiconductor and Related Device Manufacturing ",
+          "naicsCd": "334413",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/334413"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen chloride (anhydrous) [Hydrochloric acid]",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/54"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000029396"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000029396"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000029396"
+    }
+  }
+}

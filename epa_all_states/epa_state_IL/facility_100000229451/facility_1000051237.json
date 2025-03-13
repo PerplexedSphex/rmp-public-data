@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000051237,
+  "epaFacId": "100000229451",
+  "facNm": "Brewster Cheese Company, Stockton Location",
+  "parntCo1Nm": "Brewster Cheese Company, Ohio Location",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "300 West Railroad Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Stockton",
+  "facStateCd": "IL",
+  "countyNm": "JO DAVIESS",
+  "facZipCd": "61085",
+  "facZip4Cd": null,
+  "receiptDa": "2015-12-04T00:00:00.000",
+  "facLatDecMs": "42.348156",
+  "facLongDecMs": "-90.011192",
+  "lepcNm": "Jo Davies County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Stockton Fire Department",
+    "agencyPhoneNm": "8159472600",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051237"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051237"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051237"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051237"
+    }
+  }
+}

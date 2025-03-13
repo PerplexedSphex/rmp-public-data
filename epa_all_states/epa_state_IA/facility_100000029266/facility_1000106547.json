@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106547,
+  "epaFacId": "100000029266",
+  "facNm": "Fort Madison, IA - Canned Meat Foods",
+  "parntCo1Nm": "ConAgra Foods Packaged Foods, LLC",
+  "facDunsNu": 965593359,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2467 Henry Ladyn Drive",
+  "facStreet2Tx": "HWY 61 South",
+  "facCityNm": "Fort Madison",
+  "facStateCd": "IA",
+  "countyNm": "LEE",
+  "facZipCd": "52627",
+  "facZip4Cd": "1427",
+  "receiptDa": "2023-08-24T00:00:00.000",
+  "facLatDecMs": "40.576611",
+  "facLongDecMs": "-091.437480",
+  "lepcNm": "Lee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fort Madison Fire Department",
+    "agencyPhoneNm": "3193727700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106547"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106547"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106547"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106547"
+    }
+  }
+}

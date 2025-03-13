@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000058585,
+  "epaFacId": "100000231563",
+  "facNm": "Aldi Rosenberg Warehouse",
+  "parntCo1Nm": "ALDI, Inc.",
+  "facDunsNu": 80290657,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "777 HWY 90 A West",
+  "facStreet2Tx": null,
+  "facCityNm": "Rosenberg",
+  "facStateCd": "TX",
+  "countyNm": "FORT BEND",
+  "facZipCd": "77471",
+  "facZip4Cd": null,
+  "receiptDa": "2016-07-11T00:00:00.000",
+  "facLatDecMs": "29.555483",
+  "facLongDecMs": "-95.826050",
+  "lepcNm": "Fort Bend LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Fort Bend LEPC",
+    "agencyPhoneNm": "2183424798",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058585"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058585"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058585"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058585"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 3495,
+  "epaFacId": "100000023761",
+  "facNm": "Reichhold Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 95033551,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "249 St. Louis Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Valley Park",
+  "facStateCd": "MO",
+  "countyNm": "ST. LOUIS",
+  "facZipCd": "63088",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-09T00:00:00.000",
+  "facLatDecMs": "38.550306",
+  "facLongDecMs": "-90.488361",
+  "lepcNm": "St. Louis County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Valley Park Fire Dept.",
+    "agencyPhoneNm": "3142254620",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3495"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Resin and Synthetic Rubber Manufacturing",
+          "naicsCd": "32521",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32521"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,4-diisocyanate  [Benzene, 2,4-diisocyanato-1-methyl-]",
+          "casNu": "584-84-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/44"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3495"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3495"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3495"
+    }
+  }
+}

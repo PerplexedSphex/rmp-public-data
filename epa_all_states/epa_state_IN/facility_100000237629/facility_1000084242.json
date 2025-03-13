@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000084242,
+  "epaFacId": "100000237629",
+  "facNm": "Wal-Mart Dairy 7390 - Blue Kingfisher, LLC",
+  "parntCo1Nm": "Wal-Mart Stores, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2150 W. Pleasant Center Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Fort Wayne",
+  "facStateCd": "IN",
+  "countyNm": "ALLEN",
+  "facZipCd": "46819",
+  "facZip4Cd": null,
+  "receiptDa": "2019-12-18T18:16:20.000",
+  "facLatDecMs": "40.96205",
+  "facLongDecMs": "-85.164976",
+  "lepcNm": "Allen County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Soutwest Fire District - Fort Wayne",
+    "agencyPhoneNm": "2607472938",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084242"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084242"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084242"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084242"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000052603,
+  "epaFacId": "100000212584",
+  "facNm": "Mobile Bay Onshore Treating Facility",
+  "parntCo1Nm": "W&T Offshore, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6000 Deakle Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Theodore",
+  "facStateCd": "AL",
+  "countyNm": "MOBILE",
+  "facZipCd": "36582",
+  "facZip4Cd": null,
+  "receiptDa": "2015-10-22T00:00:00.000",
+  "facLatDecMs": "30.429570",
+  "facLongDecMs": "-88.181880",
+  "lepcNm": "Mobile County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mobile County EMA",
+    "agencyPhoneNm": "2514608000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052603"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Natural Gas Extraction ",
+          "naicsCd": "21113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen sulfide",
+          "casNu": "7783-06-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/63"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052603"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052603"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052603"
+    }
+  }
+}

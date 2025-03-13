@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000119722,
+  "epaFacId": "100000030405",
+  "facNm": "The Kraft Heinz Foods Company",
+  "parntCo1Nm": "The Kraft Heinz Foods Company",
+  "facDunsNu": 7354749,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2340 Forest Lane",
+  "facStreet2Tx": "",
+  "facCityNm": "Garland",
+  "facStateCd": "TX",
+  "countyNm": "DALLAS",
+  "facZipCd": "75042",
+  "facZip4Cd": "",
+  "receiptDa": "2025-02-03T00:00:00.000",
+  "facLatDecMs": "32.906944",
+  "facLongDecMs": "-096.663056",
+  "lepcNm": "Garland Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Garland Fire Department",
+    "agencyPhoneNm": "9727817100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119722"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing ",
+          "naicsCd": "311941",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311941"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119722"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119722"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119722"
+    }
+  }
+}

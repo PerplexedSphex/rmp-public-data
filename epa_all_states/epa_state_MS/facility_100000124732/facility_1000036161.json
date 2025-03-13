@@ -1,0 +1,101 @@
+{
+  "facilityId": 1000036161,
+  "epaFacId": "100000124732",
+  "facNm": "Centreville Plant",
+  "parntCo1Nm": "GEO Specialty Chemicals, Inc",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "700 Highway 33 South",
+  "facStreet2Tx": null,
+  "facCityNm": "Centreville",
+  "facStateCd": "MS",
+  "countyNm": "WILKINSON",
+  "facZipCd": "39631",
+  "facZip4Cd": null,
+  "receiptDa": "2013-09-04T00:00:00.000",
+  "facLatDecMs": "31.071083",
+  "facLongDecMs": "-091.079944",
+  "lepcNm": "Wilkinson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wilkinson County LEPC",
+    "agencyPhoneNm": "6018884381",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036161"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Organic Chemical Manufacturing",
+          "naicsCd": "32519",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32519"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Dimethylamine  [Methanamine, N-methyl-]",
+          "casNu": "124-40-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/133"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Epichlorohydrin  [Oxirane, (chloromethyl)-]",
+          "casNu": "106-89-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/21"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036161"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036161"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036161"
+    }
+  }
+}

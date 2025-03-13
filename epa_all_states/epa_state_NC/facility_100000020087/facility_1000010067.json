@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000010067,
+  "epaFacId": "100000020087",
+  "facNm": "Gillam & Mason, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 72021637,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1835 NC 45 South",
+  "facStreet2Tx": null,
+  "facCityNm": "Cofield",
+  "facStateCd": "NC",
+  "countyNm": "HERTFORD",
+  "facZipCd": "27922",
+  "facZip4Cd": null,
+  "receiptDa": "2009-07-23T00:00:00.000",
+  "facLatDecMs": "36.305306",
+  "facLongDecMs": "-076.805139",
+  "lepcNm": "Hertford County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-05-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hertford County Emergency Services",
+    "agencyPhoneNm": "2523587861",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010067"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010067"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010067"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010067"
+    }
+  }
+}

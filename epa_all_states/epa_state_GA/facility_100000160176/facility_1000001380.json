@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001380,
+  "epaFacId": "100000160176",
+  "facNm": "Gateway - Plant # 75101",
+  "parntCo1Nm": "Americold Realty",
+  "facDunsNu": 58149378,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6150 Xavier Dr. SW",
+  "facStreet2Tx": null,
+  "facCityNm": "Atlanta",
+  "facStateCd": "GA",
+  "countyNm": "FULTON",
+  "facZipCd": "30336",
+  "facZip4Cd": null,
+  "receiptDa": "2009-05-22T00:00:00.000",
+  "facLatDecMs": "33.723613",
+  "facLongDecMs": "-084.594336",
+  "lepcNm": "Fulton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-08-27T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fulton Co. Fire Station #13",
+    "agencyPhoneNm": "4043468375",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001380"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001380"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001380"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001380"
+    }
+  }
+}

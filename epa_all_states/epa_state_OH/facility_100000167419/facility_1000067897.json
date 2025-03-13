@@ -1,0 +1,97 @@
+{
+  "facilityId": 1000067897,
+  "epaFacId": "100000167419",
+  "facNm": "Warren Lapp & Son",
+  "parntCo1Nm": "N/A",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "44772 U.S. Route 36",
+  "facStreet2Tx": null,
+  "facCityNm": "Coshocton",
+  "facStateCd": "OH",
+  "countyNm": "COSHOCTON",
+  "facZipCd": "43812",
+  "facZip4Cd": null,
+  "receiptDa": "2018-02-04T00:00:00.000",
+  "facLatDecMs": "40.249083",
+  "facLongDecMs": "-081.877389",
+  "lepcNm": "Coshocton County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Coshocton County EMA",
+    "agencyPhoneNm": "7406221984",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067897"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Soybean Farming",
+          "naicsCd": "11111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11111"
+            }
+          }
+        },
+        {
+          "description": "Wheat Farming",
+          "naicsCd": "11114",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11114"
+            }
+          }
+        },
+        {
+          "description": "Corn Farming",
+          "naicsCd": "11115",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11115"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067897"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067897"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067897"
+    }
+  }
+}

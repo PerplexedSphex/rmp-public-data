@@ -1,0 +1,79 @@
+{
+  "facilityId": 6128,
+  "epaFacId": "100000080529",
+  "facNm": "Cargill North American Corn Milling",
+  "parntCo1Nm": "Cargill, Inc.",
+  "facDunsNu": 836108845,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "650 Industrial Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Blair",
+  "facStateCd": "NE",
+  "countyNm": "WASHINGTON",
+  "facZipCd": "68008",
+  "facZip4Cd": "2649",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "41.533056",
+  "facLongDecMs": "-96.098889",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-06-04T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Blair Fire Department",
+    "agencyPhoneNm": "4024264747",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6128"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Wet Corn Milling and Starch Manufacturing ",
+          "naicsCd": "311221",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311221"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6128"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6128"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6128"
+    }
+  }
+}

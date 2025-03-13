@@ -1,0 +1,79 @@
+{
+  "facilityId": 1112,
+  "epaFacId": "100000012041",
+  "facNm": "ADM Milling Co. - Buffalo",
+  "parntCo1Nm": "Archer Daniels Midland Co.",
+  "facDunsNu": 876381526,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "250 Ganson St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Buffalo",
+  "facStateCd": "NY",
+  "countyNm": "ERIE",
+  "facZipCd": "14203",
+  "facZip4Cd": null,
+  "receiptDa": "1999-05-24T00:00:00.000",
+  "facLatDecMs": "42.869444",
+  "facLongDecMs": "-78.874444",
+  "lepcNm": "Erie County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Buffalo Fire Dept.",
+    "agencyPhoneNm": "7168515333",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1112"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1112"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1112"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1112"
+    }
+  }
+}

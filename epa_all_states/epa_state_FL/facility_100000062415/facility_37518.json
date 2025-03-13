@@ -1,0 +1,88 @@
+{
+  "facilityId": 37518,
+  "epaFacId": "100000062415",
+  "facNm": "Cargill Juice North America",
+  "parntCo1Nm": "Cargill",
+  "facDunsNu": 153218169,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "100 East 6th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Frostproof",
+  "facStateCd": "FL",
+  "countyNm": "POLK",
+  "facZipCd": "33843",
+  "facZip4Cd": "2000",
+  "receiptDa": "2004-06-23T00:00:00.000",
+  "facLatDecMs": "27.738889",
+  "facLongDecMs": "-081.531944",
+  "lepcNm": "District 7 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2008-04-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Polk County Fire Dept. & Hazmat",
+    "agencyPhoneNm": "0000000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37518"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Fruit, Juice, and Vegetable Manufacturing ",
+          "naicsCd": "311411",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311411"
+            }
+          }
+        },
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37518"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37518"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37518"
+    }
+  }
+}

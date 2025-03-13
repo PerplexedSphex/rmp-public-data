@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000023386,
+  "epaFacId": "100000087489",
+  "facNm": "Icelandic USA.",
+  "parntCo1Nm": null,
+  "facDunsNu": 41421157,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "190 Enterprise Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Newport News",
+  "facStateCd": "VA",
+  "countyNm": "NEWPORT NEWS (CITY)",
+  "facZipCd": "23603",
+  "facZip4Cd": null,
+  "receiptDa": "2011-08-18T00:00:00.000",
+  "facLatDecMs": "37.173889",
+  "facLongDecMs": "-076.586667",
+  "lepcNm": "Peninsula LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "HAZMAT, City of Newport News",
+    "agencyPhoneNm": "7572472500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023386"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Seafood Product Preparation and Packaging",
+          "naicsCd": "31171",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31171"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023386"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023386"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023386"
+    }
+  }
+}

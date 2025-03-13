@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000073421,
+  "epaFacId": "100000240036",
+  "facNm": "Irish Pad",
+  "parntCo1Nm": "Enerplus Resources (USA) Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "SWSE Sec 26, T8N, R67W",
+  "facStreet2Tx": null,
+  "facCityNm": "Ault",
+  "facStateCd": "CO",
+  "countyNm": "WELD",
+  "facZipCd": "80610",
+  "facZip4Cd": null,
+  "receiptDa": "2018-10-12T00:00:00.000",
+  "facLatDecMs": "40.626345",
+  "facLongDecMs": "-104.857392",
+  "lepcNm": "Weld County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-10-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Weld County LEPC",
+    "agencyPhoneNm": "9703564000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073421"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Crude Petroleum and Natural Gas Extraction",
+          "naicsCd": "211111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073421"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073421"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073421"
+    }
+  }
+}

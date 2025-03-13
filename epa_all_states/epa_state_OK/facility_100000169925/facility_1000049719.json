@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000049719,
+  "epaFacId": "100000169925",
+  "facNm": "AECI CC Power Plant -- Chouteau Power Plant",
+  "parntCo1Nm": "Associated Electric Cooperative Incorporated",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Mid America Industrial Park",
+  "facStreet2Tx": "Highway 412B",
+  "facCityNm": "Pryor",
+  "facStateCd": "OK",
+  "countyNm": "MAYES",
+  "facZipCd": "74362",
+  "facZip4Cd": null,
+  "receiptDa": "2015-04-22T00:00:00.000",
+  "facLatDecMs": "36.222778",
+  "facLongDecMs": "-095.277222",
+  "lepcNm": "Mayes County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pryor Fire Department",
+    "agencyPhoneNm": "9188251313",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049719"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049719"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049719"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049719"
+    }
+  }
+}

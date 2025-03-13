@@ -1,0 +1,79 @@
+{
+  "facilityId": 32767,
+  "epaFacId": "100000133982",
+  "facNm": "Perdue Farms Inc., Salisbury Processing Plant",
+  "parntCo1Nm": "Perdue Farms Incorporated",
+  "facDunsNu": 49928286,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "521 Willow Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Salisbury",
+  "facStateCd": "MD",
+  "countyNm": "WICOMICO",
+  "facZipCd": "21802",
+  "facZip4Cd": "1537",
+  "receiptDa": "2004-06-18T00:00:00.000",
+  "facLatDecMs": "38.365833",
+  "facLongDecMs": "-075.605833",
+  "lepcNm": "Wicomico County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC",
+    "agencyPhoneNm": "4105430994",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32767"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Broilers and Other Meat Type Chicken Production",
+          "naicsCd": "11232",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11232"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32767"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32767"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32767"
+    }
+  }
+}

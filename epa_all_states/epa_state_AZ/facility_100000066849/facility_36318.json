@@ -1,0 +1,79 @@
+{
+  "facilityId": 36318,
+  "epaFacId": "100000066849",
+  "facNm": "Hill Brothers Chemical Co. - Tucson facility",
+  "parntCo1Nm": "Hill Brothers Chemical Co.",
+  "facDunsNu": 56599178,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3602 East 34th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Tucson",
+  "facStateCd": "AZ",
+  "countyNm": "PIMA",
+  "facZipCd": "85713",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-22T00:00:00.000",
+  "facLatDecMs": "32.193889",
+  "facLongDecMs": "-110.915833",
+  "lepcNm": "Pima County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tucson Fire Department",
+    "agencyPhoneNm": "5207914512",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36318"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Alkalies and Chlorine Manufacturing",
+          "naicsCd": "325181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36318"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36318"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36318"
+    }
+  }
+}

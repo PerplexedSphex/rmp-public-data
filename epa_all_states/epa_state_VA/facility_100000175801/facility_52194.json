@@ -1,0 +1,79 @@
+{
+  "facilityId": 52194,
+  "epaFacId": "100000175801",
+  "facNm": "Mid-Atlantic Replenishment Center",
+  "parntCo1Nm": "Perdue Farms Incorporated",
+  "facDunsNu": 2187271,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5155 Chudoba Parkway",
+  "facStreet2Tx": null,
+  "facCityNm": "Prince George",
+  "facStateCd": "VA",
+  "countyNm": "PRINCE GEORGE",
+  "facZipCd": "23875",
+  "facZip4Cd": null,
+  "receiptDa": "2004-08-24T00:00:00.000",
+  "facLatDecMs": "37.097139",
+  "facLongDecMs": "-077.310833",
+  "lepcNm": "Prince George County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Prince George County LEPC",
+    "agencyPhoneNm": "8047332609",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52194"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52194"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52194"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52194"
+    }
+  }
+}

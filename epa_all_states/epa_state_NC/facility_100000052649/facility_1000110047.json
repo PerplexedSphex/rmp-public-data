@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000110047,
+  "epaFacId": "100000052649",
+  "facNm": "FXI, Inc. - High Point",
+  "parntCo1Nm": "FXI, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2222 Surrett Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "High Point",
+  "facStateCd": "NC",
+  "countyNm": "RANDOLPH",
+  "facZipCd": "27263",
+  "facZip4Cd": "",
+  "receiptDa": "2024-01-31T00:00:00.000",
+  "facLatDecMs": "35.917600",
+  "facLongDecMs": "-080.000200",
+  "lepcNm": "Randolph County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Office of Emergency Management",
+    "agencyPhoneNm": "3368833357",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110047"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+          "naicsCd": "32615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene diisocyanate (unspecified isomer)  [Benzene, 1,3-diisocyanatomethyl-]",
+          "casNu": "26471-62-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/77"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110047"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110047"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110047"
+    }
+  }
+}

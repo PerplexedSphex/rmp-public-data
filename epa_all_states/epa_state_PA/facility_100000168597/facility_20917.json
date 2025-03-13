@@ -1,0 +1,79 @@
+{
+  "facilityId": 20917,
+  "epaFacId": "100000168597",
+  "facNm": "Air Products, Cambria Cogen Company",
+  "parntCo1Nm": "Air Products & Chemicals, Inc.",
+  "facDunsNu": 618598072,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "243 Rubisch Rd",
+  "facStreet2Tx": null,
+  "facCityNm": "Ebensburg",
+  "facStateCd": "PA",
+  "countyNm": "CAMBRIA",
+  "facZipCd": "15931",
+  "facZip4Cd": "4500",
+  "receiptDa": "2000-04-04T00:00:00.000",
+  "facLatDecMs": "40.473611",
+  "facLongDecMs": "-78.701389",
+  "lepcNm": "Cambria County EMA",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2019-09-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cambria County EMA",
+    "agencyPhoneNm": "8144722100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20917"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20917"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20917"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20917"
+    }
+  }
+}

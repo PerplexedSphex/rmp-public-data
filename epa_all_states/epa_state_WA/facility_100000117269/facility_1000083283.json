@@ -1,0 +1,121 @@
+{
+  "facilityId": 1000083283,
+  "epaFacId": "100000117269",
+  "facNm": "REC Silicon",
+  "parntCo1Nm": null,
+  "facDunsNu": 121524198,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3322 Road \"N\" N.E.",
+  "facStreet2Tx": null,
+  "facCityNm": "Moses Lake",
+  "facStateCd": "WA",
+  "countyNm": "GRANT",
+  "facZipCd": "98837",
+  "facZip4Cd": "9505",
+  "receiptDa": "2019-10-31T13:06:22.000",
+  "facLatDecMs": "47.135278",
+  "facLongDecMs": "-119.193333",
+  "lepcNm": "Grant County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Grant County Dept. of Emergency Mgt",
+    "agencyPhoneNm": "5097621462",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083283"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Chemical Product and Preparation Manufacturing",
+          "naicsCd": "32599",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32599"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Silane",
+          "casNu": "7803-62-5",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/152"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Dichlorosilane  [Silane, dichloro-]",
+              "casNu": "4109-96-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/150"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Silane",
+              "casNu": "7803-62-5",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/152"
+                }
+              }
+            },
+            {
+              "chemicalNm": "Trichlorosilane  [Silane, trichloro-]",
+              "casNu": "10025-78-2",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/153"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083283"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083283"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083283"
+    }
+  }
+}

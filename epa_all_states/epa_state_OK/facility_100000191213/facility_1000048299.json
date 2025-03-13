@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000048299,
+  "epaFacId": "100000191213",
+  "facNm": "Wal-Mart Distribution Center #7015",
+  "parntCo1Nm": "Wal-Mart Stores, Inc.",
+  "facDunsNu": 51957769,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "397319 W. 3000 Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Ochelata",
+  "facStateCd": "OK",
+  "countyNm": "WASHINGTON",
+  "facZipCd": "74051",
+  "facZip4Cd": null,
+  "receiptDa": "2015-01-13T00:00:00.000",
+  "facLatDecMs": "36.57430",
+  "facLongDecMs": "-95.93135",
+  "lepcNm": "Washington LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Washington Cty. Emergency Mgmt.",
+    "agencyPhoneNm": "9183312710",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048299"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048299"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048299"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048299"
+    }
+  }
+}

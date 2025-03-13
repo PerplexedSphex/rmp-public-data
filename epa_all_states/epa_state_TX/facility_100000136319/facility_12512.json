@@ -1,0 +1,79 @@
+{
+  "facilityId": 12512,
+  "epaFacId": "100000136319",
+  "facNm": "Little Cedar Bayou Wastewater Plant No. 1",
+  "parntCo1Nm": "City of La Porte, Texas",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1301 S. 4th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "La Porte",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77572",
+  "facZip4Cd": "1115",
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "29.648861",
+  "facLongDecMs": "-95.022889",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of La Porte Fire Department",
+    "agencyPhoneNm": "2814712141",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12512"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Waste Treatment and Disposal ",
+          "naicsCd": "56221",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/56221"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12512"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12512"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12512"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000115663,
+  "epaFacId": "100000254468",
+  "facNm": "NHS U.S. LLC",
+  "parntCo1Nm": "",
+  "facDunsNu": 795619365,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "11 Artley Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Savannah",
+  "facStateCd": "GA",
+  "countyNm": "CHATHAM",
+  "facZipCd": "31408",
+  "facZip4Cd": "",
+  "receiptDa": "2024-10-03T00:00:00.000",
+  "facLatDecMs": "32.110242",
+  "facLongDecMs": "-81.221044",
+  "lepcNm": "Chatham County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Savannah Fire Department",
+    "agencyPhoneNm": "7319258257",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115663"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dry, Condensed, and Evaporated Dairy Product Manufacturing ",
+          "naicsCd": "311514",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311514"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115663"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115663"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115663"
+    }
+  }
+}

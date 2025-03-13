@@ -1,0 +1,79 @@
+{
+  "facilityId": 45981,
+  "epaFacId": "100000174045",
+  "facNm": "Maple Leaf Bakery, Inc.",
+  "parntCo1Nm": "Maple Leaf Foods",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1955 Blue Hills Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Roanoke",
+  "facStateCd": "VA",
+  "countyNm": "ROANOKE (CITY)",
+  "facZipCd": "24012",
+  "facZip4Cd": null,
+  "receiptDa": "2006-06-29T00:00:00.000",
+  "facLatDecMs": "37.307611",
+  "facLongDecMs": "-079.905389",
+  "lepcNm": "Roanoke Joint LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Roanoke City Fire and Rescue",
+    "agencyPhoneNm": "5408532411",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45981"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Commercial Bakeries ",
+          "naicsCd": "311812",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311812"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45981"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45981"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45981"
+    }
+  }
+}

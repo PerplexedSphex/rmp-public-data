@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000043456,
+  "epaFacId": "100000114404",
+  "facNm": "The Hillshire Brands Company - Traverse City, MI",
+  "parntCo1Nm": "The Hillshire Brands Company, subsidiary of Tyson",
+  "facDunsNu": 609608500,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2314 Sybrandt Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Traverse City",
+  "facStateCd": "MI",
+  "countyNm": "GRAND TRAVERSE",
+  "facZipCd": "49685",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-17T00:00:00.000",
+  "facLatDecMs": "44.736632",
+  "facLongDecMs": "-085.621932",
+  "lepcNm": "Grand Traverse County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Grand Traverse MetroFire Department",
+    "agencyPhoneNm": "2319474000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043456"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Cakes, Pies, and Other Pastries Manufacturing ",
+          "naicsCd": "311813",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311813"
+            }
+          }
+        },
+        {
+          "description": "Bread and Bakery Product Manufacturing",
+          "naicsCd": "31181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043456"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043456"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043456"
+    }
+  }
+}

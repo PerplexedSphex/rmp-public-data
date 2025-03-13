@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000045887,
+  "epaFacId": "100000040136",
+  "facNm": "James Austin Company",
+  "parntCo1Nm": "James Austin Company",
+  "facDunsNu": 4340923,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "115 Downieville Road",
+  "facStreet2Tx": "P.O. Box 827",
+  "facCityNm": "Mars",
+  "facStateCd": "PA",
+  "countyNm": "BUTLER",
+  "facZipCd": "16046",
+  "facZip4Cd": "0827",
+  "receiptDa": "2014-07-31T00:00:00.000",
+  "facLatDecMs": "40.681793",
+  "facLongDecMs": "-079.999733",
+  "lepcNm": "Butler County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Butler County Emergency Services",
+    "agencyPhoneNm": "7242845211",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045887"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Soap and Cleaning Compound Manufacturing",
+          "naicsCd": "32561",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32561"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045887"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045887"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045887"
+    }
+  }
+}

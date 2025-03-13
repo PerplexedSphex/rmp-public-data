@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000020617,
+  "epaFacId": "100000213725",
+  "facNm": "The Dodge Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 1045517,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1550 Beach Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Batavia",
+  "facStateCd": "IL",
+  "countyNm": "KANE",
+  "facZipCd": "60510",
+  "facZip4Cd": null,
+  "receiptDa": "2011-03-03T00:00:00.000",
+  "facLatDecMs": "41.831679",
+  "facLongDecMs": "-88.301966",
+  "lepcNm": "Kane County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-03-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Clean Harbors",
+    "agencyPhoneNm": "8006458265",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020617"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020617"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020617"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020617"
+    }
+  }
+}

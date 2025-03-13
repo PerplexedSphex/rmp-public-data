@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000078383,
+  "epaFacId": "100000105913",
+  "facNm": "MGPI Processing, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 7128218,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1300 Main Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Atchison",
+  "facStateCd": "KS",
+  "countyNm": "ATCHISON",
+  "facZipCd": "66002",
+  "facZip4Cd": "2697",
+  "receiptDa": "2019-05-15T00:00:00.000",
+  "facLatDecMs": "39.561000",
+  "facLongDecMs": "-095.133300",
+  "lepcNm": "Atchison LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2020-10-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Atchison Fire Department",
+    "agencyPhoneNm": "9133674329",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078383"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Wet Corn Milling and Starch Manufacturing ",
+          "naicsCd": "311221",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311221"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene oxide  [Oxirane, methyl-]",
+          "casNu": "75-56-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/12"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078383"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078383"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078383"
+    }
+  }
+}

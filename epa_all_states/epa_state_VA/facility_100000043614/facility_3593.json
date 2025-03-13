@@ -1,0 +1,79 @@
+{
+  "facilityId": 3593,
+  "epaFacId": "100000043614",
+  "facNm": "Westvaco Corporation, Chemical Division Carbon",
+  "parntCo1Nm": "Westvaco Corporation",
+  "facDunsNu": 3112836,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Washington Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Covington",
+  "facStateCd": "VA",
+  "countyNm": "ALLEGHANY",
+  "facZipCd": "24426",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-17T00:00:00.000",
+  "facLatDecMs": "37.805278",
+  "facLongDecMs": "-79.998889",
+  "lepcNm": "Alleghany Joint LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2001-09-11T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Covington Volunteer Fire Department",
+    "agencyPhoneNm": "5409622204",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3593"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Chemical Product and Preparation Manufacturing",
+          "naicsCd": "32599",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32599"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3593"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3593"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3593"
+    }
+  }
+}

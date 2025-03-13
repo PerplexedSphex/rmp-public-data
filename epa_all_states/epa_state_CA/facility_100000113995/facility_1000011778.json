@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000011778,
+  "epaFacId": "100000113995",
+  "facNm": "Sacramento Chemical Corporation",
+  "parntCo1Nm": null,
+  "facDunsNu": 3056496,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6555 Florin Perkins Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Sacramento",
+  "facStateCd": "CA",
+  "countyNm": "SACRAMENTO",
+  "facZipCd": "95828",
+  "facZip4Cd": null,
+  "receiptDa": "2009-11-19T00:00:00.000",
+  "facLatDecMs": "38.508889",
+  "facLongDecMs": "-121.389722",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-11-14T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sac Cty Hazardous Material Division",
+    "agencyPhoneNm": "9168758550",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011778"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Services to Buildings and Dwellings",
+          "naicsCd": "56179",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/56179"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011778"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011778"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011778"
+    }
+  }
+}

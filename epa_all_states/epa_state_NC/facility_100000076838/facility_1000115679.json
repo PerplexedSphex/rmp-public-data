@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000115679,
+  "epaFacId": "100000076838",
+  "facNm": "Hexion Inc. Morganton Plant",
+  "parntCo1Nm": "Hexion Inc.",
+  "facDunsNu": 942200932,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "114 Industrial Blvd.",
+  "facStreet2Tx": "",
+  "facCityNm": "Morganton",
+  "facStateCd": "NC",
+  "countyNm": "BURKE",
+  "facZipCd": "28655",
+  "facZip4Cd": "",
+  "receiptDa": "2024-07-15T00:00:00.000",
+  "facLatDecMs": "35.730500",
+  "facLongDecMs": "-081.749667",
+  "lepcNm": "Burke County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Burke County Emerg. Mgmt. Director",
+    "agencyPhoneNm": "8287649321",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115679"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115679"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115679"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115679"
+    }
+  }
+}

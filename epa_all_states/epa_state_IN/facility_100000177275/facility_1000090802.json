@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000090802,
+  "epaFacId": "100000177275",
+  "facNm": "DG Distribution IN LLC",
+  "parntCo1Nm": "Dollar General Corporation",
+  "facDunsNu": 6946172,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6500 South US 421",
+  "facStreet2Tx": "",
+  "facCityNm": "Westville",
+  "facStateCd": "IN",
+  "countyNm": "LA PORTE",
+  "facZipCd": "46391",
+  "facZip4Cd": "",
+  "receiptDa": "2020-12-23T00:00:00.000",
+  "facLatDecMs": "41.515312",
+  "facLongDecMs": "-86.896866",
+  "lepcNm": "Laporte County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "LaPorte County HAZMAT Team",
+    "agencyPhoneNm": "2193267700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090802"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090802"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090802"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090802"
+    }
+  }
+}

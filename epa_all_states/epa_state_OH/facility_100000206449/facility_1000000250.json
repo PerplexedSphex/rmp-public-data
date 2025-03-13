@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000000250,
+  "epaFacId": "100000206449",
+  "facNm": "Foxtail Foods",
+  "parntCo1Nm": "Perkins and Marie Callender, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "6880 Fairfield Business Center Dr.",
+  "facStreet2Tx": null,
+  "facCityNm": "Fairfield",
+  "facStateCd": "OH",
+  "countyNm": "BUTLER",
+  "facZipCd": "45104",
+  "facZip4Cd": null,
+  "receiptDa": "2009-04-16T00:00:00.000",
+  "facLatDecMs": "39.318056",
+  "facLongDecMs": "-84.490000",
+  "lepcNm": "Butler County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Butler County LEPC",
+    "agencyPhoneNm": "5137855810",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000250"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Cakes, Pies, and Other Pastries Manufacturing ",
+          "naicsCd": "311813",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311813"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000250"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000250"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000250"
+    }
+  }
+}

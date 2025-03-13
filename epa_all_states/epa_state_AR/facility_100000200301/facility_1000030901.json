@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000030901,
+  "epaFacId": "100000200301",
+  "facNm": "ozark Mountain Poultry ",
+  "parntCo1Nm": "Ozark Mountain Poultry ",
+  "facDunsNu": 799910448,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "PO Box 2196",
+  "facStreet2Tx": "1420 S St. Louis Street",
+  "facCityNm": "Batesville",
+  "facStateCd": "AR",
+  "countyNm": "INDEPENDENCE",
+  "facZipCd": "72501",
+  "facZip4Cd": null,
+  "receiptDa": "2012-10-08T00:00:00.000",
+  "facLatDecMs": "35.764922",
+  "facLongDecMs": "-091.642917",
+  "lepcNm": "Independence County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2015-12-10T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Batesville Fire Department",
+    "agencyPhoneNm": "8706982439",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030901"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030901"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030901"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030901"
+    }
+  }
+}

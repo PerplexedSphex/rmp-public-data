@@ -1,0 +1,79 @@
+{
+  "facilityId": 35133,
+  "epaFacId": "100000139389",
+  "facNm": "Bayer HealthCare LLC - Berkeley Site",
+  "parntCo1Nm": "Bayer Biological Products Division",
+  "facDunsNu": 5068705,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "800 Dwight Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Berkeley",
+  "facStateCd": "CA",
+  "countyNm": "ALAMEDA",
+  "facZipCd": "94701",
+  "facZip4Cd": "1986",
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "37.858361",
+  "facLongDecMs": "-122.295611",
+  "lepcNm": "City of Berkeley",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Berkeley Fire Department",
+    "agencyPhoneNm": "5109815900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35133"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Biological Product (except Diagnostic) Manufacturing ",
+          "naicsCd": "325414",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325414"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35133"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35133"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35133"
+    }
+  }
+}

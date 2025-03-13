@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000044929,
+  "epaFacId": "100000057154",
+  "facNm": "ER Carpenter LP",
+  "parntCo1Nm": "Carpenter Company",
+  "facDunsNu": 121829725,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2611 N. General Bruce Dr.",
+  "facStreet2Tx": null,
+  "facCityNm": "Temple",
+  "facStateCd": "TX",
+  "countyNm": "BELL",
+  "facZipCd": "76501",
+  "facZip4Cd": null,
+  "receiptDa": "2016-03-31T00:00:00.000",
+  "facLatDecMs": "31.073333",
+  "facLongDecMs": "-097.347500",
+  "lepcNm": "Bell County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Temple Fire Department",
+    "agencyPhoneNm": "2542985682",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044929"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+          "naicsCd": "32615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene diisocyanate (unspecified isomer)  [Benzene, 1,3-diisocyanatomethyl-]",
+          "casNu": "26471-62-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/77"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044929"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044929"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044929"
+    }
+  }
+}

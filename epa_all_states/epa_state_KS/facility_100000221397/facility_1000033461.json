@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000033461,
+  "epaFacId": "100000221397",
+  "facNm": "Mars Chocolate North America, LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 827609491,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "100 Mars Blvd",
+  "facStreet2Tx": null,
+  "facCityNm": "Topeka",
+  "facStateCd": "KS",
+  "countyNm": "SHAWNEE",
+  "facZipCd": "66619",
+  "facZip4Cd": null,
+  "receiptDa": "2013-06-14T00:00:00.000",
+  "facLatDecMs": "38.932437",
+  "facLongDecMs": "-95.6926",
+  "lepcNm": "Shawnee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Shawnee County Emergency Management",
+    "agencyPhoneNm": "7852514151",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033461"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Confectionery Manufacturing from Purchased Chocolate",
+          "naicsCd": "31133",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31133"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033461"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033461"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033461"
+    }
+  }
+}

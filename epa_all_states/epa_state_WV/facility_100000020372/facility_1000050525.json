@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000050525,
+  "epaFacId": "100000020372",
+  "facNm": "Chemours Washington Works",
+  "parntCo1Nm": "The Chemours Company",
+  "facDunsNu": 79550848,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "8480 DuPont Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Washington",
+  "facStateCd": "WV",
+  "countyNm": "WOOD",
+  "facZipCd": "26181",
+  "facZip4Cd": null,
+  "receiptDa": "2015-07-20T00:00:00.000",
+  "facLatDecMs": "39.269972",
+  "facLongDecMs": "-081.669278",
+  "lepcNm": "Wood County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wood County 911 Emergency Services",
+    "agencyPhoneNm": "3044200911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050525"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen chloride (anhydrous) [Hydrochloric acid]",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/54"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Tetrafluoroethylene [Ethene, tetrafluoro-]",
+          "casNu": "116-14-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/132"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050525"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050525"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050525"
+    }
+  }
+}

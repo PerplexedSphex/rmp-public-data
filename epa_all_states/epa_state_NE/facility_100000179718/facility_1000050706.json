@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000050706,
+  "epaFacId": "100000179718",
+  "facNm": "Darling Ingredients, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 5092358,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "102 Lincoln Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Ravenna",
+  "facStateCd": "NE",
+  "countyNm": "BUFFALO",
+  "facZipCd": "68869",
+  "facZip4Cd": null,
+  "receiptDa": "2016-12-08T00:00:00.000",
+  "facLatDecMs": "41.025232",
+  "facLongDecMs": "-098.906108",
+  "lepcNm": "Kearney Emergency Management",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Kearney Emergency Management",
+    "agencyPhoneNm": "3082333225",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050706"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Food Manufacturing",
+          "naicsCd": "31111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050706"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050706"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050706"
+    }
+  }
+}

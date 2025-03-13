@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000068099,
+  "epaFacId": "100000218454",
+  "facNm": "Amerigas Barstow CA Terminal",
+  "parntCo1Nm": "Amerigas Propane LP",
+  "facDunsNu": 835406539,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1001 Riverside Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Barstow",
+  "facStateCd": "CA",
+  "countyNm": "SAN BERNARDINO",
+  "facZipCd": "92311",
+  "facZip4Cd": null,
+  "receiptDa": "2018-03-27T14:31:21.000",
+  "facLatDecMs": "34.905606",
+  "facLongDecMs": "-117.012324",
+  "lepcNm": "Region VI LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Barstow Fire Dept",
+    "agencyPhoneNm": "7602562254",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068099"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068099"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068099"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068099"
+    }
+  }
+}

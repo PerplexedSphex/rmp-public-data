@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000063018,
+  "epaFacId": "100000235382",
+  "facNm": "Deepwater Chemicals, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 929874634,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1210 AIRPARK RD",
+  "facStreet2Tx": null,
+  "facCityNm": "WOODWARD",
+  "facStateCd": "OK",
+  "countyNm": "WOODWARD",
+  "facZipCd": "73801",
+  "facZip4Cd": null,
+  "receiptDa": "2017-05-04T00:00:00.000",
+  "facLatDecMs": "36.432252",
+  "facLongDecMs": "-99.440642",
+  "lepcNm": "Woodward County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-05-18T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Woodward Emergency Operations",
+    "agencyPhoneNm": "4052569362",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063018"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063018"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063018"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063018"
+    }
+  }
+}

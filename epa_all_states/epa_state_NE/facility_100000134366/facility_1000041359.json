@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000041359,
+  "epaFacId": "100000134366",
+  "facNm": "Darling International Inc.",
+  "parntCo1Nm": "Darling International Inc.",
+  "facDunsNu": 5092358,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5251 West Guenther Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Grand Island",
+  "facStateCd": "NE",
+  "countyNm": "HALL",
+  "facZipCd": "68803",
+  "facZip4Cd": null,
+  "receiptDa": "2014-07-11T00:00:00.000",
+  "facLatDecMs": "40.84303",
+  "facLongDecMs": "-98.44183",
+  "lepcNm": "Hall County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-07-26T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hall County LEPC",
+    "agencyPhoneNm": "3083855360",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041359"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Food Manufacturing",
+          "naicsCd": "31111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041359"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041359"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041359"
+    }
+  }
+}

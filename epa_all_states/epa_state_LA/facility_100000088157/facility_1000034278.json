@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000034278,
+  "epaFacId": "100000088157",
+  "facNm": "Norco Chemical Plant - West Site",
+  "parntCo1Nm": "Shell Chemical LP",
+  "facDunsNu": 18149687,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "16122 River Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Norco",
+  "facStateCd": "LA",
+  "countyNm": "ST. CHARLES",
+  "facZipCd": "70079",
+  "facZip4Cd": null,
+  "receiptDa": "2014-01-06T00:00:00.000",
+  "facLatDecMs": "29.999168",
+  "facLongDecMs": "-090.422778",
+  "lepcNm": "St. Charles Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "St. Charles Parish DEP",
+    "agencyPhoneNm": "5047835050",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034278"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butene",
+          "casNu": "25167-67-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/154"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034278"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034278"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034278"
+    }
+  }
+}

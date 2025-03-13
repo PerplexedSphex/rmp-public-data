@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000027220,
+  "epaFacId": "100000198458",
+  "facNm": "Oregon Freeze Dry, Inc. Plant 2 & 3",
+  "parntCo1Nm": "Oregon Freeze Dry, Inc.",
+  "facDunsNu": 9416934,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "525 25th Ave. SW",
+  "facStreet2Tx": null,
+  "facCityNm": "Albany",
+  "facStateCd": "OR",
+  "countyNm": "LINN",
+  "facZipCd": "97322",
+  "facZip4Cd": null,
+  "receiptDa": "2012-03-13T00:00:00.000",
+  "facLatDecMs": "44.617944",
+  "facLongDecMs": "-123.107111",
+  "lepcNm": "Linn Benton Mid Valley LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Albany Fire department",
+    "agencyPhoneNm": "5419177700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027220"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dried and Dehydrated Food Manufacturing ",
+          "naicsCd": "311423",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311423"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027220"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027220"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027220"
+    }
+  }
+}

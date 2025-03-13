@@ -1,0 +1,79 @@
+{
+  "facilityId": 154,
+  "epaFacId": "100000001320",
+  "facNm": "Seneca Fertilizer, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 30641401,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1301 Baltimore Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Seneca",
+  "facStateCd": "KS",
+  "countyNm": "NEMAHA",
+  "facZipCd": "66538",
+  "facZip4Cd": "2112",
+  "receiptDa": "1999-03-23T00:00:00.000",
+  "facLatDecMs": "39.833056",
+  "facLongDecMs": "-96.073333",
+  "lepcNm": "Nemaha County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Nemaha County Emergency Preparednes",
+    "agencyPhoneNm": "7853362135",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/154"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/154"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/154"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/154"
+    }
+  }
+}

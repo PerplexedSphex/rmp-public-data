@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000030639,
+  "epaFacId": "100000219051",
+  "facNm": "International Station Power Plant",
+  "parntCo1Nm": "Chugach Electric Association, Inc.",
+  "facDunsNu": 3899341,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "5601 Electron Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Anchorage",
+  "facStateCd": "AK",
+  "countyNm": "ANCHORAGE (B)",
+  "facZipCd": "99518",
+  "facZip4Cd": null,
+  "receiptDa": "2012-09-19T00:00:00.000",
+  "facLatDecMs": "61.166667",
+  "facLongDecMs": "-149.904444",
+  "lepcNm": "None",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Emerald Alaska, Inc",
+    "agencyPhoneNm": "9072581558",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030639"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030639"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030639"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030639"
+    }
+  }
+}

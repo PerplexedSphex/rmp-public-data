@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000073620,
+  "epaFacId": "100000184962",
+  "facNm": "MacDermid, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 1164599,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1221 Farrow Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Ferndale",
+  "facStateCd": "MI",
+  "countyNm": "OAKLAND",
+  "facZipCd": "48220",
+  "facZip4Cd": null,
+  "receiptDa": "2018-10-24T00:00:00.000",
+  "facLatDecMs": "42.456667",
+  "facLongDecMs": "-83.118889",
+  "lepcNm": "Oakland County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-06-08T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ferndale Fire Department",
+    "agencyPhoneNm": "2485462510",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073620"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+          "naicsCd": "325998",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325998"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073620"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073620"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073620"
+    }
+  }
+}

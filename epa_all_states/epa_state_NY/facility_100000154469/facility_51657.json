@@ -1,0 +1,111 @@
+{
+  "facilityId": 51657,
+  "epaFacId": "100000154469",
+  "facNm": "IBM East Fishkill Facility",
+  "parntCo1Nm": "International Business Machines Corporation",
+  "facDunsNu": 1686807,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2070 Route 52",
+  "facStreet2Tx": null,
+  "facCityNm": "Hopewell Junction",
+  "facStateCd": "NY",
+  "countyNm": "DUTCHESS",
+  "facZipCd": "12533",
+  "facZip4Cd": "6531",
+  "receiptDa": "2008-05-12T00:00:00.000",
+  "facLatDecMs": "41.541972",
+  "facLongDecMs": "-073.817556",
+  "lepcNm": "Dutchess County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2018-04-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "East Fishkill Fire District",
+    "agencyPhoneNm": "8452211652",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/51657"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Semiconductor and Other Electronic Component Manufacturing",
+          "naicsCd": "33441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/51657"
+        }
+      }
+    },
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Semiconductor and Other Electronic Component Manufacturing",
+          "naicsCd": "33441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/51657"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/51657"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/51657"
+    }
+  }
+}

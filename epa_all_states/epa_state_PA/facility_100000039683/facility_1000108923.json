@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000108923,
+  "epaFacId": "100000039683",
+  "facNm": "JBS - Souderton Beef Processing",
+  "parntCo1Nm": "JBS USA",
+  "facDunsNu": 64350234,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "249 Allentown Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Souderton",
+  "facStateCd": "PA",
+  "countyNm": "MONTGOMERY",
+  "facZipCd": "18964",
+  "facZip4Cd": "",
+  "receiptDa": "2024-01-25T00:00:00.000",
+  "facLatDecMs": "40.294444",
+  "facLongDecMs": "-075.341667",
+  "lepcNm": "Montgomery County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Montgomery County Emergency Prepare",
+    "agencyPhoneNm": "2156316530",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108923"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal (except Poultry) Slaughtering ",
+          "naicsCd": "311611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108923"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108923"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000108923"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 37993,
+  "epaFacId": "100000075615",
+  "facNm": "Lansing Smith Electric Generating Plant",
+  "parntCo1Nm": "Gulf Power Company",
+  "facDunsNu": 6923429,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4300 County Road 2300",
+  "facStreet2Tx": null,
+  "facCityNm": "Southport",
+  "facStateCd": "FL",
+  "countyNm": "BAY",
+  "facZipCd": "32444",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-24T00:00:00.000",
+  "facLatDecMs": "29.901086",
+  "facLongDecMs": "-085.999938",
+  "lepcNm": "District 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2018-04-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bay County Emergency Services",
+    "agencyPhoneNm": "8507844000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37993"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37993"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37993"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37993"
+    }
+  }
+}

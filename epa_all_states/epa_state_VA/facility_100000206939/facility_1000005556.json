@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000005556,
+  "epaFacId": "100000206939",
+  "facNm": "Rinchem Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 2208627,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "202 West Wyck Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Winchester",
+  "facStateCd": "VA",
+  "countyNm": "FREDERICK",
+  "facZipCd": "22601",
+  "facZip4Cd": null,
+  "receiptDa": "2009-07-15T00:00:00.000",
+  "facLatDecMs": "39.19460",
+  "facLongDecMs": "-78.16428",
+  "lepcNm": "Winchester Joint LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-07-11T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Winchester Fire and Rescue",
+    "agencyPhoneNm": "5406622298",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005556"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005556"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005556"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005556"
+    }
+  }
+}

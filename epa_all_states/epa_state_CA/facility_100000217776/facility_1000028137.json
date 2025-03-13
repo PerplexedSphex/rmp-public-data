@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000028137,
+  "epaFacId": "100000217776",
+  "facNm": "Sysco Sacramento, Inc.",
+  "parntCo1Nm": "Sysco Corporation",
+  "facDunsNu": 79051723,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "7062 Pacific Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Pleasant Grove",
+  "facStateCd": "CA",
+  "countyNm": "SUTTER",
+  "facZipCd": "95668",
+  "facZip4Cd": null,
+  "receiptDa": "2014-05-08T00:00:00.000",
+  "facLatDecMs": "38.777736",
+  "facLongDecMs": "-121.523714",
+  "lepcNm": "Region III LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Yuba City/Pleasant Grove FD",
+    "agencyPhoneNm": "5308227400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028137"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028137"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028137"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028137"
+    }
+  }
+}

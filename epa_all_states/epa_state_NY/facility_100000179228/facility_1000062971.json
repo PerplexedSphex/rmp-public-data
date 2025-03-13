@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000062971,
+  "epaFacId": "100000179228",
+  "facNm": "Upstate Niagara Cooperative, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 4868055,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1730 Dale Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Buffalo",
+  "facStateCd": "NY",
+  "countyNm": "ERIE",
+  "facZipCd": "14225",
+  "facZip4Cd": null,
+  "receiptDa": "2017-04-13T00:00:00.000",
+  "facLatDecMs": "42.905544",
+  "facLongDecMs": "-78.773766",
+  "lepcNm": "Erie County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Erie County LEPC",
+    "agencyPhoneNm": "7168586262",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062971"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062971"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062971"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062971"
+    }
+  }
+}

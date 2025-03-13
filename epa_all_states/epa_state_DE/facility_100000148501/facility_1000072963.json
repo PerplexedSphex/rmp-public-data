@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000072963,
+  "epaFacId": "100000148501",
+  "facNm": "Perdue Foods LLC",
+  "parntCo1Nm": "Perdue Foods LLC",
+  "facDunsNu": 965256522,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "255 N. Rehoboth Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Milford",
+  "facStateCd": "DE",
+  "countyNm": "KENT",
+  "facZipCd": "19963",
+  "facZip4Cd": null,
+  "receiptDa": "2019-02-04T08:46:36.000",
+  "facLatDecMs": "38.922987",
+  "facLongDecMs": "-075.421341",
+  "lepcNm": "Kent County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Carlisle Fire Company",
+    "agencyPhoneNm": "3024228001",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072963"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072963"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072963"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072963"
+    }
+  }
+}

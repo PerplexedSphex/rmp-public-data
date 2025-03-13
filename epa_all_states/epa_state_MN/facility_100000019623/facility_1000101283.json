@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101283,
+  "epaFacId": "100000019623",
+  "facNm": "Aspire Bakeries LLC",
+  "parntCo1Nm": "Aspire Bakeries LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4075 Norex Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Chaska",
+  "facStateCd": "MN",
+  "countyNm": "CARVER",
+  "facZipCd": "55318",
+  "facZip4Cd": null,
+  "receiptDa": "2022-08-22T00:00:00.000",
+  "facLatDecMs": "44.851666",
+  "facLongDecMs": "-093.589167",
+  "lepcNm": "Minnesota LEPCs",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Chaska Fire Department",
+    "agencyPhoneNm": "9523611231",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101283"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cookie, Cracker, and Pasta Manufacturing",
+          "naicsCd": "31182",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31182"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101283"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101283"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101283"
+    }
+  }
+}

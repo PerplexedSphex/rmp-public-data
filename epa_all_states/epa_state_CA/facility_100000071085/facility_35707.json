@@ -1,0 +1,79 @@
+{
+  "facilityId": 35707,
+  "epaFacId": "100000071085",
+  "facNm": "GKN Aerospace, Chem-tronics, Inc",
+  "parntCo1Nm": "GKN Aerospace Services",
+  "facDunsNu": 67655985,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1150 West Bradley Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "El Cajon",
+  "facStateCd": "CA",
+  "countyNm": "SAN DIEGO",
+  "facZipCd": "92020",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-22T00:00:00.000",
+  "facLatDecMs": "32.816944",
+  "facLongDecMs": "-116.977222",
+  "lepcNm": "Region VI LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-07-19T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Department of Environmental Health",
+    "agencyPhoneNm": "6193382216",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35707"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Aircraft Engine and Engine Parts Manufacturing ",
+          "naicsCd": "336412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/336412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35707"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35707"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35707"
+    }
+  }
+}

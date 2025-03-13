@@ -1,0 +1,90 @@
+{
+  "facilityId": 39070,
+  "epaFacId": "100000022664",
+  "facNm": "Bitter Creek BG Mix Tank",
+  "parntCo1Nm": "Belle Fourche Pipeline Co.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "NE1/4SE1/4, Sec.10, T57N, R73W",
+  "facStreet2Tx": null,
+  "facCityNm": "Gillette",
+  "facStateCd": "WY",
+  "countyNm": "CAMPBELL",
+  "facZipCd": "82716",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-28T00:00:00.000",
+  "facLatDecMs": "44.938250",
+  "facLongDecMs": "-105.615861",
+  "lepcNm": "Campbell County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2010-12-14T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Campbell Co. LEPC",
+    "agencyPhoneNm": "3076865278",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39070"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Pipeline Transportation of Crude Oil",
+          "naicsCd": "48611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Butane",
+              "casNu": "106-97-8",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39070"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39070"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39070"
+    }
+  }
+}

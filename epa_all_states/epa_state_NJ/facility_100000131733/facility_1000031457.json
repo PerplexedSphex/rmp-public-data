@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000031457,
+  "epaFacId": "100000131733",
+  "facNm": "Thorofare Plant",
+  "parntCo1Nm": "Solvay Specialty Polymers USA, LLC",
+  "facDunsNu": 154288492,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10 Leonard Lane",
+  "facStreet2Tx": null,
+  "facCityNm": "West Deptford",
+  "facStateCd": "NJ",
+  "countyNm": "GLOUCESTER",
+  "facZipCd": "08086",
+  "facZip4Cd": "2150",
+  "receiptDa": "2013-02-12T00:00:00.000",
+  "facLatDecMs": "39.842778",
+  "facLongDecMs": "-075.209722",
+  "lepcNm": "West Deptford Twp LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "West Deptford LEPC",
+    "agencyPhoneNm": "8568452300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000031457"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinylidene fluoride [Ethene, 1,1-difluoro-]",
+          "casNu": "75-38-7",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/112"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000031457"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000031457"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000031457"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000104296,
+  "epaFacId": "100000250051",
+  "facNm": "Deadwood Facility",
+  "parntCo1Nm": "DT Midstream",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Country Road 8015",
+  "facStreet2Tx": "",
+  "facCityNm": "Carthage",
+  "facStateCd": "TX",
+  "countyNm": " PANOLA",
+  "facZipCd": "75633",
+  "facZip4Cd": "",
+  "receiptDa": "2023-03-22T00:00:00.000",
+  "facLatDecMs": "32.152704",
+  "facLongDecMs": "-94.265306",
+  "lepcNm": "Panola County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Carthage Fire Department",
+    "agencyPhoneNm": "9036935282",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104296"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Pipeline Transportation of Natural Gas",
+          "naicsCd": "48621",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48621"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104296"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104296"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104296"
+    }
+  }
+}

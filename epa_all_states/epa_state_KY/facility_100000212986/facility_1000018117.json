@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000018117,
+  "epaFacId": "100000212986",
+  "facNm": "William C. Dale Station",
+  "parntCo1Nm": null,
+  "facDunsNu": 46618377,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1925 Ford Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Winchester",
+  "facStateCd": "KY",
+  "countyNm": "CLARK",
+  "facZipCd": "40391",
+  "facZip4Cd": null,
+  "receiptDa": "2011-07-26T00:00:00.000",
+  "facLatDecMs": "37.869412",
+  "facLongDecMs": "-84.154385",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2013-03-11T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Clark County LEPC/Emergency Managem",
+    "agencyPhoneNm": "8597457415",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018117"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018117"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018117"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018117"
+    }
+  }
+}

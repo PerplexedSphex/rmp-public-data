@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000119177,
+  "epaFacId": "100000127846",
+  "facNm": "Foster Farms Turkey Products Plant 1",
+  "parntCo1Nm": "Foster Poultry Farms",
+  "facDunsNu": 193426202,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "500 F Street",
+  "facStreet2Tx": "",
+  "facCityNm": "Turlock",
+  "facStateCd": "CA",
+  "countyNm": "STANISLAUS",
+  "facZipCd": "95380",
+  "facZip4Cd": "",
+  "receiptDa": "2025-02-14T00:00:00.000",
+  "facLatDecMs": "37.484887",
+  "facLongDecMs": "-120.843690",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Turlock Fire Department",
+    "agencyPhoneNm": "2096685580",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119177"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119177"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119177"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119177"
+    }
+  }
+}

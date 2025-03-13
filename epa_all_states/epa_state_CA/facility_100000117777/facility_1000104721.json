@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000104721,
+  "epaFacId": "100000117777",
+  "facNm": "Linde - Benicia, CA",
+  "parntCo1Nm": "Linde Inc.",
+  "facDunsNu": 959821604,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "331 East Channel Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Benicia",
+  "facStateCd": "CA",
+  "countyNm": "SOLANO",
+  "facZipCd": "94510",
+  "facZip4Cd": "",
+  "receiptDa": "2023-04-05T00:00:00.000",
+  "facLatDecMs": "38.074974",
+  "facLongDecMs": "-122.134583",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Benicia Fire Department",
+    "agencyPhoneNm": "7077464275",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104721"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104721"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104721"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104721"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000063011,
+  "epaFacId": "100000173135",
+  "facNm": "Cargill Kitchen Solutions",
+  "parntCo1Nm": "Cargill, Inc.",
+  "facDunsNu": 131549388,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1750 S. Benjamin Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Mason City",
+  "facStateCd": "IA",
+  "countyNm": "CERRO GORDO",
+  "facZipCd": "50401",
+  "facZip4Cd": null,
+  "receiptDa": "2017-05-08T00:00:00.000",
+  "facLatDecMs": "43.134995",
+  "facLongDecMs": "-093.231240",
+  "lepcNm": "North Central Regional IA",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mason City Fire Department",
+    "agencyPhoneNm": "6414213640",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063011"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Food Manufacturing ",
+          "naicsCd": "311999",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311999"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063011"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063011"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063011"
+    }
+  }
+}

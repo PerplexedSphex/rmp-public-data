@@ -1,0 +1,79 @@
+{
+  "facilityId": 3334,
+  "epaFacId": "100000041858",
+  "facNm": "Bayer Corporation, Clayton, NC",
+  "parntCo1Nm": "Bayer Corporation",
+  "facDunsNu": 5068705,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "8368 US 70 West",
+  "facStreet2Tx": null,
+  "facCityNm": "Clayton",
+  "facStateCd": "NC",
+  "countyNm": "JOHNSTON",
+  "facZipCd": "27520",
+  "facZip4Cd": "0507",
+  "receiptDa": "1999-06-16T00:00:00.000",
+  "facLatDecMs": "35.617028",
+  "facLongDecMs": "-78.417139",
+  "lepcNm": "Johnston County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clayton, NC  Volunteer Fire Dept.",
+    "agencyPhoneNm": "9195534611",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3334"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Biological Product (except Diagnostic) Manufacturing ",
+          "naicsCd": "325414",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325414"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3334"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3334"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3334"
+    }
+  }
+}

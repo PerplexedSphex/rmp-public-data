@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000026539,
+  "epaFacId": "100000217053",
+  "facNm": "Farm Chemicals Inc, Raeford Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 3202579,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2274 St Pauls Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "Raeford",
+  "facStateCd": "NC",
+  "countyNm": "HOKE",
+  "facZipCd": "28376",
+  "facZip4Cd": null,
+  "receiptDa": "2013-07-26T00:00:00.000",
+  "facLatDecMs": "34.95689",
+  "facLongDecMs": "-79.194167",
+  "lepcNm": "Hoke County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hoke County Emergency Management",
+    "agencyPhoneNm": "9108754126",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026539"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026539"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026539"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000026539"
+    }
+  }
+}

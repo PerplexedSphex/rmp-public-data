@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043210,
+  "epaFacId": "100000161861",
+  "facNm": "Tessenderlo Kerley, Inc. - Coffeyville Facility",
+  "parntCo1Nm": "Tessenderlo Kerley, Inc.",
+  "facDunsNu": 18783725,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "515 N. Laurel St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Coffeyville",
+  "facStateCd": "KS",
+  "countyNm": "MONTGOMERY",
+  "facZipCd": "67337",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-09T00:00:00.000",
+  "facLatDecMs": "37.048587",
+  "facLongDecMs": "-095.611253",
+  "lepcNm": "Montgomery County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC",
+    "agencyPhoneNm": "6203301260",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043210"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Nitrogenous Fertilizer Manufacturing ",
+          "naicsCd": "325311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043210"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043210"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043210"
+    }
+  }
+}

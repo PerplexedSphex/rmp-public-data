@@ -1,0 +1,79 @@
+{
+  "facilityId": 5428,
+  "epaFacId": "100000066536",
+  "facNm": "Stanislaus County Resource Recovery Facilty",
+  "parntCo1Nm": "Ogden Martin Systems, Inc. (OMS)",
+  "facDunsNu": 792864563,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4040 Fink Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Crows Landing",
+  "facStateCd": "CA",
+  "countyNm": "STANISLAUS",
+  "facZipCd": "95313",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "37.390833",
+  "facLongDecMs": "-121.076389",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "S.C.H.M.D.",
+    "agencyPhoneNm": "2095256700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5428"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Solid Waste Combustors and Incinerators ",
+          "naicsCd": "562213",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/562213"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5428"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5428"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5428"
+    }
+  }
+}

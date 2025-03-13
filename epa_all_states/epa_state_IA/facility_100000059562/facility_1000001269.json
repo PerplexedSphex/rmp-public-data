@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001269,
+  "epaFacId": "100000059562",
+  "facNm": "Climax Molybdenum Company",
+  "parntCo1Nm": "Freeport-McMoRan Copper and Gold, Inc.",
+  "facDunsNu": 68500420,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2598 Highway 61",
+  "facStreet2Tx": null,
+  "facCityNm": "Fort Madison",
+  "facStateCd": "IA",
+  "countyNm": "LEE",
+  "facZipCd": "52627",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-16T00:00:00.000",
+  "facLatDecMs": "40.582500",
+  "facLongDecMs": "-091.422778",
+  "lepcNm": "Lee County Emergency Response",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fort Madison Fire Department",
+    "agencyPhoneNm": "3193726472",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001269"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Primary Smelting and Refining of Nonferrous Metal (except Copper and Aluminum)",
+          "naicsCd": "331419",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331419"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001269"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001269"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001269"
+    }
+  }
+}

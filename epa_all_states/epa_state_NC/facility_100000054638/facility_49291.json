@@ -1,0 +1,79 @@
+{
+  "facilityId": 49291,
+  "epaFacId": "100000054638",
+  "facNm": "Genpak LLC",
+  "parntCo1Nm": "Genpak Corporation",
+  "facDunsNu": 161557970,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1001 Westinghouse Blvd",
+  "facStreet2Tx": "P.O. Box 7846",
+  "facCityNm": "Charlotte",
+  "facStateCd": "NC",
+  "countyNm": "MECKLENBURG",
+  "facZipCd": "28241",
+  "facZip4Cd": "7846",
+  "receiptDa": "2007-08-22T00:00:00.000",
+  "facLatDecMs": "35.117028",
+  "facLongDecMs": "-080.930361",
+  "lepcNm": "Mecklenburg County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Charlotte Fire Dept. Station 26",
+    "agencyPhoneNm": "7045886752",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49291"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Polystyrene Foam Product Manufacturing",
+          "naicsCd": "32614",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32614"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49291"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49291"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49291"
+    }
+  }
+}

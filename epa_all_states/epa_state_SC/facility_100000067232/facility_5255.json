@@ -1,0 +1,79 @@
+{
+  "facilityId": 5255,
+  "epaFacId": "100000067232",
+  "facNm": "STEEL HEDDLE MANUFACTURING",
+  "parntCo1Nm": null,
+  "facDunsNu": 2267490,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "692 PLANT ROAD",
+  "facStreet2Tx": "PO BOX 619",
+  "facCityNm": "WESTMINSTER",
+  "facStateCd": "SC",
+  "countyNm": "OCONEE",
+  "facZipCd": "29693",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "34.675",
+  "facLongDecMs": "-83.353889",
+  "lepcNm": "Oconee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2006-06-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Oconee County LEPA",
+    "agencyPhoneNm": "8646384200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5255"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Rolling and Drawing of Purchased Steel",
+          "naicsCd": "33122",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33122"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5255"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5255"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5255"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000048542,
+  "epaFacId": "100000169943",
+  "facNm": "US Steel Gary Works QBOP Propane Facility",
+  "parntCo1Nm": "United States Steel Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "One North Broadway",
+  "facStreet2Tx": null,
+  "facCityNm": "Gary",
+  "facStateCd": "IN",
+  "countyNm": "LAKE",
+  "facZipCd": "46402",
+  "facZip4Cd": null,
+  "receiptDa": "2015-02-11T00:00:00.000",
+  "facLatDecMs": "41.618611",
+  "facLongDecMs": "-087.341667",
+  "lepcNm": "Lake County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2025-02-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lake County LEPC",
+    "agencyPhoneNm": "2197568302",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048542"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Iron and Steel Mills and Ferroalloy Manufacturing",
+          "naicsCd": "33111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048542"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048542"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048542"
+    }
+  }
+}

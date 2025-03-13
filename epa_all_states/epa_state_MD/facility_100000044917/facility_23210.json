@@ -1,0 +1,88 @@
+{
+  "facilityId": 23210,
+  "epaFacId": "100000044917",
+  "facNm": "Rh\u00f4ne-Poulenc Surfactants and Specialties, LP",
+  "parntCo1Nm": null,
+  "facDunsNu": 1250265,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3440 Fairfield Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Baltimore",
+  "facStateCd": "MD",
+  "countyNm": "BALTIMORE CITY",
+  "facZipCd": "21226",
+  "facZip4Cd": "1512",
+  "receiptDa": "1999-06-17T00:00:00.000",
+  "facLatDecMs": "39.234472",
+  "facLongDecMs": "-76.578278",
+  "lepcNm": "Baltimore City LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2001-11-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Baltimore City Fire Prev. Bureau",
+    "agencyPhoneNm": "4103965752",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23210"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Surface Active Agent Manufacturing ",
+          "naicsCd": "325613",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325613"
+            }
+          }
+        },
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23210"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23210"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23210"
+    }
+  }
+}

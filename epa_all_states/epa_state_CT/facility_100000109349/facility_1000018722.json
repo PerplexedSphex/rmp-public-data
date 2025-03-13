@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000018722,
+  "epaFacId": "100000109349",
+  "facNm": "CYTEC Industries Inc., Wallingford CT Plant",
+  "parntCo1Nm": "CYTEC Industries Inc.",
+  "facDunsNu": 809749948,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "South Cherry Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Wallingford",
+  "facStateCd": "CT",
+  "countyNm": "NEW HAVEN",
+  "facZipCd": "06492",
+  "facZip4Cd": null,
+  "receiptDa": "2010-11-26T00:00:00.000",
+  "facLatDecMs": "41.435000",
+  "facLongDecMs": "-072.836389",
+  "lepcNm": "Wallingford LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wallingford Fire Department",
+    "agencyPhoneNm": "2032650333",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018722"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018722"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018722"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018722"
+    }
+  }
+}

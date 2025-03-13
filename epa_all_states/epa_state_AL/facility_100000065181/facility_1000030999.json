@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000030999,
+  "epaFacId": "100000065181",
+  "facNm": "Wayne Farms LLC - Union Springs Fresh Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 797613275,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "444 Baskin Street South",
+  "facStreet2Tx": null,
+  "facCityNm": "Union Springs",
+  "facStateCd": "AL",
+  "countyNm": "BULLOCK",
+  "facZipCd": "36089",
+  "facZip4Cd": null,
+  "receiptDa": "2012-10-08T00:00:00.000",
+  "facLatDecMs": "32.136898",
+  "facLongDecMs": "-85.723793",
+  "lepcNm": "Bullock County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Union Springs Volunteer Fire Dept.",
+    "agencyPhoneNm": "3347382121",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030999"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030999"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030999"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030999"
+    }
+  }
+}

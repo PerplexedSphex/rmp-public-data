@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000105696,
+  "epaFacId": "100000251309",
+  "facNm": "Gulf Coast Ammonia LLC",
+  "parntCo1Nm": "Gulf Coast Ammonia Holdings, LLC",
+  "facDunsNu": 117525040,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2800 Loop 197 South",
+  "facStreet2Tx": "3.1946 Acre Lease Tract",
+  "facCityNm": "Texas City",
+  "facStateCd": "TX",
+  "countyNm": "GALVESTON",
+  "facZipCd": "77590",
+  "facZip4Cd": "",
+  "receiptDa": "2023-06-14T00:00:00.000",
+  "facLatDecMs": "29.358786",
+  "facLongDecMs": "-94.912814",
+  "lepcNm": "Galveston County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Texas City Emergency Management",
+    "agencyPhoneNm": "4092579814",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105696"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Nitrogenous Fertilizer Manufacturing ",
+          "naicsCd": "325311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105696"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105696"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105696"
+    }
+  }
+}

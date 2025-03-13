@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000002378,
+  "epaFacId": "100000102916",
+  "facNm": "Gorton's",
+  "parntCo1Nm": "Nippon Suisan USA d/b/a Gorton's",
+  "facDunsNu": 45906765,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "127 Rogers Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Gloucester",
+  "facStateCd": "MA",
+  "countyNm": "ESSEX",
+  "facZipCd": "01930",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-18T00:00:00.000",
+  "facLatDecMs": "42.614639",
+  "facLongDecMs": "-070.655694",
+  "lepcNm": "Gloucester Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-10-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Gloucester Fire Department",
+    "agencyPhoneNm": "9782819760",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002378"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fresh and Frozen Seafood Processing",
+          "naicsCd": "311712",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311712"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002378"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002378"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002378"
+    }
+  }
+}

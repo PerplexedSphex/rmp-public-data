@@ -1,0 +1,79 @@
+{
+  "facilityId": 26454,
+  "epaFacId": "100000179772",
+  "facNm": "PET Dairy",
+  "parntCo1Nm": "Dean Foods Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "610 E. State Street",
+  "facStreet2Tx": null,
+  "facCityNm": "O'Fallon",
+  "facStateCd": "IL",
+  "countyNm": "ST. CLAIR",
+  "facZipCd": "62269",
+  "facZip4Cd": null,
+  "receiptDa": "2002-08-16T00:00:00.000",
+  "facLatDecMs": "38.592028",
+  "facLongDecMs": "-89.897972",
+  "lepcNm": "St. Clair County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "O'Fallon Fire Department",
+    "agencyPhoneNm": "6186244545",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26454"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Cattle and Milk Production",
+          "naicsCd": "11212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26454"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26454"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26454"
+    }
+  }
+}

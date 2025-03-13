@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000113411,
+  "epaFacId": "100000112255",
+  "facNm": "Framatome - Richland Plant",
+  "parntCo1Nm": "Framatome Inc.",
+  "facDunsNu": 5830294,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2101 Horn Rapids Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Richland",
+  "facStateCd": "WA",
+  "countyNm": "BENTON",
+  "facZipCd": "99354",
+  "facZip4Cd": "5102",
+  "receiptDa": "2024-05-02T00:00:00.000",
+  "facLatDecMs": "46.210200",
+  "facLongDecMs": "-119.182400",
+  "lepcNm": "Benton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Richland Fire Department",
+    "agencyPhoneNm": "5099427550",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113411"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113411"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113411"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113411"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000060897,
+  "epaFacId": "100000018401",
+  "facNm": "Holdrege, NE 2138 Satellite",
+  "parntCo1Nm": "Nutrien Ag Solutions",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "11828 733 Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Holdrege",
+  "facStateCd": "NE",
+  "countyNm": "PHELPS",
+  "facZipCd": "68949",
+  "facZip4Cd": null,
+  "receiptDa": "2016-11-04T00:00:00.000",
+  "facLatDecMs": "40.451658",
+  "facLongDecMs": "-099.298779",
+  "lepcNm": "Phelps LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Fire Department",
+    "agencyPhoneNm": "3082632851",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060897"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Phosphatic Fertilizer Manufacturing ",
+          "naicsCd": "325312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060897"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060897"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060897"
+    }
+  }
+}

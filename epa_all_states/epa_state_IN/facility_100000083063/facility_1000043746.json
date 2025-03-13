@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043746,
+  "epaFacId": "100000083063",
+  "facNm": "ACS Technical Products, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 16360265,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "420 South Colfax Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Griffith",
+  "facStateCd": "IN",
+  "countyNm": "LAKE",
+  "facZipCd": "46319",
+  "facZip4Cd": null,
+  "receiptDa": "2019-05-23T15:10:04.000",
+  "facLatDecMs": "41.517222",
+  "facLongDecMs": "-087.416111",
+  "lepcNm": "Lake County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Griffith Fire Department",
+    "agencyPhoneNm": "2199243151",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043746"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Organic Chemical Manufacturing",
+          "naicsCd": "32519",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32519"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Bromine",
+          "casNu": "7726-95-6",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/60"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043746"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043746"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043746"
+    }
+  }
+}

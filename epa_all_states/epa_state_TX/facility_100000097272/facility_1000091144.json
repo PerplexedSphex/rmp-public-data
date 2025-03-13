@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000091144,
+  "epaFacId": "100000097272",
+  "facNm": "Lineage Logistics - El Paso",
+  "parntCo1Nm": "Lineage Logistics LLC",
+  "facDunsNu": 41244153,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10500 Railroad Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "El Paso",
+  "facStateCd": "TX",
+  "countyNm": "EL PASO",
+  "facZipCd": "79924",
+  "facZip4Cd": "1667",
+  "receiptDa": "2020-12-03T00:00:00.000",
+  "facLatDecMs": "31.919716",
+  "facLongDecMs": "-106.376594",
+  "lepcNm": "El Paso City/County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "El Paso Fire Department",
+    "agencyPhoneNm": "9158324432",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091144"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091144"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091144"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000091144"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000102822,
+  "epaFacId": "100000095568",
+  "facNm": "Omnium St.Joseph",
+  "parntCo1Nm": "WinField Solutions, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1417 Lower Lake Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Saint Joseph",
+  "facStateCd": "MO",
+  "countyNm": "BUCHANAN",
+  "facZipCd": "64504",
+  "facZip4Cd": "",
+  "receiptDa": "2022-11-17T00:00:00.000",
+  "facLatDecMs": "39.720833",
+  "facLongDecMs": "-094.882500",
+  "lepcNm": "Buchanan County/St.Joseph LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Buchanan County LEPC",
+    "agencyPhoneNm": "8162711574",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102822"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+          "naicsCd": "32532",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32532"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isopropylamine [2-Propanamine]",
+          "casNu": "75-31-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/109"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102822"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102822"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102822"
+    }
+  }
+}

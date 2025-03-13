@@ -1,0 +1,79 @@
+{
+  "facilityId": 32920,
+  "epaFacId": "100000072921",
+  "facNm": "Rich Products Manufacturing Corp.-Buffalo Facility",
+  "parntCo1Nm": "Rich Products Corporation",
+  "facDunsNu": 2108371,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1145 Niagara Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Buffalo",
+  "facStateCd": "NY",
+  "countyNm": "ERIE",
+  "facZipCd": "14240",
+  "facZip4Cd": "1383",
+  "receiptDa": "2004-06-18T00:00:00.000",
+  "facLatDecMs": "42.914444",
+  "facLongDecMs": "-078.898833",
+  "lepcNm": "Erie County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-05-29T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Buffalo HAZMAT Team",
+    "agencyPhoneNm": "7168515333",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32920"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Food Manufacturing",
+          "naicsCd": "31199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32920"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32920"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32920"
+    }
+  }
+}

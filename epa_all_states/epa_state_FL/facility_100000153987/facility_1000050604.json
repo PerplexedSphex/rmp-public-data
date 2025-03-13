@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000050604,
+  "epaFacId": "100000153987",
+  "facNm": "Buckhead Meat of Florida",
+  "parntCo1Nm": "Sysco Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "355 Progress Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Auburndale",
+  "facStateCd": "FL",
+  "countyNm": "POLK",
+  "facZipCd": "33823",
+  "facZip4Cd": null,
+  "receiptDa": "2015-07-07T00:00:00.000",
+  "facLatDecMs": "28.072217",
+  "facLongDecMs": "-081.778933",
+  "lepcNm": "District 7 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Auburndale Fire Department",
+    "agencyPhoneNm": "8639655522",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050604"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat and Meat Product Merchant Wholesalers ",
+          "naicsCd": "42447",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42447"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050604"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050604"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050604"
+    }
+  }
+}

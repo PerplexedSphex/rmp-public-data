@@ -1,0 +1,90 @@
+{
+  "facilityId": 54592,
+  "epaFacId": "100000131788",
+  "facNm": "City of Austin Wastewater Treatment Facility",
+  "parntCo1Nm": null,
+  "facDunsNu": 78667946,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1205 Main Street South",
+  "facStreet2Tx": null,
+  "facCityNm": "Austin",
+  "facStateCd": "MN",
+  "countyNm": "MOWER",
+  "facZipCd": "55912",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-16T00:00:00.000",
+  "facLatDecMs": "43.655556",
+  "facLongDecMs": "-092.973611",
+  "lepcNm": "MN 100 (District 1 LEPC, MN)",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Austin Fire Department",
+    "agencyPhoneNm": "5074333405",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54592"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54592"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54592"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54592"
+    }
+  }
+}

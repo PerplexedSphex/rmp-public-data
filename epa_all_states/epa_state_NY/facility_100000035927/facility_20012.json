@@ -1,0 +1,79 @@
+{
+  "facilityId": 20012,
+  "epaFacId": "100000035927",
+  "facNm": "Kraft Foods, Inc.",
+  "parntCo1Nm": "Philip Morris Companies, Inc.",
+  "facDunsNu": 788221570,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "140 Spring Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Avon",
+  "facStateCd": "NY",
+  "countyNm": "LIVINGSTON",
+  "facZipCd": "14414",
+  "facZip4Cd": "1153",
+  "receiptDa": "1999-06-14T00:00:00.000",
+  "facLatDecMs": "42.911111",
+  "facLongDecMs": "-77.758333",
+  "lepcNm": "Livingston County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Avon Fire Department/LEPC",
+    "agencyPhoneNm": "7162268770",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20012"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20012"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20012"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20012"
+    }
+  }
+}

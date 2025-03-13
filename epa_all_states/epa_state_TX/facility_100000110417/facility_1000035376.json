@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000035376,
+  "epaFacId": "100000110417",
+  "facNm": "Cargill Meat Solutions Corporation",
+  "parntCo1Nm": "Cargill Inc.",
+  "facDunsNu": 43161363,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "West Highway 60",
+  "facStreet2Tx": null,
+  "facCityNm": "Friona",
+  "facStateCd": "TX",
+  "countyNm": "PARMER",
+  "facZipCd": "79035",
+  "facZip4Cd": null,
+  "receiptDa": "2013-07-18T00:00:00.000",
+  "facLatDecMs": "34.599200",
+  "facLongDecMs": "-102.773600",
+  "lepcNm": "Parmer County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Friona Fire Department",
+    "agencyPhoneNm": "8062502711",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035376"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal (except Poultry) Slaughtering ",
+          "naicsCd": "311611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035376"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035376"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035376"
+    }
+  }
+}

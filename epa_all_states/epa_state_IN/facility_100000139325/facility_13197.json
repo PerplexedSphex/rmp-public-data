@@ -1,0 +1,79 @@
+{
+  "facilityId": 13197,
+  "epaFacId": "100000139325",
+  "facNm": "Nucor Steel",
+  "parntCo1Nm": "Nucor Corporation",
+  "facDunsNu": 181157009,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Intersection of 400S & 400E",
+  "facStreet2Tx": null,
+  "facCityNm": "Crawfordsville",
+  "facStateCd": "IN",
+  "countyNm": "MONTGOMERY",
+  "facZipCd": "47933",
+  "facZip4Cd": "9450",
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "39.975",
+  "facLongDecMs": "-86.827778",
+  "lepcNm": "Montgomery County FEMA",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2001-08-22T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Montgomery County FEMA",
+    "agencyPhoneNm": "7653645154",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13197"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Iron and Steel Mills",
+          "naicsCd": "331111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13197"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13197"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13197"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000028783,
+  "epaFacId": "100000200819",
+  "facNm": "Jacobson Warehouse Company, Inc.",
+  "parntCo1Nm": "Jacobson Acquisition Co.",
+  "facDunsNu": 45617883,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1380 Perry Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Plainfield",
+  "facStateCd": "IN",
+  "countyNm": "HENDRICKS",
+  "facZipCd": "46168",
+  "facZip4Cd": null,
+  "receiptDa": "2012-06-15T00:00:00.000",
+  "facLatDecMs": "39.685203",
+  "facLongDecMs": "-086.35475",
+  "lepcNm": "Hendricks County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Plainfield Fire Dept.",
+    "agencyPhoneNm": "3178396939",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028783"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Piperidine",
+          "casNu": "110-89-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/34"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028783"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028783"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028783"
+    }
+  }
+}

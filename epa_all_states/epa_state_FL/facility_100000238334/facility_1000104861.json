@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000104861,
+  "epaFacId": "100000238334",
+  "facNm": "Tampa LP Terminal - MPLX Terminals, LLC",
+  "parntCo1Nm": "MPLX Operations, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "425 South 20th Street",
+  "facStreet2Tx": "",
+  "facCityNm": "Tampa",
+  "facStateCd": "FL",
+  "countyNm": "HILLSBOROUGH",
+  "facZipCd": "33605",
+  "facZip4Cd": "",
+  "receiptDa": "2023-04-16T00:00:00.000",
+  "facLatDecMs": "27.946715",
+  "facLongDecMs": "-82.441354",
+  "lepcNm": "Hillsborough Co. OEM",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tampa Fire Rescue",
+    "agencyPhoneNm": "8132747011",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104861"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104861"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104861"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104861"
+    }
+  }
+}

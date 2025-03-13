@@ -1,0 +1,90 @@
+{
+  "facilityId": 26003,
+  "epaFacId": "100000179184",
+  "facNm": "TEPPCO Watkins Glen Terminal",
+  "parntCo1Nm": "TE Products Pipeline Company, Limited Partnership",
+  "facDunsNu": 781768122,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "SR 14 North",
+  "facStreet2Tx": null,
+  "facCityNm": "Watkins Glen",
+  "facStateCd": "NY",
+  "countyNm": "SCHUYLER",
+  "facZipCd": "14891",
+  "facZip4Cd": null,
+  "receiptDa": "2002-06-18T00:00:00.000",
+  "facLatDecMs": "42.411444",
+  "facLongDecMs": "-76.902083",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Watkins Glen Volunteer Fire Dept",
+    "agencyPhoneNm": "6075356642",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26003"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pipeline Transportation of Refined Petroleum Products",
+          "naicsCd": "48691",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48691"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl mercaptan [Ethanethiol]",
+          "casNu": "75-08-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/105"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26003"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26003"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/26003"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000055204,
+  "epaFacId": "100000092703",
+  "facNm": "DFA Dairy Brands Fluid , LL dba Kemps",
+  "parntCo1Nm": "DFA Dairy Brands Fluid , LL",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1188 Lincoln Street SW",
+  "facStreet2Tx": null,
+  "facCityNm": "Le Mars",
+  "facStateCd": "IA",
+  "countyNm": "PLYMOUTH",
+  "facZipCd": "51031",
+  "facZip4Cd": null,
+  "receiptDa": "2016-01-15T00:00:00.000",
+  "facLatDecMs": "42.779500",
+  "facLongDecMs": "-096.182800",
+  "lepcNm": "Plymouth County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Le Mars Fire Department",
+    "agencyPhoneNm": "7125464023",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055204"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055204"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055204"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055204"
+    }
+  }
+}

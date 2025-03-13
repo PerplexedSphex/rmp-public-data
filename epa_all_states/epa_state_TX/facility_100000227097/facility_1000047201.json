@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000047201,
+  "epaFacId": "100000227097",
+  "facNm": "Freeport HyCO",
+  "parntCo1Nm": "Air Liquide Large Industries U.S. LP",
+  "facDunsNu": 180015062,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2398 Victoria St",
+  "facStreet2Tx": null,
+  "facCityNm": "Freeport",
+  "facStateCd": "TX",
+  "countyNm": "BRAZORIA",
+  "facZipCd": "77541",
+  "facZip4Cd": null,
+  "receiptDa": "2014-11-10T00:00:00.000",
+  "facLatDecMs": "28.980325",
+  "facLongDecMs": "-95.384772",
+  "lepcNm": "Brazoria County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Freeport Fire Department",
+    "agencyPhoneNm": "9792391211",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047201"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047201"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047201"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047201"
+    }
+  }
+}

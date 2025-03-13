@@ -1,0 +1,79 @@
+{
+  "facilityId": 27197,
+  "epaFacId": "100000091786",
+  "facNm": "Chemical Montana Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 879121064,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2000 Boulder Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Helena",
+  "facStateCd": "MT",
+  "countyNm": "LEWIS AND CLARK",
+  "facZipCd": "59601",
+  "facZip4Cd": null,
+  "receiptDa": "2002-12-11T00:00:00.000",
+  "facLatDecMs": "46.5975",
+  "facLongDecMs": "-112.004944",
+  "lepcNm": "Lewis & Clark County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-08-19T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Helena Fire Department",
+    "agencyPhoneNm": "4064478947",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/27197"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Wholesalers",
+          "naicsCd": "42269",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42269"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/27197"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/27197"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/27197"
+    }
+  }
+}

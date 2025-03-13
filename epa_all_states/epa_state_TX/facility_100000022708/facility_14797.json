@@ -1,0 +1,79 @@
+{
+  "facilityId": 14797,
+  "epaFacId": "100000022708",
+  "facNm": "Pearl Brewing Company",
+  "parntCo1Nm": "S&P Corporation",
+  "facDunsNu": 8115248,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "312 Pearl Parkway",
+  "facStreet2Tx": null,
+  "facCityNm": "San Antonio",
+  "facStateCd": "TX",
+  "countyNm": "BEXAR",
+  "facZipCd": "78296",
+  "facZip4Cd": "1661",
+  "receiptDa": "1999-06-07T00:00:00.000",
+  "facLatDecMs": "29.443806",
+  "facLongDecMs": "-98.478139",
+  "lepcNm": "Bexar County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Eagle Const. and Environmental",
+    "agencyPhoneNm": "2109462258",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14797"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14797"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14797"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/14797"
+    }
+  }
+}

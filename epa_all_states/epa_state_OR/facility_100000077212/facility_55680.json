@@ -1,0 +1,79 @@
+{
+  "facilityId": 55680,
+  "epaFacId": "100000077212",
+  "facNm": "Swan Island Dairy",
+  "parntCo1Nm": "The Kroger Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4950 N. Basin Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Portland",
+  "facStateCd": "OR",
+  "countyNm": "MULTNOMAH",
+  "facZipCd": "97217",
+  "facZip4Cd": "3547",
+  "receiptDa": "2009-07-06T00:00:00.000",
+  "facLatDecMs": "45.558222",
+  "facLongDecMs": "-122.697944",
+  "lepcNm": "Portland Fire Bureau",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Portland Fire Department- Station 2",
+    "agencyPhoneNm": "5038233851",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55680"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55680"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55680"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55680"
+    }
+  }
+}

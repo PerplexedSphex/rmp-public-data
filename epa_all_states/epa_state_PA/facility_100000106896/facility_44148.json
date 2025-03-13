@@ -1,0 +1,79 @@
+{
+  "facilityId": 44148,
+  "epaFacId": "100000106896",
+  "facNm": "West Hershey Plant",
+  "parntCo1Nm": "The Hershey Company",
+  "facDunsNu": 3002052,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1033 Old West Chocolate Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Hershey",
+  "facStateCd": "PA",
+  "countyNm": "DAUPHIN",
+  "facZipCd": "17033",
+  "facZip4Cd": "0819",
+  "receiptDa": "2005-11-02T00:00:00.000",
+  "facLatDecMs": "40.278333",
+  "facLongDecMs": "-076.675833",
+  "lepcNm": "Dauphin County Emergency Mgmt",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dauphin County Emergency Management",
+    "agencyPhoneNm": "7175586900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44148"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Chocolate and Confectionery Manufacturing from Cacao Beans",
+          "naicsCd": "31132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44148"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44148"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44148"
+    }
+  }
+}

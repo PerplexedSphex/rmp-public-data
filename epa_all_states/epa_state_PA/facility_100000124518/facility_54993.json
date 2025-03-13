@@ -1,0 +1,79 @@
+{
+  "facilityId": 54993,
+  "epaFacId": "100000124518",
+  "facNm": "Allegheny Ludlum Corporation Brackenridge Facility",
+  "parntCo1Nm": "Allegheny Technologies Incorporated",
+  "facDunsNu": 4335154,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "100 River Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Brackenridge",
+  "facStateCd": "PA",
+  "countyNm": "ALLEGHENY",
+  "facZipCd": "15014",
+  "facZip4Cd": "1597",
+  "receiptDa": "2009-06-23T00:00:00.000",
+  "facLatDecMs": "40.607778",
+  "facLongDecMs": "-079.729167",
+  "lepcNm": "Allegheny County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2015-01-09T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Allegheny County Emergency Mgmnt",
+    "agencyPhoneNm": "4123928850",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54993"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Iron and Steel Mills",
+          "naicsCd": "331111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54993"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54993"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54993"
+    }
+  }
+}

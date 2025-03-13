@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000083411,
+  "epaFacId": "100000052177",
+  "facNm": "Alpaugh, CA 539",
+  "parntCo1Nm": "Nutrien Ag Solutions",
+  "facDunsNu": 50365121,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3201 Avenue 54",
+  "facStreet2Tx": "",
+  "facCityNm": "Alpaugh",
+  "facStateCd": "CA",
+  "countyNm": "TULARE",
+  "facZipCd": "93201",
+  "facZip4Cd": "",
+  "receiptDa": "2019-11-01T00:00:00.000",
+  "facLatDecMs": "35.886400",
+  "facLongDecMs": "-119.500600",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Alpaugh Fire Department",
+    "agencyPhoneNm": "5599498343",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083411"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Nitrogenous Fertilizer Manufacturing ",
+          "naicsCd": "325311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083411"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083411"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083411"
+    }
+  }
+}

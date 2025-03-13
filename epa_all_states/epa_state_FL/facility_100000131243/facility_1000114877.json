@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000114877,
+  "epaFacId": "100000131243",
+  "facNm": "St. Marks Powder, Inc.",
+  "parntCo1Nm": "General Dynamics",
+  "facDunsNu": 21223743,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7121 Coastal Highway",
+  "facStreet2Tx": "",
+  "facCityNm": "Crawfordville",
+  "facStateCd": "FL",
+  "countyNm": "WAKULLA",
+  "facZipCd": "32327",
+  "facZip4Cd": "",
+  "receiptDa": "2024-06-06T00:00:00.000",
+  "facLatDecMs": "30.188806",
+  "facLongDecMs": "-084.219750",
+  "lepcNm": "Apalachee LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wakulla County Div. of Emerg. Mgmt.",
+    "agencyPhoneNm": "8507457200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114877"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Explosives Manufacturing",
+          "naicsCd": "32592",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32592"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Nitric acid (conc 80% or greater)",
+          "casNu": "7697-37-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/58"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Oleum (Fuming Sulfuric acid)  [Sulfuric acid, mixture with sulfur trioxide]",
+          "casNu": "8014-95-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/69"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114877"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114877"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000114877"
+    }
+  }
+}

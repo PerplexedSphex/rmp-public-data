@@ -1,0 +1,79 @@
+{
+  "facilityId": 15133,
+  "epaFacId": "100000155501",
+  "facNm": "Vandalia Resources, Inc.",
+  "parntCo1Nm": "Pittston Coal Company",
+  "facDunsNu": 556177632,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "County Route 17",
+  "facStreet2Tx": null,
+  "facCityNm": "Bickmore",
+  "facStateCd": "WV",
+  "countyNm": "CLAY",
+  "facZipCd": "25019",
+  "facZip4Cd": null,
+  "receiptDa": "1999-07-22T00:00:00.000",
+  "facLatDecMs": "38.386667",
+  "facLongDecMs": "81.028333",
+  "lepcNm": "Clay County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2003-01-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clay County LEPC",
+    "agencyPhoneNm": "3045872554",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15133"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Coal Mining",
+          "naicsCd": "21211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15133"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15133"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15133"
+    }
+  }
+}

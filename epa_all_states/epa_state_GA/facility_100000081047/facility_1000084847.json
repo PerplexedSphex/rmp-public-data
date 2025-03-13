@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000084847,
+  "epaFacId": "100000081047",
+  "facNm": "Molson Coors Beverage Company USA LLC (Albany, GA)",
+  "parntCo1Nm": "Molson Coors Beverage Company",
+  "facDunsNu": 827129540,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "405 Cordele Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Albany",
+  "facStateCd": "GA",
+  "countyNm": "DOUGHERTY",
+  "facZipCd": "31705",
+  "facZip4Cd": "2109",
+  "receiptDa": "2020-04-09T08:52:06.000",
+  "facLatDecMs": "31.593475",
+  "facLongDecMs": "-084.087557",
+  "lepcNm": "Dougherty County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Albany Fire Department",
+    "agencyPhoneNm": "2294313266",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084847"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084847"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084847"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084847"
+    }
+  }
+}

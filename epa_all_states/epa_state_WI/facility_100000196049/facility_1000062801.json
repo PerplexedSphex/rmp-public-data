@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000062801,
+  "epaFacId": "100000196049",
+  "facNm": "Palermo Villa, Inc., Milwaukee, WI",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3301 West Canal Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Milwaukee",
+  "facStateCd": "WI",
+  "countyNm": "MILWAUKEE",
+  "facZipCd": "53208",
+  "facZip4Cd": null,
+  "receiptDa": "2017-04-03T00:00:00.000",
+  "facLatDecMs": "43.027600",
+  "facLongDecMs": "-087.956200",
+  "lepcNm": "Milwaukee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Milwaukee County Sheriff",
+    "agencyPhoneNm": "4142784709",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062801"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Specialty Food Manufacturing ",
+          "naicsCd": "311412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062801"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062801"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062801"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000044760,
+  "epaFacId": "100000167703",
+  "facNm": "Milner Milling Company",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "100 East 1st Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Rome",
+  "facStateCd": "GA",
+  "countyNm": "FLOYD",
+  "facZipCd": "30162",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-20T00:00:00.000",
+  "facLatDecMs": "34.249722",
+  "facLongDecMs": "-085.175556",
+  "lepcNm": "Rome-Floyd Emergency Managemen",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rome-Floyd Emergency Mgt. Agency",
+    "agencyPhoneNm": "7062364543",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044760"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling and Malt Manufacturing",
+          "naicsCd": "31121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044760"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044760"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044760"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000039477,
+  "epaFacId": "100000051187",
+  "facNm": "The Muralo Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 1468255,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "148 East 5th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Bayonne",
+  "facStateCd": "NJ",
+  "countyNm": "HUDSON",
+  "facZipCd": "07002",
+  "facZip4Cd": "0455",
+  "receiptDa": "2014-03-10T00:00:00.000",
+  "facLatDecMs": "40.651389",
+  "facLongDecMs": "-074.119722",
+  "lepcNm": "Bayonne City OEM",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-12-20T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bayonne Fire Department",
+    "agencyPhoneNm": "2018588006",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039477"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Paint and Coating Manufacturing",
+          "naicsCd": "32551",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32551"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039477"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039477"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039477"
+    }
+  }
+}

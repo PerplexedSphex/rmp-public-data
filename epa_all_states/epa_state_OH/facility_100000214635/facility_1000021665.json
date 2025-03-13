@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000021665,
+  "epaFacId": "100000214635",
+  "facNm": "Greenville Ohio Manufacturing Plant",
+  "parntCo1Nm": "Continental Carbonic Products, Inc.",
+  "facDunsNu": 70694989,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "198 Continental Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Greenville",
+  "facStateCd": "OH",
+  "countyNm": "DARKE",
+  "facZipCd": "45331",
+  "facZip4Cd": null,
+  "receiptDa": "2011-05-09T00:00:00.000",
+  "facLatDecMs": "40.0985",
+  "facLongDecMs": "-84.6501",
+  "lepcNm": "Darke County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Greeneville Fire Department",
+    "agencyPhoneNm": "9373166200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021665"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+          "naicsCd": "325998",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325998"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021665"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021665"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021665"
+    }
+  }
+}

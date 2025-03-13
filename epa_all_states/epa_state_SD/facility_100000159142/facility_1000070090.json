@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000070090,
+  "epaFacId": "100000159142",
+  "facNm": "CHS Inc. - Brandon",
+  "parntCo1Nm": "CHS Inc.",
+  "facDunsNu": 6147177,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "26033 482nd Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Brandon",
+  "facStateCd": "SD",
+  "countyNm": "MINNEHAHA",
+  "facZipCd": "57005",
+  "facZip4Cd": null,
+  "receiptDa": "2018-06-01T00:00:00.000",
+  "facLatDecMs": "43.611256",
+  "facLongDecMs": "-96.576083",
+  "lepcNm": "Minnehaha County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-06-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Brandon Fire Department",
+    "agencyPhoneNm": "6055823232",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070090"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070090"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070090"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070090"
+    }
+  }
+}

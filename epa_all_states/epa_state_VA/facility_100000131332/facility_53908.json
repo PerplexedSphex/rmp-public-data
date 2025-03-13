@@ -1,0 +1,79 @@
+{
+  "facilityId": 53908,
+  "epaFacId": "100000131332",
+  "facNm": "Pilgrim's Pride - Broadway Processing Plant",
+  "parntCo1Nm": "Pilgrim's Pride Corporation",
+  "facDunsNu": 140036497,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "330 Coop Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Timberville",
+  "facStateCd": "VA",
+  "countyNm": "ROCKINGHAM",
+  "facZipCd": "22853",
+  "facZip4Cd": null,
+  "receiptDa": "2009-03-12T00:00:00.000",
+  "facLatDecMs": "38.632158",
+  "facLongDecMs": "-078.784356",
+  "lepcNm": "Harrisonburg Joint LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Timberville Volunteer Fire Departme",
+    "agencyPhoneNm": "5408965101",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53908"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53908"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53908"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/53908"
+    }
+  }
+}

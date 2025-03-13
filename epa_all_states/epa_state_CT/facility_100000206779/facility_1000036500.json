@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000036500,
+  "epaFacId": "100000206779",
+  "facNm": "Bozzuto's Inc. North Haven Facility",
+  "parntCo1Nm": "Bozzuto's Inc.",
+  "facDunsNu": 1677954,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "400 North Frontage Rd",
+  "facStreet2Tx": null,
+  "facCityNm": "North Haven",
+  "facStateCd": "CT",
+  "countyNm": "NEW HAVEN",
+  "facZipCd": "06473",
+  "facZip4Cd": null,
+  "receiptDa": "2013-09-27T00:00:00.000",
+  "facLatDecMs": "41.357778",
+  "facLongDecMs": "-072.862400",
+  "lepcNm": "North Haven LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "North Haven Fire Dept",
+    "agencyPhoneNm": "2032347948",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036500"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036500"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036500"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036500"
+    }
+  }
+}

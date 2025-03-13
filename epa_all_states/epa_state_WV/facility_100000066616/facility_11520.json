@@ -1,0 +1,79 @@
+{
+  "facilityId": 11520,
+  "epaFacId": "100000066616",
+  "facNm": "Lyondell North Charleston Distribution Terminal",
+  "parntCo1Nm": "Lyondell Chemical Company",
+  "facDunsNu": 627960479,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "35th Street and 3rd Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Charleston",
+  "facStateCd": "WV",
+  "countyNm": "KANAWHA",
+  "facZipCd": "25312",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "38.374722",
+  "facLongDecMs": "-81.692778",
+  "lepcNm": "Kanawha Putnam Emerg. Plan Com",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-04-26T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kanawha Putnam LEPC",
+    "agencyPhoneNm": "3047441838",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11520"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene oxide  [Oxirane, methyl-]",
+          "casNu": "75-56-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/12"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11520"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11520"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/11520"
+    }
+  }
+}

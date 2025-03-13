@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106443,
+  "epaFacId": "100000054772",
+  "facNm": "TYSON POULTRY, INC.- CLARKSVILLE PROCESSING PLANT",
+  "parntCo1Nm": "TYSON FOODS, INC.",
+  "facDunsNu": 86628856,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "301 EAST CHERRY ST.",
+  "facStreet2Tx": "",
+  "facCityNm": "CLARKSVILLE",
+  "facStateCd": "AR",
+  "countyNm": "JOHNSON",
+  "facZipCd": "72830",
+  "facZip4Cd": "3100",
+  "receiptDa": "2023-08-24T00:00:00.000",
+  "facLatDecMs": "35.473340",
+  "facLongDecMs": "-093.456927",
+  "lepcNm": "Johnson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "JOHNSON COUNTY OFFICE OF EMERGENCY",
+    "agencyPhoneNm": "4797546383",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106443"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106443"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106443"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106443"
+    }
+  }
+}

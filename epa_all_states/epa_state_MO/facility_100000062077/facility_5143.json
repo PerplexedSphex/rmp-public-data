@@ -1,0 +1,79 @@
+{
+  "facilityId": 5143,
+  "epaFacId": "100000062077",
+  "facNm": "Seitz Foods, Inc.",
+  "parntCo1Nm": "Sara Lee Corporation",
+  "facDunsNu": 7134372,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4501 Packers Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "St. Joseph",
+  "facStateCd": "MO",
+  "countyNm": "BUCHANAN",
+  "facZipCd": "64502",
+  "facZip4Cd": "0247",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "39.768889",
+  "facLongDecMs": "-94.854444",
+  "lepcNm": "Buchanan  Cnty Emerg. Plng Com",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2001-09-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "St. Joseph Fire Department",
+    "agencyPhoneNm": "8162724802",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5143"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5143"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5143"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5143"
+    }
+  }
+}

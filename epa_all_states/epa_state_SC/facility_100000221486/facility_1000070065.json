@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000070065,
+  "epaFacId": "100000221486",
+  "facNm": "Coatex Inc",
+  "parntCo1Nm": "Coatex SAS",
+  "facDunsNu": 36229842,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "547 Ecology",
+  "facStreet2Tx": null,
+  "facCityNm": "Chester",
+  "facStateCd": "SC",
+  "countyNm": "CHESTER",
+  "facZipCd": "29706",
+  "facZip4Cd": "4722",
+  "receiptDa": "2018-06-18T00:00:00.000",
+  "facLatDecMs": "34.704920",
+  "facLongDecMs": "-081.139483",
+  "lepcNm": "Chester County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-11-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chester Fire Department",
+    "agencyPhoneNm": "8033852123",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070065"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+          "naicsCd": "325998",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325998"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070065"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070065"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070065"
+    }
+  }
+}

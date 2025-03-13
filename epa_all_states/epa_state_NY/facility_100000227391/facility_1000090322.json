@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000090322,
+  "epaFacId": "100000227391",
+  "facNm": "US Army Watervliet Arsenal",
+  "parntCo1Nm": null,
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1 Buffington Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Watervliet",
+  "facStateCd": "NY",
+  "countyNm": "ALBANY",
+  "facZipCd": "12189",
+  "facZip4Cd": "4000",
+  "receiptDa": "2020-10-30T00:00:00.000",
+  "facLatDecMs": "42.718115",
+  "facLongDecMs": "-73.7046205",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2021-05-24T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Albany County LEPC and Sheriff",
+    "agencyPhoneNm": "5184875400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090322"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "National Security ",
+          "naicsCd": "92811",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/92811"
+            }
+          }
+        },
+        {
+          "description": "Small Arms, Ordnance, and Ordnance Accessories Manufacturing ",
+          "naicsCd": "332994",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332994"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090322"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090322"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090322"
+    }
+  }
+}

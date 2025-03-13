@@ -1,0 +1,79 @@
+{
+  "facilityId": 21554,
+  "epaFacId": "100000062219",
+  "facNm": "Clackamas Distribution Center",
+  "parntCo1Nm": "Safeway Inc.",
+  "facDunsNu": 602453441,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "16800 S.E. Evelyn St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Clackamas",
+  "facStateCd": "OR",
+  "countyNm": "CLACKAMAS",
+  "facZipCd": "97015",
+  "facZip4Cd": "9576",
+  "receiptDa": "2000-06-23T00:00:00.000",
+  "facLatDecMs": "45.401833",
+  "facLongDecMs": "-122.564972",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Clackamas Fire Department",
+    "agencyPhoneNm": "5036558911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21554"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21554"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21554"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21554"
+    }
+  }
+}

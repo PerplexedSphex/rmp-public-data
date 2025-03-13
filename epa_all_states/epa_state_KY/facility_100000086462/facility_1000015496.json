@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000015496,
+  "epaFacId": "100000086462",
+  "facNm": "Kentucky Glass Plant",
+  "parntCo1Nm": "GE Consumer and Industrial",
+  "facDunsNu": 6386395,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "200 West Loudon Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Lexington",
+  "facStateCd": "KY",
+  "countyNm": "FAYETTE",
+  "facZipCd": "40508",
+  "facZip4Cd": null,
+  "receiptDa": "2010-08-17T00:00:00.000",
+  "facLatDecMs": "38.061111",
+  "facLongDecMs": "-084.486944",
+  "lepcNm": "Fayette LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2010-08-28T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Fayette County LEPC",
+    "agencyPhoneNm": "8592583784",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015496"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Glass and Glass Product Manufacturing",
+          "naicsCd": "32721",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32721"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015496"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015496"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015496"
+    }
+  }
+}

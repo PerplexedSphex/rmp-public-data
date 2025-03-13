@@ -1,0 +1,79 @@
+{
+  "facilityId": 9445,
+  "epaFacId": "100000117688",
+  "facNm": "COLUMBUS",
+  "parntCo1Nm": "ROYSTER-CLARK AGRIBUSINESS",
+  "facDunsNu": 4303582,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3355 East Fifth Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Columbus",
+  "facStateCd": "OH",
+  "countyNm": "FRANKLIN",
+  "facZipCd": "43219",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "39.984028",
+  "facLongDecMs": "-82.911083",
+  "lepcNm": "Franklin County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2002-01-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "FRANKLIN COUNTY LEPC",
+    "agencyPhoneNm": "6142219600",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9445"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Phosphatic Fertilizer Manufacturing ",
+          "naicsCd": "325312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9445"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9445"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9445"
+    }
+  }
+}

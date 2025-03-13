@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000008582,
+  "epaFacId": "100000088932",
+  "facNm": "Huisken Meats",
+  "parntCo1Nm": "Branding Iron Holdings",
+  "facDunsNu": 115405586,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "245 Industrial Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Sauk Rapids",
+  "facStateCd": "MN",
+  "countyNm": "BENTON",
+  "facZipCd": "56379",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-18T00:00:00.000",
+  "facLatDecMs": "45.590278",
+  "facLongDecMs": "-094.145000",
+  "lepcNm": "Minnesota LEPCs",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sauk Rapids Fire Department",
+    "agencyPhoneNm": "3202514747",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008582"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008582"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008582"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008582"
+    }
+  }
+}

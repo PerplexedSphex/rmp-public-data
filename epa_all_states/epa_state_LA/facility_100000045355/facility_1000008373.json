@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000008373,
+  "epaFacId": "100000045355",
+  "facNm": "Central Wastewater Treatment Plant",
+  "parntCo1Nm": "City of Baton Rouge - East Baton Rouge Parish",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2443 River Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Baton Rouge",
+  "facStateCd": "LA",
+  "countyNm": "EAST BATON ROUGE",
+  "facZipCd": "70802",
+  "facZip4Cd": "8074",
+  "receiptDa": "2010-06-14T00:00:00.000",
+  "facLatDecMs": "30.424444",
+  "facLongDecMs": "-091.190833",
+  "lepcNm": "East Baton Rouge LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-01-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Baton Rouge Fire Dept/HazMat",
+    "agencyPhoneNm": "2253894617",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008373"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008373"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008373"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008373"
+    }
+  }
+}

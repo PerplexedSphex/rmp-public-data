@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000104703,
+  "epaFacId": "100000174269",
+  "facNm": "Taylor Farms California",
+  "parntCo1Nm": "Taylor Fresh Foods",
+  "facDunsNu": 22000509,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1207 Abbott Street",
+  "facStreet2Tx": "",
+  "facCityNm": "SALINAS",
+  "facStateCd": "CA",
+  "countyNm": "MONTEREY",
+  "facZipCd": "93901",
+  "facZip4Cd": "",
+  "receiptDa": "2023-04-01T00:00:00.000",
+  "facLatDecMs": "36.656667",
+  "facLongDecMs": "-121.628611",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Monterey County Health Department",
+    "agencyPhoneNm": "8317554971",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104703"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        },
+        {
+          "description": "Postharvest Crop Activities (except Cotton Ginning) ",
+          "naicsCd": "115114",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/115114"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104703"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104703"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104703"
+    }
+  }
+}

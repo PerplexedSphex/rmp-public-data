@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000087382,
+  "epaFacId": "100000051579",
+  "facNm": "Sun Cosmetics LLC",
+  "parntCo1Nm": "Sun Chemical",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4901 Evans Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Valparaiso",
+  "facStateCd": "IN",
+  "countyNm": "PORTER",
+  "facZipCd": "46383",
+  "facZip4Cd": "8383",
+  "receiptDa": "2020-05-26T00:00:00.000",
+  "facLatDecMs": "41.478927",
+  "facLongDecMs": "-87.002148",
+  "lepcNm": "Porter County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Porter County LEPC",
+    "agencyPhoneNm": "2194653593",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087382"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Synthetic Dye and Pigment Manufacturing",
+          "naicsCd": "32513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087382"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087382"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087382"
+    }
+  }
+}

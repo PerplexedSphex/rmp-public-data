@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000062377,
+  "epaFacId": "100000200294",
+  "facNm": "Merchandise Warehouse Company Incorporated",
+  "parntCo1Nm": null,
+  "facDunsNu": 3803905,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1414 South West Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Indianapolis",
+  "facStateCd": "IN",
+  "countyNm": "MARION",
+  "facZipCd": "46215",
+  "facZip4Cd": null,
+  "receiptDa": "2017-05-17T00:00:00.000",
+  "facLatDecMs": "39.746591",
+  "facLongDecMs": "-086.169396",
+  "lepcNm": "Marion County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC for Marion County of Indiana",
+    "agencyPhoneNm": "3172212266",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062377"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062377"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062377"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062377"
+    }
+  }
+}

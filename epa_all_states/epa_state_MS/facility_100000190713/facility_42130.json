@@ -1,0 +1,79 @@
+{
+  "facilityId": 42130,
+  "epaFacId": "100000190713",
+  "facNm": "Linde Gas, LLC- Southaven, MS",
+  "parntCo1Nm": "Linde Gas AG",
+  "facDunsNu": 20535345,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "8531 Hamilton Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Southaven",
+  "facStateCd": "MS",
+  "countyNm": "DESOTO",
+  "facZipCd": "38671",
+  "facZip4Cd": null,
+  "receiptDa": "2005-02-16T00:00:00.000",
+  "facLatDecMs": "34.984167",
+  "facLongDecMs": "-089.999167",
+  "lepcNm": "Desoto County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2006-04-14T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "DeSoto County LEPC",
+    "agencyPhoneNm": "6624291470",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42130"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Acetylene  [Ethyne]",
+          "casNu": "74-86-2",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/96"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42130"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42130"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42130"
+    }
+  }
+}

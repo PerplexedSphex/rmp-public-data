@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000115667,
+  "epaFacId": "100000152309",
+  "facNm": "Evonik Corporation Janesville Plant",
+  "parntCo1Nm": "Evonik Corporation",
+  "facDunsNu": 94361458,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "900 South Palm Street",
+  "facStreet2Tx": "",
+  "facCityNm": "Janesville",
+  "facStateCd": "WI",
+  "countyNm": "ROCK",
+  "facZipCd": "53548",
+  "facZip4Cd": "",
+  "receiptDa": "2024-07-04T00:00:00.000",
+  "facLatDecMs": "42.668611",
+  "facLongDecMs": "-089.042222",
+  "lepcNm": "Rock County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rock County LEPC",
+    "agencyPhoneNm": "6087577900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115667"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Surface Active Agent Manufacturing ",
+          "naicsCd": "325613",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325613"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methyl chloride  [Methane, chloro-]",
+          "casNu": "74-87-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/5"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115667"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115667"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115667"
+    }
+  }
+}

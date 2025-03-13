@@ -1,0 +1,79 @@
+{
+  "facilityId": 21104,
+  "epaFacId": "100000127294",
+  "facNm": "Foster Farms Kelso Poultry Plant (Rev. 3/00)",
+  "parntCo1Nm": "Foster  Poultry Farms",
+  "facDunsNu": 9178856,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1700 South 13th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Kelso",
+  "facStateCd": "WA",
+  "countyNm": "COWLITZ",
+  "facZipCd": "98626",
+  "facZip4Cd": null,
+  "receiptDa": "2000-04-14T00:00:00.000",
+  "facLatDecMs": "46.144",
+  "facLongDecMs": "-122.891",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Longview Fire Department",
+    "agencyPhoneNm": "3605785217",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21104"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21104"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21104"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21104"
+    }
+  }
+}

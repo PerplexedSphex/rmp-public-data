@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000008887,
+  "epaFacId": "100000208054",
+  "facNm": "Rodeo Hydrogen Plant",
+  "parntCo1Nm": "Air Liquide Large Industries U.S. LP",
+  "facDunsNu": 180015062,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1391 San Pablo Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Rodeo",
+  "facStateCd": "CA",
+  "countyNm": "CONTRA COSTA",
+  "facZipCd": "94572",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-29T00:00:00.000",
+  "facLatDecMs": "38.047283",
+  "facLongDecMs": "-122.255319",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Rodeo Hercules Fire Department",
+    "agencyPhoneNm": "5107794561",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008887"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008887"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008887"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008887"
+    }
+  }
+}

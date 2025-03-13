@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000052398,
+  "epaFacId": "100000018358",
+  "facNm": "Air Products, Cincinnati, OH",
+  "parntCo1Nm": "Air Products and Chemicals Inc.",
+  "facDunsNu": 807896600,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4900 Este Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Cincinnati",
+  "facStateCd": "OH",
+  "countyNm": "HAMILTON",
+  "facZipCd": "45232",
+  "facZip4Cd": "0283",
+  "receiptDa": "2015-10-23T00:00:00.000",
+  "facLatDecMs": "39.181702",
+  "facLongDecMs": "-84.502831",
+  "lepcNm": "Hamilton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Emery Oleochemicals",
+    "agencyPhoneNm": "5137622500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052398"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052398"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052398"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052398"
+    }
+  }
+}

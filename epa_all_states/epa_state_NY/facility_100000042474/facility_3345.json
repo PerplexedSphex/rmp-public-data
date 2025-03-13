@@ -1,0 +1,79 @@
+{
+  "facilityId": 3345,
+  "epaFacId": "100000042474",
+  "facNm": "Nestle Chocolate and Confections",
+  "parntCo1Nm": "Nestle USA",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "555 South Fourth Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Fulton",
+  "facStateCd": "NY",
+  "countyNm": "OSWEGO",
+  "facZipCd": "13069",
+  "facZip4Cd": "2995",
+  "receiptDa": "1999-06-16T00:00:00.000",
+  "facLatDecMs": "43.313889",
+  "facLongDecMs": "-76.405556",
+  "lepcNm": "Oswego County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2003-05-03T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fulton Fire Department",
+    "agencyPhoneNm": "3155929575",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3345"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Chocolate and Confectionery Manufacturing from Cacao Beans",
+          "naicsCd": "31132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3345"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3345"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3345"
+    }
+  }
+}

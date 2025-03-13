@@ -1,0 +1,79 @@
+{
+  "facilityId": 55913,
+  "epaFacId": "100000042615",
+  "facNm": "Farmland Dairies",
+  "parntCo1Nm": null,
+  "facDunsNu": 8965774,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "520 Main Avenue",
+  "facStreet2Tx": "P.O. Box 3340",
+  "facCityNm": "Wallington",
+  "facStateCd": "NJ",
+  "countyNm": "BERGEN",
+  "facZipCd": "07057",
+  "facZip4Cd": null,
+  "receiptDa": "2009-09-09T00:00:00.000",
+  "facLatDecMs": "40.860278",
+  "facLongDecMs": "-074.098056",
+  "lepcNm": "Bergen County OEM",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-03-08T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wallington Fire Department",
+    "agencyPhoneNm": "9734731715",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55913"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55913"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55913"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55913"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000010530,
+  "epaFacId": "100000191151",
+  "facNm": "Enterprise Ogden Terminal & Storage",
+  "parntCo1Nm": "Enterprise Terminal & Storage, L.L.C.",
+  "facDunsNu": 48210686,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "277 220th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Ogden",
+  "facStateCd": "IA",
+  "countyNm": "BOONE",
+  "facZipCd": "50212",
+  "facZip4Cd": null,
+  "receiptDa": "2009-11-04T00:00:00.000",
+  "facLatDecMs": "42.035656",
+  "facLongDecMs": "-094.111180",
+  "lepcNm": "Boone County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Boone County Emergency Management",
+    "agencyPhoneNm": "5144330527",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010530"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Pipeline Transportation",
+          "naicsCd": "48699",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48699"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010530"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010530"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010530"
+    }
+  }
+}

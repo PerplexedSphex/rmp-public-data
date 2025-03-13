@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000102116,
+  "epaFacId": "100000179656",
+  "facNm": "Acadia Power Station",
+  "parntCo1Nm": "Cleco Power, LLC",
+  "facDunsNu": 1723878,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "30385 Crowley-Eunice HWY.",
+  "facStreet2Tx": "",
+  "facCityNm": "Eunice",
+  "facStateCd": "LA",
+  "countyNm": "ACADIA",
+  "facZipCd": "70535",
+  "facZip4Cd": "",
+  "receiptDa": "2022-12-16T00:00:00.000",
+  "facLatDecMs": "30.429528",
+  "facLongDecMs": "-092.412028",
+  "lepcNm": " Acadia Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Acadia Parish LEPC",
+    "agencyPhoneNm": "3187834357",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102116"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102116"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102116"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102116"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 41321,
+  "epaFacId": "100000025439",
+  "facNm": "Heartland Corn Products",
+  "parntCo1Nm": "N/A",
+  "facDunsNu": 878071331,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Hwy 19 East",
+  "facStreet2Tx": null,
+  "facCityNm": "Winthrop",
+  "facStateCd": "MN",
+  "countyNm": "SIBLEY",
+  "facZipCd": "55396",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-28T00:00:00.000",
+  "facLatDecMs": "44.541860",
+  "facLongDecMs": "-094.352890",
+  "lepcNm": "Winthrop Fire & Emergency",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Winthrop Fire & Emergency",
+    "agencyPhoneNm": "5076472666",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/41321"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Refineries",
+          "naicsCd": "32411",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32411"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/41321"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/41321"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/41321"
+    }
+  }
+}

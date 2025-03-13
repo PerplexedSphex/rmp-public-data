@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000092529,
+  "epaFacId": "100000224223",
+  "facNm": "Actagro LLC",
+  "parntCo1Nm": "Actagro LLC",
+  "facDunsNu": 806627618,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1300 Richard Prewitt Dr",
+  "facStreet2Tx": null,
+  "facCityNm": "Osceola",
+  "facStateCd": "AR",
+  "countyNm": "MISSISSIPPI",
+  "facZipCd": "72370",
+  "facZip4Cd": null,
+  "receiptDa": "2021-03-05T17:58:28.000",
+  "facLatDecMs": "35.6900277",
+  "facLongDecMs": "-89.9891944",
+  "lepcNm": "Osceola Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Osceola Fire Department",
+    "agencyPhoneNm": "8705632022",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092529"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092529"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092529"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092529"
+    }
+  }
+}

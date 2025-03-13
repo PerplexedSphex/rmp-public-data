@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000018256,
+  "epaFacId": "100000056048",
+  "facNm": "Momentive Specialty Chemicals Inc.,  Mount Jewett",
+  "parntCo1Nm": "Momentive Specialty Chemicals Inc.",
+  "facDunsNu": 789587359,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "253 Borden Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Mount Jewett",
+  "facStateCd": "PA",
+  "countyNm": "MCKEAN",
+  "facZipCd": "16740",
+  "facZip4Cd": null,
+  "receiptDa": "2010-11-22T00:00:00.000",
+  "facLatDecMs": "41.682222",
+  "facLongDecMs": "-078.630833",
+  "lepcNm": "Mckean County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-12-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC",
+    "agencyPhoneNm": "8148875070",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018256"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018256"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018256"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000018256"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000023536,
+  "epaFacId": "100000215457",
+  "facNm": "Roseburg Louisville Particleboard",
+  "parntCo1Nm": "Roseburg Forest Products Company",
+  "facDunsNu": 131075863,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "122 Armstrong Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Louisville",
+  "facStateCd": "MS",
+  "countyNm": "WINSTON",
+  "facZipCd": "39339",
+  "facZip4Cd": null,
+  "receiptDa": "2011-08-24T00:00:00.000",
+  "facLatDecMs": "33.105831",
+  "facLongDecMs": "-089.053055",
+  "lepcNm": "Winston County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2014-07-07T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Louisville Fire Department",
+    "agencyPhoneNm": "6627739402",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023536"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Reconstituted Wood Product Manufacturing ",
+          "naicsCd": "321219",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/321219"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023536"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023536"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023536"
+    }
+  }
+}

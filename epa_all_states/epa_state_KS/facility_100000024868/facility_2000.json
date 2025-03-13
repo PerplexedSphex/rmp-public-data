@@ -1,0 +1,79 @@
+{
+  "facilityId": 2000,
+  "epaFacId": "100000024868",
+  "facNm": "WILROADS",
+  "parntCo1Nm": "THE RIGHT COOPERATIVE ASSOCIATION",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "11769 LARIAT WAY",
+  "facStreet2Tx": null,
+  "facCityNm": "DODGE CITY",
+  "facStateCd": "KS",
+  "countyNm": "FORD",
+  "facZipCd": "67801",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-09T00:00:00.000",
+  "facLatDecMs": "37.702278",
+  "facLongDecMs": "-99.899972",
+  "lepcNm": "Ford County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "FORD COUNTY FIRE DEPT.",
+    "agencyPhoneNm": "3162274646",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2000"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2000"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2000"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2000"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 12211,
+  "epaFacId": "100000130556",
+  "facNm": "Specialty Chemical Manufacturing, Inc.",
+  "parntCo1Nm": "Diversitech, Inc.",
+  "facDunsNu": 101878569,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "115 W. Clark Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Quincy",
+  "facStateCd": "FL",
+  "countyNm": "GADSDEN",
+  "facZipCd": "32351",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "29.1",
+  "facLongDecMs": "85.1",
+  "lepcNm": "District 2 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2005-04-19T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Quincy Fire Department; LERC",
+    "agencyPhoneNm": "8508757315",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12211"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Soap and Other Detergent Manufacturing ",
+          "naicsCd": "325611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12211"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12211"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12211"
+    }
+  }
+}

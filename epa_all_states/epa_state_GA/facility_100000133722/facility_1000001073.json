@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001073,
+  "epaFacId": "100000133722",
+  "facNm": "Compass Chemical International LLC",
+  "parntCo1Nm": "Compass Chemical Internaitonal LLC",
+  "facDunsNu": 125498969,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5544 Oakdale Road SE",
+  "facStreet2Tx": null,
+  "facCityNm": "Smyrna",
+  "facStateCd": "GA",
+  "countyNm": "COBB",
+  "facZipCd": "30082",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-16T00:00:00.000",
+  "facLatDecMs": "33.818518",
+  "facLongDecMs": "-084.500570",
+  "lepcNm": "Cobb County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cobb County Fire & ER Services",
+    "agencyPhoneNm": "7705288000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001073"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+          "naicsCd": "325998",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325998"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001073"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001073"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001073"
+    }
+  }
+}

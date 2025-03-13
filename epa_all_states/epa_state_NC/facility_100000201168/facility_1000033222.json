@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000033222,
+  "epaFacId": "100000201168",
+  "facNm": "Food Lion - (Distribution Center # 4)",
+  "parntCo1Nm": "Food Lion, LLC",
+  "facDunsNu": 3448560,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2940 Arrowhead Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Dunn",
+  "facStateCd": "NC",
+  "countyNm": "HARNETT",
+  "facZipCd": "28334",
+  "facZip4Cd": null,
+  "receiptDa": "2013-03-07T00:00:00.000",
+  "facLatDecMs": "35.276880",
+  "facLongDecMs": "-078.632500",
+  "lepcNm": "Harnett County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Harnett County LEPC",
+    "agencyPhoneNm": "9108922938",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033222"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033222"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033222"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033222"
+    }
+  }
+}

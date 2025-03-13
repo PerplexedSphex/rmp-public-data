@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000020638,
+  "epaFacId": "100000214083",
+  "facNm": "BernzOmatic",
+  "parntCo1Nm": "Newell Rubbermaid",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1 BernzOmatic Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Medina",
+  "facStateCd": "NY",
+  "countyNm": "ORLEANS",
+  "facZipCd": "14103",
+  "facZip4Cd": "1691",
+  "receiptDa": "2011-02-21T00:00:00.000",
+  "facLatDecMs": "43.220612",
+  "facLongDecMs": "-78.374089",
+  "lepcNm": "Orleans County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-08-04T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Orleans County LEPC",
+    "agencyPhoneNm": "5855894414",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020638"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Manufacturing ",
+          "naicsCd": "339999",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/339999"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020638"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020638"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020638"
+    }
+  }
+}

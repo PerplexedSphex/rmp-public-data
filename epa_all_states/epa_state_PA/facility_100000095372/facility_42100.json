@@ -1,0 +1,79 @@
+{
+  "facilityId": 42100,
+  "epaFacId": "100000095372",
+  "facNm": "City of Easton Water Treatment Plant",
+  "parntCo1Nm": "Easton Water Bureau",
+  "facDunsNu": 73621021,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "701 N. Delaware Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Easton",
+  "facStateCd": "PA",
+  "countyNm": "NORTHAMPTON",
+  "facZipCd": "18042",
+  "facZip4Cd": null,
+  "receiptDa": "2005-02-14T00:00:00.000",
+  "facLatDecMs": "40.423500",
+  "facLongDecMs": "-075.115300",
+  "lepcNm": "Northampton County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2010-01-07T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Northampton County EMA",
+    "agencyPhoneNm": "6107592600",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42100"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42100"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42100"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42100"
+    }
+  }
+}

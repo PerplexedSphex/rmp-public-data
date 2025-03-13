@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000011304,
+  "epaFacId": "100000038755",
+  "facNm": "Salado Creek Chemical Storage Facility",
+  "parntCo1Nm": "San Antonio Water System",
+  "facDunsNu": 57582603,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "13496 Bluewing Road",
+  "facStreet2Tx": null,
+  "facCityNm": "San Antonio",
+  "facStateCd": "TX",
+  "countyNm": "BEXAR",
+  "facZipCd": "78223",
+  "facZip4Cd": null,
+  "receiptDa": "2009-11-16T00:00:00.000",
+  "facLatDecMs": "29.281944",
+  "facLongDecMs": "-098.426667",
+  "lepcNm": "Bexar County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "San Antonio Fire Department",
+    "agencyPhoneNm": "2102078580",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011304"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011304"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011304"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011304"
+    }
+  }
+}

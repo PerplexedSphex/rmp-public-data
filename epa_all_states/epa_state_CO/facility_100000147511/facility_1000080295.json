@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080295,
+  "epaFacId": "100000147511",
+  "facNm": "Matheson Tri-Gas - Longmont, CO Branch",
+  "parntCo1Nm": "Taiyo Nippon Sanso Corporation",
+  "facDunsNu": 179092028,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1861 Lefthand Circle",
+  "facStreet2Tx": "Not Applicable",
+  "facCityNm": "Longmont",
+  "facStateCd": "CO",
+  "countyNm": "BOULDER",
+  "facZipCd": "80501",
+  "facZip4Cd": null,
+  "receiptDa": "2019-06-11T16:52:09.000",
+  "facLatDecMs": "40.140701",
+  "facLongDecMs": "-105.123758",
+  "lepcNm": "Boulder County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Boulder Co. LEPC",
+    "agencyPhoneNm": "3034413390",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080295"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080295"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080295"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080295"
+    }
+  }
+}

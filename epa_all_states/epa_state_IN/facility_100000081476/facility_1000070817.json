@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000070817,
+  "epaFacId": "100000081476",
+  "facNm": "Harlan Bakeries - Avon, LLC",
+  "parntCo1Nm": "Harlan Bakeries, LLC",
+  "facDunsNu": 261749760,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7597 East U.S. Highway 36",
+  "facStreet2Tx": "",
+  "facCityNm": "Avon",
+  "facStateCd": "IN",
+  "countyNm": "HENDRICKS",
+  "facZipCd": "46123",
+  "facZip4Cd": "7171",
+  "receiptDa": "2018-07-02T00:00:00.000",
+  "facLatDecMs": "39.762778",
+  "facLongDecMs": "-086.388333",
+  "lepcNm": "Hendricks County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hendricks Co. LEPC",
+    "agencyPhoneNm": "3177457436",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070817"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Commercial Bakeries ",
+          "naicsCd": "311812",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311812"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070817"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070817"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000070817"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000090926,
+  "epaFacId": "100000048753",
+  "facNm": "Borregaard USA, Inc.",
+  "parntCo1Nm": "Borregaard Industries Limited",
+  "facDunsNu": 57097818,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "100 Grand Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Rothschild",
+  "facStateCd": "WI",
+  "countyNm": "MARATHON",
+  "facZipCd": "54474",
+  "facZip4Cd": "1198",
+  "receiptDa": "2020-11-30T12:10:10.000",
+  "facLatDecMs": "44.89137",
+  "facLongDecMs": "-089.623925",
+  "lepcNm": "Marathon County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Marathon County LEPC",
+    "agencyPhoneNm": "7158475226",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090926"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Organic Chemical Manufacturing",
+          "naicsCd": "32519",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32519"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090926"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090926"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090926"
+    }
+  }
+}

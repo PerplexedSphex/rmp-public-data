@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000042420,
+  "epaFacId": "100000056958",
+  "facNm": "ATK Launch Systems Inc.",
+  "parntCo1Nm": "Alliant Techsystems Inc.",
+  "facDunsNu": 9081357,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "9160 N. Hwy 83",
+  "facStreet2Tx": null,
+  "facCityNm": "Brigham City",
+  "facStateCd": "UT",
+  "countyNm": "BOX ELDER",
+  "facZipCd": "84302",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-16T00:00:00.000",
+  "facLatDecMs": "41.709389",
+  "facLongDecMs": "-112.424861",
+  "lepcNm": "Box Elder County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2015-10-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Box Elder County",
+    "agencyPhoneNm": "4357235011",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042420"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Explosives Manufacturing",
+          "naicsCd": "32592",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32592"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Nitric acid (conc 80% or greater)",
+          "casNu": "7697-37-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/58"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042420"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042420"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042420"
+    }
+  }
+}

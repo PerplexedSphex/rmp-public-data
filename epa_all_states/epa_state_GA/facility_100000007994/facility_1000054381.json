@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000054381,
+  "epaFacId": "100000007994",
+  "facNm": "Solenis",
+  "parntCo1Nm": "Solenis, LLC",
+  "facDunsNu": 3293016,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3000 Louisville Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Savannah",
+  "facStateCd": "GA",
+  "countyNm": "CHATHAM",
+  "facZipCd": "31415",
+  "facZip4Cd": null,
+  "receiptDa": "2015-12-09T00:00:00.000",
+  "facLatDecMs": "32.088889",
+  "facLongDecMs": "-081.149722",
+  "lepcNm": "Chatham County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chatham County LEPC",
+    "agencyPhoneNm": "9122014500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054381"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Resin and Synthetic Rubber Manufacturing",
+          "naicsCd": "32521",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32521"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Epichlorohydrin  [Oxirane, (chloromethyl)-]",
+          "casNu": "106-89-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/21"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054381"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054381"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054381"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001794,
+  "epaFacId": "100000128569",
+  "facNm": "Audubon Metals, LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 956665970,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3055 Ohio Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Henderson",
+  "facStateCd": "KY",
+  "countyNm": "HENDERSON",
+  "facZipCd": "42420",
+  "facZip4Cd": null,
+  "receiptDa": "2009-05-19T00:00:00.000",
+  "facLatDecMs": "37.809722",
+  "facLongDecMs": "-087.634722",
+  "lepcNm": "Henderson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Henderson Fire Department",
+    "agencyPhoneNm": "2708311277",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001794"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Secondary Smelting and Alloying of Aluminum ",
+          "naicsCd": "331314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001794"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001794"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001794"
+    }
+  }
+}

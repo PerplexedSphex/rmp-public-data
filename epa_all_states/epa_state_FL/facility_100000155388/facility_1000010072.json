@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000010072,
+  "epaFacId": "100000155388",
+  "facNm": "CCNA Base Place USA",
+  "parntCo1Nm": "The Coca-Cola Company, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2659 Orange Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Apopka",
+  "facStateCd": "FL",
+  "countyNm": "ORANGE",
+  "facZipCd": "32703",
+  "facZip4Cd": "3346",
+  "receiptDa": "2009-10-01T00:00:00.000",
+  "facLatDecMs": "28.690278",
+  "facLongDecMs": "-081.554167",
+  "lepcNm": "District 6 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-12-12T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Apopka Fire Department",
+    "agencyPhoneNm": "4077031719",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010072"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Fruit, Juice, and Vegetable Manufacturing ",
+          "naicsCd": "311411",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311411"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010072"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010072"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010072"
+    }
+  }
+}

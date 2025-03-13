@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000007746,
+  "epaFacId": "100000025992",
+  "facNm": "Airgas-Nor Pac, Inc.",
+  "parntCo1Nm": "Airgas, Inc.",
+  "facDunsNu": 603048018,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7700 14th Ave. South",
+  "facStreet2Tx": null,
+  "facCityNm": "Seattle",
+  "facStateCd": "WA",
+  "countyNm": "KING",
+  "facZipCd": "98108",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-17T00:00:00.000",
+  "facLatDecMs": "47.534167",
+  "facLongDecMs": "-122.314444",
+  "lepcNm": "City of Seattle Fire Dept",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-09-24T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Seattle Fire Department",
+    "agencyPhoneNm": "2063861426",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007746"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Acetylene  [Ethyne]",
+          "casNu": "74-86-2",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/96"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007746"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007746"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007746"
+    }
+  }
+}

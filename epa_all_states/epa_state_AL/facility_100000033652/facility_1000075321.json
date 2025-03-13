@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000075321,
+  "epaFacId": "100000033652",
+  "facNm": "R.L. Zeigler Company, Inc",
+  "parntCo1Nm": null,
+  "facDunsNu": 41022021,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1 Plant Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Selma",
+  "facStateCd": "AL",
+  "countyNm": "DALLAS",
+  "facZipCd": "36702",
+  "facZip4Cd": "2505",
+  "receiptDa": "2019-01-09T00:00:00.000",
+  "facLatDecMs": "32.401889",
+  "facLongDecMs": "-87.006147",
+  "lepcNm": "Dallas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2023-02-24T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Selma Fire Department",
+    "agencyPhoneNm": "3348742153",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075321"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075321"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075321"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075321"
+    }
+  }
+}

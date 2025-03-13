@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000048315,
+  "epaFacId": "100000185426",
+  "facNm": "Heisey Farm Service Company",
+  "parntCo1Nm": "Heisey Farm Service Company",
+  "facDunsNu": 0,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4305 Bossler Road",
+  "facStreet2Tx": "n/a",
+  "facCityNm": "Bainbridge",
+  "facStateCd": "PA",
+  "countyNm": "LANCASTER",
+  "facZipCd": "17502",
+  "facZip4Cd": null,
+  "receiptDa": "2015-01-13T00:00:00.000",
+  "facLatDecMs": "40.124139",
+  "facLongDecMs": "-76.648444",
+  "lepcNm": "Lancaster County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2017-12-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LCEMA",
+    "agencyPhoneNm": "7176641200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048315"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Support Activities for Crop Production",
+          "naicsCd": "11511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11511"
+            }
+          }
+        },
+        {
+          "description": "Corn Farming",
+          "naicsCd": "11115",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11115"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048315"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048315"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048315"
+    }
+  }
+}

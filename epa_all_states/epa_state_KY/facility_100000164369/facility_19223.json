@@ -1,0 +1,79 @@
+{
+  "facilityId": 19223,
+  "epaFacId": "100000164369",
+  "facNm": "Baskin-Robbins",
+  "parntCo1Nm": "Baskin-Robbins USA, Company",
+  "facDunsNu": 6396709,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1020 Frederica Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Owensboro",
+  "facStateCd": "KY",
+  "countyNm": "DAVIESS",
+  "facZipCd": "42301",
+  "facZip4Cd": null,
+  "receiptDa": "1999-12-13T00:00:00.000",
+  "facLatDecMs": "37.765694",
+  "facLongDecMs": "-87.115778",
+  "lepcNm": "Daviess County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-07-09T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Daviess County LEPC",
+    "agencyPhoneNm": "5026858448",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19223"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19223"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19223"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/19223"
+    }
+  }
+}

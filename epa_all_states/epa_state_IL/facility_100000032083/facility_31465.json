@@ -1,0 +1,79 @@
+{
+  "facilityId": 31465,
+  "epaFacId": "100000032083",
+  "facNm": "Rogers Metal Services, Inc.",
+  "parntCo1Nm": "Same as above",
+  "facDunsNu": 55427371,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7330 N. Monticello Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Skokie",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60076",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-14T00:00:00.000",
+  "facLatDecMs": "42.005100",
+  "facLongDecMs": "-087.431200",
+  "lepcNm": "Cook County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2006-11-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Skokie Fire Department",
+    "agencyPhoneNm": "8479825328",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31465"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Metal Heat Treating ",
+          "naicsCd": "332811",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332811"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31465"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31465"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31465"
+    }
+  }
+}

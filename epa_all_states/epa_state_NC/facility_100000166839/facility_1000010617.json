@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000010617,
+  "epaFacId": "100000166839",
+  "facNm": "MillerCoors LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 827129540,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "863 East Meadow Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Eden",
+  "facStateCd": "NC",
+  "countyNm": "ROCKINGHAM",
+  "facZipCd": "27288",
+  "facZip4Cd": null,
+  "receiptDa": "2009-11-09T00:00:00.000",
+  "facLatDecMs": "36.520833",
+  "facLongDecMs": "-079.715992",
+  "lepcNm": "Rockingham County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2016-08-30T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rockingham County Emergency Mgmt.",
+    "agencyPhoneNm": "3366343000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010617"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010617"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010617"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010617"
+    }
+  }
+}

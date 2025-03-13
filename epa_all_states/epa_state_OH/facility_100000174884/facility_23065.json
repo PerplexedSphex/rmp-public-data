@@ -1,0 +1,88 @@
+{
+  "facilityId": 23065,
+  "epaFacId": "100000174884",
+  "facNm": "AMAC Enterprises, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 994161733,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "5925 West 130th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Parma",
+  "facStateCd": "OH",
+  "countyNm": "CUYAHOGA",
+  "facZipCd": "44130",
+  "facZip4Cd": null,
+  "receiptDa": "2001-03-23T00:00:00.000",
+  "facLatDecMs": "41.401889",
+  "facLongDecMs": "-81.784139",
+  "lepcNm": "Cuyahoga County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2003-12-05T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Parma Fire Dept.",
+    "agencyPhoneNm": "2168841234",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23065"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Metal Heat Treating ",
+          "naicsCd": "332811",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332811"
+            }
+          }
+        },
+        {
+          "description": "Electroplating, Plating, Polishing, Anodizing, and Coloring ",
+          "naicsCd": "332813",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332813"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23065"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23065"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23065"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 21252,
+  "epaFacId": "100000169293",
+  "facNm": "Delaware City Power Plant / Motiva Enterprises LLC",
+  "parntCo1Nm": "Shell Oil Company",
+  "facDunsNu": 23838670,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "River Road, Delaware Route 9",
+  "facStreet2Tx": null,
+  "facCityNm": "Delaware City",
+  "facStateCd": "DE",
+  "countyNm": "NEW CASTLE",
+  "facZipCd": "19706",
+  "facZip4Cd": null,
+  "receiptDa": "2000-05-10T00:00:00.000",
+  "facLatDecMs": "39.592222",
+  "facLongDecMs": "-75.633333",
+  "lepcNm": "New Castle LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2010-04-12T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "New Castle County LEPC",
+    "agencyPhoneNm": "3027611721",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21252"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21252"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21252"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21252"
+    }
+  }
+}

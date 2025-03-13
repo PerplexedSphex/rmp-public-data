@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101151,
+  "epaFacId": "100000248751",
+  "facNm": "Veolia ES Technical Solutions - Denver Rock Island",
+  "parntCo1Nm": "Veolia ES Technical Solutions L.L.C.",
+  "facDunsNu": 82184156,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4620 N Monaco St",
+  "facStreet2Tx": "",
+  "facCityNm": "Denver",
+  "facStateCd": "CO",
+  "countyNm": "DENVER",
+  "facZipCd": "80216",
+  "facZip4Cd": "",
+  "receiptDa": "2022-11-03T00:00:00.000",
+  "facLatDecMs": "39.78032",
+  "facLongDecMs": "-104.90977",
+  "lepcNm": "Denver LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Denver Fire Department",
+    "agencyPhoneNm": "7209133596",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101151"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Hazardous Waste Collection ",
+          "naicsCd": "562112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/562112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Piperidine",
+          "casNu": "110-89-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/34"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101151"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101151"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101151"
+    }
+  }
+}

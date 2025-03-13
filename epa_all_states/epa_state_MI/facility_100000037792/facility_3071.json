@@ -1,0 +1,79 @@
+{
+  "facilityId": 3071,
+  "epaFacId": "100000037792",
+  "facNm": "Warren Waste Water Treatment Plant",
+  "parntCo1Nm": "City of Warren",
+  "facDunsNu": 78409653,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "32360 Warkop",
+  "facStreet2Tx": null,
+  "facCityNm": "Warren",
+  "facStateCd": "MI",
+  "countyNm": "MACOMB",
+  "facZipCd": "48093",
+  "facZip4Cd": "1044",
+  "receiptDa": "1999-06-15T00:00:00.000",
+  "facLatDecMs": "42.5325",
+  "facLongDecMs": "-83.020833",
+  "lepcNm": "Macomb County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2011-01-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Macomb LEPC",
+    "agencyPhoneNm": "8104695502",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3071"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Alkalies and Chlorine Manufacturing",
+          "naicsCd": "325181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3071"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3071"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3071"
+    }
+  }
+}

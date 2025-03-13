@@ -1,0 +1,106 @@
+{
+  "facilityId": 32850,
+  "epaFacId": "100000010007",
+  "facNm": "DANBURY NH3 PLANT",
+  "parntCo1Nm": "DECATUR COOPERATIVE ASSOCIATION",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "MAIN STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "DANBURY",
+  "facStateCd": "NE",
+  "countyNm": "RED WILLOW",
+  "facZipCd": "69026",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-18T00:00:00.000",
+  "facLatDecMs": "40.042806",
+  "facLongDecMs": "-100.413889",
+  "lepcNm": "Red Willow LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2008-10-22T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "RED WILLOW LEPC",
+    "agencyPhoneNm": "0000000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32850"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Soybean Farming",
+          "naicsCd": "11111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11111"
+            }
+          }
+        },
+        {
+          "description": "Wheat Farming",
+          "naicsCd": "11114",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11114"
+            }
+          }
+        },
+        {
+          "description": "Corn Farming",
+          "naicsCd": "11115",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11115"
+            }
+          }
+        },
+        {
+          "description": "Other Grain Farming",
+          "naicsCd": "11119",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11119"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32850"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32850"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32850"
+    }
+  }
+}

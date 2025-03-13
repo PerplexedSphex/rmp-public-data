@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000112333,
+  "epaFacId": "100000191062",
+  "facNm": "General Mills Yoplait - Murfreesboro",
+  "parntCo1Nm": "General Mills Operations, LLC",
+  "facDunsNu": 1326438,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2695 General Mills Way",
+  "facStreet2Tx": "",
+  "facCityNm": "Murfreesboro",
+  "facStateCd": "TN",
+  "countyNm": "RUTHERFORD",
+  "facZipCd": "37127",
+  "facZip4Cd": "",
+  "receiptDa": "2024-04-02T00:00:00.000",
+  "facLatDecMs": "35.798333",
+  "facLongDecMs": "-086.391667",
+  "lepcNm": "Rutherford Co Emg Mgmt Agency",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rutherford Co Emg Mgmt Agency",
+    "agencyPhoneNm": "6158987764",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112333"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112333"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112333"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112333"
+    }
+  }
+}

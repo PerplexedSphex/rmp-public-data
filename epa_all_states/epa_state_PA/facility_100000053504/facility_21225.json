@@ -1,0 +1,79 @@
+{
+  "facilityId": 21225,
+  "epaFacId": "100000053504",
+  "facNm": "Middletown Distribution Center",
+  "parntCo1Nm": "SC Johnson & Son",
+  "facDunsNu": 36235240,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "300 Hunter Lane, Suite 500",
+  "facStreet2Tx": null,
+  "facCityNm": "Middletown",
+  "facStateCd": "PA",
+  "countyNm": "DAUPHIN",
+  "facZipCd": "17057",
+  "facZip4Cd": null,
+  "receiptDa": "2000-05-04T00:00:00.000",
+  "facLatDecMs": "40.204333",
+  "facLongDecMs": "-76.734444",
+  "lepcNm": "Dauphin County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2002-01-29T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lower Swatara Township Fire Dept",
+    "agencyPhoneNm": "7179446339",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21225"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21225"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21225"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21225"
+    }
+  }
+}

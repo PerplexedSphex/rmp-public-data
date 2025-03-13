@@ -1,0 +1,88 @@
+{
+  "facilityId": 3545,
+  "epaFacId": "100000043302",
+  "facNm": "Johnson Matthey Inc.",
+  "parntCo1Nm": "Johnson Matthey Plc.",
+  "facDunsNu": 73679672,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2001 Nolte Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "West Deptford",
+  "facStateCd": "NJ",
+  "countyNm": "GLOUCESTER",
+  "facZipCd": "08066",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-17T00:00:00.000",
+  "facLatDecMs": "39.816389",
+  "facLongDecMs": "-75.210556",
+  "lepcNm": "West Deptford Twp LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "West Deptford Twp LEPC",
+    "agencyPhoneNm": "6098452300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3545"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",
+          "naicsCd": "331492",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331492"
+            }
+          }
+        },
+        {
+          "description": "All Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "325188",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325188"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3545"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3545"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/3545"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000067645,
+  "epaFacId": "100000199153",
+  "facNm": "Sanderson Farms Inc.",
+  "parntCo1Nm": "Sanderson Farms Inc.",
+  "facDunsNu": 8172512,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "301 Aviation Parkway",
+  "facStreet2Tx": null,
+  "facCityNm": "Waco",
+  "facStateCd": "TX",
+  "countyNm": "MCLENNAN",
+  "facZipCd": "76705",
+  "facZip4Cd": null,
+  "receiptDa": "2018-01-22T00:00:00.000",
+  "facLatDecMs": "31.625613",
+  "facLongDecMs": "-097.052074",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Waco Fire Station #3",
+    "agencyPhoneNm": "2544123005",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067645"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067645"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067645"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067645"
+    }
+  }
+}

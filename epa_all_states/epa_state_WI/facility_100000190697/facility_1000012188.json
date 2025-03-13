@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000012188,
+  "epaFacId": "100000190697",
+  "facNm": "Roundy's, Inc.",
+  "parntCo1Nm": "Roundy's, Inc.",
+  "facDunsNu": 7947195,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1111 West Delafield Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Oconomowoc",
+  "facStateCd": "WI",
+  "countyNm": "WAUKESHA",
+  "facZipCd": "53066",
+  "facZip4Cd": null,
+  "receiptDa": "2010-01-19T00:00:00.000",
+  "facLatDecMs": "43.061111",
+  "facLongDecMs": "-088.472500",
+  "lepcNm": "Waukesha LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Oconomowoc Fire Department",
+    "agencyPhoneNm": "2625693223",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012188"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012188"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012188"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000012188"
+    }
+  }
+}

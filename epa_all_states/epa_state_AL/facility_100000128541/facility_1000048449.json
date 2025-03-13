@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000048449,
+  "epaFacId": "100000128541",
+  "facNm": "FMC Mobile Site",
+  "parntCo1Nm": "FMC Corporation",
+  "facDunsNu": 93179315,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "12650 Highway 43",
+  "facStreet2Tx": null,
+  "facCityNm": "Axis",
+  "facStateCd": "AL",
+  "countyNm": "MOBILE",
+  "facZipCd": "36505",
+  "facZip4Cd": "0525",
+  "receiptDa": "2015-04-07T00:00:00.000",
+  "facLatDecMs": "30.954444",
+  "facLongDecMs": "-88.018889",
+  "lepcNm": "Mobile County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Emergency Management Agency",
+    "agencyPhoneNm": "2514608000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048449"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+          "naicsCd": "32532",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32532"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048449"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048449"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048449"
+    }
+  }
+}

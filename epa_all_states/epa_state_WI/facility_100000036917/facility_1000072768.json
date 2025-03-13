@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000072768,
+  "epaFacId": "100000036917",
+  "facNm": "Miller Electric Mfg. Co.",
+  "parntCo1Nm": "Illinois Tool Works, Inc. (ITW, Inc.)",
+  "facDunsNu": 6126379,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1635 West Spencer Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Appleton",
+  "facStateCd": "WI",
+  "countyNm": "OUTAGAMIE",
+  "facZipCd": "54914",
+  "facZip4Cd": "4911",
+  "receiptDa": "2019-03-18T14:42:38.000",
+  "facLatDecMs": "44.256389",
+  "facLongDecMs": "-088.430556",
+  "lepcNm": "Outagamie County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Outagamie County LEPC",
+    "agencyPhoneNm": "9208325846",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072768"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electrical Equipment Manufacturing",
+          "naicsCd": "33531",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33531"
+            }
+          }
+        },
+        {
+          "description": "Welding and Soldering Equipment Manufacturing ",
+          "naicsCd": "333992",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/333992"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072768"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072768"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072768"
+    }
+  }
+}

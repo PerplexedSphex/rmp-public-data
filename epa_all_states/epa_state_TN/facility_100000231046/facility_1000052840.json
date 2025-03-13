@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000052840,
+  "epaFacId": "100000231046",
+  "facNm": "Colonial Chemical Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 14357557,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "225 Colonial Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "South Pittsburg",
+  "facStateCd": "TN",
+  "countyNm": "MARION",
+  "facZipCd": "37380",
+  "facZip4Cd": null,
+  "receiptDa": "2015-10-16T00:00:00.000",
+  "facLatDecMs": "34.995708",
+  "facLongDecMs": "-85.643565",
+  "lepcNm": "Marion County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Marion County Emergency Management",
+    "agencyPhoneNm": "4239428026",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052840"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Surface Active Agent Manufacturing ",
+          "naicsCd": "325613",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325613"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Epichlorohydrin  [Oxirane, (chloromethyl)-]",
+          "casNu": "106-89-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/21"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052840"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052840"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000052840"
+    }
+  }
+}

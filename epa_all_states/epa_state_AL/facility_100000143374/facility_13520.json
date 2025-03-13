@@ -1,0 +1,79 @@
+{
+  "facilityId": 13520,
+  "epaFacId": "100000143374",
+  "facNm": "Scottsboro Aluminum, LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 93790277,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1762 Goosepond Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Scottsboro",
+  "facStateCd": "AL",
+  "countyNm": "JACKSON",
+  "facZipCd": "35769",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "34.596944",
+  "facLongDecMs": "-86.048056",
+  "lepcNm": "Jackson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2002-01-25T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Scottsboro Fire Department",
+    "agencyPhoneNm": "2565742617",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13520"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Aluminum Sheet, Plate, and Foil Manufacturing ",
+          "naicsCd": "331315",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331315"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13520"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13520"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13520"
+    }
+  }
+}

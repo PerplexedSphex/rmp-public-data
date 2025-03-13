@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000112059,
+  "epaFacId": "100000240223",
+  "facNm": "Okeechobee Clean Energy Center Unit 1 (OCEC)",
+  "parntCo1Nm": "Florida Power and Light Co.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "21505 FL SR 60",
+  "facStreet2Tx": "",
+  "facCityNm": "Vero Beach",
+  "facStateCd": "FL",
+  "countyNm": "OKEECHOBEE",
+  "facZipCd": "32966",
+  "facZip4Cd": "",
+  "receiptDa": "2024-03-21T00:00:00.000",
+  "facLatDecMs": "27.63382",
+  "facLongDecMs": "-80.78940",
+  "lepcNm": "District 7 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "District 7 LEPC - CFRPC",
+    "agencyPhoneNm": "8635347130",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112059"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112059"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112059"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112059"
+    }
+  }
+}

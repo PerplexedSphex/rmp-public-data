@@ -1,0 +1,79 @@
+{
+  "facilityId": 13431,
+  "epaFacId": "100000141456",
+  "facNm": "Lyondell Chemical R&D Facility",
+  "parntCo1Nm": "Lyondell Chemical Company",
+  "facDunsNu": 617421870,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3801 West Chester Pike",
+  "facStreet2Tx": null,
+  "facCityNm": "Newtown Square",
+  "facStateCd": "PA",
+  "countyNm": "DELAWARE",
+  "facZipCd": "19073",
+  "facZip4Cd": "2387",
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "39.993333",
+  "facLongDecMs": "75.409722",
+  "lepcNm": "Emergency Services, Delaware C",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2000-09-29T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Emergency Services, County of Delaw",
+    "agencyPhoneNm": "6105658700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13431"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Research and Development in the Physical, Engineering, and Life Sciences",
+          "naicsCd": "54171",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/54171"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene oxide  [Oxirane, methyl-]",
+          "casNu": "75-56-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/12"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13431"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13431"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13431"
+    }
+  }
+}

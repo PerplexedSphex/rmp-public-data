@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000075542,
+  "epaFacId": "100000213244",
+  "facNm": "BC Systems Inc",
+  "parntCo1Nm": null,
+  "facDunsNu": 154483457,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1341 Merrill St",
+  "facStreet2Tx": null,
+  "facCityNm": "Salinas",
+  "facStateCd": "CA",
+  "countyNm": "MONTEREY",
+  "facZipCd": "93901",
+  "facZip4Cd": null,
+  "receiptDa": "2019-01-28T11:22:56.000",
+  "facLatDecMs": "36.6472806",
+  "facLongDecMs": "-121.634167",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Salinas Fire Department",
+    "agencyPhoneNm": "8316332578",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075542"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075542"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075542"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075542"
+    }
+  }
+}

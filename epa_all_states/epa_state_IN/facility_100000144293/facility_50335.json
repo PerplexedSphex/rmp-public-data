@@ -1,0 +1,97 @@
+{
+  "facilityId": 50335,
+  "epaFacId": "100000144293",
+  "facNm": "Warsaw Chemical Co., Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 5430244,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "390 Argonne Road",
+  "facStreet2Tx": "PO Box 858",
+  "facCityNm": "Warsaw",
+  "facStateCd": "IN",
+  "countyNm": "KOSCIUSKO",
+  "facZipCd": "46580",
+  "facZip4Cd": null,
+  "receiptDa": "2007-12-11T00:00:00.000",
+  "facLatDecMs": "41.251389",
+  "facLongDecMs": "-085.824167",
+  "lepcNm": "Kosciusko County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2009-01-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Emergency Management Office",
+    "agencyPhoneNm": "5742677888",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50335"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Soap and Other Detergent Manufacturing ",
+          "naicsCd": "325611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325611"
+            }
+          }
+        },
+        {
+          "description": "Surface Active Agent Manufacturing ",
+          "naicsCd": "325613",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325613"
+            }
+          }
+        },
+        {
+          "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+          "naicsCd": "325998",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325998"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50335"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50335"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50335"
+    }
+  }
+}

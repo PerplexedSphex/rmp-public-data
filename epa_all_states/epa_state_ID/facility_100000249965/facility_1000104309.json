@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000104309,
+  "epaFacId": "100000249965",
+  "facNm": "True West Beef LLC",
+  "parntCo1Nm": "Prime Cut LLLP",
+  "facDunsNu": 77112229,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "6026 US-93",
+  "facStreet2Tx": "",
+  "facCityNm": "Jerome",
+  "facStateCd": "ID",
+  "countyNm": " JEROME",
+  "facZipCd": "83338",
+  "facZip4Cd": "",
+  "receiptDa": "2023-03-31T00:00:00.000",
+  "facLatDecMs": "42.74066",
+  "facLongDecMs": "-114.42747",
+  "lepcNm": "Jerome County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jerome Rural Fire Department",
+    "agencyPhoneNm": "2083247468",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104309"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal (except Poultry) Slaughtering ",
+          "naicsCd": "311611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104309"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104309"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104309"
+    }
+  }
+}

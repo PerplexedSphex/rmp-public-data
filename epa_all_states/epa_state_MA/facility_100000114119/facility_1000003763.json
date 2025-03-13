@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000003763,
+  "epaFacId": "100000114119",
+  "facNm": "Friendly Ice Cream Corporation - Wilbraham",
+  "parntCo1Nm": null,
+  "facDunsNu": 1116557,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1855 Boston Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Wilbraham",
+  "facStateCd": "MA",
+  "countyNm": "HAMPDEN",
+  "facZipCd": "01095",
+  "facZip4Cd": "1098",
+  "receiptDa": "2009-06-11T00:00:00.000",
+  "facLatDecMs": "42.146389",
+  "facLongDecMs": "-072.480833",
+  "lepcNm": "Wilbraham LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Springfield & Wilbraham LEPCs",
+    "agencyPhoneNm": "4135963122",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003763"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003763"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003763"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000003763"
+    }
+  }
+}

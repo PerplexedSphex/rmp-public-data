@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000099426,
+  "epaFacId": "100000178283",
+  "facNm": "Kendall Power Company LLC",
+  "parntCo1Nm": "Vistra Corp",
+  "facDunsNu": 13288969,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1401 County Line Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Minooka",
+  "facStateCd": "IL",
+  "countyNm": "KENDALL",
+  "facZipCd": "60447",
+  "facZip4Cd": null,
+  "receiptDa": "2022-01-31T15:43:01.000",
+  "facLatDecMs": "41.480808",
+  "facLongDecMs": "-088.257385",
+  "lepcNm": "Kendall County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Local Police/Fire/Ambulance",
+    "agencyPhoneNm": "8154675637",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099426"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099426"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099426"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000099426"
+    }
+  }
+}

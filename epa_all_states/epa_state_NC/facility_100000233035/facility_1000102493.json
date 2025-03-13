@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000102493,
+  "epaFacId": "100000233035",
+  "facNm": "CPT Charlotte Terminal",
+  "parntCo1Nm": "Colonial Enterprises, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7720 Mt. Holly Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Charlotte",
+  "facStateCd": "NC",
+  "countyNm": "MECKLENBURG",
+  "facZipCd": "28214",
+  "facZip4Cd": "",
+  "receiptDa": "2022-09-15T00:00:00.000",
+  "facLatDecMs": "35.280600",
+  "facLongDecMs": "-80.937510",
+  "lepcNm": "Charlotte Mecklenburg EM Off.",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Charlotte Fire Department",
+    "agencyPhoneNm": "7043364174",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102493"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102493"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102493"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102493"
+    }
+  }
+}

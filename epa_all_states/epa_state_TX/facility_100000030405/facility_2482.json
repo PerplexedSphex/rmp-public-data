@@ -1,0 +1,79 @@
+{
+  "facilityId": 2482,
+  "epaFacId": "100000030405",
+  "facNm": "Kraft Foods, Inc., Garland",
+  "parntCo1Nm": "Kraft Foods, Inc.",
+  "facDunsNu": 7354749,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2340 Forest Lane",
+  "facStreet2Tx": null,
+  "facCityNm": "Garland",
+  "facStateCd": "TX",
+  "countyNm": "DALLAS",
+  "facZipCd": "75042",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-14T00:00:00.000",
+  "facLatDecMs": "32.906944",
+  "facLongDecMs": "-96.663056",
+  "lepcNm": "Dallas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Garland Fire Department",
+    "agencyPhoneNm": "9722052250",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2482"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing ",
+          "naicsCd": "311941",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311941"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2482"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2482"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2482"
+    }
+  }
+}

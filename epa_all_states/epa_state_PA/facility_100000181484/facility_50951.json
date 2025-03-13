@@ -1,0 +1,79 @@
+{
+  "facilityId": 50951,
+  "epaFacId": "100000181484",
+  "facNm": "Seward Station",
+  "parntCo1Nm": "GenOn Wholesale Generation, LP",
+  "facDunsNu": 124845199,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "595 Plant Road",
+  "facStreet2Tx": null,
+  "facCityNm": "New Florence",
+  "facStateCd": "PA",
+  "countyNm": "INDIANA",
+  "facZipCd": "15944",
+  "facZip4Cd": "8927",
+  "receiptDa": "2008-02-20T00:00:00.000",
+  "facLatDecMs": "40.406111",
+  "facLongDecMs": "-079.031111",
+  "lepcNm": "Indiana County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Indiana County LEPC",
+    "agencyPhoneNm": "7243499300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50951"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50951"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50951"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50951"
+    }
+  }
+}

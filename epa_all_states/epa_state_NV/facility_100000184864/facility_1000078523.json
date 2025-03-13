@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000078523,
+  "epaFacId": "100000184864",
+  "facNm": "Silverhawk Generating Station",
+  "parntCo1Nm": "Nevada Power Company d/b/a NV Energy",
+  "facDunsNu": 961601648,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "15111 Apex Power Parkway",
+  "facStreet2Tx": "",
+  "facCityNm": "North Las Vegas",
+  "facStateCd": "NV",
+  "countyNm": "CLARK",
+  "facZipCd": "89124",
+  "facZip4Cd": "",
+  "receiptDa": "2019-05-16T00:00:00.000",
+  "facLatDecMs": "36.410694",
+  "facLongDecMs": "-114.960750",
+  "lepcNm": "Clark County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clark County Fire Department",
+    "agencyPhoneNm": "7024557311",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078523"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078523"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078523"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078523"
+    }
+  }
+}

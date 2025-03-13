@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100485,
+  "epaFacId": "100000175142",
+  "facNm": "Hormel Foods Corporation Beloit Plant",
+  "parntCo1Nm": "Hormel Foods Corporation",
+  "facDunsNu": 66857699,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3000 Kennedy Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Beloit",
+  "facStateCd": "WI",
+  "countyNm": "ROCK",
+  "facZipCd": "53511",
+  "facZip4Cd": "3934",
+  "receiptDa": "2022-03-29T00:00:00.000",
+  "facLatDecMs": "42.521944",
+  "facLongDecMs": "-088.977222",
+  "lepcNm": "Rock County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Beloit Fire Department",
+    "agencyPhoneNm": "6083642900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100485"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100485"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100485"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100485"
+    }
+  }
+}

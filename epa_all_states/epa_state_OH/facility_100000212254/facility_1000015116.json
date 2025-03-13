@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000015116,
+  "epaFacId": "100000212254",
+  "facNm": "Uranium Disposition Services LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 126507404,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3930 US Highway 23 South",
+  "facStreet2Tx": null,
+  "facCityNm": "Piketon",
+  "facStateCd": "OH",
+  "countyNm": "PIKE",
+  "facZipCd": "45661",
+  "facZip4Cd": null,
+  "receiptDa": "2010-08-12T00:00:00.000",
+  "facLatDecMs": "39.012058",
+  "facLongDecMs": "-83.005741",
+  "lepcNm": "Pike County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "US Enrichment Corporation",
+    "agencyPhoneNm": "7408973025",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015116"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "All Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "325188",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325188"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015116"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015116"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015116"
+    }
+  }
+}

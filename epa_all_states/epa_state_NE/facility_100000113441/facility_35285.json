@@ -1,0 +1,79 @@
+{
+  "facilityId": 35285,
+  "epaFacId": "100000113441",
+  "facNm": "Hormel Foods Corporation Fremont Plant",
+  "parntCo1Nm": "Hormel Foods Corporation",
+  "facDunsNu": 7259922,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "900 South Platte Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Fremont",
+  "facStateCd": "NE",
+  "countyNm": "DODGE",
+  "facZipCd": "68025",
+  "facZip4Cd": "6232",
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "41.423056",
+  "facLongDecMs": "-096.485278",
+  "lepcNm": "Dodge LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fremont Fire Department",
+    "agencyPhoneNm": "4027272688",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35285"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35285"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35285"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/35285"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000033079,
+  "epaFacId": "100000148841",
+  "facNm": "The Procter & Gamble Manufacturing Company",
+  "parntCo1Nm": "The Procter & Gamble Company",
+  "facDunsNu": 7130032,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1900 Kansas Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Kansas City",
+  "facStateCd": "KS",
+  "countyNm": "WYANDOTTE",
+  "facZipCd": "66105",
+  "facZip4Cd": null,
+  "receiptDa": "2013-06-13T00:00:00.000",
+  "facLatDecMs": "39.089722",
+  "facLongDecMs": "-094.653889",
+  "lepcNm": "Wyandotte County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-01-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kansas City, Kansas Fire Department",
+    "agencyPhoneNm": "9135735550",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033079"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Surface Active Agent Manufacturing ",
+          "naicsCd": "325613",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325613"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Epichlorohydrin  [Oxirane, (chloromethyl)-]",
+          "casNu": "106-89-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/21"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033079"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033079"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033079"
+    }
+  }
+}

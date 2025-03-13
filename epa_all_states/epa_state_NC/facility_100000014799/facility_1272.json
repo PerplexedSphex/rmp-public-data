@@ -1,0 +1,79 @@
+{
+  "facilityId": 1272,
+  "epaFacId": "100000014799",
+  "facNm": "Dairy Fresh, Inc.",
+  "parntCo1Nm": "Suiza Foods",
+  "facDunsNu": 107885691,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2221 Patterson Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Winston Salem",
+  "facStateCd": "NC",
+  "countyNm": "FORSYTH",
+  "facZipCd": "27105",
+  "facZip4Cd": null,
+  "receiptDa": "1999-05-28T00:00:00.000",
+  "facLatDecMs": "36.118056",
+  "facLongDecMs": "-80.243611",
+  "lepcNm": "Forsyth County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Winston Salem Fire Department",
+    "agencyPhoneNm": "3367278053",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1272"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1272"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1272"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1272"
+    }
+  }
+}

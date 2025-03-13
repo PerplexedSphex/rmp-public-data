@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000053057,
+  "epaFacId": "100000230813",
+  "facNm": "Gordon Food Service Kannapolis",
+  "parntCo1Nm": "Gordon Food Service, Inc.",
+  "facDunsNu": 6409908,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "6363 Glen Afton Blvd",
+  "facStreet2Tx": null,
+  "facCityNm": "Kannapolis",
+  "facStateCd": "NC",
+  "countyNm": "CABARRUS",
+  "facZipCd": "28082",
+  "facZip4Cd": null,
+  "receiptDa": "2015-10-28T00:00:00.000",
+  "facLatDecMs": "35.4177",
+  "facLongDecMs": "-80.6867",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kannapolis Fire Department",
+    "agencyPhoneNm": "7049204260",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053057"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053057"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053057"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053057"
+    }
+  }
+}

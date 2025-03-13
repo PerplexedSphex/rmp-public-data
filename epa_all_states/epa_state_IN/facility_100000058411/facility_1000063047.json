@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000063047,
+  "epaFacId": "100000058411",
+  "facNm": "Perdue Farms Incorporated, Washington Facility",
+  "parntCo1Nm": "Perdue Farms Incorporated",
+  "facDunsNu": 151008620,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "65 S. 200 West",
+  "facStreet2Tx": "PO Box 539",
+  "facCityNm": "Washington",
+  "facStateCd": "IN",
+  "countyNm": "DAVIESS",
+  "facZipCd": "47501",
+  "facZip4Cd": null,
+  "receiptDa": "2017-05-12T00:00:00.000",
+  "facLatDecMs": "38.655278",
+  "facLongDecMs": "-087.204167",
+  "lepcNm": "Daviess County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Daviess County LEPC",
+    "agencyPhoneNm": "8122545536",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063047"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063047"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063047"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063047"
+    }
+  }
+}

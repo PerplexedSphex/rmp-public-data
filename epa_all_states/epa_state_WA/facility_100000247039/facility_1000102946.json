@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000102946,
+  "epaFacId": "100000247039",
+  "facNm": "ADM Milling Company",
+  "parntCo1Nm": "ADM",
+  "facDunsNu": 155358179,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "601 First Street",
+  "facStreet2Tx": "",
+  "facCityNm": "Cheney",
+  "facStateCd": "WA",
+  "countyNm": " SPOKANE",
+  "facZipCd": "99004",
+  "facZip4Cd": "",
+  "receiptDa": "2022-11-14T00:00:00.000",
+  "facLatDecMs": "47.488280",
+  "facLongDecMs": "-117.573560",
+  "lepcNm": "Spokane County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cheney Fire Department",
+    "agencyPhoneNm": "5094989291",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102946"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102946"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102946"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102946"
+    }
+  }
+}

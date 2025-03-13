@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000072901,
+  "epaFacId": "100000239789",
+  "facNm": "Penske Logistics Romulus",
+  "parntCo1Nm": "Penske Logistics, LLC",
+  "facDunsNu": 126949747,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "15520 Wayne Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Romulus",
+  "facStateCd": "MI",
+  "countyNm": "WAYNE",
+  "facZipCd": "48174",
+  "facZip4Cd": null,
+  "receiptDa": "2018-09-18T00:00:00.000",
+  "facLatDecMs": "42.189444",
+  "facLongDecMs": "-83.377500",
+  "lepcNm": "Romulus City LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-07-17T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Romulus Fire Department",
+    "agencyPhoneNm": "7349418585",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072901"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072901"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072901"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072901"
+    }
+  }
+}

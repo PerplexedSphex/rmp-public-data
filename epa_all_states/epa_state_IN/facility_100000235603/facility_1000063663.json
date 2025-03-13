@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000063663,
+  "epaFacId": "100000235603",
+  "facNm": "Rockport Plant",
+  "parntCo1Nm": "Indiana Michigan Power",
+  "facDunsNu": 14475556,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2791 North US Highway 231",
+  "facStreet2Tx": null,
+  "facCityNm": "Rockport",
+  "facStateCd": "IN",
+  "countyNm": "SPENCER",
+  "facZipCd": "47635",
+  "facZip4Cd": null,
+  "receiptDa": "2017-06-19T00:00:00.000",
+  "facLatDecMs": "37.932240",
+  "facLongDecMs": "-87.034530",
+  "lepcNm": "Spencer County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Spencer County LEPC",
+    "agencyPhoneNm": "8126496020",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063663"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063663"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063663"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000063663"
+    }
+  }
+}

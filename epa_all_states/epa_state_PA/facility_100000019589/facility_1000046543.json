@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000046543,
+  "epaFacId": "100000019589",
+  "facNm": "MURRY'S, INC.",
+  "parntCo1Nm": null,
+  "facDunsNu": 55622930,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1501 WILLOW STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "LEBANON",
+  "facStateCd": "PA",
+  "countyNm": "LEBANON",
+  "facZipCd": "17046",
+  "facZip4Cd": null,
+  "receiptDa": "2014-09-11T00:00:00.000",
+  "facLatDecMs": "40.340834",
+  "facLongDecMs": "-076.436971",
+  "lepcNm": "Lebanon County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEBANON COUNTY EMERGENCY MANAGEMENT",
+    "agencyPhoneNm": "7172727621",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046543"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046543"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046543"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046543"
+    }
+  }
+}

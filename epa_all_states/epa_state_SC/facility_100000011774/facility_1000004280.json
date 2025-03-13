@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000004280,
+  "epaFacId": "100000011774",
+  "facNm": "Lake Blalock Water Treatment Plant",
+  "parntCo1Nm": "Spartanburg Water System",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "180 Joel O'Bryant Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Spartanburg",
+  "facStateCd": "SC",
+  "countyNm": "SPARTANBURG",
+  "facZipCd": "29304",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-09T00:00:00.000",
+  "facLatDecMs": "35.037958",
+  "facLongDecMs": "-081.886592",
+  "lepcNm": "Spartanburg County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-12-19T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Spartanburg County EPD",
+    "agencyPhoneNm": "8645962047",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004280"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004280"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004280"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004280"
+    }
+  }
+}

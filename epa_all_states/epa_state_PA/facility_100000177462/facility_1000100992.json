@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100992,
+  "epaFacId": "100000177462",
+  "facNm": "Cargill Meat Solutions Corporation",
+  "parntCo1Nm": "Cargill Meat Solutions Corporation",
+  "facDunsNu": 6249189,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "65 Green Mountain Road",
+  "facStreet2Tx": "Humboldt Industrial Park",
+  "facCityNm": "Hazleton",
+  "facStateCd": "PA",
+  "countyNm": "SCHUYLKILL",
+  "facZipCd": "18202",
+  "facZip4Cd": "9224",
+  "receiptDa": "2022-06-14T00:00:00.000",
+  "facLatDecMs": "40.913100",
+  "facLongDecMs": "-76.101700",
+  "lepcNm": "Schuylkill County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Schuykill Co. Mgmt Agcy",
+    "agencyPhoneNm": "5706223739",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100992"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100992"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100992"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100992"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000041234,
+  "epaFacId": "100000133116",
+  "facNm": "CHS INC  -  LOOMIS  NORTH  ",
+  "parntCo1Nm": "CHS Inc.",
+  "facDunsNu": 6147177,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "9 mI. North on Loomis Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Loomis",
+  "facStateCd": "NE",
+  "countyNm": "PHELPS",
+  "facZipCd": "68958",
+  "facZip4Cd": null,
+  "receiptDa": "2014-04-24T00:00:00.000",
+  "facLatDecMs": "40.620741",
+  "facLongDecMs": "-099.512215",
+  "lepcNm": "South Central Regional LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-12-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "South Central Regional LEPC",
+    "agencyPhoneNm": "3089953190",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041234"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Product Warehousing and Storage",
+          "naicsCd": "49313",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49313"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041234"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041234"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041234"
+    }
+  }
+}

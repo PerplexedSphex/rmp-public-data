@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000010645,
+  "epaFacId": "100000035464",
+  "facNm": "Muller-Pinehust Dairy",
+  "parntCo1Nm": "Prairie Farms Dairy, Inc.",
+  "facDunsNu": 6935670,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2110 Ogilby Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Rockford",
+  "facStateCd": "IL",
+  "countyNm": "WINNEBAGO",
+  "facZipCd": "61102",
+  "facZip4Cd": null,
+  "receiptDa": "2009-08-28T00:00:00.000",
+  "facLatDecMs": "42.249389",
+  "facLongDecMs": "-089.131111",
+  "lepcNm": "Winnebago County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Blackhawk Fire Department",
+    "agencyPhoneNm": "8159621584",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010645"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010645"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010645"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010645"
+    }
+  }
+}

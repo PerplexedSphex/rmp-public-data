@@ -1,0 +1,79 @@
+{
+  "facilityId": 38654,
+  "epaFacId": "100000096512",
+  "facNm": "The Dodge Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 1045517,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "165 Cambridge Park Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Cambridge",
+  "facStateCd": "MA",
+  "countyNm": "MIDDLESEX",
+  "facZipCd": "02140",
+  "facZip4Cd": "0193",
+  "receiptDa": "2004-06-25T00:00:00.000",
+  "facLatDecMs": "42.395614",
+  "facLongDecMs": "-071.146817",
+  "lepcNm": "Cambridge LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-01-28T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cambridge Fire Department",
+    "agencyPhoneNm": "6173494900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38654"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Chemical Product and Preparation Manufacturing",
+          "naicsCd": "32599",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32599"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38654"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38654"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/38654"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "facilityId": 2020,
+  "epaFacId": "100000024957",
+  "facNm": "National Starch and Chemical Co. - Indianapolis",
+  "parntCo1Nm": "National Starch and Chemical Co. - Bridgewater",
+  "facDunsNu": 6062244,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1515 Drover Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Indianapolis",
+  "facStateCd": "IN",
+  "countyNm": "MARION",
+  "facZipCd": "46221",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-10T00:00:00.000",
+  "facLatDecMs": "39.744833",
+  "facLongDecMs": "-86.174306",
+  "lepcNm": "Marion County Haz Mat Plan Com",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Marion Co Haz Mat Emer Planning Com",
+    "agencyPhoneNm": "3173273900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2020"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Wet Corn Milling and Starch Manufacturing ",
+          "naicsCd": "311221",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311221"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2020"
+        }
+      }
+    },
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Wet Corn Milling and Starch Manufacturing ",
+          "naicsCd": "311221",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311221"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene oxide  [Oxirane, methyl-]",
+          "casNu": "75-56-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/12"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2020"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2020"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2020"
+    }
+  }
+}

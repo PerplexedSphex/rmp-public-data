@@ -1,0 +1,90 @@
+{
+  "facilityId": 24715,
+  "epaFacId": "100000105539",
+  "facNm": "3V Inc.",
+  "parntCo1Nm": "3V Inc.",
+  "facDunsNu": 9104381,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "888 Woodstock Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Georgetown",
+  "facStateCd": "SC",
+  "countyNm": "GEORGETOWN",
+  "facZipCd": "29440",
+  "facZip4Cd": null,
+  "receiptDa": "2001-12-14T00:00:00.000",
+  "facLatDecMs": "33.350833",
+  "facLongDecMs": "-79.381389",
+  "lepcNm": "Georgetown County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Georgetown County Fire Department",
+    "agencyPhoneNm": "8435460344",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24715"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Chemical Product and Preparation Manufacturing",
+          "naicsCd": "32599",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32599"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Acetaldehyde",
+          "casNu": "75-07-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/104"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24715"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24715"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24715"
+    }
+  }
+}

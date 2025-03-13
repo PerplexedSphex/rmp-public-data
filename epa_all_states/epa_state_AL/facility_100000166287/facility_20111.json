@@ -1,0 +1,79 @@
+{
+  "facilityId": 20111,
+  "epaFacId": "100000166287",
+  "facNm": "Albertville LPG Terminal",
+  "parntCo1Nm": "Coast Energy Group",
+  "facDunsNu": 171742646,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "505 Pine Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Albertville",
+  "facStateCd": "AL",
+  "countyNm": "MARSHALL",
+  "facZipCd": "35950",
+  "facZip4Cd": "2939",
+  "receiptDa": "2000-01-27T00:00:00.000",
+  "facLatDecMs": "34.247389",
+  "facLongDecMs": "-86.192361",
+  "lepcNm": "Marshall County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2008-01-08T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Albertville Fire Department",
+    "agencyPhoneNm": "2568918230",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20111"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals",
+          "naicsCd": "42271",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42271"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20111"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20111"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20111"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000087592,
+  "epaFacId": "100000092099",
+  "facNm": "Sysco Atlanta, LLC",
+  "parntCo1Nm": "Sysco Corporation",
+  "facDunsNu": 617334172,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2225 Riverdale Road",
+  "facStreet2Tx": "",
+  "facCityNm": "College Park",
+  "facStateCd": "GA",
+  "countyNm": "FULTON",
+  "facZipCd": "30349",
+  "facZip4Cd": "",
+  "receiptDa": "2020-05-19T00:00:00.000",
+  "facLatDecMs": "33.631525",
+  "facLongDecMs": "-84.460958",
+  "lepcNm": "Fulton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "College Park Fire Department",
+    "agencyPhoneNm": "4047668248",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087592"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087592"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087592"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087592"
+    }
+  }
+}

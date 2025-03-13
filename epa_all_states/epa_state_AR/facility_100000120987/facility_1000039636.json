@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000039636,
+  "epaFacId": "100000120987",
+  "facNm": "Butterball, LLC",
+  "parntCo1Nm": "Butterball, LLC",
+  "facDunsNu": 1317304,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1294 N. College St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Huntsville",
+  "facStateCd": "AR",
+  "countyNm": "MADISON",
+  "facZipCd": "72740",
+  "facZip4Cd": null,
+  "receiptDa": "2014-03-26T00:00:00.000",
+  "facLatDecMs": "36.101667",
+  "facLongDecMs": "-093.738333",
+  "lepcNm": "Madison County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Madison County LEPC",
+    "agencyPhoneNm": "4797386721",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039636"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039636"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039636"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039636"
+    }
+  }
+}

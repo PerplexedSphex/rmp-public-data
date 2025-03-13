@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000103905,
+  "epaFacId": "100000237601",
+  "facNm": "CHS Inc. - NLR Railyard",
+  "parntCo1Nm": "CHS Inc.",
+  "facDunsNu": 6147177,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Intersection of 6th St N & 20th Ave",
+  "facStreet2Tx": "N",
+  "facCityNm": "St. Cloud",
+  "facStateCd": "MN",
+  "countyNm": "STEARNS",
+  "facZipCd": "56303",
+  "facZip4Cd": "",
+  "receiptDa": "2023-01-12T00:00:00.000",
+  "facLatDecMs": "45.563119",
+  "facLongDecMs": "-94.177828",
+  "lepcNm": "Stearns County Emergency Mngt",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "St. Cloud Fire Department Station 1",
+    "agencyPhoneNm": "3202557213",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103905"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103905"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103905"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103905"
+    }
+  }
+}

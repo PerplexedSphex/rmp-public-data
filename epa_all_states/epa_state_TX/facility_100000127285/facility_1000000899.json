@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000000899,
+  "epaFacId": "100000127285",
+  "facNm": "Pilgrim's Pride - Mt. Pleasant West Plant",
+  "parntCo1Nm": "Pilgrim's Pride Corporation",
+  "facDunsNu": 130369671,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1107 Monticello Road",
+  "facStreet2Tx": "P.O. Box 371",
+  "facCityNm": "Mt. Pleasant",
+  "facStateCd": "TX",
+  "countyNm": "TITUS",
+  "facZipCd": "75456",
+  "facZip4Cd": null,
+  "receiptDa": "2009-05-06T00:00:00.000",
+  "facLatDecMs": "33.146581",
+  "facLongDecMs": "-094.984331",
+  "lepcNm": "Titus County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mt. Pleasant Fire Department",
+    "agencyPhoneNm": "9035754167",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000899"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000899"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000899"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000899"
+    }
+  }
+}

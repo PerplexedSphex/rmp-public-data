@@ -1,0 +1,79 @@
+{
+  "facilityId": 8120,
+  "epaFacId": "100000100927",
+  "facNm": "SHELBY WASTEWATER  TREATMENT PLANT",
+  "parntCo1Nm": "CITY OF SHELBY",
+  "facDunsNu": 79063468,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1940 SOUTH LAFAYETTE STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "SHELBY",
+  "facStateCd": "NC",
+  "countyNm": "CLEVELAND",
+  "facZipCd": "28150",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "32.242639",
+  "facLongDecMs": "81.570917",
+  "lepcNm": "Cleveland County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Shelby Fire Department",
+    "agencyPhoneNm": "7044846835",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8120"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Waste Treatment and Disposal ",
+          "naicsCd": "56221",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/56221"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8120"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8120"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8120"
+    }
+  }
+}

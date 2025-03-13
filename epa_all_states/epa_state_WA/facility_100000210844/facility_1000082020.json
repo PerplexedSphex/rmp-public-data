@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000082020,
+  "epaFacId": "100000210844",
+  "facNm": "SeaPort Sound Terminal LLC",
+  "parntCo1Nm": "SeaPort Sound Terminal LLC",
+  "facDunsNu": 43451038,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1601 Taylor Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Tacoma",
+  "facStateCd": "WA",
+  "countyNm": "PIERCE",
+  "facZipCd": "98421",
+  "facZip4Cd": null,
+  "receiptDa": "2019-08-29T00:00:00.000",
+  "facLatDecMs": "47.274746",
+  "facLongDecMs": "-122.387900",
+  "lepcNm": "Pierce/Tacoma County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tacoma Fire Department",
+    "agencyPhoneNm": "2535915737",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000082020"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Warehousing and Storage",
+          "naicsCd": "49319",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49319"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000082020"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000082020"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000082020"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 20776,
+  "epaFacId": "100000081984",
+  "facNm": "Alcoa Inc., Warrick Operations",
+  "parntCo1Nm": "Alcoa Inc.",
+  "facDunsNu": 6366819,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "State Route 66",
+  "facStreet2Tx": null,
+  "facCityNm": "Newburgh",
+  "facStateCd": "IN",
+  "countyNm": "WARRICK",
+  "facZipCd": "47629",
+  "facZip4Cd": "0010",
+  "receiptDa": "2000-03-13T00:00:00.000",
+  "facLatDecMs": "37.914444",
+  "facLongDecMs": "-87.332222",
+  "lepcNm": "Warrick County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-02-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Warrick County Dispatch",
+    "agencyPhoneNm": "8128971200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20776"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Primary Aluminum Production",
+          "naicsCd": "331312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20776"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20776"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20776"
+    }
+  }
+}

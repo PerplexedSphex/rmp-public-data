@@ -1,0 +1,79 @@
+{
+  "facilityId": 20079,
+  "epaFacId": "100000164715",
+  "facNm": "GASCO (ATLANTA)",
+  "parntCo1Nm": "AGL PROPANE",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "71 FAIRFIELD PL.",
+  "facStreet2Tx": null,
+  "facCityNm": "ATLANTA",
+  "facStateCd": "GA",
+  "countyNm": "FULTON",
+  "facZipCd": "30314",
+  "facZip4Cd": null,
+  "receiptDa": "1999-12-20T00:00:00.000",
+  "facLatDecMs": "33.755",
+  "facLongDecMs": "-84.462889",
+  "lepcNm": "Fulton County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "ATLANTA FIRE DEPARTMENT#17",
+    "agencyPhoneNm": "4047561910",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20079"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals",
+          "naicsCd": "42271",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42271"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20079"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20079"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20079"
+    }
+  }
+}

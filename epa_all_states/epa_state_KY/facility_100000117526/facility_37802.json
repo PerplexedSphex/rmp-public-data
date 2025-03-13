@@ -1,0 +1,79 @@
+{
+  "facilityId": 37802,
+  "epaFacId": "100000117526",
+  "facNm": "Louisville Distribution Center",
+  "parntCo1Nm": "Winn-Dixie Logistics, Inc.",
+  "facDunsNu": 6921902,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "720 Locust Lane",
+  "facStreet2Tx": null,
+  "facCityNm": "Louisville",
+  "facStateCd": "KY",
+  "countyNm": "JEFFERSON",
+  "facZipCd": "40213",
+  "facZip4Cd": "3604",
+  "receiptDa": "2004-06-23T00:00:00.000",
+  "facLatDecMs": "38.206667",
+  "facLongDecMs": "-085.742778",
+  "lepcNm": "Jefferson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-12-10T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jefferson County Haz. Mat. Team",
+    "agencyPhoneNm": "5023639238",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37802"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37802"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37802"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/37802"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000061439,
+  "epaFacId": "100000200098",
+  "facNm": "Tuscan / Lehigh Dairies, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 152202990,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "880 Allentown Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Lansdale",
+  "facStateCd": "PA",
+  "countyNm": "MONTGOMERY",
+  "facZipCd": "19446",
+  "facZip4Cd": "5298",
+  "receiptDa": "2016-12-12T00:00:00.000",
+  "facLatDecMs": "40.230944",
+  "facLongDecMs": "-075.299667",
+  "lepcNm": "Montgomery County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Montgomery County LEPC",
+    "agencyPhoneNm": "6108428802",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061439"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061439"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061439"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061439"
+    }
+  }
+}

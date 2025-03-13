@@ -1,0 +1,111 @@
+{
+  "facilityId": 1000001731,
+  "epaFacId": "100000100099",
+  "facNm": "SUMCO Phoenix Corporation, Cincinnati",
+  "parntCo1Nm": "SUMCO Phoenix Corporation",
+  "facDunsNu": 123414794,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "537 Grandin Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Maineville",
+  "facStateCd": "OH",
+  "countyNm": "WARREN",
+  "facZipCd": "45039",
+  "facZip4Cd": null,
+  "receiptDa": "2009-07-30T00:00:00.000",
+  "facLatDecMs": "39.345000",
+  "facLongDecMs": "-084.227694",
+  "lepcNm": "Warren County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2010-06-17T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Warren County LEPC",
+    "agencyPhoneNm": "5139331314",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001731"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Semiconductor and Related Device Manufacturing ",
+          "naicsCd": "334413",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/334413"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen chloride (anhydrous) [Hydrochloric acid]",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/54"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001731"
+        }
+      }
+    },
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Semiconductor and Related Device Manufacturing ",
+          "naicsCd": "334413",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/334413"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Trichlorosilane  [Silane, trichloro-]",
+          "casNu": "10025-78-2",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/153"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001731"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001731"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001731"
+    }
+  }
+}

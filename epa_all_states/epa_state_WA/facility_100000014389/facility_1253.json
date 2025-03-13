@@ -1,0 +1,79 @@
+{
+  "facilityId": 1253,
+  "epaFacId": "100000014389",
+  "facNm": "Lake Youngs Water Treatment Plant",
+  "parntCo1Nm": "Seattle Public Utilities",
+  "facDunsNu": 117353730,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "16205 Old Petrovitsky Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Renton",
+  "facStateCd": "WA",
+  "countyNm": "KING",
+  "facZipCd": "98058",
+  "facZip4Cd": null,
+  "receiptDa": "1999-05-28T00:00:00.000",
+  "facLatDecMs": "47.4325",
+  "facLongDecMs": "-122.132583",
+  "lepcNm": "King County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-06-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "King County Fire District 40",
+    "agencyPhoneNm": "4252550931",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1253"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1253"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1253"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1253"
+    }
+  }
+}

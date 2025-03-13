@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000037160,
+  "epaFacId": "100000204557",
+  "facNm": "Peetz Recovered Energy Facility",
+  "parntCo1Nm": "OREG 4, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "37500 County Road 78",
+  "facStreet2Tx": null,
+  "facCityNm": "Peetz",
+  "facStateCd": "CO",
+  "countyNm": "LOGAN",
+  "facZipCd": "80747",
+  "facZip4Cd": null,
+  "receiptDa": "2013-11-12T00:00:00.000",
+  "facLatDecMs": "40.9919",
+  "facLongDecMs": "-102.8530",
+  "lepcNm": "Logan County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Crook County Fire Department",
+    "agencyPhoneNm": "9705209707",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037160"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Electric Power Generation ",
+          "naicsCd": "221118",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221118"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037160"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037160"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000037160"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000090344,
+  "epaFacId": "100000211558",
+  "facNm": "Mason Corporation",
+  "parntCo1Nm": null,
+  "facDunsNu": 5460209,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1049 US Highway 41",
+  "facStreet2Tx": "P. O. Box 38",
+  "facCityNm": "Schererville",
+  "facStateCd": "IN",
+  "countyNm": "LAKE",
+  "facZipCd": "46375",
+  "facZip4Cd": null,
+  "receiptDa": "2020-12-14T09:37:02.000",
+  "facLatDecMs": "41.301590",
+  "facLongDecMs": "-87.280785",
+  "lepcNm": "Lake County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lake County LEPC",
+    "agencyPhoneNm": "2197568302",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090344"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090344"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090344"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090344"
+    }
+  }
+}

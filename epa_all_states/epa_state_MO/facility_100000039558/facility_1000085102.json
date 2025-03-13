@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000085102,
+  "epaFacId": "100000039558",
+  "facNm": "Kraft Heinz Columbia",
+  "parntCo1Nm": "Kraft Heinz Company",
+  "facDunsNu": 6105266,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4600 Waco Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Columbia",
+  "facStateCd": "MO",
+  "countyNm": "BOONE",
+  "facZipCd": "65202",
+  "facZip4Cd": "",
+  "receiptDa": "2020-03-10T00:00:00.000",
+  "facLatDecMs": "39.010563",
+  "facLongDecMs": "-92.267198",
+  "lepcNm": "Boone County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Columbia Fire Dept & Boone LEPC",
+    "agencyPhoneNm": "5738747391",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085102"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085102"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085102"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000085102"
+    }
+  }
+}

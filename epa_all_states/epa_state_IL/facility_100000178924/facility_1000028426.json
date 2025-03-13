@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000028426,
+  "epaFacId": "100000178924",
+  "facNm": "Holland Energy, LLC.",
+  "parntCo1Nm": "Wabash Valley Power Assoication",
+  "facDunsNu": 7810513,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2061 East 000 North Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Beecher City",
+  "facStateCd": "IL",
+  "countyNm": "SHELBY",
+  "facZipCd": "62414",
+  "facZip4Cd": null,
+  "receiptDa": "2012-05-17T00:00:00.000",
+  "facLatDecMs": "39.223600",
+  "facLongDecMs": "-088.758600",
+  "lepcNm": "Shelby County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tri-County Fire & Rescue Dept.",
+    "agencyPhoneNm": "2173422102",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028426"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028426"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028426"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028426"
+    }
+  }
+}

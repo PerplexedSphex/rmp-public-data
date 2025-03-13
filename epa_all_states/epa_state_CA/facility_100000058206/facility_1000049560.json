@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000049560,
+  "epaFacId": "100000058206",
+  "facNm": "Nestle Dreyer's Ice Cream Company",
+  "parntCo1Nm": "Dreyer's Grand Ice Cream Holdings, Inc.",
+  "facDunsNu": 8256224,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7301 District Blvd",
+  "facStreet2Tx": null,
+  "facCityNm": "Bakersfield",
+  "facStateCd": "CA",
+  "countyNm": "KERN",
+  "facZipCd": "93313",
+  "facZip4Cd": "2042",
+  "receiptDa": "2015-06-08T00:00:00.000",
+  "facLatDecMs": "35.311944",
+  "facLongDecMs": "-119.084459",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Bakersfield fire department",
+    "agencyPhoneNm": "6613263979",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049560"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049560"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049560"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049560"
+    }
+  }
+}

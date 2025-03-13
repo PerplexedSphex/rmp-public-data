@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000034238,
+  "epaFacId": "100000182571",
+  "facNm": "South Carolina Electric and Gas, Wateree Station",
+  "parntCo1Nm": "SCANA Corporation",
+  "facDunsNu": 7919517,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "142 Wateree Station Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Eastover",
+  "facStateCd": "SC",
+  "countyNm": "RICHLAND",
+  "facZipCd": "29044",
+  "facZip4Cd": null,
+  "receiptDa": "2013-05-03T00:00:00.000",
+  "facLatDecMs": "33.828611",
+  "facLongDecMs": "-080.622500",
+  "lepcNm": "Richland County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Richland County Emergency Services",
+    "agencyPhoneNm": "8032549296",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034238"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034238"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034238"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034238"
+    }
+  }
+}

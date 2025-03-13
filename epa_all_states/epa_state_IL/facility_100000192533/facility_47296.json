@@ -1,0 +1,90 @@
+{
+  "facilityId": 47296,
+  "epaFacId": "100000192533",
+  "facNm": "Johnson & Johnson Elk Grove Logistics Center",
+  "parntCo1Nm": "Johnson & Johnson",
+  "facDunsNu": 1326495,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1350 Estes Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Elk Grove Village",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60007",
+  "facZip4Cd": null,
+  "receiptDa": "2006-12-21T00:00:00.000",
+  "facLatDecMs": "42.005278",
+  "facLongDecMs": "-087.966389",
+  "lepcNm": "Cook County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-10-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Elk Grove Fire Dept.",
+    "agencyPhoneNm": "8474392121",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/47296"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isobutane  [Propane, 2-methyl]",
+          "casNu": "75-28-5",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/107"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/47296"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/47296"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/47296"
+    }
+  }
+}

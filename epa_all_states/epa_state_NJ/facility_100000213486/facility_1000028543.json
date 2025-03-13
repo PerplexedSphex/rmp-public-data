@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000028543,
+  "epaFacId": "100000213486",
+  "facNm": "Veeco Instruments, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 607518297,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "394 Elizabeth Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Somerset",
+  "facStateCd": "NJ",
+  "countyNm": "SOMERSET",
+  "facZipCd": "08873",
+  "facZip4Cd": null,
+  "receiptDa": "2012-12-10T00:00:00.000",
+  "facLatDecMs": "40.537574",
+  "facLongDecMs": "-074.537171",
+  "lepcNm": "Somerset County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC Franklin Township",
+    "agencyPhoneNm": "7328735533",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028543"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Research and Development in the Physical, Engineering, and Life Sciences",
+          "naicsCd": "54171",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/54171"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028543"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028543"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028543"
+    }
+  }
+}

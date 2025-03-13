@@ -1,0 +1,79 @@
+{
+  "facilityId": 34554,
+  "epaFacId": "100000089682",
+  "facNm": "International Paper Eastover Mill",
+  "parntCo1Nm": "International Paper",
+  "facDunsNu": 101888543,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4001 McCords Ferry Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Eastover",
+  "facStateCd": "SC",
+  "countyNm": "RICHLAND",
+  "facZipCd": "29044",
+  "facZip4Cd": "8854",
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "33.886389",
+  "facLongDecMs": "-080.640000",
+  "lepcNm": "Richland County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Richland County LEPC",
+    "agencyPhoneNm": "8032549296",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34554"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pulp Mills",
+          "naicsCd": "32211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine dioxide  [Chlorine oxide (ClO2)]",
+          "casNu": "10049-04-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/71"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34554"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34554"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/34554"
+    }
+  }
+}

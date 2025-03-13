@@ -1,0 +1,79 @@
+{
+  "facilityId": 5745,
+  "epaFacId": "100000076865",
+  "facNm": "Goldendale Aluminum Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 603568205,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "85 John Day Dam Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Goldendale",
+  "facStateCd": "WA",
+  "countyNm": "KLICKITAT",
+  "facZipCd": "98620",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "45.730278",
+  "facLongDecMs": "-120.700278",
+  "lepcNm": "Klickitat County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2004-06-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Klickitat County RFD #7",
+    "agencyPhoneNm": "5097734444",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5745"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Primary Aluminum Production",
+          "naicsCd": "331312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5745"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5745"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5745"
+    }
+  }
+}

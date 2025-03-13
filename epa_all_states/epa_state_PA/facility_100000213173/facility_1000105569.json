@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000105569,
+  "epaFacId": "100000213173",
+  "facNm": "Pretium Packaging LLC",
+  "parntCo1Nm": "Pretium Packaging LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "One Devco Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Manchester",
+  "facStateCd": "PA",
+  "countyNm": "YORK",
+  "facZipCd": "17345",
+  "facZip4Cd": "",
+  "receiptDa": "2023-06-07T00:00:00.000",
+  "facLatDecMs": "40.046138",
+  "facLongDecMs": "-76.720451",
+  "lepcNm": "York County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Office of Emergency Mgmt.",
+    "agencyPhoneNm": "7178402913",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105569"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Bottle Manufacturing",
+          "naicsCd": "32616",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32616"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Fluorine",
+          "casNu": "7782-41-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/61"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105569"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105569"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105569"
+    }
+  }
+}

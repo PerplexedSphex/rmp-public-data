@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000107587,
+  "epaFacId": "100000107751",
+  "facNm": "ADM-Valdosta Refinery",
+  "parntCo1Nm": "Archer Daniels Midland Company",
+  "facDunsNu": 53693131,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1841 Clay Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Valdosta",
+  "facStateCd": "GA",
+  "countyNm": "LOWNDES",
+  "facZipCd": "31601",
+  "facZip4Cd": "",
+  "receiptDa": "2023-12-12T00:00:00.000",
+  "facLatDecMs": "30.832500",
+  "facLongDecMs": "-083.248056",
+  "lepcNm": "Valdosta Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Valdosta Fire Department",
+    "agencyPhoneNm": "2293331837",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107587"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fats and Oils Refining and Blending ",
+          "naicsCd": "311225",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311225"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107587"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107587"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107587"
+    }
+  }
+}

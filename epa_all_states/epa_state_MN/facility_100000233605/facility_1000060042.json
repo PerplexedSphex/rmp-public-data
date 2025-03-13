@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000060042,
+  "epaFacId": "100000233605",
+  "facNm": "Kemps - Rochester, Milk",
+  "parntCo1Nm": null,
+  "facDunsNu": 13085860,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "701 1st Avenue SE",
+  "facStreet2Tx": null,
+  "facCityNm": "Rochester",
+  "facStateCd": "MN",
+  "countyNm": "OLMSTED",
+  "facZipCd": "55904",
+  "facZip4Cd": null,
+  "receiptDa": "2016-10-10T00:00:00.000",
+  "facLatDecMs": "44.016056",
+  "facLongDecMs": "-92.461287",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-07-09T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Minnesota Duty Officer",
+    "agencyPhoneNm": "8004220798",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060042"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060042"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060042"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060042"
+    }
+  }
+}

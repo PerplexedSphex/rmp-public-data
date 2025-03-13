@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043869,
+  "epaFacId": "100000069427",
+  "facNm": "ADM Milling Company",
+  "parntCo1Nm": "Archer Daniels Midland",
+  "facDunsNu": 7235609,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1301 N. 4th",
+  "facStreet2Tx": null,
+  "facCityNm": "Enid",
+  "facStateCd": "OK",
+  "countyNm": "GARFIELD",
+  "facZipCd": "73701",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-06T00:00:00.000",
+  "facLatDecMs": "36.410556",
+  "facLongDecMs": "-097.870556",
+  "lepcNm": "Garfield LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2023-02-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Enid Fire Department",
+    "agencyPhoneNm": "5802340541",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043869"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043869"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043869"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043869"
+    }
+  }
+}

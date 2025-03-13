@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000107445,
+  "epaFacId": "100000251826",
+  "facNm": "Dot Foods, University Park",
+  "parntCo1Nm": "",
+  "facDunsNu": 25671256,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "251 Central Ave",
+  "facStreet2Tx": "",
+  "facCityNm": "University Park",
+  "facStateCd": "IL",
+  "countyNm": "WILL",
+  "facZipCd": "60484",
+  "facZip4Cd": "",
+  "receiptDa": "2023-11-13T00:00:00.000",
+  "facLatDecMs": "41.462100",
+  "facLongDecMs": "-87.745200",
+  "lepcNm": "University Park Fire Dept",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "University Park Fire Department",
+    "agencyPhoneNm": "7082354833",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107445"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107445"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107445"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107445"
+    }
+  }
+}

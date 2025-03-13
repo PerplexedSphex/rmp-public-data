@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000071288,
+  "epaFacId": "100000203549",
+  "facNm": "INEOS USA, LLC - LaPorte PAO Facility",
+  "parntCo1Nm": "INEOS USA, LLC",
+  "facDunsNu": 3983483,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1230 Miller Cutoff Road",
+  "facStreet2Tx": "Gate 10",
+  "facCityNm": "LaPorte",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77571",
+  "facZip4Cd": null,
+  "receiptDa": "2018-11-04T09:56:03.000",
+  "facLatDecMs": "29.710851",
+  "facLongDecMs": "-095.065571",
+  "lepcNm": "La Porte LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "La Porte LEPC",
+    "agencyPhoneNm": "2814700010",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071288"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Boron trifluoride  [Borane, trifluoro-]",
+          "casNu": "7637-07-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/52"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071288"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071288"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000071288"
+    }
+  }
+}

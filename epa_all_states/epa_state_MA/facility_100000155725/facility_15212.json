@@ -1,0 +1,79 @@
+{
+  "facilityId": 15212,
+  "epaFacId": "100000155725",
+  "facNm": "Millbrook Cold Storage Inc.",
+  "parntCo1Nm": "same",
+  "facDunsNu": 47069034,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "9 Medford Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Somerville",
+  "facStateCd": "MA",
+  "countyNm": "MIDDLESEX",
+  "facZipCd": "02143",
+  "facZip4Cd": null,
+  "receiptDa": "1999-07-09T00:00:00.000",
+  "facLatDecMs": "42.374667",
+  "facLongDecMs": "-71.088167",
+  "lepcNm": "Somerville LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-04-12T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Somerville Fire Department",
+    "agencyPhoneNm": "6176231700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15212"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15212"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15212"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15212"
+    }
+  }
+}

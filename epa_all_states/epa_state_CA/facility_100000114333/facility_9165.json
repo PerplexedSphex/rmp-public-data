@@ -1,0 +1,79 @@
+{
+  "facilityId": 9165,
+  "epaFacId": "100000114333",
+  "facNm": "Anheuser-Busch, Inc. Los Angeles Brewery",
+  "parntCo1Nm": "Anheuser-Busch Companies, Inc",
+  "facDunsNu": 6288799,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "15800 Roscoe Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Van Nuys",
+  "facStateCd": "CA",
+  "countyNm": "LOS ANGELES",
+  "facZipCd": "91406",
+  "facZip4Cd": "1379",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "34.221111",
+  "facLongDecMs": "-118.476944",
+  "lepcNm": "California Region 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Los Angeles City Fire Department",
+    "agencyPhoneNm": "8187568610",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9165"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9165"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9165"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9165"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000047329,
+  "epaFacId": "100000227382",
+  "facNm": "Galliker Dairy Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 8936379,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "143 Donald Lane",
+  "facStreet2Tx": null,
+  "facCityNm": "Johnstown",
+  "facStateCd": "PA",
+  "countyNm": "CAMBRIA",
+  "facZipCd": "15907",
+  "facZip4Cd": null,
+  "receiptDa": "2014-11-06T00:00:00.000",
+  "facLatDecMs": "40.284732",
+  "facLongDecMs": "-78.843092",
+  "lepcNm": "Cambria County DES",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-02-12T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Cambria Co DES",
+    "agencyPhoneNm": "8144722072",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047329"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047329"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047329"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047329"
+    }
+  }
+}

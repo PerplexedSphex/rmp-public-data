@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000069758,
+  "epaFacId": "100000064592",
+  "facNm": "Jackson Dairy",
+  "parntCo1Nm": "The Kroger Company",
+  "facDunsNu": 7243629,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2600 East 4th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Hutchinson",
+  "facStateCd": "KS",
+  "countyNm": "RENO",
+  "facZipCd": "67504",
+  "facZip4Cd": "0429",
+  "receiptDa": "2018-05-31T16:05:09.000",
+  "facLatDecMs": "38.058987",
+  "facLongDecMs": "-097.884096",
+  "lepcNm": "Reno County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hutchinson Fire Department",
+    "agencyPhoneNm": "3166942871",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069758"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069758"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069758"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069758"
+    }
+  }
+}

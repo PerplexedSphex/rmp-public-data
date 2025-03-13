@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000073840,
+  "epaFacId": "100000240312",
+  "facNm": "Alex C. Fergusson, LLC",
+  "parntCo1Nm": "Zep, Inc",
+  "facDunsNu": 2268456,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "800 Development Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Chambersburg",
+  "facStateCd": "PA",
+  "countyNm": "FRANKLIN",
+  "facZipCd": "17201",
+  "facZip4Cd": null,
+  "receiptDa": "2018-11-02T16:34:54.000",
+  "facLatDecMs": "40.005610",
+  "facLongDecMs": "-77.649956",
+  "lepcNm": "Franklin County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Franklin Fire Company",
+    "agencyPhoneNm": "7172635873",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073840"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Soap and Other Detergent Manufacturing ",
+          "naicsCd": "325611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Peracetic acid  [Ethaneperoxoic acid]",
+          "casNu": "79-21-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/18"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073840"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073840"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073840"
+    }
+  }
+}

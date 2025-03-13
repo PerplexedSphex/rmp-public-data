@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000015058,
+  "epaFacId": "100000045998",
+  "facNm": "Quantum Foods, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 621874627,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "750 South Schmidt Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Bolingbrook",
+  "facStateCd": "IL",
+  "countyNm": "WILL",
+  "facZipCd": "60440",
+  "facZip4Cd": null,
+  "receiptDa": "2010-08-05T00:00:00.000",
+  "facLatDecMs": "41.673889",
+  "facLongDecMs": "-088.085556",
+  "lepcNm": "Will County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bolingbrook Fire Department",
+    "agencyPhoneNm": "6302268540",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015058"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015058"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015058"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015058"
+    }
+  }
+}

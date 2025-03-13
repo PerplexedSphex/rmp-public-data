@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043724,
+  "epaFacId": "100000132625",
+  "facNm": "Effluent Treatment Plant - Anhydrous Ammonia",
+  "parntCo1Nm": "Domtar A.W. LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "405 Church Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Nekoosa",
+  "facStateCd": "WI",
+  "countyNm": "WOOD",
+  "facZipCd": "54457",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-05T00:00:00.000",
+  "facLatDecMs": "44.332222",
+  "facLongDecMs": "-089.880833",
+  "lepcNm": "Wood County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2019-01-10T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wood County LEPC",
+    "agencyPhoneNm": "7154218500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043724"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Paper (except Newsprint) Mills",
+          "naicsCd": "322121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/322121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043724"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043724"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043724"
+    }
+  }
+}

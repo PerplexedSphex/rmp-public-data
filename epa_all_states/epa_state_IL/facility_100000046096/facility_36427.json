@@ -1,0 +1,79 @@
+{
+  "facilityId": 36427,
+  "epaFacId": "100000046096",
+  "facNm": "Rochelle Foods Incorporated",
+  "parntCo1Nm": "Hormel Foods Corporation",
+  "facDunsNu": 806321089,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1001 S. Main St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Rochelle",
+  "facStateCd": "IL",
+  "countyNm": "OGLE",
+  "facZipCd": "61068",
+  "facZip4Cd": "2189",
+  "receiptDa": "2004-06-22T00:00:00.000",
+  "facLatDecMs": "41.909722",
+  "facLongDecMs": "-089.049722",
+  "lepcNm": "Ogle County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rochelle Fire Department",
+    "agencyPhoneNm": "8155622121",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36427"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36427"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36427"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/36427"
+    }
+  }
+}

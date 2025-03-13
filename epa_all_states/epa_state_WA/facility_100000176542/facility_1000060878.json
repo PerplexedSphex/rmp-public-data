@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000060878,
+  "epaFacId": "100000176542",
+  "facNm": "URM Stores, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 8963787,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7511 N Freya",
+  "facStreet2Tx": null,
+  "facCityNm": "Spokane",
+  "facStateCd": "WA",
+  "countyNm": "SPOKANE",
+  "facZipCd": "99217",
+  "facZip4Cd": "3365",
+  "receiptDa": "2016-11-03T00:00:00.000",
+  "facLatDecMs": "47.725472",
+  "facLongDecMs": "-117.356917",
+  "lepcNm": "Spokane County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Spokane Fire District #9",
+    "agencyPhoneNm": "5094664602",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060878"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060878"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060878"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060878"
+    }
+  }
+}

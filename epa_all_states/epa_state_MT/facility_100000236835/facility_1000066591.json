@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000066591,
+  "epaFacId": "100000236835",
+  "facNm": "Thatcher Company of Montana",
+  "parntCo1Nm": null,
+  "facDunsNu": 617342485,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3200 Raser Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Missoula",
+  "facStateCd": "MT",
+  "countyNm": "MISSOULA",
+  "facZipCd": "59801",
+  "facZip4Cd": null,
+  "receiptDa": "2017-11-09T00:00:00.000",
+  "facLatDecMs": "46.895289",
+  "facLongDecMs": "-114.026247",
+  "lepcNm": "Missoula County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Missoula County LEPC",
+    "agencyPhoneNm": "4067213479",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066591"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066591"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066591"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066591"
+    }
+  }
+}

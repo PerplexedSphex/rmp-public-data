@@ -1,0 +1,101 @@
+{
+  "facilityId": 1000105190,
+  "epaFacId": "100000064431",
+  "facNm": "Vandenberg SFB",
+  "parntCo1Nm": "n/a (military installation)",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1028 Iceland Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Vandenberg SFB",
+  "facStateCd": "CA",
+  "countyNm": "SANTA BARBARA",
+  "facZipCd": "93437",
+  "facZip4Cd": "6010",
+  "receiptDa": "2023-09-12T00:00:00.000",
+  "facLatDecMs": "34.724680",
+  "facLongDecMs": "-120.548220",
+  "lepcNm": "California Region 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Vandenberg SFB Fire Department",
+    "agencyPhoneNm": "8056063111",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105190"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "National Security ",
+          "naicsCd": "92811",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/92811"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrazine",
+          "casNu": "302-01-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/38"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "1,1-Dimethylhydrazine  [Hydrazine, 1,1-dimethyl-]",
+          "casNu": "57-14-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/2"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methyl hydrazine  [Hydrazine, methyl-]",
+          "casNu": "60-34-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/3"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105190"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105190"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105190"
+    }
+  }
+}

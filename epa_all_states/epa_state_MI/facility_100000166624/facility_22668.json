@@ -1,0 +1,79 @@
+{
+  "facilityId": 22668,
+  "epaFacId": "100000166624",
+  "facNm": "Lindberg Heat Treating Company",
+  "parntCo1Nm": "Lindberg Corporation",
+  "facDunsNu": 65608796,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2127 West Willow Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Lansing",
+  "facStateCd": "MI",
+  "countyNm": "INGHAM",
+  "facZipCd": "48917",
+  "facZip4Cd": null,
+  "receiptDa": "2000-01-31T00:00:00.000",
+  "facLatDecMs": "42.74775",
+  "facLongDecMs": "-84.581917",
+  "lepcNm": "Ingham County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2008-01-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Lansing Fire Department",
+    "agencyPhoneNm": "5174857241",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22668"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Metal Heat Treating ",
+          "naicsCd": "332811",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332811"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22668"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22668"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22668"
+    }
+  }
+}

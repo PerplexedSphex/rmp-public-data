@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101044,
+  "epaFacId": "100000082251",
+  "facNm": "Springfield Regional Wastewater Treatment Facility",
+  "parntCo1Nm": "Springfield Water & Sewer Commission",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "190 M Street Extension",
+  "facStreet2Tx": null,
+  "facCityNm": "Agawam",
+  "facStateCd": "MA",
+  "countyNm": "HAMPDEN",
+  "facZipCd": "01001",
+  "facZip4Cd": null,
+  "receiptDa": "2022-05-24T00:00:00.000",
+  "facLatDecMs": "42.087222",
+  "facLongDecMs": "-072.588056",
+  "lepcNm": "Agawam LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Agawam Fire Department & District 4",
+    "agencyPhoneNm": "4137862662",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101044"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101044"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101044"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101044"
+    }
+  }
+}

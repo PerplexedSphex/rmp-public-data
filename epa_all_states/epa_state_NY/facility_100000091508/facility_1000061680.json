@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000061680,
+  "epaFacId": "100000091508",
+  "facNm": "Sylvamo Ticonderoga Mill",
+  "parntCo1Nm": "Sylvamo North America LLC",
+  "facDunsNu": 2067882,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "568 Shore Airport Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Ticonderoga",
+  "facStateCd": "NY",
+  "countyNm": "ESSEX",
+  "facZipCd": "12883",
+  "facZip4Cd": null,
+  "receiptDa": "2017-01-06T00:00:00.000",
+  "facLatDecMs": "43.890556",
+  "facLongDecMs": "-073.403330",
+  "lepcNm": "Essex County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Essex Co. Office of Emergency Mgt.",
+    "agencyPhoneNm": "5188733900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061680"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pulp Mills",
+          "naicsCd": "32211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine dioxide  [Chlorine oxide (ClO2)]",
+          "casNu": "10049-04-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/71"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061680"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061680"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061680"
+    }
+  }
+}

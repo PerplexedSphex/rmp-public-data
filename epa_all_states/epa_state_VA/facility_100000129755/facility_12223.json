@@ -1,0 +1,79 @@
+{
+  "facilityId": 12223,
+  "epaFacId": "100000129755",
+  "facNm": "Rocco Turkeys, Inc.",
+  "parntCo1Nm": "Rocco Enterprises, Inc.",
+  "facDunsNu": 41702192,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "135 Huffman Drive",
+  "facStreet2Tx": "P. O. Box 158",
+  "facCityNm": "Dayton",
+  "facStateCd": "VA",
+  "countyNm": "ROCKINGHAM",
+  "facZipCd": "22821",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "38.413611",
+  "facLongDecMs": "-78.938333",
+  "lepcNm": "Harrisonburg Joint LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Harrisonburg-Rockingham Joint LEPC",
+    "agencyPhoneNm": "5405643010",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12223"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12223"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12223"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12223"
+    }
+  }
+}

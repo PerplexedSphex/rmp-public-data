@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000093528,
+  "epaFacId": "100000043302",
+  "facNm": "Johnson Matthey Inc.",
+  "parntCo1Nm": "Johnson Matthey Plc.",
+  "facDunsNu": 73679672,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2001 Nolte Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "West Deptford",
+  "facStateCd": "NJ",
+  "countyNm": "GLOUCESTER",
+  "facZipCd": "08066",
+  "facZip4Cd": null,
+  "receiptDa": "2021-05-03T14:50:39.000",
+  "facLatDecMs": "39.816389",
+  "facLongDecMs": "-075.210556",
+  "lepcNm": "West Deptford Twp LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "West Deptford Twp LEPC",
+    "agencyPhoneNm": "8568452300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093528"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Nonferrous Metal (except Aluminum) Smelting and Refining",
+          "naicsCd": "33141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093528"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093528"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093528"
+    }
+  }
+}

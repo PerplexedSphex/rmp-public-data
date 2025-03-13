@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000017559,
+  "epaFacId": "100000119828",
+  "facNm": "Evansville Water Filtration Plant",
+  "parntCo1Nm": "City of Evansville Indiana",
+  "facDunsNu": 785612607,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1301 Waterworks Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Evansville",
+  "facStateCd": "IN",
+  "countyNm": "VANDERBURGH",
+  "facZipCd": "47713",
+  "facZip4Cd": null,
+  "receiptDa": "2010-10-20T00:00:00.000",
+  "facLatDecMs": "37.958056",
+  "facLongDecMs": "-087.573056",
+  "lepcNm": "Vanderburgh County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Evansville Emergency Management",
+    "agencyPhoneNm": "8124356020",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017559"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017559"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017559"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017559"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 5414,
+  "epaFacId": "100000067722",
+  "facNm": "Montgomery County Resource Recovery Facility",
+  "parntCo1Nm": "Ogden Martin Systems, Inc. (OMS)",
+  "facDunsNu": 617266275,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "21204 Martinsburg Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Dickerson",
+  "facStateCd": "MD",
+  "countyNm": "MONTGOMERY",
+  "facZipCd": "20842",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "39.195833",
+  "facLongDecMs": "-77.448889",
+  "lepcNm": "Montgomery Cty-Div. Emerg Mgmt",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2009-12-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Montgomery Co. Fire & Rescue",
+    "agencyPhoneNm": "3016525603",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5414"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Solid Waste Combustors and Incinerators ",
+          "naicsCd": "562213",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/562213"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5414"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5414"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5414"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080429,
+  "epaFacId": "100000120745",
+  "facNm": "Danisco USA Inc.",
+  "parntCo1Nm": "Danisco",
+  "facDunsNu": 79874863,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "201 New Century Parkway",
+  "facStreet2Tx": null,
+  "facCityNm": "New Century",
+  "facStateCd": "KS",
+  "countyNm": "JOHNSON",
+  "facZipCd": "66031",
+  "facZip4Cd": "1113",
+  "receiptDa": "2019-06-18T00:00:00.000",
+  "facLatDecMs": "38.833496",
+  "facLongDecMs": "-094.900676",
+  "lepcNm": "Johnson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-10-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Johnson County LEPC",
+    "agencyPhoneNm": "9137918950",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080429"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Food Manufacturing",
+          "naicsCd": "31199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080429"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080429"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080429"
+    }
+  }
+}

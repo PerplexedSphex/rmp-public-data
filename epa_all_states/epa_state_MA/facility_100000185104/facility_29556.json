@@ -1,0 +1,79 @@
+{
+  "facilityId": 29556,
+  "epaFacId": "100000185104",
+  "facNm": "Hans Kissle Company, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 121011126,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "9 Creek Brook Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Haverhill",
+  "facStateCd": "MA",
+  "countyNm": "ESSEX",
+  "facZipCd": "01832",
+  "facZip4Cd": null,
+  "receiptDa": "2004-02-13T00:00:00.000",
+  "facLatDecMs": "42.787944",
+  "facLongDecMs": "-71.123306",
+  "lepcNm": "Merrimac LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Haverhill Fire Department",
+    "agencyPhoneNm": "9783733833",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29556"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29556"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29556"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29556"
+    }
+  }
+}

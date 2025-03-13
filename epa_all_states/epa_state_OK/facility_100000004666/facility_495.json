@@ -1,0 +1,79 @@
+{
+  "facilityId": 495,
+  "epaFacId": "100000004666",
+  "facNm": "Yoder Gas Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 85544096,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "117 North 5Th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Jet, OK.",
+  "facStateCd": "OK",
+  "countyNm": "ALFALFA",
+  "facZipCd": "73749",
+  "facZip4Cd": "0223",
+  "receiptDa": "1999-04-29T00:00:00.000",
+  "facLatDecMs": "36.666278",
+  "facLongDecMs": "-98.189333",
+  "lepcNm": "Garfield Co. LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jet Fire Dept.",
+    "agencyPhoneNm": "5806264422",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/495"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fertilizer and Compost Manufacturing",
+          "naicsCd": "32531",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32531"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/495"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/495"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/495"
+    }
+  }
+}

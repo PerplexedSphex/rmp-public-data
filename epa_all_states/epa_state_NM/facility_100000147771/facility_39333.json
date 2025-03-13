@@ -1,0 +1,79 @@
+{
+  "facilityId": 39333,
+  "epaFacId": "100000147771",
+  "facNm": "Rinchem Company, Inc. - East Warehouse",
+  "parntCo1Nm": null,
+  "facDunsNu": 2208627,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6139 Edith Blvd. NE",
+  "facStreet2Tx": null,
+  "facCityNm": "Albuquerque",
+  "facStateCd": "NM",
+  "countyNm": "BERNALILLO",
+  "facZipCd": "87107",
+  "facZip4Cd": null,
+  "receiptDa": "2004-08-16T00:00:00.000",
+  "facLatDecMs": "35.144722",
+  "facLongDecMs": "-106.626944",
+  "lepcNm": "Bernalillo LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-03-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bernalillo Count Fire Department",
+    "agencyPhoneNm": "5053427922",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39333"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrochloric acid (conc 37% or greater)",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/53"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39333"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39333"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39333"
+    }
+  }
+}

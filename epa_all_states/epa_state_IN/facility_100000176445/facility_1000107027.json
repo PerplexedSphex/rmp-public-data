@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000107027,
+  "epaFacId": "100000176445",
+  "facNm": "Whiting Clean Energy",
+  "parntCo1Nm": "BP Alternative Energy",
+  "facDunsNu": 37656068,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2155 Standard Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Whiting",
+  "facStateCd": "IN",
+  "countyNm": "LAKE",
+  "facZipCd": "46394",
+  "facZip4Cd": "",
+  "receiptDa": "2023-09-14T00:00:00.000",
+  "facLatDecMs": "41.673889",
+  "facLongDecMs": "-087.477556",
+  "lepcNm": "Lake County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "BP Whiting Refinery HAZMAT Team",
+    "agencyPhoneNm": "2194731212",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107027"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107027"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107027"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107027"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000033039,
+  "epaFacId": "100000117786",
+  "facNm": "JBS Plainwell Beef Processing Facility",
+  "parntCo1Nm": "JBS USA, LLC",
+  "facDunsNu": 6017826,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "PO Box 247",
+  "facStreet2Tx": "11 11th Street",
+  "facCityNm": "Plainwell",
+  "facStateCd": "MI",
+  "countyNm": "ALLEGAN",
+  "facZipCd": "49080",
+  "facZip4Cd": "0247",
+  "receiptDa": "2013-02-22T00:00:00.000",
+  "facLatDecMs": "42.4209834",
+  "facLongDecMs": "-085.649933",
+  "lepcNm": "Allegan County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Allegan County LEPC",
+    "agencyPhoneNm": "2696730571",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033039"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033039"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033039"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033039"
+    }
+  }
+}

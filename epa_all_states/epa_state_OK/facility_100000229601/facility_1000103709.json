@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000103709,
+  "epaFacId": "100000229601",
+  "facNm": "Oklahoma Liquids Terminal",
+  "parntCo1Nm": "Keyera Energy Inc.",
+  "facDunsNu": 861151045,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1605 West 131st Street",
+  "facStreet2Tx": "",
+  "facCityNm": "Glenpool",
+  "facStateCd": "OK",
+  "countyNm": "TULSA",
+  "facZipCd": "74033",
+  "facZip4Cd": "",
+  "receiptDa": "2022-12-21T00:00:00.000",
+  "facLatDecMs": "35.97403",
+  "facLongDecMs": "-96.009592",
+  "lepcNm": "Tulsa LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Glenpool Fire Department",
+    "agencyPhoneNm": "9183222172",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103709"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103709"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103709"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103709"
+    }
+  }
+}

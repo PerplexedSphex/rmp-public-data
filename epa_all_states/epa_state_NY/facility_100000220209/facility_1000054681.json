@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000054681,
+  "epaFacId": "100000220209",
+  "facNm": "Chobani LLC., New Berlin, NY",
+  "parntCo1Nm": null,
+  "facDunsNu": 790428754,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "669 County Road 25",
+  "facStreet2Tx": null,
+  "facCityNm": "New Berlin",
+  "facStateCd": "NY",
+  "countyNm": "CHENANGO",
+  "facZipCd": "13411",
+  "facZip4Cd": null,
+  "receiptDa": "2018-11-29T15:46:26.000",
+  "facLatDecMs": "42.6850",
+  "facLongDecMs": "-75.3236",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chenango County 911 Response Center",
+    "agencyPhoneNm": "6073371862",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054681"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054681"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054681"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000054681"
+    }
+  }
+}

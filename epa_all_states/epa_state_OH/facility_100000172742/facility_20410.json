@@ -1,0 +1,79 @@
+{
+  "facilityId": 20410,
+  "epaFacId": "100000172742",
+  "facNm": "Case Farms",
+  "parntCo1Nm": "Case Farms",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "PO Box 185",
+  "facStreet2Tx": "COUNTY RD 160",
+  "facCityNm": "WINESBURG",
+  "facStateCd": "OH",
+  "countyNm": "HOLMES",
+  "facZipCd": "44690",
+  "facZip4Cd": null,
+  "receiptDa": "2000-11-01T00:00:00.000",
+  "facLatDecMs": "40.614444",
+  "facLongDecMs": "-81.691944",
+  "lepcNm": "Holmes County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Holmes County LEPC",
+    "agencyPhoneNm": "3306740989",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20410"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Broilers and Other Meat Type Chicken Production",
+          "naicsCd": "11232",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11232"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20410"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20410"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20410"
+    }
+  }
+}

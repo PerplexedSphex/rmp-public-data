@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000014745,
+  "epaFacId": "100000020844",
+  "facNm": "Tyson Foods, Inc. Forest MS TF2",
+  "parntCo1Nm": "Tyson Foods Inc",
+  "facDunsNu": 33265513,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1225 Jack Lee Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Forest",
+  "facStateCd": "MS",
+  "countyNm": "SCOTT",
+  "facZipCd": "39074",
+  "facZip4Cd": null,
+  "receiptDa": "2010-07-22T00:00:00.000",
+  "facLatDecMs": "32.358023",
+  "facLongDecMs": "-089.493395",
+  "lepcNm": "Scott County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Scott County LEPC",
+    "agencyPhoneNm": "6014694100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014745"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014745"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014745"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014745"
+    }
+  }
+}

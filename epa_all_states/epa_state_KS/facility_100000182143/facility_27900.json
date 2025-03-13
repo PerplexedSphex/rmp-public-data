@@ -1,0 +1,79 @@
+{
+  "facilityId": 27900,
+  "epaFacId": "100000182143",
+  "facNm": "Helena Chemical Company",
+  "parntCo1Nm": "Helena Chemical Company",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "SW of Cnty Rd 00 & 200 Intersection",
+  "facStreet2Tx": "County Road 200 - South Side",
+  "facCityNm": "Sublette",
+  "facStateCd": "KS",
+  "countyNm": "HASKELL",
+  "facZipCd": "67871",
+  "facZip4Cd": null,
+  "receiptDa": "2003-04-08T00:00:00.000",
+  "facLatDecMs": "37.460389",
+  "facLongDecMs": "-100.83575",
+  "lepcNm": "Haskell Cty LEPC and Fire Dept",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2007-02-20T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Haskell County EP",
+    "agencyPhoneNm": "3166752252",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/27900"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/27900"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/27900"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/27900"
+    }
+  }
+}

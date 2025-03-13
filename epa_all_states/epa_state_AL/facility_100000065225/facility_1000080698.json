@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080698,
+  "epaFacId": "100000065225",
+  "facNm": "Wayne Farms LLC - Enterprise",
+  "parntCo1Nm": "ContiGroup Companies, Inc.",
+  "facDunsNu": 86545746,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1020 County Road 114",
+  "facStreet2Tx": null,
+  "facCityNm": "Jack",
+  "facStateCd": "AL",
+  "countyNm": "COFFEE",
+  "facZipCd": "36346",
+  "facZip4Cd": null,
+  "receiptDa": "2019-06-27T17:30:30.000",
+  "facLatDecMs": "31.501667",
+  "facLongDecMs": "-085.901390",
+  "lepcNm": "Coffee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Coffee County EMA",
+    "agencyPhoneNm": "3348945415",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080698"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080698"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080698"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080698"
+    }
+  }
+}

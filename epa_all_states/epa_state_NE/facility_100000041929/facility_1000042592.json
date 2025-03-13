@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000042592,
+  "epaFacId": "100000041929",
+  "facNm": "Skylark Meats LLC",
+  "parntCo1Nm": "American Foods Group LLC",
+  "facDunsNu": 44105161,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4430 South 110th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Omaha",
+  "facStateCd": "NE",
+  "countyNm": "DOUGLAS",
+  "facZipCd": "68137",
+  "facZip4Cd": null,
+  "receiptDa": "2014-07-15T00:00:00.000",
+  "facLatDecMs": "41.215000",
+  "facLongDecMs": "-096.084444",
+  "lepcNm": "Douglas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Omaha Fire Dept. Headquarters",
+    "agencyPhoneNm": "4024445700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042592"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042592"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042592"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042592"
+    }
+  }
+}

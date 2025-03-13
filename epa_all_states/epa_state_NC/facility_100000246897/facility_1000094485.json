@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000094485,
+  "epaFacId": "100000246897",
+  "facNm": "API M-US",
+  "parntCo1Nm": "Novo Nordisk NNPILP",
+  "facDunsNu": 622920320,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3611 Powhatan Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Clayton",
+  "facStateCd": "NC",
+  "countyNm": "JOHNSTON",
+  "facZipCd": "27527",
+  "facZip4Cd": "",
+  "receiptDa": "2022-02-14T00:00:00.000",
+  "facLatDecMs": "35.616188",
+  "facLongDecMs": "-78.401680",
+  "lepcNm": "Johnston County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Johnston County Emergency Services",
+    "agencyPhoneNm": "9199895050",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094485"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pharmaceutical Preparation Manufacturing ",
+          "naicsCd": "325412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094485"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094485"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094485"
+    }
+  }
+}

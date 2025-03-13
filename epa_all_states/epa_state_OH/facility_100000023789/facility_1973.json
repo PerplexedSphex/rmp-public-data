@@ -1,0 +1,79 @@
+{
+  "facilityId": 1973,
+  "epaFacId": "100000023789",
+  "facNm": "Cold Metal Products, Youngstown Facility",
+  "parntCo1Nm": "Cold Metal Products, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "45 South Montgomery Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Youngstown",
+  "facStateCd": "OH",
+  "countyNm": "MAHONING",
+  "facZipCd": "44501",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-09T00:00:00.000",
+  "facLatDecMs": "41.082639",
+  "facLongDecMs": "-80.615833",
+  "lepcNm": "Mahoning County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mahoning Co Haz Mat",
+    "agencyPhoneNm": "3307402201",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1973"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Rolled Steel Shape Manufacturing ",
+          "naicsCd": "331221",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331221"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1973"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1973"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1973"
+    }
+  }
+}

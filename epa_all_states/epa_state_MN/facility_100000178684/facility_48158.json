@@ -1,0 +1,79 @@
+{
+  "facilityId": 48158,
+  "epaFacId": "100000178684",
+  "facNm": "Black Dog Generating Plant",
+  "parntCo1Nm": "Xcel Energy",
+  "facDunsNu": 186614616,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1400 East Black Dog Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Burnsville",
+  "facStateCd": "MN",
+  "countyNm": "DAKOTA",
+  "facZipCd": "55337",
+  "facZip4Cd": "1218",
+  "receiptDa": "2007-05-01T00:00:00.000",
+  "facLatDecMs": "44.811111",
+  "facLongDecMs": "-093.250278",
+  "lepcNm": "Minnesota LEPCs",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Burnsville Fire Department",
+    "agencyPhoneNm": "9528902460",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48158"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48158"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48158"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/48158"
+    }
+  }
+}

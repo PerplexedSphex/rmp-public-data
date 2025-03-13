@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000033001,
+  "epaFacId": "100000220218",
+  "facNm": "EPCO Carbon Dioxide Products, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 621611672,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1558 N. 600 East",
+  "facStreet2Tx": null,
+  "facCityNm": "Union City",
+  "facStateCd": "IN",
+  "countyNm": "RANDOLPH",
+  "facZipCd": "47390",
+  "facZip4Cd": null,
+  "receiptDa": "2013-02-26T00:00:00.000",
+  "facLatDecMs": "40.185091",
+  "facLongDecMs": "-84.865717",
+  "lepcNm": "Randolph County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-06-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Union City, OH Fire Department",
+    "agencyPhoneNm": "9379685605",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033001"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033001"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033001"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033001"
+    }
+  }
+}

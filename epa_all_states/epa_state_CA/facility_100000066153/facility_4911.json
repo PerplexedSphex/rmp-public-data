@@ -1,0 +1,79 @@
+{
+  "facilityId": 4911,
+  "epaFacId": "100000066153",
+  "facNm": "Johns Manville Corporation, Corona, CA",
+  "parntCo1Nm": "Johns Manville International, Inc.",
+  "facDunsNu": 103107231,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1251 Magnolia Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Corona",
+  "facStateCd": "CA",
+  "countyNm": "RIVERSIDE",
+  "facZipCd": "91719",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "33.8675",
+  "facLongDecMs": "-117.540556",
+  "lepcNm": "Region VI LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "1999-06-21T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "City of Corona Fire Department",
+    "agencyPhoneNm": "9097362211",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4911"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Mineral Wool Manufacturing ",
+          "naicsCd": "327993",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/327993"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4911"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4911"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4911"
+    }
+  }
+}

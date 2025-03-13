@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080353,
+  "epaFacId": "100000001124",
+  "facNm": "Thomas Natural Gas Processing Plant",
+  "parntCo1Nm": "Energy Transfer LP",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "23584 E 880 Road",
+  "facStreet2Tx": "2.5 miles W.  & 1 mile N. of Thomas",
+  "facCityNm": "Thomas",
+  "facStateCd": "OK",
+  "countyNm": "CUSTER",
+  "facZipCd": "73669",
+  "facZip4Cd": "",
+  "receiptDa": "2019-06-12T00:00:00.000",
+  "facLatDecMs": "35.739444",
+  "facLongDecMs": "-098.797778",
+  "lepcNm": "Custer LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2024-06-03T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Custer County LEPC - OK120",
+    "agencyPhoneNm": "5803231616",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080353"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Extraction ",
+          "naicsCd": "21113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethane",
+          "casNu": "74-84-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/94"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080353"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080353"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080353"
+    }
+  }
+}

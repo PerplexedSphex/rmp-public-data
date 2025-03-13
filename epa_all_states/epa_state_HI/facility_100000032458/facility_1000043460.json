@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000043460,
+  "epaFacId": "100000032458",
+  "facNm": "Unicold Corporation",
+  "parntCo1Nm": "Ishiyama Corporation",
+  "facDunsNu": 41574013,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3140 Ualena Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Honolulu",
+  "facStateCd": "HI",
+  "countyNm": "HONOLULU",
+  "facZipCd": "96819",
+  "facZip4Cd": "1916",
+  "receiptDa": "2014-06-11T00:00:00.000",
+  "facLatDecMs": "21.3343571",
+  "facLongDecMs": "-157.911683",
+  "lepcNm": "Honolulu LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Honolulu Fire Dept HazMat Team",
+    "agencyPhoneNm": "8085234826",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043460"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043460"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043460"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000043460"
+    }
+  }
+}

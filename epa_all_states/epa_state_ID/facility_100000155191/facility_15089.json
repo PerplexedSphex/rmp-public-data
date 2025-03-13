@@ -1,0 +1,79 @@
+{
+  "facilityId": 15089,
+  "epaFacId": "100000155191",
+  "facNm": "UAP Northwest, Jerome",
+  "parntCo1Nm": "Tri-RIver Chemical dba UAP Northwest fka Nortrace",
+  "facDunsNu": 102307576,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "379 E. 300 S.",
+  "facStreet2Tx": null,
+  "facCityNm": "Jerome",
+  "facStateCd": "ID",
+  "countyNm": "JEROME",
+  "facZipCd": "83338",
+  "facZip4Cd": "6328",
+  "receiptDa": "1999-07-20T00:00:00.000",
+  "facLatDecMs": "42.68",
+  "facLongDecMs": "-114.4475",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2001-12-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jerome County",
+    "agencyPhoneNm": "2083248811",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15089"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15089"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15089"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15089"
+    }
+  }
+}

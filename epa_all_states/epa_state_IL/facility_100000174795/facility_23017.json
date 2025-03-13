@@ -1,0 +1,79 @@
+{
+  "facilityId": 23017,
+  "epaFacId": "100000174795",
+  "facNm": "Prairie Farms Dairy - Peoria, IL",
+  "parntCo1Nm": "Prairie Farms Dairy, Inc.",
+  "facDunsNu": 6312995,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2000 N. University St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Peoria",
+  "facStateCd": "IL",
+  "countyNm": "PEORIA",
+  "facZipCd": "61604",
+  "facZip4Cd": null,
+  "receiptDa": "2001-03-16T00:00:00.000",
+  "facLatDecMs": "40.666667",
+  "facLongDecMs": "-89.666667",
+  "lepcNm": "Peoria County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-06-17T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Peoria Fire Department",
+    "agencyPhoneNm": "3096743131",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23017"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23017"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23017"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23017"
+    }
+  }
+}

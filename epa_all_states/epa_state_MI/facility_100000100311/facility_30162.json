@@ -1,0 +1,79 @@
+{
+  "facilityId": 30162,
+  "epaFacId": "100000100311",
+  "facNm": "Hanson Cold Storage Co. -  Hartford Division",
+  "parntCo1Nm": "Hanson Cold Storage Co.",
+  "facDunsNu": 98653504,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "61834 Red Arrow Highway East",
+  "facStreet2Tx": null,
+  "facCityNm": "Hartford",
+  "facStateCd": "MI",
+  "countyNm": "VAN BUREN",
+  "facZipCd": "49057",
+  "facZip4Cd": null,
+  "receiptDa": "2004-05-24T00:00:00.000",
+  "facLatDecMs": "42.209444",
+  "facLongDecMs": "-086.144167",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hartford Fire Department",
+    "agencyPhoneNm": "2696214707",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30162"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30162"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30162"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30162"
+    }
+  }
+}

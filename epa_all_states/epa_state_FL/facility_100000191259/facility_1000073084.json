@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000073084,
+  "epaFacId": "100000191259",
+  "facNm": "Crist Electric Generating Facility",
+  "parntCo1Nm": "Gulf Power Company",
+  "facDunsNu": 6923429,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "11999 Pate Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Pensacola",
+  "facStateCd": "FL",
+  "countyNm": "ESCAMBIA",
+  "facZipCd": "32514",
+  "facZip4Cd": null,
+  "receiptDa": "2018-10-19T00:00:00.000",
+  "facLatDecMs": "30.567765",
+  "facLongDecMs": "-087.227541",
+  "lepcNm": "District 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2020-12-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Escambia County Emergency Managemen",
+    "agencyPhoneNm": "8504716400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073084"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073084"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073084"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000073084"
+    }
+  }
+}

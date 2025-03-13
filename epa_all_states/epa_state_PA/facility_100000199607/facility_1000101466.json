@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101466,
+  "epaFacId": "100000199607",
+  "facNm": "Sysco Central Pennsylvania, LLC.",
+  "parntCo1Nm": "Sysco Corp.",
+  "facDunsNu": 14188155,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3905 Corey Rd.",
+  "facStreet2Tx": "",
+  "facCityNm": "Harrisburg",
+  "facStateCd": "PA",
+  "countyNm": "DAUPHIN",
+  "facZipCd": "17109",
+  "facZip4Cd": "",
+  "receiptDa": "2022-07-15T00:00:00.000",
+  "facLatDecMs": "40.271694",
+  "facLongDecMs": "-076.822917",
+  "lepcNm": "Dauphin County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dauphin County Emergency Management",
+    "agencyPhoneNm": "7175586800",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101466"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Line Grocery Merchant Wholesalers ",
+          "naicsCd": "42441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101466"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101466"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101466"
+    }
+  }
+}

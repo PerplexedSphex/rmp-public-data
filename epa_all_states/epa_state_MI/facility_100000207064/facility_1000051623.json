@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000051623,
+  "epaFacId": "100000207064",
+  "facNm": "Haviland Products Company - Kalamazoo",
+  "parntCo1Nm": "Haviland Enterprises, Inc.",
+  "facDunsNu": 6028492,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2722 North Burdick",
+  "facStreet2Tx": null,
+  "facCityNm": "Kalamazoo",
+  "facStateCd": "MI",
+  "countyNm": "KALAMAZOO",
+  "facZipCd": "49007",
+  "facZip4Cd": null,
+  "receiptDa": "2015-09-14T00:00:00.000",
+  "facLatDecMs": "42.31932",
+  "facLongDecMs": "-85.58381",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Northwood Fire Department",
+    "agencyPhoneNm": "2693441466",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051623"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrazine",
+          "casNu": "302-01-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/38"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051623"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051623"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051623"
+    }
+  }
+}

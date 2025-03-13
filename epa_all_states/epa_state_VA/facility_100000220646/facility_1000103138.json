@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000103138,
+  "epaFacId": "100000220646",
+  "facNm": "Chesapeake Terminal",
+  "parntCo1Nm": "Kinder Morgan Liquids Terminals, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4115 Buell Street",
+  "facStreet2Tx": "",
+  "facCityNm": "Chesapeake",
+  "facStateCd": "VA",
+  "countyNm": "CHESAPEAKE (CITY)",
+  "facZipCd": "23324",
+  "facZip4Cd": "",
+  "receiptDa": "2022-12-13T00:00:00.000",
+  "facLatDecMs": "36.783989",
+  "facLongDecMs": "-76.297047",
+  "lepcNm": "Chesapeake LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Chesapeake Off. of Emg. Mgt",
+    "agencyPhoneNm": "7573826504",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103138"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103138"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103138"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103138"
+    }
+  }
+}

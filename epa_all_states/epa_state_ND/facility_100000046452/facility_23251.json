@@ -1,0 +1,79 @@
+{
+  "facilityId": 23251,
+  "epaFacId": "100000046452",
+  "facNm": "Farmland Industries Devils Lake Ammonia Terminal",
+  "parntCo1Nm": "Farmland Industries, Inc.",
+  "facDunsNu": 184462794,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4107 14th Street West",
+  "facStreet2Tx": null,
+  "facCityNm": "Devils Lake",
+  "facStateCd": "ND",
+  "countyNm": "RAMSEY",
+  "facZipCd": "58301",
+  "facZip4Cd": "9608",
+  "receiptDa": "2000-02-11T00:00:00.000",
+  "facLatDecMs": "48.14",
+  "facLongDecMs": "-98.915833",
+  "lepcNm": "Ramsey County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2007-06-11T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Devils Lake Rural Fire Department",
+    "agencyPhoneNm": "7016624818",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23251"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Wholesalers",
+          "naicsCd": "42291",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42291"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23251"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23251"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23251"
+    }
+  }
+}

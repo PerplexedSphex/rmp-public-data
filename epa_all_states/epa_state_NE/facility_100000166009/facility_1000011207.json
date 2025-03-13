@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000011207,
+  "epaFacId": "100000166009",
+  "facNm": "Schuyler Cooperative Assn. Kavan Anhydrous",
+  "parntCo1Nm": "Schuyler Cooperative Assn.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2645 C Road 18",
+  "facStreet2Tx": null,
+  "facCityNm": "Cedar Bluffs",
+  "facStateCd": "NE",
+  "countyNm": "SAUNDERS",
+  "facZipCd": "68015",
+  "facZip4Cd": null,
+  "receiptDa": "2009-10-05T00:00:00.000",
+  "facLatDecMs": "41.384972",
+  "facLongDecMs": "-096.645222",
+  "lepcNm": "Saunders LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cedar Bluff Fire Dept.",
+    "agencyPhoneNm": "4026285495",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011207"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Management Services ",
+          "naicsCd": "115116",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/115116"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011207"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011207"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011207"
+    }
+  }
+}

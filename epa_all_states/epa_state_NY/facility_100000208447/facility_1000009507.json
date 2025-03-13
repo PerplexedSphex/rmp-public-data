@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000009507,
+  "epaFacId": "100000208447",
+  "facNm": "Dresser-Rand Company - Olean Operations",
+  "parntCo1Nm": null,
+  "facDunsNu": 2123644,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Paul Clark Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Olean",
+  "facStateCd": "NY",
+  "countyNm": "CATTARAUGUS",
+  "facZipCd": "14760",
+  "facZip4Cd": null,
+  "receiptDa": "2009-07-29T00:00:00.000",
+  "facLatDecMs": "42.089444",
+  "facLongDecMs": "-78.4425",
+  "lepcNm": "Cattaraugus County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-08-07T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Olean Fire Department",
+    "agencyPhoneNm": "7163765687",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009507"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Turbine and Turbine Generator Set Units Manufacturing ",
+          "naicsCd": "333611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/333611"
+            }
+          }
+        },
+        {
+          "description": "Air and Gas Compressor Manufacturing ",
+          "naicsCd": "333912",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/333912"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009507"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009507"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009507"
+    }
+  }
+}

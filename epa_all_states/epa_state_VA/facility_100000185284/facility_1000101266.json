@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101266,
+  "epaFacId": "100000185284",
+  "facNm": "Cargill Meat Solutions -Timberville VA",
+  "parntCo1Nm": "Cargill Meat Solutions, Corporation",
+  "facDunsNu": 6249189,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "480 Co-op Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Timberville",
+  "facStateCd": "VA",
+  "countyNm": "ROCKINGHAM",
+  "facZipCd": "22853",
+  "facZip4Cd": "",
+  "receiptDa": "2022-06-20T00:00:00.000",
+  "facLatDecMs": "38.634913",
+  "facLongDecMs": "-078.783315",
+  "lepcNm": "Harrisonburg-Rockingham LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Harrisonburg/Rockingham LEPC",
+    "agencyPhoneNm": "5405643000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101266"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101266"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101266"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101266"
+    }
+  }
+}

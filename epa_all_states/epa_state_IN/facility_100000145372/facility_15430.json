@@ -1,0 +1,79 @@
+{
+  "facilityId": 15430,
+  "epaFacId": "100000145372",
+  "facNm": "New Energy Corp.",
+  "parntCo1Nm": null,
+  "facDunsNu": 5125757,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3201 West Calvert Street",
+  "facStreet2Tx": null,
+  "facCityNm": "South Bend",
+  "facStateCd": "IN",
+  "countyNm": "ST. JOSEPH",
+  "facZipCd": "46680",
+  "facZip4Cd": "2289",
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "41.655833",
+  "facLongDecMs": "-86.295",
+  "lepcNm": "St. Joseph County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2006-04-20T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "St. Joseph County LEPC",
+    "agencyPhoneNm": "2192359234",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15430"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15430"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15430"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15430"
+    }
+  }
+}

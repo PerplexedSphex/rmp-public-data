@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000068807,
+  "epaFacId": "100000237638",
+  "facNm": "Aldi Incorporated",
+  "parntCo1Nm": null,
+  "facDunsNu": 6940423,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "8751 Gas House Pike",
+  "facStreet2Tx": null,
+  "facCityNm": "Frederick",
+  "facStateCd": "MD",
+  "countyNm": "FREDERICK",
+  "facZipCd": "21701",
+  "facZip4Cd": null,
+  "receiptDa": "2018-03-25T00:00:00.000",
+  "facLatDecMs": "39.434327",
+  "facLongDecMs": "-77.362403",
+  "lepcNm": "Frederick County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-12-09T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Frederick County LEPC",
+    "agencyPhoneNm": "3016006790",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068807"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068807"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068807"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068807"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 5702,
+  "epaFacId": "100000074368",
+  "facNm": "Millard Refrigerated Services",
+  "parntCo1Nm": null,
+  "facDunsNu": 41244153,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "900 Millard Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Friona",
+  "facStateCd": "TX",
+  "countyNm": "PARMER",
+  "facZipCd": "79035",
+  "facZip4Cd": "1430",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "34.641389",
+  "facLongDecMs": "-102.708611",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Friona Fire Department",
+    "agencyPhoneNm": "8062502711",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5702"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5702"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5702"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5702"
+    }
+  }
+}

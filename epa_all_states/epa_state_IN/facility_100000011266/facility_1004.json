@@ -1,0 +1,79 @@
+{
+  "facilityId": 1004,
+  "epaFacId": "100000011266",
+  "facNm": "Helena Chemical Company",
+  "parntCo1Nm": "Marubeni America Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "0472 West Maple Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Bluffton",
+  "facStateCd": "IN",
+  "countyNm": "WELLS",
+  "facZipCd": "46714",
+  "facZip4Cd": null,
+  "receiptDa": "1999-05-21T00:00:00.000",
+  "facLatDecMs": "40.717833",
+  "facLongDecMs": "-85.234167",
+  "lepcNm": "Wells county LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bluffton Fire Department",
+    "agencyPhoneNm": "2198246050",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1004"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Soil Preparation, Planting, and Cultivating ",
+          "naicsCd": "115112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/115112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1004"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1004"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1004"
+    }
+  }
+}

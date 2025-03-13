@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000024199,
+  "epaFacId": "100000215901",
+  "facNm": "Borden Dairy Company of Alabama, LLC",
+  "parntCo1Nm": "Borden Dairy Company",
+  "facDunsNu": 41904509,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "5014 E. US Highway 84",
+  "facStreet2Tx": null,
+  "facCityNm": "Cowarts",
+  "facStateCd": "AL",
+  "countyNm": "HOUSTON",
+  "facZipCd": "36321",
+  "facZip4Cd": "4305",
+  "receiptDa": "2011-10-12T00:00:00.000",
+  "facLatDecMs": "31.192777",
+  "facLongDecMs": "-85.320892",
+  "lepcNm": "Dothan/Houston County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-10-14T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Cowarts Fire Department",
+    "agencyPhoneNm": "3347928920",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024199"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024199"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024199"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000024199"
+    }
+  }
+}

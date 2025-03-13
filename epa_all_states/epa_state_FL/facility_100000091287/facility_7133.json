@@ -1,0 +1,79 @@
+{
+  "facilityId": 7133,
+  "epaFacId": "100000091287",
+  "facNm": "Anheuser-Busch, Inc. Jacksonville Brewery",
+  "parntCo1Nm": "Anheuser-Busch Companies, Inc",
+  "facDunsNu": 6288799,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "111 Busch Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Jacksonville",
+  "facStateCd": "FL",
+  "countyNm": "DUVAL",
+  "facZipCd": "32218",
+  "facZip4Cd": "5595",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "30.434167",
+  "facLongDecMs": "-81.644722",
+  "lepcNm": "Jacksonville Fire and Rescue",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jacksonville Fire Department",
+    "agencyPhoneNm": "9046300529",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7133"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7133"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7133"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7133"
+    }
+  }
+}

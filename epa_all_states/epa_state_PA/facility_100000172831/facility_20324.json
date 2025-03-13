@@ -1,0 +1,88 @@
+{
+  "facilityId": 20324,
+  "epaFacId": "100000172831",
+  "facNm": "Fisher Scientific Co-Blawnox Distribution Center",
+  "parntCo1Nm": "Fisher Scientific Company L.L.C.",
+  "facDunsNu": 99515736,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "585 Alpha Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Blawnox",
+  "facStateCd": "PA",
+  "countyNm": "ALLEGHENY",
+  "facZipCd": "15238",
+  "facZip4Cd": null,
+  "receiptDa": "2000-11-07T00:00:00.000",
+  "facLatDecMs": "40.498917",
+  "facLongDecMs": "-79.870472",
+  "lepcNm": "Allegheny County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2001-11-14T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Guyasuta Fire Department",
+    "agencyPhoneNm": "4129610600",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20324"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Other Professional Equipment and Supplies Wholesalers",
+          "naicsCd": "42149",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42149"
+            }
+          }
+        },
+        {
+          "description": "Other Chemical and Allied Products Wholesalers",
+          "naicsCd": "42269",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42269"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chloroform  [Methane, trichloro-]",
+          "casNu": "67-66-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/4"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20324"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20324"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20324"
+    }
+  }
+}

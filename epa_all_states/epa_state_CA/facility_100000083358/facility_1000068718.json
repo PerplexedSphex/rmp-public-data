@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000068718,
+  "epaFacId": "100000083358",
+  "facNm": "The Eggo Company",
+  "parntCo1Nm": "Kellogg Company",
+  "facDunsNu": 5356209,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "475 Eggo Way",
+  "facStreet2Tx": null,
+  "facCityNm": "San Jose",
+  "facStateCd": "CA",
+  "countyNm": "SANTA CLARA",
+  "facZipCd": "95116",
+  "facZip4Cd": null,
+  "receiptDa": "2018-03-23T11:23:09.000",
+  "facLatDecMs": "37.355944",
+  "facLongDecMs": "-121.871389",
+  "lepcNm": "Santa Clara County",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "San Jose Fire Department",
+    "agencyPhoneNm": "4087947000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068718"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Specialty Food Manufacturing ",
+          "naicsCd": "311412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068718"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068718"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068718"
+    }
+  }
+}

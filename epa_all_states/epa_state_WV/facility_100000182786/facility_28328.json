@@ -1,0 +1,79 @@
+{
+  "facilityId": 28328,
+  "epaFacId": "100000182786",
+  "facNm": "TRANSFLO Clarksburg Terminal",
+  "parntCo1Nm": "TRANSFLO Terminal Services, Inc.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "500 North 3rd Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Clarksburg",
+  "facStateCd": "WV",
+  "countyNm": "HARRISON",
+  "facZipCd": "26301",
+  "facZip4Cd": null,
+  "receiptDa": "2003-05-30T00:00:00.000",
+  "facLatDecMs": "39.284972",
+  "facLongDecMs": "-80.33625",
+  "lepcNm": "Harrison County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-06-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Harrison County LEPC",
+    "agencyPhoneNm": "3046249700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28328"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Rail Transportation",
+          "naicsCd": "48211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28328"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28328"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28328"
+    }
+  }
+}

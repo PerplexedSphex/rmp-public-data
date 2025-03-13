@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000006379,
+  "epaFacId": "100000076954",
+  "facNm": "Kohler Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 174895193,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "920 E. Lincoln Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Searcy",
+  "facStateCd": "AR",
+  "countyNm": "WHITE",
+  "facZipCd": "72143",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-15T00:00:00.000",
+  "facLatDecMs": "35.241172",
+  "facLongDecMs": "-091.725570",
+  "lepcNm": "White County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2010-02-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Searcy Fire Department",
+    "agencyPhoneNm": "5012791055",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006379"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Metal Stamping",
+          "naicsCd": "332116",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332116"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006379"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006379"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000006379"
+    }
+  }
+}

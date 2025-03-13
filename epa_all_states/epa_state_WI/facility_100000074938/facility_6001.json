@@ -1,0 +1,79 @@
+{
+  "facilityId": 6001,
+  "epaFacId": "100000074938",
+  "facNm": "Rich Products Corporation, Appleton Division",
+  "parntCo1Nm": "Rich Products Corporation",
+  "facDunsNu": 2108371,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3300 West College Avenue",
+  "facStreet2Tx": "N/A",
+  "facCityNm": "Appleton",
+  "facStateCd": "WI",
+  "countyNm": "OUTAGAMIE",
+  "facZipCd": "54913",
+  "facZip4Cd": "2217",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "44.266639",
+  "facLongDecMs": "-88.460167",
+  "lepcNm": "Outagamie County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2002-04-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC",
+    "agencyPhoneNm": "9208325846",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6001"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Specialty Food Manufacturing ",
+          "naicsCd": "311412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6001"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6001"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6001"
+    }
+  }
+}

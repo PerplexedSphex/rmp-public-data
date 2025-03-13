@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000027350,
+  "epaFacId": "100000217455",
+  "facNm": "Park 100 Foods, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 79590220,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "326 East Adams Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Tipton",
+  "facStateCd": "IN",
+  "countyNm": "TIPTON",
+  "facZipCd": "46072",
+  "facZip4Cd": null,
+  "receiptDa": "2012-03-27T00:00:00.000",
+  "facLatDecMs": "40.280389",
+  "facLongDecMs": "-86.035889",
+  "lepcNm": "Tipton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tipton Fire Department",
+    "agencyPhoneNm": "7656754633",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027350"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027350"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027350"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027350"
+    }
+  }
+}

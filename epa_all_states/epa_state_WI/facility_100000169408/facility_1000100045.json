@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100045,
+  "epaFacId": "100000169408",
+  "facNm": "Standard Process, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 6101158,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1200 West Royal Lee Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Palmyra",
+  "facStateCd": "WI",
+  "countyNm": "JEFFERSON",
+  "facZipCd": "53156",
+  "facZip4Cd": null,
+  "receiptDa": "2022-03-08T00:00:00.000",
+  "facLatDecMs": "42.881599",
+  "facLongDecMs": "-088.602615",
+  "lepcNm": "Jefferson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Palmyra Fire Department",
+    "agencyPhoneNm": "2624952380",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100045"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Food Manufacturing",
+          "naicsCd": "31199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100045"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100045"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100045"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 42212,
+  "epaFacId": "100000075429",
+  "facNm": "Rusty's Fertilizer Company, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 35016013,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "74697 U.S. Highway 183",
+  "facStreet2Tx": null,
+  "facCityNm": "Elm Creek",
+  "facStateCd": "NE",
+  "countyNm": "PHELPS",
+  "facZipCd": "68836",
+  "facZip4Cd": null,
+  "receiptDa": "2005-02-28T00:00:00.000",
+  "facLatDecMs": "40.657583",
+  "facLongDecMs": "-099.379883",
+  "lepcNm": "Phelps LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2017-03-28T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Elm Creek Fire Department",
+    "agencyPhoneNm": "3088564197",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42212"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Product Warehousing and Storage",
+          "naicsCd": "49313",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49313"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42212"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42212"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42212"
+    }
+  }
+}

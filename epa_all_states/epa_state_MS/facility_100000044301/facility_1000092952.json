@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000092952,
+  "epaFacId": "100000044301",
+  "facNm": "City of Greenwood, MS - Wastewater Treatment Plant",
+  "parntCo1Nm": "City of Greenwood, MS",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "600 Ione Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Greenwood",
+  "facStateCd": "MS",
+  "countyNm": "LEFLORE",
+  "facZipCd": "38930",
+  "facZip4Cd": "4432",
+  "receiptDa": "2021-03-23T14:28:26.000",
+  "facLatDecMs": "33.517000",
+  "facLongDecMs": "-090.166700",
+  "lepcNm": "Leflore Emergency Plan. Comm.",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department",
+    "agencyPhoneNm": "6624557610",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092952"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Other Nonhazardous Waste Treatment and Disposal ",
+          "naicsCd": "562219",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/562219"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092952"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092952"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092952"
+    }
+  }
+}

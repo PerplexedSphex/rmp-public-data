@@ -1,0 +1,79 @@
+{
+  "facilityId": 23153,
+  "epaFacId": "100000175017",
+  "facNm": "Lost Pines 1 Power Plant",
+  "parntCo1Nm": "Calpine Corporation",
+  "facDunsNu": 770520359,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4.5 Miles Northeast of Hwy. 21",
+  "facStreet2Tx": null,
+  "facCityNm": "Bastrop",
+  "facStateCd": "TX",
+  "countyNm": "BASTROP",
+  "facZipCd": "78602",
+  "facZip4Cd": null,
+  "receiptDa": "2001-04-03T00:00:00.000",
+  "facLatDecMs": "30.147306",
+  "facLongDecMs": "-97.270056",
+  "lepcNm": "Bastrop County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bastrop Fire Department",
+    "agencyPhoneNm": "5123215550",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23153"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23153"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23153"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23153"
+    }
+  }
+}

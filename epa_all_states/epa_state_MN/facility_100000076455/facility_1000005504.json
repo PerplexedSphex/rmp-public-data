@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000005504,
+  "epaFacId": "100000076455",
+  "facNm": "American Crystal Sugar Company - East Grand Forks",
+  "parntCo1Nm": "American Crystal Sugar Company",
+  "facDunsNu": 6174809,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Business Highway 2 East",
+  "facStreet2Tx": null,
+  "facCityNm": "East Grand Forks",
+  "facStateCd": "MN",
+  "countyNm": "POLK",
+  "facZipCd": "56721",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-17T00:00:00.000",
+  "facLatDecMs": "47.925833",
+  "facLongDecMs": "-097.006111",
+  "lepcNm": "EGF Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "East Grand Forks Fire Department",
+    "agencyPhoneNm": "2187731109",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005504"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sugar Manufacturing",
+          "naicsCd": "31131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005504"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005504"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005504"
+    }
+  }
+}

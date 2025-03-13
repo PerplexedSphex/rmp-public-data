@@ -1,0 +1,79 @@
+{
+  "facilityId": 6225,
+  "epaFacId": "100000078079",
+  "facNm": "Hydrite Chemical Co. - Cottage Grove East",
+  "parntCo1Nm": "Hydrite Chemical Co.",
+  "facDunsNu": 94362464,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "114 N. Main Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Cottage Grove",
+  "facStateCd": "WI",
+  "countyNm": "DANE",
+  "facZipCd": "53527",
+  "facZip4Cd": "0247",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "43.077222",
+  "facLongDecMs": "-89.198889",
+  "lepcNm": "Dane County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dane County LEPC",
+    "agencyPhoneNm": "6082677913",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6225"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6225"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6225"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/6225"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000050276,
+  "epaFacId": "100000193346",
+  "facNm": "Custom Alloy, LLC 34P",
+  "parntCo1Nm": null,
+  "facDunsNu": 63832455,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4008 Vernon Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Prescott",
+  "facStateCd": "KS",
+  "countyNm": "LINN",
+  "facZipCd": "66767",
+  "facZip4Cd": null,
+  "receiptDa": "2016-05-09T00:00:00.000",
+  "facLatDecMs": "38.080556",
+  "facLongDecMs": "-094.677778",
+  "lepcNm": "Linn County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2017-11-14T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Linn County Fire Department",
+    "agencyPhoneNm": "9133526480",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050276"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Secondary Smelting and Alloying of Aluminum ",
+          "naicsCd": "331314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050276"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050276"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050276"
+    }
+  }
+}

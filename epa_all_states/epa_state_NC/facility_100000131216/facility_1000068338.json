@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000068338,
+  "epaFacId": "100000131216",
+  "facNm": "Clariant Mt Holly Plant",
+  "parntCo1Nm": "Clariant Corporation",
+  "facDunsNu": 799834015,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "625 Catawba Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Mt. Holly",
+  "facStateCd": "NC",
+  "countyNm": "GASTON",
+  "facZipCd": "28120",
+  "facZip4Cd": null,
+  "receiptDa": "2018-03-02T00:00:00.000",
+  "facLatDecMs": "35.295833",
+  "facLongDecMs": "-081.006667",
+  "lepcNm": "Gaston County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Gaston County LEPC",
+    "agencyPhoneNm": "7048663265",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068338"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Soap and Other Detergent Manufacturing ",
+          "naicsCd": "325611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethylene oxide  [Oxirane]",
+          "casNu": "75-21-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/9"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene oxide  [Oxirane, methyl-]",
+          "casNu": "75-56-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/12"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068338"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068338"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000068338"
+    }
+  }
+}

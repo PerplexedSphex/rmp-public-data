@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000047400,
+  "epaFacId": "100000227676",
+  "facNm": "Sanderson Farms Palestine Processing",
+  "parntCo1Nm": "Sanderson Farms, Inc.",
+  "facDunsNu": 79379346,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "320 Sanderson Farms Parkway",
+  "facStreet2Tx": null,
+  "facCityNm": "Palestine",
+  "facStateCd": "TX",
+  "countyNm": "ANDERSON",
+  "facZipCd": "75803",
+  "facZip4Cd": null,
+  "receiptDa": "2014-12-04T00:00:00.000",
+  "facLatDecMs": "31.727222",
+  "facLongDecMs": "-95.699444",
+  "lepcNm": "Anderson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Palestine Fire Department 911",
+    "agencyPhoneNm": "9037297100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047400"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047400"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047400"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047400"
+    }
+  }
+}

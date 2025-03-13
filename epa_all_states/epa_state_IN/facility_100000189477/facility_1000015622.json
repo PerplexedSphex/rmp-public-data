@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000015622,
+  "epaFacId": "100000189477",
+  "facNm": "Armour Eckrich Meats LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 1317304,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3311 State Road 19 South",
+  "facStreet2Tx": null,
+  "facCityNm": "Peru",
+  "facStateCd": "IN",
+  "countyNm": "MIAMI",
+  "facZipCd": "46970",
+  "facZip4Cd": null,
+  "receiptDa": "2010-08-30T00:00:00.000",
+  "facLatDecMs": "40.7192822",
+  "facLongDecMs": "-086.024958",
+  "lepcNm": "Miami County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Miami County LEPC",
+    "agencyPhoneNm": "7654727008",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015622"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015622"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015622"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000015622"
+    }
+  }
+}

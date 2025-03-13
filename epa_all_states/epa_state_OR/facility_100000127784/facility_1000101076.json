@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101076,
+  "epaFacId": "100000127784",
+  "facNm": "Simplot Ontario, OR",
+  "parntCo1Nm": "The J.R. Simplot Company",
+  "facDunsNu": 9073503,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "175 NE 6th Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Ontario",
+  "facStateCd": "OR",
+  "countyNm": "MALHEUR",
+  "facZipCd": "97914",
+  "facZip4Cd": "",
+  "receiptDa": "2022-07-07T00:00:00.000",
+  "facLatDecMs": "44.031306",
+  "facLongDecMs": "-116.956417",
+  "lepcNm": "Malheur County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ontario Fire Department",
+    "agencyPhoneNm": "5418897266",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101076"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Specialty Food Manufacturing ",
+          "naicsCd": "311412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101076"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101076"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101076"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000092822,
+  "epaFacId": "100000204904",
+  "facNm": "Water Treatment Plant",
+  "parntCo1Nm": "Town of Hillsborough",
+  "facDunsNu": 91570440,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "711 Dimmocks Mill Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Hillsborough",
+  "facStateCd": "NC",
+  "countyNm": "ORANGE",
+  "facZipCd": "27278",
+  "facZip4Cd": null,
+  "receiptDa": "2021-03-17T20:20:50.000",
+  "facLatDecMs": "36.067501",
+  "facLongDecMs": "-079.124665",
+  "lepcNm": "Orange County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Orange County Emergency Services",
+    "agencyPhoneNm": "9192456100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092822"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092822"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092822"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092822"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 43221,
+  "epaFacId": "100000192392",
+  "facNm": "Castleberry Gas Processing Plant",
+  "parntCo1Nm": "Gas Processors, Inc.",
+  "facDunsNu": 122994945,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "12 miles SE of Evergreen, Alabama",
+  "facStreet2Tx": null,
+  "facCityNm": "Evergreen",
+  "facStateCd": "AL",
+  "countyNm": "CONECUH",
+  "facZipCd": "36401",
+  "facZip4Cd": null,
+  "receiptDa": "2005-06-29T00:00:00.000",
+  "facLatDecMs": "31.295556",
+  "facLongDecMs": "-086.886667",
+  "lepcNm": "Conecuh County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Conecuh LEPC",
+    "agencyPhoneNm": "2515785911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43221"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43221"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43221"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43221"
+    }
+  }
+}

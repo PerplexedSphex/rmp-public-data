@@ -1,0 +1,79 @@
+{
+  "facilityId": 33246,
+  "epaFacId": "100000099902",
+  "facNm": "Geneva Nitrogen LLC",
+  "parntCo1Nm": "n/a",
+  "facDunsNu": 3587354,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1165 North 1600 West",
+  "facStreet2Tx": null,
+  "facCityNm": "Orem",
+  "facStateCd": "UT",
+  "countyNm": "UTAH",
+  "facZipCd": "84057",
+  "facZip4Cd": "2812",
+  "receiptDa": "2004-06-18T00:00:00.000",
+  "facLatDecMs": "40.320980",
+  "facLongDecMs": "-111.737733",
+  "lepcNm": "Utah County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2017-02-28T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Utah County Emergency Coordinator",
+    "agencyPhoneNm": "8013708800",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33246"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Nitrogenous Fertilizer Manufacturing ",
+          "naicsCd": "325311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33246"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33246"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33246"
+    }
+  }
+}

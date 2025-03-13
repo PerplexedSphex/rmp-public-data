@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100063,
+  "epaFacId": "100000043099",
+  "facNm": "H.B. Fuller - Roseville Plant",
+  "parntCo1Nm": "H.B. Fuller",
+  "facDunsNu": 46414694,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10500 Industrial Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Roseville",
+  "facStateCd": "CA",
+  "countyNm": "PLACER",
+  "facZipCd": "95678",
+  "facZip4Cd": "",
+  "receiptDa": "2022-02-23T00:00:00.000",
+  "facLatDecMs": "38.780000",
+  "facLongDecMs": "-121.303611",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Roseville Fire Department",
+    "agencyPhoneNm": "9167745820",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100063"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Adhesive Manufacturing",
+          "naicsCd": "32552",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32552"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100063"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100063"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100063"
+    }
+  }
+}

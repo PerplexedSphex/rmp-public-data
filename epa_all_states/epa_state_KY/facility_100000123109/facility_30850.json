@@ -1,0 +1,79 @@
+{
+  "facilityId": 30850,
+  "epaFacId": "100000123109",
+  "facNm": "Schwan's Food Manufacturing, Inc.",
+  "parntCo1Nm": "Schwan Food Company",
+  "facDunsNu": 22865398,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7605 Empire Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Florence",
+  "facStateCd": "KY",
+  "countyNm": "BOONE",
+  "facZipCd": "41042",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-07T00:00:00.000",
+  "facLatDecMs": "38.975194",
+  "facLongDecMs": "-084.634667",
+  "lepcNm": "Boone County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "FLORENCE FIRE DEPARTMENT",
+    "agencyPhoneNm": "8596475660",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30850"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30850"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30850"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30850"
+    }
+  }
+}

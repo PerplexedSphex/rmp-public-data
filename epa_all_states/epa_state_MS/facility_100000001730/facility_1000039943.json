@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000039943,
+  "epaFacId": "100000001730",
+  "facNm": "JCUA POTW 2C",
+  "parntCo1Nm": "Jackson County Utility  Authority",
+  "facDunsNu": 139233597,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1201 Louis Alexis Trail ",
+  "facStreet2Tx": null,
+  "facCityNm": "Gautier",
+  "facStateCd": "MS",
+  "countyNm": "JACKSON",
+  "facZipCd": "39553",
+  "facZip4Cd": null,
+  "receiptDa": "2014-05-06T00:00:00.000",
+  "facLatDecMs": "30.416667",
+  "facLongDecMs": "-88.633333",
+  "lepcNm": "Jackson County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Gautier Fire Department",
+    "agencyPhoneNm": "2284971656",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039943"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039943"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039943"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039943"
+    }
+  }
+}

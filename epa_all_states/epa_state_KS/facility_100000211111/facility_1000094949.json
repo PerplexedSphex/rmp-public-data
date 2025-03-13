@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000094949,
+  "epaFacId": "100000211111",
+  "facNm": "EIF KC Landfill Gas, LLC",
+  "parntCo1Nm": "EIF KC Landfill Gas Holdings, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "17955 Holliday Dr",
+  "facStreet2Tx": null,
+  "facCityNm": "Shawnee",
+  "facStateCd": "KS",
+  "countyNm": "JOHNSON",
+  "facZipCd": "66217",
+  "facZip4Cd": null,
+  "receiptDa": "2021-07-27T08:20:27.000",
+  "facLatDecMs": "39.033180",
+  "facLongDecMs": "-94.804747",
+  "lepcNm": "Johnson County",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Shawnee Fire Department",
+    "agencyPhoneNm": "9136311080",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094949"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Distribution",
+          "naicsCd": "22121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094949"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094949"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000094949"
+    }
+  }
+}

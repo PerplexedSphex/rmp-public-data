@@ -1,0 +1,79 @@
+{
+  "facilityId": 20147,
+  "epaFacId": "100000166517",
+  "facNm": "Quality Chef - C Street",
+  "parntCo1Nm": "H. J. Heinz Company",
+  "facDunsNu": 151029246,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4601 C Street SW",
+  "facStreet2Tx": null,
+  "facCityNm": "Cedar Rapids",
+  "facStateCd": "IA",
+  "countyNm": "LINN",
+  "facZipCd": "52404",
+  "facZip4Cd": null,
+  "receiptDa": "2000-01-28T00:00:00.000",
+  "facLatDecMs": "41.930889",
+  "facLongDecMs": "-91.635861",
+  "lepcNm": "Linn County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cedar Rapids Fire Department",
+    "agencyPhoneNm": "3192865200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20147"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20147"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20147"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/20147"
+    }
+  }
+}

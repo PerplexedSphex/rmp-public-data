@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000033098,
+  "epaFacId": "100000103737",
+  "facNm": "Sandusky, MI 884",
+  "parntCo1Nm": "Crop Production Services",
+  "facDunsNu": 102412244,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "PO Box 227",
+  "facStreet2Tx": "220 North Jackson Street",
+  "facCityNm": "Sandusky",
+  "facStateCd": "MI",
+  "countyNm": "SANILAC",
+  "facZipCd": "48471",
+  "facZip4Cd": null,
+  "receiptDa": "2013-03-13T00:00:00.000",
+  "facLatDecMs": "43.425333",
+  "facLongDecMs": "-082.825667",
+  "lepcNm": "Sanilac County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-06-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department",
+    "agencyPhoneNm": "8106483399",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033098"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Merchant Wholesalers ",
+          "naicsCd": "42491",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42491"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033098"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033098"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033098"
+    }
+  }
+}

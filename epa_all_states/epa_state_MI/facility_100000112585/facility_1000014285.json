@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000014285,
+  "epaFacId": "100000112585",
+  "facNm": "Reese Micronutrient Operations",
+  "parntCo1Nm": "Advanced Micronutrient Products, Inc.",
+  "facDunsNu": 79809555,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2405 W. Vassar Road (M-15)",
+  "facStreet2Tx": null,
+  "facCityNm": "Reese",
+  "facStateCd": "MI",
+  "countyNm": "SAGINAW",
+  "facZipCd": "48757",
+  "facZip4Cd": "0383",
+  "receiptDa": "2010-06-18T00:00:00.000",
+  "facLatDecMs": "43.441111",
+  "facLongDecMs": "-083.752778",
+  "lepcNm": "Saginaw County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Saginaw County LEPC",
+    "agencyPhoneNm": "9897905434",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014285"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014285"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014285"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014285"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 39013,
+  "epaFacId": "100000140322",
+  "facNm": "FREMONT BEEF COMPANY",
+  "parntCo1Nm": "STAMINA FOODS INC.",
+  "facDunsNu": 606928760,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "960 SOUTH SCHNEIDER STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "FREMONT",
+  "facStateCd": "NE",
+  "countyNm": "DODGE",
+  "facZipCd": "68026",
+  "facZip4Cd": "0908",
+  "receiptDa": "2004-06-28T00:00:00.000",
+  "facLatDecMs": "41.416667",
+  "facLongDecMs": "-096.500000",
+  "lepcNm": "Dodge LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fremont fire department",
+    "agencyPhoneNm": "4027272689",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39013"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39013"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39013"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39013"
+    }
+  }
+}

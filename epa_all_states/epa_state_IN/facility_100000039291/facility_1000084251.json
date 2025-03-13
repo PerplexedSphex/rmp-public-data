@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000084251,
+  "epaFacId": "100000039291",
+  "facNm": "Siemens Healthcare Diagnostics Inc - Mishawaka",
+  "parntCo1Nm": "Siemens Healthcare Diagnostics Inc",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "430 S. Beiger St.",
+  "facStreet2Tx": "",
+  "facCityNm": "Mishawaka",
+  "facStateCd": "IN",
+  "countyNm": "ST. JOSEPH",
+  "facZipCd": "46544",
+  "facZip4Cd": "3207",
+  "receiptDa": "2019-12-19T00:00:00.000",
+  "facLatDecMs": "41.658745",
+  "facLongDecMs": "-086.147684",
+  "lepcNm": "St. Joseph Co. Emerg. Mgmt Ag.",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "St. Joseph Co. Emerg. Mgmt Agenc",
+    "agencyPhoneNm": "5742359234",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084251"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "In-Vitro Diagnostic Substance Manufacturing ",
+          "naicsCd": "325413",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325413"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084251"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084251"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084251"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 9902,
+  "epaFacId": "100000000624",
+  "facNm": "Watres Water Treatment Plant",
+  "parntCo1Nm": "PA-American Water Company",
+  "facDunsNu": 7916380,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1799 Jumper Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Wilkes-Barre",
+  "facStateCd": "PA",
+  "countyNm": "LUZERNE",
+  "facZipCd": "18702",
+  "facZip4Cd": null,
+  "receiptDa": "1999-04-12T00:00:00.000",
+  "facLatDecMs": "41.2625",
+  "facLongDecMs": "-75.791667",
+  "lepcNm": "Luzerne County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-01-25T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Luzerne County Emergency Mgmt.",
+    "agencyPhoneNm": "5708204400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9902"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9902"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9902"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9902"
+    }
+  }
+}

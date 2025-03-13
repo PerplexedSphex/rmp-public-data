@@ -1,0 +1,79 @@
+{
+  "facilityId": 1224,
+  "epaFacId": "100000015075",
+  "facNm": "Thorn Apple Valley, Inc.   Grand Rapids Division",
+  "parntCo1Nm": "Thorn Apple Valley, Inc.",
+  "facDunsNu": 5366984,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2000 Oak Industrial Drive, N.E.",
+  "facStreet2Tx": null,
+  "facCityNm": "Grand Rapids",
+  "facStateCd": "MI",
+  "countyNm": "KENT",
+  "facZipCd": "49505",
+  "facZip4Cd": null,
+  "receiptDa": "1999-05-27T00:00:00.000",
+  "facLatDecMs": "42.97",
+  "facLongDecMs": "-85.61",
+  "lepcNm": "Kent County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2002-03-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kent County Emergegency Management",
+    "agencyPhoneNm": "6163363121",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1224"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1224"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1224"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1224"
+    }
+  }
+}

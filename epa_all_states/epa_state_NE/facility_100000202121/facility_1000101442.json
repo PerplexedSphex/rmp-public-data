@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000101442,
+  "epaFacId": "100000202121",
+  "facNm": "Nebraska Corn Processing, LLC",
+  "parntCo1Nm": "Zeeland Farm Services, Inc",
+  "facDunsNu": 962342940,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "107 Potter Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Cambridge",
+  "facStateCd": "NE",
+  "countyNm": "FURNAS",
+  "facZipCd": "69022",
+  "facZip4Cd": null,
+  "receiptDa": "2022-07-13T00:00:00.000",
+  "facLatDecMs": "40.281051",
+  "facLongDecMs": "-100.159843",
+  "lepcNm": "Furnas LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cambridge Fire Department",
+    "agencyPhoneNm": "3086973328",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101442"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ethyl Alcohol Manufacturing ",
+          "naicsCd": "325193",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325193"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Pentane",
+              "casNu": "109-66-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101442"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101442"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101442"
+    }
+  }
+}

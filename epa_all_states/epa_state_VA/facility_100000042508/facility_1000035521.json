@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000035521,
+  "epaFacId": "100000042508",
+  "facNm": "Hopewell Power Station",
+  "parntCo1Nm": "Virginia Electric and Power Company",
+  "facDunsNu": 783234966,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "107 Rev. CW Harris Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Hopewell",
+  "facStateCd": "VA",
+  "countyNm": "HOPEWELL (CITY)",
+  "facZipCd": "23860",
+  "facZip4Cd": "7813",
+  "receiptDa": "2013-07-29T00:00:00.000",
+  "facLatDecMs": "37.297500",
+  "facLongDecMs": "-077.282778",
+  "lepcNm": "Hopewell LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Hopewell Fire Dept & LEPC",
+    "agencyPhoneNm": "8046412290",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035521"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Biomass Electric Power Generation ",
+          "naicsCd": "221117",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221117"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035521"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035521"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000035521"
+    }
+  }
+}

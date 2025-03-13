@@ -1,0 +1,79 @@
+{
+  "facilityId": 12105,
+  "epaFacId": "100000127258",
+  "facNm": "East Penn Manufacturing Company, Incorporated",
+  "parntCo1Nm": null,
+  "facDunsNu": 2330165,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Deka Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Lyon Station",
+  "facStateCd": "PA",
+  "countyNm": "BERKS",
+  "facZipCd": "19536",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "40.470556",
+  "facLongDecMs": "-75.766667",
+  "lepcNm": "Berks County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Berks County LEPC",
+    "agencyPhoneNm": "6103745033",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12105"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",
+          "naicsCd": "331492",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331492"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12105"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12105"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12105"
+    }
+  }
+}

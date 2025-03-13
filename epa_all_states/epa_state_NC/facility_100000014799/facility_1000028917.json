@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000028917,
+  "epaFacId": "100000014799",
+  "facNm": "Dairy Fresh, LLC",
+  "parntCo1Nm": "Dean Foods, LLC",
+  "facDunsNu": 831992461,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2221 Patterson Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Winston-Salem",
+  "facStateCd": "NC",
+  "countyNm": "FORSYTH",
+  "facZipCd": "27105",
+  "facZip4Cd": "6036",
+  "receiptDa": "2012-06-25T00:00:00.000",
+  "facLatDecMs": "36.117470",
+  "facLongDecMs": "-080.241629",
+  "lepcNm": "Forsyth County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Winston-Salem Fire/HAZMAT Team",
+    "agencyPhoneNm": "3367278053",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028917"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        },
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028917"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028917"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000028917"
+    }
+  }
+}

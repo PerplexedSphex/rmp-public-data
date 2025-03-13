@@ -1,0 +1,79 @@
+{
+  "facilityId": 12734,
+  "epaFacId": "100000135622",
+  "facNm": "Miller Brewing Company (Milwaukee, WI)",
+  "parntCo1Nm": "Philip Morris",
+  "facDunsNu": 6095251,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4000 West State Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Milwaukee",
+  "facStateCd": "WI",
+  "countyNm": "MILWAUKEE",
+  "facZipCd": "53208",
+  "facZip4Cd": "3175",
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "43.041389",
+  "facLongDecMs": "-87.962778",
+  "lepcNm": "Milwaukee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Milwaukee Fire Department",
+    "agencyPhoneNm": "4143472323",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12734"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12734"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12734"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12734"
+    }
+  }
+}

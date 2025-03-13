@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000032769,
+  "epaFacId": "100000192506",
+  "facNm": "Henningsen Cold Storage Co._Portland, OR.",
+  "parntCo1Nm": "Henningsen Cold Storage Co.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "17400 NE Sacramento Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Portland",
+  "facStateCd": "OR",
+  "countyNm": "MULTNOMAH",
+  "facZipCd": "97230",
+  "facZip4Cd": "5944",
+  "receiptDa": "2013-02-19T00:00:00.000",
+  "facLatDecMs": "45.540200",
+  "facLongDecMs": "-122.482900",
+  "lepcNm": "Gresham City Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Gresham City Fire Department",
+    "agencyPhoneNm": "5032314222",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032769"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032769"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032769"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032769"
+    }
+  }
+}

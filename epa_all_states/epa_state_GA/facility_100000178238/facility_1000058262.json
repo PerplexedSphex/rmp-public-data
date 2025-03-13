@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000058262,
+  "epaFacId": "100000178238",
+  "facNm": "Plant Hammond",
+  "parntCo1Nm": "Georgia Power Company",
+  "facDunsNu": 22336481,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5963 Alabama Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "Rome",
+  "facStateCd": "GA",
+  "countyNm": "FLOYD",
+  "facZipCd": "30165",
+  "facZip4Cd": "8967",
+  "receiptDa": "2017-03-21T00:00:00.000",
+  "facLatDecMs": "34.252998",
+  "facLongDecMs": "-085.347369",
+  "lepcNm": "Floyd County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2019-07-28T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rome/Floyd County Fire Department",
+    "agencyPhoneNm": "7062364500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058262"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058262"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058262"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058262"
+    }
+  }
+}

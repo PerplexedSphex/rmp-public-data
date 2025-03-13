@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000045398,
+  "epaFacId": "100000172252",
+  "facNm": "Base Metals Refinery",
+  "parntCo1Nm": "Stillwater Mining Company",
+  "facDunsNu": 106572233,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1730 East 1st Avenue South",
+  "facStreet2Tx": null,
+  "facCityNm": "Columbus",
+  "facStateCd": "MT",
+  "countyNm": "STILLWATER",
+  "facZipCd": "59019",
+  "facZip4Cd": "1209",
+  "receiptDa": "2014-08-01T00:00:00.000",
+  "facLatDecMs": "45.633338",
+  "facLongDecMs": "-109.239731",
+  "lepcNm": "Stillwater County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2016-08-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Stillwater Cnty DES- (Carol Arkell)",
+    "agencyPhoneNm": "4063228060",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045398"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Nonferrous Metal (except Aluminum) Smelting and Refining",
+          "naicsCd": "33141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045398"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045398"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045398"
+    }
+  }
+}

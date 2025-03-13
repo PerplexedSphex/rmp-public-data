@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000023778,
+  "epaFacId": "100000215652",
+  "facNm": "Intel Corporation Ocotillo Campus",
+  "parntCo1Nm": null,
+  "facDunsNu": 47897855,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4500 S Dobson Road",
+  "facStreet2Tx": "M/S: OC4-005",
+  "facCityNm": "Chandler",
+  "facStateCd": "AZ",
+  "countyNm": "MARICOPA",
+  "facZipCd": "85248",
+  "facZip4Cd": null,
+  "receiptDa": "2012-10-03T00:00:00.000",
+  "facLatDecMs": "33.2444",
+  "facLongDecMs": "-111.888",
+  "lepcNm": "Chandler Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chandler Fire Departments",
+    "agencyPhoneNm": "4807822120",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023778"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Semiconductor and Related Device Manufacturing ",
+          "naicsCd": "334413",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/334413"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023778"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023778"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000023778"
+    }
+  }
+}

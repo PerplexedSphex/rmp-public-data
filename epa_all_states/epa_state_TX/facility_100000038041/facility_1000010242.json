@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000010242,
+  "epaFacId": "100000038041",
+  "facNm": "Akzo Nobel Surface Chemistry LLC Ft Worth Plant",
+  "parntCo1Nm": "Akzo Nobel Chemicals Inc",
+  "facDunsNu": 93195485,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "611 E. Northside Dr",
+  "facStreet2Tx": null,
+  "facCityNm": "Fort Worth",
+  "facStateCd": "TX",
+  "countyNm": "TARRANT",
+  "facZipCd": "76164",
+  "facZip4Cd": "9243",
+  "receiptDa": "2009-07-30T00:00:00.000",
+  "facLatDecMs": "32.780556",
+  "facLongDecMs": "-097.341667",
+  "lepcNm": "Tarrant County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fort Worth Fire Department",
+    "agencyPhoneNm": "8179223000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010242"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Soap and Other Detergent Manufacturing ",
+          "naicsCd": "325611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010242"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010242"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010242"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 17641,
+  "epaFacId": "100000161969",
+  "facNm": "City of Edinburg Pump Station No. 1",
+  "parntCo1Nm": null,
+  "facDunsNu": 155704653,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2100 West Sprague",
+  "facStreet2Tx": null,
+  "facCityNm": "Edinburg",
+  "facStateCd": "TX",
+  "countyNm": "HIDALGO",
+  "facZipCd": "78539",
+  "facZip4Cd": null,
+  "receiptDa": "1999-09-20T00:00:00.000",
+  "facLatDecMs": "26.296944",
+  "facLongDecMs": "-98.193333",
+  "lepcNm": "Hidalgo County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Edinburg Fire Dept.",
+    "agencyPhoneNm": "9563832323",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17641"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17641"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17641"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17641"
+    }
+  }
+}

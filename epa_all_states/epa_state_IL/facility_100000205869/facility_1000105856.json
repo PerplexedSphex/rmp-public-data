@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000105856,
+  "epaFacId": "100000205869",
+  "facNm": "Linde Gas & Equipment - Cahokia IL",
+  "parntCo1Nm": "Linde Inc.",
+  "facDunsNu": 42845636,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "9 Judith Lane",
+  "facStreet2Tx": "",
+  "facCityNm": "Cahokia",
+  "facStateCd": "IL",
+  "countyNm": "ST. CLAIR",
+  "facZipCd": "62206",
+  "facZip4Cd": "",
+  "receiptDa": "2023-07-07T00:00:00.000",
+  "facLatDecMs": "38.586055",
+  "facLongDecMs": "-090.175695",
+  "lepcNm": "St. Clair County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cahokia Fire Department",
+    "agencyPhoneNm": "6183375080",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105856"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Merchant Wholesalers ",
+          "naicsCd": "42469",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42469"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Acetylene  [Ethyne]",
+              "casNu": "74-86-2",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/96"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105856"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105856"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105856"
+    }
+  }
+}

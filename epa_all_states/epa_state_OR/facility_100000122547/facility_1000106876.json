@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106876,
+  "epaFacId": "100000122547",
+  "facNm": "Sysco Portland, Inc.",
+  "parntCo1Nm": "Sysco Corporation",
+  "facDunsNu": 103017570,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "26250 SW Parkway Center Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Wilsonville",
+  "facStateCd": "OR",
+  "countyNm": "CLACKAMAS",
+  "facZipCd": "97070",
+  "facZip4Cd": "0527",
+  "receiptDa": "2023-09-21T00:00:00.000",
+  "facLatDecMs": "45.331278",
+  "facLongDecMs": "-122.762215",
+  "lepcNm": "Clackamas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tualatin Valley Fire and Rescue",
+    "agencyPhoneNm": "5033564700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106876"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Food Service Contractors",
+          "naicsCd": "72231",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/72231"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106876"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106876"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106876"
+    }
+  }
+}

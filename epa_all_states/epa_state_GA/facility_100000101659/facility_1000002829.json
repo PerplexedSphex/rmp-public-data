@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000002829,
+  "epaFacId": "100000101659",
+  "facNm": "Pilgrim's Pride - Carrollton Poultry Processing",
+  "parntCo1Nm": "Pilgrim's Pride Corporation",
+  "facDunsNu": 61416079,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "616 Kingsbridge Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Carrollton",
+  "facStateCd": "GA",
+  "countyNm": "CARROLL",
+  "facZipCd": "30117",
+  "facZip4Cd": "0525",
+  "receiptDa": "2009-06-05T00:00:00.000",
+  "facLatDecMs": "33.596761",
+  "facLongDecMs": "-085.089475",
+  "lepcNm": "Carroll County EMA",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Carrollton Fire Department",
+    "agencyPhoneNm": "7708323456",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002829"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002829"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002829"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002829"
+    }
+  }
+}

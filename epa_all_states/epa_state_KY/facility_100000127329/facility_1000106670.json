@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106670,
+  "epaFacId": "100000127329",
+  "facNm": "Nestle Prepared Foods",
+  "parntCo1Nm": "Nestle USA Inc.",
+  "facDunsNu": 189185903,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "150 Oak Grove Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Mt. Sterling",
+  "facStateCd": "KY",
+  "countyNm": "MONTGOMERY",
+  "facZipCd": "40353",
+  "facZip4Cd": "9087",
+  "receiptDa": "2023-08-17T00:00:00.000",
+  "facLatDecMs": "38.092778",
+  "facLongDecMs": "-83.901389",
+  "lepcNm": "Montgomery LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Montgomery County LEPC",
+    "agencyPhoneNm": "8594983825",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106670"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106670"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106670"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106670"
+    }
+  }
+}

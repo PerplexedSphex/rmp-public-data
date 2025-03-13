@@ -1,0 +1,79 @@
+{
+  "facilityId": 40640,
+  "epaFacId": "100000162799",
+  "facNm": "BodycoteThermal Processing",
+  "parntCo1Nm": "Bodycote International",
+  "facDunsNu": 46130720,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "284 Grove Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Worcester",
+  "facStateCd": "MA",
+  "countyNm": "WORCESTER",
+  "facZipCd": "01605",
+  "facZip4Cd": null,
+  "receiptDa": "2004-09-27T00:00:00.000",
+  "facLatDecMs": "42.286306",
+  "facLongDecMs": "-071.806500",
+  "lepcNm": "Worcester LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2008-12-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Worcester Fire Department",
+    "agencyPhoneNm": "5087991816",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40640"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Metal Heat Treating ",
+          "naicsCd": "332811",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332811"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40640"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40640"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40640"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106625,
+  "epaFacId": "100000221734",
+  "facNm": "AdvancePierre Foods-Enterprise Production",
+  "parntCo1Nm": "Tyson Foods",
+  "facDunsNu": 48465686,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5110 Enterprise Blvd.",
+  "facStreet2Tx": "",
+  "facCityNm": "Enid",
+  "facStateCd": "OK",
+  "countyNm": "GARFIELD",
+  "facZipCd": "73701",
+  "facZip4Cd": "9711",
+  "receiptDa": "2023-08-28T00:00:00.000",
+  "facLatDecMs": "36.415778",
+  "facLongDecMs": "-97.804217",
+  "lepcNm": "Garfield LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Enid Fire Department",
+    "agencyPhoneNm": "5802340541",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106625"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106625"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106625"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106625"
+    }
+  }
+}

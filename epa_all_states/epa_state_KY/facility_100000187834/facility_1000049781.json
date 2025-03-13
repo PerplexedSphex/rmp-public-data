@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000049781,
+  "epaFacId": "100000187834",
+  "facNm": "Smithfield Farmland Corp.",
+  "parntCo1Nm": "Smithfield Foods Inc ",
+  "facDunsNu": 98095474,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "828 South 23rd Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Middlesboro",
+  "facStateCd": "KY",
+  "countyNm": "BELL",
+  "facZipCd": "40965",
+  "facZip4Cd": null,
+  "receiptDa": "2015-05-21T00:00:00.000",
+  "facLatDecMs": "36.597039",
+  "facLongDecMs": "-083.722670",
+  "lepcNm": "Bell County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Middlesboro Fire Department",
+    "agencyPhoneNm": "6062482121",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049781"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049781"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049781"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049781"
+    }
+  }
+}

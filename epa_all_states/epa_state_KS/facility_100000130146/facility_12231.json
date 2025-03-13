@@ -1,0 +1,79 @@
+{
+  "facilityId": 12231,
+  "epaFacId": "100000130146",
+  "facNm": "National Beef Packing Company, L.P, Liberal, KS",
+  "parntCo1Nm": "Farmland Industries, Inc.",
+  "facDunsNu": 147474795,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1501 E. 8th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Liberal",
+  "facStateCd": "KS",
+  "countyNm": "SEWARD",
+  "facZipCd": "67905",
+  "facZip4Cd": "0978",
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "37.035",
+  "facLongDecMs": "100.919167",
+  "lepcNm": "Seward County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": null,
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC",
+    "agencyPhoneNm": "3166265801",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12231"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12231"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12231"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12231"
+    }
+  }
+}

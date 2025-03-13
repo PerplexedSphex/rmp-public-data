@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000007781,
+  "epaFacId": "100000130459",
+  "facNm": "II-VI INCORPORATED",
+  "parntCo1Nm": null,
+  "facDunsNu": 55529333,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "375 SAXONBURG BLVD.",
+  "facStreet2Tx": null,
+  "facCityNm": "SAXONBURG",
+  "facStateCd": "PA",
+  "countyNm": "BUTLER",
+  "facZipCd": "16056",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-19T00:00:00.000",
+  "facLatDecMs": "40.731667",
+  "facLongDecMs": "-079.818333",
+  "lepcNm": "Butler County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Butler County LEPC",
+    "agencyPhoneNm": "7242845211",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007781"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "325188",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325188"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen selenide",
+          "casNu": "7783-07-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/64"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007781"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007781"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000007781"
+    }
+  }
+}

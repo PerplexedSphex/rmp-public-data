@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000104568,
+  "epaFacId": "100000238003",
+  "facNm": "EpiWorks Inc",
+  "parntCo1Nm": "Coherent Corp",
+  "facDunsNu": 44534407,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1606 Rion Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Champaign",
+  "facStateCd": "IL",
+  "countyNm": "CHAMPAIGN",
+  "facZipCd": "61822",
+  "facZip4Cd": "9598",
+  "receiptDa": "2023-04-18T00:00:00.000",
+  "facLatDecMs": "40.159701",
+  "facLongDecMs": "-88.271424",
+  "lepcNm": "Champaign County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Champaign Fire Department",
+    "agencyPhoneNm": "2174037212",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104568"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Semiconductor and Related Device Manufacturing ",
+          "naicsCd": "334413",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/334413"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Arsine",
+          "casNu": "7784-42-1",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/67"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104568"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104568"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104568"
+    }
+  }
+}

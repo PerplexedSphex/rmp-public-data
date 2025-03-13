@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000022949,
+  "epaFacId": "100000117571",
+  "facNm": "Seneca Foods Corporation",
+  "parntCo1Nm": null,
+  "facDunsNu": 2207322,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "430 7th Avenue South",
+  "facStreet2Tx": "P. O. Box 232",
+  "facCityNm": "Buhl",
+  "facStateCd": "ID",
+  "countyNm": "TWIN FALLS",
+  "facZipCd": "83316",
+  "facZip4Cd": null,
+  "receiptDa": "2011-07-07T00:00:00.000",
+  "facLatDecMs": "42.597889",
+  "facLongDecMs": "-114.749054",
+  "lepcNm": "Twin Falls County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Buhl City Fire Department",
+    "agencyPhoneNm": "2085435664",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022949"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022949"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022949"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022949"
+    }
+  }
+}

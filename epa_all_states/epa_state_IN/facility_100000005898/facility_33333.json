@@ -1,0 +1,79 @@
+{
+  "facilityId": 33333,
+  "epaFacId": "100000005898",
+  "facNm": "Air Products, Butler, IN",
+  "parntCo1Nm": "Air Products and Chemicals",
+  "facDunsNu": 838169357,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4590 County Road 59",
+  "facStreet2Tx": null,
+  "facCityNm": "Butler",
+  "facStateCd": "IN",
+  "countyNm": "DE KALB",
+  "facZipCd": "46721",
+  "facZip4Cd": "9747",
+  "receiptDa": "2004-06-18T00:00:00.000",
+  "facLatDecMs": "41.365556",
+  "facLongDecMs": "-084.908611",
+  "lepcNm": "Dekalb County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "De Kalb LEPC",
+    "agencyPhoneNm": "2609251392",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33333"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33333"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33333"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33333"
+    }
+  }
+}

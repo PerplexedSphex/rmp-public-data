@@ -1,0 +1,90 @@
+{
+  "facilityId": 22001,
+  "epaFacId": "100000172403",
+  "facNm": "Sinking Spring Facility",
+  "parntCo1Nm": "Columbia Propane Corporation",
+  "facDunsNu": 3407681,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "915 Mountain Home Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Spring Township",
+  "facStateCd": "PA",
+  "countyNm": "BERKS",
+  "facZipCd": "19608",
+  "facZip4Cd": null,
+  "receiptDa": "2000-10-04T00:00:00.000",
+  "facLatDecMs": "40.318611",
+  "facLongDecMs": "-76.038611",
+  "lepcNm": "Berks Cty Emerg. Mngmnt Agency",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "West Wyomissing Fire Department",
+    "agencyPhoneNm": "6106789724",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22001"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals",
+          "naicsCd": "42271",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42271"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethyl mercaptan [Ethanethiol]",
+          "casNu": "75-08-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/105"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22001"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22001"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22001"
+    }
+  }
+}

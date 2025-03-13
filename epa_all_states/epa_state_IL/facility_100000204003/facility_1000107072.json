@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000107072,
+  "epaFacId": "100000204003",
+  "facNm": "Sysco Food Services, Des Plaines, Freezer",
+  "parntCo1Nm": "Sysco Corporation",
+  "facDunsNu": 806550604,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "501 S. Wolf Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Des Plaines",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60016",
+  "facZip4Cd": "3192",
+  "receiptDa": "2023-09-19T00:00:00.000",
+  "facLatDecMs": "42.043480",
+  "facLongDecMs": "-87.911090",
+  "lepcNm": "Cook County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Des Plaines Fire Department",
+    "agencyPhoneNm": "8473915333",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107072"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Grocery and Related Products Merchant Wholesalers ",
+          "naicsCd": "42449",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42449"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107072"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107072"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107072"
+    }
+  }
+}

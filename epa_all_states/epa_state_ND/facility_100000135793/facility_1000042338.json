@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000042338,
+  "epaFacId": "100000135793",
+  "facNm": "CHS Inc. - Antler NH3 Plant",
+  "parntCo1Nm": "CHS Inc.",
+  "facDunsNu": 6147177,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "101 Main St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Antler",
+  "facStateCd": "ND",
+  "countyNm": "BOTTINEAU",
+  "facZipCd": "58711",
+  "facZip4Cd": "0086",
+  "receiptDa": "2015-06-15T00:00:00.000",
+  "facLatDecMs": "48.969438",
+  "facLongDecMs": "-101.285174",
+  "lepcNm": "Bottineau County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Local Fire Department",
+    "agencyPhoneNm": "9110000000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042338"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Farm Supplies Merchant Wholesalers ",
+          "naicsCd": "42491",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42491"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042338"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042338"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042338"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000009263,
+  "epaFacId": "100000145504",
+  "facNm": "Great Lakes Cheese Co., Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 18219808,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "17825 Great Lakes Parkway",
+  "facStreet2Tx": null,
+  "facCityNm": "Hiram",
+  "facStateCd": "OH",
+  "countyNm": "GEAUGA",
+  "facZipCd": "44234",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-29T00:00:00.000",
+  "facLatDecMs": "41.386667",
+  "facLongDecMs": "-081.182778",
+  "lepcNm": "Geauga County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Troy Township Fire Department",
+    "agencyPhoneNm": "4408341810",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009263"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009263"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009263"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009263"
+    }
+  }
+}

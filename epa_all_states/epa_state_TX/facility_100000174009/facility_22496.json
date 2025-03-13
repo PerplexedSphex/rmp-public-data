@@ -1,0 +1,79 @@
+{
+  "facilityId": 22496,
+  "epaFacId": "100000174009",
+  "facNm": "Anton Irish CO2 Re-Injection Facility",
+  "parntCo1Nm": "Occidental Permian Limited",
+  "facDunsNu": 795956205,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Route 2 Box 31",
+  "facStreet2Tx": null,
+  "facCityNm": "Abernathy",
+  "facStateCd": "TX",
+  "countyNm": "HALE",
+  "facZipCd": "79311",
+  "facZip4Cd": null,
+  "receiptDa": "2001-01-22T00:00:00.000",
+  "facLatDecMs": "33.839167",
+  "facLongDecMs": "-102.050278",
+  "lepcNm": "Hale County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hale County LEPC (Marvin Sistruck)",
+    "agencyPhoneNm": "8062915284",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22496"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22496"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22496"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22496"
+    }
+  }
+}

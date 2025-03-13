@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000112192,
+  "epaFacId": "100000241678",
+  "facNm": "Rana Meal Solutions",
+  "parntCo1Nm": "",
+  "facDunsNu": 42408163,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1370 Brewster Creek Boulevard",
+  "facStreet2Tx": "",
+  "facCityNm": "Bartlett",
+  "facStateCd": "IL",
+  "countyNm": "DUPAGE",
+  "facZipCd": "60103",
+  "facZip4Cd": "",
+  "receiptDa": "2024-04-02T00:00:00.000",
+  "facLatDecMs": "41.9836111",
+  "facLongDecMs": "-88.2297222",
+  "lepcNm": "Dupage County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Bartlett Fire Department",
+    "agencyPhoneNm": "6308373701",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112192"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112192"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112192"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112192"
+    }
+  }
+}

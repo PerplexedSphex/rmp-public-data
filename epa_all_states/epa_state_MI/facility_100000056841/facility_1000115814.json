@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000115814,
+  "epaFacId": "100000056841",
+  "facNm": "Wastewater Treatment Plant",
+  "parntCo1Nm": "City of Battle Creek",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2000 W. River Rd",
+  "facStreet2Tx": "",
+  "facCityNm": "Battle Creek",
+  "facStateCd": "MI",
+  "countyNm": "CALHOUN",
+  "facZipCd": "49037",
+  "facZip4Cd": "",
+  "receiptDa": "2024-07-09T00:00:00.000",
+  "facLatDecMs": "42.346315",
+  "facLongDecMs": "-085.267300",
+  "lepcNm": "Calhoun County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Battle Creek Fire Dept. (HAZMAT)",
+    "agencyPhoneNm": "2699663557",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115814"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115814"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115814"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000115814"
+    }
+  }
+}

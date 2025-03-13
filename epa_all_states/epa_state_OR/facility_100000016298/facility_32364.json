@@ -1,0 +1,79 @@
+{
+  "facilityId": 32364,
+  "epaFacId": "100000016298",
+  "facNm": "Hermiston Generating Plant",
+  "parntCo1Nm": "National Energy and Gas Transmission",
+  "facDunsNu": 938683505,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "78145 Westland Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Hermiston",
+  "facStateCd": "OR",
+  "countyNm": "UMATILLA",
+  "facZipCd": "97838",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-17T00:00:00.000",
+  "facLatDecMs": "45.824722",
+  "facLongDecMs": "-119.347778",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hermiston Fire Department",
+    "agencyPhoneNm": "5415678822",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32364"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32364"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32364"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32364"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000014896,
+  "epaFacId": "100000056093",
+  "facNm": "Tyson Retail Deli, Inc. Cherokee, IA",
+  "parntCo1Nm": "Tyson Foods, Inc.",
+  "facDunsNu": 5569397,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1300 South Lake Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Cherokee",
+  "facStateCd": "IA",
+  "countyNm": "CHEROKEE",
+  "facZipCd": "51012",
+  "facZip4Cd": null,
+  "receiptDa": "2010-07-23T00:00:00.000",
+  "facLatDecMs": "42.7298104",
+  "facLongDecMs": "-095.560557",
+  "lepcNm": "Cherokee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2014-11-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cherokee Fire Department",
+    "agencyPhoneNm": "7122253906",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014896"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014896"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014896"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014896"
+    }
+  }
+}

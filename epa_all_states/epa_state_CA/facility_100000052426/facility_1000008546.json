@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000008546,
+  "epaFacId": "100000052426",
+  "facNm": "Anheuser-Busch Inc. - Fairfield Brewery",
+  "parntCo1Nm": "Anheuser-Busch Companies",
+  "facDunsNu": 6288799,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3101 Busch Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Fairfield",
+  "facStateCd": "CA",
+  "countyNm": "SOLANO",
+  "facZipCd": "94534",
+  "facZip4Cd": "9726",
+  "receiptDa": "2009-06-19T00:00:00.000",
+  "facLatDecMs": "38.237785",
+  "facLongDecMs": "-122.094610",
+  "lepcNm": "Solano County Envrnmtal Mngmt",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Solano County Dept. of Envir. Mgt.",
+    "agencyPhoneNm": "7074216765",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008546"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008546"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008546"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000008546"
+    }
+  }
+}

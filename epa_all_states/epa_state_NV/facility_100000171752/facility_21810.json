@@ -1,0 +1,97 @@
+{
+  "facilityId": 21810,
+  "epaFacId": "100000171752",
+  "facNm": "HAZMAT Spill Center",
+  "parntCo1Nm": "US Department of Energy",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Area 5 Nevada Test Site",
+  "facStreet2Tx": null,
+  "facCityNm": "Mercury",
+  "facStateCd": "NV",
+  "countyNm": "NYE",
+  "facZipCd": "89023",
+  "facZip4Cd": null,
+  "receiptDa": "2000-09-01T00:00:00.000",
+  "facLatDecMs": "36.8",
+  "facLongDecMs": "-115.966667",
+  "lepcNm": "Nye County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2011-01-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bechtel Nevada NTS Fire Department",
+    "agencyPhoneNm": "7022956400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21810"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Other General Government Support ",
+          "naicsCd": "92119",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/92119"
+            }
+          }
+        },
+        {
+          "description": "Research and Development in the Physical, Engineering, and Life Sciences",
+          "naicsCd": "54171",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/54171"
+            }
+          }
+        },
+        {
+          "description": "National Security ",
+          "naicsCd": "92811",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/92811"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21810"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21810"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21810"
+    }
+  }
+}

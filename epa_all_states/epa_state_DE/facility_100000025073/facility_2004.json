@@ -1,0 +1,90 @@
+{
+  "facilityId": 2004,
+  "epaFacId": "100000025073",
+  "facNm": "Chloramone, Inc.",
+  "parntCo1Nm": "Kuehne Chemical Co., Inc.",
+  "facDunsNu": 157688847,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1645 River Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Delaware City",
+  "facStateCd": "DE",
+  "countyNm": "NEW CASTLE",
+  "facZipCd": "19706",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-10T00:00:00.000",
+  "facLatDecMs": "39.605556",
+  "facLongDecMs": "-75.629722",
+  "lepcNm": "New Castle LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "NEWCASTLE COUNTY EMERGENCY RESPONSE",
+    "agencyPhoneNm": "3028343552",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2004"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Alkalies and Chlorine Manufacturing",
+          "naicsCd": "325181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2004"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2004"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2004"
+    }
+  }
+}

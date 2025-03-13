@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000009142,
+  "epaFacId": "100000185417",
+  "facNm": "Linde Gas PR Inc.  Guayanilla",
+  "parntCo1Nm": "Linde Gas North America, LLC",
+  "facDunsNu": 90044413,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "State Rd 127  Km 12 Hm 7",
+  "facStreet2Tx": "Barrio Magas",
+  "facCityNm": "Guayanilla",
+  "facStateCd": "PR",
+  "countyNm": "GUAYANILLA",
+  "facZipCd": "00656",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-23T00:00:00.000",
+  "facLatDecMs": "18.002305",
+  "facLongDecMs": "-066.756315",
+  "lepcNm": "ID PR 103 PONCE,PR",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Department",
+    "agencyPhoneNm": "7873432320",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009142"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen chloride (anhydrous) [Hydrochloric acid]",
+          "casNu": "7647-01-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/54"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methylamine  [Methanamine]",
+          "casNu": "74-89-5",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/97"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009142"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009142"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009142"
+    }
+  }
+}

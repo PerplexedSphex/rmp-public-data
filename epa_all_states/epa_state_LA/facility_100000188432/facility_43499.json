@@ -1,0 +1,101 @@
+{
+  "facilityId": 43499,
+  "epaFacId": "100000188432",
+  "facNm": "Delta Terminal Services, LLC (Metaire Warehouse)",
+  "parntCo1Nm": "Delta Terminal Services, LLC",
+  "facDunsNu": 838050581,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "309 Jefferson Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "Jefferson",
+  "facStateCd": "LA",
+  "countyNm": "JEFFERSON",
+  "facZipCd": "70121",
+  "facZip4Cd": "2512",
+  "receiptDa": "2005-08-02T00:00:00.000",
+  "facLatDecMs": "29.969722",
+  "facLongDecMs": "-090.131667",
+  "lepcNm": "Jefferson Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2006-12-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jefferson Parish Fire Department",
+    "agencyPhoneNm": "9110000000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43499"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Warehousing and Storage",
+          "naicsCd": "49319",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49319"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Cyclohexylamine  [Cyclohexanamine]",
+          "casNu": "108-91-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/31"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Isopropylamine [2-Propanamine]",
+          "casNu": "75-31-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/109"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Dimethylamine  [Methanamine, N-methyl-]",
+          "casNu": "124-40-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/133"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43499"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43499"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/43499"
+    }
+  }
+}

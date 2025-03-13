@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000104042,
+  "epaFacId": "100000234784",
+  "facNm": "Linde Gas & Equipment - Blythewood",
+  "parntCo1Nm": "Linde Inc.",
+  "facDunsNu": 42845636,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10800 Farrow Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Blythewood",
+  "facStateCd": "SC",
+  "countyNm": "RICHLAND",
+  "facZipCd": "29016",
+  "facZip4Cd": "0805",
+  "receiptDa": "2023-01-20T00:00:00.000",
+  "facLatDecMs": "34.181843",
+  "facLongDecMs": "-80.959221",
+  "lepcNm": "Richland County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Killian Fire Department",
+    "agencyPhoneNm": "8037540978",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104042"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Acetylene  [Ethyne]",
+          "casNu": "74-86-2",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/96"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104042"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104042"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104042"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000110226,
+  "epaFacId": "100000086104",
+  "facNm": "Balchem Corporation - St. Gabriel",
+  "parntCo1Nm": "Balchem Corporation",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3830 Hwy. 30",
+  "facStreet2Tx": "",
+  "facCityNm": "St. Gabriel",
+  "facStateCd": "LA",
+  "countyNm": "IBERVILLE",
+  "facZipCd": "70776",
+  "facZip4Cd": "",
+  "receiptDa": "2024-02-20T00:00:00.000",
+  "facLatDecMs": "30.24916",
+  "facLongDecMs": "-091.08888",
+  "lepcNm": "Iberville Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Iberville Office of Emergency Prep",
+    "agencyPhoneNm": "2256875140",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110226"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Animal Food Manufacturing ",
+          "naicsCd": "311119",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311119"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethylene oxide  [Oxirane]",
+          "casNu": "75-21-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/9"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Trimethylamine [Methanamine, N,N-dimethyl-]",
+          "casNu": "75-50-3",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/113"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110226"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110226"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000110226"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000102302,
+  "epaFacId": "100000079336",
+  "facNm": "FXI, Inc. - Auburn",
+  "parntCo1Nm": "FXI, Inc.",
+  "facDunsNu": 831446518,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2211 South Wayne Street",
+  "facStreet2Tx": "",
+  "facCityNm": "Auburn",
+  "facStateCd": "IN",
+  "countyNm": "DE KALB",
+  "facZipCd": "46706",
+  "facZip4Cd": "",
+  "receiptDa": "2022-08-31T00:00:00.000",
+  "facLatDecMs": "41.348329",
+  "facLongDecMs": "-085.064725",
+  "lepcNm": "Dekalb County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "DeKalb County LEPC",
+    "agencyPhoneNm": "2609251392",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102302"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Urethane and Other Foam Product (except Polystyrene) Manufacturing",
+          "naicsCd": "32615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene diisocyanate (unspecified isomer)  [Benzene, 1,3-diisocyanatomethyl-]",
+          "casNu": "26471-62-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/77"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102302"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102302"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000102302"
+    }
+  }
+}

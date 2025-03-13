@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000004237,
+  "epaFacId": "100000119837",
+  "facNm": "Twin State, Inc. - Hampton",
+  "parntCo1Nm": "Twin State, Inc.",
+  "facDunsNu": 96522693,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1455 140th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Hampton",
+  "facStateCd": "IA",
+  "countyNm": "FRANKLIN",
+  "facZipCd": "50441",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-03T00:00:00.000",
+  "facLatDecMs": "42.743889",
+  "facLongDecMs": "-093.207222",
+  "lepcNm": "Franklin County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hampton Fire Department",
+    "agencyPhoneNm": "5154562527",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004237"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fertilizer (Mixing Only) Manufacturing ",
+          "naicsCd": "325314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004237"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004237"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000004237"
+    }
+  }
+}

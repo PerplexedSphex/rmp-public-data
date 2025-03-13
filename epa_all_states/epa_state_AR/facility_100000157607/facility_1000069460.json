@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000069460,
+  "epaFacId": "100000157607",
+  "facNm": "George's, Processing Plant",
+  "parntCo1Nm": "George's Processing",
+  "facDunsNu": 103649281,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1306 N. Kansas",
+  "facStreet2Tx": null,
+  "facCityNm": "Springdale",
+  "facStateCd": "AR",
+  "countyNm": "WASHINGTON",
+  "facZipCd": "72762",
+  "facZip4Cd": null,
+  "receiptDa": "2019-04-01T16:12:25.000",
+  "facLatDecMs": "36.198531",
+  "facLongDecMs": "-094.139374",
+  "lepcNm": "Washington LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sprindale Fire Department",
+    "agencyPhoneNm": "4797514510",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069460"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069460"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069460"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069460"
+    }
+  }
+}

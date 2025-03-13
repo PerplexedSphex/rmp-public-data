@@ -1,0 +1,79 @@
+{
+  "facilityId": 23950,
+  "epaFacId": "100000122761",
+  "facNm": "Foremost Farms (aka Morning Glory Dairy)",
+  "parntCo1Nm": "Foremost Farms USA",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3399 South Ridge Road",
+  "facStreet2Tx": null,
+  "facCityNm": "De Pere",
+  "facStateCd": "WI",
+  "countyNm": "BROWN",
+  "facZipCd": "54115",
+  "facZip4Cd": "9522",
+  "receiptDa": "2001-08-20T00:00:00.000",
+  "facLatDecMs": "44.457944",
+  "facLongDecMs": "-88.0985",
+  "lepcNm": "Ashwaubenon Public Safety",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ashwaubenon Public Safety",
+    "agencyPhoneNm": "9204922995",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23950"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23950"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23950"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23950"
+    }
+  }
+}

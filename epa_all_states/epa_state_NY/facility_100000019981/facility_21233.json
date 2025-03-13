@@ -1,0 +1,90 @@
+{
+  "facilityId": 21233,
+  "epaFacId": "100000019981",
+  "facNm": "CYTEC OLEAN INC",
+  "parntCo1Nm": "CYTEC INDUSTRIES INC.",
+  "facDunsNu": 106812555,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1405 Buffalo Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Olean",
+  "facStateCd": "NY",
+  "countyNm": "CATTARAUGUS",
+  "facZipCd": "14760",
+  "facZip4Cd": "1139",
+  "receiptDa": "2000-05-04T00:00:00.000",
+  "facLatDecMs": "42.084361",
+  "facLongDecMs": "-78.445278",
+  "lepcNm": "Cattaraugus County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cattaraugus County LEPC",
+    "agencyPhoneNm": "7169389111",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21233"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Resin and Synthetic Rubber Manufacturing",
+          "naicsCd": "32521",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32521"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,4-diisocyanate  [Benzene, 2,4-diisocyanato-1-methyl-]",
+          "casNu": "584-84-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/44"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene diisocyanate (unspecified isomer)  [Benzene, 1,3-diisocyanatomethyl-]",
+          "casNu": "26471-62-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/77"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21233"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21233"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/21233"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 16550,
+  "epaFacId": "100000159605",
+  "facNm": "AmeriCold Logistics Plant # 75161",
+  "parntCo1Nm": "Vornado/Crescent RIT",
+  "facDunsNu": 7909116,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1005 Rail Head Dr.",
+  "facStreet2Tx": null,
+  "facCityNm": "Ft. Worth",
+  "facStateCd": "TX",
+  "countyNm": "TARRANT",
+  "facZipCd": "76177",
+  "facZip4Cd": null,
+  "receiptDa": "1999-08-20T00:00:00.000",
+  "facLatDecMs": "32.98",
+  "facLongDecMs": "-97.3325",
+  "lepcNm": "Tarrant County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fire Dept",
+    "agencyPhoneNm": "0000000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16550"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16550"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16550"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/16550"
+    }
+  }
+}

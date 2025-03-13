@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000105146,
+  "epaFacId": "100000082992",
+  "facNm": "JEC",
+  "parntCo1Nm": "Agropur, Inc.",
+  "facDunsNu": 796262764,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "547 West Nez Perce Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Jerome",
+  "facStateCd": "ID",
+  "countyNm": "JEROME",
+  "facZipCd": "83338",
+  "facZip4Cd": "0000",
+  "receiptDa": "2023-05-08T00:00:00.000",
+  "facLatDecMs": "42.708639",
+  "facLongDecMs": "-114.526174",
+  "lepcNm": "Jerome County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jerome County Office of Emergency M",
+    "agencyPhoneNm": "2085953351",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105146"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105146"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105146"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000105146"
+    }
+  }
+}

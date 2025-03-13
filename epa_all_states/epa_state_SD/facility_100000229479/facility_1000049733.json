@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000049733,
+  "epaFacId": "100000229479",
+  "facNm": "Big Stone Plant",
+  "parntCo1Nm": "Otter Tail Power Company",
+  "facDunsNu": 6961353,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "48450 144th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Big Stone City",
+  "facStateCd": "SD",
+  "countyNm": "GRANT",
+  "facZipCd": "57216",
+  "facZip4Cd": null,
+  "receiptDa": "2015-04-24T00:00:00.000",
+  "facLatDecMs": "45.304735",
+  "facLongDecMs": "-96.511118",
+  "lepcNm": "Grant County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Big Stone City Fire Department",
+    "agencyPhoneNm": "0000000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049733"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049733"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049733"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049733"
+    }
+  }
+}

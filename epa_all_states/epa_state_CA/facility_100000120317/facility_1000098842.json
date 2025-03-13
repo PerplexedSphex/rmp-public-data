@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000098842,
+  "epaFacId": "100000120317",
+  "facNm": "HL Power Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 781261888,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "732-025 Wendel Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Wendel",
+  "facStateCd": "CA",
+  "countyNm": "LASSEN",
+  "facZipCd": "96136",
+  "facZip4Cd": "9705",
+  "receiptDa": "2022-01-07T18:33:42.000",
+  "facLatDecMs": "40.368227",
+  "facLongDecMs": "-120.263976",
+  "lepcNm": "Region III LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lassen County Emergency Dispatch",
+    "agencyPhoneNm": "5302576121",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000098842"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Biomass Electric Power Generation ",
+          "naicsCd": "221117",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221117"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000098842"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000098842"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000098842"
+    }
+  }
+}

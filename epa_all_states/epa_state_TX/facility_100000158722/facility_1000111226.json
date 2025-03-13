@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000111226,
+  "epaFacId": "100000158722",
+  "facNm": "Rohm and Haas Chemicals LLC, Lone Star Plant",
+  "parntCo1Nm": "The Dow Chemical Company",
+  "facDunsNu": 828798756,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1900 Tidal Rd.",
+  "facStreet2Tx": "",
+  "facCityNm": "Deer Park",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77536",
+  "facZip4Cd": "",
+  "receiptDa": "2024-03-07T00:00:00.000",
+  "facLatDecMs": "29.726028",
+  "facLongDecMs": "-095.102667",
+  "lepcNm": "Harris County-Deer Park Area L",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Deer Park LEPC",
+    "agencyPhoneNm": "2814791511",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000111226"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Resin and Synthetic Rubber Manufacturing",
+          "naicsCd": "32521",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32521"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Acrylonitrile  [2-Propenenitrile]",
+          "casNu": "107-13-1",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/25"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000111226"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000111226"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000111226"
+    }
+  }
+}

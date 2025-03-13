@@ -1,0 +1,79 @@
+{
+  "facilityId": 42880,
+  "epaFacId": "100000095185",
+  "facNm": "America's Catch",
+  "parntCo1Nm": null,
+  "facDunsNu": 181521154,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Sunflower Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Itta Bena",
+  "facStateCd": "MS",
+  "countyNm": "LEFLORE",
+  "facZipCd": "38941",
+  "facZip4Cd": null,
+  "receiptDa": "2004-08-16T00:00:00.000",
+  "facLatDecMs": "33.538333",
+  "facLongDecMs": "-090.395833",
+  "lepcNm": "LeFlore County, MS LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Itta Bena Fire Department",
+    "agencyPhoneNm": "6622546333",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42880"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fresh and Frozen Seafood Processing",
+          "naicsCd": "311712",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311712"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42880"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42880"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42880"
+    }
+  }
+}

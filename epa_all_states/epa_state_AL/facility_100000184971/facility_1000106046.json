@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106046,
+  "epaFacId": "100000184971",
+  "facNm": "Sysco Central Alabama",
+  "parntCo1Nm": "Sysco Corporation",
+  "facDunsNu": 35612345,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1000 Sysco Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Calera",
+  "facStateCd": "AL",
+  "countyNm": "SHELBY",
+  "facZipCd": "35040",
+  "facZip4Cd": "",
+  "receiptDa": "2023-07-12T00:00:00.000",
+  "facLatDecMs": "33.152444",
+  "facLongDecMs": "-086.756250",
+  "lepcNm": "Shelby County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Calera Fire Department",
+    "agencyPhoneNm": "2056683518",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106046"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Line Grocery Merchant Wholesalers ",
+          "naicsCd": "42441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106046"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106046"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106046"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000041964,
+  "epaFacId": "100000053416",
+  "facNm": "Primary Disinfection Facility",
+  "parntCo1Nm": "Irivine Ranch Water District",
+  "facDunsNu": 59270884,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2925 Halladay Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Santa Ana",
+  "facStateCd": "CA",
+  "countyNm": "ORANGE",
+  "facZipCd": "92705",
+  "facZip4Cd": "2925",
+  "receiptDa": "2014-06-04T00:00:00.000",
+  "facLatDecMs": "33.707944",
+  "facLongDecMs": "-117.859722",
+  "lepcNm": "California Region 1 LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2020-05-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Santa Ana Fire Department",
+    "agencyPhoneNm": "7145422315",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041964"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041964"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041964"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041964"
+    }
+  }
+}

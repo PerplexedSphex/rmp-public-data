@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000075343,
+  "epaFacId": "100000205048",
+  "facNm": "Associated Wholesale Grocers, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 6943062,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "8100 60th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Kenosha",
+  "facStateCd": "WI",
+  "countyNm": "KENOSHA",
+  "facZipCd": "53144",
+  "facZip4Cd": "7863",
+  "receiptDa": "2019-01-09T16:59:45.000",
+  "facLatDecMs": "42.581987",
+  "facLongDecMs": "-087.910085",
+  "lepcNm": "Kenosha LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kenosha Fire Department",
+    "agencyPhoneNm": "2626537210",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075343"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075343"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075343"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000075343"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000103429,
+  "epaFacId": "100000235596",
+  "facNm": "Kraft Heinz - Davenport",
+  "parntCo1Nm": "The Kraft Heinz Company",
+  "facDunsNu": 4318846,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "9401 Granite Way",
+  "facStreet2Tx": "",
+  "facCityNm": "Davenport",
+  "facStateCd": "IA",
+  "countyNm": "SCOTT",
+  "facZipCd": "52806",
+  "facZip4Cd": "",
+  "receiptDa": "2022-12-02T00:00:00.000",
+  "facLatDecMs": "41.617578",
+  "facLongDecMs": "-90.612417",
+  "lepcNm": "Scott County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Davenport Fire Department",
+    "agencyPhoneNm": "5633267906",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103429"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103429"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103429"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000103429"
+    }
+  }
+}

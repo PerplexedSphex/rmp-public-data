@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000010996,
+  "epaFacId": "100000088861",
+  "facNm": "Linde Gas North America LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 132970505,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "11603 Strang Road",
+  "facStreet2Tx": null,
+  "facCityNm": "LaPorte",
+  "facStateCd": "TX",
+  "countyNm": "HARRIS",
+  "facZipCd": "77571",
+  "facZip4Cd": null,
+  "receiptDa": "2009-09-17T00:00:00.000",
+  "facLatDecMs": "29.706291",
+  "facLongDecMs": "-095.057016",
+  "lepcNm": "LaPorte LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LaPorte LEPC",
+    "agencyPhoneNm": "2814712141",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010996"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene  [1-Propene]",
+          "casNu": "115-07-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/129"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010996"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010996"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010996"
+    }
+  }
+}

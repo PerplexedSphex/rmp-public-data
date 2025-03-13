@@ -1,0 +1,88 @@
+{
+  "facilityId": 22618,
+  "epaFacId": "100000074536",
+  "facNm": "McGlynn Bakeries, Inc",
+  "parntCo1Nm": null,
+  "facDunsNu": 22919112,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7350 Commerce lane NE",
+  "facStreet2Tx": null,
+  "facCityNm": "Fridley",
+  "facStateCd": "MN",
+  "countyNm": "ANOKA",
+  "facZipCd": "55432",
+  "facZip4Cd": "3189",
+  "receiptDa": "1999-07-19T00:00:00.000",
+  "facLatDecMs": "45.101556",
+  "facLongDecMs": "-93.266278",
+  "lepcNm": "Minnesota LEPCs",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2024-12-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fridley Fire Department",
+    "agencyPhoneNm": "6125723611",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22618"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Retail Bakeries ",
+          "naicsCd": "311811",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311811"
+            }
+          }
+        },
+        {
+          "description": "Frozen Cakes, Pies, and Other Pastries Manufacturing ",
+          "naicsCd": "311813",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311813"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22618"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22618"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22618"
+    }
+  }
+}

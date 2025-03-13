@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000032200,
+  "epaFacId": "100000209785",
+  "facNm": "F&A Dairy Products Inc. - New Mexico Plant",
+  "parntCo1Nm": "N/A",
+  "facDunsNu": 197641103,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "355 S. Crawford Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Las Cruces",
+  "facStateCd": "NM",
+  "countyNm": "DONA ANA",
+  "facZipCd": "88007",
+  "facZip4Cd": "9004",
+  "receiptDa": "2013-01-16T00:00:00.000",
+  "facLatDecMs": "32.266442",
+  "facLongDecMs": "-106.917833",
+  "lepcNm": "Dona Ana LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2017-10-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Dona Ana EPCRA",
+    "agencyPhoneNm": "5756477900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032200"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032200"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032200"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000032200"
+    }
+  }
+}

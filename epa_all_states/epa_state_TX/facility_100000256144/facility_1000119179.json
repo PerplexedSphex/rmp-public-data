@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000119179,
+  "epaFacId": "100000256144",
+  "facNm": "Janus Gas Plant",
+  "parntCo1Nm": "Pecan Pipeline Company",
+  "facDunsNu": 186830733,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "237 Private Road 3030",
+  "facStreet2Tx": "",
+  "facCityNm": "Mentone",
+  "facStateCd": "TX",
+  "countyNm": "LOVING",
+  "facZipCd": "79707",
+  "facZip4Cd": "",
+  "receiptDa": "2025-01-14T00:00:00.000",
+  "facLatDecMs": "31.988750",
+  "facLongDecMs": "-103.716030",
+  "lepcNm": "Loving County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Loving County LEPC",
+    "agencyPhoneNm": "4329407934",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119179"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Extraction ",
+          "naicsCd": "21113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119179"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119179"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000119179"
+    }
+  }
+}

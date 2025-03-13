@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000079078,
+  "epaFacId": "100000138754",
+  "facNm": "Butterball, LLC",
+  "parntCo1Nm": "Butterball, LLC",
+  "facDunsNu": 67027052,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "411 North Main Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Carthage",
+  "facStateCd": "MO",
+  "countyNm": "JASPER",
+  "facZipCd": "64836",
+  "facZip4Cd": null,
+  "receiptDa": "2019-05-15T08:24:33.000",
+  "facLatDecMs": "37.183073",
+  "facLongDecMs": "-094.311455",
+  "lepcNm": "Jasper County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Carthage Fire Department",
+    "agencyPhoneNm": "4172377100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079078"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079078"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079078"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079078"
+    }
+  }
+}

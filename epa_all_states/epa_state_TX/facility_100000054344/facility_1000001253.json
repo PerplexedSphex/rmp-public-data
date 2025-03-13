@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000001253,
+  "epaFacId": "100000054344",
+  "facNm": "TYSON FOODS, INC. CARTHAGE, TX",
+  "parntCo1Nm": "TYSON FOODS, INC.",
+  "facDunsNu": 56781693,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1484 NE LOOP 436",
+  "facStreet2Tx": null,
+  "facCityNm": "CARTHAGE",
+  "facStateCd": "TX",
+  "countyNm": "PANOLA",
+  "facZipCd": "75633",
+  "facZip4Cd": null,
+  "receiptDa": "2009-05-26T00:00:00.000",
+  "facLatDecMs": "32.144733",
+  "facLongDecMs": "-094.327553",
+  "lepcNm": "Panola County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Carthage Volunteer Fire Department",
+    "agencyPhoneNm": "9036933211",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001253"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001253"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001253"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000001253"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000039922,
+  "epaFacId": "100000160489",
+  "facNm": "Helena Chemical Company - Elkhorn, WI",
+  "parntCo1Nm": null,
+  "facDunsNu": 23218563,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "W 6406 County Road A",
+  "facStreet2Tx": null,
+  "facCityNm": "Elkhorn",
+  "facStateCd": "WI",
+  "countyNm": "WALWORTH",
+  "facZipCd": "53121",
+  "facZip4Cd": "2929",
+  "receiptDa": "2014-06-20T00:00:00.000",
+  "facLatDecMs": "42.7354",
+  "facLongDecMs": "-88.6172",
+  "lepcNm": "Walworth LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-11-13T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Walworth County Emergency Mgmt Dept",
+    "agencyPhoneNm": "2627414160",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039922"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Support Activities for Crop Production",
+          "naicsCd": "11511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039922"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039922"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039922"
+    }
+  }
+}

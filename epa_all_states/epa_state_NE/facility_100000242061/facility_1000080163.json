@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080163,
+  "epaFacId": "100000242061",
+  "facNm": "Lincoln Premium Poultry",
+  "parntCo1Nm": "",
+  "facDunsNu": 58548252,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1325 E. Cloverly Rd",
+  "facStreet2Tx": "",
+  "facCityNm": "Fremont",
+  "facStateCd": "NE",
+  "countyNm": "DODGE",
+  "facZipCd": "68025",
+  "facZip4Cd": "",
+  "receiptDa": "2019-08-01T00:00:00.000",
+  "facLatDecMs": "41.415874",
+  "facLongDecMs": "-96.481640",
+  "lepcNm": "Dodge LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fremont Fire Department",
+    "agencyPhoneNm": "4027272688",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080163"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080163"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080163"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080163"
+    }
+  }
+}

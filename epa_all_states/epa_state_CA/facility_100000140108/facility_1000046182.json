@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000046182,
+  "epaFacId": "100000140108",
+  "facNm": "Greenleaf  Unit 2",
+  "parntCo1Nm": "Greenleaf Unit 2 LLC",
+  "facDunsNu": 112710876,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "875 North Walton",
+  "facStreet2Tx": null,
+  "facCityNm": "Yuba City",
+  "facStateCd": "CA",
+  "countyNm": "SUTTER",
+  "facZipCd": "95993",
+  "facZip4Cd": null,
+  "receiptDa": "2014-08-19T00:00:00.000",
+  "facLatDecMs": "39.139393",
+  "facLongDecMs": "-121.639100",
+  "lepcNm": "Region III LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sutter County Fire Department",
+    "agencyPhoneNm": "5306732804",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046182"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046182"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046182"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046182"
+    }
+  }
+}

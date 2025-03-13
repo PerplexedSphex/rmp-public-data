@@ -1,0 +1,79 @@
+{
+  "facilityId": 12333,
+  "epaFacId": "100000129461",
+  "facNm": "Valley Sweet, LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 293716469,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "13129 Ave 248",
+  "facStreet2Tx": null,
+  "facCityNm": "Tulare",
+  "facStateCd": "CA",
+  "countyNm": "TULARE",
+  "facZipCd": "93274",
+  "facZip4Cd": "9333",
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "36.210806",
+  "facLongDecMs": "-119.2805",
+  "lepcNm": null,
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2005-06-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tulare County Fire Dept.",
+    "agencyPhoneNm": "5597347477",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12333"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Farm Product Warehousing and Storage",
+          "naicsCd": "49313",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49313"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12333"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12333"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12333"
+    }
+  }
+}

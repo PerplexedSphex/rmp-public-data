@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000050259,
+  "epaFacId": "100000192677",
+  "facNm": "Gehl Foods, LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 6087951,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "N116 W15970 Main Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Germantown",
+  "facStateCd": "WI",
+  "countyNm": "WASHINGTON",
+  "facZipCd": "53022",
+  "facZip4Cd": "8204",
+  "receiptDa": "2015-06-11T00:00:00.000",
+  "facLatDecMs": "43.228611",
+  "facLongDecMs": "-088.107500",
+  "lepcNm": "Washington County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Germantown Fire Department",
+    "agencyPhoneNm": "2622537795",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050259"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050259"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050259"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000050259"
+    }
+  }
+}

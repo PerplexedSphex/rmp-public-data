@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000051919,
+  "epaFacId": "100000050213",
+  "facNm": "Crystal Distribution Services, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 790749407,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1442 Sycamore Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Waterloo",
+  "facStateCd": "IA",
+  "countyNm": "BLACK HAWK",
+  "facZipCd": "50703",
+  "facZip4Cd": "1744",
+  "receiptDa": "2015-10-09T00:00:00.000",
+  "facLatDecMs": "42.492778",
+  "facLongDecMs": "-092.324165",
+  "lepcNm": "Black Hawk County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Waterloo Fire Rescue",
+    "agencyPhoneNm": "3192914460",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051919"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051919"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051919"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051919"
+    }
+  }
+}

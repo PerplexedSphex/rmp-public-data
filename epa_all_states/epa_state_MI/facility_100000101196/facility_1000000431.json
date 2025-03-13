@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000000431,
+  "epaFacId": "100000101196",
+  "facNm": "Hanson Cold Storage Co. - Benton Harbor Division",
+  "parntCo1Nm": "Hanson Cold Storage Co.",
+  "facDunsNu": 6957203,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2875 South Pipestone Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Sodus",
+  "facStateCd": "MI",
+  "countyNm": "BERRIEN",
+  "facZipCd": "49126",
+  "facZip4Cd": null,
+  "receiptDa": "2009-05-07T00:00:00.000",
+  "facLatDecMs": "42.065556",
+  "facLongDecMs": "-086.399167",
+  "lepcNm": "Berrien County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Berrien County Hazmat Team",
+    "agencyPhoneNm": "2699837111",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000431"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000431"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000431"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000431"
+    }
+  }
+}

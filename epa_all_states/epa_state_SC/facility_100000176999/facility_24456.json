@@ -1,0 +1,79 @@
+{
+  "facilityId": 24456,
+  "epaFacId": "100000176999",
+  "facNm": "Triangle Ice Company, Inc.",
+  "parntCo1Nm": "Triangle Ice Company, Inc.",
+  "facDunsNu": 38341314,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "130 Peoples Creek Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Gaffney",
+  "facStateCd": "SC",
+  "countyNm": "CHEROKEE",
+  "facZipCd": "29340",
+  "facZip4Cd": null,
+  "receiptDa": "2001-11-05T00:00:00.000",
+  "facLatDecMs": "35.058333",
+  "facLongDecMs": "-81.6125",
+  "lepcNm": "Cherokee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Gaffney Fire Department",
+    "agencyPhoneNm": "8644872747",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24456"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Manufacturing ",
+          "naicsCd": "312113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/312113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24456"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24456"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24456"
+    }
+  }
+}

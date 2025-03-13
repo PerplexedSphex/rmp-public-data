@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000090309,
+  "epaFacId": "100000217268",
+  "facNm": "BHJ USA, LLC",
+  "parntCo1Nm": "BHJ USA, LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "81 Industrial Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Logansport",
+  "facStateCd": "IN",
+  "countyNm": "CASS",
+  "facZipCd": "46947",
+  "facZip4Cd": null,
+  "receiptDa": "2020-10-23T07:44:14.000",
+  "facLatDecMs": "40.715802",
+  "facLongDecMs": "-86.376132",
+  "lepcNm": "Cass County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Logansport Fire Department",
+    "agencyPhoneNm": "5747534103",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090309"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dog and Cat Food Manufacturing ",
+          "naicsCd": "311111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090309"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090309"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090309"
+    }
+  }
+}

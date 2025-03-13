@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000041861,
+  "epaFacId": "100000130761",
+  "facNm": "Port Hudson Operations",
+  "parntCo1Nm": "Georgia-Pacific Consumer Operations LLC",
+  "facDunsNu": 808215706,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1000 West Mount Pleasant Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Zachary",
+  "facStateCd": "LA",
+  "countyNm": "EAST BATON ROUGE",
+  "facZipCd": "70791",
+  "facZip4Cd": null,
+  "receiptDa": "2014-05-19T00:00:00.000",
+  "facLatDecMs": "30.650000",
+  "facLongDecMs": "-091.274444",
+  "lepcNm": "East Baton Rouge LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2019-03-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Zachary Fire Department",
+    "agencyPhoneNm": "2256540026",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041861"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pulp Mills",
+          "naicsCd": "32211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine dioxide  [Chlorine oxide (ClO2)]",
+          "casNu": "10049-04-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/71"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041861"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041861"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041861"
+    }
+  }
+}

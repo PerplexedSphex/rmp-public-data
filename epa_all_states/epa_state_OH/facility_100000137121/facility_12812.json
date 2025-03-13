@@ -1,0 +1,79 @@
+{
+  "facilityId": 12812,
+  "epaFacId": "100000137121",
+  "facNm": "SuperValu-Ohio Valley Division",
+  "parntCo1Nm": "SuperValu Inc.",
+  "facDunsNu": 6961411,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1003 Bellbrook Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Xenia",
+  "facStateCd": "OH",
+  "countyNm": "GREENE",
+  "facZipCd": "45385",
+  "facZip4Cd": "4066",
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "39.666667",
+  "facLongDecMs": "-83.935556",
+  "lepcNm": "Greene/Montgomery County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-09-06T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Xenia Fire Department",
+    "agencyPhoneNm": "9373767281",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12812"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12812"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12812"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12812"
+    }
+  }
+}

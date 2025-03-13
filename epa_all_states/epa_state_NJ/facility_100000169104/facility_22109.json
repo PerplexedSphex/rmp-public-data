@@ -1,0 +1,79 @@
+{
+  "facilityId": 22109,
+  "epaFacId": "100000169104",
+  "facNm": "Fairmount Chemical Company, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 2151322,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "117 Blanchard Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Newark",
+  "facStateCd": "NJ",
+  "countyNm": "ESSEX",
+  "facZipCd": "07105",
+  "facZip4Cd": null,
+  "receiptDa": "2000-05-01T00:00:00.000",
+  "facLatDecMs": "40.738889",
+  "facLongDecMs": "-74.13",
+  "lepcNm": "Newark City LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2000-07-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Newark City LEPC",
+    "agencyPhoneNm": "9737333660",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22109"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrazine",
+          "casNu": "302-01-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/38"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22109"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22109"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/22109"
+    }
+  }
+}

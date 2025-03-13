@@ -1,0 +1,79 @@
+{
+  "facilityId": 24629,
+  "epaFacId": "100000177202",
+  "facNm": "ENNIS-TRACTEBEL POWER COMPANY, LP",
+  "parntCo1Nm": "TRACTEBEL NORTH AMERICA, INC.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "4001 West Ennis Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Ennis",
+  "facStateCd": "TX",
+  "countyNm": "ELLIS",
+  "facZipCd": "75119",
+  "facZip4Cd": null,
+  "receiptDa": "2001-11-26T00:00:00.000",
+  "facLatDecMs": "32.32025",
+  "facLongDecMs": "-96.673917",
+  "lepcNm": "Ennis Fire Department",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ennis Fire Department",
+    "agencyPhoneNm": "9728753473",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24629"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Electric Power Distribution ",
+          "naicsCd": "221122",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221122"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24629"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24629"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/24629"
+    }
+  }
+}

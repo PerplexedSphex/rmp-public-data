@@ -1,0 +1,79 @@
+{
+  "facilityId": 44634,
+  "epaFacId": "100000127515",
+  "facNm": "Hilmar Cheese Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 131602112,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "9001 North Lander Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Hilmar",
+  "facStateCd": "CA",
+  "countyNm": "MERCED",
+  "facZipCd": "95324",
+  "facZip4Cd": null,
+  "receiptDa": "2006-01-09T00:00:00.000",
+  "facLatDecMs": "37.250840",
+  "facLongDecMs": "-120.510360",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "California Department of Forestry",
+    "agencyPhoneNm": "2096347070",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44634"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dairy Product (except Frozen) Manufacturing",
+          "naicsCd": "31151",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31151"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44634"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44634"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/44634"
+    }
+  }
+}

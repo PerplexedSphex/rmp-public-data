@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000000794,
+  "epaFacId": "100000038675",
+  "facNm": "Willow Springs Terminal",
+  "parntCo1Nm": "Rowell Chemical Corporation",
+  "facDunsNu": 39646591,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10100 S. Archer Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Willow Springs",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60480",
+  "facZip4Cd": "0405",
+  "receiptDa": "2009-06-03T00:00:00.000",
+  "facLatDecMs": "41.719463",
+  "facLongDecMs": "-087.905197",
+  "lepcNm": "Cook County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Willow Springs Fire Department",
+    "agencyPhoneNm": "7088392721",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000794"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "325188",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325188"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000794"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000794"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000794"
+    }
+  }
+}

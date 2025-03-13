@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000046648,
+  "epaFacId": "100000227033",
+  "facNm": "Phillips 66 Denver Terminal",
+  "parntCo1Nm": "Phillips 66 Pipeline Company LLC",
+  "facDunsNu": 78378508,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3960 E. 56th Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Commerce City",
+  "facStateCd": "CO",
+  "countyNm": "ADAMS",
+  "facZipCd": "80022",
+  "facZip4Cd": null,
+  "receiptDa": "2014-10-01T00:00:00.000",
+  "facLatDecMs": "39.795634",
+  "facLongDecMs": "-104.940437",
+  "lepcNm": "Adams County",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2014-10-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "CO Dept of Public Health & Environ ",
+    "agencyPhoneNm": "3036922000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046648"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046648"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046648"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000046648"
+    }
+  }
+}

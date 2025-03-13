@@ -1,0 +1,79 @@
+{
+  "facilityId": 50123,
+  "epaFacId": "100000114716",
+  "facNm": "Anheuser-Busch, Inc., Williamsburg Brewery",
+  "parntCo1Nm": "Anheuser-Busch Companies, Inc.",
+  "facDunsNu": 6288799,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7801 Pocahontas Trail",
+  "facStreet2Tx": null,
+  "facCityNm": "Williamsburg",
+  "facStateCd": "VA",
+  "countyNm": "JAMES CITY",
+  "facZipCd": "23185",
+  "facZip4Cd": "6302",
+  "receiptDa": "2007-11-15T00:00:00.000",
+  "facLatDecMs": "37.237500",
+  "facLongDecMs": "-076.654722",
+  "lepcNm": "Peninsula LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "James City County Fire & Rescue",
+    "agencyPhoneNm": "7572200242",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50123"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50123"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50123"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/50123"
+    }
+  }
+}

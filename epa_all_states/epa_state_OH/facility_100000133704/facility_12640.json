@@ -1,0 +1,79 @@
+{
+  "facilityId": 12640,
+  "epaFacId": "100000133704",
+  "facNm": "Kaiser Aluminum and Chemical Corporation",
+  "parntCo1Nm": "MAXXAM, Inc.",
+  "facDunsNu": 4298089,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1459 Hebron Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Heath",
+  "facStateCd": "OH",
+  "countyNm": "LICKING",
+  "facZipCd": "43056",
+  "facZip4Cd": "9999",
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "40.015278",
+  "facLongDecMs": "-82.465278",
+  "lepcNm": "Licking County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2001-12-25T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Licking County Emergecy Management",
+    "agencyPhoneNm": "7403496437",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12640"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Secondary Smelting and Alloying of Aluminum ",
+          "naicsCd": "331314",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331314"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12640"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12640"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12640"
+    }
+  }
+}

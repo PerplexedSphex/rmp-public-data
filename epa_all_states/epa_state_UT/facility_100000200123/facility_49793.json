@@ -1,0 +1,79 @@
+{
+  "facilityId": 49793,
+  "epaFacId": "100000200123",
+  "facNm": "Salina Further Processing",
+  "parntCo1Nm": "Moroni Feed Co.",
+  "facDunsNu": 127288264,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "160 S 500 W",
+  "facStreet2Tx": null,
+  "facCityNm": "Salina",
+  "facStateCd": "UT",
+  "countyNm": "SEVIER",
+  "facZipCd": "84654",
+  "facZip4Cd": null,
+  "receiptDa": "2007-09-28T00:00:00.000",
+  "facLatDecMs": "38.918056",
+  "facLongDecMs": "-111.943333",
+  "lepcNm": "Sevier County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-01-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Salina Fire Department",
+    "agencyPhoneNm": "4355293677",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49793"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49793"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49793"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/49793"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000027438,
+  "epaFacId": "100000121717",
+  "facNm": "Cargill Meat Solutions, Inc., California, MO",
+  "parntCo1Nm": null,
+  "facDunsNu": 6249189,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1001 E Smith",
+  "facStreet2Tx": null,
+  "facCityNm": "California",
+  "facStateCd": "MO",
+  "countyNm": "MONITEAU",
+  "facZipCd": "65018",
+  "facZip4Cd": null,
+  "receiptDa": "2012-04-10T00:00:00.000",
+  "facLatDecMs": "38.628889",
+  "facLongDecMs": "-092.551389",
+  "lepcNm": "Moniteau County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Moniteau County LEPC",
+    "agencyPhoneNm": "5737968416",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027438"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027438"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027438"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000027438"
+    }
+  }
+}

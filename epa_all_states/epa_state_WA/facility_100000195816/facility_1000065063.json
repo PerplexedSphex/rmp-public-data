@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000065063,
+  "epaFacId": "100000195816",
+  "facNm": "Eagle US 2 LLC",
+  "parntCo1Nm": "Westlake",
+  "facDunsNu": 43863064,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3541 Industrial Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Longview",
+  "facStateCd": "WA",
+  "countyNm": "COWLITZ",
+  "facZipCd": "98632",
+  "facZip4Cd": null,
+  "receiptDa": "2017-08-07T00:00:00.000",
+  "facLatDecMs": "46.130000",
+  "facLongDecMs": "-122.983889",
+  "lepcNm": "Cowlitz County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Longview Fire Department",
+    "agencyPhoneNm": "3604425503",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000065063"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000065063"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000065063"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000065063"
+    }
+  }
+}

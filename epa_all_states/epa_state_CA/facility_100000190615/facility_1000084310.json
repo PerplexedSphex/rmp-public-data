@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000084310,
+  "epaFacId": "100000190615",
+  "facNm": "Metcalf Energy Center, LLC",
+  "parntCo1Nm": "Calpine Corporation",
+  "facDunsNu": 170414630,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1 Blanchard Road",
+  "facStreet2Tx": null,
+  "facCityNm": "San Jose",
+  "facStateCd": "CA",
+  "countyNm": "SANTA CLARA",
+  "facZipCd": "95013",
+  "facZip4Cd": null,
+  "receiptDa": "2019-12-27T11:08:56.000",
+  "facLatDecMs": "37.220648",
+  "facLongDecMs": "-121.745880",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "San Jose Fire Department",
+    "agencyPhoneNm": "4082774444",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084310"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084310"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084310"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084310"
+    }
+  }
+}

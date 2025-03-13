@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000092623,
+  "epaFacId": "100000057957",
+  "facNm": "JBS Ottumwa, IA Pork Facility",
+  "parntCo1Nm": "JBS USA",
+  "facDunsNu": 48124978,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "600 South Iowa Ave",
+  "facStreet2Tx": null,
+  "facCityNm": "Ottumwa",
+  "facStateCd": "IA",
+  "countyNm": "WAPELLO",
+  "facZipCd": "52501",
+  "facZip4Cd": "3657",
+  "receiptDa": "2021-03-03T09:13:27.000",
+  "facLatDecMs": "41.004700",
+  "facLongDecMs": "-092.395300",
+  "lepcNm": "Ottumwa Fire Department",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Ottumwa Fire Department/Hazmat",
+    "agencyPhoneNm": "6416830666",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092623"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal (except Poultry) Slaughtering ",
+          "naicsCd": "311611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092623"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092623"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092623"
+    }
+  }
+}

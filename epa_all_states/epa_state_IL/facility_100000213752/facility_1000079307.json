@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000079307,
+  "epaFacId": "100000213752",
+  "facNm": "Ruprecht Company",
+  "parntCo1Nm": "Bon Vivant, LLC",
+  "facDunsNu": 25289620,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1301 allanson road",
+  "facStreet2Tx": null,
+  "facCityNm": "mundelein",
+  "facStateCd": "IL",
+  "countyNm": "LAKE",
+  "facZipCd": "60060",
+  "facZip4Cd": "3835",
+  "receiptDa": "2019-06-01T12:43:54.000",
+  "facLatDecMs": "42.254750",
+  "facLongDecMs": "-87.982233",
+  "lepcNm": "Lake County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mundelein Fire Department",
+    "agencyPhoneNm": "8479493260",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079307"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079307"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079307"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079307"
+    }
+  }
+}

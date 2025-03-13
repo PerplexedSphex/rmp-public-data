@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000093799,
+  "epaFacId": "100000234356",
+  "facNm": "All American Pet Proteins",
+  "parntCo1Nm": null,
+  "facDunsNu": 79376490,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "259 30th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Greeley",
+  "facStateCd": "CO",
+  "countyNm": "WELD",
+  "facZipCd": "80631",
+  "facZip4Cd": null,
+  "receiptDa": "2021-05-14T16:29:58.000",
+  "facLatDecMs": "40.387807",
+  "facLongDecMs": "-104.683751",
+  "lepcNm": "Weld County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Greeley Fire Department",
+    "agencyPhoneNm": "9703509500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093799"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Dog and Cat Food Manufacturing ",
+          "naicsCd": "311111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093799"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093799"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000093799"
+    }
+  }
+}

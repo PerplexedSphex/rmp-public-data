@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000048454,
+  "epaFacId": "100000224982",
+  "facNm": "Jacobson Warehouse",
+  "parntCo1Nm": "Jacobson Warehouse Co. dba Norbert Dentressangle",
+  "facDunsNu": 791726722,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "749 Southrock Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Rockford",
+  "facStateCd": "IL",
+  "countyNm": "WINNEBAGO",
+  "facZipCd": "61102",
+  "facZip4Cd": null,
+  "receiptDa": "2015-03-02T00:00:00.000",
+  "facLatDecMs": "42.22715",
+  "facLongDecMs": "-89.11455",
+  "lepcNm": "Winnebago County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-10-24T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rockford Fire Dept Station 3",
+    "agencyPhoneNm": "8159875645",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048454"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinyl acetate monomer  [Acetic acid ethenyl ester]",
+          "casNu": "108-05-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/29"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048454"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048454"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048454"
+    }
+  }
+}

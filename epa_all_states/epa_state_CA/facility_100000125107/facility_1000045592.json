@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000045592,
+  "epaFacId": "100000125107",
+  "facNm": "Pacific-Ultrapower Chinese Station",
+  "parntCo1Nm": null,
+  "facDunsNu": 152104477,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "8755 Enterprise Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Jamestown",
+  "facStateCd": "CA",
+  "countyNm": "TUOLUMNE",
+  "facZipCd": "95327",
+  "facZip4Cd": null,
+  "receiptDa": "2014-08-06T00:00:00.000",
+  "facLatDecMs": "37.874300",
+  "facLongDecMs": "-120.477400",
+  "lepcNm": "Inland Region 4 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tolumne County Fire Dept.",
+    "agencyPhoneNm": "2095335548",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045592"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045592"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045592"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045592"
+    }
+  }
+}

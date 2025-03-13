@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000013004,
+  "epaFacId": "100000072333",
+  "facNm": "Windsor Quality Food Company, Ltd.",
+  "parntCo1Nm": null,
+  "facDunsNu": 557071552,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3038 Pleasant Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Riverside",
+  "facStateCd": "CA",
+  "countyNm": "RIVERSIDE",
+  "facZipCd": "92507",
+  "facZip4Cd": null,
+  "receiptDa": "2010-07-19T00:00:00.000",
+  "facLatDecMs": "33.970278",
+  "facLongDecMs": "-117.371944",
+  "lepcNm": "Region VI LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-01-18T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Riverside Fire Department",
+    "agencyPhoneNm": "9098265321",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013004"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013004"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013004"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013004"
+    }
+  }
+}

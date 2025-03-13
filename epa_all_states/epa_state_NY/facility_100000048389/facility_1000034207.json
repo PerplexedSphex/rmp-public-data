@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000034207,
+  "epaFacId": "100000048389",
+  "facNm": "SI Group",
+  "parntCo1Nm": null,
+  "facDunsNu": 146710330,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1000 Main Street",
+  "facStreet2Tx": "Route 5S",
+  "facCityNm": "Rotterdam Junction",
+  "facStateCd": "NY",
+  "countyNm": "SCHENECTADY",
+  "facZipCd": "12150",
+  "facZip4Cd": null,
+  "receiptDa": "2013-05-01T00:00:00.000",
+  "facLatDecMs": "42.860250",
+  "facLongDecMs": "-074.024444",
+  "lepcNm": "Schenectady County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Schenectady County LEPC",
+    "agencyPhoneNm": "5183703113",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034207"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Plastics Material and Resin Manufacturing ",
+          "naicsCd": "325211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034207"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034207"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000034207"
+    }
+  }
+}

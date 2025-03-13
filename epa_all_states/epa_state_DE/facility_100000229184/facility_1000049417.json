@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000049417,
+  "epaFacId": "100000229184",
+  "facNm": "Garrison Energy Center LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 79267041,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "450 Garrison Oak Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Dover",
+  "facStateCd": "DE",
+  "countyNm": "KENT",
+  "facZipCd": "19901",
+  "facZip4Cd": null,
+  "receiptDa": "2015-04-16T00:00:00.000",
+  "facLatDecMs": "39.181313",
+  "facLongDecMs": "-75.494897",
+  "lepcNm": "Kent County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dover Fire Company",
+    "agencyPhoneNm": "3027367167",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049417"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049417"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049417"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000049417"
+    }
+  }
+}

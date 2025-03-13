@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000086123,
+  "epaFacId": "100000210577",
+  "facNm": "Gordon Food Service - Kenosha",
+  "parntCo1Nm": "Gordon Food Service",
+  "facDunsNu": 6409908,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10901 38th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Kenosha",
+  "facStateCd": "WI",
+  "countyNm": "KENOSHA",
+  "facZipCd": "53144",
+  "facZip4Cd": null,
+  "receiptDa": "2020-03-18T00:00:00.000",
+  "facLatDecMs": "42.597583",
+  "facLongDecMs": "-87.94193",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Kenosha Fire Department",
+    "agencyPhoneNm": "2626534110",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086123"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086123"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086123"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000086123"
+    }
+  }
+}

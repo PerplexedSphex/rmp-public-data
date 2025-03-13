@@ -1,0 +1,90 @@
+{
+  "facilityId": 13167,
+  "epaFacId": "100000139717",
+  "facNm": "CONCENTRATE MANUFACTURING OPERATIONS PEPSICO PR",
+  "parntCo1Nm": "PEPSICO INC",
+  "facDunsNu": 90041906,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "CIDRA  INDUSTRIAL PARK",
+  "facStreet2Tx": "LOTE 11 & 12",
+  "facCityNm": "CIDRA",
+  "facStateCd": "PR",
+  "countyNm": "CIDRA",
+  "facZipCd": "00739",
+  "facZip4Cd": "1558",
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "18.172667",
+  "facLongDecMs": "-66.157417",
+  "lepcNm": "Civil Defense Guayama, PR",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": "2004-05-21T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "FIRE DEPARTMENT",
+    "agencyPhoneNm": "7877392121",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13167"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flavoring Syrup and Concentrate Manufacturing",
+          "naicsCd": "31193",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31193"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [
+            {
+              "chemicalNm": "Acetaldehyde",
+              "casNu": "75-07-0",
+              "flamToxCd": "F",
+              "_links": {
+                "chemical": {
+                  "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/104"
+                }
+              }
+            }
+          ],
+          "chemicalNm": "Flammable Mixture",
+          "casNu": "00-11-11",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/155"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13167"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13167"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13167"
+    }
+  }
+}

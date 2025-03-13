@@ -1,0 +1,79 @@
+{
+  "facilityId": 33930,
+  "epaFacId": "100000050632",
+  "facNm": "United States Cold Storage, Lyons",
+  "parntCo1Nm": "United States Cold Storage, Inc.",
+  "facDunsNu": 67464289,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "8424 West 47th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Lyons",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60535",
+  "facZip4Cd": "1725",
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "41.806111",
+  "facLongDecMs": "-087.830278",
+  "lepcNm": "Cook County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lyons Fire Department",
+    "agencyPhoneNm": "7084471221",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33930"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33930"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33930"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33930"
+    }
+  }
+}

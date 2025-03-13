@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000079806,
+  "epaFacId": "100000052685",
+  "facNm": "Tyson Poultry, Inc.",
+  "parntCo1Nm": "Tyson Poultry, Inc.",
+  "facDunsNu": 71574479,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "706 FACTORY STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "WILKESBORO",
+  "facStateCd": "NC",
+  "countyNm": "WILKES",
+  "facZipCd": "28697",
+  "facZip4Cd": null,
+  "receiptDa": "2019-05-31T13:06:28.000",
+  "facLatDecMs": "36.144444",
+  "facLongDecMs": "-081.161944",
+  "lepcNm": "Wilkes County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Wilkes County LEPC",
+    "agencyPhoneNm": "3366517305",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079806"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079806"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079806"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079806"
+    }
+  }
+}

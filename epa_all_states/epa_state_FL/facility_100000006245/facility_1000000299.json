@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000000299,
+  "epaFacId": "100000006245",
+  "facNm": "Airgas South, Jacksonville",
+  "parntCo1Nm": "Airgas South, Inc.",
+  "facDunsNu": 3297942,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5837 West 5th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Jacksonville",
+  "facStateCd": "FL",
+  "countyNm": "DUVAL",
+  "facZipCd": "32254",
+  "facZip4Cd": null,
+  "receiptDa": "2009-04-23T00:00:00.000",
+  "facLatDecMs": "30.343333",
+  "facLongDecMs": "-081.746111",
+  "lepcNm": "District 4",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jax. FD/ Fire Cos # 17 & 32",
+    "agencyPhoneNm": "9046300529",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000299"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Industrial Gas Manufacturing",
+          "naicsCd": "32512",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32512"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethylene  [Ethene]",
+          "casNu": "74-85-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/95"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000299"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000299"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000299"
+    }
+  }
+}

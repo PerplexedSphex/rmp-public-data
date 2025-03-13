@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000078942,
+  "epaFacId": "100000003872",
+  "facNm": "Tyson Fresh Meats, Inc., Madison, NE",
+  "parntCo1Nm": "Tyson Foods, Inc.",
+  "facDunsNu": 154550909,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1200 Industrial Parkway",
+  "facStreet2Tx": "",
+  "facCityNm": "Madison",
+  "facStateCd": "NE",
+  "countyNm": "MADISON",
+  "facZipCd": "68748",
+  "facZip4Cd": "",
+  "receiptDa": "2019-05-13T00:00:00.000",
+  "facLatDecMs": "41.817778",
+  "facLongDecMs": "-097.468333",
+  "lepcNm": "Elkhorn Valley LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Madison Fire Department",
+    "agencyPhoneNm": "4024543333",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078942"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal (except Poultry) Slaughtering ",
+          "naicsCd": "311611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078942"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078942"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000078942"
+    }
+  }
+}

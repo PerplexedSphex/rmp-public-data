@@ -1,0 +1,79 @@
+{
+  "facilityId": 42627,
+  "epaFacId": "100000168891",
+  "facNm": "TVA - Paradise Fossil Plant",
+  "parntCo1Nm": "Tennessee Valley Authority",
+  "facDunsNu": 1883032,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "13246 State Route 176",
+  "facStreet2Tx": "Suite 10",
+  "facCityNm": "Drakesboro",
+  "facStateCd": "KY",
+  "countyNm": "MUHLENBERG",
+  "facZipCd": "42337",
+  "facZip4Cd": "2345",
+  "receiptDa": "2005-04-18T00:00:00.000",
+  "facLatDecMs": "37.260833",
+  "facLongDecMs": "-086.978333",
+  "lepcNm": "Muhlenberg LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2020-04-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Muhlenburg Emergency Planning Comm",
+    "agencyPhoneNm": "2703383902",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42627"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42627"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42627"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/42627"
+    }
+  }
+}

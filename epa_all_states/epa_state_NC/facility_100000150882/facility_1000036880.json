@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000036880,
+  "epaFacId": "100000150882",
+  "facNm": "Bartlett Milling Company - Statesville NC",
+  "parntCo1Nm": "Bartlett and Company - Kansas City MO",
+  "facDunsNu": 109914171,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "701 South Center Strreet",
+  "facStreet2Tx": null,
+  "facCityNm": "Statesville",
+  "facStateCd": "NC",
+  "countyNm": "IREDELL",
+  "facZipCd": "28677",
+  "facZip4Cd": null,
+  "receiptDa": "2014-01-07T00:00:00.000",
+  "facLatDecMs": "35.777017",
+  "facLongDecMs": "-80.883267",
+  "lepcNm": "Iredell County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Statesville Fire Department",
+    "agencyPhoneNm": "7048783425",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036880"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036880"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036880"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036880"
+    }
+  }
+}

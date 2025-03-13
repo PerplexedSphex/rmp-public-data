@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000087262,
+  "epaFacId": "100000229095",
+  "facNm": "Des Moines Cold Storage-East",
+  "parntCo1Nm": "Des Moines Cold Storage",
+  "facDunsNu": 824816284,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4770 N.E. 17th Ct.",
+  "facStreet2Tx": null,
+  "facCityNm": "Des Moines",
+  "facStateCd": "IA",
+  "countyNm": "POLK",
+  "facZipCd": "50313",
+  "facZip4Cd": null,
+  "receiptDa": "2020-05-06T08:37:10.000",
+  "facLatDecMs": "41.647145",
+  "facLongDecMs": "-93.594580",
+  "lepcNm": "Polk County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Polk County LEPC",
+    "agencyPhoneNm": "5152862107",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087262"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087262"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087262"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000087262"
+    }
+  }
+}

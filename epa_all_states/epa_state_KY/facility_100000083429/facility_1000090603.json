@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000090603,
+  "epaFacId": "100000083429",
+  "facNm": "Dyno Nobel Inc",
+  "parntCo1Nm": "Dyno Nobel Inc",
+  "facDunsNu": 13397784,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "State Route 175",
+  "facStreet2Tx": null,
+  "facCityNm": "Graham",
+  "facStateCd": "KY",
+  "countyNm": "MUHLENBERG",
+  "facZipCd": "42344",
+  "facZip4Cd": "0130",
+  "receiptDa": "2020-11-09T13:35:56.000",
+  "facLatDecMs": "37.239167",
+  "facLongDecMs": "-087.295000",
+  "lepcNm": "Muhlenberg LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Muhlenberg Co. Emerg. Mgt. Agency",
+    "agencyPhoneNm": "2703383902",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090603"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Explosives Manufacturing",
+          "naicsCd": "32592",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32592"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Nitric acid (conc 80% or greater)",
+          "casNu": "7697-37-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/58"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090603"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090603"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000090603"
+    }
+  }
+}

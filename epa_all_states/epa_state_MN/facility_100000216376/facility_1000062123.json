@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000062123,
+  "epaFacId": "100000216376",
+  "facNm": "Sysco Western Minnesota",
+  "parntCo1Nm": "Sysco Corporation",
+  "facDunsNu": 78740500,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "900 South Highway 10",
+  "facStreet2Tx": null,
+  "facCityNm": "St. Cloud",
+  "facStateCd": "MN",
+  "countyNm": "SHERBURNE",
+  "facZipCd": "56304",
+  "facZip4Cd": null,
+  "receiptDa": "2017-02-20T00:00:00.000",
+  "facLatDecMs": "45.558767",
+  "facLongDecMs": "-94.125889",
+  "lepcNm": "Region 6",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Sauk Rapids Fire Department",
+    "agencyPhoneNm": "3209804808",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062123"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062123"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062123"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062123"
+    }
+  }
+}

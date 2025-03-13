@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000042219,
+  "epaFacId": "100000181297",
+  "facNm": "US Foods, Inc. - Baltimore",
+  "parntCo1Nm": "US Foods, Inc.",
+  "facDunsNu": 795140433,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "8024 Telegraph Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Severn",
+  "facStateCd": "MD",
+  "countyNm": "ANNE ARUNDEL",
+  "facZipCd": "21144",
+  "facZip4Cd": null,
+  "receiptDa": "2014-05-13T00:00:00.000",
+  "facLatDecMs": "39.121082",
+  "facLongDecMs": "-076.691991",
+  "lepcNm": "Anne Arundel LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2017-12-23T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Anne Arundel County LEPC",
+    "agencyPhoneNm": "4102220600",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042219"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042219"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042219"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042219"
+    }
+  }
+}

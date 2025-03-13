@@ -1,0 +1,79 @@
+{
+  "facilityId": 15530,
+  "epaFacId": "100000059278",
+  "facNm": "Trinity Manufacturing, Inc.",
+  "parntCo1Nm": "Trical, Inc.",
+  "facDunsNu": 555424019,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "11 E.V. Hogan Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Hamlet",
+  "facStateCd": "NC",
+  "countyNm": "RICHMOND",
+  "facZipCd": "28345",
+  "facZip4Cd": null,
+  "receiptDa": "1999-07-30T00:00:00.000",
+  "facLatDecMs": "34.916944",
+  "facLongDecMs": "-79.67",
+  "lepcNm": "Richmond County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2022-09-16T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "LEPC, Richmond County",
+    "agencyPhoneNm": "9109978238",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15530"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pesticide and Other Agricultural Chemical Manufacturing",
+          "naicsCd": "32532",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32532"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15530"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15530"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15530"
+    }
+  }
+}

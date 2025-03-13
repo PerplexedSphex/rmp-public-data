@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000021256,
+  "epaFacId": "100000194684",
+  "facNm": "Hannaford Brothers",
+  "parntCo1Nm": "Delhaize America Inc.",
+  "facDunsNu": 6949556,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "54 Hannaford Road",
+  "facStreet2Tx": null,
+  "facCityNm": "South Portland",
+  "facStateCd": "ME",
+  "countyNm": "CUMBERLAND",
+  "facZipCd": "04104",
+  "facZip4Cd": null,
+  "receiptDa": "2011-03-21T00:00:00.000",
+  "facLatDecMs": "43.622569",
+  "facLongDecMs": "-070.294365",
+  "lepcNm": "Cumberland County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "South Portland Fire Dept.",
+    "agencyPhoneNm": "2077993314",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021256"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021256"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021256"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000021256"
+    }
+  }
+}

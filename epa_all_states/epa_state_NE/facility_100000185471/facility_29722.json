@@ -1,0 +1,79 @@
+{
+  "facilityId": 29722,
+  "epaFacId": "100000185471",
+  "facNm": "Ag Processing Inc Refinery",
+  "parntCo1Nm": "Ag Processing Inc",
+  "facDunsNu": 5275631,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2801 E. 7th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Hastings",
+  "facStateCd": "NE",
+  "countyNm": "ADAMS",
+  "facZipCd": "68901",
+  "facZip4Cd": "5560",
+  "receiptDa": "2004-03-22T00:00:00.000",
+  "facLatDecMs": "40.593333",
+  "facLongDecMs": "-98.34",
+  "lepcNm": "Adams County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2005-08-15T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Adams County LEPC",
+    "agencyPhoneNm": "4024612360",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29722"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Soybean Processing",
+          "naicsCd": "311222",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311222"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29722"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29722"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/29722"
+    }
+  }
+}

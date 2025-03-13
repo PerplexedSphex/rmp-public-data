@@ -1,0 +1,79 @@
+{
+  "facilityId": 18152,
+  "epaFacId": "100000049128",
+  "facNm": "Susquehanna Steam Electric Station",
+  "parntCo1Nm": "PP&L, Inc.",
+  "facDunsNu": 7909427,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "7Miles North of Berwick",
+  "facStreet2Tx": "U.S. Route 11",
+  "facCityNm": "Berwick",
+  "facStateCd": "PA",
+  "countyNm": "LUZERNE",
+  "facZipCd": "18603",
+  "facZip4Cd": "0467",
+  "receiptDa": "1999-06-17T00:00:00.000",
+  "facLatDecMs": "41.091667",
+  "facLongDecMs": "-76.148611",
+  "lepcNm": "Luzerne County Emergency Mgnt",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-03-25T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Luzerne County Emergency Management",
+    "agencyPhoneNm": "5708204400",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18152"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Nuclear Electric Power Generation ",
+          "naicsCd": "221113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18152"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18152"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/18152"
+    }
+  }
+}

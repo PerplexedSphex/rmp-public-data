@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000005815,
+  "epaFacId": "100000056324",
+  "facNm": "Westinghouse Specialty Metals Plant",
+  "parntCo1Nm": "Westinghouse Electric Company LLC",
+  "facDunsNu": 5000625,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "559 Westinghouse Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Blairsville",
+  "facStateCd": "PA",
+  "countyNm": "WESTMORELAND",
+  "facZipCd": "15717",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-11T00:00:00.000",
+  "facLatDecMs": "40.446667",
+  "facLongDecMs": "-079.308333",
+  "lepcNm": "Westmoreland County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2010-09-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Westmoreland County LEPC",
+    "agencyPhoneNm": "7246007300",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005815"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",
+          "naicsCd": "331491",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331491"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005815"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005815"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005815"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000030686,
+  "epaFacId": "100000211905",
+  "facNm": "Century Gas Plant",
+  "parntCo1Nm": "Occidental Permian, Ltd.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2301 Puckett Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Ft. Stockton",
+  "facStateCd": "TX",
+  "countyNm": "PECOS",
+  "facZipCd": "79735",
+  "facZip4Cd": null,
+  "receiptDa": "2012-10-03T00:00:00.000",
+  "facLatDecMs": "30.610401",
+  "facLongDecMs": "-102.579371",
+  "lepcNm": "Pecos County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fort Stockton Fire Department",
+    "agencyPhoneNm": "4323364643",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030686"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Oil and Gas Extraction",
+          "naicsCd": "21111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Methane",
+          "casNu": "74-82-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/93"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030686"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030686"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030686"
+    }
+  }
+}

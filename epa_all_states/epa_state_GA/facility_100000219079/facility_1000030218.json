@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000030218,
+  "epaFacId": "100000219079",
+  "facNm": "Athens Terminal",
+  "parntCo1Nm": "Kinder Morgan Southeast Terminals, LLC",
+  "facDunsNu": 19511061,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3460 Jefferson Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Athens",
+  "facStateCd": "GA",
+  "countyNm": "CLARKE",
+  "facZipCd": "30607",
+  "facZip4Cd": null,
+  "receiptDa": "2012-09-10T00:00:00.000",
+  "facLatDecMs": "33.987704",
+  "facLongDecMs": "-83.417612",
+  "lepcNm": "Athens-Clarke County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Athens-Clarke County EMA",
+    "agencyPhoneNm": "7066133410",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030218"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030218"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030218"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030218"
+    }
+  }
+}

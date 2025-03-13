@@ -1,0 +1,79 @@
+{
+  "facilityId": 32433,
+  "epaFacId": "100000117624",
+  "facNm": "ELMIRA WATER BOARD FILTRATION PLANT",
+  "parntCo1Nm": "ELMIRA WATER BOARD",
+  "facDunsNu": 45604741,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1 Fountain Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Elmira",
+  "facStateCd": "NY",
+  "countyNm": "CHEMUNG",
+  "facZipCd": "14905",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-16T00:00:00.000",
+  "facLatDecMs": "42.099722",
+  "facLongDecMs": "-076.835556",
+  "lepcNm": "Chemung County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Elmira Fire Department/Hazmat team",
+    "agencyPhoneNm": "6077375708",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32433"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32433"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32433"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32433"
+    }
+  }
+}

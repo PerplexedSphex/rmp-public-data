@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000060298,
+  "epaFacId": "100000233491",
+  "facNm": "Wild Basin Gas Processing &Crude Handling Facility",
+  "parntCo1Nm": "Oasis Midstream Services (OMS)",
+  "facDunsNu": 79206979,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "12170 31st Street NW",
+  "facStreet2Tx": null,
+  "facCityNm": "Watford City",
+  "facStateCd": "ND",
+  "countyNm": "MCKENZIE",
+  "facZipCd": "58854",
+  "facZip4Cd": null,
+  "receiptDa": "2016-09-30T00:00:00.000",
+  "facLatDecMs": "47.8593888",
+  "facLongDecMs": "-103.168111",
+  "lepcNm": "Mckenzie County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "LEPC",
+    "agencyPhoneNm": "7014443616",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060298"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060298"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060298"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000060298"
+    }
+  }
+}

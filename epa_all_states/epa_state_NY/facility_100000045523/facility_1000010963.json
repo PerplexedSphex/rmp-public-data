@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000010963,
+  "epaFacId": "100000045523",
+  "facNm": "Inergy Midstream LLC.",
+  "parntCo1Nm": "Inergy Propane LLC.",
+  "facDunsNu": 107672172,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7535 Eagle Valley Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Savona",
+  "facStateCd": "NY",
+  "countyNm": "STEUBEN",
+  "facZipCd": "14879",
+  "facZip4Cd": "9784",
+  "receiptDa": "2009-09-11T00:00:00.000",
+  "facLatDecMs": "42.308333",
+  "facLongDecMs": "-077.255278",
+  "lepcNm": "Steuben County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bath Volunteer Fire Department",
+    "agencyPhoneNm": "6077762222",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010963"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010963"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010963"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010963"
+    }
+  }
+}

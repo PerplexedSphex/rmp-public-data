@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000048298,
+  "epaFacId": "100000165643",
+  "facNm": "Dixie Cheraw Terminal",
+  "parntCo1Nm": "Enterprise Products Operating LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "200 Dixie Pipeline Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Cheraw",
+  "facStateCd": "SC",
+  "countyNm": "CHESTERFIELD",
+  "facZipCd": "29520",
+  "facZip4Cd": "7796",
+  "receiptDa": "2015-01-21T00:00:00.000",
+  "facLatDecMs": "34.71805",
+  "facLongDecMs": "-079.91463",
+  "lepcNm": "Chesterfield County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Cheraw Fire Department",
+    "agencyPhoneNm": "8435375941",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048298"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Petroleum Bulk Stations and Terminals ",
+          "naicsCd": "42471",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42471"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propane",
+          "casNu": "74-98-6",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/98"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048298"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048298"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048298"
+    }
+  }
+}

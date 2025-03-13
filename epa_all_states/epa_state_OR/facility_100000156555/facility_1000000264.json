@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000000264,
+  "epaFacId": "100000156555",
+  "facNm": "Hermiston Foods LLC",
+  "parntCo1Nm": "NORPAC Foods Inc.",
+  "facDunsNu": 9058561,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2250 South Hwy 395",
+  "facStreet2Tx": null,
+  "facCityNm": "Hermiston",
+  "facStateCd": "OR",
+  "countyNm": "UMATILLA",
+  "facZipCd": "97838",
+  "facZip4Cd": "9466",
+  "receiptDa": "2009-06-11T00:00:00.000",
+  "facLatDecMs": "45.816667",
+  "facLongDecMs": "-119.262778",
+  "lepcNm": "Oregon  LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-01-18T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hermiston Fire Department",
+    "agencyPhoneNm": "5415678822",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000264"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Food Manufacturing",
+          "naicsCd": "31141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000264"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000264"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000264"
+    }
+  }
+}

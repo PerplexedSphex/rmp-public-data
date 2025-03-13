@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000118405,
+  "epaFacId": "100000080137",
+  "facNm": "Fresh Express, Incorporated",
+  "parntCo1Nm": "Chiquita Brands International",
+  "facDunsNu": 154483457,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "900 East Blanco Road",
+  "facStreet2Tx": "",
+  "facCityNm": "Salinas",
+  "facStateCd": "CA",
+  "countyNm": "MONTEREY",
+  "facZipCd": "93901",
+  "facZip4Cd": "",
+  "receiptDa": "2024-11-15T00:00:00.000",
+  "facLatDecMs": "36.651140",
+  "facLongDecMs": "-121.637290",
+  "lepcNm": "Region II LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Salinas Fire Department",
+    "agencyPhoneNm": "8317587466",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118405"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118405"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118405"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000118405"
+    }
+  }
+}

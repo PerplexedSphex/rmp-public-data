@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000025081,
+  "epaFacId": "100000104031",
+  "facNm": "Mansfield Wastewater Treatment Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 832624936,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "385 South Illinois Ave.",
+  "facStreet2Tx": null,
+  "facCityNm": "Mansfield",
+  "facStateCd": "OH",
+  "countyNm": "RICHLAND",
+  "facZipCd": "44905",
+  "facZip4Cd": null,
+  "receiptDa": "2011-12-02T00:00:00.000",
+  "facLatDecMs": "40.747135",
+  "facLongDecMs": "-082.480840",
+  "lepcNm": "Richland County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mansfield Fire Department",
+    "agencyPhoneNm": "4195242424",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025081"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025081"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025081"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025081"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "facilityId": 23333,
+  "epaFacId": "100000175286",
+  "facNm": "Foremost Farms USA",
+  "parntCo1Nm": "Foremost Farms USA",
+  "facDunsNu": 877549923,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "684 South Church Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Richland Center",
+  "facStateCd": "WI",
+  "countyNm": "RICHLAND",
+  "facZipCd": "53581",
+  "facZip4Cd": "2737",
+  "receiptDa": "2001-04-25T00:00:00.000",
+  "facLatDecMs": "43.330278",
+  "facLongDecMs": "-90.384444",
+  "lepcNm": "Richland LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Richland County Emergency Govt",
+    "agencyPhoneNm": "6086478187",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23333"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        },
+        {
+          "description": "Dry, Condensed, and Evaporated Dairy Product Manufacturing ",
+          "naicsCd": "311514",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311514"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23333"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23333"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23333"
+    }
+  }
+}

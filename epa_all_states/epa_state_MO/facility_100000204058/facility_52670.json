@@ -1,0 +1,88 @@
+{
+  "facilityId": 52670,
+  "epaFacId": "100000204058",
+  "facNm": "Kerry, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 107517591,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "8155 New Hampshire",
+  "facStreet2Tx": null,
+  "facCityNm": "St Louis",
+  "facStateCd": "MO",
+  "countyNm": "ST. LOUIS",
+  "facZipCd": "63123",
+  "facZip4Cd": null,
+  "receiptDa": "2008-10-01T00:00:00.000",
+  "facLatDecMs": "38.563500",
+  "facLongDecMs": "-090.329130",
+  "lepcNm": "Saint Louis County, MO",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Saint Louis LEPC",
+    "agencyPhoneNm": "3146137232",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52670"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Commercial Bakeries ",
+          "naicsCd": "311812",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311812"
+            }
+          }
+        },
+        {
+          "description": "Nonchocolate Confectionery Manufacturing",
+          "naicsCd": "31134",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31134"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52670"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52670"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52670"
+    }
+  }
+}

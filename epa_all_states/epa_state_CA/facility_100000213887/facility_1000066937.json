@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000066937,
+  "epaFacId": "100000213887",
+  "facNm": "California Dairies Inc. Los Banos Processing Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 9868035,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1175 Pacheco Blvd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Los Banos",
+  "facStateCd": "CA",
+  "countyNm": "MERCED",
+  "facZipCd": "93635",
+  "facZip4Cd": null,
+  "receiptDa": "2017-12-05T00:00:00.000",
+  "facLatDecMs": "37.056225",
+  "facLongDecMs": "-120.82954",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2025-01-08T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Los Banos Fire Dept.",
+    "agencyPhoneNm": "2098277020",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066937"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066937"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066937"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066937"
+    }
+  }
+}

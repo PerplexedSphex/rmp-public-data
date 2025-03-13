@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080699,
+  "epaFacId": "100000063049",
+  "facNm": "Wayne Farms LLC - Dobson Fresh Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 797613275,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "802 East Atkins Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Dobson",
+  "facStateCd": "NC",
+  "countyNm": "SURRY",
+  "facZipCd": "27017",
+  "facZip4Cd": null,
+  "receiptDa": "2019-06-27T17:27:40.000",
+  "facLatDecMs": "36.390804",
+  "facLongDecMs": "-080.710579",
+  "lepcNm": "Surry County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Surry County Emergency Services",
+    "agencyPhoneNm": "3367839000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080699"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080699"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080699"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080699"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "facilityId": 8110,
+  "epaFacId": "100000102097",
+  "facNm": "Plant 200",
+  "parntCo1Nm": "R. J. Reynolds Packaging Division",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "200 Cunningham Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Winston-Salem",
+  "facStateCd": "NC",
+  "countyNm": "FORSYTH",
+  "facZipCd": "27107",
+  "facZip4Cd": "2203",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "36.077222",
+  "facLongDecMs": "-80.227778",
+  "lepcNm": "Forsyth County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2002-02-19T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Forsyth County Fire Department",
+    "agencyPhoneNm": "3367278084",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8110"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Aluminum Sheet, Plate, and Foil Manufacturing ",
+          "naicsCd": "331315",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331315"
+            }
+          }
+        },
+        {
+          "description": "All Other Miscellaneous Fabricated Metal Product Manufacturing ",
+          "naicsCd": "332999",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/332999"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8110"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8110"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8110"
+    }
+  }
+}

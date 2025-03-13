@@ -1,0 +1,79 @@
+{
+  "facilityId": 8090,
+  "epaFacId": "100000100482",
+  "facNm": "Hormel Foods Corporation Atlanta Plant",
+  "parntCo1Nm": "Hormel Foods Corporation",
+  "facDunsNu": 6210975,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3367 Montreal Industrial Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Tucker",
+  "facStateCd": "GA",
+  "countyNm": "DEKALB",
+  "facZipCd": "30084",
+  "facZip4Cd": "5211",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "33.839444",
+  "facLongDecMs": "-84.250833",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dekalb County Fire Department",
+    "agencyPhoneNm": "7702706277",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8090"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8090"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8090"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8090"
+    }
+  }
+}

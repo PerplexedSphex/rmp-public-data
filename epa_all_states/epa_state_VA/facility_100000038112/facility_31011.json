@@ -1,0 +1,79 @@
+{
+  "facilityId": 31011,
+  "epaFacId": "100000038112",
+  "facNm": "Gwaltney of Smithfield",
+  "parntCo1Nm": "Smithfield",
+  "facDunsNu": 43205053,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "601North Church Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Smithfield",
+  "facStateCd": "VA",
+  "countyNm": "ISLE OF WIGHT",
+  "facZipCd": "23431",
+  "facZip4Cd": null,
+  "receiptDa": "2004-06-08T00:00:00.000",
+  "facLatDecMs": "36.993608",
+  "facLongDecMs": "-076.628908",
+  "lepcNm": "Franklin/Isle of Wright LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Franklin/Isle of Wright LEPC",
+    "agencyPhoneNm": "7575628500",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31011"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal Slaughtering and Processing",
+          "naicsCd": "31161",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31161"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31011"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31011"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31011"
+    }
+  }
+}

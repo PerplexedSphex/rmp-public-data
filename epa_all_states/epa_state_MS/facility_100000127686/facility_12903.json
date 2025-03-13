@@ -1,0 +1,79 @@
+{
+  "facilityId": 12903,
+  "epaFacId": "100000127686",
+  "facNm": "Mobil Oil - Hattiesburg LPG Storage Facility",
+  "parntCo1Nm": "Mobil Oil Corporation",
+  "facDunsNu": 627851025,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1234 Highway 11",
+  "facStreet2Tx": "P.O. Box 545",
+  "facCityNm": "Petal",
+  "facStateCd": "MS",
+  "countyNm": "FORREST",
+  "facZipCd": "39465",
+  "facZip4Cd": "0545",
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "31.373972",
+  "facLongDecMs": "-89.266889",
+  "lepcNm": "Forrest County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Forrest County LEPC",
+    "agencyPhoneNm": "6015445911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12903"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Pipeline Transportation",
+          "naicsCd": "48699",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48699"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12903"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12903"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12903"
+    }
+  }
+}

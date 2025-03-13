@@ -1,0 +1,79 @@
+{
+  "facilityId": 7127,
+  "epaFacId": "100000091018",
+  "facNm": "Anheuser-Busch, Inc. Merrimack Brewery",
+  "parntCo1Nm": "Anheuser-Busch Companies, Inc.",
+  "facDunsNu": 45008430,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "221 Daniel Webster Highway",
+  "facStreet2Tx": null,
+  "facCityNm": "Merrimack",
+  "facStateCd": "NH",
+  "countyNm": "HILLSBOROUGH",
+  "facZipCd": "03054",
+  "facZip4Cd": "4357",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "42.824667",
+  "facLongDecMs": "-71.485139",
+  "lepcNm": "Merrimack LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Merrimack Fire Department",
+    "agencyPhoneNm": "6034243690",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7127"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7127"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7127"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/7127"
+    }
+  }
+}

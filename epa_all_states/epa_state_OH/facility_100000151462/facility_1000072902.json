@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000072902,
+  "epaFacId": "100000151462",
+  "facNm": "AK Steel - Zanesville Works",
+  "parntCo1Nm": "AK Steel Holding",
+  "facDunsNu": 4281598,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1724 Linden Avenue",
+  "facStreet2Tx": "P.O. Box 1520",
+  "facCityNm": "Zanesville",
+  "facStateCd": "OH",
+  "countyNm": "MUSKINGUM",
+  "facZipCd": "43701",
+  "facZip4Cd": "1520",
+  "receiptDa": "2018-09-24T00:00:00.000",
+  "facLatDecMs": "39.962500",
+  "facLongDecMs": "-081.998056",
+  "lepcNm": "Muskingum County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2023-07-25T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Zanesville Fire Department",
+    "agencyPhoneNm": "7404550700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072902"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Rolled Steel Shape Manufacturing ",
+          "naicsCd": "331221",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/331221"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072902"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072902"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000072902"
+    }
+  }
+}

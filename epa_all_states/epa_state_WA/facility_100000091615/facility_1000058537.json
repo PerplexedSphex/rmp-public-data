@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000058537,
+  "epaFacId": "100000091615",
+  "facNm": "Spokane Regional Waste-to-Energy Facility",
+  "parntCo1Nm": "City of Spokane",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2900 South Geiger Boulevard",
+  "facStreet2Tx": null,
+  "facCityNm": "Spokane",
+  "facStateCd": "WA",
+  "countyNm": "SPOKANE",
+  "facZipCd": "99224",
+  "facZip4Cd": "5400",
+  "receiptDa": "2016-07-18T00:00:00.000",
+  "facLatDecMs": "47.627172",
+  "facLongDecMs": "-117.504761",
+  "lepcNm": "Spokane County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Spokane Fire Department",
+    "agencyPhoneNm": "5096257106",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058537"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Solid Waste Combustors and Incinerators ",
+          "naicsCd": "562213",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/562213"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058537"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058537"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000058537"
+    }
+  }
+}

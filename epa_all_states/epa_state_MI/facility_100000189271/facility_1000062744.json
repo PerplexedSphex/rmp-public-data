@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000062744,
+  "epaFacId": "100000189271",
+  "facNm": "Hudsonville Creamery & Ice Cream, LLC",
+  "parntCo1Nm": null,
+  "facDunsNu": 6016398,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "345 East 48th Street",
+  "facStreet2Tx": "Suite 200",
+  "facCityNm": "Holland",
+  "facStateCd": "MI",
+  "countyNm": "ALLEGAN",
+  "facZipCd": "49423",
+  "facZip4Cd": null,
+  "receiptDa": "2017-03-27T00:00:00.000",
+  "facLatDecMs": "42.756667",
+  "facLongDecMs": "-086.091111",
+  "lepcNm": "Allegan County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Allegan Local Emergency Response",
+    "agencyPhoneNm": "2692078417",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062744"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062744"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062744"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000062744"
+    }
+  }
+}

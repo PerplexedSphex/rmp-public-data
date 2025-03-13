@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000064999,
+  "epaFacId": "100000236336",
+  "facNm": "AgroChem, Inc",
+  "parntCo1Nm": null,
+  "facDunsNu": 805427700,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "26 Freedom Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Saratoga Springs",
+  "facStateCd": "NY",
+  "countyNm": "SARATOGA",
+  "facZipCd": "12866",
+  "facZip4Cd": null,
+  "receiptDa": "2017-08-30T00:00:00.000",
+  "facLatDecMs": "43.062944",
+  "facLongDecMs": "-73.834673",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Saratoga Springs Fire Department",
+    "agencyPhoneNm": "3155874570",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000064999"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Miscellaneous Chemical Product and Preparation Manufacturing ",
+          "naicsCd": "325998",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325998"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000064999"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000064999"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000064999"
+    }
+  }
+}

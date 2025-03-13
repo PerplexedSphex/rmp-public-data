@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000067591,
+  "epaFacId": "100000211246",
+  "facNm": "BEF Foods, Inc., Sulphur Springs",
+  "parntCo1Nm": "Bob Evans Farms",
+  "facDunsNu": 145998766,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1109 East Industrial Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Sulphur Springs",
+  "facStateCd": "TX",
+  "countyNm": "HOPKINS",
+  "facZipCd": "75482",
+  "facZip4Cd": null,
+  "receiptDa": "2018-07-09T14:15:50.000",
+  "facLatDecMs": "33.129774",
+  "facLongDecMs": "-95.581267",
+  "lepcNm": "Hopkins County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Sulphur Springs Fire Department",
+    "agencyPhoneNm": "9038857547",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067591"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        },
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067591"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067591"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000067591"
+    }
+  }
+}

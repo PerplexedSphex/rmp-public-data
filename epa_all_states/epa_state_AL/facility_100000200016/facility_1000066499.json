@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000066499,
+  "epaFacId": "100000200016",
+  "facNm": "Lear Corporation",
+  "parntCo1Nm": "Lear Corporation",
+  "facDunsNu": 175592476,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6 Meadowcraft Parkway",
+  "facStreet2Tx": null,
+  "facCityNm": "Selma",
+  "facStateCd": "AL",
+  "countyNm": "DALLAS",
+  "facZipCd": "36701",
+  "facZip4Cd": null,
+  "receiptDa": "2017-11-09T00:00:00.000",
+  "facLatDecMs": "32.332122",
+  "facLongDecMs": "-86.989622",
+  "lepcNm": "Dallas County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dallas County LEPC",
+    "agencyPhoneNm": "3348742515",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066499"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Motor Vehicle Seating and Interior Trim Manufacturing",
+          "naicsCd": "33636",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33636"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,6-diisocyanate  [Benzene, 1,3-diisocyanato-2-methyl-]",
+          "casNu": "91-08-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/20"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Toluene 2,4-diisocyanate  [Benzene, 2,4-diisocyanato-1-methyl-]",
+          "casNu": "584-84-9",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/44"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066499"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066499"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066499"
+    }
+  }
+}

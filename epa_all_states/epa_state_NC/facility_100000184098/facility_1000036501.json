@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000036501,
+  "epaFacId": "100000184098",
+  "facNm": "Snyder Production Center",
+  "parntCo1Nm": "Coca-Cola Bottling Co. Consolidated",
+  "facDunsNu": 57931230,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4901 Chesapeake Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Charlotte",
+  "facStateCd": "NC",
+  "countyNm": "MECKLENBURG",
+  "facZipCd": "28216",
+  "facZip4Cd": null,
+  "receiptDa": "2013-10-04T00:00:00.000",
+  "facLatDecMs": "35.284753",
+  "facLongDecMs": "-80.882489",
+  "lepcNm": "Mecklenburg County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Mecklenburg County LEPC",
+    "agencyPhoneNm": "7043362461",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036501"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Soft Drink Manufacturing ",
+          "naicsCd": "312111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/312111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036501"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036501"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036501"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 30067,
+  "epaFacId": "100000059606",
+  "facNm": "Conesville Power Plant",
+  "parntCo1Nm": "American Electric Power",
+  "facDunsNu": 69068450,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "47201 County Road 273",
+  "facStreet2Tx": null,
+  "facCityNm": "Conesville",
+  "facStateCd": "OH",
+  "countyNm": "COSHOCTON",
+  "facZipCd": "43811",
+  "facZip4Cd": null,
+  "receiptDa": "2004-05-18T00:00:00.000",
+  "facLatDecMs": "40.185000",
+  "facLongDecMs": "-081.879722",
+  "lepcNm": "Coshocton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2005-09-07T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Coshocton County LEPC",
+    "agencyPhoneNm": "7406621984",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30067"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30067"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30067"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/30067"
+    }
+  }
+}

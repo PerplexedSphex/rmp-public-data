@@ -1,0 +1,79 @@
+{
+  "facilityId": 8295,
+  "epaFacId": "100000103416",
+  "facNm": "Moss Point Mill",
+  "parntCo1Nm": "International Paper",
+  "facDunsNu": 8159717,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "6901 Grierson Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Moss Point",
+  "facStateCd": "MS",
+  "countyNm": "JACKSON",
+  "facZipCd": "39563",
+  "facZip4Cd": "1550",
+  "receiptDa": "1999-06-21T00:00:00.000",
+  "facLatDecMs": "30.413167",
+  "facLongDecMs": "-88.4945",
+  "lepcNm": "Jackson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2001-09-04T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jackson County Emergency Management",
+    "agencyPhoneNm": "2284758848",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8295"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Pulp Mills",
+          "naicsCd": "32211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine dioxide  [Chlorine oxide (ClO2)]",
+          "casNu": "10049-04-4",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/71"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8295"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8295"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/8295"
+    }
+  }
+}

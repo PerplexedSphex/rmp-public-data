@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000104051,
+  "epaFacId": "100000201587",
+  "facNm": "Sysco Knoxville, LLC",
+  "parntCo1Nm": "Sysco Corporation",
+  "facDunsNu": 806292244,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "900 Tennessee Avenue",
+  "facStreet2Tx": "",
+  "facCityNm": "Knoxville",
+  "facStateCd": "TN",
+  "countyNm": "KNOX",
+  "facZipCd": "37921",
+  "facZip4Cd": "2630",
+  "receiptDa": "2023-01-23T00:00:00.000",
+  "facLatDecMs": "35.986139",
+  "facLongDecMs": "-083.946111",
+  "lepcNm": "Knox County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Knoxville Emergency Management",
+    "agencyPhoneNm": "8652151166",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104051"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Line Grocery Merchant Wholesalers ",
+          "naicsCd": "42441",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42441"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104051"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104051"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104051"
+    }
+  }
+}

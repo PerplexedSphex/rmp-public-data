@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000106763,
+  "epaFacId": "100000193328",
+  "facNm": "United States Cold Storage, Tulare North",
+  "parntCo1Nm": "United States Cold Storage of California",
+  "facDunsNu": 609246392,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1021 E Walnut Ave",
+  "facStreet2Tx": "",
+  "facCityNm": "Tulare",
+  "facStateCd": "CA",
+  "countyNm": "TULARE",
+  "facZipCd": "93274",
+  "facZip4Cd": "",
+  "receiptDa": "2023-08-30T00:00:00.000",
+  "facLatDecMs": "36.192778",
+  "facLongDecMs": "-119.333611",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Tulare City Fire Department",
+    "agencyPhoneNm": "5596863454",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106763"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106763"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106763"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000106763"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000079509,
+  "epaFacId": "100000122011",
+  "facNm": "Guadalupe Cooling Company",
+  "parntCo1Nm": null,
+  "facDunsNu": 57652117,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2040 Guadalupe Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Nipomo",
+  "facStateCd": "CA",
+  "countyNm": "SAN LUIS OBISPO",
+  "facZipCd": "93444",
+  "facZip4Cd": null,
+  "receiptDa": "2019-06-10T12:52:25.000",
+  "facLatDecMs": "35.009300",
+  "facLongDecMs": "-120.569191",
+  "lepcNm": "California Region 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cal Fire Station 20",
+    "agencyPhoneNm": "8059293911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079509"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Support Activities for Crop Production",
+          "naicsCd": "11511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/11511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079509"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079509"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000079509"
+    }
+  }
+}

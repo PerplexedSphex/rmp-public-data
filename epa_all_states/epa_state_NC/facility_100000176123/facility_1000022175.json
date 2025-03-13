@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000022175,
+  "epaFacId": "100000176123",
+  "facNm": "Roxboro Steam Electric Plant",
+  "parntCo1Nm": "Carolina Power and Light Company (d.b.a.",
+  "facDunsNu": 878336452,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1700 Dunnaway Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Semora",
+  "facStateCd": "NC",
+  "countyNm": "PERSON",
+  "facZipCd": "27343",
+  "facZip4Cd": "9058",
+  "receiptDa": "2011-07-12T00:00:00.000",
+  "facLatDecMs": "36.484167",
+  "facLongDecMs": "-079.077500",
+  "lepcNm": "Person County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Person County Emergency Management",
+    "agencyPhoneNm": "3365974262",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022175"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Electric Power Generation",
+          "naicsCd": "22111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022175"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022175"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022175"
+    }
+  }
+}

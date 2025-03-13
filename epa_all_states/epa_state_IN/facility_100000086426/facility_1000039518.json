@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000039518,
+  "epaFacId": "100000086426",
+  "facNm": "Maplehurst Bakeries, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 41133034,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "50 Maplehurst Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Brownsburg",
+  "facStateCd": "IN",
+  "countyNm": "HENDRICKS",
+  "facZipCd": "46112",
+  "facZip4Cd": null,
+  "receiptDa": "2014-05-01T00:00:00.000",
+  "facLatDecMs": "39.86270",
+  "facLongDecMs": "-086.39620",
+  "lepcNm": "Hendricks County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Brownsburg Fire Department",
+    "agencyPhoneNm": "3178521190",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039518"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Commercial Bakeries ",
+          "naicsCd": "311812",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311812"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039518"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039518"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000039518"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 52723,
+  "epaFacId": "100000177738",
+  "facNm": "Smith Dairy, Wayne Division",
+  "parntCo1Nm": "Smith Dairy Company",
+  "facDunsNu": 6058754,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1590 N.W. 11th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Richmond",
+  "facStateCd": "IN",
+  "countyNm": "WAYNE",
+  "facZipCd": "47375",
+  "facZip4Cd": null,
+  "receiptDa": "2008-10-15T00:00:00.000",
+  "facLatDecMs": "39.853310",
+  "facLongDecMs": "-084.917587",
+  "lepcNm": "Wayne County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Richmond Fire Department",
+    "agencyPhoneNm": "7659837266",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52723"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52723"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52723"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/52723"
+    }
+  }
+}

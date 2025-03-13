@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000017096,
+  "epaFacId": "100000145274",
+  "facNm": "Superior Dairy Inc.",
+  "parntCo1Nm": "LEL Operating Co.",
+  "facDunsNu": 4526638,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4719 Navarre Rd SW",
+  "facStreet2Tx": null,
+  "facCityNm": "Canton",
+  "facStateCd": "OH",
+  "countyNm": "STARK",
+  "facZipCd": "44706",
+  "facZip4Cd": null,
+  "receiptDa": "2011-09-15T00:00:00.000",
+  "facLatDecMs": "40.770861",
+  "facLongDecMs": "-081.437000",
+  "lepcNm": "Stark County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Stark County LEPC",
+    "agencyPhoneNm": "3304513911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017096"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017096"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017096"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000017096"
+    }
+  }
+}

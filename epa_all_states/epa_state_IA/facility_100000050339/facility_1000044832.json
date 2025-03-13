@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000044832,
+  "epaFacId": "100000050339",
+  "facNm": "Kemin Industries, Inc. - Des Moines Facility",
+  "parntCo1Nm": "Kemin Industries, Inc.",
+  "facDunsNu": 5274287,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2100 Maury St.",
+  "facStreet2Tx": null,
+  "facCityNm": "Des Moines",
+  "facStateCd": "IA",
+  "countyNm": "POLK",
+  "facZipCd": "50317",
+  "facZip4Cd": "1100",
+  "receiptDa": "2014-06-19T00:00:00.000",
+  "facLatDecMs": "41.582222",
+  "facLongDecMs": "-093.580000",
+  "lepcNm": "Polk County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Des Moines Fire Department",
+    "agencyPhoneNm": "5152834240",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044832"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Animal Food Manufacturing ",
+          "naicsCd": "311119",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311119"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044832"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044832"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000044832"
+    }
+  }
+}

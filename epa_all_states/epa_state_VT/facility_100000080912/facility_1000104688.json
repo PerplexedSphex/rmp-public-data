@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000104688,
+  "epaFacId": "100000080912",
+  "facNm": "St. Albans Plant - Ben & Jerry's",
+  "parntCo1Nm": "Conopco, Inc. d/b/a Unilever",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "900 Industrial Park Road",
+  "facStreet2Tx": "",
+  "facCityNm": "St. Albans",
+  "facStateCd": "VT",
+  "countyNm": "FRANKLIN",
+  "facZipCd": "05478",
+  "facZip4Cd": "",
+  "receiptDa": "2023-04-04T00:00:00.000",
+  "facLatDecMs": "44.795520",
+  "facLongDecMs": "-73.099460",
+  "lepcNm": "Statewide LEPC ",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "St Albans Town Fire Department",
+    "agencyPhoneNm": "8023091815",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104688"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104688"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104688"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000104688"
+    }
+  }
+}

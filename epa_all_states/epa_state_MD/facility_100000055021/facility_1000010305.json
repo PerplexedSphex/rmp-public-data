@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000010305,
+  "epaFacId": "100000055021",
+  "facNm": "Unilever Ice Cream (Good Humor Corp Hagerstown)",
+  "parntCo1Nm": "Conopco",
+  "facDunsNu": 101465722,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1100 Frederick Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Hagerstown",
+  "facStateCd": "MD",
+  "countyNm": "WASHINGTON",
+  "facZipCd": "21740",
+  "facZip4Cd": null,
+  "receiptDa": "2009-08-05T00:00:00.000",
+  "facLatDecMs": "39.617778",
+  "facLongDecMs": "-077.710556",
+  "lepcNm": "Washington County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2012-08-29T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Washington County LEPC",
+    "agencyPhoneNm": "2403132900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010305"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010305"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010305"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000010305"
+    }
+  }
+}

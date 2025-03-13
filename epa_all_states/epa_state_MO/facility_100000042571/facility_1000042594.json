@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000042594,
+  "epaFacId": "100000042571",
+  "facNm": "Smithfield Farmland Corp.- Martin City ",
+  "parntCo1Nm": "Smithfield Farmland Corp",
+  "facDunsNu": 3210913,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "13825 Wyandotte",
+  "facStreet2Tx": null,
+  "facCityNm": "Kansas City",
+  "facStateCd": "MO",
+  "countyNm": "JACKSON",
+  "facZipCd": "64145",
+  "facZip4Cd": null,
+  "receiptDa": "2014-07-29T00:00:00.000",
+  "facLatDecMs": "38.876937",
+  "facLongDecMs": "-094.596662",
+  "lepcNm": "Mid-America LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kansas City Fire Department",
+    "agencyPhoneNm": "8167849100",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042594"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Meat Processed from Carcasses ",
+          "naicsCd": "311612",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311612"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042594"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042594"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042594"
+    }
+  }
+}

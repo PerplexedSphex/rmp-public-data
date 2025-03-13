@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000055200,
+  "epaFacId": "100000226784",
+  "facNm": "Zeco",
+  "parntCo1Nm": "The Vincit Group",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4146 Southcreek Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Chattanooga",
+  "facStateCd": "TN",
+  "countyNm": "HAMILTON",
+  "facZipCd": "37406",
+  "facZip4Cd": null,
+  "receiptDa": "2016-01-15T00:00:00.000",
+  "facLatDecMs": "35.09183",
+  "facLongDecMs": "-85.24577",
+  "lepcNm": "Hamilton County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hamilton County Hazardous Materials",
+    "agencyPhoneNm": "4232096900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055200"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Soap and Other Detergent Manufacturing ",
+          "naicsCd": "325611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Peracetic acid  [Ethaneperoxoic acid]",
+          "casNu": "79-21-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/18"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055200"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055200"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000055200"
+    }
+  }
+}

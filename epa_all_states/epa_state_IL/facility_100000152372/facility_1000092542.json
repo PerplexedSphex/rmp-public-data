@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000092542,
+  "epaFacId": "100000152372",
+  "facNm": "Henry Plant",
+  "parntCo1Nm": "Henry IL LLC",
+  "facDunsNu": 23619344,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1550 County Road, 1450 North",
+  "facStreet2Tx": null,
+  "facCityNm": "HENRY",
+  "facStateCd": "IL",
+  "countyNm": "MARSHALL",
+  "facZipCd": "61537",
+  "facZip4Cd": null,
+  "receiptDa": "2021-02-24T00:00:00.000",
+  "facLatDecMs": "41.134417",
+  "facLongDecMs": "-089.340556",
+  "lepcNm": "Marshall County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2022-06-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Henry Fire Department",
+    "agencyPhoneNm": "3093643520",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092542"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Organic Chemical Manufacturing",
+          "naicsCd": "32519",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32519"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Carbon disulfide",
+          "casNu": "75-15-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/8"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092542"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092542"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000092542"
+    }
+  }
+}

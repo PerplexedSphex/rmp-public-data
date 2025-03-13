@@ -1,0 +1,79 @@
+{
+  "facilityId": 4530,
+  "epaFacId": "100000055012",
+  "facNm": "Good Humor Corporation Richmond",
+  "parntCo1Nm": "Conopco",
+  "facDunsNu": 3134574,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3031 Norfolk Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Richmond",
+  "facStateCd": "VA",
+  "countyNm": "RICHMOND (CITY)",
+  "facZipCd": "23230",
+  "facZip4Cd": "4509",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "37.568611",
+  "facLongDecMs": "-77.469167",
+  "lepcNm": "Richmond LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2001-02-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Richmond LEPC",
+    "agencyPhoneNm": "8047806660",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4530"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4530"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4530"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/4530"
+    }
+  }
+}

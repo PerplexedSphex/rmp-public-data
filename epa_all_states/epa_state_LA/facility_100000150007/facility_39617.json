@@ -1,0 +1,79 @@
+{
+  "facilityId": 39617,
+  "epaFacId": "100000150007",
+  "facNm": "Brown's Dairy",
+  "parntCo1Nm": "Dean Foods",
+  "facDunsNu": 808078711,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1300 Baronne Street",
+  "facStreet2Tx": null,
+  "facCityNm": "New Orleans",
+  "facStateCd": "LA",
+  "countyNm": "ORLEANS",
+  "facZipCd": "70113",
+  "facZip4Cd": null,
+  "receiptDa": "2004-07-30T00:00:00.000",
+  "facLatDecMs": "29.942002",
+  "facLongDecMs": "-090.076776",
+  "lepcNm": "Orleans Parish LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Spill Response",
+    "agencyPhoneNm": "8002854231",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39617"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39617"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39617"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/39617"
+    }
+  }
+}

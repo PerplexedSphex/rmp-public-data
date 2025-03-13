@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000080355,
+  "epaFacId": "100000001017",
+  "facNm": "Canute Natural Gas Processing Plant",
+  "parntCo1Nm": "Energy Transfer LP",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "11760 N. 2069 Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Canute",
+  "facStateCd": "OK",
+  "countyNm": "WASHITA",
+  "facZipCd": "73626",
+  "facZip4Cd": null,
+  "receiptDa": "2019-06-12T11:32:29.000",
+  "facLatDecMs": "35.309167",
+  "facLongDecMs": "-099.301667",
+  "lepcNm": "Washita County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Washita County LEPC - OK176",
+    "agencyPhoneNm": "5808322334",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080355"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Extraction ",
+          "naicsCd": "21113",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/21113"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethane",
+          "casNu": "74-84-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/94"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080355"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080355"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000080355"
+    }
+  }
+}

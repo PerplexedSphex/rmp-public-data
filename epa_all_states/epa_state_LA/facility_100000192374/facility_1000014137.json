@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000014137,
+  "epaFacId": "100000192374",
+  "facNm": "Evonik CYRO - Fortier Plant",
+  "parntCo1Nm": "EVONIK CYRO Industries LLC",
+  "facDunsNu": 60809647,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10800 River Road (LA Hwy. 18)",
+  "facStreet2Tx": "Evonik CYRO Unit",
+  "facCityNm": "Waggaman",
+  "facStateCd": "LA",
+  "countyNm": "JEFFERSON",
+  "facZipCd": "70094",
+  "facZip4Cd": null,
+  "receiptDa": "2010-05-21T00:00:00.000",
+  "facLatDecMs": "29.956517",
+  "facLongDecMs": "-090.269993",
+  "lepcNm": "Jefferson Parish",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jefferson Parish LEPC",
+    "agencyPhoneNm": "5043495360",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014137"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrocyanic acid",
+          "casNu": "74-90-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/6"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014137"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014137"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000014137"
+    }
+  }
+}

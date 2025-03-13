@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000020980,
+  "epaFacId": "100000101418",
+  "facNm": "Tip Top Poultry - Marietta Division",
+  "parntCo1Nm": "Tip Top Poultry, Inc",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "327 Wallace Road",
+  "facStreet2Tx": "PO Box 6338",
+  "facCityNm": "Marietta",
+  "facStateCd": "GA",
+  "countyNm": "COBB",
+  "facZipCd": "30065",
+  "facZip4Cd": null,
+  "receiptDa": "2011-03-08T00:00:00.000",
+  "facLatDecMs": "33.959111",
+  "facLongDecMs": "-084.514083",
+  "lepcNm": "Cobb County Emerg Mgmt Agency",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cobb County Police Dept.",
+    "agencyPhoneNm": "7704994566",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020980"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020980"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020980"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000020980"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000009078,
+  "epaFacId": "100000123476",
+  "facNm": "UNIVAR USA INC",
+  "parntCo1Nm": "UNIVAR USA INC",
+  "facDunsNu": 102971785,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "155 ELLIS RD.",
+  "facStreet2Tx": null,
+  "facCityNm": "JACKSONVILLE",
+  "facStateCd": "FL",
+  "countyNm": "DUVAL",
+  "facZipCd": "32254",
+  "facZip4Cd": "3546",
+  "receiptDa": "2009-06-30T00:00:00.000",
+  "facLatDecMs": "30.323889",
+  "facLongDecMs": "-081.743889",
+  "lepcNm": "Duval County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2014-06-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jacksonville Fire Dept",
+    "agencyPhoneNm": "9046300284",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009078"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Merchant Wholesalers ",
+          "naicsCd": "42469",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42469"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009078"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009078"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000009078"
+    }
+  }
+}

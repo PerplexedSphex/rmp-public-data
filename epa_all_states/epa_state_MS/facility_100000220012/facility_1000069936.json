@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000069936,
+  "epaFacId": "100000220012",
+  "facNm": "Resinall Qalic B",
+  "parntCo1Nm": null,
+  "facDunsNu": 122685282,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "102 B Dixie Pine Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Hattiesburg",
+  "facStateCd": "MS",
+  "countyNm": "FORREST",
+  "facZipCd": "39401",
+  "facZip4Cd": null,
+  "receiptDa": "2018-05-23T10:40:56.000",
+  "facLatDecMs": "31.292540",
+  "facLongDecMs": "-89.271950",
+  "lepcNm": "Forrest County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hattiesburg Fire Department",
+    "agencyPhoneNm": "6015823311",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069936"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Petrochemical Manufacturing",
+          "naicsCd": "32511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen",
+          "casNu": "1333-74-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/149"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069936"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069936"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000069936"
+    }
+  }
+}

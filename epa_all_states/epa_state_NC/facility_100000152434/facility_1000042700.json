@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000042700,
+  "epaFacId": "100000152434",
+  "facNm": "Great American Snacks",
+  "parntCo1Nm": null,
+  "facDunsNu": 1104736,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2701 Simpson Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Monroe",
+  "facStateCd": "NC",
+  "countyNm": "UNION",
+  "facZipCd": "28112",
+  "facZip4Cd": null,
+  "receiptDa": "2014-06-02T00:00:00.000",
+  "facLatDecMs": "34.983056",
+  "facLongDecMs": "-080.497888",
+  "lepcNm": "Union County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2018-09-24T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Monroe Fire Department",
+    "agencyPhoneNm": "7042825550",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042700"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Frozen Specialty Food Manufacturing ",
+          "naicsCd": "311412",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311412"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042700"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042700"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000042700"
+    }
+  }
+}

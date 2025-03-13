@@ -1,0 +1,79 @@
+{
+  "facilityId": 55691,
+  "epaFacId": "100000022673",
+  "facNm": "Miller Coors LLC (TX)",
+  "parntCo1Nm": null,
+  "facDunsNu": 827129540,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7001 South Freeway",
+  "facStreet2Tx": null,
+  "facCityNm": "Fort Worth",
+  "facStateCd": "TX",
+  "countyNm": "TARRANT",
+  "facZipCd": "76134",
+  "facZip4Cd": "4098",
+  "receiptDa": "2009-07-07T00:00:00.000",
+  "facLatDecMs": "32.644444",
+  "facLongDecMs": "-097.319167",
+  "lepcNm": "Tarrant County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Fort Worth Fire Department",
+    "agencyPhoneNm": "8178716800",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55691"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55691"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55691"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55691"
+    }
+  }
+}

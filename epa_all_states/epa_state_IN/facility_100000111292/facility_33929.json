@@ -1,0 +1,79 @@
+{
+  "facilityId": 33929,
+  "epaFacId": "100000111292",
+  "facNm": "Indiana Packers Corporation",
+  "parntCo1Nm": "Mitsubishi Corporation",
+  "facDunsNu": 613963131,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "US Hwy 421 South CR 100 North",
+  "facStreet2Tx": null,
+  "facCityNm": "Delphi",
+  "facStateCd": "IN",
+  "countyNm": "CARROLL",
+  "facZipCd": "46923",
+  "facZip4Cd": "0318",
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "40.563889",
+  "facLongDecMs": "-086.651944",
+  "lepcNm": "Carroll County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Carrol County LEPC",
+    "agencyPhoneNm": "7655644243",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33929"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Animal (except Poultry) Slaughtering ",
+          "naicsCd": "311611",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311611"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33929"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33929"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33929"
+    }
+  }
+}

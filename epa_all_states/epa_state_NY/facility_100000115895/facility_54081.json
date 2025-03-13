@@ -1,0 +1,79 @@
+{
+  "facilityId": 54081,
+  "epaFacId": "100000115895",
+  "facNm": "Olin Corporation, Niagara Falls, NY-Foote Yard",
+  "parntCo1Nm": "Olin Corporation",
+  "facDunsNu": 2123461,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "Porter and New Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Niagara Falls",
+  "facStateCd": "NY",
+  "countyNm": "NIAGARA",
+  "facZipCd": "14302",
+  "facZip4Cd": "0748",
+  "receiptDa": "2009-04-09T00:00:00.000",
+  "facLatDecMs": "43.108917",
+  "facLongDecMs": "-079.002694",
+  "lepcNm": "Niagara County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Niagara Falls Fire Department",
+    "agencyPhoneNm": "7162864725",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54081"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Rail Transportation",
+          "naicsCd": "48211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54081"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54081"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54081"
+    }
+  }
+}

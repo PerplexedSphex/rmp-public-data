@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000074440,
+  "epaFacId": "100000240517",
+  "facNm": "Campbell Snacks - Denver Plant",
+  "parntCo1Nm": "Campbell Soup Company",
+  "facDunsNu": 1184472,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2195 N Reading Rd",
+  "facStreet2Tx": null,
+  "facCityNm": "Denver",
+  "facStateCd": "PA",
+  "countyNm": "LANCASTER",
+  "facZipCd": "17517",
+  "facZip4Cd": null,
+  "receiptDa": "2019-01-09T13:47:21.000",
+  "facLatDecMs": "40.22429",
+  "facLongDecMs": "-76.09463",
+  "lepcNm": "Lancaster County Emerg. Mgmt.",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Reamstown Fire Department",
+    "agencyPhoneNm": "7173363958",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074440"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Commercial Bakeries ",
+          "naicsCd": "311812",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311812"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074440"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074440"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000074440"
+    }
+  }
+}

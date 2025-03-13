@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000030038,
+  "epaFacId": "100000062353",
+  "facNm": "Rich Products Manufacturing Corp., Niles Facility",
+  "parntCo1Nm": null,
+  "facDunsNu": 62180273,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "6200 Mulford Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Niles",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60714",
+  "facZip4Cd": null,
+  "receiptDa": "2014-07-11T00:00:00.000",
+  "facLatDecMs": "42.022222",
+  "facLongDecMs": "-087.780556",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Niles Fire Department",
+    "agencyPhoneNm": "8475886800",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030038"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Perishable Prepared Food Manufacturing ",
+          "naicsCd": "311991",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311991"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030038"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030038"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000030038"
+    }
+  }
+}

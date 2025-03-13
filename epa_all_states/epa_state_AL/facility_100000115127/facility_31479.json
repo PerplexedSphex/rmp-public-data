@@ -1,0 +1,79 @@
+{
+  "facilityId": 31479,
+  "epaFacId": "100000115127",
+  "facNm": "Occidental Chemical Corp., Muscle Shoals Facility",
+  "parntCo1Nm": "Occidental Petroleum Corporation",
+  "facDunsNu": 4019642,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1000 North Wilson Dam Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Muscle Shoals",
+  "facStateCd": "AL",
+  "countyNm": "COLBERT",
+  "facZipCd": "35661",
+  "facZip4Cd": "1344",
+  "receiptDa": "2004-06-14T00:00:00.000",
+  "facLatDecMs": "34.770556",
+  "facLongDecMs": "-087.634444",
+  "lepcNm": "Colbert County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2009-09-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Colbert County EMA",
+    "agencyPhoneNm": "2563868558",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31479"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Alkalies and Chlorine Manufacturing",
+          "naicsCd": "325181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31479"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31479"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31479"
+    }
+  }
+}

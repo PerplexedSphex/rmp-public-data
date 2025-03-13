@@ -1,0 +1,79 @@
+{
+  "facilityId": 12485,
+  "epaFacId": "100000131207",
+  "facNm": "Neville Island Facility",
+  "parntCo1Nm": "Neville Chemical Company",
+  "facDunsNu": 4334157,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2800 Neville Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Pittsburgh",
+  "facStateCd": "PA",
+  "countyNm": "ALLEGHENY",
+  "facZipCd": "15225",
+  "facZip4Cd": "1496",
+  "receiptDa": "1999-06-23T00:00:00.000",
+  "facLatDecMs": "40.502778",
+  "facLongDecMs": "-80.099167",
+  "lepcNm": "Allegheny County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Allegheny County Health Department",
+    "agencyPhoneNm": "4125788319",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12485"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Resin and Synthetic Rubber Manufacturing",
+          "naicsCd": "32521",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32521"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Boron trifluoride  [Borane, trifluoro-]",
+          "casNu": "7637-07-2",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/52"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12485"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12485"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/12485"
+    }
+  }
+}

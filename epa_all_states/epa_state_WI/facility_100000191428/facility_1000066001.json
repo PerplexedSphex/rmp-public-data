@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000066001,
+  "epaFacId": "100000191428",
+  "facNm": "Plymouth Tube Company, Trent",
+  "parntCo1Nm": null,
+  "facDunsNu": 49813314,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2056 Young Street",
+  "facStreet2Tx": null,
+  "facCityNm": "East Troy",
+  "facStateCd": "WI",
+  "countyNm": "WALWORTH",
+  "facZipCd": "53120",
+  "facZip4Cd": null,
+  "receiptDa": "2017-09-28T00:00:00.000",
+  "facLatDecMs": "42.787778",
+  "facLongDecMs": "-088.390556",
+  "lepcNm": "Walworth LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Walworth County LEPC",
+    "agencyPhoneNm": "4147414160",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066001"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Iron and Steel Pipe and Tube Manufacturing from Purchased Steel",
+          "naicsCd": "33121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066001"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066001"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066001"
+    }
+  }
+}

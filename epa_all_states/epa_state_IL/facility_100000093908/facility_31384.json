@@ -1,0 +1,79 @@
+{
+  "facilityId": 31384,
+  "epaFacId": "100000093908",
+  "facNm": "Baker & Baker",
+  "parntCo1Nm": "CSM North America",
+  "facDunsNu": 6089007,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1301 Estes Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Elk Grove Village",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60007",
+  "facZip4Cd": "5403",
+  "receiptDa": "2004-06-14T00:00:00.000",
+  "facLatDecMs": "42.005278",
+  "facLongDecMs": "-087.966944",
+  "lepcNm": "Cook County North LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2007-12-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Elk Grove Village Fire Department",
+    "agencyPhoneNm": "8477348000",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31384"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Mixes and Dough Manufacturing from Purchased Flour",
+          "naicsCd": "311822",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311822"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31384"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31384"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/31384"
+    }
+  }
+}

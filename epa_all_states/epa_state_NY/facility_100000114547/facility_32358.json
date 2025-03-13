@@ -1,0 +1,79 @@
+{
+  "facilityId": 32358,
+  "epaFacId": "100000114547",
+  "facNm": "Occidental Chemical Corporation - Niagara Plant",
+  "parntCo1Nm": "Occidental Petroleum Corporation",
+  "facDunsNu": 39055660,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4700 Buffalo Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Niagara Falls",
+  "facStateCd": "NY",
+  "countyNm": "NIAGARA",
+  "facZipCd": "14302",
+  "facZip4Cd": "0344",
+  "receiptDa": "2004-06-17T00:00:00.000",
+  "facLatDecMs": "43.079444",
+  "facLongDecMs": "-079.008333",
+  "lepcNm": "Niagara County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2021-10-07T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Niagara Falls Fire Department",
+    "agencyPhoneNm": "7162864725",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32358"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Alkalies and Chlorine Manufacturing",
+          "naicsCd": "325181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32358"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32358"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/32358"
+    }
+  }
+}

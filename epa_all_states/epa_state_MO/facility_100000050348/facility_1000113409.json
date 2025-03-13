@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000113409,
+  "epaFacId": "100000050348",
+  "facNm": "TYSON POULTRY, INC. SEDALIA, MO, PROCESSING PLANT",
+  "parntCo1Nm": "TYSON POULTRY, INC.",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "19571 WHITFIELD RD.",
+  "facStreet2Tx": "",
+  "facCityNm": "SEDALIA",
+  "facStateCd": "MO",
+  "countyNm": "PETTIS",
+  "facZipCd": "65301",
+  "facZip4Cd": "",
+  "receiptDa": "2024-05-11T00:00:00.000",
+  "facLatDecMs": "38.748889",
+  "facLongDecMs": "-093.321389",
+  "lepcNm": "Pettis County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Pettis County Sheriff's Department",
+    "agencyPhoneNm": "6608270052",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113409"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113409"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113409"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113409"
+    }
+  }
+}

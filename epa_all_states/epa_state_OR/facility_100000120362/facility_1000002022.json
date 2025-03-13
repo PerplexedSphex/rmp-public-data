@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000002022,
+  "epaFacId": "100000120362",
+  "facNm": "International Paper - Albany Mill",
+  "parntCo1Nm": "International Paper",
+  "facDunsNu": 137185856,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "3251 Old Salem Road Northeast",
+  "facStreet2Tx": null,
+  "facCityNm": "Albany",
+  "facStateCd": "OR",
+  "countyNm": "LINN",
+  "facZipCd": "97321",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-09T00:00:00.000",
+  "facLatDecMs": "44.672222",
+  "facLongDecMs": "-123.062500",
+  "lepcNm": "Mid-Valley LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2009-12-18T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Albany Fire and Life Safety",
+    "agencyPhoneNm": "5419177700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002022"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Paperboard Mills",
+          "naicsCd": "32213",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32213"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002022"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002022"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002022"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1808,
+  "epaFacId": "100000022236",
+  "facNm": "Santee Dairies, Inc.",
+  "parntCo1Nm": "Stater Bros.",
+  "facDunsNu": 151588514,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "17851 East Railroad Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Industry",
+  "facStateCd": "CA",
+  "countyNm": "LOS ANGELES",
+  "facZipCd": "91748",
+  "facZip4Cd": "1118",
+  "receiptDa": "1999-06-07T00:00:00.000",
+  "facLatDecMs": "33.997472",
+  "facLongDecMs": "-117.913861",
+  "lepcNm": "California Region 1 LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Los Angeles County Fire Department",
+    "agencyPhoneNm": "3238904038",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1808"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Dry, Condensed, and Evaporated Dairy Product Manufacturing ",
+          "naicsCd": "311514",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311514"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1808"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1808"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1808"
+    }
+  }
+}

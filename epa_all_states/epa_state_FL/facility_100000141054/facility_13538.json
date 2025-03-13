@@ -1,0 +1,79 @@
+{
+  "facilityId": 13538,
+  "epaFacId": "100000141054",
+  "facNm": "TradeMark Nitrogen",
+  "parntCo1Nm": null,
+  "facDunsNu": 101856540,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1216 Old Hopewell Road",
+  "facStreet2Tx": "PO Box 1750",
+  "facCityNm": "Tampa",
+  "facStateCd": "FL",
+  "countyNm": "HILLSBOROUGH",
+  "facZipCd": "33619",
+  "facZip4Cd": "1750",
+  "receiptDa": "1999-06-24T00:00:00.000",
+  "facLatDecMs": "27.954444",
+  "facLongDecMs": "-82.350833",
+  "lepcNm": "Tampa Bay LEPC (District VIII)",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hillsborough County Fire Department",
+    "agencyPhoneNm": "8137445541",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13538"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Nitrogenous Fertilizer Manufacturing ",
+          "naicsCd": "325311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13538"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13538"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/13538"
+    }
+  }
+}

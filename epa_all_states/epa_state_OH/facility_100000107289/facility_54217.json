@@ -1,0 +1,79 @@
+{
+  "facilityId": 54217,
+  "epaFacId": "100000107289",
+  "facNm": "Frostbite Brands, Inc.",
+  "parntCo1Nm": "Land O Sun Dairies, LLC",
+  "facDunsNu": 6250740,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4117 Fitch Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Toledo",
+  "facStateCd": "OH",
+  "countyNm": "LUCAS",
+  "facZipCd": "43613",
+  "facZip4Cd": null,
+  "receiptDa": "2009-05-04T00:00:00.000",
+  "facLatDecMs": "41.695833",
+  "facLongDecMs": "-083.591111",
+  "lepcNm": "Lucas County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Toledo HAZMAT Team",
+    "agencyPhoneNm": "4192651973",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54217"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54217"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54217"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/54217"
+    }
+  }
+}

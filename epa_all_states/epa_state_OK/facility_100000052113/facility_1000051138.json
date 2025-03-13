@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000051138,
+  "epaFacId": "100000052113",
+  "facNm": "Baker Petrolite LLC - Barnsdall, OK",
+  "parntCo1Nm": "Baker Petrolite LLC",
+  "facDunsNu": 72415037,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "800 S. Birch Lake Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Barnsdall",
+  "facStateCd": "OK",
+  "countyNm": "OSAGE",
+  "facZipCd": "74002",
+  "facZip4Cd": null,
+  "receiptDa": "2015-08-30T00:00:00.000",
+  "facLatDecMs": "36.555565",
+  "facLongDecMs": "-96.160423",
+  "lepcNm": "Osage County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Barnsdall Fire Department",
+    "agencyPhoneNm": "9188472255",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051138"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Propylene  [1-Propene]",
+          "casNu": "115-07-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/129"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethylene  [Ethene]",
+          "casNu": "74-85-1",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/95"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051138"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051138"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000051138"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000053077,
+  "epaFacId": "100000094177",
+  "facNm": "Pilgrim's Pride - Douglas Poultry Processing Plant",
+  "parntCo1Nm": "Pilgrim's Pride Corporation",
+  "facDunsNu": 174425959,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "113 McNeal Drive",
+  "facStreet2Tx": "P.O. Box 870",
+  "facCityNm": "Douglas",
+  "facStateCd": "GA",
+  "countyNm": "COFFEE",
+  "facZipCd": "31533",
+  "facZip4Cd": "2415",
+  "receiptDa": "2015-10-26T00:00:00.000",
+  "facLatDecMs": "31.526775",
+  "facLongDecMs": "-082.847678",
+  "lepcNm": "Coffee County EMA / LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Douglas Fire Department",
+    "agencyPhoneNm": "9123891705",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053077"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Poultry Processing ",
+          "naicsCd": "311615",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311615"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053077"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053077"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000053077"
+    }
+  }
+}

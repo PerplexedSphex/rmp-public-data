@@ -1,0 +1,79 @@
+{
+  "facilityId": 33953,
+  "epaFacId": "100000050838",
+  "facNm": "United States Cold Storage, O Street",
+  "parntCo1Nm": "United States Cold Storage, Inc.",
+  "facDunsNu": 102924339,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "PO Box 635",
+  "facStreet2Tx": "1300 South \"O\" Street",
+  "facCityNm": "Dinuba",
+  "facStateCd": "CA",
+  "countyNm": "TULARE",
+  "facZipCd": "93618",
+  "facZip4Cd": "0655",
+  "receiptDa": "2004-06-21T00:00:00.000",
+  "facLatDecMs": "36.534444",
+  "facLongDecMs": "-119.387500",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2007-01-12T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dinuba Fire Department",
+    "agencyPhoneNm": "5595915930",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33953"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33953"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33953"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/33953"
+    }
+  }
+}

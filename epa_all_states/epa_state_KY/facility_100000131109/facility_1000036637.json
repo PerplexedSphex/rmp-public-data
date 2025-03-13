@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000036637,
+  "epaFacId": "100000131109",
+  "facNm": "Ralcorp Frozen Bakery Products",
+  "parntCo1Nm": "Ralcorp Holdings, Inc.",
+  "facDunsNu": 48300685,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "12650 Westport Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Louisville",
+  "facStateCd": "KY",
+  "countyNm": "JEFFERSON",
+  "facZipCd": "40245",
+  "facZip4Cd": null,
+  "receiptDa": "2013-10-02T00:00:00.000",
+  "facLatDecMs": "38.302778",
+  "facLongDecMs": "-085.520000",
+  "lepcNm": "Metro Louisville LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Worthington Fire Dept.",
+    "agencyPhoneNm": "5022419366",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036637"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Bread and Bakery Product Manufacturing",
+          "naicsCd": "31181",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31181"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036637"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036637"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000036637"
+    }
+  }
+}

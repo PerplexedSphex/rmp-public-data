@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000056343,
+  "epaFacId": "100000175936",
+  "facNm": "DHL Supply Chain",
+  "parntCo1Nm": null,
+  "facDunsNu": 69502821,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "5522 Little Richmond Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Dayton",
+  "facStateCd": "OH",
+  "countyNm": "MONTGOMERY",
+  "facZipCd": "45426",
+  "facZip4Cd": "3218",
+  "receiptDa": "2016-03-25T00:00:00.000",
+  "facLatDecMs": "39.774722",
+  "facLongDecMs": "-84.283612",
+  "lepcNm": "Greene/Montgomery County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Montgomery/Greene LEPC",
+    "agencyPhoneNm": "9372236323",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056343"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056343"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056343"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056343"
+    }
+  }
+}

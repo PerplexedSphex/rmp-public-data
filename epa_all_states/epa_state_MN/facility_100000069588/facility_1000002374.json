@@ -1,0 +1,88 @@
+{
+  "facilityId": 1000002374,
+  "epaFacId": "100000069588",
+  "facNm": "SENECA FOODS CORP.  GLENCOE, MINNESOTA",
+  "parntCo1Nm": "SENECA FOODS CORP. PITTSFORD, NEW YORK",
+  "facDunsNu": 2207322,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "101 WEST 8TH. STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "GLENCOE",
+  "facStateCd": "MN",
+  "countyNm": "MCLEOD",
+  "facZipCd": "55336",
+  "facZip4Cd": null,
+  "receiptDa": "2009-05-26T00:00:00.000",
+  "facLatDecMs": "44.766389",
+  "facLongDecMs": "-094.161389",
+  "lepcNm": "EMERGENCY SERVICES DIRECTOR",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "GLENCOE FIRE DEPARTMENT",
+    "agencyPhoneNm": "3208644310",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002374"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fruit and Vegetable Canning ",
+          "naicsCd": "311421",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311421"
+            }
+          }
+        },
+        {
+          "description": "Frozen Fruit, Juice, and Vegetable Manufacturing ",
+          "naicsCd": "311411",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311411"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002374"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002374"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000002374"
+    }
+  }
+}

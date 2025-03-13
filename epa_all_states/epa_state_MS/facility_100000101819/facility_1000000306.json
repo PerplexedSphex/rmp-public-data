@@ -1,0 +1,90 @@
+{
+  "facilityId": 1000000306,
+  "epaFacId": "100000101819",
+  "facNm": "DuPont DeLisle Plant",
+  "parntCo1Nm": "E.I. du Pont de Nemours & Co., Inc.",
+  "facDunsNu": 96046792,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7685 Kiln-DeLisle Road",
+  "facStreet2Tx": "P. O. Box 430",
+  "facCityNm": "Pass Christian",
+  "facStateCd": "MS",
+  "countyNm": "HARRISON",
+  "facZipCd": "39571",
+  "facZip4Cd": "0430",
+  "receiptDa": "2009-06-02T00:00:00.000",
+  "facLatDecMs": "30.380556",
+  "facLongDecMs": "-089.307778",
+  "lepcNm": "Harrison County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Harrison Co. Local Emerg. Plng Comm",
+    "agencyPhoneNm": "2288657060",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000306"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Inorganic Dye and Pigment Manufacturing",
+          "naicsCd": "325131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Titanium tetrachloride  [Titanium chloride (TiCl4) (T-4)-]",
+          "casNu": "7550-45-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/51"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000306"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000306"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000000306"
+    }
+  }
+}

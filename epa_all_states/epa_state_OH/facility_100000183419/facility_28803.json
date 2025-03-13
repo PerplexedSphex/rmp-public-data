@@ -1,0 +1,79 @@
+{
+  "facilityId": 28803,
+  "epaFacId": "100000183419",
+  "facNm": "Chemron Corporation Bowling Green Plant",
+  "parntCo1Nm": "Lubrizol Corporation",
+  "facDunsNu": 83901033,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1142 N. Main Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Bowling Green",
+  "facStateCd": "OH",
+  "countyNm": "WOOD",
+  "facZipCd": "43402",
+  "facZip4Cd": null,
+  "receiptDa": "2003-08-18T00:00:00.000",
+  "facLatDecMs": "41.395",
+  "facLongDecMs": "-83.633333",
+  "lepcNm": "Wood County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-02-27T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bowling Green Fire Dept.",
+    "agencyPhoneNm": "4193535111",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28803"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Surface Active Agent Manufacturing ",
+          "naicsCd": "325613",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325613"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Epichlorohydrin  [Oxirane, (chloromethyl)-]",
+          "casNu": "106-89-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/21"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28803"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28803"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/28803"
+    }
+  }
+}

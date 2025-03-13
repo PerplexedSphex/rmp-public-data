@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000111548,
+  "epaFacId": "100000129256",
+  "facNm": "U.S. Army Garrison Aberdeen Proving Ground",
+  "parntCo1Nm": "U.S. Department of Defense",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2201 Aberdeen Boulevard",
+  "facStreet2Tx": "",
+  "facCityNm": "APG",
+  "facStateCd": "MD",
+  "countyNm": "HARFORD",
+  "facZipCd": "21005",
+  "facZip4Cd": "",
+  "receiptDa": "2025-01-17T00:00:00.000",
+  "facLatDecMs": "39.466667",
+  "facLongDecMs": "-076.166667",
+  "lepcNm": "Harford County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "APG Fire Department",
+    "agencyPhoneNm": "4103060501",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000111548"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Professional, Scientific, and Technical Services",
+          "naicsCd": "54199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/54199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000111548"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000111548"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000111548"
+    }
+  }
+}

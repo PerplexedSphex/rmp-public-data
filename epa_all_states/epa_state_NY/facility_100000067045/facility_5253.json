@@ -1,0 +1,111 @@
+{
+  "facilityId": 5253,
+  "epaFacId": "100000067045",
+  "facNm": "Kodak Park Site",
+  "parntCo1Nm": "Eastman Kodak Company",
+  "facDunsNu": 135588689,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1669 Lake Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Rochester",
+  "facStateCd": "NY",
+  "countyNm": "MONROE",
+  "facZipCd": "14652",
+  "facZip4Cd": "4779",
+  "receiptDa": "1999-06-18T00:00:00.000",
+  "facLatDecMs": "43.2",
+  "facLongDecMs": "-77.633333",
+  "lepcNm": "Monroe County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2006-12-22T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Rochester Fire Department",
+    "agencyPhoneNm": "7164286739",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5253"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing ",
+          "naicsCd": "325992",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325992"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5253"
+        }
+      }
+    },
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing ",
+          "naicsCd": "325992",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325992"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Vinylidene chloride [Ethene, 1,1-dichloro-]",
+          "casNu": "75-35-4",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/110"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5253"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5253"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/5253"
+    }
+  }
+}

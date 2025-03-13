@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000022980,
+  "epaFacId": "100000215233",
+  "facNm": "Reef Station West Texas Gas Delivery",
+  "parntCo1Nm": "Texas Pipeline LLC",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "Intersection of Hwy 57 and Hwy 277.",
+  "facStreet2Tx": "E of Eagle Pass, 4 miles E on 277 ",
+  "facCityNm": "Eagle Pass",
+  "facStateCd": "TX",
+  "countyNm": "MAVERICK",
+  "facZipCd": "78852",
+  "facZip4Cd": null,
+  "receiptDa": "2011-09-14T00:00:00.000",
+  "facLatDecMs": "28.708908",
+  "facLongDecMs": "-100.416361",
+  "lepcNm": "Maverick County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": null,
+    "agencyNm": "Eagle Pass FD",
+    "agencyPhoneNm": "8307574231",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022980"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 1,
+      "processNaics": [
+        {
+          "description": "Natural Gas Liquid Extraction",
+          "naicsCd": "211112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/211112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Butane",
+          "casNu": "106-97-8",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/118"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022980"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022980"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000022980"
+    }
+  }
+}

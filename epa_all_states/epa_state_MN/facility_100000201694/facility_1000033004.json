@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000033004,
+  "epaFacId": "100000201694",
+  "facNm": "Trident Seafoods",
+  "parntCo1Nm": "Trident Seafoods",
+  "facDunsNu": 63362370,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1348 Highway 10 South",
+  "facStreet2Tx": null,
+  "facCityNm": "Motley",
+  "facStateCd": "MN",
+  "countyNm": "MORRISON",
+  "facZipCd": "56466",
+  "facZip4Cd": null,
+  "receiptDa": "2013-02-18T00:00:00.000",
+  "facLatDecMs": "46.321944",
+  "facLongDecMs": "-094.646944",
+  "lepcNm": "Motley Emergency Planning Com.",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Motley Volunteer Fire Dept",
+    "agencyPhoneNm": "2183526200",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033004"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Seafood Product Preparation and Packaging",
+          "naicsCd": "31171",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31171"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033004"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033004"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000033004"
+    }
+  }
+}

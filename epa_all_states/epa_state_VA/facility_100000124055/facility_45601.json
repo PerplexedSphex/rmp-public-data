@@ -1,0 +1,79 @@
+{
+  "facilityId": 45601,
+  "epaFacId": "100000124055",
+  "facNm": "Chesapeake Energy Center",
+  "parntCo1Nm": "Dominion Resources, Inc.",
+  "facDunsNu": 7941446,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2701 Vepco Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Chesapeake",
+  "facStateCd": "VA",
+  "countyNm": "CHESAPEAKE (CITY)",
+  "facZipCd": "23323",
+  "facZip4Cd": "6199",
+  "receiptDa": "2006-05-08T00:00:00.000",
+  "facLatDecMs": "36.769444",
+  "facLongDecMs": "-076.299722",
+  "lepcNm": "Chesapeake LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2015-02-04T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Chesapeake Fire Department",
+    "agencyPhoneNm": "7573826566",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45601"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45601"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45601"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/45601"
+    }
+  }
+}

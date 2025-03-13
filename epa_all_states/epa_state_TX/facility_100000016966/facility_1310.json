@@ -1,0 +1,79 @@
+{
+  "facilityId": 1310,
+  "epaFacId": "100000016966",
+  "facNm": "Gulf Chemical & Metallurgical Corp.",
+  "parntCo1Nm": "Comilog USA",
+  "facDunsNu": 154086581,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "302 Midway Rd.",
+  "facStreet2Tx": null,
+  "facCityNm": "Freeport",
+  "facStateCd": "TX",
+  "countyNm": "BRAZORIA",
+  "facZipCd": "77542",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-01T00:00:00.000",
+  "facLatDecMs": "28.939444",
+  "facLongDecMs": "-95.338056",
+  "lepcNm": "Brazoria County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2010-10-01T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "CAER",
+    "agencyPhoneNm": "4092382237",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1310"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Nonferrous Metal (except Aluminum) Smelting and Refining",
+          "naicsCd": "33141",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/33141"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1310"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1310"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1310"
+    }
+  }
+}

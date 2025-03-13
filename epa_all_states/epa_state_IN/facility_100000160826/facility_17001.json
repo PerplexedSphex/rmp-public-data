@@ -1,0 +1,90 @@
+{
+  "facilityId": 17001,
+  "epaFacId": "100000160826",
+  "facNm": "Grain Processing Corporation Plant II",
+  "parntCo1Nm": "Varied Investments Incorporated",
+  "facDunsNu": 198484180,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2000 South Maysville Road",
+  "facStreet2Tx": "R.R. #2 Box 2138",
+  "facCityNm": "Washington",
+  "facStateCd": "IN",
+  "countyNm": "DAVIESS",
+  "facZipCd": "47501",
+  "facZip4Cd": "9663",
+  "receiptDa": "1999-08-27T00:00:00.000",
+  "facLatDecMs": "38.63125",
+  "facLongDecMs": "-87.224583",
+  "lepcNm": "Paul Goss, 812-254-5536",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Washington LEPC, Paul Goss",
+    "agencyPhoneNm": "8122546152",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17001"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Wet Corn Milling and Starch Manufacturing ",
+          "naicsCd": "311221",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311221"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ethylene oxide  [Oxirane]",
+          "casNu": "75-21-8",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/9"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17001"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17001"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17001"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000011324,
+  "epaFacId": "100000124876",
+  "facNm": "Maple Avenue Waste Water Treatment Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 32652245,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "500 Maple Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "South Boston",
+  "facStateCd": "VA",
+  "countyNm": "HALIFAX",
+  "facZipCd": "24592",
+  "facZip4Cd": null,
+  "receiptDa": "2009-10-16T00:00:00.000",
+  "facLatDecMs": "36.695278",
+  "facLongDecMs": "-078.881111",
+  "lepcNm": "Halifax Joint LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2013-04-25T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "South Boston Fire Department",
+    "agencyPhoneNm": "4345754290",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011324"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Sewage Treatment Facilities ",
+          "naicsCd": "22132",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22132"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011324"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011324"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000011324"
+    }
+  }
+}

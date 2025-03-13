@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000084585,
+  "epaFacId": "100000037042",
+  "facNm": "Kraft Heinz Company",
+  "parntCo1Nm": "Kraft Heinz Company",
+  "facDunsNu": 54500327,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "2525 SOUTH BRIDGE STREET",
+  "facStreet2Tx": null,
+  "facCityNm": "NEW ULM",
+  "facStateCd": "MN",
+  "countyNm": "BROWN",
+  "facZipCd": "56073",
+  "facZip4Cd": "3716",
+  "receiptDa": "2020-01-29T13:39:30.000",
+  "facLatDecMs": "44.290000",
+  "facLongDecMs": "-094.433611",
+  "lepcNm": "Minnesota LEPCs",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "New Ulm Fire Department",
+    "agencyPhoneNm": "5073598225",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084585"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084585"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084585"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000084585"
+    }
+  }
+}

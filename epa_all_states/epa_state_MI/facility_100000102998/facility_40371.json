@@ -1,0 +1,79 @@
+{
+  "facilityId": 40371,
+  "epaFacId": "100000102998",
+  "facNm": "Country Fresh, Flint Division",
+  "parntCo1Nm": "Country Fresh, LLC",
+  "facDunsNu": 151930617,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "609 Chavez Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Flint",
+  "facStateCd": "MI",
+  "countyNm": "GENESEE",
+  "facZipCd": "48501",
+  "facZip4Cd": "0469",
+  "receiptDa": "2004-09-14T00:00:00.000",
+  "facLatDecMs": "43.022860",
+  "facLongDecMs": "-083.692810",
+  "lepcNm": "Genesee County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2009-09-11T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Flint City Fire Dept.",
+    "agencyPhoneNm": "8107627336",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40371"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fluid Milk Manufacturing ",
+          "naicsCd": "311511",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311511"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40371"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40371"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/40371"
+    }
+  }
+}

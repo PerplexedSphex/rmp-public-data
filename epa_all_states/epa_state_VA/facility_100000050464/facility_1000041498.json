@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000041498,
+  "epaFacId": "100000050464",
+  "facNm": "Doswell Energy Center",
+  "parntCo1Nm": "Doswell Limited Partnership",
+  "facDunsNu": 135474588,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "10098 Old Ridge Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Ashland",
+  "facStateCd": "VA",
+  "countyNm": "HANOVER",
+  "facZipCd": "23005",
+  "facZip4Cd": "7312",
+  "receiptDa": "2014-06-05T00:00:00.000",
+  "facLatDecMs": "37.820051",
+  "facLongDecMs": "-077.446205",
+  "lepcNm": "Hanover County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Hanover County LEPC",
+    "agencyPhoneNm": "8045376195",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041498"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041498"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041498"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000041498"
+    }
+  }
+}

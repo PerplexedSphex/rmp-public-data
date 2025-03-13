@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000005855,
+  "epaFacId": "100000042731",
+  "facNm": "Seneca Foods Corp.-Cold Storage, Rochester,MN",
+  "parntCo1Nm": "Seneca Foods Corp.",
+  "facDunsNu": 2207322,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "308 20th St. S.E.",
+  "facStreet2Tx": null,
+  "facCityNm": "Rochester",
+  "facStateCd": "MN",
+  "countyNm": "OLMSTED",
+  "facZipCd": "55904",
+  "facZip4Cd": null,
+  "receiptDa": "2009-06-17T00:00:00.000",
+  "facLatDecMs": "43.990833",
+  "facLongDecMs": "-092.459167",
+  "lepcNm": "District 1 Lepc, MN",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Rochester Fire Department",
+    "agencyPhoneNm": "5073282830",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005855"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005855"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005855"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000005855"
+    }
+  }
+}

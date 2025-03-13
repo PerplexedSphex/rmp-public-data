@@ -1,0 +1,79 @@
+{
+  "facilityId": 23842,
+  "epaFacId": "100000176285",
+  "facNm": " Gas Company Wheeler Ridge Transmission Station",
+  "parntCo1Nm": "Southern California Gas Company Transmission",
+  "facDunsNu": null,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "9530 CA State Hwy 166",
+  "facStreet2Tx": "1.5 Miles west of I-5",
+  "facCityNm": "Mettler",
+  "facStateCd": "CA",
+  "countyNm": "KERN",
+  "facZipCd": "93313",
+  "facZip4Cd": null,
+  "receiptDa": "2001-07-24T00:00:00.000",
+  "facLatDecMs": "35.06",
+  "facLongDecMs": "-119.024444",
+  "lepcNm": "Region 5 LEPC Inland South",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Kern County Environ Health Services",
+    "agencyPhoneNm": "6618628700",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23842"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Pipeline Transportation of Natural Gas",
+          "naicsCd": "48621",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/48621"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23842"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23842"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/23842"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000101463,
+  "epaFacId": "100000217197",
+  "facNm": "Link Snacks Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 878759240,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "39210 221st Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Alpena",
+  "facStateCd": "SD",
+  "countyNm": "JERAULD",
+  "facZipCd": "57312",
+  "facZip4Cd": null,
+  "receiptDa": "2022-07-12T00:00:00.000",
+  "facLatDecMs": "44.185550",
+  "facLongDecMs": "-98.372130",
+  "lepcNm": "Jerauld County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Alpena Fire Department",
+    "agencyPhoneNm": "6058493535",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101463"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Snack Food Manufacturing",
+          "naicsCd": "31191",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31191"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101463"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101463"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000101463"
+    }
+  }
+}

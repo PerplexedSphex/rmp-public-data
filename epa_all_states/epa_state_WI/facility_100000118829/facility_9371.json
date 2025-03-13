@@ -1,0 +1,79 @@
+{
+  "facilityId": 9371,
+  "epaFacId": "100000118829",
+  "facNm": "Plainwell Tissue",
+  "parntCo1Nm": "Plainwell Inc.",
+  "facDunsNu": 10698095,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1200 Forest Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Eau Claire",
+  "facStateCd": "WI",
+  "countyNm": "EAU CLAIRE",
+  "facZipCd": "54703",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-22T00:00:00.000",
+  "facLatDecMs": "44.829167",
+  "facLongDecMs": "-91.506944",
+  "lepcNm": "E C Emergency Govt. (Ammonia)",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "EC Fire Dept & Hazmat",
+    "agencyPhoneNm": "7158395012",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9371"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "All Other Converted Paper Product Manufacturing",
+          "naicsCd": "322298",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/322298"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9371"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9371"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/9371"
+    }
+  }
+}

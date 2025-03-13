@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000083526,
+  "epaFacId": "100000094435",
+  "facNm": "Hershey Creamery Co. Middletown",
+  "parntCo1Nm": null,
+  "facDunsNu": 3010022,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1200 AIP Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Middletown",
+  "facStateCd": "PA",
+  "countyNm": "DAUPHIN",
+  "facZipCd": "17057",
+  "facZip4Cd": null,
+  "receiptDa": "2019-11-07T06:54:46.000",
+  "facLatDecMs": "40.231944",
+  "facLongDecMs": "-076.740278",
+  "lepcNm": "Dauphin County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Dauphin County EMA",
+    "agencyPhoneNm": "7175566800",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083526"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Ice Cream and Frozen Dessert Manufacturing",
+          "naicsCd": "31152",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31152"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083526"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083526"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000083526"
+    }
+  }
+}

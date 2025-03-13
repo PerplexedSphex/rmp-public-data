@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000045819,
+  "epaFacId": "100000187825",
+  "facNm": "Iowa City Water Treatment Facility",
+  "parntCo1Nm": "City of Iowa City Department of Public Works",
+  "facDunsNu": 80306392,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "80 Stephen Atkins Dr.",
+  "facStreet2Tx": null,
+  "facCityNm": "Iowa City",
+  "facStateCd": "IA",
+  "countyNm": "JOHNSON",
+  "facZipCd": "52245",
+  "facZip4Cd": null,
+  "receiptDa": "2014-10-31T00:00:00.000",
+  "facLatDecMs": "41.688747",
+  "facLongDecMs": "-091.545570",
+  "lepcNm": "Johnson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Iowa City Fire Department",
+    "agencyPhoneNm": "3193569911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045819"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Water Supply and Irrigation Systems ",
+          "naicsCd": "22131",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/22131"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045819"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045819"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000045819"
+    }
+  }
+}

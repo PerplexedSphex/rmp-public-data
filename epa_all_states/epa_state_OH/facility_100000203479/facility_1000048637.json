@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000048637,
+  "epaFacId": "100000203479",
+  "facNm": "Brewster Dairy Inc Warehouse Sys  - Brewster Plant",
+  "parntCo1Nm": null,
+  "facDunsNu": 4463956,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "800 S. Wabash Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Brewster",
+  "facStateCd": "OH",
+  "countyNm": "STARK",
+  "facZipCd": "44613",
+  "facZip4Cd": "1345",
+  "receiptDa": "2015-02-06T00:00:00.000",
+  "facLatDecMs": "40.706330",
+  "facLongDecMs": "-081.596364",
+  "lepcNm": "Stark County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Stark County Hazmat Team",
+    "agencyPhoneNm": "3304513900",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048637"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Cheese Manufacturing ",
+          "naicsCd": "311513",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311513"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048637"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048637"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000048637"
+    }
+  }
+}

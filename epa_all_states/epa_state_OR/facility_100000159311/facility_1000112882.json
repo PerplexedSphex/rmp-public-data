@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000112882,
+  "epaFacId": "100000159311",
+  "facNm": "Milwaukie, OR Plant # 80545",
+  "parntCo1Nm": "AmeriCold Logistics ",
+  "facDunsNu": 58149378,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "9501 SE Mcloughlin Blvd",
+  "facStreet2Tx": "",
+  "facCityNm": "Milwaukie",
+  "facStateCd": "OR",
+  "countyNm": "CLACKAMAS",
+  "facZipCd": "97222",
+  "facZip4Cd": "",
+  "receiptDa": "2024-04-15T00:00:00.000",
+  "facLatDecMs": "45.454515",
+  "facLongDecMs": "-122.641705",
+  "lepcNm": "Oregon LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Clackamas County Fire Dept",
+    "agencyPhoneNm": "5037422602",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112882"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112882"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112882"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000112882"
+    }
+  }
+}

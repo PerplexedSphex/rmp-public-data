@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000113282,
+  "epaFacId": "100000185337",
+  "facNm": "Chemical Solvents, Inc.",
+  "parntCo1Nm": "",
+  "facDunsNu": 52937885,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1010 Old Denison Ave",
+  "facStreet2Tx": "",
+  "facCityNm": "Cleveland",
+  "facStateCd": "OH",
+  "countyNm": "CUYAHOGA",
+  "facZipCd": "44109",
+  "facZip4Cd": "",
+  "receiptDa": "2024-04-30T00:00:00.000",
+  "facLatDecMs": "41.45225",
+  "facLongDecMs": "-81.685444",
+  "lepcNm": "Cuyahoga County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Cleveland Fire Department",
+    "agencyPhoneNm": "2166646664",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113282"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Hazardous Waste Treatment and Disposal ",
+          "naicsCd": "562211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/562211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Pentane",
+          "casNu": "109-66-0",
+          "flamToxCd": "F",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/125"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113282"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113282"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000113282"
+    }
+  }
+}

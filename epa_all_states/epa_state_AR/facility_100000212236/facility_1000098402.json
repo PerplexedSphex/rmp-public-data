@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000098402,
+  "epaFacId": "100000212236",
+  "facNm": "CCS Maumelle",
+  "parntCo1Nm": "Cypress Cold Storage, LLC",
+  "facDunsNu": 117430471,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "11100 Louis Nelson Drive",
+  "facStreet2Tx": null,
+  "facCityNm": "Maumelle",
+  "facStateCd": "AR",
+  "countyNm": "PULASKI",
+  "facZipCd": "72113",
+  "facZip4Cd": null,
+  "receiptDa": "2021-12-21T11:00:10.000",
+  "facLatDecMs": "34.861472",
+  "facLongDecMs": "-092.389639",
+  "lepcNm": "Pulaski County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Maumelle Fire Deparment",
+    "agencyPhoneNm": "5015170282",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000098402"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000098402"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000098402"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000098402"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "facilityId": 15446,
+  "epaFacId": "100000157108",
+  "facNm": "Pioneer Chemical Inc.",
+  "parntCo1Nm": "Ellis Everard (U.S. Holdings)",
+  "facDunsNu": 92410000,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "3301 South Gilson Way",
+  "facStreet2Tx": null,
+  "facCityNm": "Oklahoma City",
+  "facStateCd": "OK",
+  "countyNm": "OKLAHOMA",
+  "facZipCd": "73179",
+  "facZip4Cd": null,
+  "receiptDa": "1999-06-10T00:00:00.000",
+  "facLatDecMs": "35.430556",
+  "facLongDecMs": "-97.650833",
+  "lepcNm": "Oklahoma County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": null,
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Oklahoma City Fire Department #20",
+    "agencyPhoneNm": "4057452183",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15446"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Other Chemical and Allied Products Wholesalers",
+          "naicsCd": "42269",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/42269"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        },
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Hydrogen fluoride/Hydrofluoric acid (conc 50% or greater) [Hydrofluoric acid]",
+          "casNu": "7664-39-3",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/55"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15446"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15446"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/15446"
+    }
+  }
+}

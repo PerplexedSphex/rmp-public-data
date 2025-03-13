@@ -1,0 +1,79 @@
+{
+  "facilityId": 17491,
+  "epaFacId": "100000161567",
+  "facNm": "Blandin Paper Company",
+  "parntCo1Nm": "UPM-Kymmene Group",
+  "facDunsNu": 6158943,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "115 Southwest 1st Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Grand Rapids",
+  "facStateCd": "MN",
+  "countyNm": "ITASCA",
+  "facZipCd": "55744",
+  "facZip4Cd": "3699",
+  "receiptDa": "1999-09-10T00:00:00.000",
+  "facLatDecMs": "47.232639",
+  "facLongDecMs": "-93.531222",
+  "lepcNm": null,
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2001-02-14T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Grand Rapids Fire Department",
+    "agencyPhoneNm": "2183267600",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17491"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Paper (except Newsprint) Mills",
+          "naicsCd": "322121",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/322121"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Sulfur dioxide (anhydrous)",
+          "casNu": "7446-09-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/49"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17491"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17491"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/17491"
+    }
+  }
+}

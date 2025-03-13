@@ -1,0 +1,79 @@
+{
+  "facilityId": 1630,
+  "epaFacId": "100000019543",
+  "facNm": "Cargill, Inc. - Dry Milling Division",
+  "parntCo1Nm": "Cargill, Inc.",
+  "facDunsNu": 5172622,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "1525 E. Phillips Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Springfield",
+  "facStateCd": "IL",
+  "countyNm": "SANGAMON",
+  "facZipCd": "62702",
+  "facZip4Cd": "4199",
+  "receiptDa": "1999-06-04T00:00:00.000",
+  "facLatDecMs": "39.818056",
+  "facLongDecMs": "-89.619444",
+  "lepcNm": "Sangamon County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2001-05-31T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": null,
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "City of Springfield Fire Dept.",
+    "agencyPhoneNm": "0000000911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1630"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1630"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1630"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1630"
+    }
+  }
+}

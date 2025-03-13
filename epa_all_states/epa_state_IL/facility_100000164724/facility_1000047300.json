@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000047300,
+  "epaFacId": "100000164724",
+  "facNm": "Chicagoland Warehouse and Transportation, Inc.",
+  "parntCo1Nm": null,
+  "facDunsNu": 107189412,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7715 South 78th Avenue",
+  "facStreet2Tx": null,
+  "facCityNm": "Bridgeview",
+  "facStateCd": "IL",
+  "countyNm": "COOK",
+  "facZipCd": "60455",
+  "facZip4Cd": "1345",
+  "receiptDa": "2014-11-25T00:00:00.000",
+  "facLatDecMs": "41.751596",
+  "facLongDecMs": "-087.812456",
+  "lepcNm": "Cook County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": "2019-11-25T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bridgeview Fire Department",
+    "agencyPhoneNm": "7089248250",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047300"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "General Warehousing and Storage",
+          "naicsCd": "49311",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49311"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Peracetic acid  [Ethaneperoxoic acid]",
+          "casNu": "79-21-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/18"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047300"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047300"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000047300"
+    }
+  }
+}

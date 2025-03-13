@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000025396,
+  "epaFacId": "100000197869",
+  "facNm": "Interstate Chemical Channahon",
+  "parntCo1Nm": "Interstate Chemical Company, Inc.",
+  "facDunsNu": 44313443,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "23247 West Eames Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Channahon",
+  "facStateCd": "IL",
+  "countyNm": "WILL",
+  "facZipCd": "60410",
+  "facZip4Cd": null,
+  "receiptDa": "2011-12-20T00:00:00.000",
+  "facLatDecMs": "41.420833",
+  "facLongDecMs": "-088.238889",
+  "lepcNm": "Will County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": null,
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Will county LEPC",
+    "agencyPhoneNm": "8157400911",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025396"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "All Other Basic Organic Chemical Manufacturing ",
+          "naicsCd": "325199",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/325199"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Formaldehyde (solution)",
+          "casNu": "50-00-0",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/1"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025396"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025396"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000025396"
+    }
+  }
+}

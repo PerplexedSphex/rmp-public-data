@@ -1,0 +1,79 @@
+{
+  "facilityId": 55895,
+  "epaFacId": "100000182241",
+  "facNm": "Cedar Bayou Electric Generating Station",
+  "parntCo1Nm": "NRG Texas Power LLC",
+  "facDunsNu": 168456049,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7705 West Bay Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Eldon",
+  "facStateCd": "TX",
+  "countyNm": "CHAMBERS",
+  "facZipCd": "77523",
+  "facZip4Cd": null,
+  "receiptDa": "2009-08-27T00:00:00.000",
+  "facLatDecMs": "29.749722",
+  "facLongDecMs": "-094.923333",
+  "lepcNm": "Chambers County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Chambers County LEPC",
+    "agencyPhoneNm": "4092678343",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55895"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55895"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55895"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/55895"
+    }
+  }
+}

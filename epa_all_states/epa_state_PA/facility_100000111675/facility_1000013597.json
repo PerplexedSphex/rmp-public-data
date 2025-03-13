@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000013597,
+  "epaFacId": "100000111675",
+  "facNm": "Millard Refrigerated Services",
+  "parntCo1Nm": null,
+  "facDunsNu": 41244153,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "7132 Ruppsville Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Allentown",
+  "facStateCd": "PA",
+  "countyNm": "LEHIGH",
+  "facZipCd": "18106",
+  "facZip4Cd": "8803",
+  "receiptDa": "2010-04-13T00:00:00.000",
+  "facLatDecMs": "40.569779",
+  "facLongDecMs": "-075.601511",
+  "lepcNm": "Lehigh County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lehigh County HAZMAT Team",
+    "agencyPhoneNm": "6107823073",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013597"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Refrigerated Warehousing and Storage",
+          "naicsCd": "49312",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/49312"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013597"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013597"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000013597"
+    }
+  }
+}

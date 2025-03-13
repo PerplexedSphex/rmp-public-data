@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000056159,
+  "epaFacId": "100000132206",
+  "facNm": "First Chemical Corporation",
+  "parntCo1Nm": "Chemfirst, Inc.",
+  "facDunsNu": 41225509,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1001 Industrial Road",
+  "facStreet2Tx": null,
+  "facCityNm": "Pascagoula",
+  "facStateCd": "MS",
+  "countyNm": "JACKSON",
+  "facZipCd": "39581",
+  "facZip4Cd": null,
+  "receiptDa": "2016-05-05T00:00:00.000",
+  "facLatDecMs": "30.355000",
+  "facLongDecMs": "-088.496111",
+  "lepcNm": "Jackson County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2021-02-02T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Jacskon County LEPC",
+    "agencyPhoneNm": "2287693111",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056159"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056159"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056159"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000056159"
+    }
+  }
+}

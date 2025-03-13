@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000107743,
+  "epaFacId": "100000113012",
+  "facNm": "Ardent Mills, LLC",
+  "parntCo1Nm": "Ardent Mills, LLC",
+  "facDunsNu": 119230613,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "4888 South Delaware Drive",
+  "facStreet2Tx": "",
+  "facCityNm": "Martins Creek",
+  "facStateCd": "PA",
+  "countyNm": "NORTHAMPTON",
+  "facZipCd": "18063",
+  "facZip4Cd": "0193",
+  "receiptDa": "2025-01-28T00:00:00.000",
+  "facLatDecMs": "40.760500",
+  "facLongDecMs": "-075.185800",
+  "lepcNm": "Northampton County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Lower Mt. Bethel Fire Dept",
+    "agencyPhoneNm": "4842212416",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107743"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Flour Milling ",
+          "naicsCd": "311211",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/311211"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107743"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107743"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000107743"
+    }
+  }
+}

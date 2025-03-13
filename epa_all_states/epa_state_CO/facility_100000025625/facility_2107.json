@@ -1,0 +1,79 @@
+{
+  "facilityId": 2107,
+  "epaFacId": "100000025625",
+  "facNm": "Anheuser-Busch, Inc. Ft. Collins Brewery",
+  "parntCo1Nm": "Anheuser-Busch Companies, Inc",
+  "facDunsNu": 6288799,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "2351 Busch Dr",
+  "facStreet2Tx": null,
+  "facCityNm": "Ft. Collins",
+  "facStateCd": "CO",
+  "countyNm": "LARIMER",
+  "facZipCd": "80524",
+  "facZip4Cd": "9400",
+  "receiptDa": "1999-06-10T00:00:00.000",
+  "facLatDecMs": "40.621111",
+  "facLongDecMs": "105.003333",
+  "lepcNm": "Larimer County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Poudre Fire Authority",
+    "agencyPhoneNm": "9702216570",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2107"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Breweries",
+          "naicsCd": "31212",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/31212"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2107"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2107"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/2107"
+    }
+  }
+}

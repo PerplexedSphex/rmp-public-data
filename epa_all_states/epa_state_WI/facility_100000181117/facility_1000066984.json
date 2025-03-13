@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000066984,
+  "epaFacId": "100000181117",
+  "facNm": "Pleasant Prairie Power Plant",
+  "parntCo1Nm": "Wisconsin Energy Corporation",
+  "facDunsNu": 124011594,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "8000 - 95th Street",
+  "facStreet2Tx": null,
+  "facCityNm": "Pleasant Prairie",
+  "facStateCd": "WI",
+  "countyNm": "KENOSHA",
+  "facZipCd": "53158",
+  "facZip4Cd": null,
+  "receiptDa": "2017-11-30T00:00:00.000",
+  "facLatDecMs": "42.537222",
+  "facLongDecMs": "-087.904722",
+  "lepcNm": "Kenosha County LEPC",
+  "oshaPsmCd": null,
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": "2018-06-08T00:00:00.000",
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": null,
+    "responseActionsCd": null,
+    "publicProceduresCd": null,
+    "healthcareCd": null,
+    "agencyNm": "Pleasant Prairie Fire Department",
+    "agencyPhoneNm": "2626948027",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066984"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 2,
+      "processNaics": [
+        {
+          "description": "Fossil Fuel Electric Power Generation ",
+          "naicsCd": "221112",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/221112"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (conc 20% or greater)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/57"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066984"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066984"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000066984"
+    }
+  }
+}

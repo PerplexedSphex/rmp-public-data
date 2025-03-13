@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000100521,
+  "epaFacId": "100000074439",
+  "facNm": "Olin Chlor-Alkali, Charleston Plant",
+  "parntCo1Nm": "Olin Corporation",
+  "facDunsNu": 556284792,
+  "sbmsnTypeCd": "R",
+  "facStreet1Tx": "1186 Old Lower River Rd",
+  "facStreet2Tx": "P. O. Box 248",
+  "facCityNm": "Charleston",
+  "facStateCd": "TN",
+  "countyNm": "BRADLEY",
+  "facZipCd": "37310",
+  "facZip4Cd": "0248",
+  "receiptDa": "2023-03-30T00:00:00.000",
+  "facLatDecMs": "35.308333",
+  "facLongDecMs": "-084.782917",
+  "lepcNm": "Bradley County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": "Y",
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Bradley County EMA",
+    "agencyPhoneNm": "4237287289",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100521"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Other Basic Inorganic Chemical Manufacturing",
+          "naicsCd": "32518",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/32518"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Chlorine",
+          "casNu": "7782-50-5",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/62"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100521"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100521"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000100521"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "facilityId": 1000061263,
+  "epaFacId": "100000234196",
+  "facNm": "Lyons East",
+  "parntCo1Nm": "Lyons",
+  "facDunsNu": 79466992,
+  "sbmsnTypeCd": "F",
+  "facStreet1Tx": "95 Richwood Rd",
+  "facStreet2Tx": null,
+  "facCityNm": "Walton",
+  "facStateCd": "KY",
+  "countyNm": "BOONE",
+  "facZipCd": "41094",
+  "facZip4Cd": null,
+  "receiptDa": "2016-12-20T00:00:00.000",
+  "facLatDecMs": "38.919",
+  "facLongDecMs": "-84.616",
+  "lepcNm": "Boone County LEPC",
+  "oshaPsmCd": "Y",
+  "epcra302Cd": "Y",
+  "caaTitleVCd": null,
+  "deregisteredDate": null,
+  "emergencyPlan": {
+    "communityPlanCd": "Y",
+    "facilityPlanCd": "Y",
+    "responseActionsCd": "Y",
+    "publicProceduresCd": "Y",
+    "healthcareCd": "Y",
+    "agencyNm": "Walton Fire Department",
+    "agencyPhoneNm": "8594857439",
+    "_links": {
+      "facility": {
+        "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061263"
+      }
+    }
+  },
+  "processes": [
+    {
+      "programLevelCd": 3,
+      "processNaics": [
+        {
+          "description": "Soft Drink Manufacturing ",
+          "naicsCd": "312111",
+          "_links": {
+            "naics": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/naics-codes/312111"
+            }
+          }
+        }
+      ],
+      "processChemicals": [
+        {
+          "flammableMixChems": [],
+          "chemicalNm": "Ammonia (anhydrous)",
+          "casNu": "7664-41-7",
+          "flamToxCd": "T",
+          "_links": {
+            "chemical": {
+              "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/chemicals/56"
+            }
+          }
+        }
+      ],
+      "_links": {
+        "facility": {
+          "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061263"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061263"
+    },
+    "facility": {
+      "href": "https://cdxapps.epa.gov/olem-rmp-pds/api/facilities/1000061263"
+    }
+  }
+}
