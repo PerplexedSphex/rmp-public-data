@@ -1,6 +1,6 @@
-# Unknown
+# East Bend Generating Station
 
-**Location:** Unknown, KY
+**Location:** Union, KY
 
 **EPA Facility ID:** 100000178176
 

@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Grand Ridge, IL Fac
 
-**Location:** Unknown, IL
+**Location:** Grand Ridge, IL
 
 **EPA Facility ID:** 100000087103
 

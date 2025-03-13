@@ -1,6 +1,6 @@
-# Unknown
+# OWASCO FERTILIZER PLANT
 
-**Location:** Unknown, NY
+**Location:** SKANEATELES, NY
 
 **EPA Facility ID:** 100000026447
 

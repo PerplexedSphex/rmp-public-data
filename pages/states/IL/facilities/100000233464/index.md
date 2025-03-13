@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics Bedford Park (7035)
 
-**Location:** Unknown, IL
+**Location:** Bedford Park, IL
 
 **EPA Facility ID:** 100000233464
 

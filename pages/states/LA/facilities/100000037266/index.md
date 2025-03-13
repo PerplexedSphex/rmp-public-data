@@ -1,6 +1,6 @@
-# Unknown
+# DuPont Pontchartrain Site
 
-**Location:** Unknown, LA
+**Location:** LaPlace, LA
 
 **EPA Facility ID:** 100000037266
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rich Products - Fountain Inn
 
-**Location:** Unknown, SC
+**Location:** Fountain Inn, SC
 
 **EPA Facility ID:** 100000203521
 

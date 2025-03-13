@@ -1,6 +1,6 @@
-# Unknown
+# Guymon, OK 692 Satellite
 
-**Location:** Unknown, OK
+**Location:** Guymon, OK
 
 **EPA Facility ID:** 100000026544
 

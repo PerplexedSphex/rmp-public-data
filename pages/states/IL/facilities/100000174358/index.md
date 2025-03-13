@@ -1,6 +1,6 @@
-# Unknown
+# Bethany, IL 2667
 
-**Location:** Unknown, IL
+**Location:** Bethany, IL
 
 **EPA Facility ID:** 100000174358
 

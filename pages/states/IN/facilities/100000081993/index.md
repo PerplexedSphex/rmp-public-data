@@ -1,6 +1,6 @@
-# Unknown
+# Wabash, IN 10051
 
-**Location:** Unknown, IN
+**Location:** Wabash, IN
 
 **EPA Facility ID:** 100000081993
 

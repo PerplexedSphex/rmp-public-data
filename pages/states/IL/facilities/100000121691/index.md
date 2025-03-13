@@ -1,6 +1,6 @@
-# Unknown
+# HG & N Fertilizer
 
-**Location:** Unknown, IL
+**Location:** Atlanta, IL
 
 **EPA Facility ID:** 100000121691
 

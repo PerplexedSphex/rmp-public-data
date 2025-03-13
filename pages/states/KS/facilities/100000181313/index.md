@@ -1,6 +1,6 @@
-# Unknown
+# Sugar Creek Packing Co.-  Kansas
 
-**Location:** Unknown, KS
+**Location:** Frontenac, KS
 
 **EPA Facility ID:** 100000181313
 

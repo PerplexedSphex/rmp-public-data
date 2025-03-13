@@ -1,6 +1,6 @@
-# Unknown
+# First Energy Bruce Mansfield Plant
 
-**Location:** Unknown, PA
+**Location:** Shippingport, PA
 
 **EPA Facility ID:** 100000181901
 

@@ -1,6 +1,6 @@
-# Unknown
+# Arctic Glacier Inc.
 
-**Location:** Unknown, NY
+**Location:** Newburgh, NY
 
 **EPA Facility ID:** 100000191669
 

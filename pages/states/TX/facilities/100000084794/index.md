@@ -1,6 +1,6 @@
-# Unknown
+# Occidental Chemical Corporation-Pasadena PVC Plant
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000084794
 

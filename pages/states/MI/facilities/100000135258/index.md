@@ -1,6 +1,6 @@
-# Unknown
+# Porex Technologies Corporation
 
-**Location:** Unknown, MI
+**Location:** St. Charles, MI
 
 **EPA Facility ID:** 100000135258
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gravel Point Plant
 
-**Location:** Unknown, LA
+**Location:** Frierson, LA
 
 **EPA Facility ID:** 100000215215
 

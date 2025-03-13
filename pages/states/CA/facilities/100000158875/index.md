@@ -1,6 +1,6 @@
-# Unknown
+# San Joaquin CoGen Limited
 
-**Location:** Unknown, CA
+**Location:** Lathrop, CA
 
 **EPA Facility ID:** 100000158875
 

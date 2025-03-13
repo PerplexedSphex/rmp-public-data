@@ -1,6 +1,6 @@
-# Unknown
+# Lopez Foods, Inc.
 
-**Location:** Unknown, OK
+**Location:** Oklahoma City, OK
 
 **EPA Facility ID:** 100000157545
 

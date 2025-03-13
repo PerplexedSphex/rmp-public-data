@@ -1,6 +1,6 @@
-# Unknown
+# City of Danbury - West Lake Water Treatment Plant
 
-**Location:** Unknown, CT
+**Location:** Danbury, CT
 
 **EPA Facility ID:** 100000064155
 

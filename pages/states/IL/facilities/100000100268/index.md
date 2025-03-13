@@ -1,6 +1,6 @@
-# Unknown
+# AQUA Illinois, Inc.
 
-**Location:** Unknown, IL
+**Location:** Danville, IL
 
 **EPA Facility ID:** 100000100268
 

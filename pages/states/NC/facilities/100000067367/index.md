@@ -1,6 +1,6 @@
-# Unknown
+# Long Creek Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Dallas, NC
 
 **EPA Facility ID:** 100000067367
 

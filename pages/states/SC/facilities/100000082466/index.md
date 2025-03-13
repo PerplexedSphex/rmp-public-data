@@ -1,6 +1,6 @@
-# Unknown
+# Eddy Carolina Pride LLC
 
-**Location:** Unknown, SC
+**Location:** Greenwood, SC
 
 **EPA Facility ID:** 100000082466
 

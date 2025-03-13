@@ -1,6 +1,6 @@
-# Unknown
+# City Lake Chlorination Facility
 
-**Location:** Unknown, WA
+**Location:** Port Townsend, WA
 
 **EPA Facility ID:** 100000046899
 

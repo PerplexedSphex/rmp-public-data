@@ -1,6 +1,6 @@
-# Unknown
+# SpartanNash Company - Lima Facility
 
-**Location:** Unknown, OH
+**Location:** Lima, OH
 
 **EPA Facility ID:** 100000210791
 

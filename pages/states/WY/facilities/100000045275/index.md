@@ -1,6 +1,6 @@
-# Unknown
+# Torrington Simplot Grower Solutions
 
-**Location:** Unknown, WY
+**Location:** Torrington, WY
 
 **EPA Facility ID:** 100000045275
 

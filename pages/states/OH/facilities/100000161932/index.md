@@ -1,6 +1,6 @@
-# Unknown
+# Organic Technologies
 
-**Location:** Unknown, OH
+**Location:** Newark, OH
 
 **EPA Facility ID:** 100000161932
 

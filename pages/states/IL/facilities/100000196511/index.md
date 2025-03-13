@@ -1,6 +1,6 @@
-# Unknown
+# Hawkins Water Treatment Group - Joliet
 
-**Location:** Unknown, IL
+**Location:** Joliet, IL
 
 **EPA Facility ID:** 100000196511
 

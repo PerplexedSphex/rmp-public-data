@@ -1,6 +1,6 @@
-# Unknown
+# J. H. Miller Electric Generating Plant
 
-**Location:** Unknown, AL
+**Location:** Quinton, AL
 
 **EPA Facility ID:** 100000118259
 

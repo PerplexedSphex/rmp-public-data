@@ -1,6 +1,6 @@
-# Unknown
+# West Point LPG Terminal
 
-**Location:** Unknown, VA
+**Location:** West Point, VA
 
 **EPA Facility ID:** 100000243621
 

@@ -1,6 +1,6 @@
-# Unknown
+# Clean Harbors Environmental Services, Inc.
 
-**Location:** Unknown, NE
+**Location:** Kimball, NE
 
 **EPA Facility ID:** 100000076464
 

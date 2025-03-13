@@ -1,6 +1,6 @@
-# Unknown
+# Linde Gas and Equipment Inc. Terrell, TX
 
-**Location:** Unknown, TX
+**Location:** Terrell, TX
 
 **EPA Facility ID:** 100000250998
 

@@ -1,6 +1,6 @@
-# Unknown
+# COOPERATIVE PRODUCERS, INC - Franklin west
 
-**Location:** Unknown, NE
+**Location:** FRANKLIN, NE
 
 **EPA Facility ID:** 100000100419
 

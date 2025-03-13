@@ -1,6 +1,6 @@
-# Unknown
+# Lewistown Propane & Fertilizer Co-Judith Gap Plant
 
-**Location:** Unknown, MT
+**Location:** Judith Gap, MT
 
 **EPA Facility ID:** 100000029587
 

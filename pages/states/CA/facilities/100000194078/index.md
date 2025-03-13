@@ -1,6 +1,6 @@
-# Unknown
+# Arctic Glacier Vernon, Inc.
 
-**Location:** Unknown, CA
+**Location:** Vernon, CA
 
 **EPA Facility ID:** 100000194078
 

@@ -1,6 +1,6 @@
-# Unknown
+# Goodyear Houston Chemical Plant
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000077347
 

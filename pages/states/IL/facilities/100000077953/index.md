@@ -1,6 +1,6 @@
-# Unknown
+# Aerosols Danville Inc. DBA Voyant Beauty
 
-**Location:** Unknown, IL
+**Location:** Danville, IL
 
 **EPA Facility ID:** 100000077953
 

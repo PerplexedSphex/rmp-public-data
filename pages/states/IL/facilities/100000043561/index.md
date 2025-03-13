@@ -1,6 +1,6 @@
-# Unknown
+# JBS Beardstown, IL Pork Facility
 
-**Location:** Unknown, IL
+**Location:** Beardstown, IL
 
 **EPA Facility ID:** 100000043561
 

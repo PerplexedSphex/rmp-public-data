@@ -1,6 +1,6 @@
-# Unknown
+# Cooper Farms Processing
 
-**Location:** Unknown, OH
+**Location:** St. Henry, OH
 
 **EPA Facility ID:** 100000031841
 

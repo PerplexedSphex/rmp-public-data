@@ -1,6 +1,6 @@
-# Unknown
+# George's Chicken, LLC
 
-**Location:** Unknown, VA
+**Location:** Edinburg, VA
 
 **EPA Facility ID:** 100000130262
 

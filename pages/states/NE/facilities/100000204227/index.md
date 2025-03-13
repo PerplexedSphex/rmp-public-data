@@ -1,6 +1,6 @@
-# Unknown
+# Bridgeport Ethanol, LLC
 
-**Location:** Unknown, NE
+**Location:** Bridgeport, NE
 
 **EPA Facility ID:** 100000204227
 

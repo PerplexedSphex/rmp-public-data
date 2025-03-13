@@ -1,6 +1,6 @@
-# Unknown
+# Delta Mills Plants 2 & 3
 
-**Location:** Unknown, SC
+**Location:** Wallace, SC
 
 **EPA Facility ID:** 100000125857
 

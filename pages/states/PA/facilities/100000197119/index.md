@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Gouldsboro
 
-**Location:** Unknown, PA
+**Location:** Covington Township, PA
 
 **EPA Facility ID:** 100000197119
 

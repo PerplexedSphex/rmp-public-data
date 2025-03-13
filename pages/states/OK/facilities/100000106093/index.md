@@ -1,6 +1,6 @@
-# Unknown
+# Elite Chem Corp.
 
-**Location:** Unknown, OK
+**Location:** Oklahoma City, OK
 
 **EPA Facility ID:** 100000106093
 

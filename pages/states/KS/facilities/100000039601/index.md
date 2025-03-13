@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Ingalls, Kansas
 
-**Location:** Unknown, KS
+**Location:** Ingalls, KS
 
 **EPA Facility ID:** 100000039601
 

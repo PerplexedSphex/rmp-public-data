@@ -1,6 +1,6 @@
-# Unknown
+# ULRICH CHEMICAL, INC.
 
-**Location:** Unknown, IN
+**Location:** FORT WAYNE, IN
 
 **EPA Facility ID:** 100000072119
 

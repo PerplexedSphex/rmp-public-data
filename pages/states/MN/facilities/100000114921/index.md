@@ -1,6 +1,6 @@
-# Unknown
+# Chandler Coop
 
-**Location:** Unknown, MN
+**Location:** Edgerton, MN
 
 **EPA Facility ID:** 100000114921
 

@@ -1,6 +1,6 @@
-# Unknown
+# Akron Services, Inc. (Stark facility)
 
-**Location:** Unknown, IL
+**Location:** Wyoming, IL
 
 **EPA Facility ID:** 100000080379
 

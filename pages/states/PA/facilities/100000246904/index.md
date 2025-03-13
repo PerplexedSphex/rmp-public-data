@@ -1,6 +1,6 @@
-# Unknown
+# Smooth On Inc
 
-**Location:** Unknown, PA
+**Location:** Macungie, PA
 
 **EPA Facility ID:** 100000246904
 

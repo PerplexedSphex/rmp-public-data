@@ -1,6 +1,6 @@
-# Unknown
+# Longstreet Treating Plant
 
-**Location:** Unknown, LA
+**Location:** Longstreet, LA
 
 **EPA Facility ID:** 100000250024
 

@@ -1,6 +1,6 @@
-# Unknown
+# NewCold Indianapolis LLC
 
-**Location:** Unknown, IN
+**Location:** Lebanon, IN
 
 **EPA Facility ID:** 100000249028
 

@@ -1,6 +1,6 @@
-# Unknown
+# Illini FS, Inc. - Kemp NH3
 
-**Location:** Unknown, IL
+**Location:** Arcola, IL
 
 **EPA Facility ID:** 100000020176
 

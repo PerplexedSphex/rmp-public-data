@@ -1,6 +1,6 @@
-# Unknown
+# City of Chicopee Water Treatment Plant
 
-**Location:** Unknown, MA
+**Location:** Chicopee, MA
 
 **EPA Facility ID:** 100000113655
 

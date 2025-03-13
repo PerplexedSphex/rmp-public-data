@@ -1,6 +1,6 @@
-# Unknown
+# Larson Grain Company Fredonia Ammonia Facility
 
-**Location:** Unknown, ND
+**Location:** Fredonia, ND
 
 **EPA Facility ID:** 100000019393
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cordova Terminal
 
-**Location:** Unknown, IL
+**Location:** Cordova, IL
 
 **EPA Facility ID:** 100000190937
 

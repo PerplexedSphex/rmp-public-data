@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Union Grain Company
 
-**Location:** Unknown, ND
+**Location:** Binford, ND
 
 **EPA Facility ID:** 100000036891
 

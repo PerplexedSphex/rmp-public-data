@@ -1,6 +1,6 @@
-# Unknown
+# Henry Fork Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Hickory, NC
 
 **EPA Facility ID:** 100000035687
 

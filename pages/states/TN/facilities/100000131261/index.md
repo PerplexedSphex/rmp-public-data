@@ -1,6 +1,6 @@
-# Unknown
+# Foamex Milan Plant
 
-**Location:** Unknown, TN
+**Location:** Milan, TN
 
 **EPA Facility ID:** 100000131261
 

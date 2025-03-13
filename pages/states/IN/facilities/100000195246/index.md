@@ -1,6 +1,6 @@
-# Unknown
+# Vertical Cold Storage
 
-**Location:** Unknown, IN
+**Location:** Pendleton, IN
 
 **EPA Facility ID:** 100000195246
 

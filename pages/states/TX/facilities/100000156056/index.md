@@ -1,6 +1,6 @@
-# Unknown
+# OSR Halliday S-3 Battery
 
-**Location:** Unknown, TX
+**Location:** Madisonville, TX
 
 **EPA Facility ID:** 100000156056
 

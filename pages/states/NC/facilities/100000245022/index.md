@@ -1,6 +1,6 @@
-# Unknown
+# Hickory Springs Manufacturing Company - PTI
 
-**Location:** Unknown, NC
+**Location:** Hickory, NC
 
 **EPA Facility ID:** 100000245022
 

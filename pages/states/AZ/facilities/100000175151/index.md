@@ -1,6 +1,6 @@
-# Unknown
+# South Point Energy Center
 
-**Location:** Unknown, AZ
+**Location:** Mohave Valley, AZ
 
 **EPA Facility ID:** 100000175151
 

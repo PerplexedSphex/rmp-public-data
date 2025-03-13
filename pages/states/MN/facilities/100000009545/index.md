@@ -1,6 +1,6 @@
-# Unknown
+# Glacial Plains Cooperative
 
-**Location:** Unknown, MN
+**Location:** Benson, MN
 
 **EPA Facility ID:** 100000009545
 

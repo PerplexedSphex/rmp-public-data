@@ -1,6 +1,6 @@
-# Unknown
+# Gordon Plant
 
-**Location:** Unknown, TX
+**Location:** Gordon, TX
 
 **EPA Facility ID:** 100000104406
 

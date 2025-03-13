@@ -1,6 +1,6 @@
-# Unknown
+# Millersburg Propane
 
-**Location:** Unknown, PA
+**Location:** Millersburg, PA
 
 **EPA Facility ID:** 100000003104
 

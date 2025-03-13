@@ -1,6 +1,6 @@
-# Unknown
+# Hickory Springs Manufacturing - Conover
 
-**Location:** Unknown, NC
+**Location:** Conover, NC
 
 **EPA Facility ID:** 100000233339
 

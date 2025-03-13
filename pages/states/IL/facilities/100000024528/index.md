@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Mattoon, IL
 
-**Location:** Unknown, IL
+**Location:** Mattoon, IL
 
 **EPA Facility ID:** 100000024528
 

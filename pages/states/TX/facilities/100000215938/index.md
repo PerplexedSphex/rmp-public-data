@@ -1,6 +1,6 @@
-# Unknown
+# Yoakum Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Yoakum, TX
 
 **EPA Facility ID:** 100000215938
 

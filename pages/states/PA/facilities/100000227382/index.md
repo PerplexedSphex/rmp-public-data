@@ -1,6 +1,6 @@
-# Unknown
+# Galliker Dairy Company
 
-**Location:** Unknown, PA
+**Location:** Johnstown, PA
 
 **EPA Facility ID:** 100000227382
 

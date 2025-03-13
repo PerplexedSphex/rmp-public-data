@@ -1,6 +1,6 @@
-# Unknown
+# City of Kent Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Kent, OH
 
 **EPA Facility ID:** 100000021264
 

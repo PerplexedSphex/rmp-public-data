@@ -1,6 +1,6 @@
-# Unknown
+# BGMU Water Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Bowling Green, KY
 
 **EPA Facility ID:** 100000048539
 

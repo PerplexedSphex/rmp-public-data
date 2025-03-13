@@ -1,6 +1,6 @@
-# Unknown
+# CENTRAL PRAIRIE CO-OP - SAXMAN FACILITY
 
-**Location:** Unknown, KS
+**Location:** STERLING, KS
 
 **EPA Facility ID:** 100000022218
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rich Products Lodi
 
-**Location:** Unknown, CA
+**Location:** Lodi, CA
 
 **EPA Facility ID:** 100000209311
 

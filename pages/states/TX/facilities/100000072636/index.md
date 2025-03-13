@@ -1,6 +1,6 @@
-# Unknown
+# Northside Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Wichita Falls, TX
 
 **EPA Facility ID:** 100000072636
 

@@ -1,6 +1,6 @@
-# Unknown
+# WRIGHT
 
-**Location:** Unknown, KS
+**Location:** WRIGHT, KS
 
 **EPA Facility ID:** 100000023388
 

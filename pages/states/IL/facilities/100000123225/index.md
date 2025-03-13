@@ -1,6 +1,6 @@
-# Unknown
+# City of Peru Wastewater Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Peru, IL
 
 **EPA Facility ID:** 100000123225
 

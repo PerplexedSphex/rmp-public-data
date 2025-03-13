@@ -1,6 +1,6 @@
-# Unknown
+# Blandin Paper Company
 
-**Location:** Unknown, MN
+**Location:** Grand Rapids, MN
 
 **EPA Facility ID:** 100000161567
 

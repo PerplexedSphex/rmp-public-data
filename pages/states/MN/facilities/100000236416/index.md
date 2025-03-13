@@ -1,6 +1,6 @@
-# Unknown
+# Farmward Cooperative
 
-**Location:** Unknown, MN
+**Location:** Wabasso, MN
 
 **EPA Facility ID:** 100000236416
 

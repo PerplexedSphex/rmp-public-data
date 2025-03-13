@@ -1,6 +1,6 @@
-# Unknown
+# Paulding Terminal
 
-**Location:** Unknown, OH
+**Location:** Paulding, OH
 
 **EPA Facility ID:** 100000230298
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wyckoff Raw Water Intake
 
-**Location:** Unknown, GA
+**Location:** Acworth, GA
 
 **EPA Facility ID:** 100000060131
 

@@ -1,6 +1,6 @@
-# Unknown
+# Glazier Foods Company
 
-**Location:** Unknown, TX
+**Location:** Coppell, TX
 
 **EPA Facility ID:** 100000221182
 

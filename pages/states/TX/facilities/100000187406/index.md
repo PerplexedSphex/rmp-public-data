@@ -1,6 +1,6 @@
-# Unknown
+# Quality Sausage Company
 
-**Location:** Unknown, TX
+**Location:** Dallas, TX
 
 **EPA Facility ID:** 100000187406
 

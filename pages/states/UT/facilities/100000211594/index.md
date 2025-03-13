@@ -1,6 +1,6 @@
-# Unknown
+# Cisco Natural Gas Plant
 
-**Location:** Unknown, UT
+**Location:** Cisco, UT
 
 **EPA Facility ID:** 100000211594
 

@@ -1,6 +1,6 @@
-# Unknown
+# Indian River Generating Station
 
-**Location:** Unknown, DE
+**Location:** Dagsboro, DE
 
 **EPA Facility ID:** 100000215162
 

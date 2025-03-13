@@ -1,6 +1,6 @@
-# Unknown
+# City of Galesburg - Oquawka Facility
 
-**Location:** Unknown, IL
+**Location:** Oquawka, IL
 
 **EPA Facility ID:** 100000157563
 

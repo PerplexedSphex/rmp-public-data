@@ -1,6 +1,6 @@
-# Unknown
+# Western Farm Service, Bruneau
 
-**Location:** Unknown, ID
+**Location:** Bruneau, ID
 
 **EPA Facility ID:** 100000164083
 

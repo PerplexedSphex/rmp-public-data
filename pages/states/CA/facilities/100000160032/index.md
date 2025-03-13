@@ -1,6 +1,6 @@
-# Unknown
+# Glacier Cold Storage LTD.
 
-**Location:** Unknown, CA
+**Location:** Los Angeles, CA
 
 **EPA Facility ID:** 100000160032
 

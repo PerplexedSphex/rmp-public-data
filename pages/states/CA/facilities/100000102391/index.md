@@ -1,6 +1,6 @@
-# Unknown
+# Energy Solutions (US) LLC - Long Beach Facility
 
-**Location:** Unknown, CA
+**Location:** Long Beach, CA
 
 **EPA Facility ID:** 100000102391
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bryan Condensate Pad
 
-**Location:** Unknown, WV
+**Location:** Proctor, WV
 
 **EPA Facility ID:** 100000246254
 

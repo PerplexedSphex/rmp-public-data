@@ -1,6 +1,6 @@
-# Unknown
+# La Gloria Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** Falfurrias, TX
 
 **EPA Facility ID:** 100000145595
 

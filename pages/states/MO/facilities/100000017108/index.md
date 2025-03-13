@@ -1,6 +1,6 @@
-# Unknown
+# Gabe Logsdon & Sons, Inc.
 
-**Location:** Unknown, MO
+**Location:** Wayland, MO
 
 **EPA Facility ID:** 100000017108
 

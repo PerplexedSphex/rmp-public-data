@@ -1,6 +1,6 @@
-# Unknown
+# WPL-Riverside Energy Center
 
-**Location:** Unknown, WI
+**Location:** Beloit, WI
 
 **EPA Facility ID:** 100000186078
 

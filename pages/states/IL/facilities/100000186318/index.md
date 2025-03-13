@@ -1,6 +1,6 @@
-# Unknown
+# Illinois American Water - Cairo Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Cairo, IL
 
 **EPA Facility ID:** 100000186318
 

@@ -1,6 +1,6 @@
-# Unknown
+# Taylor Farms
 
-**Location:** Unknown, KY
+**Location:** Covington, KY
 
 **EPA Facility ID:** 100000190027
 

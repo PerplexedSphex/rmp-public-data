@@ -1,6 +1,6 @@
-# Unknown
+# Georgia-Pacific Brewton LLC
 
-**Location:** Unknown, AL
+**Location:** Brewton, AL
 
 **EPA Facility ID:** 100000050375
 

@@ -1,6 +1,6 @@
-# Unknown
+# Post Point Wastewater Facility
 
-**Location:** Unknown, WA
+**Location:** Bellingham, WA
 
 **EPA Facility ID:** 100000036935
 

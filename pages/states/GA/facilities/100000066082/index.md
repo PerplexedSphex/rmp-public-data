@@ -1,6 +1,6 @@
-# Unknown
+# Tifton Regional Wastewater Complex
 
-**Location:** Unknown, GA
+**Location:** Tifton, GA
 
 **EPA Facility ID:** 100000066082
 

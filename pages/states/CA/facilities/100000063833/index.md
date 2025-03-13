@@ -1,6 +1,6 @@
-# Unknown
+# Lompoc Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Lompoc, CA
 
 **EPA Facility ID:** 100000063833
 

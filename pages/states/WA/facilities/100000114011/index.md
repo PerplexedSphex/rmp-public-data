@@ -1,6 +1,6 @@
-# Unknown
+# Everett Water Filtration Plant
 
-**Location:** Unknown, WA
+**Location:** Sultan, WA
 
 **EPA Facility ID:** 100000114011
 

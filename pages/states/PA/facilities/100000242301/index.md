@@ -1,6 +1,6 @@
-# Unknown
+# Chambersburg Boro Water
 
-**Location:** Unknown, PA
+**Location:** Fayetteville, PA
 
 **EPA Facility ID:** 100000242301
 

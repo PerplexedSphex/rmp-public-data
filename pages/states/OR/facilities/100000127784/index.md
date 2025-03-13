@@ -1,6 +1,6 @@
-# Unknown
+# Simplot Ontario, OR
 
-**Location:** Unknown, OR
+**Location:** Ontario, OR
 
 **EPA Facility ID:** 100000127784
 

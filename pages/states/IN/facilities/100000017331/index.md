@@ -1,6 +1,6 @@
-# Unknown
+# Wadesville, IN
 
-**Location:** Unknown, IN
+**Location:** Wadesville, IN
 
 **EPA Facility ID:** 100000017331
 

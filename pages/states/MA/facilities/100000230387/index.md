@@ -1,6 +1,6 @@
-# Unknown
+# Gloucester Seafood Processing
 
-**Location:** Unknown, MA
+**Location:** Gloucester, MA
 
 **EPA Facility ID:** 100000230387
 

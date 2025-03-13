@@ -1,6 +1,6 @@
-# Unknown
+# Copeland, KS 670 Satellite
 
-**Location:** Unknown, KS
+**Location:** Copeland, KS
 
 **EPA Facility ID:** 100000030593
 

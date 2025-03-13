@@ -1,6 +1,6 @@
-# Unknown
+# Griffin, IN
 
-**Location:** Unknown, IN
+**Location:** Griffin, IN
 
 **EPA Facility ID:** 100000017849
 

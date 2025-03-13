@@ -1,6 +1,6 @@
-# Unknown
+# Brewer Environmental Industries, LLC - Kahului
 
-**Location:** Unknown, HI
+**Location:** Kahului, HI
 
 **EPA Facility ID:** 100000022469
 

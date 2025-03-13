@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Toledo, IL
 
-**Location:** Unknown, IL
+**Location:** Toledo, IL
 
 **EPA Facility ID:** 100000173126
 

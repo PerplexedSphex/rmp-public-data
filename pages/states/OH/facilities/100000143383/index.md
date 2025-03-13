@@ -1,6 +1,6 @@
-# Unknown
+# CENTRAL ERIE SUPPLY & ELEVATOR ASSN'
 
-**Location:** Unknown, OH
+**Location:** SANDUSKY, OH
 
 **EPA Facility ID:** 100000143383
 

@@ -1,6 +1,6 @@
-# Unknown
+# Oxarc, Inc.
 
-**Location:** Unknown, WA
+**Location:** Spokane, WA
 
 **EPA Facility ID:** 100000075777
 

@@ -1,6 +1,6 @@
-# Unknown
+#  DAKOTA PRIDE COOPERATIVE       Fairfax-Anhydrous
 
-**Location:** Unknown, SD
+**Location:** Fairfax, SD
 
 **EPA Facility ID:** 100000076491
 

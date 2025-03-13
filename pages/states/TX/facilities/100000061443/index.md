@@ -1,6 +1,6 @@
-# Unknown
+# Fred Hervey Water Reclamation Plant
 
-**Location:** Unknown, TX
+**Location:** El Paso, TX
 
 **EPA Facility ID:** 100000061443
 

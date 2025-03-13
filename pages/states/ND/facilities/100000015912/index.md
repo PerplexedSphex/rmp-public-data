@@ -1,6 +1,6 @@
-# Unknown
+# Nash Grain and Trading Co.
 
-**Location:** Unknown, ND
+**Location:** Grafton, ND
 
 **EPA Facility ID:** 100000015912
 

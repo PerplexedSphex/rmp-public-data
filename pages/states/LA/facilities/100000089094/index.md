@@ -1,6 +1,6 @@
-# Unknown
+# Westvaco Corporation, Chemical Division
 
-**Location:** Unknown, LA
+**Location:** De Ridder, LA
 
 **EPA Facility ID:** 100000089094
 

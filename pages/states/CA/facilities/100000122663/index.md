@@ -1,6 +1,6 @@
-# Unknown
+# Foothill Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Newcastle, CA
 
 **EPA Facility ID:** 100000122663
 

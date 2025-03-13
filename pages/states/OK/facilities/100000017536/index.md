@@ -1,6 +1,6 @@
-# Unknown
+# Garber Cooperative Association
 
-**Location:** Unknown, OK
+**Location:** Covington, OK
 
 **EPA Facility ID:** 100000017536
 

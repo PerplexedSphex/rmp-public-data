@@ -1,6 +1,6 @@
-# Unknown
+# Haynes Generating Station
 
-**Location:** Unknown, CA
+**Location:** Long Beach, CA
 
 **EPA Facility ID:** 100000139646
 

@@ -1,6 +1,6 @@
-# Unknown
+# Pump Station No. 2
 
-**Location:** Unknown, MN
+**Location:** Duluth, MN
 
 **EPA Facility ID:** 100000076669
 

@@ -1,6 +1,6 @@
-# Unknown
+# Alaska Pacific Seafoods
 
-**Location:** Unknown, AK
+**Location:** Kodiak, AK
 
 **EPA Facility ID:** 100000148592
 

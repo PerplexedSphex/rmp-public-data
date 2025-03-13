@@ -1,6 +1,6 @@
-# Unknown
+# Kenosha Regional Distribution Center
 
-**Location:** Unknown, WI
+**Location:** Pleasant Prairie, WI
 
 **EPA Facility ID:** 100000177391
 

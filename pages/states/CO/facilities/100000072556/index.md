@@ -1,6 +1,6 @@
-# Unknown
+# Stratton Anhydrous Ammonia Plant
 
-**Location:** Unknown, CO
+**Location:** Stratton, CO
 
 **EPA Facility ID:** 100000072556
 

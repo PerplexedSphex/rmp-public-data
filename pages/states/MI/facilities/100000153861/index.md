@@ -1,6 +1,6 @@
-# Unknown
+# Osmose, Inc.
 
-**Location:** Unknown, MI
+**Location:** Hubbell, MI
 
 **EPA Facility ID:** 100000153861
 

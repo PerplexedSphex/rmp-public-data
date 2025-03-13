@@ -1,6 +1,6 @@
-# Unknown
+# North Plains Fertilizer & Chemical
 
-**Location:** Unknown, TX
+**Location:** Dumas, TX
 
 **EPA Facility ID:** 100000240143
 

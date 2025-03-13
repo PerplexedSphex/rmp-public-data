@@ -1,6 +1,6 @@
-# Unknown
+# City of Del City Water Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Del City, OK
 
 **EPA Facility ID:** 100000135837
 

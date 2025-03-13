@@ -1,6 +1,6 @@
-# Unknown
+# Langdon Simplot Grower Solutions
 
-**Location:** Unknown, ND
+**Location:** Langdon, ND
 
 **EPA Facility ID:** 100000053577
 

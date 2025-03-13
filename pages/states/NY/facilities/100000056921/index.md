@@ -1,6 +1,6 @@
-# Unknown
+# Sterigenics US- Queensbury
 
-**Location:** Unknown, NY
+**Location:** Queensbury, NY
 
 **EPA Facility ID:** 100000056921
 

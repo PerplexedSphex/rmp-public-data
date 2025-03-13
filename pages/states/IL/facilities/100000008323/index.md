@@ -1,6 +1,6 @@
-# Unknown
+# WEST PLANT
 
-**Location:** Unknown, IL
+**Location:** EASTON, IL
 
 **EPA Facility ID:** 100000008323
 

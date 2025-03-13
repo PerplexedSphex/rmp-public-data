@@ -1,6 +1,6 @@
-# Unknown
+# OnLine Packaging, Incorporated - Michigan City
 
-**Location:** Unknown, IN
+**Location:** Michigan City, IN
 
 **EPA Facility ID:** 100000179521
 

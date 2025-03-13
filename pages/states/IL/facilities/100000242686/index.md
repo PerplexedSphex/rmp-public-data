@@ -1,6 +1,6 @@
-# Unknown
+# Brandt Consolidated, Inc  Specialty Formulations
 
-**Location:** Unknown, IL
+**Location:** Pleasant Plains, IL
 
 **EPA Facility ID:** 100000242686
 

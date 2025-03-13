@@ -1,6 +1,6 @@
-# Unknown
+# GATC - East Chicago, IN Tank Car Facility
 
-**Location:** Unknown, IN
+**Location:** East Chicago, IN
 
 **EPA Facility ID:** 100000049422
 

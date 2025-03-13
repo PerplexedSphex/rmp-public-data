@@ -1,6 +1,6 @@
-# Unknown
+# Ecopax, LLC
 
-**Location:** Unknown, PA
+**Location:** Easton, PA
 
 **EPA Facility ID:** 100000203228
 

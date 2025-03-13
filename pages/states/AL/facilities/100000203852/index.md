@@ -1,6 +1,6 @@
-# Unknown
+# Skinny Jones Water Filtration Plant
 
-**Location:** Unknown, AL
+**Location:** Scottsboro, AL
 
 **EPA Facility ID:** 100000203852
 

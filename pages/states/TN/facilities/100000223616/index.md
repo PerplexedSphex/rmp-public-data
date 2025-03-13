@@ -1,6 +1,6 @@
-# Unknown
+# Occidental Chemical Corporation
 
-**Location:** Unknown, TN
+**Location:** New Johnsonville, TN
 
 **EPA Facility ID:** 100000223616
 

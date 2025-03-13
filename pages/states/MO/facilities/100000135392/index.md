@@ -1,6 +1,6 @@
-# Unknown
+# Glasgow Coop Assn. Fayette Branch
 
-**Location:** Unknown, MO
+**Location:** Fayette, MO
 
 **EPA Facility ID:** 100000135392
 

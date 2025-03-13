@@ -1,6 +1,6 @@
-# Unknown
+# MOORE'S OIL & FERTILIZER, INC.
 
-**Location:** Unknown, IL
+**Location:** JERSEYVILLE, IL
 
 **EPA Facility ID:** 100000147352
 

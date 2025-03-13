@@ -1,6 +1,6 @@
-# Unknown
+# Allied Merchandising Industry (AMI)
 
-**Location:** Unknown, CA
+**Location:** Corona, CA
 
 **EPA Facility ID:** 100000252656
 

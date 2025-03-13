@@ -1,6 +1,6 @@
-# Unknown
+# River Valley Cooperative - Osco
 
-**Location:** Unknown, IL
+**Location:** Cambridge, IL
 
 **EPA Facility ID:** 100000007574
 

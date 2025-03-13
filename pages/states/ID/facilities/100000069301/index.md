@@ -1,6 +1,6 @@
-# Unknown
+# Lewiston, ID 37
 
-**Location:** Unknown, ID
+**Location:** Lewiston, ID
 
 **EPA Facility ID:** 100000069301
 

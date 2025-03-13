@@ -1,6 +1,6 @@
-# Unknown
+# Town of Bethlehem Water Treatment Plant-Vly Creek
 
-**Location:** Unknown, NY
+**Location:** Voorheesville, NY
 
 **EPA Facility ID:** 100000132965
 

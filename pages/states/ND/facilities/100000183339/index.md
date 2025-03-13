@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Nansen
 
-**Location:** Unknown, ND
+**Location:** Mooreton, ND
 
 **EPA Facility ID:** 100000183339
 

@@ -1,6 +1,6 @@
-# Unknown
+# Specialty Foods Group, LLC
 
-**Location:** Unknown, KY
+**Location:** Owensboro, KY
 
 **EPA Facility ID:** 100000138406
 

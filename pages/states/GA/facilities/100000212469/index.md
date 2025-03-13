@@ -1,6 +1,6 @@
-# Unknown
+# SpartanNash - Columbus, GA
 
-**Location:** Unknown, GA
+**Location:** Midland, GA
 
 **EPA Facility ID:** 100000212469
 

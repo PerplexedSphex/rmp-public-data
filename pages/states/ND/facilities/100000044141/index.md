@@ -1,6 +1,6 @@
-# Unknown
+# YPSILANTI EQUITY ELEVATOR
 
-**Location:** Unknown, ND
+**Location:** YPSILANTI, ND
 
 **EPA Facility ID:** 100000044141
 

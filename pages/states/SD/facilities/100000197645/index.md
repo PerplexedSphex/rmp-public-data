@@ -1,6 +1,6 @@
-# Unknown
+# Prairie Ethanol LLC dba POET Biorefining-Mitchell
 
-**Location:** Unknown, SD
+**Location:** Mitchell, SD
 
 **EPA Facility ID:** 100000197645
 

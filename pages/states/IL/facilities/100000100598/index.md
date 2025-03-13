@@ -1,6 +1,6 @@
-# Unknown
+# Harvard, IL 35 Satellite
 
-**Location:** Unknown, IL
+**Location:** Harvard, IL
 
 **EPA Facility ID:** 100000100598
 

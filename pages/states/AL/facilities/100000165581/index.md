@@ -1,6 +1,6 @@
-# Unknown
+# Demopolis Propane Terminal
 
-**Location:** Unknown, AL
+**Location:** Gallion, AL
 
 **EPA Facility ID:** 100000165581
 

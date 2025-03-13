@@ -1,6 +1,6 @@
-# Unknown
+# Cook Inlet Processing
 
-**Location:** Unknown, AK
+**Location:** Kodiak, AK
 
 **EPA Facility ID:** 100000171574
 

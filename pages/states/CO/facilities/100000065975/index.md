@@ -1,6 +1,6 @@
-# Unknown
+# Chempak Industries / Hi-lex Corporation
 
-**Location:** Unknown, CO
+**Location:** Denver, CO
 
 **EPA Facility ID:** 100000065975
 

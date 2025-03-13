@@ -1,6 +1,6 @@
-# Unknown
+# Eugene T. Mahoney State Park
 
-**Location:** Unknown, NE
+**Location:** Ashland, NE
 
 **EPA Facility ID:** 100000144792
 

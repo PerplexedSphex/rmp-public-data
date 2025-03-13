@@ -1,6 +1,6 @@
-# Unknown
+# Consumers Co-op Association
 
-**Location:** Unknown, MN
+**Location:** Litchfield, MN
 
 **EPA Facility ID:** 100000002463
 

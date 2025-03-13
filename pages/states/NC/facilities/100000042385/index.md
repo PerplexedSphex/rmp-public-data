@@ -1,6 +1,6 @@
-# Unknown
+# Pamco Dixie
 
-**Location:** Unknown, NC
+**Location:** Alliance, NC
 
 **EPA Facility ID:** 100000042385
 

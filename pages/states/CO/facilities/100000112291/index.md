@@ -1,6 +1,6 @@
-# Unknown
+# Foothills Water Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Littleton, CO
 
 **EPA Facility ID:** 100000112291
 

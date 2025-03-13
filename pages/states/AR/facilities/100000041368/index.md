@@ -1,6 +1,6 @@
-# Unknown
+# Carroll-Boone Water District
 
-**Location:** Unknown, AR
+**Location:** Eureka Springs, AR
 
 **EPA Facility ID:** 100000041368
 

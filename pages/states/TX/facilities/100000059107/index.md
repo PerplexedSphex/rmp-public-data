@@ -1,6 +1,6 @@
-# Unknown
+# Clean Harbors Deer Park, LLC
 
-**Location:** Unknown, TX
+**Location:** La Porte, TX
 
 **EPA Facility ID:** 100000059107
 

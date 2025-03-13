@@ -1,6 +1,6 @@
-# Unknown
+# Vanchlor Company Inc.
 
-**Location:** Unknown, NY
+**Location:** Lockport, NY
 
 **EPA Facility ID:** 100000184739
 

@@ -1,6 +1,6 @@
-# Unknown
+# PPG Refinish - Lima, OH
 
-**Location:** Unknown, OH
+**Location:** Lima, OH
 
 **EPA Facility ID:** 100000177097
 

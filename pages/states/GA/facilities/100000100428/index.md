@@ -1,6 +1,6 @@
-# Unknown
+# Southwire Company - Copper Division of Southwire
 
-**Location:** Unknown, GA
+**Location:** Carrollton, GA
 
 **EPA Facility ID:** 100000100428
 

@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Coop Elevator Company- Pretty Prarie
 
-**Location:** Unknown, KS
+**Location:** Pretty Prairie, KS
 
 **EPA Facility ID:** 100000091036
 

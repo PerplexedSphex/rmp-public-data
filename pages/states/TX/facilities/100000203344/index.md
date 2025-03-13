@@ -1,6 +1,6 @@
-# Unknown
+# West Harrison Refrigeration Plant
 
-**Location:** Unknown, TX
+**Location:** Marshall, TX
 
 **EPA Facility ID:** 100000203344
 

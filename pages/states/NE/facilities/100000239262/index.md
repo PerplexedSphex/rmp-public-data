@@ -1,6 +1,6 @@
-# Unknown
+# Manning Grain Company
 
-**Location:** Unknown, NE
+**Location:** Fairmont, NE
 
 **EPA Facility ID:** 100000239262
 

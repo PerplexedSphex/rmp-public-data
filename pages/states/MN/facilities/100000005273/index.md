@@ -1,6 +1,6 @@
-# Unknown
+# NORTHERN RESOURCES COOPERATIVE
 
-**Location:** Unknown, MN
+**Location:** ROSS, MN
 
 **EPA Facility ID:** 100000005273
 

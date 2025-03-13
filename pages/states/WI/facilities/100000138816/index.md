@@ -1,6 +1,6 @@
-# Unknown
+# Kings Valley - Osseo
 
-**Location:** Unknown, WI
+**Location:** Osseo, WI
 
 **EPA Facility ID:** 100000138816
 

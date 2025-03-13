@@ -1,6 +1,6 @@
-# Unknown
+# Walter M. Higgins III Generating Station
 
-**Location:** Unknown, NV
+**Location:** Primm, NV
 
 **EPA Facility ID:** 100000182759
 

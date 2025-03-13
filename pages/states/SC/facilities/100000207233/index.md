@@ -1,6 +1,6 @@
-# Unknown
+# Holcim (US), Inc. and Geocycle, LLC
 
-**Location:** Unknown, SC
+**Location:** Holly Hill, SC
 
 **EPA Facility ID:** 100000207233
 

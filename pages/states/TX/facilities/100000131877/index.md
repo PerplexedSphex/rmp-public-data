@@ -1,6 +1,6 @@
-# Unknown
+# City of Liberty Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Liberty, TX
 
 **EPA Facility ID:** 100000131877
 

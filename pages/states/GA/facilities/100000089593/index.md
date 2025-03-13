@@ -1,6 +1,6 @@
-# Unknown
+# East Point Water Department
 
-**Location:** Unknown, GA
+**Location:** East Point, GA
 
 **EPA Facility ID:** 100000089593
 

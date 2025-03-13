@@ -1,6 +1,6 @@
-# Unknown
+# Bell County WCID #1 Water Treatment Facility
 
-**Location:** Unknown, TX
+**Location:** Belton, TX
 
 **EPA Facility ID:** 100000148217
 

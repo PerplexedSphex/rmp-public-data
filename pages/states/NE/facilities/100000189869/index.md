@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Elevator Company - Potter Trailer Storage
 
-**Location:** Unknown, NE
+**Location:** Potter, NE
 
 **EPA Facility ID:** 100000189869
 

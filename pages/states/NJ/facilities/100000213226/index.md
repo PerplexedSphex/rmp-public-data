@@ -1,6 +1,6 @@
-# Unknown
+# PSEG Fossil, LLC - Hudson Generating Station
 
-**Location:** Unknown, NJ
+**Location:** Jersey City, NJ
 
 **EPA Facility ID:** 100000213226
 

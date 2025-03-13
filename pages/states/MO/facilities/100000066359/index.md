@@ -1,6 +1,6 @@
-# Unknown
+# SFI - Carthage Plant
 
-**Location:** Unknown, MO
+**Location:** Carthage, MO
 
 **EPA Facility ID:** 100000066359
 

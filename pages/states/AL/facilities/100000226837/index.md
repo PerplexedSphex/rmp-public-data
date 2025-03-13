@@ -1,6 +1,6 @@
-# Unknown
+# Tuskegee Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Tuskegee, AL
 
 **EPA Facility ID:** 100000226837
 

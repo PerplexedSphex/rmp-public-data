@@ -1,6 +1,6 @@
-# Unknown
+# River Island Fresh Cold Storage
 
-**Location:** Unknown, CA
+**Location:** Dinuba, CA
 
 **EPA Facility ID:** 100000227916
 

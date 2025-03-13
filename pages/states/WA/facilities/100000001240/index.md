@@ -1,6 +1,6 @@
-# Unknown
+# City of Richland Water Treatment Plant
 
-**Location:** Unknown, WA
+**Location:** Richland, WA
 
 **EPA Facility ID:** 100000001240
 

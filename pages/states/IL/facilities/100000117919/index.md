@@ -1,6 +1,6 @@
-# Unknown
+# Clay City, IL 704
 
-**Location:** Unknown, IL
+**Location:** Clay City, IL
 
 **EPA Facility ID:** 100000117919
 

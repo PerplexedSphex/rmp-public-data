@@ -1,6 +1,6 @@
-# Unknown
+# MEMC PASADENA, INCORPORATED
 
-**Location:** Unknown, TX
+**Location:** PASADENA, TX
 
 **EPA Facility ID:** 100000097824
 

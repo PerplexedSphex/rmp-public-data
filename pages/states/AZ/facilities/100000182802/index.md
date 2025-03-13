@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center #7013
 
-**Location:** Unknown, AZ
+**Location:** Casa Grande, AZ
 
 **EPA Facility ID:** 100000182802
 

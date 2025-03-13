@@ -1,6 +1,6 @@
-# Unknown
+# Engineered Polymer Solutions dba Valspar Coatings
 
-**Location:** Unknown, MI
+**Location:** Fremont, MI
 
 **EPA Facility ID:** 100000174786
 

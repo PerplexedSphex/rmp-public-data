@@ -1,6 +1,6 @@
-# Unknown
+# Tipton, CA 552 Satellite
 
-**Location:** Unknown, CA
+**Location:** Tipton, CA
 
 **EPA Facility ID:** 100000049743
 

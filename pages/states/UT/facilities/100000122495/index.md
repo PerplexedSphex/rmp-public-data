@@ -1,6 +1,6 @@
-# Unknown
+# Deer Creek Intake Structure
 
-**Location:** Unknown, UT
+**Location:** Provo Canyon, UT
 
 **EPA Facility ID:** 100000122495
 

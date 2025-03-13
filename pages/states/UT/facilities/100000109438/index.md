@@ -1,6 +1,6 @@
-# Unknown
+# OSI Industries LLC - West Jordan Utah
 
-**Location:** Unknown, UT
+**Location:** West Jordan, UT
 
 **EPA Facility ID:** 100000109438
 

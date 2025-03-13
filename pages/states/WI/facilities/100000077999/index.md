@@ -1,6 +1,6 @@
-# Unknown
+# Hydrite Chemical Co. - Oshkosh
 
-**Location:** Unknown, WI
+**Location:** Oshkosh, WI
 
 **EPA Facility ID:** 100000077999
 

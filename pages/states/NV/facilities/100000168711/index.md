@@ -1,6 +1,6 @@
-# Unknown
+# Desert Star Energy Center
 
-**Location:** Unknown, NV
+**Location:** Boulder City, NV
 
 **EPA Facility ID:** 100000168711
 

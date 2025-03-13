@@ -1,6 +1,6 @@
-# Unknown
+# JOHNSTOWN FERTILIZER PLANT
 
-**Location:** Unknown, ND
+**Location:** JOHNSTOWN, ND
 
 **EPA Facility ID:** 100000151738
 

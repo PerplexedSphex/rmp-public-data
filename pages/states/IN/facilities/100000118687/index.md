@@ -1,6 +1,6 @@
-# Unknown
+# City of Anderson, IN - Lafayette Water Plant
 
-**Location:** Unknown, IN
+**Location:** Anderson, IN
 
 **EPA Facility ID:** 100000118687
 

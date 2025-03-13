@@ -1,6 +1,6 @@
-# Unknown
+# Bama Sea Products Inc.
 
-**Location:** Unknown, FL
+**Location:** St. Petersburg, FL
 
 **EPA Facility ID:** 100000146095
 

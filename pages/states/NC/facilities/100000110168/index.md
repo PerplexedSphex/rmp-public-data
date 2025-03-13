@@ -1,6 +1,6 @@
-# Unknown
+# Montgomery County Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Mt. Gilead, NC
 
 **EPA Facility ID:** 100000110168
 

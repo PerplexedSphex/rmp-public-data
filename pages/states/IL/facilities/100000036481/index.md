@@ -1,6 +1,6 @@
-# Unknown
+# North Chicago Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** North Chicago, IL
 
 **EPA Facility ID:** 100000036481
 

@@ -1,6 +1,6 @@
-# Unknown
+# Loving Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Loving County, TX
 
 **EPA Facility ID:** 100000230911
 

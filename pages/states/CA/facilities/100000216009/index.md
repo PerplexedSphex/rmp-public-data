@@ -1,6 +1,6 @@
-# Unknown
+# Rinchem Company, Inc.
 
-**Location:** Unknown, CA
+**Location:** Gilroy, CA
 
 **EPA Facility ID:** 100000216009
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics Springfield 
 
-**Location:** Unknown, OH
+**Location:** Springfield, OH
 
 **EPA Facility ID:** 100000186611
 

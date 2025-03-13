@@ -1,6 +1,6 @@
-# Unknown
+# American Gypsum Company, Inc. - Duke, Oklahoma
 
-**Location:** Unknown, OK
+**Location:** Duke, OK
 
 **EPA Facility ID:** 100000185355
 

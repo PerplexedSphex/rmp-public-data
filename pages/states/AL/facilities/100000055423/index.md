@@ -1,6 +1,6 @@
-# Unknown
+# Valley Creek Wastewater Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Bessemer, AL
 
 **EPA Facility ID:** 100000055423
 

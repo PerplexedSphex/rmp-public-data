@@ -1,6 +1,6 @@
-# Unknown
+# Carney Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Carney, OK
 
 **EPA Facility ID:** 100000016564
 

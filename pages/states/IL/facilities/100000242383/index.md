@@ -1,6 +1,6 @@
-# Unknown
+# ADM Milling Co
 
-**Location:** Unknown, IL
+**Location:** Mendota, IL
 
 **EPA Facility ID:** 100000242383
 

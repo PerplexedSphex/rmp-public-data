@@ -1,6 +1,6 @@
-# Unknown
+# Ashland Specialty Chemical Co.- Neville Island, PA
 
-**Location:** Unknown, PA
+**Location:** Pittsburgh, PA
 
 **EPA Facility ID:** 100000040573
 

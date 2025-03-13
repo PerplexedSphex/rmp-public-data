@@ -1,6 +1,6 @@
-# Unknown
+# brady grain inc - stuttgart
 
-**Location:** Unknown, KS
+**Location:** stuttgart, KS
 
 **EPA Facility ID:** 100000014209
 

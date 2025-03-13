@@ -1,6 +1,6 @@
-# Unknown
+# Enterprise Thompsonville Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Mirando City, TX
 
 **EPA Facility ID:** 100000108509
 

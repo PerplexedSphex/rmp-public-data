@@ -1,6 +1,6 @@
-# Unknown
+# SePRO Corporation
 
-**Location:** Unknown, NC
+**Location:** Whitakers, NC
 
 **EPA Facility ID:** 100000206895
 

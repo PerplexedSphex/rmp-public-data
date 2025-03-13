@@ -1,6 +1,6 @@
-# Unknown
+# Northridge Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Calvin, OK
 
 **EPA Facility ID:** 100000204101
 

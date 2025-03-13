@@ -1,6 +1,6 @@
-# Unknown
+# Kingman Gas Plant
 
-**Location:** Unknown, KS
+**Location:** Cheney, KS
 
 **EPA Facility ID:** 100000215484
 

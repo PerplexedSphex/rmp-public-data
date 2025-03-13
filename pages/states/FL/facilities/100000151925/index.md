@@ -1,6 +1,6 @@
-# Unknown
+# Douglas H. Allen Water Reclamation Facility
 
-**Location:** Unknown, FL
+**Location:** Bartow, FL
 
 **EPA Facility ID:** 100000151925
 

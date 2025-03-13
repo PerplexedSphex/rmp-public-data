@@ -1,6 +1,6 @@
-# Unknown
+# Chem Gro of La Harpe-East Plant
 
-**Location:** Unknown, IL
+**Location:** LaHarpe, IL
 
 **EPA Facility ID:** 100000208438
 

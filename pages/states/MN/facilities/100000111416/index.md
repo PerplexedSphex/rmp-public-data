@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Great Lakes, LLC - St. Paul
 
-**Location:** Unknown, MN
+**Location:** St. Paul, MN
 
 **EPA Facility ID:** 100000111416
 

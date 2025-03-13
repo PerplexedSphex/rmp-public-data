@@ -1,6 +1,6 @@
-# Unknown
+# Sugar Creek Packing Co.- Dayton
 
-**Location:** Unknown, OH
+**Location:** Dayton, OH
 
 **EPA Facility ID:** 100000199938
 

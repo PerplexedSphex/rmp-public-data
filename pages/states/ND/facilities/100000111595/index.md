@@ -1,6 +1,6 @@
-# Unknown
+# Central Dakota Frontier Coop. Wishek West Plant
 
-**Location:** Unknown, ND
+**Location:** Wishek, ND
 
 **EPA Facility ID:** 100000111595
 

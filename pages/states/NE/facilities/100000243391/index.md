@@ -1,6 +1,6 @@
-# Unknown
+# Vantage Corn Processors
 
-**Location:** Unknown, NE
+**Location:** Columbus, NE
 
 **EPA Facility ID:** 100000243391
 

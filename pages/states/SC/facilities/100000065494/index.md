@@ -1,6 +1,6 @@
-# Unknown
+# Waccamaw Neck Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Pawleys Island, SC
 
 **EPA Facility ID:** 100000065494
 

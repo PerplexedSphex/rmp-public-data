@@ -1,6 +1,6 @@
-# Unknown
+# K.A. Steel Chemicals, Inc. 
 
-**Location:** Unknown, IL
+**Location:** Lemont, IL
 
 **EPA Facility ID:** 100000150338
 

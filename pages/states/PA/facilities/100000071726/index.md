@@ -1,6 +1,6 @@
-# Unknown
+# Huntingdon Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Huntingdon, PA
 
 **EPA Facility ID:** 100000071726
 

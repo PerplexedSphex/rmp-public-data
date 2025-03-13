@@ -1,6 +1,6 @@
-# Unknown
+# Lost Cabin Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Lysite, WY
 
 **EPA Facility ID:** 100000166152
 

@@ -1,6 +1,6 @@
-# Unknown
+# Chemical Distributors, Inc.
 
-**Location:** Unknown, NY
+**Location:** Buffalo, NY
 
 **EPA Facility ID:** 100000051427
 

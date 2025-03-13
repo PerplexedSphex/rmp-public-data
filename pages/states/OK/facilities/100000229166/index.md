@@ -1,6 +1,6 @@
-# Unknown
+# Bradley Natural Gas Processing Plant
 
-**Location:** Unknown, OK
+**Location:** Bradley, OK
 
 **EPA Facility ID:** 100000229166
 

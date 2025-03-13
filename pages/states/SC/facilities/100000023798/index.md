@@ -1,6 +1,6 @@
-# Unknown
+# City of Clinton Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Clinton, SC
 
 **EPA Facility ID:** 100000023798
 

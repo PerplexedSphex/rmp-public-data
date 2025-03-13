@@ -1,6 +1,6 @@
-# Unknown
+# Country Partners Coop - Cedar Rapids
 
-**Location:** Unknown, NE
+**Location:** Cedar Rapids, NE
 
 **EPA Facility ID:** 100000168329
 

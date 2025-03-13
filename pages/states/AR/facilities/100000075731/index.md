@@ -1,6 +1,6 @@
-# Unknown
+# Graves-Foster Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Fulton, AR
 
 **EPA Facility ID:** 100000075731
 

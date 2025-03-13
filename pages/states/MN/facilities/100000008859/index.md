@@ -1,6 +1,6 @@
-# Unknown
+# SPELTZ ELEVATOR
 
-**Location:** Unknown, MN
+**Location:** MYRTLE, MN
 
 **EPA Facility ID:** 100000008859
 

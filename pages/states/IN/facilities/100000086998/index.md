@@ -1,6 +1,6 @@
-# Unknown
+# CF Industries Dist. Facilities, LLC - Terre Haute
 
-**Location:** Unknown, IN
+**Location:** Rosedale, IN
 
 **EPA Facility ID:** 100000086998
 

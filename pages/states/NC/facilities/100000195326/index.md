@@ -1,6 +1,6 @@
-# Unknown
+# Harris Teeter Indian Trail Distribution Center
 
-**Location:** Unknown, NC
+**Location:** Indian Trail, NC
 
 **EPA Facility ID:** 100000195326
 

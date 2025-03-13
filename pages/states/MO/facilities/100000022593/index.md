@@ -1,6 +1,6 @@
-# Unknown
+# Kennett, MO 3010
 
-**Location:** Unknown, MO
+**Location:** Kennett, MO
 
 **EPA Facility ID:** 100000022593
 

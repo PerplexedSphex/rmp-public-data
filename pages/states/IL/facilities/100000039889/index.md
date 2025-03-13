@@ -1,6 +1,6 @@
-# Unknown
+# CenTrio Energy, LLC-Plant 3
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000039889
 

@@ -1,6 +1,6 @@
-# Unknown
+# Columbus 3 Natural Gas Storage Field
 
-**Location:** Unknown, MI
+**Location:** Columbus Township, MI
 
 **EPA Facility ID:** 100000196897
 

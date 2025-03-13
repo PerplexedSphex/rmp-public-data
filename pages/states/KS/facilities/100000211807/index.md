@@ -1,6 +1,6 @@
-# Unknown
+# G+ Ag Inc
 
-**Location:** Unknown, KS
+**Location:** Hugoton, KS
 
 **EPA Facility ID:** 100000211807
 

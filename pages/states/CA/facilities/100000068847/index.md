@@ -1,6 +1,6 @@
-# Unknown
+# Dresick Cooling
 
-**Location:** Unknown, CA
+**Location:** Huron, CA
 
 **EPA Facility ID:** 100000068847
 

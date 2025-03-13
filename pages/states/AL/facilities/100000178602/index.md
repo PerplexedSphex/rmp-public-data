@@ -1,6 +1,6 @@
-# Unknown
+# Gorgas Electric Generating Plant
 
-**Location:** Unknown, AL
+**Location:** Parrish, AL
 
 **EPA Facility ID:** 100000178602
 

@@ -1,6 +1,6 @@
-# Unknown
+# Celanese Acetate LLC - Celriver Plant
 
-**Location:** Unknown, SC
+**Location:** Rock Hill, SC
 
 **EPA Facility ID:** 100000104353
 

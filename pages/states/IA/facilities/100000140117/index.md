@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Dallas Center
 
-**Location:** Unknown, IA
+**Location:** Dallas Center, IA
 
 **EPA Facility ID:** 100000140117
 

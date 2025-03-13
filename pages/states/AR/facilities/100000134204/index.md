@@ -1,6 +1,6 @@
-# Unknown
+# Lion Oil Company
 
-**Location:** Unknown, AR
+**Location:** El Dorado, AR
 
 **EPA Facility ID:** 100000134204
 

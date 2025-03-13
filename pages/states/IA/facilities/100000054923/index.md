@@ -1,6 +1,6 @@
-# Unknown
+# West Central Cooperative - Scranton
 
-**Location:** Unknown, IA
+**Location:** Scranton, IA
 
 **EPA Facility ID:** 100000054923
 

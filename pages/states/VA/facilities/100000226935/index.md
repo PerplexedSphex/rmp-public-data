@@ -1,6 +1,6 @@
-# Unknown
+# Town of Wytheville Wastewater Treatment Plant
 
-**Location:** Unknown, VA
+**Location:** Wytheville, VA
 
 **EPA Facility ID:** 100000226935
 

@@ -1,6 +1,6 @@
-# Unknown
+# Brule Terminal
 
-**Location:** Unknown, SD
+**Location:** Kimball, SD
 
 **EPA Facility ID:** 100000235729
 

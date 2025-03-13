@@ -1,6 +1,6 @@
-# Unknown
+# Dorcheat Gas Plant
 
-**Location:** Unknown, AR
+**Location:** Magnolia, AR
 
 **EPA Facility ID:** 100000215956
 

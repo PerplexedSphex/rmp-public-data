@@ -1,6 +1,6 @@
-# Unknown
+# Theresa Street Wastewater Treatment Facility
 
-**Location:** Unknown, NE
+**Location:** Lincoln, NE
 
 **EPA Facility ID:** 100000112059
 

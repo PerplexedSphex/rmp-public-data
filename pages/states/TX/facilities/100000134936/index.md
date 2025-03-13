@@ -1,6 +1,6 @@
-# Unknown
+# Formosa Hydrocarbons Company Inc - Point Comfort
 
-**Location:** Unknown, TX
+**Location:** Point Comfort, TX
 
 **EPA Facility ID:** 100000134936
 

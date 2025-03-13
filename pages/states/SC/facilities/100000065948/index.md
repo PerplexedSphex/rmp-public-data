@@ -1,6 +1,6 @@
-# Unknown
+# Cheraw Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Cheraw, SC
 
 **EPA Facility ID:** 100000065948
 

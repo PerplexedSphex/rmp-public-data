@@ -1,6 +1,6 @@
-# Unknown
+# Wailuku / Kahului WWRF
 
-**Location:** Unknown, HI
+**Location:** Kahului, HI
 
 **EPA Facility ID:** 100000075161
 

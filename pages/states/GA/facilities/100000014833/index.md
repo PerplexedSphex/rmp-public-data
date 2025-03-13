@@ -1,6 +1,6 @@
-# Unknown
+# Country Home Bakers, LLC
 
-**Location:** Unknown, GA
+**Location:** Atlanta, GA
 
 **EPA Facility ID:** 100000014833
 

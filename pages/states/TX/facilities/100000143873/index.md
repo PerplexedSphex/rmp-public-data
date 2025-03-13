@@ -1,6 +1,6 @@
-# Unknown
+# Lake Lewisville Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Denton, TX
 
 **EPA Facility ID:** 100000143873
 

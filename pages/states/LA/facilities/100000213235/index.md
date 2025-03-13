@@ -1,6 +1,6 @@
-# Unknown
+# Lake Charles Depropanizer Plant
 
-**Location:** Unknown, LA
+**Location:** Sulphur, LA
 
 **EPA Facility ID:** 100000213235
 

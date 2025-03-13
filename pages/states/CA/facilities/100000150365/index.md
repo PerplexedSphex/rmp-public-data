@@ -1,6 +1,6 @@
-# Unknown
+# City of Avenal Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Avenal, CA
 
 **EPA Facility ID:** 100000150365
 

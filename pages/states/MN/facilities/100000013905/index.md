@@ -1,6 +1,6 @@
-# Unknown
+# SWMN Farmers Co-op
 
-**Location:** Unknown, MN
+**Location:** Luverne, MN
 
 **EPA Facility ID:** 100000013905
 

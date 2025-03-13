@@ -1,6 +1,6 @@
-# Unknown
+# Gold-Eagle Cooperative - Kanawha
 
-**Location:** Unknown, IA
+**Location:** Kanawha, IA
 
 **EPA Facility ID:** 100000206225
 

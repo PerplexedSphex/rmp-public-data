@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Foods, Inc. Grannis, AR
 
-**Location:** Unknown, AR
+**Location:** Grannis, AR
 
 **EPA Facility ID:** 100000225687
 

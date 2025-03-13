@@ -1,6 +1,6 @@
-# Unknown
+# Johnson & Johnson Elk Grove Logistics Center
 
-**Location:** Unknown, IL
+**Location:** Elk Grove Village, IL
 
 **EPA Facility ID:** 100000192533
 

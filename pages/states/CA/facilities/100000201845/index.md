@@ -1,6 +1,6 @@
-# Unknown
+# Yuba City Energy Center
 
-**Location:** Unknown, CA
+**Location:** Yuba City, CA
 
 **EPA Facility ID:** 100000201845
 

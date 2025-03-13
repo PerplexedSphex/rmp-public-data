@@ -1,6 +1,6 @@
-# Unknown
+# Loveridge Road Power Plant
 
-**Location:** Unknown, CA
+**Location:** Pittsburg, CA
 
 **EPA Facility ID:** 100000103327
 

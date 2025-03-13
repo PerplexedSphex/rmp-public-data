@@ -1,6 +1,6 @@
-# Unknown
+# Clean Harbors of Braintree, Inc.
 
-**Location:** Unknown, MA
+**Location:** Braintree, MA
 
 **EPA Facility ID:** 100000072191
 

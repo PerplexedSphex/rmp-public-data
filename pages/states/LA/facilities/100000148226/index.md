@@ -1,6 +1,6 @@
-# Unknown
+# Witco Corporation Gretna Plant
 
-**Location:** Unknown, LA
+**Location:** Harvey, LA
 
 **EPA Facility ID:** 100000148226
 

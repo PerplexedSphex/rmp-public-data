@@ -1,6 +1,6 @@
-# Unknown
+# Puna Geothermal Venture
 
-**Location:** Unknown, HI
+**Location:** Pahoa, HI
 
 **EPA Facility ID:** 100000091599
 

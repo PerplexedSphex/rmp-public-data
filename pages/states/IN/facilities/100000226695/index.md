@@ -1,6 +1,6 @@
-# Unknown
+# Echo Lake Foods - Huntington
 
-**Location:** Unknown, IN
+**Location:** Huntington, IN
 
 **EPA Facility ID:** 100000226695
 

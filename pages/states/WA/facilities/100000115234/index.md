@@ -1,6 +1,6 @@
-# Unknown
+# Ferndale Storage Terminal
 
-**Location:** Unknown, WA
+**Location:** Ferndale, WA
 
 **EPA Facility ID:** 100000115234
 

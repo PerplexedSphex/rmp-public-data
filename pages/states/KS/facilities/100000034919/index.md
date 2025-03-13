@@ -1,6 +1,6 @@
-# Unknown
+# Lakin
 
-**Location:** Unknown, KS
+**Location:** Lakin, KS
 
 **EPA Facility ID:** 100000034919
 

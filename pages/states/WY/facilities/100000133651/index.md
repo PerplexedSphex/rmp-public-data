@@ -1,6 +1,6 @@
-# Unknown
+# Wamsutter Stabilization Facility
 
-**Location:** Unknown, WY
+**Location:** Wamsutter, WY
 
 **EPA Facility ID:** 100000133651
 

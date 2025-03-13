@@ -1,6 +1,6 @@
-# Unknown
+# Greenville Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Greenville, OH
 
 **EPA Facility ID:** 100000206378
 

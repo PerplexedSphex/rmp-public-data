@@ -1,6 +1,6 @@
-# Unknown
+# Gibbon Packing, LLC.
 
-**Location:** Unknown, NE
+**Location:** Gibbon, NE
 
 **EPA Facility ID:** 100000003916
 

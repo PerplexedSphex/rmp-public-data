@@ -1,6 +1,6 @@
-# Unknown
+# Central Compression Plant (CCP)
 
-**Location:** Unknown, AK
+**Location:** Prudhoe Bay, AK
 
 **EPA Facility ID:** 100000241801
 

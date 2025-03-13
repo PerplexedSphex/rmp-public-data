@@ -1,6 +1,6 @@
-# Unknown
+# BHJ USA, LLC
 
-**Location:** Unknown, IN
+**Location:** Logansport, IN
 
 **EPA Facility ID:** 100000217268
 

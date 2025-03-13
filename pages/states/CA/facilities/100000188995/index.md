@@ -1,6 +1,6 @@
-# Unknown
+# Trical Inc.
 
-**Location:** Unknown, CA
+**Location:** Mojave, CA
 
 **EPA Facility ID:** 100000188995
 

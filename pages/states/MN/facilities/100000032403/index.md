@@ -1,6 +1,6 @@
-# Unknown
+# Fosston Coop Elevator Association
 
-**Location:** Unknown, MN
+**Location:** Fosston, MN
 
 **EPA Facility ID:** 100000032403
 

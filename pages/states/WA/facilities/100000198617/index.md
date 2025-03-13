@@ -1,6 +1,6 @@
-# Unknown
+# Simplot Frozen Vegetables, LLC. 
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000198617
 

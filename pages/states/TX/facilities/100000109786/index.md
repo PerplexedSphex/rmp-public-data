@@ -1,6 +1,6 @@
-# Unknown
+# Genpak LLC - Longview
 
-**Location:** Unknown, TX
+**Location:** Longview, TX
 
 **EPA Facility ID:** 100000109786
 

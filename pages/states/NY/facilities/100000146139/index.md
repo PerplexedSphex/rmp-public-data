@@ -1,6 +1,6 @@
-# Unknown
+# Ogdensburg Energy Facility
 
-**Location:** Unknown, NY
+**Location:** Ogdensburg, NY
 
 **EPA Facility ID:** 100000146139
 

@@ -1,6 +1,6 @@
-# Unknown
+# Amick Farms, LLC - Laurel, MS
 
-**Location:** Unknown, MS
+**Location:** Laurel, MS
 
 **EPA Facility ID:** 100000062923
 

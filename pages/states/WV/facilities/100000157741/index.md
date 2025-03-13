@@ -1,6 +1,6 @@
-# Unknown
+# Vindex Loadout - Buffalo Refuse Site
 
-**Location:** Unknown, WV
+**Location:** Mount Storm, WV
 
 **EPA Facility ID:** 100000157741
 

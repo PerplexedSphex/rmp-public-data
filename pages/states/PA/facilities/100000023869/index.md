@@ -1,6 +1,6 @@
-# Unknown
+# Campbell Snacks - Downingtown Plant
 
-**Location:** Unknown, PA
+**Location:** Downingtown, PA
 
 **EPA Facility ID:** 100000023869
 

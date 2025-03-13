@@ -1,6 +1,6 @@
-# Unknown
+# Bidart Brothers Cold Storage
 
-**Location:** Unknown, CA
+**Location:** Shafter, CA
 
 **EPA Facility ID:** 100000163976
 

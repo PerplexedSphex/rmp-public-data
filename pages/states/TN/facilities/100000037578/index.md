@@ -1,6 +1,6 @@
-# Unknown
+# U.S. Foods, Inc. - Knoxville
 
-**Location:** Unknown, TN
+**Location:** Alcoa, TN
 
 **EPA Facility ID:** 100000037578
 

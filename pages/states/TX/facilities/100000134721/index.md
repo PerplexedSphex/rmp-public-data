@@ -1,6 +1,6 @@
-# Unknown
+# Huckabay Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Stephenville, TX
 
 **EPA Facility ID:** 100000134721
 

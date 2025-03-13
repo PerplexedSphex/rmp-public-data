@@ -1,6 +1,6 @@
-# Unknown
+# Lake of the Pines Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Auburn, CA
 
 **EPA Facility ID:** 100000039674
 

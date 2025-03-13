@@ -1,6 +1,6 @@
-# Unknown
+# PPG Industries, Inc.
 
-**Location:** Unknown, NY
+**Location:** Guilderland Center, NY
 
 **EPA Facility ID:** 100000189949
 

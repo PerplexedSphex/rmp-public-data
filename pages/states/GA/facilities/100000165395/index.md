@@ -1,6 +1,6 @@
-# Unknown
+# Waycross Water Pollution Control Plant #2
 
-**Location:** Unknown, GA
+**Location:** Waycross, GA
 
 **EPA Facility ID:** 100000165395
 

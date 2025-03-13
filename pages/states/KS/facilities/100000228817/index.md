@@ -1,6 +1,6 @@
-# Unknown
+# FARMERS COOP ELEVATOR COMPANY - BENTLEY
 
-**Location:** Unknown, KS
+**Location:** SEDGWICK, KS
 
 **EPA Facility ID:** 100000228817
 

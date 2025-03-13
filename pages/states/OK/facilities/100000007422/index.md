@@ -1,6 +1,6 @@
-# Unknown
+# Midwest Farmer's Inc.
 
-**Location:** Unknown, OK
+**Location:** Clinton, OK
 
 **EPA Facility ID:** 100000007422
 

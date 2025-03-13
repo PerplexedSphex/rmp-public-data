@@ -1,6 +1,6 @@
-# Unknown
+# Battle Creek Farmers Cooperative - BC South
 
-**Location:** Unknown, NE
+**Location:** Battle Creek, NE
 
 **EPA Facility ID:** 100000100641
 

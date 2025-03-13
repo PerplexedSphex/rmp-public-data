@@ -1,6 +1,6 @@
-# Unknown
+# Molson Coors USA LLC -- Golden Brewery
 
-**Location:** Unknown, CO
+**Location:** Golden, CO
 
 **EPA Facility ID:** 100000139735
 

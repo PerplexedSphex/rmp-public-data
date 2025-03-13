@@ -1,6 +1,6 @@
-# Unknown
+# Enterprise Mankato Terminal & Storage
 
-**Location:** Unknown, MN
+**Location:** Garden City, MN
 
 **EPA Facility ID:** 100000190562
 

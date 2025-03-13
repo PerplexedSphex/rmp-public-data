@@ -1,6 +1,6 @@
-# Unknown
+# SOUTHWESTERN MN. DAIRY ASS'N
 
-**Location:** Unknown, MN
+**Location:** RUSSELL, MN
 
 **EPA Facility ID:** 100000042214
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bricelynn, MN 156 Satellite
 
-**Location:** Unknown, MN
+**Location:** Bricelynn, MN
 
 **EPA Facility ID:** 100000206573
 

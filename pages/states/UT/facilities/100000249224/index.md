@@ -1,6 +1,6 @@
-# Unknown
+# North Salt Lake Terminal
 
-**Location:** Unknown, UT
+**Location:** North Salt Lake, UT
 
 **EPA Facility ID:** 100000249224
 

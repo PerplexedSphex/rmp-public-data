@@ -1,6 +1,6 @@
-# Unknown
+# Panther Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Rankin, TX
 
 **EPA Facility ID:** 100000233437
 

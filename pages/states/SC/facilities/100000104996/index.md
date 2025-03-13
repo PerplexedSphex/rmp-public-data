@@ -1,6 +1,6 @@
-# Unknown
+# IndChem, Inc.
 
-**Location:** Unknown, SC
+**Location:** N. Charleston, SC
 
 **EPA Facility ID:** 100000104996
 

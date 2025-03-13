@@ -1,6 +1,6 @@
-# Unknown
+# Valspar Coatings - Wheeling
 
-**Location:** Unknown, IL
+**Location:** Wheeling, IL
 
 **EPA Facility ID:** 100000164644
 

@@ -1,6 +1,6 @@
-# Unknown
+# Dreaming Creek Waste Water Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Richmond, KY
 
 **EPA Facility ID:** 100000162842
 

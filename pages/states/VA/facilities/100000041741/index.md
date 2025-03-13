@@ -1,6 +1,6 @@
-# Unknown
+# City of Richmond Wastewater Treatment Plant
 
-**Location:** Unknown, VA
+**Location:** Richmond, VA
 
 **EPA Facility ID:** 100000041741
 

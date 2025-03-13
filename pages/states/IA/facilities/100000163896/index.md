@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Seymour, IA Facility
 
-**Location:** Unknown, IA
+**Location:** Seymour, IA
 
 **EPA Facility ID:** 100000163896
 

@@ -1,6 +1,6 @@
-# Unknown
+# Eckert Cold Storage (Manteca)
 
-**Location:** Unknown, CA
+**Location:** Manteca, CA
 
 **EPA Facility ID:** 100000162389
 

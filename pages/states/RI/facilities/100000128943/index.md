@@ -1,6 +1,6 @@
-# Unknown
+# Quonset Point Wastewater Treatment Facility
 
-**Location:** Unknown, RI
+**Location:** North Kingstown, RI
 
 **EPA Facility ID:** 100000128943
 

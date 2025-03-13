@@ -1,6 +1,6 @@
-# Unknown
+# PLZ Corp
 
-**Location:** Unknown, CA
+**Location:** Riverside, CA
 
 **EPA Facility ID:** 100000214109
 

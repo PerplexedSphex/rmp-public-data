@@ -1,6 +1,6 @@
-# Unknown
+# Brenham Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Brenham, TX
 
 **EPA Facility ID:** 100000058581
 

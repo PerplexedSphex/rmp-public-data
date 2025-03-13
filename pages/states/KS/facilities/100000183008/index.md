@@ -1,6 +1,6 @@
-# Unknown
+# L. & L. Rush
 
-**Location:** Unknown, KS
+**Location:** Severance, KS
 
 **EPA Facility ID:** 100000183008
 

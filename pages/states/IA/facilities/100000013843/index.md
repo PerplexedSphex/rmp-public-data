@@ -1,6 +1,6 @@
-# Unknown
+# Little Cedar Co-op Elevator
 
-**Location:** Unknown, IA
+**Location:** Little Cedar, IA
 
 **EPA Facility ID:** 100000013843
 

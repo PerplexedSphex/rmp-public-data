@@ -1,6 +1,6 @@
-# Unknown
+# Guilford Chlorinator Station
 
-**Location:** Unknown, MD
+**Location:** Baltimore, MD
 
 **EPA Facility ID:** 100000053648
 

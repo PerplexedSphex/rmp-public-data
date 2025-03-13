@@ -1,6 +1,6 @@
-# Unknown
+# AmeriGas - Terrace Heights, WA Terminal
 
-**Location:** Unknown, WA
+**Location:** Yakima, WA
 
 **EPA Facility ID:** 100000193863
 

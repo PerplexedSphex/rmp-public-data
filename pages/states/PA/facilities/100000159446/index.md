@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage, Miller Circle
 
-**Location:** Unknown, PA
+**Location:** Bethlehem, PA
 
 **EPA Facility ID:** 100000159446
 

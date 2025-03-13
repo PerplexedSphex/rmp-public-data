@@ -1,6 +1,6 @@
-# Unknown
+# Interstate Warehousing Kingman
 
-**Location:** Unknown, AZ
+**Location:** Golden Valley, AZ
 
 **EPA Facility ID:** 100000252442
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Calhoun WTP
 
-**Location:** Unknown, GA
+**Location:** Calhoun, GA
 
 **EPA Facility ID:** 100000057555
 

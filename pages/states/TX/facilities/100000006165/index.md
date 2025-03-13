@@ -1,6 +1,6 @@
-# Unknown
+# GKG INC. dba J-SYSTEMS
 
-**Location:** Unknown, TX
+**Location:** WICHITA FALLS, TX
 
 **EPA Facility ID:** 100000006165
 

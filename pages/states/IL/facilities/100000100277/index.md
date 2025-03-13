@@ -1,6 +1,6 @@
-# Unknown
+# City of Waukgen Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Waukegan, IL
 
 **EPA Facility ID:** 100000100277
 

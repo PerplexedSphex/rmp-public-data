@@ -1,6 +1,6 @@
-# Unknown
+# Essroc Cement Corp. - Logansport, IN
 
-**Location:** Unknown, IN
+**Location:** Logansport, IN
 
 **EPA Facility ID:** 100000069739
 

@@ -1,6 +1,6 @@
-# Unknown
+# Logan Agri-Service - Scott County
 
-**Location:** Unknown, IL
+**Location:** Winchester, IL
 
 **EPA Facility ID:** 100000234089
 

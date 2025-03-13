@@ -1,6 +1,6 @@
-# Unknown
+# Crider Poultry, Inc. - Licolnton
 
-**Location:** Unknown, GA
+**Location:** Licolnton, GA
 
 **EPA Facility ID:** 100000153497
 

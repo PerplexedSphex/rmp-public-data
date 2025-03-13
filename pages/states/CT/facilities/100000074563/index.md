@@ -1,6 +1,6 @@
-# Unknown
+# Glastonbury Water Pollution Control Facility
 
-**Location:** Unknown, CT
+**Location:** Glastonbury, CT
 
 **EPA Facility ID:** 100000074563
 

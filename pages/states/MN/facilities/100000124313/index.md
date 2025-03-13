@@ -1,6 +1,6 @@
-# Unknown
+# Inver Grove Heights Water Treatment Facility
 
-**Location:** Unknown, MN
+**Location:** Inver Grove Heights, MN
 
 **EPA Facility ID:** 100000124313
 

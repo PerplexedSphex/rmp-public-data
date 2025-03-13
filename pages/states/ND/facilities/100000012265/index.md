@@ -1,6 +1,6 @@
-# Unknown
+# Coal Creek Station
 
-**Location:** Unknown, ND
+**Location:** Underwood, ND
 
 **EPA Facility ID:** 100000012265
 

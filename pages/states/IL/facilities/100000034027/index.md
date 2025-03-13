@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-Oblong
 
-**Location:** Unknown, IL
+**Location:** Oblong, IL
 
 **EPA Facility ID:** 100000034027
 

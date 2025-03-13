@@ -1,6 +1,6 @@
-# Unknown
+# JIRDON AGRI CHEMICALS, INC.
 
-**Location:** Unknown, WY
+**Location:** Torrington, WY
 
 **EPA Facility ID:** 100000040822
 

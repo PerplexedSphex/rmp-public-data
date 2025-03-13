@@ -1,6 +1,6 @@
-# Unknown
+# Cristal Metals Inc
 
-**Location:** Unknown, IL
+**Location:** Lockport, IL
 
 **EPA Facility ID:** 100000197306
 

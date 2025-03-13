@@ -1,6 +1,6 @@
-# Unknown
+# Mid Oklahoma Cooperative
 
-**Location:** Unknown, OK
+**Location:** Omega, OK
 
 **EPA Facility ID:** 100000003248
 

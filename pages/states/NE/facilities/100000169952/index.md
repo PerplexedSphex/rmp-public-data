@@ -1,6 +1,6 @@
-# Unknown
+# Bruning Grain & Feed - Ohiowa
 
-**Location:** Unknown, NE
+**Location:** Ohiowa, NE
 
 **EPA Facility ID:** 100000169952
 

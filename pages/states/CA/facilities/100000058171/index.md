@@ -1,6 +1,6 @@
-# Unknown
+# LBA Logistics
 
-**Location:** Unknown, CA
+**Location:** Sacramento, CA
 
 **EPA Facility ID:** 100000058171
 

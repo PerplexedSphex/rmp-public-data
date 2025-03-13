@@ -1,6 +1,6 @@
-# Unknown
+# LanzaTech Freedom Pines Biorefinery LLC
 
-**Location:** Unknown, GA
+**Location:** Soperton, GA
 
 **EPA Facility ID:** 100000232287
 

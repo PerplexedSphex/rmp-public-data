@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Clay Center NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Clay Center, NE
 
 **EPA Facility ID:** 100000005399
 

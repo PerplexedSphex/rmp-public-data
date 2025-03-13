@@ -1,6 +1,6 @@
-# Unknown
+# Water Reclamation Plant No. 7
 
-**Location:** Unknown, CA
+**Location:** Indio, CA
 
 **EPA Facility ID:** 100000167632
 

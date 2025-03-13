@@ -1,6 +1,6 @@
-# Unknown
+# Trotter Grain & Fertilizer
 
-**Location:** Unknown, NE
+**Location:** Sargent, NE
 
 **EPA Facility ID:** 100000179834
 

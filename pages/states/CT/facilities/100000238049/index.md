@@ -1,6 +1,6 @@
-# Unknown
+# World Class Distribution, Inc. - Bloomfield
 
-**Location:** Unknown, CT
+**Location:** Bloomfield, CT
 
 **EPA Facility ID:** 100000238049
 

@@ -1,6 +1,6 @@
-# Unknown
+# BHP Copper, Pinto Valley Unit
 
-**Location:** Unknown, AZ
+**Location:** Miami, AZ
 
 **EPA Facility ID:** 100000219435
 

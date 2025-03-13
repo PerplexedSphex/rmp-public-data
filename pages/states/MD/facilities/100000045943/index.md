@@ -1,6 +1,6 @@
-# Unknown
+# Tanner Industries, Inc. - Havre de Grace
 
-**Location:** Unknown, MD
+**Location:** Havre de Grace, MD
 
 **EPA Facility ID:** 100000045943
 

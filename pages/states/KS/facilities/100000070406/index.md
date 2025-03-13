@@ -1,6 +1,6 @@
-# Unknown
+# City of Liberal Domestic Waste Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Liberal, KS
 
 **EPA Facility ID:** 100000070406
 

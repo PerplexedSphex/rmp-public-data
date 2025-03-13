@@ -1,6 +1,6 @@
-# Unknown
+# SUMCO Phoenix Corporation, Cincinnati
 
-**Location:** Unknown, OH
+**Location:** Maineville, OH
 
 **EPA Facility ID:** 100000100099
 

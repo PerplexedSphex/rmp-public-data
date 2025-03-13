@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Chokio
 
-**Location:** Unknown, MN
+**Location:** Chokio, MN
 
 **EPA Facility ID:** 100000021647
 

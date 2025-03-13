@@ -1,6 +1,6 @@
-# Unknown
+# Pacific Propane NW Transloading Facility
 
-**Location:** Unknown, WA
+**Location:** Wapato, WA
 
 **EPA Facility ID:** 100000251791
 

@@ -1,6 +1,6 @@
-# Unknown
+# Hampton Facility
 
-**Location:** Unknown, SC
+**Location:** Hampton, SC
 
 **EPA Facility ID:** 100000104415
 

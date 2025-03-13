@@ -1,6 +1,6 @@
-# Unknown
+# CHARLES HAMMAN WATER TREATMENT PLANT
 
-**Location:** Unknown, RI
+**Location:** WOONSOCKET, RI
 
 **EPA Facility ID:** 100000059526
 

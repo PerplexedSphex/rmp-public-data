@@ -1,6 +1,6 @@
-# Unknown
+# Plymouth Tube Company, Trent
 
-**Location:** Unknown, WI
+**Location:** East Troy, WI
 
 **EPA Facility ID:** 100000191428
 

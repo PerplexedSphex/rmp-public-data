@@ -1,6 +1,6 @@
-# Unknown
+# Piney Creek Power Plant
 
-**Location:** Unknown, PA
+**Location:** Clarion, PA
 
 **EPA Facility ID:** 100000174535
 

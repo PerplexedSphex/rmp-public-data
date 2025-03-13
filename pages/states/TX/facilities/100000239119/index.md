@@ -1,6 +1,6 @@
-# Unknown
+# City of Gainesville Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Gainesville, TX
 
 **EPA Facility ID:** 100000239119
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gibson Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Gibson, LA
 
 **EPA Facility ID:** 100000126231
 

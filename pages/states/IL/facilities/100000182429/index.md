@@ -1,6 +1,6 @@
-# Unknown
+# CARROLL SERVICE COMPANY-LANARK WEST PLANT
 
-**Location:** Unknown, IL
+**Location:** Lanark, IL
 
 **EPA Facility ID:** 100000182429
 

@@ -1,6 +1,6 @@
-# Unknown
+# Stockton Logistics, LLC
 
-**Location:** Unknown, CA
+**Location:** Stockton, CA
 
 **EPA Facility ID:** 100000167945
 

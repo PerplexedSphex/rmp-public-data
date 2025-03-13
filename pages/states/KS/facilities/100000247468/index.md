@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics Olathe, KS Facility
 
-**Location:** Unknown, KS
+**Location:** Olathe, KS
 
 **EPA Facility ID:** 100000247468
 

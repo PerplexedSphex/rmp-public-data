@@ -1,6 +1,6 @@
-# Unknown
+# Green Bay Water Utility Filtration Plant
 
-**Location:** Unknown, WI
+**Location:** Town of Humboldt, WI
 
 **EPA Facility ID:** 100000051374
 

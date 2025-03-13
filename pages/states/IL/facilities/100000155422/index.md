@@ -1,6 +1,6 @@
-# Unknown
+# CWLP's Water Purification Plant
 
-**Location:** Unknown, IL
+**Location:** Springfield, IL
 
 **EPA Facility ID:** 100000155422
 

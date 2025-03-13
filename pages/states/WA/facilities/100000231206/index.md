@@ -1,6 +1,6 @@
-# Unknown
+# Enfield Farms Inc.
 
-**Location:** Unknown, WA
+**Location:** Lynden, WA
 
 **EPA Facility ID:** 100000231206
 

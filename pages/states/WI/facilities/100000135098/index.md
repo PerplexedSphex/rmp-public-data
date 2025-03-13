@@ -1,6 +1,6 @@
-# Unknown
+# Briess Malt & Ingredients Company
 
-**Location:** Unknown, WI
+**Location:** Waterloo, WI
 
 **EPA Facility ID:** 100000135098
 

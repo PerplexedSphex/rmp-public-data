@@ -1,6 +1,6 @@
-# Unknown
+# COLE'S QUALITY FOODS, INC.
 
-**Location:** Unknown, MI
+**Location:** MUSKEGON, MI
 
 **EPA Facility ID:** 100000147502
 

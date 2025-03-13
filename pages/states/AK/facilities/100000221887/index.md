@@ -1,6 +1,6 @@
-# Unknown
+# Copper River Seafoods - Cordova
 
-**Location:** Unknown, AK
+**Location:** Cordova, AK
 
 **EPA Facility ID:** 100000221887
 

@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Cooperative - Otoe
 
-**Location:** Unknown, NE
+**Location:** Syracuse, NE
 
 **EPA Facility ID:** 100000195004
 

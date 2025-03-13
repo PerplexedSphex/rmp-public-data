@@ -1,6 +1,6 @@
-# Unknown
+# Little River Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Laurens, SC
 
 **EPA Facility ID:** 100000023994
 

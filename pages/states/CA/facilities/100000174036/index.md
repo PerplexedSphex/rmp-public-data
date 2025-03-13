@@ -1,6 +1,6 @@
-# Unknown
+# Moss Landing Power Plant
 
-**Location:** Unknown, CA
+**Location:** Moss Landing, CA
 
 **EPA Facility ID:** 100000174036
 

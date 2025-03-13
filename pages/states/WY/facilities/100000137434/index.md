@@ -1,6 +1,6 @@
-# Unknown
+# Casper Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Casper, WY
 
 **EPA Facility ID:** 100000137434
 

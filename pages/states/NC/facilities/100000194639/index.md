@@ -1,6 +1,6 @@
-# Unknown
+# Brainerd Chemical Company of North Carolina LLC
 
-**Location:** Unknown, NC
+**Location:** Dunn, NC
 
 **EPA Facility ID:** 100000194639
 

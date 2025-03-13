@@ -1,6 +1,6 @@
-# Unknown
+# Glasgow Spray-Dry
 
-**Location:** Unknown, KY
+**Location:** Glasgow, KY
 
 **EPA Facility ID:** 100000154478
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lake Mary Water Treatment Facility
 
-**Location:** Unknown, CA
+**Location:** Mammoth Lakes, CA
 
 **EPA Facility ID:** 100000045809
 

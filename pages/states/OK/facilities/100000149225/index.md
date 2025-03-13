@@ -1,6 +1,6 @@
-# Unknown
+# Bar-S Foods - Altus Plant
 
-**Location:** Unknown, OK
+**Location:** Altus, OK
 
 **EPA Facility ID:** 100000149225
 

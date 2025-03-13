@@ -1,6 +1,6 @@
-# Unknown
+# Canute Natural Gas Processing Plant
 
-**Location:** Unknown, OK
+**Location:** Canute, OK
 
 **EPA Facility ID:** 100000001017
 

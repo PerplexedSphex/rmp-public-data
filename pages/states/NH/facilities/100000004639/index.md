@@ -1,6 +1,6 @@
-# Unknown
+# High Liner Foods (USA), Inc.
 
-**Location:** Unknown, NH
+**Location:** Portsmouth, NH
 
 **EPA Facility ID:** 100000004639
 

@@ -1,6 +1,6 @@
-# Unknown
+# Excursion Inlet Plant
 
-**Location:** Unknown, AK
+**Location:** Excursion Inlet, AK
 
 **EPA Facility ID:** 100000057779
 

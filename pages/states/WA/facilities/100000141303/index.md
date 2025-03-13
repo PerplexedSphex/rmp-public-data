@@ -1,6 +1,6 @@
-# Unknown
+# Pendleton Flour Mills LLC
 
-**Location:** Unknown, WA
+**Location:** Seattle, WA
 
 **EPA Facility ID:** 100000141303
 

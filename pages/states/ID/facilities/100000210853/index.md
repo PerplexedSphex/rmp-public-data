@@ -1,6 +1,6 @@
-# Unknown
+# Hoku Materials, Inc.
 
-**Location:** Unknown, ID
+**Location:** Pocatello, ID
 
 **EPA Facility ID:** 100000210853
 

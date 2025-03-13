@@ -1,6 +1,6 @@
-# Unknown
+# Harmony Gas Plant
 
-**Location:** Unknown, MS
+**Location:** Pachuta, MS
 
 **EPA Facility ID:** 100000077631
 

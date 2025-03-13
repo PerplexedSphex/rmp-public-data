@@ -1,6 +1,6 @@
-# Unknown
+# Huffman Finishing Co, INC
 
-**Location:** Unknown, NC
+**Location:** Granite Falls, NC
 
 **EPA Facility ID:** 100000142197
 

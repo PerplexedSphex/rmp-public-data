@@ -1,6 +1,6 @@
-# Unknown
+# Okanogan Facility
 
-**Location:** Unknown, WA
+**Location:** Okanogan, WA
 
 **EPA Facility ID:** 100000180127
 

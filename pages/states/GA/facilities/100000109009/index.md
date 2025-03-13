@@ -1,6 +1,6 @@
-# Unknown
+# Gold Creek Foods LLC. - GC3, White Sulphur Rd.
 
-**Location:** Unknown, GA
+**Location:** Gainesville, GA
 
 **EPA Facility ID:** 100000109009
 

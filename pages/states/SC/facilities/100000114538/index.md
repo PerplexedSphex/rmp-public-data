@@ -1,6 +1,6 @@
-# Unknown
+# Lindau Chemicals, Inc.
 
-**Location:** Unknown, SC
+**Location:** Columbia, SC
 
 **EPA Facility ID:** 100000114538
 

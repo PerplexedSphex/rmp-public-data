@@ -1,6 +1,6 @@
-# Unknown
+# Americold Fort Smith 45
 
-**Location:** Unknown, AR
+**Location:** Fort Smith, AR
 
 **EPA Facility ID:** 100000142605
 

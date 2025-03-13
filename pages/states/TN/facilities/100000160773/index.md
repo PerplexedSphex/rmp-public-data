@@ -1,6 +1,6 @@
-# Unknown
+# BEDFORD COUNTY UTILITY DISTRICT WATER TREATMENT
 
-**Location:** Unknown, TN
+**Location:** SHELBYVILLE, TN
 
 **EPA Facility ID:** 100000160773
 

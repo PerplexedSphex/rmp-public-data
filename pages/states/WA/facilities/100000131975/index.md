@@ -1,6 +1,6 @@
-# Unknown
+# COWICHE GROWERS INC
 
-**Location:** Unknown, WA
+**Location:** COWICHE, WA
 
 **EPA Facility ID:** 100000131975
 

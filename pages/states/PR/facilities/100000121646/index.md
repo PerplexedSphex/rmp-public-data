@@ -1,6 +1,6 @@
-# Unknown
+# Cerro Gordo-San Lorenzo Filtration Plant
 
-**Location:** Unknown, PR
+**Location:** San Lorenzo, PR
 
 **EPA Facility ID:** 100000121646
 

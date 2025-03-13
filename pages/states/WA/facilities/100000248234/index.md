@@ -1,6 +1,6 @@
-# Unknown
+# Coyote Oilfield Services, LLC
 
-**Location:** Unknown, WA
+**Location:** Olympia, WA
 
 **EPA Facility ID:** 100000248234
 

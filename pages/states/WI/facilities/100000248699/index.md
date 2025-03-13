@@ -1,6 +1,6 @@
-# Unknown
+# Klondike Cheese Co.
 
-**Location:** Unknown, WI
+**Location:** Monroe, WI
 
 **EPA Facility ID:** 100000248699
 

@@ -1,6 +1,6 @@
-# Unknown
+# Ergon Terminaling, Inc. - Marietta
 
-**Location:** Unknown, OH
+**Location:** Newport, OH
 
 **EPA Facility ID:** 100000228773
 

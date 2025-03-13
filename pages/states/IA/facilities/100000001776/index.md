@@ -1,6 +1,6 @@
-# Unknown
+# Gold-Eagle Cooperative-North Bulk Plant Clarion
 
-**Location:** Unknown, IA
+**Location:** Clarion, IA
 
 **EPA Facility ID:** 100000001776
 

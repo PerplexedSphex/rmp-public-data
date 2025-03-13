@@ -1,6 +1,6 @@
-# Unknown
+# Centerra Co-op, Smithville
 
-**Location:** Unknown, OH
+**Location:** Smithville, OH
 
 **EPA Facility ID:** 100000042483
 

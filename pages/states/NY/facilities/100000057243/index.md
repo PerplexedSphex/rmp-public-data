@@ -1,6 +1,6 @@
-# Unknown
+# Elmer's Products Guilford Road Facility
 
-**Location:** Unknown, NY
+**Location:** Bainbridge, NY
 
 **EPA Facility ID:** 100000057243
 

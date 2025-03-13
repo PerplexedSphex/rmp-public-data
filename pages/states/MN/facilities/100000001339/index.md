@@ -1,6 +1,6 @@
-# Unknown
+# RED LAKE COUNTY CO-OP-RED LAKE FALLS
 
-**Location:** Unknown, MN
+**Location:** RED LAKE FALLS, MN
 
 **EPA Facility ID:** 100000001339
 

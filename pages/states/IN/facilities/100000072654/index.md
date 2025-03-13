@@ -1,6 +1,6 @@
-# Unknown
+# White River Water Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** Indianapolis, IN
 
 **EPA Facility ID:** 100000072654
 

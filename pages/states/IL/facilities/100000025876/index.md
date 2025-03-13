@@ -1,6 +1,6 @@
-# Unknown
+# EFFINGHAM EQUITY
 
-**Location:** Unknown, IL
+**Location:** Dalton City, IL
 
 **EPA Facility ID:** 100000025876
 

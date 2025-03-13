@@ -1,6 +1,6 @@
-# Unknown
+# Flare, LLC - County Line Gas Plant
 
-**Location:** Unknown, AL
+**Location:** Evergreen, AL
 
 **EPA Facility ID:** 100000072734
 

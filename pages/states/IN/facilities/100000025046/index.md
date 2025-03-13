@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water-Terre Haute
 
-**Location:** Unknown, IN
+**Location:** Terre Haute, IN
 
 **EPA Facility ID:** 100000025046
 

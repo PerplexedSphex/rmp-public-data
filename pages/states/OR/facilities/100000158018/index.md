@@ -1,6 +1,6 @@
-# Unknown
+# Diamond Central
 
-**Location:** Unknown, OR
+**Location:** Hood River (Odell), OR
 
 **EPA Facility ID:** 100000158018
 

@@ -1,6 +1,6 @@
-# Unknown
+# Water Reclamation Plant No. 4
 
-**Location:** Unknown, CA
+**Location:** Thermal, CA
 
 **EPA Facility ID:** 100000167641
 

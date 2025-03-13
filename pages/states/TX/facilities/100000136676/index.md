@@ -1,6 +1,6 @@
-# Unknown
+# Bryan Hicks Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Bryan, TX
 
 **EPA Facility ID:** 100000136676
 

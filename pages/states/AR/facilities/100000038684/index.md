@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Alloys, L.L.C.
 
-**Location:** Unknown, AR
+**Location:** Benton, AR
 
 **EPA Facility ID:** 100000038684
 

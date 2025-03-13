@@ -1,6 +1,6 @@
-# Unknown
+# Lake Gaillard Water Treatment Plant
 
-**Location:** Unknown, CT
+**Location:** North Branford, CT
 
 **EPA Facility ID:** 100000072912
 

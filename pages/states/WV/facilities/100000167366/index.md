@@ -1,6 +1,6 @@
-# Unknown
+# Grant Compressor Station NGL Tank
 
-**Location:** Unknown, WV
+**Location:** Holden, WV
 
 **EPA Facility ID:** 100000167366
 

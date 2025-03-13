@@ -1,6 +1,6 @@
-# Unknown
+# Amerigas Barstow CA Terminal
 
-**Location:** Unknown, CA
+**Location:** Barstow, CA
 
 **EPA Facility ID:** 100000218454
 

@@ -1,6 +1,6 @@
-# Unknown
+# Northland Cold Storage, Inc. (Green Bay)
 
-**Location:** Unknown, WI
+**Location:** Green Bay, WI
 
 **EPA Facility ID:** 100000153718
 

@@ -1,6 +1,6 @@
-# Unknown
+# Newtown Creek Water Pollution Control Plant
 
-**Location:** Unknown, NY
+**Location:** Brooklyn, NY
 
 **EPA Facility ID:** 100000123966
 

@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Chemical Company
 
-**Location:** Unknown, MO
+**Location:** JOPLIN, MO
 
 **EPA Facility ID:** 100000040243
 

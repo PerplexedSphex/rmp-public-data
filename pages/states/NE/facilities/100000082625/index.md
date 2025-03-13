@@ -1,6 +1,6 @@
-# Unknown
+# Battle Creek Farmers Cooperative - Bloomfield, NE
 
-**Location:** Unknown, NE
+**Location:** Bloomfield, NE
 
 **EPA Facility ID:** 100000082625
 

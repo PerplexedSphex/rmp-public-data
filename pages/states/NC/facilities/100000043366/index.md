@@ -1,6 +1,6 @@
-# Unknown
+# Pilkington North America, Inc.
 
-**Location:** Unknown, NC
+**Location:** Laurinburg, NC
 
 **EPA Facility ID:** 100000043366
 

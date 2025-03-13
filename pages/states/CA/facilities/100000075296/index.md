@@ -1,6 +1,6 @@
-# Unknown
+# Lamanuzzi & Pantaleo -  Dehydrator #2
 
-**Location:** Unknown, CA
+**Location:** Fresno, CA
 
 **EPA Facility ID:** 100000075296
 

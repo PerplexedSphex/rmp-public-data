@@ -1,6 +1,6 @@
-# Unknown
+# Rogerson Wastewater Treatment Facility
 
-**Location:** Unknown, NC
+**Location:** Elizabeth City, NC
 
 **EPA Facility ID:** 100000082368
 

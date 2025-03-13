@@ -1,6 +1,6 @@
-# Unknown
+# Draper Water Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Oklahoma City, OK
 
 **EPA Facility ID:** 100000151863
 

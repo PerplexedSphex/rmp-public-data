@@ -1,6 +1,6 @@
-# Unknown
+# Heritage FS  - Beaverville
 
-**Location:** Unknown, IL
+**Location:** Beaverville, IL
 
 **EPA Facility ID:** 100000022325
 

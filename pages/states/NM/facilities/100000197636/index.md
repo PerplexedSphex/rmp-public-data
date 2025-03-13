@@ -1,6 +1,6 @@
-# Unknown
+# South Carlsbad Plant
 
-**Location:** Unknown, NM
+**Location:** Loving, NM
 
 **EPA Facility ID:** 100000197636
 

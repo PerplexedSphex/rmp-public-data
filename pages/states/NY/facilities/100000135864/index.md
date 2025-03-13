@@ -1,6 +1,6 @@
-# Unknown
+# Nu-Gro Technologies, Inc.
 
-**Location:** Unknown, NY
+**Location:** Gloversville, NY
 
 **EPA Facility ID:** 100000135864
 

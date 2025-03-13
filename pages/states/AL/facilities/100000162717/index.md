@@ -1,6 +1,6 @@
-# Unknown
+# Lampton-Love, Inc. - Ivalee
 
-**Location:** Unknown, AL
+**Location:** Attalla, AL
 
 **EPA Facility ID:** 100000162717
 

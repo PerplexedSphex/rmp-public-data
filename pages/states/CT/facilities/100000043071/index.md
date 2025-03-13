@@ -1,6 +1,6 @@
-# Unknown
+# King Industries, Inc.
 
-**Location:** Unknown, CT
+**Location:** Norwalk, CT
 
 **EPA Facility ID:** 100000043071
 

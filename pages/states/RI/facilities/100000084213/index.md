@@ -1,6 +1,6 @@
-# Unknown
+# Warwick Wastewater Treatment Facility
 
-**Location:** Unknown, RI
+**Location:** Warwick, RI
 
 **EPA Facility ID:** 100000084213
 

@@ -1,6 +1,6 @@
-# Unknown
+# Enterprise Greensburg Terminal
 
-**Location:** Unknown, PA
+**Location:** Greensburg, PA
 
 **EPA Facility ID:** 100000179282
 

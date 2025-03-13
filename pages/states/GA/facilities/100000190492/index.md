@@ -1,6 +1,6 @@
-# Unknown
+# Aerosol Packaging, LLC
 
-**Location:** Unknown, GA
+**Location:** Canton, GA
 
 **EPA Facility ID:** 100000190492
 

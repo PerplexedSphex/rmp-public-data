@@ -1,6 +1,6 @@
-# Unknown
+# Borregaard USA, Inc.
 
-**Location:** Unknown, WI
+**Location:** Rothschild, WI
 
 **EPA Facility ID:** 100000048753
 

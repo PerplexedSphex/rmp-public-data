@@ -1,6 +1,6 @@
-# Unknown
+# Water Plant #3
 
-**Location:** Unknown, TX
+**Location:** Lufkin, TX
 
 **EPA Facility ID:** 100000233026
 

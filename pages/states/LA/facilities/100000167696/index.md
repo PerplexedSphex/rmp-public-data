@@ -1,6 +1,6 @@
-# Unknown
+# Coughlin Power Station
 
-**Location:** Unknown, LA
+**Location:** St. Landry, LA
 
 **EPA Facility ID:** 100000167696
 

@@ -1,6 +1,6 @@
-# Unknown
+# Washington Fruit & Produce Company - Moxee
 
-**Location:** Unknown, WA
+**Location:** Moxee, WA
 
 **EPA Facility ID:** 100000160434
 

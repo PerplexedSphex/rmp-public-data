@@ -1,6 +1,6 @@
-# Unknown
+# Rice County
 
-**Location:** Unknown, KS
+**Location:** Sterling, KS
 
 **EPA Facility ID:** 100000228657
 

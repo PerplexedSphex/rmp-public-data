@@ -1,6 +1,6 @@
-# Unknown
+# Gold Star FS Inc., Erie Plant
 
-**Location:** Unknown, IL
+**Location:** Erie, IL
 
 **EPA Facility ID:** 100000151934
 

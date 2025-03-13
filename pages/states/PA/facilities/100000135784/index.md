@@ -1,6 +1,6 @@
-# Unknown
+# Lamont Compressor Station
 
-**Location:** Unknown, PA
+**Location:** Kane, PA
 
 **EPA Facility ID:** 100000135784
 

@@ -1,6 +1,6 @@
-# Unknown
+# Fairfield Cooling Inc.
 
-**Location:** Unknown, CA
+**Location:** El Centro, CA
 
 **EPA Facility ID:** 100000234686
 

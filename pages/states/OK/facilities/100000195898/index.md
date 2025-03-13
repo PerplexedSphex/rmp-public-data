@@ -1,6 +1,6 @@
-# Unknown
+# Gemini Aerosols, Inc.
 
-**Location:** Unknown, OK
+**Location:** El Reno, OK
 
 **EPA Facility ID:** 100000195898
 

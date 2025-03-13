@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Cooperative- Tifton, GA (72449)
 
-**Location:** Unknown, GA
+**Location:** Tifton, GA
 
 **EPA Facility ID:** 100000085882
 

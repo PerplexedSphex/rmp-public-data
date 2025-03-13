@@ -1,6 +1,6 @@
-# Unknown
+# Batesville Generating Station
 
-**Location:** Unknown, MS
+**Location:** Batesville, MS
 
 **EPA Facility ID:** 100000255626
 

@@ -1,6 +1,6 @@
-# Unknown
+# Henkel Corporation
 
-**Location:** Unknown, NY
+**Location:** Buffalo, NY
 
 **EPA Facility ID:** 100000181055
 

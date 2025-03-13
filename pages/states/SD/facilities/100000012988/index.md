@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Wilmot
 
-**Location:** Unknown, SD
+**Location:** Wilmot, SD
 
 **EPA Facility ID:** 100000012988
 

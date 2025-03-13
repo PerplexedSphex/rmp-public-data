@@ -1,6 +1,6 @@
-# Unknown
+# Seymour Wastewater Treatment Facility
 
-**Location:** Unknown, IN
+**Location:** Seymour, IN
 
 **EPA Facility ID:** 100000146371
 

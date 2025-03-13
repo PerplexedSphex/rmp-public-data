@@ -1,6 +1,6 @@
-# Unknown
+# Reddy Ice-Dallas (311)
 
-**Location:** Unknown, TX
+**Location:** Dallas, TX
 
 **EPA Facility ID:** 100000177989
 

@@ -1,6 +1,6 @@
-# Unknown
+# Chemours Ingleside Plant
 
-**Location:** Unknown, TX
+**Location:** INGLESIDE, TX
 
 **EPA Facility ID:** 100000034312
 

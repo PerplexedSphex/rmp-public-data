@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Fresh Meats, Inc. Goodlettsville, TN
 
-**Location:** Unknown, TN
+**Location:** Goodlettsville, TN
 
 **EPA Facility ID:** 100000175197
 

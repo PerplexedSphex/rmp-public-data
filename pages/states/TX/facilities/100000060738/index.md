@@ -1,6 +1,6 @@
-# Unknown
+# City of Kilgore Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Kilgore, TX
 
 **EPA Facility ID:** 100000060738
 

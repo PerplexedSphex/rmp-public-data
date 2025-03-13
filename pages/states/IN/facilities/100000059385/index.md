@@ -1,6 +1,6 @@
-# Unknown
+# The Andersons Logansport Terminal
 
-**Location:** Unknown, IN
+**Location:** Logansport, IN
 
 **EPA Facility ID:** 100000059385
 

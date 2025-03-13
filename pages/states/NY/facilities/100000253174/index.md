@@ -1,6 +1,6 @@
-# Unknown
+# Hampton Siding `
 
-**Location:** Unknown, NY
+**Location:** Whitehall, NY
 
 **EPA Facility ID:** 100000253174
 

@@ -1,6 +1,6 @@
-# Unknown
+# El Dorado Operating LLC
 
-**Location:** Unknown, KS
+**Location:** El Dorado, KS
 
 **EPA Facility ID:** 100000232517
 

@@ -1,6 +1,6 @@
-# Unknown
+# ECW&SA Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** North Augusta, SC
 
 **EPA Facility ID:** 100000010123
 

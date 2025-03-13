@@ -1,6 +1,6 @@
-# Unknown
+# (17-F) The McGregor Company Fairfield Retail
 
-**Location:** Unknown, WA
+**Location:** Fairfield, WA
 
 **EPA Facility ID:** 100000068179
 

@@ -1,6 +1,6 @@
-# Unknown
+# Tempur Production USA, Inc.
 
-**Location:** Unknown, VA
+**Location:** Duffield, VA
 
 **EPA Facility ID:** 100000175384
 

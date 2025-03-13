@@ -1,6 +1,6 @@
-# Unknown
+# Dan's Prize, Inc - Browerville
 
-**Location:** Unknown, MN
+**Location:** Browerville, MN
 
 **EPA Facility ID:** 100000202167
 

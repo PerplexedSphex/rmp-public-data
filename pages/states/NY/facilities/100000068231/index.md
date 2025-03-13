@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics Buffalo 1
 
-**Location:** Unknown, NY
+**Location:** Cheektowaga, NY
 
 **EPA Facility ID:** 100000068231
 

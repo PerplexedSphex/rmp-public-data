@@ -1,6 +1,6 @@
-# Unknown
+# Continental Aluminum Corporation
 
-**Location:** Unknown, MI
+**Location:** New Hudson, MI
 
 **EPA Facility ID:** 100000162334
 

@@ -1,6 +1,6 @@
-# Unknown
+# Grow West - Pleasant Grove Retail
 
-**Location:** Unknown, CA
+**Location:** Pleasant Grove, CA
 
 **EPA Facility ID:** 100000028891
 

@@ -1,6 +1,6 @@
-# Unknown
+# THE DODGE CITY COOP EXCHANGE-FORD
 
-**Location:** Unknown, KS
+**Location:** FORD, KS
 
 **EPA Facility ID:** 100000105744
 

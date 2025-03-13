@@ -1,6 +1,6 @@
-# Unknown
+# Pool Chlor Company
 
-**Location:** Unknown, CA
+**Location:** Santa Fe Springs, CA
 
 **EPA Facility ID:** 100000115065
 

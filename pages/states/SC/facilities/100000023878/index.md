@@ -1,6 +1,6 @@
-# Unknown
+# W. R. Wise Water Treatment Facility
 
-**Location:** Unknown, SC
+**Location:** Greenwood, SC
 
 **EPA Facility ID:** 100000023878
 

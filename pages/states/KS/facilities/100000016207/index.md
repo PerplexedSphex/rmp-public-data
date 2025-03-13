@@ -1,6 +1,6 @@
-# Unknown
+# Mid Kansas Cooperative Bluff City
 
-**Location:** Unknown, KS
+**Location:** Argonia, KS
 
 **EPA Facility ID:** 100000016207
 

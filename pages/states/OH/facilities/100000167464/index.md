@@ -1,6 +1,6 @@
-# Unknown
+# MILLERS' AMMONIA, INC.
 
-**Location:** Unknown, OH
+**Location:** FARMDALE, OH
 
 **EPA Facility ID:** 100000167464
 

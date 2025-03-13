@@ -1,6 +1,6 @@
-# Unknown
+# Chloe Foods, Inc., Brooklyn, NY
 
-**Location:** Unknown, NY
+**Location:** Brooklyn, NY
 
 **EPA Facility ID:** 100000111489
 

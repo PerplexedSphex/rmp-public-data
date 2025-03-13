@@ -1,6 +1,6 @@
-# Unknown
+# Magnet Cove Generating Station
 
-**Location:** Unknown, AR
+**Location:** Malvern, AR
 
 **EPA Facility ID:** 100000183393
 

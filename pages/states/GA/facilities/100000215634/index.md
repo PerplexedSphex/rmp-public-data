@@ -1,6 +1,6 @@
-# Unknown
+# Clearwater Paper - Thomaston
 
-**Location:** Unknown, GA
+**Location:** Thomaston, GA
 
 **EPA Facility ID:** 100000215634
 

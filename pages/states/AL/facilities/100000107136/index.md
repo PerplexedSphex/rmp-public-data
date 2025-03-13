@@ -1,6 +1,6 @@
-# Unknown
+# Dothan Utilities Water/Electric Complex
 
-**Location:** Unknown, AL
+**Location:** Dothan, AL
 
 **EPA Facility ID:** 100000107136
 

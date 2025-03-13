@@ -1,6 +1,6 @@
-# Unknown
+# Hussey Copper Ltd., Eminence Kentucky Facility
 
-**Location:** Unknown, KY
+**Location:** Eminence, KY
 
 **EPA Facility ID:** 100000065519
 

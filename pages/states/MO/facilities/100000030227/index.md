@@ -1,6 +1,6 @@
-# Unknown
+# Rice's Feed Service
 
-**Location:** Unknown, MO
+**Location:** Golden City, MO
 
 **EPA Facility ID:** 100000030227
 

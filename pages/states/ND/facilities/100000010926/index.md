@@ -1,6 +1,6 @@
-# Unknown
+# Central Plains Ag Services, LLC - Luverne
 
-**Location:** Unknown, ND
+**Location:** Luverne, ND
 
 **EPA Facility ID:** 100000010926
 

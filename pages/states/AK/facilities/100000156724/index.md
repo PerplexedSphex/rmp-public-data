@@ -1,6 +1,6 @@
-# Unknown
+# Seward Fisheries
 
-**Location:** Unknown, AK
+**Location:** Seward, AK
 
 **EPA Facility ID:** 100000156724
 

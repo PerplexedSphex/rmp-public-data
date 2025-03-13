@@ -1,6 +1,6 @@
-# Unknown
+# Equistar Chemicals, L.P. - Corpus Christi Complex
 
-**Location:** Unknown, TX
+**Location:** Corpus Christi, TX
 
 **EPA Facility ID:** 100000104736
 

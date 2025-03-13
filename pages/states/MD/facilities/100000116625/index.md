@@ -1,6 +1,6 @@
-# Unknown
+# Ocean City Wastewater Treatment Plant
 
-**Location:** Unknown, MD
+**Location:** Ocean City, MD
 
 **EPA Facility ID:** 100000116625
 

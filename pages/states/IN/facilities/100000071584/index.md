@@ -1,6 +1,6 @@
-# Unknown
+# Ulrich Chemical, Inc.
 
-**Location:** Unknown, IN
+**Location:** Evansville, IN
 
 **EPA Facility ID:** 100000071584
 

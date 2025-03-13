@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Sedan NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Edgar, NE
 
 **EPA Facility ID:** 100000005497
 

@@ -1,6 +1,6 @@
-# Unknown
+# Great Western Chemical Company - Bakersfield
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000091152
 

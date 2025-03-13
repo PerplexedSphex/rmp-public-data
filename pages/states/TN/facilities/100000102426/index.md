@@ -1,6 +1,6 @@
-# Unknown
+# Regional Waste Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Gray, TN
 
 **EPA Facility ID:** 100000102426
 

@@ -1,6 +1,6 @@
-# Unknown
+# Clifford Coop Elevator-Galesburg
 
-**Location:** Unknown, ND
+**Location:** Galesburg, ND
 
 **EPA Facility ID:** 100000092856
 

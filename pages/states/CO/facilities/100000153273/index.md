@@ -1,6 +1,6 @@
-# Unknown
+# Carter Lake Filter Plant
 
-**Location:** Unknown, CO
+**Location:** Berthoud, CO
 
 **EPA Facility ID:** 100000153273
 

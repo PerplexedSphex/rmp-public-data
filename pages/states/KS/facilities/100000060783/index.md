@@ -1,6 +1,6 @@
-# Unknown
+# Jayhawk Gas Plant
 
-**Location:** Unknown, KS
+**Location:** Ulysses, KS
 
 **EPA Facility ID:** 100000060783
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mingo, IA 445
 
-**Location:** Unknown, IA
+**Location:** Mingo, IA
 
 **EPA Facility ID:** 100000092794
 

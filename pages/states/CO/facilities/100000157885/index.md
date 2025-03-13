@@ -1,6 +1,6 @@
-# Unknown
+# City of Longmont Wastewater Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Longmont, CO
 
 **EPA Facility ID:** 100000157885
 

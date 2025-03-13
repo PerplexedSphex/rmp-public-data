@@ -1,6 +1,6 @@
-# Unknown
+# Foamex L.P.
 
-**Location:** Unknown, PA
+**Location:** Eddystone, PA
 
 **EPA Facility ID:** 100000113557
 

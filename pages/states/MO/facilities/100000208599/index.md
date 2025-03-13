@@ -1,6 +1,6 @@
-# Unknown
+# Sweetwater Mine and Mill
 
-**Location:** Unknown, MO
+**Location:** Ellington , MO
 
 **EPA Facility ID:** 100000208599
 

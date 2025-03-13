@@ -1,6 +1,6 @@
-# Unknown
+# Republic Plastics, Ltd.
 
-**Location:** Unknown, TX
+**Location:** McQueeney, TX
 
 **EPA Facility ID:** 100000225954
 

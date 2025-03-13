@@ -1,6 +1,6 @@
-# Unknown
+# Symrise, Inc. - Bushy Park
 
-**Location:** Unknown, SC
+**Location:** Goose Creek, SC
 
 **EPA Facility ID:** 100000180653
 

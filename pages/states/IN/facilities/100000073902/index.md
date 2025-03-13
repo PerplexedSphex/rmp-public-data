@@ -1,6 +1,6 @@
-# Unknown
+# City of Kokomo Waste Water Treatment Facility
 
-**Location:** Unknown, IN
+**Location:** Kokomo, IN
 
 **EPA Facility ID:** 100000073902
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sioux Falls Water Reclamation Plant
 
-**Location:** Unknown, SD
+**Location:** Sioux Falls, SD
 
 **EPA Facility ID:** 100000096013
 

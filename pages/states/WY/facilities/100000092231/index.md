@@ -1,6 +1,6 @@
-# Unknown
+# Worland Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Worland, WY
 
 **EPA Facility ID:** 100000092231
 

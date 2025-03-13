@@ -1,6 +1,6 @@
-# Unknown
+# Gulf Chemical & Metallurgical Corporation
 
-**Location:** Unknown, TX
+**Location:** Freeport, TX
 
 **EPA Facility ID:** 100000016966
 

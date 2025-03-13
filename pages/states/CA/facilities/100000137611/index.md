@@ -1,6 +1,6 @@
-# Unknown
+# Santa Maria Facility
 
-**Location:** Unknown, CA
+**Location:** Arroyo Grande, CA
 
 **EPA Facility ID:** 100000137611
 

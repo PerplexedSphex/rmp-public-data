@@ -1,6 +1,6 @@
-# Unknown
+# Industrial Chemicals Inc.
 
-**Location:** Unknown, GA
+**Location:** Jonesboro, GA
 
 **EPA Facility ID:** 100000190679
 

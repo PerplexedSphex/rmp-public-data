@@ -1,6 +1,6 @@
-# Unknown
+# Pilot Chemical Company of Ohio Middletown Plant
 
-**Location:** Unknown, OH
+**Location:** Middletown, OH
 
 **EPA Facility ID:** 100000115216
 

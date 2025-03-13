@@ -1,6 +1,6 @@
-# Unknown
+# Bernatello's Foods
 
-**Location:** Unknown, WI
+**Location:** Kaukauna, WI
 
 **EPA Facility ID:** 100000238496
 

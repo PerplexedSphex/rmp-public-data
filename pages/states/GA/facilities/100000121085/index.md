@@ -1,6 +1,6 @@
-# Unknown
+# ProGas Company, Inc. - Office and Bottle Plant
 
-**Location:** Unknown, GA
+**Location:** Waynesboro, GA
 
 **EPA Facility ID:** 100000121085
 

@@ -1,6 +1,6 @@
-# Unknown
+# Stonington Fertilizer, Inc
 
-**Location:** Unknown, IL
+**Location:** Stonington, IL
 
 **EPA Facility ID:** 100000142277
 

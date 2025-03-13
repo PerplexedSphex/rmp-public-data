@@ -1,6 +1,6 @@
-# Unknown
+# G & R Grain and Feed, Inc.
 
-**Location:** Unknown, ND
+**Location:** New Rockford, ND
 
 **EPA Facility ID:** 100000152924
 

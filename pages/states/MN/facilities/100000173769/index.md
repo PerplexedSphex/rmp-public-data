@@ -1,6 +1,6 @@
-# Unknown
+# Hawkins Industrial Group - Red Rock
 
-**Location:** Unknown, MN
+**Location:** St. Paul, MN
 
 **EPA Facility ID:** 100000173769
 

@@ -1,6 +1,6 @@
-# Unknown
+# Stephenson Service Co. - Elizabeth
 
-**Location:** Unknown, IL
+**Location:** Elizabeth, IL
 
 **EPA Facility ID:** 100000047139
 

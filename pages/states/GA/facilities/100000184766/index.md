@@ -1,6 +1,6 @@
-# Unknown
+# Plant Wansley Combined Cycle Units
 
-**Location:** Unknown, GA
+**Location:** Franklin, GA
 
 **EPA Facility ID:** 100000184766
 

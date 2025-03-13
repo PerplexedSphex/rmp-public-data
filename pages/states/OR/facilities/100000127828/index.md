@@ -1,6 +1,6 @@
-# Unknown
+# Cascade Pacific Pulp, Halsey Pulp Mill
 
-**Location:** Unknown, OR
+**Location:** Halsey, OR
 
 **EPA Facility ID:** 100000127828
 

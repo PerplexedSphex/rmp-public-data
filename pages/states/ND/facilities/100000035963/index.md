@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.  - Lidgerwood
 
-**Location:** Unknown, ND
+**Location:** Lidgerwood, ND
 
 **EPA Facility ID:** 100000035963
 

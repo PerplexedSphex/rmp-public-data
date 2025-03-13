@@ -1,6 +1,6 @@
-# Unknown
+# Blick's Inc. - Borger, TX Plant
 
-**Location:** Unknown, TX
+**Location:** Borger, TX
 
 **EPA Facility ID:** 100000124625
 

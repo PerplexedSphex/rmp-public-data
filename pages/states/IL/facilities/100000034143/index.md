@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.- Palestine
 
-**Location:** Unknown, IL
+**Location:** Palestine, IL
 
 **EPA Facility ID:** 100000034143
 

@@ -1,6 +1,6 @@
-# Unknown
+# UAP Northwest, Burley
 
-**Location:** Unknown, ID
+**Location:** Burley, ID
 
 **EPA Facility ID:** 100000121003
 

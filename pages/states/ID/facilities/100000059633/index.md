@@ -1,6 +1,6 @@
-# Unknown
+# CTI Foods
 
-**Location:** Unknown, ID
+**Location:** Wilder, ID
 
 **EPA Facility ID:** 100000059633
 

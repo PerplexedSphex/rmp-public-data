@@ -1,6 +1,6 @@
-# Unknown
+# ETHOX CHEMICALS LLC.
 
-**Location:** Unknown, SC
+**Location:** GREENVILLE, SC
 
 **EPA Facility ID:** 100000030236
 

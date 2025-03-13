@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Little Falls
 
-**Location:** Unknown, MN
+**Location:** Little Falls, MN
 
 **EPA Facility ID:** 100000253511
 

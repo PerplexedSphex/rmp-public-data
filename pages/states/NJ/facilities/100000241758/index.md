@@ -1,6 +1,6 @@
-# Unknown
+# Wurth International Trading America, Inc.
 
-**Location:** Unknown, NJ
+**Location:** Ramsey, NJ
 
 **EPA Facility ID:** 100000241758
 

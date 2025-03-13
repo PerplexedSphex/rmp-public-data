@@ -1,6 +1,6 @@
-# Unknown
+# Bridgeport Energy, LLC
 
-**Location:** Unknown, CT
+**Location:** Bridgeport, CT
 
 **EPA Facility ID:** 100000156252
 

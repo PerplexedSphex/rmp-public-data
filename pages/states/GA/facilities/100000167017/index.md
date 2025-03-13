@@ -1,6 +1,6 @@
-# Unknown
+# SAVANNAH BRUSH AND CHEMICAL CO.
 
-**Location:** Unknown, GA
+**Location:** SAVANNAH, GA
 
 **EPA Facility ID:** 100000167017
 

@@ -1,6 +1,6 @@
-# Unknown
+# Durez Corporation - Niagara Falls Facility
 
-**Location:** Unknown, NY
+**Location:** Niagara Falls, NY
 
 **EPA Facility ID:** 100000074297
 

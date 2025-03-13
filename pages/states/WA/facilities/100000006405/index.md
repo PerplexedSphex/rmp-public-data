@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Fresh Meats, Pasco, WA
 
-**Location:** Unknown, WA
+**Location:** Wallula, WA
 
 **EPA Facility ID:** 100000006405
 

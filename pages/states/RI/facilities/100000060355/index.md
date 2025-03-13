@@ -1,6 +1,6 @@
-# Unknown
+# Spectrum Thermal Processing LLC
 
-**Location:** Unknown, RI
+**Location:** Cranston, RI
 
 **EPA Facility ID:** 100000060355
 

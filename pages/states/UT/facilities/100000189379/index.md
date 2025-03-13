@@ -1,6 +1,6 @@
-# Unknown
+# Layton Bakery
 
-**Location:** Unknown, UT
+**Location:** Layton, UT
 
 **EPA Facility ID:** 100000189379
 

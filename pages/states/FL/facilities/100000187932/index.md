@@ -1,6 +1,6 @@
-# Unknown
+# Reddy Ice #342-Tampa
 
-**Location:** Unknown, FL
+**Location:** Tampa, FL
 
 **EPA Facility ID:** 100000187932
 

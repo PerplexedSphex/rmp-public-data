@@ -1,6 +1,6 @@
-# Unknown
+# CLW Foods, LLC.
 
-**Location:** Unknown, CA
+**Location:** Vernon, CA
 
 **EPA Facility ID:** 100000215199
 

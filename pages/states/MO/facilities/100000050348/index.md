@@ -1,6 +1,6 @@
-# Unknown
+# TYSON POULTRY, INC. SEDALIA, MO, PROCESSING PLANT
 
-**Location:** Unknown, MO
+**Location:** SEDALIA, MO
 
 **EPA Facility ID:** 100000050348
 

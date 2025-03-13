@@ -1,6 +1,6 @@
-# Unknown
+# Scott Specialty Gases
 
-**Location:** Unknown, NC
+**Location:** Durham, NC
 
 **EPA Facility ID:** 100000121254
 

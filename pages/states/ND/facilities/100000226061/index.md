@@ -1,6 +1,6 @@
-# Unknown
+# Glenn Fox Pad
 
-**Location:** Unknown, ND
+**Location:** New Town, ND
 
 **EPA Facility ID:** 100000226061
 

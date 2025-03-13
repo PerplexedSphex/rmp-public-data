@@ -1,6 +1,6 @@
-# Unknown
+# Thermal Corporation of America
 
-**Location:** Unknown, IA
+**Location:** Mount Pleasant, IA
 
 **EPA Facility ID:** 100000164234
 

@@ -1,6 +1,6 @@
-# Unknown
+# Fort Gibson Dam Water Intake Facility
 
-**Location:** Unknown, OK
+**Location:** Fort Gibson, OK
 
 **EPA Facility ID:** 100000225044
 

@@ -1,6 +1,6 @@
-# Unknown
+# General Aluminum Mfg. Co. - Rootstown Division
 
-**Location:** Unknown, OH
+**Location:** Ravenna, OH
 
 **EPA Facility ID:** 100000062656
 

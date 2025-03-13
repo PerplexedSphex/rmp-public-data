@@ -1,6 +1,6 @@
-# Unknown
+# Putnam Filter Plant
 
-**Location:** Unknown, AL
+**Location:** Birmingham, AL
 
 **EPA Facility ID:** 100000032261
 

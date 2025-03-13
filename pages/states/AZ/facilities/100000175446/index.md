@@ -1,6 +1,6 @@
-# Unknown
+# Griffith Energy, LLC
 
-**Location:** Unknown, AZ
+**Location:** Golden Valley, AZ
 
 **EPA Facility ID:** 100000175446
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sherwin-Williams Company - Ennis
 
-**Location:** Unknown, TX
+**Location:** Ennis, TX
 
 **EPA Facility ID:** 100000116787
 

@@ -1,6 +1,6 @@
-# Unknown
+# Koch Foods of Gainesville
 
-**Location:** Unknown, GA
+**Location:** Gainesville, GA
 
 **EPA Facility ID:** 100000201355
 

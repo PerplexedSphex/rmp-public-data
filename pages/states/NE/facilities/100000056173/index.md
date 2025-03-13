@@ -1,6 +1,6 @@
-# Unknown
+# COOPERATIVE PRODUCERS, INC - Hamilton County Plant
 
-**Location:** Unknown, NE
+**Location:** Doniphan, NE
 
 **EPA Facility ID:** 100000056173
 

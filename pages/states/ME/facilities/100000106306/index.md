@@ -1,6 +1,6 @@
-# Unknown
+# Sappi North America, Inc. - Somerset Operations
 
-**Location:** Unknown, ME
+**Location:** Skowhegan, ME
 
 **EPA Facility ID:** 100000106306
 

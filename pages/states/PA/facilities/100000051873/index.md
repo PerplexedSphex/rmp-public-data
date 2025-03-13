@@ -1,6 +1,6 @@
-# Unknown
+# Washington Township Municipal Authority WWTP
 
-**Location:** Unknown, PA
+**Location:** Waynesboro, PA
 
 **EPA Facility ID:** 100000051873
 

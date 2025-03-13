@@ -1,6 +1,6 @@
-# Unknown
+# Farrar Gas Treating Plant
 
-**Location:** Unknown, TX
+**Location:** Jewett, TX
 
 **EPA Facility ID:** 100000211745
 

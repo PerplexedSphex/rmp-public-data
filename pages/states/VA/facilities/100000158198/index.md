@@ -1,6 +1,6 @@
-# Unknown
+# Trident Seafoods Bedford Plant
 
-**Location:** Unknown, VA
+**Location:** Bedford, VA
 
 **EPA Facility ID:** 100000158198
 

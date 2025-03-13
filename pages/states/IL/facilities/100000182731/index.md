@@ -1,6 +1,6 @@
-# Unknown
+# Land O'Frost, Inc.
 
-**Location:** Unknown, IL
+**Location:** Lansing, IL
 
 **EPA Facility ID:** 100000182731
 

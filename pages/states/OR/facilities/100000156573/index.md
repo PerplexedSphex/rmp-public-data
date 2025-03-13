@@ -1,6 +1,6 @@
-# Unknown
+# Geren Island Treatment Facility
 
-**Location:** Unknown, OR
+**Location:** Stayton, OR
 
 **EPA Facility ID:** 100000156573
 

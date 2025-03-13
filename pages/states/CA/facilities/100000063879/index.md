@@ -1,6 +1,6 @@
-# Unknown
+# Setton Pistachio of Terra Bella
 
-**Location:** Unknown, CA
+**Location:** Ducor, CA
 
 **EPA Facility ID:** 100000063879
 

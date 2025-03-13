@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Coop - Lushton
 
-**Location:** Unknown, NE
+**Location:** Lushton, NE
 
 **EPA Facility ID:** 100000120415
 

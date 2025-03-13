@@ -1,6 +1,6 @@
-# Unknown
+# Star of the West Milling Co. New, York
 
-**Location:** Unknown, NY
+**Location:** Churchville, NY
 
 **EPA Facility ID:** 100000199297
 

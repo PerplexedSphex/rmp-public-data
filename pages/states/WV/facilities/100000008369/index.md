@@ -1,6 +1,6 @@
-# Unknown
+# Copley Gas Extraction Plant
 
-**Location:** Unknown, WV
+**Location:** Weston, WV
 
 **EPA Facility ID:** 100000008369
 

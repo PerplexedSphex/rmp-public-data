@@ -1,6 +1,6 @@
-# Unknown
+# Morrow County Grain Growers, Inc., Wasco
 
-**Location:** Unknown, OR
+**Location:** Wasco, OR
 
 **EPA Facility ID:** 100000013166
 

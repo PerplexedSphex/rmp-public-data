@@ -1,6 +1,6 @@
-# Unknown
+# Hedrick, IA 1346 Satellite
 
-**Location:** Unknown, IA
+**Location:** Hedrick, IA
 
 **EPA Facility ID:** 100000165769
 

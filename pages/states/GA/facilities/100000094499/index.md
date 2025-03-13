@@ -1,6 +1,6 @@
-# Unknown
+# Mill Creek Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Dalton, GA
 
 **EPA Facility ID:** 100000094499
 

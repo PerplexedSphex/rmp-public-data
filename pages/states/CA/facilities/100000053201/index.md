@@ -1,6 +1,6 @@
-# Unknown
+# Western Farm Service, Bakersfield
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000053201
 

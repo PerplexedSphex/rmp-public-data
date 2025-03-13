@@ -1,6 +1,6 @@
-# Unknown
+# Galax Water Treament Plant
 
-**Location:** Unknown, VA
+**Location:** Galax, VA
 
 **EPA Facility ID:** 100000155869
 

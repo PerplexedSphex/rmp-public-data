@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-Bone Gap
 
-**Location:** Unknown, IL
+**Location:** Bone Gap, IL
 
 **EPA Facility ID:** 100000073127
 

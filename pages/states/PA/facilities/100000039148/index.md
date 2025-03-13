@@ -1,6 +1,6 @@
-# Unknown
+# AlliedSignal Specialty Wax and Additives Emlenton
 
-**Location:** Unknown, PA
+**Location:** Emlenton, PA
 
 **EPA Facility ID:** 100000039148
 

@@ -1,6 +1,6 @@
-# Unknown
+# Ladder Creek Helium Plant
 
-**Location:** Unknown, CO
+**Location:** Cheyenne Wells, CO
 
 **EPA Facility ID:** 100000063343
 

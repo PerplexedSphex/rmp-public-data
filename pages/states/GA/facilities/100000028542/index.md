@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Douglas
 
-**Location:** Unknown, GA
+**Location:** Douglas, GA
 
 **EPA Facility ID:** 100000028542
 

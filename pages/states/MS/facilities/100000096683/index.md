@@ -1,6 +1,6 @@
-# Unknown
+# Bakelite Chemicals LLC, Taylorsville, MS
 
-**Location:** Unknown, MS
+**Location:** Taylorsville, MS
 
 **EPA Facility ID:** 100000096683
 

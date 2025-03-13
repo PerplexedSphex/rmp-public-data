@@ -1,6 +1,6 @@
-# Unknown
+# IGM Resins USA Inc.
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000139842
 

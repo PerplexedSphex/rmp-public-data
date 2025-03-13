@@ -1,6 +1,6 @@
-# Unknown
+# Osborne Elevator - West Plant
 
-**Location:** Unknown, KS
+**Location:** Osborne, KS
 
 **EPA Facility ID:** 100000173493
 

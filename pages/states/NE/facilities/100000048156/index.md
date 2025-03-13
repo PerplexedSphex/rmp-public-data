@@ -1,6 +1,6 @@
-# Unknown
+# JIRDON AGRI CHEMICALS, INC.
 
-**Location:** Unknown, NE
+**Location:** Gering, NE
 
 **EPA Facility ID:** 100000048156
 

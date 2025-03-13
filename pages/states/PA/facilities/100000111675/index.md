@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Allentown
 
-**Location:** Unknown, PA
+**Location:** Allentown, PA
 
 **EPA Facility ID:** 100000111675
 

@@ -1,6 +1,6 @@
-# Unknown
+# Americold, East Dubuque - Plant # 78405
 
-**Location:** Unknown, IL
+**Location:** East Dubuque, IL
 
 **EPA Facility ID:** 100000159927
 

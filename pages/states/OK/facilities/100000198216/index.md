@@ -1,6 +1,6 @@
-# Unknown
+# Coalgate Refrigeration Plant
 
-**Location:** Unknown, OK
+**Location:** Coalgate, OK
 
 **EPA Facility ID:** 100000198216
 

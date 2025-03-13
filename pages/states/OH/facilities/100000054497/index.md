@@ -1,6 +1,6 @@
-# Unknown
+# Uinroyal Chemical Company - Painesville Plant
 
-**Location:** Unknown, OH
+**Location:** Painesville, OH
 
 **EPA Facility ID:** 100000054497
 

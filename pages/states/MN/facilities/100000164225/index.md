@@ -1,6 +1,6 @@
-# Unknown
+# GEORGETOWN FARMERS ELEVATOR COMPANY
 
-**Location:** Unknown, MN
+**Location:** GEORGETOWN, MN
 
 **EPA Facility ID:** 100000164225
 

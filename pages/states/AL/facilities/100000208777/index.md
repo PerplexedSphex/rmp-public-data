@@ -1,6 +1,6 @@
-# Unknown
+# Ozark Southside WWTP
 
-**Location:** Unknown, AL
+**Location:** Ozark, AL
 
 **EPA Facility ID:** 100000208777
 

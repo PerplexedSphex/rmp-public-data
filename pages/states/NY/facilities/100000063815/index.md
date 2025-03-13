@@ -1,6 +1,6 @@
-# Unknown
+# Slack Chemical Co., Inc
 
-**Location:** Unknown, NY
+**Location:** Carthage, NY
 
 **EPA Facility ID:** 100000063815
 

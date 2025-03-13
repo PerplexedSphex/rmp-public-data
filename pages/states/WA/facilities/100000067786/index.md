@@ -1,6 +1,6 @@
-# Unknown
+# (01) The McGregor Company Colfax Retail
 
-**Location:** Unknown, WA
+**Location:** Colfax, WA
 
 **EPA Facility ID:** 100000067786
 

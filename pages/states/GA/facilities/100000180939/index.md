@@ -1,6 +1,6 @@
-# Unknown
+# Albany Water System Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Albany, GA
 
 **EPA Facility ID:** 100000180939
 

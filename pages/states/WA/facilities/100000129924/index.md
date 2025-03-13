@@ -1,6 +1,6 @@
-# Unknown
+# Phillips 66 Ferndale Refinery
 
-**Location:** Unknown, WA
+**Location:** Ferndale, WA
 
 **EPA Facility ID:** 100000129924
 

@@ -1,6 +1,6 @@
-# Unknown
+# Seafreeze Shoreside Inc.
 
-**Location:** Unknown, RI
+**Location:** Narragansett, RI
 
 **EPA Facility ID:** 100000246888
 

@@ -1,6 +1,6 @@
-# Unknown
+# Town of Normal (Water Department)
 
-**Location:** Unknown, IL
+**Location:** Normal, IL
 
 **EPA Facility ID:** 100000019044
 

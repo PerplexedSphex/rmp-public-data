@@ -1,6 +1,6 @@
-# Unknown
+# SABIC Innovative Plastics-Ottawa
 
-**Location:** Unknown, IL
+**Location:** Ottawa, IL
 
 **EPA Facility ID:** 100000078523
 

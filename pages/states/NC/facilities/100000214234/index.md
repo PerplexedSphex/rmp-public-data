@@ -1,6 +1,6 @@
-# Unknown
+# Blanchard Terminal Company LLC - Selma Buffalo
 
-**Location:** Unknown, NC
+**Location:** Selma, NC
 
 **EPA Facility ID:** 100000214234
 

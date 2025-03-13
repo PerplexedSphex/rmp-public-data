@@ -1,6 +1,6 @@
-# Unknown
+# Tippecanoe Laboratories
 
-**Location:** Unknown, IN
+**Location:** Lafayette, IN
 
 **EPA Facility ID:** 100000060177
 

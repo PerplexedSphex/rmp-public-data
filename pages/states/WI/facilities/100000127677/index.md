@@ -1,6 +1,6 @@
-# Unknown
+# United Cooperative - Eldorado
 
-**Location:** Unknown, WI
+**Location:** Eldorado, WI
 
 **EPA Facility ID:** 100000127677
 

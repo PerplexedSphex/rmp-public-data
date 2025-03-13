@@ -1,6 +1,6 @@
-# Unknown
+# Halifax Farm Service, Inc.
 
-**Location:** Unknown, NC
+**Location:** Halifax, NC
 
 **EPA Facility ID:** 100000167507
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lumberton Wastewater Treartment Plant
 
-**Location:** Unknown, NC
+**Location:** Lumberton, NC
 
 **EPA Facility ID:** 100000073813
 

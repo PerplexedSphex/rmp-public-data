@@ -1,6 +1,6 @@
-# Unknown
+# Lake Mary Water Treatment Plant
 
-**Location:** Unknown, AZ
+**Location:** Flagstaff, AZ
 
 **EPA Facility ID:** 100000036276
 

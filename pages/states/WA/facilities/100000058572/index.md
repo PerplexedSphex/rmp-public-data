@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Prescott 
 
-**Location:** Unknown, WA
+**Location:** Prescott, WA
 
 **EPA Facility ID:** 100000058572
 

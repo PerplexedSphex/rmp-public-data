@@ -1,6 +1,6 @@
-# Unknown
+# Glenpool Terminal Facility
 
-**Location:** Unknown, OK
+**Location:** Jenks, OK
 
 **EPA Facility ID:** 100000234533
 

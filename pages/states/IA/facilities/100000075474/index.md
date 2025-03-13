@@ -1,6 +1,6 @@
-# Unknown
+# Kansas City Sausage Co., LLC dba Pine Ridge Farms
 
-**Location:** Unknown, IA
+**Location:** Des Moines, IA
 
 **EPA Facility ID:** 100000075474
 

@@ -1,6 +1,6 @@
-# Unknown
+# DowReichhold Specialty Latex, LLC
 
-**Location:** Unknown, GA
+**Location:** Chickamauga, GA
 
 **EPA Facility ID:** 100000140224
 

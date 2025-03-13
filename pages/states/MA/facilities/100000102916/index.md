@@ -1,6 +1,6 @@
-# Unknown
+# Gorton's
 
-**Location:** Unknown, MA
+**Location:** Gloucester, MA
 
 **EPA Facility ID:** 100000102916
 

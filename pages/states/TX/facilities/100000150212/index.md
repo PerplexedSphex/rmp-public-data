@@ -1,6 +1,6 @@
-# Unknown
+# Wastewater Treatment Facility
 
-**Location:** Unknown, TX
+**Location:** Killeen, TX
 
 **EPA Facility ID:** 100000150212
 

@@ -1,6 +1,6 @@
-# Unknown
+# DDP Specialty Electronic Materials US, LLC Joliet
 
-**Location:** Unknown, IL
+**Location:** Channahon, IL
 
 **EPA Facility ID:** 100000051622
 

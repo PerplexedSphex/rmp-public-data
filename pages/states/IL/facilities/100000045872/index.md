@@ -1,6 +1,6 @@
-# Unknown
+# DynaChem, Inc.
 
-**Location:** Unknown, IL
+**Location:** Georgetown, IL
 
 **EPA Facility ID:** 100000045872
 

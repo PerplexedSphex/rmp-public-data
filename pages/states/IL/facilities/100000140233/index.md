@@ -1,6 +1,6 @@
-# Unknown
+# Vincennes University O'Neal Airport
 
-**Location:** Unknown, IL
+**Location:** Lawrenceville, IL
 
 **EPA Facility ID:** 100000140233
 

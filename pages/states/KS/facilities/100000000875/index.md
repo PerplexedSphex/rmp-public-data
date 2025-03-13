@@ -1,6 +1,6 @@
-# Unknown
+# Clearwater Coop
 
-**Location:** Unknown, KS
+**Location:** Clearwater, KS
 
 **EPA Facility ID:** 100000000875
 

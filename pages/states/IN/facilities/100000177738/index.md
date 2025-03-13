@@ -1,6 +1,6 @@
-# Unknown
+# Richmond Beverage Solutions, LLC
 
-**Location:** Unknown, IN
+**Location:** Richmond, IN
 
 **EPA Facility ID:** 100000177738
 

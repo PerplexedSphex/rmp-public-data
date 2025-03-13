@@ -1,6 +1,6 @@
-# Unknown
+# Crystal Ice Company
 
-**Location:** Unknown, MA
+**Location:** New Bedford, MA
 
 **EPA Facility ID:** 100000195629
 

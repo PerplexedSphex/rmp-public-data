@@ -1,6 +1,6 @@
-# Unknown
+# CHASE PRODUCTS CO.
 
-**Location:** Unknown, IL
+**Location:** LA GRANGE PARK, IL
 
 **EPA Facility ID:** 100000097673
 

@@ -1,6 +1,6 @@
-# Unknown
+# JCI Jones Chemicals, Inc. - Tacoma, WA
 
-**Location:** Unknown, WA
+**Location:** Tacoma, WA
 
 **EPA Facility ID:** 100000078845
 

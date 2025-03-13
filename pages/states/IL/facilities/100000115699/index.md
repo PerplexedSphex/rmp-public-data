@@ -1,6 +1,6 @@
-# Unknown
+# Gibbs Fertilizer Corporation
 
-**Location:** Unknown, IL
+**Location:** Harrisburg, IL
 
 **EPA Facility ID:** 100000115699
 

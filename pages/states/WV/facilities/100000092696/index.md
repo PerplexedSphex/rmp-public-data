@@ -1,6 +1,6 @@
-# Unknown
+# Morgantown Utility Board Water Treatment Plant
 
-**Location:** Unknown, WV
+**Location:** Morgantown, WV
 
 **EPA Facility ID:** 100000092696
 

@@ -1,6 +1,6 @@
-# Unknown
+# Coop Inc.
 
-**Location:** Unknown, SD
+**Location:** Springfield, SD
 
 **EPA Facility ID:** 100000113842
 

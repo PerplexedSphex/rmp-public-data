@@ -1,6 +1,6 @@
-# Unknown
+# Town of Vidalia Wastewater Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Vidalia, LA
 
 **EPA Facility ID:** 100000021727
 

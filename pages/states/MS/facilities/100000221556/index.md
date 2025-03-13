@@ -1,6 +1,6 @@
-# Unknown
+# HIWANNEE CO2 PLANT
 
-**Location:** Unknown, MS
+**Location:** WAYNESBORO, MS
 
 **EPA Facility ID:** 100000221556
 

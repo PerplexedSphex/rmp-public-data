@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Cooperative Elevator Company-Cheney 
 
-**Location:** Unknown, KS
+**Location:** Cheney, KS
 
 **EPA Facility ID:** 100000094827
 

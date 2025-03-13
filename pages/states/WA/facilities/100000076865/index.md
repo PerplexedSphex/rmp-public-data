@@ -1,6 +1,6 @@
-# Unknown
+# Goldendale Aluminum Company
 
-**Location:** Unknown, WA
+**Location:** Goldendale, WA
 
 **EPA Facility ID:** 100000076865
 

@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South Inc.
 
-**Location:** Unknown, VA
+**Location:** Bedford, VA
 
 **EPA Facility ID:** 100000020461
 

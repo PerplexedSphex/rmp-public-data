@@ -1,6 +1,6 @@
-# Unknown
+# TROTTER FERTILIZER AND PROPANE
 
-**Location:** Unknown, NE
+**Location:** Ord, NE
 
 **EPA Facility ID:** 100000165199
 

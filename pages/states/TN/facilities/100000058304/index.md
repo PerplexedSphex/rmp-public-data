@@ -1,6 +1,6 @@
-# Unknown
+# Duck River Utility Commission Water Trt Plant
 
-**Location:** Unknown, TN
+**Location:** Tullahoma, TN
 
 **EPA Facility ID:** 100000058304
 

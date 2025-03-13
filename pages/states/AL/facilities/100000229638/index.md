@@ -1,6 +1,6 @@
-# Unknown
+# Gaylord Chemical Company Tuscaloosa
 
-**Location:** Unknown, AL
+**Location:** Tuscaloosa, AL
 
 **EPA Facility ID:** 100000229638
 

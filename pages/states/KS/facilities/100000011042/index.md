@@ -1,6 +1,6 @@
-# Unknown
+# GYPSUM
 
-**Location:** Unknown, KS
+**Location:** GYPSUM, KS
 
 **EPA Facility ID:** 100000011042
 

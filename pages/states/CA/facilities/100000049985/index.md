@@ -1,6 +1,6 @@
-# Unknown
+# East Third Street Power Plant
 
-**Location:** Unknown, CA
+**Location:** Pittsburg, CA
 
 **EPA Facility ID:** 100000049985
 

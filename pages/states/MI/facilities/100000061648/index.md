@@ -1,6 +1,6 @@
-# Unknown
+# Northwest Ottawa Water Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Grand Haven, MI
 
 **EPA Facility ID:** 100000061648
 

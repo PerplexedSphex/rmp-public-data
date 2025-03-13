@@ -1,6 +1,6 @@
-# Unknown
+# DP Glycine LLC (formerly GEO Specialty Chemicals)
 
-**Location:** Unknown, TX
+**Location:** Deer Park, TX
 
 **EPA Facility ID:** 100000061176
 

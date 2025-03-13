@@ -1,6 +1,6 @@
-# Unknown
+# TRI-Center Power Plant
 
-**Location:** Unknown, NV
+**Location:** McCarran, NV
 
 **EPA Facility ID:** 100000175749
 

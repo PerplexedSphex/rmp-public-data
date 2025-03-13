@@ -1,6 +1,6 @@
-# Unknown
+# Mt. Pleasant Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Mt. Pleasant, PA
 
 **EPA Facility ID:** 100000245781
 

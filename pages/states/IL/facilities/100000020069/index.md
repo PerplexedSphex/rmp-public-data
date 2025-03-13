@@ -1,6 +1,6 @@
-# Unknown
+# Illini FS - Garrett NH3
 
-**Location:** Unknown, IL
+**Location:** Garrett, IL
 
 **EPA Facility ID:** 100000020069
 

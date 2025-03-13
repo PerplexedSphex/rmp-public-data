@@ -1,6 +1,6 @@
-# Unknown
+# Syracuse Acetylene Plant
 
-**Location:** Unknown, NY
+**Location:** Syracuse, NY
 
 **EPA Facility ID:** 100000203923
 

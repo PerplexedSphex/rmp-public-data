@@ -1,6 +1,6 @@
-# Unknown
+# Ottawa County Regional Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Port Clinton, OH
 
 **EPA Facility ID:** 100000166474
 

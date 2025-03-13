@@ -1,6 +1,6 @@
-# Unknown
+# Generostee Creek Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Anderson, SC
 
 **EPA Facility ID:** 100000116652
 

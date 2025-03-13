@@ -1,6 +1,6 @@
-# Unknown
+# Bowie Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Bowie, TX
 
 **EPA Facility ID:** 100000067027
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Pasco 1
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000226301
 

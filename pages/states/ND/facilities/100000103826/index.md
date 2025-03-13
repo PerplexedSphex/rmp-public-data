@@ -1,6 +1,6 @@
-# Unknown
+# Legacy Cooperative - Rolla NH3 Plant 
 
-**Location:** Unknown, ND
+**Location:** Rolla, ND
 
 **EPA Facility ID:** 100000103826
 

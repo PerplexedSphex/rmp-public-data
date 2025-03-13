@@ -1,6 +1,6 @@
-# Unknown
+# Pilgrim's Pride - Douglas Poultry Processing Plant
 
-**Location:** Unknown, GA
+**Location:** Douglas, GA
 
 **EPA Facility ID:** 100000094177
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mayo Electric Generation Plant
 
-**Location:** Unknown, NC
+**Location:** Roxboro, NC
 
 **EPA Facility ID:** 100000185818
 

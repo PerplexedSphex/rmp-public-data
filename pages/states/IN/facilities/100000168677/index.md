@@ -1,6 +1,6 @@
-# Unknown
+# Michigan City Water Filtration Plant
 
-**Location:** Unknown, IN
+**Location:** Michigan City, IN
 
 **EPA Facility ID:** 100000168677
 

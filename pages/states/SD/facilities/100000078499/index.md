@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Black Hawk
 
-**Location:** Unknown, SD
+**Location:** Black Hawk, SD
 
 **EPA Facility ID:** 100000078499
 

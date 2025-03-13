@@ -1,6 +1,6 @@
-# Unknown
+# Hainesville Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** Mineola, TX
 
 **EPA Facility ID:** 100000045907
 

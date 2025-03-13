@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service CO.- Sumner
 
-**Location:** Unknown, IL
+**Location:** Sumner, IL
 
 **EPA Facility ID:** 100000031495
 

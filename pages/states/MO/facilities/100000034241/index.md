@@ -1,6 +1,6 @@
-# Unknown
+# Ray Carroll County Grain Growers, Inc., Triplett
 
-**Location:** Unknown, MO
+**Location:** Triplett, MO
 
 **EPA Facility ID:** 100000034241
 

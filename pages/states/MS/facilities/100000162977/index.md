@@ -1,6 +1,6 @@
-# Unknown
+# Natchez Water Treatment Plant
 
-**Location:** Unknown, MS
+**Location:** Natchez, MS
 
 **EPA Facility ID:** 100000162977
 

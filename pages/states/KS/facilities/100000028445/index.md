@@ -1,6 +1,6 @@
-# Unknown
+# GRIDLEY
 
-**Location:** Unknown, KS
+**Location:** GRIDLEY, KS
 
 **EPA Facility ID:** 100000028445
 

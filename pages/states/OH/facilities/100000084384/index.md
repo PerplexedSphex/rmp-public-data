@@ -1,6 +1,6 @@
-# Unknown
+# Pixelle Specialty Solutions LLC - Chillicothe
 
-**Location:** Unknown, OH
+**Location:** Chillicothe, OH
 
 **EPA Facility ID:** 100000084384
 

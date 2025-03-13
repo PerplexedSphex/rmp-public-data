@@ -1,6 +1,6 @@
-# Unknown
+# Louisiana Pigment Company, L.P.
 
-**Location:** Unknown, LA
+**Location:** Westlake, LA
 
 **EPA Facility ID:** 100000089183
 

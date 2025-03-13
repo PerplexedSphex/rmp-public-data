@@ -1,6 +1,6 @@
-# Unknown
+# General Motors Bowling Green Assembly Plant
 
-**Location:** Unknown, KY
+**Location:** Bowling Green, KY
 
 **EPA Facility ID:** 100000159598
 

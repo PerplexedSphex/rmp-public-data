@@ -1,6 +1,6 @@
-# Unknown
+# Balchem Corporation - St. Gabriel
 
-**Location:** Unknown, LA
+**Location:** St. Gabriel, LA
 
 **EPA Facility ID:** 100000086104
 

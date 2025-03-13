@@ -1,6 +1,6 @@
-# Unknown
+# Candle Corporation of America, Inc. - Distribution
 
-**Location:** Unknown, NC
+**Location:** Elkin, NC
 
 **EPA Facility ID:** 100000085533
 

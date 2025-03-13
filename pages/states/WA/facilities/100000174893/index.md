@@ -1,6 +1,6 @@
-# Unknown
+# National Frozen Foods Corporation, Moses Lake, WA
 
-**Location:** Unknown, WA
+**Location:** Moses Lake, WA
 
 **EPA Facility ID:** 100000174893
 

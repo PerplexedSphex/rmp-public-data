@@ -1,6 +1,6 @@
-# Unknown
+# Huron Shore Regional Utility Authority
 
-**Location:** Unknown, MI
+**Location:** East Tawas, MI
 
 **EPA Facility ID:** 100000112013
 

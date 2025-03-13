@@ -1,6 +1,6 @@
-# Unknown
+# Praxair - Chesterton, IN
 
-**Location:** Unknown, IN
+**Location:** Chesterton, IN
 
 **EPA Facility ID:** 100000174982
 

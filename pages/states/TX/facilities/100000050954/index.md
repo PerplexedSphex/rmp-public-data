@@ -1,6 +1,6 @@
-# Unknown
+# Southwestern Grain, Inc., East Elevator
 
-**Location:** Unknown, TX
+**Location:** Plainview, TX
 
 **EPA Facility ID:** 100000050954
 

@@ -1,6 +1,6 @@
-# Unknown
+# JCI Jones Chemicals, Inc. - Merrimack, NH
 
-**Location:** Unknown, NH
+**Location:** Merrimack, NH
 
 **EPA Facility ID:** 100000126124
 

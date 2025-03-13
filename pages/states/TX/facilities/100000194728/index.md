@@ -1,6 +1,6 @@
-# Unknown
+# Tyler County Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Woodville, TX
 
 **EPA Facility ID:** 100000194728
 

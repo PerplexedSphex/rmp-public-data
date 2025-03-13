@@ -1,6 +1,6 @@
-# Unknown
+# Worthington, IN Satellite
 
-**Location:** Unknown, IN
+**Location:** Worthington, IN
 
 **EPA Facility ID:** 100000240893
 

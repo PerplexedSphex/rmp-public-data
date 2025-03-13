@@ -1,6 +1,6 @@
-# Unknown
+# Leoti, KS 702 Satellite
 
-**Location:** Unknown, KS
+**Location:** Leoti, KS
 
 **EPA Facility ID:** 100000036123
 

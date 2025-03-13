@@ -1,6 +1,6 @@
-# Unknown
+# Janus Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Mentone, TX
 
 **EPA Facility ID:** 100000256144
 

@@ -1,6 +1,6 @@
-# Unknown
+# South Davis Sewer District North Plant
 
-**Location:** Unknown, UT
+**Location:** West Bountiful, UT
 
 **EPA Facility ID:** 100000029195
 

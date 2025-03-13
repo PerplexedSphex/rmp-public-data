@@ -1,6 +1,6 @@
-# Unknown
+# Linn NH3
 
-**Location:** Unknown, KS
+**Location:** Linn, KS
 
 **EPA Facility ID:** 100000006548
 

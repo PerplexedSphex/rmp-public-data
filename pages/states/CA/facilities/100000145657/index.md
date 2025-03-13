@@ -1,6 +1,6 @@
-# Unknown
+# Easterly Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Elmira, CA
 
 **EPA Facility ID:** 100000145657
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Worthing
 
-**Location:** Unknown, SD
+**Location:** Worthing, SD
 
 **EPA Facility ID:** 100000207377
 

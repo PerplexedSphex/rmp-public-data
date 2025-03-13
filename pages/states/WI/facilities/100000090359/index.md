@@ -1,6 +1,6 @@
-# Unknown
+# Hydrite Chemcial Co. - LaCrosse
 
-**Location:** Unknown, WI
+**Location:** LaCrosse, WI
 
 **EPA Facility ID:** 100000090359
 

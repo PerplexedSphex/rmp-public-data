@@ -1,6 +1,6 @@
-# Unknown
+# Owens Corning Foam Insulation, LLC - Gresham
 
-**Location:** Unknown, OR
+**Location:** Portland, OR
 
 **EPA Facility ID:** 100000207894
 

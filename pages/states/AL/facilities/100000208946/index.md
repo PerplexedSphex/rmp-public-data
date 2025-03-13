@@ -1,6 +1,6 @@
-# Unknown
+# Hillabee Power Plant
 
-**Location:** Unknown, AL
+**Location:** Alexander City, AL
 
 **EPA Facility ID:** 100000208946
 

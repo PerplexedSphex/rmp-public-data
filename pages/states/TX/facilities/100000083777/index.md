@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company, Electra, TX
 
-**Location:** Unknown, TX
+**Location:** Electra, TX
 
 **EPA Facility ID:** 100000083777
 

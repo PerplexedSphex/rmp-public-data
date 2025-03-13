@@ -1,6 +1,6 @@
-# Unknown
+# HERNDON NH3 PLANT
 
-**Location:** Unknown, KS
+**Location:** HERNDON, KS
 
 **EPA Facility ID:** 100000010043
 

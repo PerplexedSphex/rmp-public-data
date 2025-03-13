@@ -1,6 +1,6 @@
-# Unknown
+# Pottstown Water Filtration Plant
 
-**Location:** Unknown, PA
+**Location:** Stowe, PA
 
 **EPA Facility ID:** 100000095336
 

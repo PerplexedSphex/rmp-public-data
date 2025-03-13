@@ -1,6 +1,6 @@
-# Unknown
+# BEI Hawaii - Wailuku Facility, Maui
 
-**Location:** Unknown, HI
+**Location:** Wailuku, HI
 
 **EPA Facility ID:** 100000021656
 

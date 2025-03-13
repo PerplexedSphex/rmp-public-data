@@ -1,6 +1,6 @@
-# Unknown
+# Moses Lake Industries, Inc.
 
-**Location:** Unknown, WA
+**Location:** Moses Lake, WA
 
 **EPA Facility ID:** 100000177952
 

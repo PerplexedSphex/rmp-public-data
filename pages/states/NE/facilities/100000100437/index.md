@@ -1,6 +1,6 @@
-# Unknown
+# COOPERATIVE PRODUCERS, INC. - Red Cloud
 
-**Location:** Unknown, NE
+**Location:** RED CLOUD, NE
 
 **EPA Facility ID:** 100000100437
 

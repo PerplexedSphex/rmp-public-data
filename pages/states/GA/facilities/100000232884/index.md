@@ -1,6 +1,6 @@
-# Unknown
+# The Eggo Company
 
-**Location:** Unknown, GA
+**Location:** Atlanta, GA
 
 **EPA Facility ID:** 100000232884
 

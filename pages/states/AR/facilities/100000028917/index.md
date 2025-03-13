@@ -1,6 +1,6 @@
-# Unknown
+# Hazel Street Wastewater Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Benton, AR
 
 **EPA Facility ID:** 100000028917
 

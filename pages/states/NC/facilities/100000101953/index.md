@@ -1,6 +1,6 @@
-# Unknown
+# Cekal Specialties, Inc.
 
-**Location:** Unknown, NC
+**Location:** Mount Holly, NC
 
 **EPA Facility ID:** 100000101953
 

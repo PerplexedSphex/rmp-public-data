@@ -1,6 +1,6 @@
-# Unknown
+# TVA - Paradise Fossil Plant
 
-**Location:** Unknown, KY
+**Location:** Drakesboro, KY
 
 **EPA Facility ID:** 100000168891
 

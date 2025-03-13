@@ -1,6 +1,6 @@
-# Unknown
+# HVC Inc.
 
-**Location:** Unknown, OH
+**Location:** Medina, OH
 
 **EPA Facility ID:** 100000107975
 

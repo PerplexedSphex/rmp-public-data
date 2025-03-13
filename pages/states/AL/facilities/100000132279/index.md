@@ -1,6 +1,6 @@
-# Unknown
+# Choccolocco Creek Wastewater Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Oxford, AL
 
 **EPA Facility ID:** 100000132279
 

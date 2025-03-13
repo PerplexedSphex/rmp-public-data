@@ -1,6 +1,6 @@
-# Unknown
+# Nufarm Specialty Products, Inc.
 
-**Location:** Unknown, SC
+**Location:** Lobeco, SC
 
 **EPA Facility ID:** 100000103238
 

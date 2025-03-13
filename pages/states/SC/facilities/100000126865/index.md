@@ -1,6 +1,6 @@
-# Unknown
+# City of Union Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Union, SC
 
 **EPA Facility ID:** 100000126865
 

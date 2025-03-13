@@ -1,6 +1,6 @@
-# Unknown
+# WB Frozen US LLC
 
-**Location:** Unknown, NY
+**Location:** Frankfort, NY
 
 **EPA Facility ID:** 100000216697
 

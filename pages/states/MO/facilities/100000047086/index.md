@@ -1,6 +1,6 @@
-# Unknown
+# Tanner Industries, Inc. - Neosho
 
-**Location:** Unknown, MO
+**Location:** Neosho, MO
 
 **EPA Facility ID:** 100000047086
 

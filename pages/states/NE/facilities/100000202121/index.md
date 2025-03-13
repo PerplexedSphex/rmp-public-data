@@ -1,6 +1,6 @@
-# Unknown
+# Nebraska Corn Processing, LLC
 
-**Location:** Unknown, NE
+**Location:** Cambridge, NE
 
 **EPA Facility ID:** 100000202121
 

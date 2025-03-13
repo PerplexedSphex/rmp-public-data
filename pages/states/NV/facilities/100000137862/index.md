@@ -1,6 +1,6 @@
-# Unknown
+# Cyanco Company LLC.
 
-**Location:** Unknown, NV
+**Location:** Winnemucca, NV
 
 **EPA Facility ID:** 100000137862
 

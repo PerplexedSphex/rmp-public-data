@@ -1,6 +1,6 @@
-# Unknown
+# City of Bloomington Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Hudson, IL
 
 **EPA Facility ID:** 100000114654
 

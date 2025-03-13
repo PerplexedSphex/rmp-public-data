@@ -1,6 +1,6 @@
-# Unknown
+# Legacy Cooperative - Egeland Location
 
-**Location:** Unknown, ND
+**Location:** Egeland, ND
 
 **EPA Facility ID:** 100000034535
 

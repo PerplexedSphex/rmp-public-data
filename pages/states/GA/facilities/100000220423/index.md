@@ -1,6 +1,6 @@
-# Unknown
+# Apollo Aerosol Industries
 
-**Location:** Unknown, GA
+**Location:** Dalton, GA
 
 **EPA Facility ID:** 100000220423
 

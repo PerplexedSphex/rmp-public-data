@@ -1,6 +1,6 @@
-# Unknown
+# Western Illinois Grain Co.Colmar Facility
 
-**Location:** Unknown, IL
+**Location:** Colmar, IL
 
 **EPA Facility ID:** 100000171529
 

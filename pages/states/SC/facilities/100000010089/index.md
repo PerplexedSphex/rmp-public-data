@@ -1,6 +1,6 @@
-# Unknown
+# Summerville CPW Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Summerville, SC
 
 **EPA Facility ID:** 100000010089
 

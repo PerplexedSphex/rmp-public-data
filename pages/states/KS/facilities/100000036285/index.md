@@ -1,6 +1,6 @@
-# Unknown
+# OTIS -- NH3 PLANT
 
-**Location:** Unknown, KS
+**Location:** OTIS, KS
 
 **EPA Facility ID:** 100000036285
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bayer Miles Avenue Complex
 
-**Location:** Unknown, IN
+**Location:** Elkhart, IN
 
 **EPA Facility ID:** 100000039228
 

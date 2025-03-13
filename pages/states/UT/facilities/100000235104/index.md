@@ -1,6 +1,6 @@
-# Unknown
+# Price Raptor Dewpoint Plant
 
-**Location:** Unknown, UT
+**Location:** Price, UT
 
 **EPA Facility ID:** 100000235104
 

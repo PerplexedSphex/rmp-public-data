@@ -1,6 +1,6 @@
-# Unknown
+# Brainerd  Chemical Midwest, LLC
 
-**Location:** Unknown, IL
+**Location:** Danville, IL
 
 **EPA Facility ID:** 100000171976
 

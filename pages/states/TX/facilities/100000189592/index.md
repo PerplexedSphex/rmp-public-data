@@ -1,6 +1,6 @@
-# Unknown
+# Lone Star Bakery, Inc. Plant No. 2
 
-**Location:** Unknown, TX
+**Location:** China Grove, TX
 
 **EPA Facility ID:** 100000189592
 

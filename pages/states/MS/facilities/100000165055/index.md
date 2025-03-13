@@ -1,6 +1,6 @@
-# Unknown
+# Municipal Plant #2
 
-**Location:** Unknown, MS
+**Location:** Laurel, MS
 
 **EPA Facility ID:** 100000165055
 

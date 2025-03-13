@@ -1,6 +1,6 @@
-# Unknown
+# Jamestown Water Plant
 
-**Location:** Unknown, KY
+**Location:** Jamestown, KY
 
 **EPA Facility ID:** 100000212977
 

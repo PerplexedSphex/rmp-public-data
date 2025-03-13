@@ -1,6 +1,6 @@
-# Unknown
+# Yale Security Inc.
 
-**Location:** Unknown, TN
+**Location:** Lenoir City, TN
 
 **EPA Facility ID:** 100000123127
 

@@ -1,6 +1,6 @@
-# Unknown
+# Charles C Adams III Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Alexander City, AL
 
 **EPA Facility ID:** 100000118366
 

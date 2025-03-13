@@ -1,6 +1,6 @@
-# Unknown
+# Foamex LP
 
-**Location:** Unknown, CA
+**Location:** Compton, CA
 
 **EPA Facility ID:** 100000062718
 

@@ -1,6 +1,6 @@
-# Unknown
+# Chester Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Chester, OK
 
 **EPA Facility ID:** 100000187102
 

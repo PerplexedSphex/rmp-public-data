@@ -1,6 +1,6 @@
-# Unknown
+# Tanner Industries, Inc. - Tamaqua
 
-**Location:** Unknown, PA
+**Location:** Tamaqua, PA
 
 **EPA Facility ID:** 100000046773
 

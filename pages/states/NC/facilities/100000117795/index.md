@@ -1,6 +1,6 @@
-# Unknown
+# Lunberton Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Lumberton, NC
 
 **EPA Facility ID:** 100000117795
 

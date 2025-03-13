@@ -1,6 +1,6 @@
-# Unknown
+# Bedford Illinois Street Water Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** Bedford,, IN
 
 **EPA Facility ID:** 100000073243
 

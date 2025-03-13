@@ -1,6 +1,6 @@
-# Unknown
+# Fort Thomas Filtration Plant
 
-**Location:** Unknown, KY
+**Location:** Fort Thomas, KY
 
 **EPA Facility ID:** 100000022995
 

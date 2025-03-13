@@ -1,6 +1,6 @@
-# Unknown
+# Louisiana Water Company - Eunice Water Plant
 
-**Location:** Unknown, LA
+**Location:** Eunice, LA
 
 **EPA Facility ID:** 100000051043
 

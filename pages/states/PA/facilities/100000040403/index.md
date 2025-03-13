@@ -1,6 +1,6 @@
-# Unknown
+# International Waxes, Inc. - Farmers Valley Plant
 
-**Location:** Unknown, PA
+**Location:** Smethport, PA
 
 **EPA Facility ID:** 100000040403
 

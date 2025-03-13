@@ -1,6 +1,6 @@
-# Unknown
+# Gold Star FS, Inc., Ulah Plant
 
-**Location:** Unknown, IL
+**Location:** Cambridge, IL
 
 **EPA Facility ID:** 100000034232
 

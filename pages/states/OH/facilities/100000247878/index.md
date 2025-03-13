@@ -1,6 +1,6 @@
-# Unknown
+# Interstate Cold Storage - Columbus II
 
-**Location:** Unknown, OH
+**Location:** Columbus, OH
 
 **EPA Facility ID:** 100000247878
 

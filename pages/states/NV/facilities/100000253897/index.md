@@ -1,6 +1,6 @@
-# Unknown
+# US Ecology Nevada, Inc.
 
-**Location:** Unknown, NV
+**Location:** Beatty, NV
 
 **EPA Facility ID:** 100000253897
 

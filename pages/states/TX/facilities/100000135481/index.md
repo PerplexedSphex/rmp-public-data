@@ -1,6 +1,6 @@
-# Unknown
+# ChampionX Sugar Land Plant
 
-**Location:** Unknown, TX
+**Location:** Sugar Land, TX
 
 **EPA Facility ID:** 100000135481
 

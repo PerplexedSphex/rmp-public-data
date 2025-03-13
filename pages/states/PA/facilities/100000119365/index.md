@@ -1,6 +1,6 @@
-# Unknown
+# City of DuBois Sewage Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** DuBois, PA
 
 **EPA Facility ID:** 100000119365
 

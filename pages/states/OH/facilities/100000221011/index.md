@@ -1,6 +1,6 @@
-# Unknown
+# South Charleston, OH
 
-**Location:** Unknown, OH
+**Location:** South Charleston, OH
 
 **EPA Facility ID:** 100000221011
 

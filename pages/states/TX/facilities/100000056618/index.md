@@ -1,6 +1,6 @@
-# Unknown
+# City of Port Neches Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Port Neches, TX
 
 **EPA Facility ID:** 100000056618
 

@@ -1,6 +1,6 @@
-# Unknown
+# State Line Compressor Station
 
-**Location:** Unknown, LA
+**Location:** Logansport, LA
 
 **EPA Facility ID:** 100000208205
 

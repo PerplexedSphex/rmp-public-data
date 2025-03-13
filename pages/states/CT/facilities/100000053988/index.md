@@ -1,6 +1,6 @@
-# Unknown
+# Wyman-Gordon Investment Castings, Incorporated
 
-**Location:** Unknown, CT
+**Location:** Groton, CT
 
 **EPA Facility ID:** 100000053988
 

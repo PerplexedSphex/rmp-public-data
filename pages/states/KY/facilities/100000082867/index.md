@@ -1,6 +1,6 @@
-# Unknown
+# Prices Mill Farm Supply  
 
-**Location:** Unknown, KY
+**Location:** Franklin, KY
 
 **EPA Facility ID:** 100000082867
 

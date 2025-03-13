@@ -1,6 +1,6 @@
-# Unknown
+# Wurth International Trading America, Inc.
 
-**Location:** Unknown, NJ
+**Location:** Wayne, NJ
 
 **EPA Facility ID:** 100000250872
 

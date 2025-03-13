@@ -1,6 +1,6 @@
-# Unknown
+# Kuehne Chemical Co., Inc. - Delaware City
 
-**Location:** Unknown, DE
+**Location:** New Castle, DE
 
 **EPA Facility ID:** 100000025073
 

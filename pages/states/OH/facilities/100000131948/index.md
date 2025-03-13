@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Co-op - Waldo Branch
 
-**Location:** Unknown, OH
+**Location:** Waldo, OH
 
 **EPA Facility ID:** 100000131948
 

@@ -1,6 +1,6 @@
-# Unknown
+# Pendleton Flour Mills dba Grain Craft, Inc.
 
-**Location:** Unknown, ID
+**Location:** Blackfoot, ID
 
 **EPA Facility ID:** 100000137737
 

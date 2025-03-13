@@ -1,6 +1,6 @@
-# Unknown
+# City of Kingsport - Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Kingsport, TN
 
 **EPA Facility ID:** 100000035945
 

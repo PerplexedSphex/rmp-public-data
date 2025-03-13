@@ -1,6 +1,6 @@
-# Unknown
+# Mapleton, MN Satellite
 
-**Location:** Unknown, MN
+**Location:** Mapleton, MN
 
 **EPA Facility ID:** 100000175222
 

@@ -1,6 +1,6 @@
-# Unknown
+# The Sherwin-Williams Company - Corbin Warehouse
 
-**Location:** Unknown, OH
+**Location:** Bedford Heights, OH
 
 **EPA Facility ID:** 100000143588
 

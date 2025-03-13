@@ -1,6 +1,6 @@
-# Unknown
+# Ten Section Lease
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000146219
 

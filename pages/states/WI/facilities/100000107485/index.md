@@ -1,6 +1,6 @@
-# Unknown
+# Schultz Sav-o Stores, Inc.
 
-**Location:** Unknown, WI
+**Location:** Sheboygan, WI
 
 **EPA Facility ID:** 100000107485
 

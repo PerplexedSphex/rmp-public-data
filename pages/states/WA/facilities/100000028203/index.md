@@ -1,6 +1,6 @@
-# Unknown
+# Lamont, WA Satellite
 
-**Location:** Unknown, WA
+**Location:** Lamont, WA
 
 **EPA Facility ID:** 100000028203
 

@@ -1,6 +1,6 @@
-# Unknown
+# Muskegon Heights Water Filtration Plant
 
-**Location:** Unknown, MI
+**Location:** Norton Shores, MI
 
 **EPA Facility ID:** 100000064976
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Pullman Wastewater Treatment Plant
 
-**Location:** Unknown, WA
+**Location:** Pullman, WA
 
 **EPA Facility ID:** 100000056583
 

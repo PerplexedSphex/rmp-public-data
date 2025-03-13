@@ -1,6 +1,6 @@
-# Unknown
+# Halifax Fertilizer Co., Inc.
 
-**Location:** Unknown, NC
+**Location:** Enfield, NC
 
 **EPA Facility ID:** 100000167482
 

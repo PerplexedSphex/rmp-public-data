@@ -1,6 +1,6 @@
-# Unknown
+# Thatcher Company of Nevada, Inc.
 
-**Location:** Unknown, NV
+**Location:** Henderson, NV
 
 **EPA Facility ID:** 100000150409
 

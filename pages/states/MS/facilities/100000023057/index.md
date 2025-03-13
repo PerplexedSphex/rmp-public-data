@@ -1,6 +1,6 @@
-# Unknown
+# Hattiesburg Water Plant #2
 
-**Location:** Unknown, MS
+**Location:** Hattiesburg, MS
 
 **EPA Facility ID:** 100000023057
 

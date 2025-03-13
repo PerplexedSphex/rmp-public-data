@@ -1,6 +1,6 @@
-# Unknown
+# City of Pharr Wastewater Treament Plant
 
-**Location:** Unknown, TX
+**Location:** Pharr, TX
 
 **EPA Facility ID:** 100000037284
 

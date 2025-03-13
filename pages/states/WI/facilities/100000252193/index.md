@@ -1,6 +1,6 @@
-# Unknown
+# NLC Energy Denmark LLC
 
-**Location:** Unknown, WI
+**Location:** Denmark, WI
 
 **EPA Facility ID:** 100000252193
 

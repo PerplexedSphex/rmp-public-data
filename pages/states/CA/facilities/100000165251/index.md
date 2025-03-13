@@ -1,6 +1,6 @@
-# Unknown
+# Ormesa Geothermal Projects
 
-**Location:** Unknown, CA
+**Location:** Holtville, CA
 
 **EPA Facility ID:** 100000165251
 

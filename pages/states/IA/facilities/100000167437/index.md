@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op  Sidney
 
-**Location:** Unknown, IA
+**Location:** Sidney, IA
 
 **EPA Facility ID:** 100000167437
 

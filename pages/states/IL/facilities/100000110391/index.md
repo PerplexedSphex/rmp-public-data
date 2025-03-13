@@ -1,6 +1,6 @@
-# Unknown
+# La Salle City Water Works
 
-**Location:** Unknown, IL
+**Location:** La Salle, IL
 
 **EPA Facility ID:** 100000110391
 

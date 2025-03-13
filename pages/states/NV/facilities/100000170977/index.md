@@ -1,6 +1,6 @@
-# Unknown
+# Nikkiso Cryo, Inc.
 
-**Location:** Unknown, NV
+**Location:** North Las Vegas, NV
 
 **EPA Facility ID:** 100000170977
 

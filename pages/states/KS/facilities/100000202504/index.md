@@ -1,6 +1,6 @@
-# Unknown
+# Kansas Ethanol, LLC
 
-**Location:** Unknown, KS
+**Location:** Lyons, KS
 
 **EPA Facility ID:** 100000202504
 

@@ -1,6 +1,6 @@
-# Unknown
+# ISP Freetown Fine Chemicals Inc.
 
-**Location:** Unknown, MA
+**Location:** Assonet, MA
 
 **EPA Facility ID:** 100000192668
 

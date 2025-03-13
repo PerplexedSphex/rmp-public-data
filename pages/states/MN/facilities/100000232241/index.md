@@ -1,6 +1,6 @@
-# Unknown
+# Proctor Terminal Company Ltd.
 
-**Location:** Unknown, MN
+**Location:** Duluth, MN
 
 **EPA Facility ID:** 100000232241
 

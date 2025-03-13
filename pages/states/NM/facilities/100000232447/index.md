@@ -1,6 +1,6 @@
-# Unknown
+# South Eddy Gas Plant
 
-**Location:** Unknown, NM
+**Location:** Malaga, NM
 
 **EPA Facility ID:** 100000232447
 

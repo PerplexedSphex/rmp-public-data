@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics- Grand Forks, ND
 
-**Location:** Unknown, ND
+**Location:** Grand Forks, ND
 
 **EPA Facility ID:** 100000192472
 

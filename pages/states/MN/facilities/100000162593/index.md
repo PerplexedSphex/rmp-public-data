@@ -1,6 +1,6 @@
-# Unknown
+# Independent Farmers Agriculture Service, LLC
 
-**Location:** Unknown, MN
+**Location:** Hancock, MN
 
 **EPA Facility ID:** 100000162593
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mille Lacs Soil Service
 
-**Location:** Unknown, MN
+**Location:** Foreston, MN
 
 **EPA Facility ID:** 100000219328
 

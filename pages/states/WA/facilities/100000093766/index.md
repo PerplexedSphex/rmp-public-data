@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company (Waitsburg, WA)
 
-**Location:** Unknown, WA
+**Location:** Dayton, WA
 
 **EPA Facility ID:** 100000093766
 

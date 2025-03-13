@@ -1,6 +1,6 @@
-# Unknown
+# Vinita Water Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Vinita, OK
 
 **EPA Facility ID:** 100000074527
 

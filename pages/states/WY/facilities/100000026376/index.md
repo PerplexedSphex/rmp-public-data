@@ -1,6 +1,6 @@
-# Unknown
+# Sam Hobbs Regional Wastewater Facility
 
-**Location:** Unknown, WY
+**Location:** Casper, WY
 
 **EPA Facility ID:** 100000026376
 

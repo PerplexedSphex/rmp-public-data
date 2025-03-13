@@ -1,6 +1,6 @@
-# Unknown
+# East Dakotas Renewable Energy, LLC
 
-**Location:** Unknown, SD
+**Location:** Beresford, SD
 
 **EPA Facility ID:** 100000247896
 

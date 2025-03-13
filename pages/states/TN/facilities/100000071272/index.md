@@ -1,6 +1,6 @@
-# Unknown
+# Nouryon Surface Chemistry LLC
 
-**Location:** Unknown, TN
+**Location:** Chattanooga, TN
 
 **EPA Facility ID:** 100000071272
 

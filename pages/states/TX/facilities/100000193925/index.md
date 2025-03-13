@@ -1,6 +1,6 @@
-# Unknown
+# Tolar Plant
 
-**Location:** Unknown, TX
+**Location:** Tolar, TX
 
 **EPA Facility ID:** 100000193925
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wymore Fertilizer Company
 
-**Location:** Unknown, NE
+**Location:** Wymore, NE
 
 **EPA Facility ID:** 100000179889
 

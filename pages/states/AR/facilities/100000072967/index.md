@@ -1,6 +1,6 @@
-# Unknown
+# CWL-West Side Wastewater Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Jonesboro, AR
 
 **EPA Facility ID:** 100000072967
 

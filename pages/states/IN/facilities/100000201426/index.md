@@ -1,6 +1,6 @@
-# Unknown
+# Frank E. Ratts Generating Station
 
-**Location:** Unknown, IN
+**Location:** Petersburg, IN
 
 **EPA Facility ID:** 100000201426
 

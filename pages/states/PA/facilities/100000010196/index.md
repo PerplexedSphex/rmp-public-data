@@ -1,6 +1,6 @@
-# Unknown
+# Harrisburg Advanced Wastewater Treatment Facility
 
-**Location:** Unknown, PA
+**Location:** Harrisburg, PA
 
 **EPA Facility ID:** 100000010196
 

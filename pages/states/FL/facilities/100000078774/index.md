@@ -1,6 +1,6 @@
-# Unknown
+#  City of Hallandale Beach Water Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Hallandale Beach, FL
 
 **EPA Facility ID:** 100000078774
 

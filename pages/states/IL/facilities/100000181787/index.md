@@ -1,6 +1,6 @@
-# Unknown
+# Duck Creek Power Station 
 
-**Location:** Unknown, IL
+**Location:** Canton, IL
 
 **EPA Facility ID:** 100000181787
 

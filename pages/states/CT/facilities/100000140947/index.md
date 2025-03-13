@@ -1,6 +1,6 @@
-# Unknown
+# Uniroyal Chemical Company, Inc
 
-**Location:** Unknown, CT
+**Location:** Naugatuck, CT
 
 **EPA Facility ID:** 100000140947
 

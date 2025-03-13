@@ -1,6 +1,6 @@
-# Unknown
+# OSRAM SYLVANIA PRODUCTS INC.
 
-**Location:** Unknown, PA
+**Location:** York, PA
 
 **EPA Facility ID:** 100000136541
 

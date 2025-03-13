@@ -1,6 +1,6 @@
-# Unknown
+# Central Valley Ag Cooperative - Bancroft
 
-**Location:** Unknown, NE
+**Location:** BANCROFT, NE
 
 **EPA Facility ID:** 100000158429
 

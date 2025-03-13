@@ -1,6 +1,6 @@
-# Unknown
+# Beaver Water District Water Treatment Facility
 
-**Location:** Unknown, AR
+**Location:** Lowell, AR
 
 **EPA Facility ID:** 100000124386
 

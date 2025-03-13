@@ -1,6 +1,6 @@
-# Unknown
+# Poole Chemical - Dalhart, TX  (South)
 
-**Location:** Unknown, TX
+**Location:** Dalhart, TX
 
 **EPA Facility ID:** 100000147744
 

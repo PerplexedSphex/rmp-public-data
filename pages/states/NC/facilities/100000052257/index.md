@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Foods, Inc. - COOKED PRODUCTS DIVISION
 
-**Location:** Unknown, NC
+**Location:** WILKESBORO, NC
 
 **EPA Facility ID:** 100000052257
 

@@ -1,6 +1,6 @@
-# Unknown
+# Franklin Area Wastewater Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Franklin, OH
 
 **EPA Facility ID:** 100000158456
 

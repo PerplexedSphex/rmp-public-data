@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Oconee
 
-**Location:** Unknown, NE
+**Location:** Columbus, NE
 
 **EPA Facility ID:** 100000138709
 

@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center #6096
 
-**Location:** Unknown, NY
+**Location:** Johnstown, NY
 
 **EPA Facility ID:** 100000169024
 

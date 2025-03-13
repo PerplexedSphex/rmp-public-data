@@ -1,6 +1,6 @@
-# Unknown
+# Genoa City - NH3
 
-**Location:** Unknown, WI
+**Location:** Genoa City, WI
 
 **EPA Facility ID:** 100000083303
 

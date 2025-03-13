@@ -1,6 +1,6 @@
-# Unknown
+# Decatur Utilities Dry Creek Wastewater Plant
 
-**Location:** Unknown, AL
+**Location:** Decatur, AL
 
 **EPA Facility ID:** 100000050794
 

@@ -1,6 +1,6 @@
-# Unknown
+# Elkhart Wastewater Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** Elkhart, IN
 
 **EPA Facility ID:** 100000050446
 

@@ -1,6 +1,6 @@
-# Unknown
+# Techalloy Company, Inc. - Northampton Wiire Plant
 
-**Location:** Unknown, MA
+**Location:** Northampton, MA
 
 **EPA Facility ID:** 100000026303
 

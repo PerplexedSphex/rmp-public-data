@@ -1,6 +1,6 @@
-# Unknown
+# Tulelake, CA Satellite
 
-**Location:** Unknown, CA
+**Location:** Tulelake, CA
 
 **EPA Facility ID:** 100000001892
 

@@ -1,6 +1,6 @@
-# Unknown
+# JBS Hyrum Beef Facility
 
-**Location:** Unknown, UT
+**Location:** Hyrum, UT
 
 **EPA Facility ID:** 100000113405
 

@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center #7055
 
-**Location:** Unknown, IN
+**Location:** Gas City, IN
 
 **EPA Facility ID:** 100000198608
 

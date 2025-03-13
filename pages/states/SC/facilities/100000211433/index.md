@@ -1,6 +1,6 @@
-# Unknown
+# City of Inman Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Inman, SC
 
 **EPA Facility ID:** 100000211433
 

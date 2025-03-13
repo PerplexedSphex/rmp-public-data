@@ -1,6 +1,6 @@
-# Unknown
+# International Paper -  Flint River Mill
 
-**Location:** Unknown, GA
+**Location:** Oglethorpe, GA
 
 **EPA Facility ID:** 100000109964
 

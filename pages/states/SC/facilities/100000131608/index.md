@@ -1,6 +1,6 @@
-# Unknown
+# Tiarco Chemical
 
-**Location:** Unknown, SC
+**Location:** Greenville, SC
 
 **EPA Facility ID:** 100000131608
 

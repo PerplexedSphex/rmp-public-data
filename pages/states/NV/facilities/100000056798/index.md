@@ -1,6 +1,6 @@
-# Unknown
+# City of Las Vegas Water Pollution Control Facility
 
-**Location:** Unknown, NV
+**Location:** Las Vegas, NV
 
 **EPA Facility ID:** 100000056798
 

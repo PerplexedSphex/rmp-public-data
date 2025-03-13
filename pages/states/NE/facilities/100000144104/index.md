@@ -1,6 +1,6 @@
-# Unknown
+# Agri Coop  -  BLOOMINGTON   - Anhydrous Ammonia
 
-**Location:** Unknown, NE
+**Location:** Bloomington, NE
 
 **EPA Facility ID:** 100000144104
 

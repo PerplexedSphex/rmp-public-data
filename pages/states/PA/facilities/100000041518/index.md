@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Alloys, L.L.C
 
-**Location:** Unknown, PA
+**Location:** Marietta, PA
 
 **EPA Facility ID:** 100000041518
 

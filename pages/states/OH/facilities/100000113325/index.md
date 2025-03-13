@@ -1,6 +1,6 @@
-# Unknown
+# Wharton, OH 3059 Satellite
 
-**Location:** Unknown, OH
+**Location:** Wharton, OH
 
 **EPA Facility ID:** 100000113325
 

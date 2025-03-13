@@ -1,6 +1,6 @@
-# Unknown
+# Lake Palestine Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Tyler, TX
 
 **EPA Facility ID:** 100000194443
 

@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Co-op Association
 
-**Location:** Unknown, NE
+**Location:** Lindsay, NE
 
 **EPA Facility ID:** 100000049048
 

@@ -1,6 +1,6 @@
-# Unknown
+# Eco Services Dominguez Plant
 
-**Location:** Unknown, CA
+**Location:** Carson, CA
 
 **EPA Facility ID:** 100000151532
 

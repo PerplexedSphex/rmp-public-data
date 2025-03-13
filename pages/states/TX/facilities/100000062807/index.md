@@ -1,6 +1,6 @@
-# Unknown
+# Chico Plant
 
-**Location:** Unknown, TX
+**Location:** Chico, TX
 
 **EPA Facility ID:** 100000062807
 

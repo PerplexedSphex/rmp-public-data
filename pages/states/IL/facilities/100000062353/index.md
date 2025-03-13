@@ -1,6 +1,6 @@
-# Unknown
+# Rich Products Corporation - Niles Facility
 
-**Location:** Unknown, IL
+**Location:** Niles, IL
 
 **EPA Facility ID:** 100000062353
 

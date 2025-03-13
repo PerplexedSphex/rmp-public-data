@@ -1,6 +1,6 @@
-# Unknown
+# Bear Creek Water Treatment and Transmission Facili
 
-**Location:** Unknown, GA
+**Location:** Bogart, GA
 
 **EPA Facility ID:** 100000177578
 

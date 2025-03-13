@@ -1,6 +1,6 @@
-# Unknown
+# United Equity, Inc. - Delphos Fertilizer Plant
 
-**Location:** Unknown, OH
+**Location:** Delphos, OH
 
 **EPA Facility ID:** 100000066858
 

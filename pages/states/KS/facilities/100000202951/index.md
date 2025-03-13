@@ -1,6 +1,6 @@
-# Unknown
+# Skyland Grain, LLC - Lightcap
 
-**Location:** Unknown, KS
+**Location:** Ulysses, KS
 
 **EPA Facility ID:** 100000202951
 

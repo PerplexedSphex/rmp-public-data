@@ -1,6 +1,6 @@
-# Unknown
+# Innovative Freeze-Dried Food, LLC
 
-**Location:** Unknown, WA
+**Location:** Ferndale, WA
 
 **EPA Facility ID:** 100000231714
 

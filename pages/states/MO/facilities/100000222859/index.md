@@ -1,6 +1,6 @@
-# Unknown
+# MFA Ammonia Plant Sedalia
 
-**Location:** Unknown, MO
+**Location:** Sedalia, MO
 
 **EPA Facility ID:** 100000222859
 

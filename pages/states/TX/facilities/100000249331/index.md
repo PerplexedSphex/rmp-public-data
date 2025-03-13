@@ -1,6 +1,6 @@
-# Unknown
+# Leonard Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Leonard, TX
 
 **EPA Facility ID:** 100000249331
 

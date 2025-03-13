@@ -1,6 +1,6 @@
-# Unknown
+# Mesquite Generating Station
 
-**Location:** Unknown, AZ
+**Location:** Arlington, AZ
 
 **EPA Facility ID:** 100000181723
 

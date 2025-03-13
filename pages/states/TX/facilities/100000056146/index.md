@@ -1,6 +1,6 @@
-# Unknown
+# City of Port Neches Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Groves, TX
 
 **EPA Facility ID:** 100000056146
 

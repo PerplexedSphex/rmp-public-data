@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Osceola
 
-**Location:** Unknown, NE
+**Location:** Osceola, NE
 
 **EPA Facility ID:** 100000144131
 

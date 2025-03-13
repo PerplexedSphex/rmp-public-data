@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South, Inc.
 
-**Location:** Unknown, WV
+**Location:** St. Albans, WV
 
 **EPA Facility ID:** 100000044249
 

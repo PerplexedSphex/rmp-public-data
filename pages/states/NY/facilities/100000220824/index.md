@@ -1,6 +1,6 @@
-# Unknown
+# HP Hood Batavia
 
-**Location:** Unknown, NY
+**Location:** Batavia, NY
 
 **EPA Facility ID:** 100000220824
 

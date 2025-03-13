@@ -1,6 +1,6 @@
-# Unknown
+# Lewistown Propane
 
-**Location:** Unknown, PA
+**Location:** Lewistown, PA
 
 **EPA Facility ID:** 100000002926
 

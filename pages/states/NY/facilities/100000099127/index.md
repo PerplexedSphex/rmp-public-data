@@ -1,6 +1,6 @@
-# Unknown
+# City of Rome Water Filtration Plant
 
-**Location:** Unknown, NY
+**Location:** Lee Center, NY
 
 **EPA Facility ID:** 100000099127
 

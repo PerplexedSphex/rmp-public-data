@@ -1,6 +1,6 @@
-# Unknown
+# Reading Feed and Grain, Inc., Quincy Branch
 
-**Location:** Unknown, MI
+**Location:** Quincy, MI
 
 **EPA Facility ID:** 100000020167
 

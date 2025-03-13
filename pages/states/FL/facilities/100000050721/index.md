@@ -1,6 +1,6 @@
-# Unknown
+# George T. Lohmeyer Wastewater Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Fort Lauderdale, FL
 
 **EPA Facility ID:** 100000050721
 

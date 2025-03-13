@@ -1,6 +1,6 @@
-# Unknown
+# Lamb Weston Twin Falls Facility
 
-**Location:** Unknown, ID
+**Location:** Twin Falls, ID
 
 **EPA Facility ID:** 100000027115
 

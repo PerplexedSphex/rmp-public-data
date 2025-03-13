@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Fresh Meats, Inc - Amarillo, Tx
 
-**Location:** Unknown, TX
+**Location:** Amarillo, TX
 
 **EPA Facility ID:** 100000003738
 

@@ -1,6 +1,6 @@
-# Unknown
+# Three Mile Location
 
-**Location:** Unknown, CO
+**Location:** Monte Vista, CO
 
 **EPA Facility ID:** 100000102104
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wastewater Odor Control Station
 
-**Location:** Unknown, ND
+**Location:** Jamestown, ND
 
 **EPA Facility ID:** 100000141937
 

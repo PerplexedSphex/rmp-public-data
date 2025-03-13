@@ -1,6 +1,6 @@
-# Unknown
+# Chelan Facility
 
-**Location:** Unknown, WA
+**Location:** Chelan, WA
 
 **EPA Facility ID:** 100000147833
 

@@ -1,6 +1,6 @@
-# Unknown
+# THE DODGE CITY COOP EXCHANGE-Ingalls South
 
-**Location:** Unknown, KS
+**Location:** INGALLS, KS
 
 **EPA Facility ID:** 100000109063
 

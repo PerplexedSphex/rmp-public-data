@@ -1,6 +1,6 @@
-# Unknown
+# Indorama Ventures Oxides, LLC - Dayton Plant
 
-**Location:** Unknown, TX
+**Location:** Dayton, TX
 
 **EPA Facility ID:** 100000108108
 

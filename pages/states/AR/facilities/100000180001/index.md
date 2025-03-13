@@ -1,6 +1,6 @@
-# Unknown
+# Benton/Washington Regional Public Water Authority
 
-**Location:** Unknown, AR
+**Location:** Lincoln, AR
 
 **EPA Facility ID:** 100000180001
 

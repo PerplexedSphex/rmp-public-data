@@ -1,6 +1,6 @@
-# Unknown
+# Williams Street Water Treatment Facility
 
-**Location:** Unknown, GA
+**Location:** Covington, GA
 
 **EPA Facility ID:** 100000114832
 

@@ -1,6 +1,6 @@
-# Unknown
+# High-Purity Silicon America Corporation
 
-**Location:** Unknown, AL
+**Location:** Theodore, AL
 
 **EPA Facility ID:** 100000076758
 

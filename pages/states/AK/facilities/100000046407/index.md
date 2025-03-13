@@ -1,6 +1,6 @@
-# Unknown
+# Alaska's Best Seafood, LLC
 
-**Location:** Unknown, AK
+**Location:** Ekuk, AK
 
 **EPA Facility ID:** 100000046407
 

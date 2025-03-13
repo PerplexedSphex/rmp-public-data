@@ -1,6 +1,6 @@
-# Unknown
+# Castlegate Culinary Water Treatment Plant
 
-**Location:** Unknown, UT
+**Location:** Helper, UT
 
 **EPA Facility ID:** 100000165377
 

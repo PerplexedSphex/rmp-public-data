@@ -1,6 +1,6 @@
-# Unknown
+# GILMAN PAPER COMPANY, ST, MARYS KRAFT DIVISION
 
-**Location:** Unknown, GA
+**Location:** ST. MARYS, GA
 
 **EPA Facility ID:** 100000073154
 

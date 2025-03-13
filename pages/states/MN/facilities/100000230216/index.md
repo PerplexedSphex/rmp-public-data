@@ -1,6 +1,6 @@
-# Unknown
+# Cold Spring Brewing Company
 
-**Location:** Unknown, MN
+**Location:** Cold Spring, MN
 
 **EPA Facility ID:** 100000230216
 

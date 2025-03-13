@@ -1,6 +1,6 @@
-# Unknown
+# Ed Love Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Tuscaloosa, AL
 
 **EPA Facility ID:** 100000048691
 

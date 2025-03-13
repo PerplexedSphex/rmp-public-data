@@ -1,6 +1,6 @@
-# Unknown
+# Lincoln Dairy
 
-**Location:** Unknown, NY
+**Location:** Auburn, NY
 
 **EPA Facility ID:** 100000254271
 

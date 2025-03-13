@@ -1,6 +1,6 @@
-# Unknown
+# GEODIS Logistics LLC
 
-**Location:** Unknown, CA
+**Location:** Redlands, CA
 
 **EPA Facility ID:** 100000248387
 

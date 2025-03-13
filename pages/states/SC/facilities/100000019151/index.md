@@ -1,6 +1,6 @@
-# Unknown
+# Shaw Industries Group, Inc., Plant 8S
 
-**Location:** Unknown, SC
+**Location:** Columbia, SC
 
 **EPA Facility ID:** 100000019151
 

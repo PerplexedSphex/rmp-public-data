@@ -1,6 +1,6 @@
-# Unknown
+# Pequannock Water Treatment Plant
 
-**Location:** Unknown, NJ
+**Location:** West Milford, NJ
 
 **EPA Facility ID:** 100000111666
 

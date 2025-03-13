@@ -1,6 +1,6 @@
-# Unknown
+# Hwy 30 Treating Facility
 
-**Location:** Unknown, ID
+**Location:** New Plymouth, ID
 
 **EPA Facility ID:** 100000229754
 

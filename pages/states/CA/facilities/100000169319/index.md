@@ -1,6 +1,6 @@
-# Unknown
+# Hronis, Inc.
 
-**Location:** Unknown, CA
+**Location:** Delano, CA
 
 **EPA Facility ID:** 100000169319
 

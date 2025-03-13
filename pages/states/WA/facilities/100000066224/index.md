@@ -1,6 +1,6 @@
-# Unknown
+# National Frozen Foods Corporation
 
-**Location:** Unknown, WA
+**Location:** Chehalis, WA
 
 **EPA Facility ID:** 100000066224
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Bend Wastewater Control Plant
 
-**Location:** Unknown, OR
+**Location:** Bend, OR
 
 **EPA Facility ID:** 100000113717
 

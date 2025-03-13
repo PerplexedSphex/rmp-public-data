@@ -1,6 +1,6 @@
-# Unknown
+# Safeway Spokane Distribution Center
 
-**Location:** Unknown, WA
+**Location:** Spokane, WA
 
 **EPA Facility ID:** 100000246441
 

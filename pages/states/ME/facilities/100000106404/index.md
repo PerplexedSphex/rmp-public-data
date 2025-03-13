@@ -1,6 +1,6 @@
-# Unknown
+# Lake Auburn Intake Facility
 
-**Location:** Unknown, ME
+**Location:** Auburn, ME
 
 **EPA Facility ID:** 100000106404
 

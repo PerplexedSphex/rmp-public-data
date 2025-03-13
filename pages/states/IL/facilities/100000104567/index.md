@@ -1,6 +1,6 @@
-# Unknown
+# East Dubuque Nitrogen Fertilizers, LLC
 
-**Location:** Unknown, IL
+**Location:** East Dubuque, IL
 
 **EPA Facility ID:** 100000104567
 

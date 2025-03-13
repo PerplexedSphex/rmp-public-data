@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South, Inc.
 
-**Location:** Unknown, OH
+**Location:** Hebron, OH
 
 **EPA Facility ID:** 100000188502
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mid-County Coop
 
-**Location:** Unknown, MN
+**Location:** Cologne, MN
 
 **EPA Facility ID:** 100000081298
 

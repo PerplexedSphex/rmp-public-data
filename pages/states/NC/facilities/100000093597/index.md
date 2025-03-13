@@ -1,6 +1,6 @@
-# Unknown
+# LAKE RHODHISS WATER TREATMENT FACILITY
 
-**Location:** Unknown, NC
+**Location:** GRANITE FALLS, NC
 
 **EPA Facility ID:** 100000093597
 

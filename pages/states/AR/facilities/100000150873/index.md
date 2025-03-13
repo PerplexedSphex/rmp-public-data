@@ -1,6 +1,6 @@
-# Unknown
+# Russellville Pollution Control Works
 
-**Location:** Unknown, AR
+**Location:** Russellville, AR
 
 **EPA Facility ID:** 100000150873
 

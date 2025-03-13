@@ -1,6 +1,6 @@
-# Unknown
+# Keota Gas & LNG Plant
 
-**Location:** Unknown, CO
+**Location:** Briggsdale, CO
 
 **EPA Facility ID:** 100000229674
 

@@ -1,6 +1,6 @@
-# Unknown
+# Amboy of Michigan L.L.C.
 
-**Location:** Unknown, MI
+**Location:** Benton Harbor, MI
 
 **EPA Facility ID:** 100000145381
 

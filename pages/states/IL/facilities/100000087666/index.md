@@ -1,6 +1,6 @@
-# Unknown
+# GRAINCO FS - DWIGHT
 
-**Location:** Unknown, IL
+**Location:** DWIGHT, IL
 
 **EPA Facility ID:** 100000087666
 

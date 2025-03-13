@@ -1,6 +1,6 @@
-# Unknown
+# Town of Somerset Water Treatment Facility
 
-**Location:** Unknown, MA
+**Location:** Somerset, MA
 
 **EPA Facility ID:** 100000047184
 

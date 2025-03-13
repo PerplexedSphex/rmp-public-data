@@ -1,6 +1,6 @@
-# Unknown
+# Batesville Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Batesville, AR
 
 **EPA Facility ID:** 100000124046
 

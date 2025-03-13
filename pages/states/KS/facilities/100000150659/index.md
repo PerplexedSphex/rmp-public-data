@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - North Plant
 
-**Location:** Unknown, KS
+**Location:** Tribune, KS
 
 **EPA Facility ID:** 100000150659
 

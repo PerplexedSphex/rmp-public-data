@@ -1,6 +1,6 @@
-# Unknown
+# Haliburton International Foods
 
-**Location:** Unknown, CA
+**Location:** Ontario, CA
 
 **EPA Facility ID:** 100000225124
 

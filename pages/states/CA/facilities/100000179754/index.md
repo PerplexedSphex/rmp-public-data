@@ -1,6 +1,6 @@
-# Unknown
+# Grand Terrace Chlorination Station
 
-**Location:** Unknown, CA
+**Location:** Grand Terrace, CA
 
 **EPA Facility ID:** 100000179754
 

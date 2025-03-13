@@ -1,6 +1,6 @@
-# Unknown
+# Alan R. Thomas Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Edgewater, FL
 
 **EPA Facility ID:** 100000145602
 

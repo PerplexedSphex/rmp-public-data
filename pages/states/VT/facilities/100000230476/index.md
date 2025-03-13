@@ -1,6 +1,6 @@
-# Unknown
+# Summit Siding
 
-**Location:** Unknown, VT
+**Location:** Mount Holly, VT
 
 **EPA Facility ID:** 100000230476
 

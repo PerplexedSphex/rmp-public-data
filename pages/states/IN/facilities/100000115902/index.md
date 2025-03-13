@@ -1,6 +1,6 @@
-# Unknown
+# Bainbridge, IN
 
-**Location:** Unknown, IN
+**Location:** Bainbridge, IN
 
 **EPA Facility ID:** 100000115902
 

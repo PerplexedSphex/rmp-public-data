@@ -1,6 +1,6 @@
-# Unknown
+# Sofo Foods of Ohio, LLC
 
-**Location:** Unknown, OH
+**Location:** Toledo, OH
 
 **EPA Facility ID:** 100000184935
 

@@ -1,6 +1,6 @@
-# Unknown
+# Enterprise Gilmore Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Edinburg, TX
 
 **EPA Facility ID:** 100000078729
 

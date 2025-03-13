@@ -1,6 +1,6 @@
-# Unknown
+# Oneida County Water Pollution Control Plant
 
-**Location:** Unknown, NY
+**Location:** Utica, NY
 
 **EPA Facility ID:** 100000113691
 

@@ -1,6 +1,6 @@
-# Unknown
+# Trimble County Station
 
-**Location:** Unknown, KY
+**Location:** Bedford, KY
 
 **EPA Facility ID:** 100000178434
 

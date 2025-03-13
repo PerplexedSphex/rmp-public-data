@@ -1,6 +1,6 @@
-# Unknown
+# Lake Charles Fractionation Plant
 
-**Location:** Unknown, LA
+**Location:** Sulphur, LA
 
 **EPA Facility ID:** 100000062692
 

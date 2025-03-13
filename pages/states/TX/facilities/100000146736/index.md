@@ -1,6 +1,6 @@
-# Unknown
+# Lyondell Chemical Company - Channelview Operations
 
-**Location:** Unknown, TX
+**Location:** Channelview, TX
 
 **EPA Facility ID:** 100000146736
 

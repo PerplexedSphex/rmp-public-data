@@ -1,6 +1,6 @@
-# Unknown
+# Georgia-Pacific West, Inc.
 
-**Location:** Unknown, WA
+**Location:** Bellingham, WA
 
 **EPA Facility ID:** 100000128024
 

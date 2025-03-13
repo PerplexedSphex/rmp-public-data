@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc - Shipman Pocahontas
 
-**Location:** Unknown, IL
+**Location:** Pocahontas, IL
 
 **EPA Facility ID:** 100000214779
 

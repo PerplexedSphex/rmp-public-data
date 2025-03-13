@@ -1,6 +1,6 @@
-# Unknown
+# Lloyd W. Michael Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Etiwanda, CA
 
 **EPA Facility ID:** 100000056084
 

@@ -1,6 +1,6 @@
-# Unknown
+# Canton Northwest Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Canton, OH
 
 **EPA Facility ID:** 100000140849
 

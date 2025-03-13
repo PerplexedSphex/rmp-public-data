@@ -1,6 +1,6 @@
-# Unknown
+# Dove Creek Gas Plant
 
-**Location:** Unknown, CO
+**Location:** Dove Creek, CO
 
 **EPA Facility ID:** 100000146228
 

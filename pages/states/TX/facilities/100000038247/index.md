@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Southwest, Inc.  Dallas
 
-**Location:** Unknown, TX
+**Location:** Dallas, TX
 
 **EPA Facility ID:** 100000038247
 

@@ -1,6 +1,6 @@
-# Unknown
+# Occidental Chemical Corp. - Pottstown Plant
 
-**Location:** Unknown, PA
+**Location:** Pottstown, PA
 
 **EPA Facility ID:** 100000091697
 

@@ -1,6 +1,6 @@
-# Unknown
+# Braskem America, Inc.  Neal Plant
 
-**Location:** Unknown, WV
+**Location:** Kenova, WV
 
 **EPA Facility ID:** 100000068062
 

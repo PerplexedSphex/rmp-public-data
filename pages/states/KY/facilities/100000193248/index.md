@@ -1,6 +1,6 @@
-# Unknown
+# Gordon Food Service - Shepherdsvile KY
 
-**Location:** Unknown, KY
+**Location:** Shepherdsville, KY
 
 **EPA Facility ID:** 100000193248
 

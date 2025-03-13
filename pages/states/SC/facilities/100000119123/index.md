@@ -1,6 +1,6 @@
-# Unknown
+# Royal Adhesives & Sealants, LLC
 
-**Location:** Unknown, SC
+**Location:** Simpsonville, SC
 
 **EPA Facility ID:** 100000119123
 

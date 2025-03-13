@@ -1,6 +1,6 @@
-# Unknown
+# Central Coal and Coke No. 1 Tank Battery
 
-**Location:** Unknown, TX
+**Location:** Cold Springs, TX
 
 **EPA Facility ID:** 100000126598
 

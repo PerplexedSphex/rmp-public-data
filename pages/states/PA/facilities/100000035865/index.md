@@ -1,6 +1,6 @@
-# Unknown
+# Fresh Express Harrisburg
 
-**Location:** Unknown, PA
+**Location:** Harrisburg, PA
 
 **EPA Facility ID:** 100000035865
 

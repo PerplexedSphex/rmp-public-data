@@ -1,6 +1,6 @@
-# Unknown
+# Greenwood Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Midland, TX
 
 **EPA Facility ID:** 100000251899
 

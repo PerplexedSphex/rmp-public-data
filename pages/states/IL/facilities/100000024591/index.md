@@ -1,6 +1,6 @@
-# Unknown
+# Gold Star FS, Inc., New Boston Plant
 
-**Location:** Unknown, IL
+**Location:** New Boston, IL
 
 **EPA Facility ID:** 100000024591
 

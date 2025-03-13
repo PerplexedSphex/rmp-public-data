@@ -1,6 +1,6 @@
-# Unknown
+# City Of Coalinga WTP
 
-**Location:** Unknown, CA
+**Location:** Coalinga, CA
 
 **EPA Facility ID:** 100000243275
 

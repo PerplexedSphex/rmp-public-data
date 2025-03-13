@@ -1,6 +1,6 @@
-# Unknown
+# IPI North East, Inc.
 
-**Location:** Unknown, MD
+**Location:** Elkton, MD
 
 **EPA Facility ID:** 100000122413
 

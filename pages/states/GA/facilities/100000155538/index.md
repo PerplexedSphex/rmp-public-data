@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Facility
 
-**Location:** Unknown, GA
+**Location:** Toccoa, GA
 
 **EPA Facility ID:** 100000155538
 

@@ -1,6 +1,6 @@
-# Unknown
+# Green Bay Dressed Beef, LLC
 
-**Location:** Unknown, WI
+**Location:** Green Bay, WI
 
 **EPA Facility ID:** 100000052863
 

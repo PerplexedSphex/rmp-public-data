@@ -1,6 +1,6 @@
-# Unknown
+# V.D. Parrott Jr. Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Dalton, GA
 
 **EPA Facility ID:** 100000098048
 

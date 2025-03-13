@@ -1,6 +1,6 @@
-# Unknown
+# East Texas Plant
 
-**Location:** Unknown, TX
+**Location:** Longview, TX
 
 **EPA Facility ID:** 100000063272
 

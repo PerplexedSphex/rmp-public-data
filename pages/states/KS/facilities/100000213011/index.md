@@ -1,6 +1,6 @@
-# Unknown
+# Kanza Cooperative Association - Iuka Plant
 
-**Location:** Unknown, KS
+**Location:** Iuka, KS
 
 **EPA Facility ID:** 100000213011
 

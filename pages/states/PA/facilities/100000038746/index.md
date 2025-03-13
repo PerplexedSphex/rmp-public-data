@@ -1,6 +1,6 @@
-# Unknown
+# Greater Greensburg Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Greensburg, PA
 
 **EPA Facility ID:** 100000038746
 

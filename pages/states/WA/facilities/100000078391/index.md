@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company (Oakesdale, WA)
 
-**Location:** Unknown, WA
+**Location:** Oakesdale, WA
 
 **EPA Facility ID:** 100000078391
 

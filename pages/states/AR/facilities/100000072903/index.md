@@ -1,6 +1,6 @@
-# Unknown
+# CWL-East Side Wastewater Treatment Facility
 
-**Location:** Unknown, AR
+**Location:** Jonesboro, AR
 
 **EPA Facility ID:** 100000072903
 

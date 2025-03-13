@@ -1,6 +1,6 @@
-# Unknown
+# Ajinomoto Foods North America, Inc.
 
-**Location:** Unknown, OR
+**Location:** Portland, OR
 
 **EPA Facility ID:** 100000171155
 

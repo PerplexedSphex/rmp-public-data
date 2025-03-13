@@ -1,6 +1,6 @@
-# Unknown
+# Waste Water Treatment Plant, West
 
-**Location:** Unknown, KY
+**Location:** Owensboro, KY
 
 **EPA Facility ID:** 100000130734
 

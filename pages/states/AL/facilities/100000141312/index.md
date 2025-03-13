@@ -1,6 +1,6 @@
-# Unknown
+# Sunset Water Treatment Facility
 
-**Location:** Unknown, AL
+**Location:** Guntersville, AL
 
 **EPA Facility ID:** 100000141312
 

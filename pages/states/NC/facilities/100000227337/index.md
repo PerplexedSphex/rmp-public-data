@@ -1,6 +1,6 @@
-# Unknown
+# Coatings and Adhesives Corporation
 
-**Location:** Unknown, NC
+**Location:** Leland, NC
 
 **EPA Facility ID:** 100000227337
 

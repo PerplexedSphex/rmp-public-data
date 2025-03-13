@@ -1,6 +1,6 @@
-# Unknown
+# Witty Adkins Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Six Mile, SC
 
 **EPA Facility ID:** 100000036141
 

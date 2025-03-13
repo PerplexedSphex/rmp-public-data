@@ -1,6 +1,6 @@
-# Unknown
+# Yuba City Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Yuba City, CA
 
 **EPA Facility ID:** 100000140171
 

@@ -1,6 +1,6 @@
-# Unknown
+# Western Farm Service, Latah
 
-**Location:** Unknown, WA
+**Location:** Latah, WA
 
 **EPA Facility ID:** 100000028169
 

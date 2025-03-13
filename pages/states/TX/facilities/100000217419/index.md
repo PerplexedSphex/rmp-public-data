@@ -1,6 +1,6 @@
-# Unknown
+# Rothermel Conditioning Plant
 
-**Location:** Unknown, TX
+**Location:** Groesbeck, TX
 
 **EPA Facility ID:** 100000217419
 

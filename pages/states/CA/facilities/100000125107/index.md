@@ -1,6 +1,6 @@
-# Unknown
+# Pacific-Ultrapower Chinese Station
 
-**Location:** Unknown, CA
+**Location:** Jamestown, CA
 
 **EPA Facility ID:** 100000125107
 

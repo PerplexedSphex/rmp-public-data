@@ -1,6 +1,6 @@
-# Unknown
+# Prinsburg Farmers Coop - Clara City Location
 
-**Location:** Unknown, MN
+**Location:** Clara City, MN
 
 **EPA Facility ID:** 100000019776
 

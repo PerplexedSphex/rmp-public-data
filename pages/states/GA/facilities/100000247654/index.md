@@ -1,6 +1,6 @@
-# Unknown
+# PPG Architectural Finishes, Inc
 
-**Location:** Unknown, GA
+**Location:** Oakwood, GA
 
 **EPA Facility ID:** 100000247654
 

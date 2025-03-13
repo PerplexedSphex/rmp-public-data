@@ -1,6 +1,6 @@
-# Unknown
+# Dumas Coop-Middlewell, TX
 
-**Location:** Unknown, TX
+**Location:** Middlewell, TX
 
 **EPA Facility ID:** 100000036953
 

@@ -1,6 +1,6 @@
-# Unknown
+# HUSKER COOP          DUNCAN BRANCH
 
-**Location:** Unknown, NE
+**Location:** DUNCAN, NE
 
 **EPA Facility ID:** 100000138665
 

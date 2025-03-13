@@ -1,6 +1,6 @@
-# Unknown
+# Rialto Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Bloomington, CA
 
 **EPA Facility ID:** 100000144658
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mitchell Plant
 
-**Location:** Unknown, WV
+**Location:** Moundsville, WV
 
 **EPA Facility ID:** 100000186149
 

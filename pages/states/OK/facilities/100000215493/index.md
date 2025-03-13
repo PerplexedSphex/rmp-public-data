@@ -1,6 +1,6 @@
-# Unknown
+# Osage Gray Horse Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Fairfax, OK
 
 **EPA Facility ID:** 100000215493
 

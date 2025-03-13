@@ -1,6 +1,6 @@
-# Unknown
+# Henry County Water Company Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Clinton, MO
 
 **EPA Facility ID:** 100000045854
 

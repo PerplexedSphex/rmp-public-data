@@ -1,6 +1,6 @@
-# Unknown
+# Finley Farmers Grain & Elevator Co.
 
-**Location:** Unknown, ND
+**Location:** Cooperstown, ND
 
 **EPA Facility ID:** 100000248662
 

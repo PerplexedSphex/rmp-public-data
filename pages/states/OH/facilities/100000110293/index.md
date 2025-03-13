@@ -1,6 +1,6 @@
-# Unknown
+# Willoughby Quartz Plant
 
-**Location:** Unknown, OH
+**Location:** Willoughby, OH
 
 **EPA Facility ID:** 100000110293
 

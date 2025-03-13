@@ -1,6 +1,6 @@
-# Unknown
+# Brittany Drive WTP
 
-**Location:** Unknown, GA
+**Location:** Calhoun, GA
 
 **EPA Facility ID:** 100000228354
 

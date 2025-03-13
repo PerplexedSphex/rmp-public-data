@@ -1,6 +1,6 @@
-# Unknown
+# City of Coon Rapids Water Treatment Plant - West
 
-**Location:** Unknown, MN
+**Location:** Coon Rapids, MN
 
 **EPA Facility ID:** 100000162263
 

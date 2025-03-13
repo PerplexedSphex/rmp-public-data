@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Ceresco
 
-**Location:** Unknown, NE
+**Location:** Ceresco, NE
 
 **EPA Facility ID:** 100000139067
 

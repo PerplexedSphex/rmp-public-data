@@ -1,6 +1,6 @@
-# Unknown
+# Garden City, KS 675
 
-**Location:** Unknown, KS
+**Location:** Garden City, KS
 
 **EPA Facility ID:** 100000039139
 

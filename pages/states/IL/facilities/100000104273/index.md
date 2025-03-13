@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Great Lakes, LLC - Chicago
 
-**Location:** Unknown, IL
+**Location:** Stickney Township, IL
 
 **EPA Facility ID:** 100000104273
 

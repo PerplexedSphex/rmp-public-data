@@ -1,6 +1,6 @@
-# Unknown
+# SAVOLT LOCATION
 
-**Location:** Unknown, KS
+**Location:** FRIEND, KS
 
 **EPA Facility ID:** 100000039246
 

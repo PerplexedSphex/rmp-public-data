@@ -1,6 +1,6 @@
-# Unknown
+# Hugoton Harmony Plant
 
-**Location:** Unknown, KS
+**Location:** Hugoton, KS
 
 **EPA Facility ID:** 100000034287
 

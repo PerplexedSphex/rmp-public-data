@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Milnor NH3 Plant
 
-**Location:** Unknown, ND
+**Location:** Milnor, ND
 
 **EPA Facility ID:** 100000021914
 

@@ -1,6 +1,6 @@
-# Unknown
+# Medina County - Liverpool WWTP (SD #500)
 
-**Location:** Unknown, OH
+**Location:** Valley City, OH
 
 **EPA Facility ID:** 100000007226
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Pine City
 
-**Location:** Unknown, WA
+**Location:** ST. JOHN, WA
 
 **EPA Facility ID:** 100000029756
 

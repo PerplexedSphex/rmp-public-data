@@ -1,6 +1,6 @@
-# Unknown
+# Lawton Valley Water Plant
 
-**Location:** Unknown, RI
+**Location:** Portsmouth, RI
 
 **EPA Facility ID:** 100000077702
 

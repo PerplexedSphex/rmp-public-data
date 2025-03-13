@@ -1,6 +1,6 @@
-# Unknown
+# James A. Loughlin Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Wilmington, NC
 
 **EPA Facility ID:** 100000016396
 

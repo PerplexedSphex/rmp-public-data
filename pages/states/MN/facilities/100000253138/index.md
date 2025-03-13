@@ -1,6 +1,6 @@
-# Unknown
+# Ash Grove Renewable Energy
 
-**Location:** Unknown, MN
+**Location:** Lake Benton, MN
 
 **EPA Facility ID:** 100000253138
 

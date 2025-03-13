@@ -1,6 +1,6 @@
-# Unknown
+# Edwardsport, IN
 
-**Location:** Unknown, IN
+**Location:** Edwardsport, IN
 
 **EPA Facility ID:** 100000178489
 

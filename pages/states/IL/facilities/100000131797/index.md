@@ -1,6 +1,6 @@
-# Unknown
+# Garfield Stier Co.
 
-**Location:** Unknown, IL
+**Location:** Sheffield, IL
 
 **EPA Facility ID:** 100000131797
 

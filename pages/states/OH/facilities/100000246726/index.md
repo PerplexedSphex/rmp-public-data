@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Bellevue, OH
 
-**Location:** Unknown, OH
+**Location:** Bellevue, OH
 
 **EPA Facility ID:** 100000246726
 

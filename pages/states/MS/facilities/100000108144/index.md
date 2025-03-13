@@ -1,6 +1,6 @@
-# Unknown
+# Pursue Energy Corporation - Thomasville Plant
 
-**Location:** Unknown, MS
+**Location:** Brandon, MS
 
 **EPA Facility ID:** 100000108144
 

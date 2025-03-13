@@ -1,6 +1,6 @@
-# Unknown
+# Dorrance NH3 Plant
 
-**Location:** Unknown, KS
+**Location:** Dorrance, KS
 
 **EPA Facility ID:** 100000145675
 

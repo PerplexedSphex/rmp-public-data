@@ -1,6 +1,6 @@
-# Unknown
+# EC Phillips and Son Inc., Ketchikan
 
-**Location:** Unknown, AK
+**Location:** Ketchikan, AK
 
 **EPA Facility ID:** 100000035678
 

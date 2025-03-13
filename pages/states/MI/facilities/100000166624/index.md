@@ -1,6 +1,6 @@
-# Unknown
+# Lindberg Heat Treating Company
 
-**Location:** Unknown, MI
+**Location:** Lansing, MI
 
 **EPA Facility ID:** 100000166624
 

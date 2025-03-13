@@ -1,6 +1,6 @@
-# Unknown
+# City of Kannapolis Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Kannapolis, NC
 
 **EPA Facility ID:** 100000045015
 

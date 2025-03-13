@@ -1,6 +1,6 @@
-# Unknown
+# Tanner Industries, Inc.
 
-**Location:** Unknown, IN
+**Location:** Liberty, IN
 
 **EPA Facility ID:** 100000200748
 

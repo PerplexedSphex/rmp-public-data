@@ -1,6 +1,6 @@
-# Unknown
+# Gold-Eagle Cooperative-Thor
 
-**Location:** Unknown, IA
+**Location:** Thor, IA
 
 **EPA Facility ID:** 100000089003
 

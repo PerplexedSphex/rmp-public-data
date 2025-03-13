@@ -1,6 +1,6 @@
-# Unknown
+# Westlake Natrium LLC
 
-**Location:** Unknown, WV
+**Location:** Proctor, WV
 
 **EPA Facility ID:** 100000073868
 

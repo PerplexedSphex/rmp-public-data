@@ -1,6 +1,6 @@
-# Unknown
+# EASTSIDE UTILITY WATER TREATMENT PLANT (WTP)
 
-**Location:** Unknown, TN
+**Location:** CHATTANOOGA, TN
 
 **EPA Facility ID:** 100000133312
 

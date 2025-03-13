@@ -1,6 +1,6 @@
-# Unknown
+# Agriliance LLC - Idalia
 
-**Location:** Unknown, CO
+**Location:** Idalia, CO
 
 **EPA Facility ID:** 100000197823
 

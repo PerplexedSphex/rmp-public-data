@@ -1,6 +1,6 @@
-# Unknown
+# Trident Seafoods Corporation-Star of Kodiak Plant
 
-**Location:** Unknown, AK
+**Location:** Kodiak, AK
 
 **EPA Facility ID:** 100000052747
 

@@ -1,6 +1,6 @@
-# Unknown
+# Brush Creek Waste Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Johnson City, TN
 
 **EPA Facility ID:** 100000071209
 

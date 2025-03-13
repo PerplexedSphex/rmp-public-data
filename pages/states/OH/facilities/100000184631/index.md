@@ -1,6 +1,6 @@
-# Unknown
+# FirstEnergy Generation Corp.
 
-**Location:** Unknown, OH
+**Location:** Shadyside, OH
 
 **EPA Facility ID:** 100000184631
 

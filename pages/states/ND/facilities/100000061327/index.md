@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Coteau
 
-**Location:** Unknown, ND
+**Location:** Coteau, ND
 
 **EPA Facility ID:** 100000061327
 

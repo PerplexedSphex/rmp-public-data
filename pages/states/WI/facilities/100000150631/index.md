@@ -1,6 +1,6 @@
-# Unknown
+# Sparta NH3 Plant
 
-**Location:** Unknown, WI
+**Location:** Sparta, WI
 
 **EPA Facility ID:** 100000150631
 

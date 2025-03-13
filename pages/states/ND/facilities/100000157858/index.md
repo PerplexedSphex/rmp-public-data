@@ -1,6 +1,6 @@
-# Unknown
+# NORTHWOOD EQUITY ELEVATOR
 
-**Location:** Unknown, ND
+**Location:** NORTHWOOD, ND
 
 **EPA Facility ID:** 100000157858
 

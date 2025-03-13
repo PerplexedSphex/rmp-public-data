@@ -1,6 +1,6 @@
-# Unknown
+# Service Gas Inc.
 
-**Location:** Unknown, IL
+**Location:** Dekalb, IL
 
 **EPA Facility ID:** 100000011952
 

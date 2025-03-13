@@ -1,6 +1,6 @@
-# Unknown
+# Greenwood Lake WTP
 
-**Location:** Unknown, FL
+**Location:** Lake Mary, FL
 
 **EPA Facility ID:** 100000089913
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Delaware Ohio Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Delaware, OH
 
 **EPA Facility ID:** 100000045097
 

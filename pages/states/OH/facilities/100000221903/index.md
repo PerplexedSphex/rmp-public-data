@@ -1,6 +1,6 @@
-# Unknown
+# Paulding, OH Satellite
 
-**Location:** Unknown, OH
+**Location:** Paulding, OH
 
 **EPA Facility ID:** 100000221903
 

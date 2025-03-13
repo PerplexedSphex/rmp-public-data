@@ -1,6 +1,6 @@
-# Unknown
+# Dow Chemical, Hanging Rock Ohio Facility
 
-**Location:** Unknown, OH
+**Location:** Ironton, OH
 
 **EPA Facility ID:** 100000063058
 

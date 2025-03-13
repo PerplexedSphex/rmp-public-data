@@ -1,6 +1,6 @@
-# Unknown
+# INEOS Oligomers a division of INEOS USA LLC
 
-**Location:** Unknown, IN
+**Location:** Whiting, IN
 
 **EPA Facility ID:** 100000105691
 

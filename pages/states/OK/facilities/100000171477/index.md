@@ -1,6 +1,6 @@
-# Unknown
+# Duncan Water Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Duncan, OK
 
 **EPA Facility ID:** 100000171477
 

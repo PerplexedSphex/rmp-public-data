@@ -1,6 +1,6 @@
-# Unknown
+# Dillman Waste Water Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** Bloomington, IN
 
 **EPA Facility ID:** 100000078248
 

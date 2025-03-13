@@ -1,6 +1,6 @@
-# Unknown
+# Northern Country Cooperative Company (Adams)
 
-**Location:** Unknown, MN
+**Location:** Adams, MN
 
 **EPA Facility ID:** 100000084428
 

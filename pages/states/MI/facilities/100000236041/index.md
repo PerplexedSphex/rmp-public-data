@@ -1,6 +1,6 @@
-# Unknown
+# Genesee County Water Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Columbiaville, MI
 
 **EPA Facility ID:** 100000236041
 

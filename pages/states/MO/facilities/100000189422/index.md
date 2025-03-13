@@ -1,6 +1,6 @@
-# Unknown
+# Baring Farm Service Inc
 
-**Location:** Unknown, MO
+**Location:** Baring, MO
 
 **EPA Facility ID:** 100000189422
 

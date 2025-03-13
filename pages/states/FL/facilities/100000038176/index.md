@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packing Company, Inc - Plant City
 
-**Location:** Unknown, FL
+**Location:** Plant City, FL
 
 **EPA Facility ID:** 100000038176
 

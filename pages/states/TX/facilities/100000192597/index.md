@@ -1,6 +1,6 @@
-# Unknown
+# Tyler County Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Doucette, TX
 
 **EPA Facility ID:** 100000192597
 

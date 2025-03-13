@@ -1,6 +1,6 @@
-# Unknown
+# Rio Farms Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Hargill, TX
 
 **EPA Facility ID:** 100000198788
 

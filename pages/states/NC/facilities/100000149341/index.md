@@ -1,6 +1,6 @@
-# Unknown
+# Lincoln County Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Denver, NC
 
 **EPA Facility ID:** 100000149341
 

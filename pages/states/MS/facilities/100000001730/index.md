@@ -1,6 +1,6 @@
-# Unknown
+# Gautier Regional Wastewater Treatment Facility
 
-**Location:** Unknown, MS
+**Location:** Gautier, MS
 
 **EPA Facility ID:** 100000001730
 

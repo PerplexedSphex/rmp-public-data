@@ -1,6 +1,6 @@
-# Unknown
+# Hardin, KY 662
 
-**Location:** Unknown, KY
+**Location:** Hardin, KY
 
 **EPA Facility ID:** 100000130547
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wallace County Coop - Sharon Springs
 
-**Location:** Unknown, KS
+**Location:** Sharon Springs, KS
 
 **EPA Facility ID:** 100000008788
 

@@ -1,6 +1,6 @@
-# Unknown
+# Upham Chico Compression Facility
 
-**Location:** Unknown, TX
+**Location:** Chico, TX
 
 **EPA Facility ID:** 100000008083
 

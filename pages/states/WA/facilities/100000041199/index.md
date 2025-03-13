@@ -1,6 +1,6 @@
-# Unknown
+# City of Walla Walla Wastewater Treatment Facility
 
-**Location:** Unknown, WA
+**Location:** Walla Walla, WA
 
 **EPA Facility ID:** 100000041199
 

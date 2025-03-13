@@ -1,6 +1,6 @@
-# Unknown
+# L'Oreal USA Inc.
 
-**Location:** Unknown, NJ
+**Location:** Monmouth Junction, NJ
 
 **EPA Facility ID:** 100000222779
 

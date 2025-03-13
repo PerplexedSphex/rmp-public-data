@@ -1,6 +1,6 @@
-# Unknown
+# Hain Celestial Group
 
-**Location:** Unknown, PA
+**Location:** West Chester, PA
 
 **EPA Facility ID:** 100000044908
 

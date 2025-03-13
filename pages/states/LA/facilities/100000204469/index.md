@@ -1,6 +1,6 @@
-# Unknown
+# Harvest Midstream - Kaplan Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Abbeville, LA
 
 **EPA Facility ID:** 100000204469
 

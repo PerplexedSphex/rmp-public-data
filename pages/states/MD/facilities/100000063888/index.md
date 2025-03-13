@@ -1,6 +1,6 @@
-# Unknown
+# Ashland Inc.
 
-**Location:** Unknown, MD
+**Location:** Elkton, MD
 
 **EPA Facility ID:** 100000063888
 

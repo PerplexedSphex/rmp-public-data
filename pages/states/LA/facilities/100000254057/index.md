@@ -1,6 +1,6 @@
-# Unknown
+# Entergy Lake Charles Power Station
 
-**Location:** Unknown, LA
+**Location:** Westlake, LA
 
 **EPA Facility ID:** 100000254057
 

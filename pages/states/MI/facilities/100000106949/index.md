@@ -1,6 +1,6 @@
-# Unknown
+# City of Benton Harbor Water Plant
 
-**Location:** Unknown, MI
+**Location:** St. Joseph, MI
 
 **EPA Facility ID:** 100000106949
 

@@ -1,6 +1,6 @@
-# Unknown
+# Tuscorora Geothermal
 
-**Location:** Unknown, NV
+**Location:** Tuscorora, NV
 
 **EPA Facility ID:** 100000216198
 

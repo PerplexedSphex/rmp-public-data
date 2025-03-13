@@ -1,6 +1,6 @@
-# Unknown
+# Harrison Waste Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Harrison, AR
 
 **EPA Facility ID:** 100000127944
 

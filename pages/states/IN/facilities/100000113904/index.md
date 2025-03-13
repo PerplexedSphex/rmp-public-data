@@ -1,6 +1,6 @@
-# Unknown
+# Midland Co-op, Spencer Plant
 
-**Location:** Unknown, IN
+**Location:** Spencer, IN
 
 **EPA Facility ID:** 100000113904
 

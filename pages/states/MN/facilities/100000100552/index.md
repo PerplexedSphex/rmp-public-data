@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Crookston
 
-**Location:** Unknown, MN
+**Location:** Crookston, MN
 
 **EPA Facility ID:** 100000100552
 

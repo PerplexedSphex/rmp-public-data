@@ -1,6 +1,6 @@
-# Unknown
+# City of Olean Wastewater Treatment Facility
 
-**Location:** Unknown, NY
+**Location:** Olean, NY
 
 **EPA Facility ID:** 100000160372
 

@@ -1,6 +1,6 @@
-# Unknown
+# Elkem Metals Company, LP, Ashtabula, Ohio Facility
 
-**Location:** Unknown, OH
+**Location:** Ashtabula, OH
 
 **EPA Facility ID:** 100000096736
 

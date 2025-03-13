@@ -1,6 +1,6 @@
-# Unknown
+# Chicago Recycle Center
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000141072
 

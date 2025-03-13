@@ -1,6 +1,6 @@
-# Unknown
+# KANZA COOP-COATS
 
-**Location:** Unknown, KS
+**Location:** COATS, KS
 
 **EPA Facility ID:** 100000015128
 

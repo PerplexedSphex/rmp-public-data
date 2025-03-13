@@ -1,6 +1,6 @@
-# Unknown
+# Lee S. Dukes Jr. Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Huntersville, NC
 
 **EPA Facility ID:** 100000062601
 

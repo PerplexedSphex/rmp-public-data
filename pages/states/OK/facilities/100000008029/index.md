@@ -1,6 +1,6 @@
-# Unknown
+# Dacoma Farmers Cooperative, Inc.
 
-**Location:** Unknown, OK
+**Location:** Freedom, OK
 
 **EPA Facility ID:** 100000008029
 

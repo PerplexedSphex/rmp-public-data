@@ -1,6 +1,6 @@
-# Unknown
+# Sorrento Lactalis, Inc.
 
-**Location:** Unknown, NY
+**Location:** Buffalo, NY
 
 **EPA Facility ID:** 100000120246
 

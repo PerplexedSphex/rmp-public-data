@@ -1,6 +1,6 @@
-# Unknown
+# Milliken Chemical - Dewey Plant
 
-**Location:** Unknown, SC
+**Location:** Inman, SC
 
 **EPA Facility ID:** 100000089361
 

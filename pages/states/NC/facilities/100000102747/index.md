@@ -1,6 +1,6 @@
-# Unknown
+# Corning Incorporated, Wilmington Facility
 
-**Location:** Unknown, NC
+**Location:** Wilmington, NC
 
 **EPA Facility ID:** 100000102747
 

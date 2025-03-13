@@ -1,6 +1,6 @@
-# Unknown
+# Advanced Leisure Services, Inc. DBA Pool Chlor
 
-**Location:** Unknown, TX
+**Location:** Garland, TX
 
 **EPA Facility ID:** 100000132947
 

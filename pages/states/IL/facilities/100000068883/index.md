@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co. -Carmi
 
-**Location:** Unknown, IL
+**Location:** Carmi, IL
 
 **EPA Facility ID:** 100000068883
 

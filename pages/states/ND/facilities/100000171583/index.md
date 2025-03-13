@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - New England
 
-**Location:** Unknown, ND
+**Location:** New England, ND
 
 **EPA Facility ID:** 100000171583
 

@@ -1,6 +1,6 @@
-# Unknown
+# Harbor Cogeneration Company, LLC -Wilmington Plant
 
-**Location:** Unknown, CA
+**Location:** Wilmington, CA
 
 **EPA Facility ID:** 100000151088
 

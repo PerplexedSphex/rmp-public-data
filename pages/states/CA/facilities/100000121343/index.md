@@ -1,6 +1,6 @@
-# Unknown
+# Kingsburg Cogeneration Facility
 
-**Location:** Unknown, CA
+**Location:** Kingsburg, CA
 
 **EPA Facility ID:** 100000121343
 

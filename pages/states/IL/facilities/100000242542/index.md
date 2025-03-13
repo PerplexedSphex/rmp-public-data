@@ -1,6 +1,6 @@
-# Unknown
+# Taylorville Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Taylorville, IL
 
 **EPA Facility ID:** 100000242542
 

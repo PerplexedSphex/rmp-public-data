@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Taylor
 
-**Location:** Unknown, ND
+**Location:** Taylor, ND
 
 **EPA Facility ID:** 100000167614
 

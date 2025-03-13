@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc - Elgin
 
-**Location:** Unknown, ND
+**Location:** Elgin, ND
 
 **EPA Facility ID:** 100000160381
 

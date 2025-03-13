@@ -1,6 +1,6 @@
-# Unknown
+# Dorada Foods, LLC Reidsville
 
-**Location:** Unknown, NC
+**Location:** Reidsville, NC
 
 **EPA Facility ID:** 100000035302
 

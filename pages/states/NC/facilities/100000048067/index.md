@@ -1,6 +1,6 @@
-# Unknown
+# City of Eden, Robert A. Harris Water Plant
 
-**Location:** Unknown, NC
+**Location:** Eden, NC
 
 **EPA Facility ID:** 100000048067
 

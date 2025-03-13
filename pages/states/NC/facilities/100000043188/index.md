@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Fresh Meats Corp. - Clinton, NC
 
-**Location:** Unknown, NC
+**Location:** Clinton, NC
 
 **EPA Facility ID:** 100000043188
 

@@ -1,6 +1,6 @@
-# Unknown
+# RWRA East Wastewater Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Owensboro, KY
 
 **EPA Facility ID:** 100000130725
 

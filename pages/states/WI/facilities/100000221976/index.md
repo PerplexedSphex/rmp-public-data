@@ -1,6 +1,6 @@
-# Unknown
+# Laack Cold Storage
 
-**Location:** Unknown, WI
+**Location:** Fond Du Lac, WI
 
 **EPA Facility ID:** 100000221976
 

@@ -1,6 +1,6 @@
-# Unknown
+# Town of Lantana Water Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Lantana, FL
 
 **EPA Facility ID:** 100000170003
 

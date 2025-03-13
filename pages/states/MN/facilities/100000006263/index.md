@@ -1,6 +1,6 @@
-# Unknown
+# Schmitz Grain Inc.
 
-**Location:** Unknown, MN
+**Location:** Slayton, MN
 
 **EPA Facility ID:** 100000006263
 

@@ -1,6 +1,6 @@
-# Unknown
+# Kaiser Aluminum and Chemical Corporation
 
-**Location:** Unknown, OH
+**Location:** Heath, OH
 
 **EPA Facility ID:** 100000133704
 

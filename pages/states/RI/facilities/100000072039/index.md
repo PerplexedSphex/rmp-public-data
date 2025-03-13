@@ -1,6 +1,6 @@
-# Unknown
+# City of Newport Station 1 Water Plant
 
-**Location:** Unknown, RI
+**Location:** Newport, RI
 
 **EPA Facility ID:** 100000072039
 

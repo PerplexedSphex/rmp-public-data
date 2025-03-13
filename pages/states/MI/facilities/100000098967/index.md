@@ -1,6 +1,6 @@
-# Unknown
+# Pharmacia & Upjohn (P&U) - KAPI and EMU
 
-**Location:** Unknown, MI
+**Location:** Kalamazoo, MI
 
 **EPA Facility ID:** 100000098967
 

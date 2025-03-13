@@ -1,6 +1,6 @@
-# Unknown
+# Philip J. Holton Water Purification Works
 
-**Location:** Unknown, RI
+**Location:** Hope, RI
 
 **EPA Facility ID:** 100000032387
 

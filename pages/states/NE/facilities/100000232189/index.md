@@ -1,6 +1,6 @@
-# Unknown
+# Trotter Fertilizer
 
-**Location:** Unknown, NE
+**Location:** Merna, NE
 
 **EPA Facility ID:** 100000232189
 

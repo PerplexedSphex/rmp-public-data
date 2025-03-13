@@ -1,6 +1,6 @@
-# Unknown
+# Fairmount, IN Satellite
 
-**Location:** Unknown, IN
+**Location:** Fairmount, IN
 
 **EPA Facility ID:** 100000081573
 

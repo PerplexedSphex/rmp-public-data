@@ -1,6 +1,6 @@
-# Unknown
+# US Magnesium LLC
 
-**Location:** Unknown, UT
+**Location:** Rowley, UT
 
 **EPA Facility ID:** 100000146683
 

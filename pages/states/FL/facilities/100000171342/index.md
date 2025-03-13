@@ -1,6 +1,6 @@
-# Unknown
+# City of Sebring Wastewater Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Sebring, FL
 
 **EPA Facility ID:** 100000171342
 

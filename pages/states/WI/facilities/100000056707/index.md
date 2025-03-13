@@ -1,6 +1,6 @@
-# Unknown
+# I-K-I Manufacturing Company, Inc.
 
-**Location:** Unknown, WI
+**Location:** Edgerton, WI
 
 **EPA Facility ID:** 100000056707
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Bloomington Water Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Bloomington, MN
 
 **EPA Facility ID:** 100000191516
 

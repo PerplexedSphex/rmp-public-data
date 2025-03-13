@@ -1,6 +1,6 @@
-# Unknown
+# City of Billings Wastewater Treatment Plant
 
-**Location:** Unknown, MT
+**Location:** Billings, MT
 
 **EPA Facility ID:** 100000048806
 

@@ -1,6 +1,6 @@
-# Unknown
+# Genencor International Wisconsin, Inc.
 
-**Location:** Unknown, WI
+**Location:** Beloit, WI
 
 **EPA Facility ID:** 100000150123
 

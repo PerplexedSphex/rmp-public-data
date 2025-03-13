@@ -1,6 +1,6 @@
-# Unknown
+# The Somerset Refinery, Inc.
 
-**Location:** Unknown, KY
+**Location:** Somerset, KY
 
 **EPA Facility ID:** 100000167277
 

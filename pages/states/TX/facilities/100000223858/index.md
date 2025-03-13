@@ -1,6 +1,6 @@
-# Unknown
+# Southern Ionics, Incorporated - Pasadena Facility
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000223858
 

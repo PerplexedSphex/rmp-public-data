@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company LLC (Archbold, OH)
 
-**Location:** Unknown, OH
+**Location:** Fayette, OH
 
 **EPA Facility ID:** 100000169612
 

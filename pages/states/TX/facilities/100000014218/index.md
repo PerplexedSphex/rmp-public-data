@@ -1,6 +1,6 @@
-# Unknown
+# BALLINGER COOPERATIVE GIN
 
-**Location:** Unknown, TX
+**Location:** BALLINGER, TX
 
 **EPA Facility ID:** 100000014218
 

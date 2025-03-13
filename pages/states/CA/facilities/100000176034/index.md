@@ -1,6 +1,6 @@
-# Unknown
+# Los Medanos Energy Center
 
-**Location:** Unknown, CA
+**Location:** Pittsburg, CA
 
 **EPA Facility ID:** 100000176034
 

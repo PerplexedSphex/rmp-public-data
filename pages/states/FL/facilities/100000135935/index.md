@@ -1,6 +1,6 @@
-# Unknown
+# Edgewater Wastewater Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Edgewater, FL
 
 **EPA Facility ID:** 100000135935
 

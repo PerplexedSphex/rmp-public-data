@@ -1,6 +1,6 @@
-# Unknown
+# Big Stone Plant
 
-**Location:** Unknown, SD
+**Location:** Big Stone City, SD
 
 **EPA Facility ID:** 100000229479
 

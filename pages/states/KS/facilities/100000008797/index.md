@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Wallace
 
-**Location:** Unknown, KS
+**Location:** Wallace, KS
 
 **EPA Facility ID:** 100000008797
 

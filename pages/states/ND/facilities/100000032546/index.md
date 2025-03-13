@@ -1,6 +1,6 @@
-# Unknown
+# Legacy Cooperative - West Plant
 
-**Location:** Unknown, ND
+**Location:** Cando, ND
 
 **EPA Facility ID:** 100000032546
 

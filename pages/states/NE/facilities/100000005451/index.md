@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Wood River NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Wood River, NE
 
 **EPA Facility ID:** 100000005451
 

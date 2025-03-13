@@ -1,6 +1,6 @@
-# Unknown
+# DOT Foods, Inc. (Ardmore)
 
-**Location:** Unknown, OK
+**Location:** Ardmore, OK
 
 **EPA Facility ID:** 100000196174
 

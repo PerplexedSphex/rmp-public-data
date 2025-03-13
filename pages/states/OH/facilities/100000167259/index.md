@@ -1,6 +1,6 @@
-# Unknown
+# Frozen Specialties, Inc.
 
-**Location:** Unknown, OH
+**Location:** Archbold, OH
 
 **EPA Facility ID:** 100000167259
 

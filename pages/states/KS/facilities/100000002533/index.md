@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Cooperative Association ( Bennington )
 
-**Location:** Unknown, KS
+**Location:** Bennington, KS
 
 **EPA Facility ID:** 100000002533
 

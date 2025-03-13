@@ -1,6 +1,6 @@
-# Unknown
+# Plains, KS 768 Satellite
 
-**Location:** Unknown, KS
+**Location:** Plains, KS
 
 **EPA Facility ID:** 100000034474
 

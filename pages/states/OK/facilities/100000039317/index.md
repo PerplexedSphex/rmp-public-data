@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Hennessey
 
-**Location:** Unknown, OK
+**Location:** Hennessey, OK
 
 **EPA Facility ID:** 100000039317
 

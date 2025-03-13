@@ -1,6 +1,6 @@
-# Unknown
+# Galatia Nh3 Plant
 
-**Location:** Unknown, KS
+**Location:** Galatia, KS
 
 **EPA Facility ID:** 100000023066
 

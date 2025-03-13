@@ -1,6 +1,6 @@
-# Unknown
+# SEMITROPIC WATER STORAGE DISTRICT
 
-**Location:** Unknown, CA
+**Location:** WASCO, CA
 
 **EPA Facility ID:** 100000006076
 

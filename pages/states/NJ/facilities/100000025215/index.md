@@ -1,6 +1,6 @@
-# Unknown
+# Kuehne Chemical Co., Inc.
 
-**Location:** Unknown, NJ
+**Location:** South Kearny, NJ
 
 **EPA Facility ID:** 100000025215
 

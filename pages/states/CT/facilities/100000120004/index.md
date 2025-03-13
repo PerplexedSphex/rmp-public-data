@@ -1,6 +1,6 @@
-# Unknown
+# MacDermid, Inc.
 
-**Location:** Unknown, CT
+**Location:** Waterbury, CT
 
 **EPA Facility ID:** 100000120004
 

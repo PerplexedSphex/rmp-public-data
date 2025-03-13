@@ -1,6 +1,6 @@
-# Unknown
+# Ennis Flint High Point
 
-**Location:** Unknown, NC
+**Location:** High Point, NC
 
 **EPA Facility ID:** 100000239636
 

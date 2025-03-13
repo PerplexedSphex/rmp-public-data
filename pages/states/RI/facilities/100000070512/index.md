@@ -1,6 +1,6 @@
-# Unknown
+# Water Pollution Control
 
-**Location:** Unknown, RI
+**Location:** Newport, RI
 
 **EPA Facility ID:** 100000070512
 

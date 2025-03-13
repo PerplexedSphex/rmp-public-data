@@ -1,6 +1,6 @@
-# Unknown
+# Elmore, MN Satellite
 
-**Location:** Unknown, MN
+**Location:** Elmore, MN
 
 **EPA Facility ID:** 100000203898
 

@@ -1,6 +1,6 @@
-# Unknown
+# Butterball, LLC
 
-**Location:** Unknown, AR
+**Location:** Ozark, AR
 
 **EPA Facility ID:** 100000122672
 

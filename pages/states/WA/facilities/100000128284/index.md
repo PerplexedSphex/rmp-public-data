@@ -1,6 +1,6 @@
-# Unknown
+# City of Spokane - Riverside Pk. Water Reclam. Fac.
 
-**Location:** Unknown, WA
+**Location:** Spokane, WA
 
 **EPA Facility ID:** 100000128284
 

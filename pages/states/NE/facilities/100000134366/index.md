@@ -1,6 +1,6 @@
-# Unknown
+# Darling International Inc.
 
-**Location:** Unknown, NE
+**Location:** Grand Island, NE
 
 **EPA Facility ID:** 100000134366
 

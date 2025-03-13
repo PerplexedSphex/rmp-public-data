@@ -1,6 +1,6 @@
-# Unknown
+# Bar-S Foods
 
-**Location:** Unknown, OK
+**Location:** Seminole, OK
 
 **EPA Facility ID:** 100000201818
 

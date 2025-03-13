@@ -1,6 +1,6 @@
-# Unknown
+# CHEM GRO of LAHARPE
 
-**Location:** Unknown, IL
+**Location:** LAHARPE, IL
 
 **EPA Facility ID:** 100000152611
 

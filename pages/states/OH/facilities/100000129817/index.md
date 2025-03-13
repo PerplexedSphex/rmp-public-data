@@ -1,6 +1,6 @@
-# Unknown
+# Clark Landmark, S. Charleston
 
-**Location:** Unknown, OH
+**Location:** S. Charleston, OH
 
 **EPA Facility ID:** 100000129817
 

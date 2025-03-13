@@ -1,6 +1,6 @@
-# Unknown
+# Lion Elastomers LLC
 
-**Location:** Unknown, TX
+**Location:** Port Neches, TX
 
 **EPA Facility ID:** 100000111871
 

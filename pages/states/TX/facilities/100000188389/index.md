@@ -1,6 +1,6 @@
-# Unknown
+# Western International Gas - Lubbock
 
-**Location:** Unknown, TX
+**Location:** Lubbock, TX
 
 **EPA Facility ID:** 100000188389
 

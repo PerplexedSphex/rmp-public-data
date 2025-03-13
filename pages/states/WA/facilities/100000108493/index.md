@@ -1,6 +1,6 @@
-# Unknown
+# Rainier Cold Storage & Ice
 
-**Location:** Unknown, WA
+**Location:** Seattle, WA
 
 **EPA Facility ID:** 100000108493
 

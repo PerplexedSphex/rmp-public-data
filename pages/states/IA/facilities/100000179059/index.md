@@ -1,6 +1,6 @@
-# Unknown
+# Great Lakes Cooperative - Superior NH3 Nurse Tanks
 
-**Location:** Unknown, IA
+**Location:** Superior, IA
 
 **EPA Facility ID:** 100000179059
 

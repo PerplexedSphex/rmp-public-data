@@ -1,6 +1,6 @@
-# Unknown
+# Stratford Facility
 
-**Location:** Unknown, SD
+**Location:** Stratford, SD
 
 **EPA Facility ID:** 100000021512
 

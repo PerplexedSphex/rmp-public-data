@@ -1,6 +1,6 @@
-# Unknown
+# Polynt Composites USA, Inc. 
 
-**Location:** Unknown, TX
+**Location:** ENNIS, TX
 
 **EPA Facility ID:** 100000038737
 

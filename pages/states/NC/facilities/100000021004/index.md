@@ -1,6 +1,6 @@
-# Unknown
+# Southchem Inc
 
-**Location:** Unknown, NC
+**Location:** New Bern, NC
 
 **EPA Facility ID:** 100000021004
 

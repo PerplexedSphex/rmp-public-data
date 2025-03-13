@@ -1,6 +1,6 @@
-# Unknown
+# Vernon Satellite Location
 
-**Location:** Unknown, CO
+**Location:** Vernon, CO
 
 **EPA Facility ID:** 100000020924
 

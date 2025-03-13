@@ -1,6 +1,6 @@
-# Unknown
+# Poole Chemical Company, Inc. / Clark Blending, LLC
 
-**Location:** Unknown, KS
+**Location:** Macksville, KS
 
 **EPA Facility ID:** 100000149305
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mid-West Fertilzer, INC. - Thayer
 
-**Location:** Unknown, KS
+**Location:** Thayer, KS
 
 **EPA Facility ID:** 100000157224
 

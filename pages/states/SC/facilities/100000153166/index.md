@@ -1,6 +1,6 @@
-# Unknown
+# Bush River Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Newberry, SC
 
 **EPA Facility ID:** 100000153166
 

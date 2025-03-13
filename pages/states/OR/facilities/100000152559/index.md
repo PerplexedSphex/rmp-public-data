@@ -1,6 +1,6 @@
-# Unknown
+# City of North Bend Wastewater Treatment Plant
 
-**Location:** Unknown, OR
+**Location:** North Bend, OR
 
 **EPA Facility ID:** 100000152559
 

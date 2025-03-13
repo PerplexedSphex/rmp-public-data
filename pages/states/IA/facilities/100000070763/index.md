@@ -1,6 +1,6 @@
-# Unknown
+# Schmitt Fertilizer Corporation, Farm
 
-**Location:** Unknown, IA
+**Location:** Waucoma, IA
 
 **EPA Facility ID:** 100000070763
 

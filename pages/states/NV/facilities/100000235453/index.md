@@ -1,6 +1,6 @@
-# Unknown
+# Walker River Cooling
 
-**Location:** Unknown, NV
+**Location:** Yerington, NV
 
 **EPA Facility ID:** 100000235453
 

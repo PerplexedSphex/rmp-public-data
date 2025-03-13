@@ -1,6 +1,6 @@
-# Unknown
+# Formosa Plastics Corporation IL
 
-**Location:** Unknown, IL
+**Location:** Illiopolis, IL
 
 **EPA Facility ID:** 100000144266
 

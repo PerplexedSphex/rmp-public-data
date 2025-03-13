@@ -1,6 +1,6 @@
-# Unknown
+# Claire Manufacturing, Inc.
 
-**Location:** Unknown, IL
+**Location:** Addison, IL
 
 **EPA Facility ID:** 100000149804
 

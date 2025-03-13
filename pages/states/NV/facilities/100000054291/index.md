@@ -1,6 +1,6 @@
-# Unknown
+# Henderson Ice Cream Plant (HICP)
 
-**Location:** Unknown, NV
+**Location:** Henderson, NV
 
 **EPA Facility ID:** 100000054291
 

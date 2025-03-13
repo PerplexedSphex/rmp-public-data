@@ -1,6 +1,6 @@
-# Unknown
+# Tabor Grain Co. - Altamont
 
-**Location:** Unknown, IL
+**Location:** Altamont, IL
 
 **EPA Facility ID:** 100000007734
 

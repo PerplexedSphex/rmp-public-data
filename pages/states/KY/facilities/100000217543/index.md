@@ -1,6 +1,6 @@
-# Unknown
+# Clinton, KY 4140 Satellite
 
-**Location:** Unknown, KY
+**Location:** Clinton, KY
 
 **EPA Facility ID:** 100000217543
 

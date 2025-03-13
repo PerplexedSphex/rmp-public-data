@@ -1,6 +1,6 @@
-# Unknown
+# Cox City Processing Plant
 
-**Location:** Unknown, OK
+**Location:** Rush Springs, OK
 
 **EPA Facility ID:** 100000000982
 

@@ -1,6 +1,6 @@
-# Unknown
+# Pickering Creek Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Phoenixville, PA
 
 **EPA Facility ID:** 100000116395
 

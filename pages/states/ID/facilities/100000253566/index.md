@@ -1,6 +1,6 @@
-# Unknown
+# Specialty Sales - Jerome
 
-**Location:** Unknown, ID
+**Location:** Jerome, ID
 
 **EPA Facility ID:** 100000253566
 

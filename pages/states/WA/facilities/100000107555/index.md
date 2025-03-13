@@ -1,6 +1,6 @@
-# Unknown
+# Fruitsmart
 
-**Location:** Unknown, WA
+**Location:** Prosser, WA
 
 **EPA Facility ID:** 100000107555
 

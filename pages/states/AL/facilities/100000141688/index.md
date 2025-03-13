@@ -1,6 +1,6 @@
-# Unknown
+# Eastlake Wastewater Plant
 
-**Location:** Unknown, AL
+**Location:** Guntersville, AL
 
 **EPA Facility ID:** 100000141688
 

@@ -1,6 +1,6 @@
-# Unknown
+# Co-Operative Grain & Supply Co.
 
-**Location:** Unknown, KS
+**Location:** Bazine, KS
 
 **EPA Facility ID:** 100000002891
 

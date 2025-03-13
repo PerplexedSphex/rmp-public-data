@@ -1,6 +1,6 @@
-# Unknown
+# Town Creek Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** East Spencer, NC
 
 **EPA Facility ID:** 100000114501
 

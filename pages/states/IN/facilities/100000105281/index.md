@@ -1,6 +1,6 @@
-# Unknown
+#  Water Pollution Control Plant
 
-**Location:** Unknown, IN
+**Location:** Fort Wayne, IN
 
 **EPA Facility ID:** 100000105281
 

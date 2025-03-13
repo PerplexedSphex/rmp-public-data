@@ -1,6 +1,6 @@
-# Unknown
+# Fry Ontario LLC
 
-**Location:** Unknown, OR
+**Location:** Ontario, OR
 
 **EPA Facility ID:** 100000256215
 

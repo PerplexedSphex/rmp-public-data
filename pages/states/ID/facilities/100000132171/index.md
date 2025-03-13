@@ -1,6 +1,6 @@
-# Unknown
+# Soda Springs Facility
 
-**Location:** Unknown, ID
+**Location:** Soda Springs, ID
 
 **EPA Facility ID:** 100000132171
 

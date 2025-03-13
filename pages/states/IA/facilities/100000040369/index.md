@@ -1,6 +1,6 @@
-# Unknown
+# Lanesboro, IA 26
 
-**Location:** Unknown, IA
+**Location:** Lanesboro, IA
 
 **EPA Facility ID:** 100000040369
 

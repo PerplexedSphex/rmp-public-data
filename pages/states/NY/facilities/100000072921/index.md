@@ -1,6 +1,6 @@
-# Unknown
+# Island Oasis Manufacturing, LLC - Buffalo Facility
 
-**Location:** Unknown, NY
+**Location:** Buffalo, NY
 
 **EPA Facility ID:** 100000072921
 

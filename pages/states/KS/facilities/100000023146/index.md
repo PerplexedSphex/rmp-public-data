@@ -1,6 +1,6 @@
-# Unknown
+# VALLEY CO-OP, INC. - KELLOGG
 
-**Location:** Unknown, KS
+**Location:** WINFIELD, KS
 
 **EPA Facility ID:** 100000023146
 

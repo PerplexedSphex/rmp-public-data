@@ -1,6 +1,6 @@
-# Unknown
+# City Of Cocoa Beach Water Reclamation Facility
 
-**Location:** Unknown, FL
+**Location:** Cocoa Beach, FL
 
 **EPA Facility ID:** 100000056208
 

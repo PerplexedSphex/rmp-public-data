@@ -1,6 +1,6 @@
-# Unknown
+# Cedar Grove Warehouse, Inc-Buhl, ID
 
-**Location:** Unknown, ID
+**Location:** Buhl, ID
 
 **EPA Facility ID:** 100000117571
 

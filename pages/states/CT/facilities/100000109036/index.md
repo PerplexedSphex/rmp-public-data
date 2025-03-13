@@ -1,6 +1,6 @@
-# Unknown
+# The Stop & Shop North Haven Distribution Center
 
-**Location:** Unknown, CT
+**Location:** North Haven, CT
 
 **EPA Facility ID:** 100000109036
 

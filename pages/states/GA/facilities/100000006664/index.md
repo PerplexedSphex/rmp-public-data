@@ -1,6 +1,6 @@
-# Unknown
+# South Columbus Water Resource Facility
 
-**Location:** Unknown, GA
+**Location:** Columbus, GA
 
 **EPA Facility ID:** 100000006664
 

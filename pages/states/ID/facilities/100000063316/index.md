@@ -1,6 +1,6 @@
-# Unknown
+# J.R. Simplot Company - Nampa Potato Plant
 
-**Location:** Unknown, ID
+**Location:** Nampa, ID
 
 **EPA Facility ID:** 100000063316
 

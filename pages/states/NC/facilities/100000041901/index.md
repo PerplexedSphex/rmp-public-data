@@ -1,6 +1,6 @@
-# Unknown
+# City of Wilson Toisnot Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Wilson, NC
 
 **EPA Facility ID:** 100000041901
 

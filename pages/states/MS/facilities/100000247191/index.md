@@ -1,6 +1,6 @@
-# Unknown
+# Ashley Furniture Industries, Inc.
 
-**Location:** Unknown, MS
+**Location:** Verona, MS
 
 **EPA Facility ID:** 100000247191
 

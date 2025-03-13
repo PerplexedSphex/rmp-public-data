@@ -1,6 +1,6 @@
-# Unknown
+# City of Mount Pleasant Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Mount Pleasant, TX
 
 **EPA Facility ID:** 100000060685
 

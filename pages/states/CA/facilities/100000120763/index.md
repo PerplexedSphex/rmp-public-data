@@ -1,6 +1,6 @@
-# Unknown
+# Gaviota Oil Heating Facility
 
-**Location:** Unknown, CA
+**Location:** Gaviota, CA
 
 **EPA Facility ID:** 100000120763
 

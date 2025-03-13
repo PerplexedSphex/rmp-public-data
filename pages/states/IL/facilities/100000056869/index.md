@@ -1,6 +1,6 @@
-# Unknown
+# Sterigenics US LLC- Willowbrook
 
-**Location:** Unknown, IL
+**Location:** Willowbrook, IL
 
 **EPA Facility ID:** 100000056869
 

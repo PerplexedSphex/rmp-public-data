@@ -1,6 +1,6 @@
-# Unknown
+# Westlake Chemicals & Vinyls  LLC - Plaquemine
 
-**Location:** Unknown, LA
+**Location:** Plaquemine, LA
 
 **EPA Facility ID:** 100000140714
 

@@ -1,6 +1,6 @@
-# Unknown
+# The Scotts Company, LLC
 
-**Location:** Unknown, OH
+**Location:** Orrville, OH
 
 **EPA Facility ID:** 100000217133
 

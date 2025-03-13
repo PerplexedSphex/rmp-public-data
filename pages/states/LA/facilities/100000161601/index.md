@@ -1,6 +1,6 @@
-# Unknown
+# Kaplan Wastewater Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Kaplan, LA
 
 **EPA Facility ID:** 100000161601
 

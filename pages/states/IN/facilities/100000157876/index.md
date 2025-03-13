@@ -1,6 +1,6 @@
-# Unknown
+# Saniatry District of Hammond
 
-**Location:** Unknown, IN
+**Location:** Hammond, IN
 
 **EPA Facility ID:** 100000157876
 

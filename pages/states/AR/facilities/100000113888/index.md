@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Waldron, AR
 
 **EPA Facility ID:** 100000113888
 

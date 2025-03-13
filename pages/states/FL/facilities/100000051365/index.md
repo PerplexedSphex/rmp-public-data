@@ -1,6 +1,6 @@
-# Unknown
+# Bay County Water Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Panama City, FL
 
 **EPA Facility ID:** 100000051365
 

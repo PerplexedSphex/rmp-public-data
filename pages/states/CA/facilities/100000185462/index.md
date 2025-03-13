@@ -1,6 +1,6 @@
-# Unknown
+# Lodi Gas Storage, LLC
 
-**Location:** Unknown, CA
+**Location:** Acampo, CA
 
 **EPA Facility ID:** 100000185462
 

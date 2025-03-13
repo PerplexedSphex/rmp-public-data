@@ -1,6 +1,6 @@
-# Unknown
+# MiVida Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Barstow, TX
 
 **EPA Facility ID:** 100000229157
 

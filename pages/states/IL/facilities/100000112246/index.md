@@ -1,6 +1,6 @@
-# Unknown
+# Eagle Food Centers, Inc.
 
-**Location:** Unknown, IL
+**Location:** Milan, IL
 
 **EPA Facility ID:** 100000112246
 

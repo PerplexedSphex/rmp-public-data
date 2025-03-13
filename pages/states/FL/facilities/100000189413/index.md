@@ -1,6 +1,6 @@
-# Unknown
+# Vertical Cold Storage LLC, Medley
 
-**Location:** Unknown, FL
+**Location:** Medley, FL
 
 **EPA Facility ID:** 100000189413
 

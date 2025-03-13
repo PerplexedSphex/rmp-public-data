@@ -1,6 +1,6 @@
-# Unknown
+# Victor Gaffney Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Gaffney, SC
 
 **EPA Facility ID:** 100000029499
 

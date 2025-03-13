@@ -1,6 +1,6 @@
-# Unknown
+# Burnt Prairie, IL
 
-**Location:** Unknown, IL
+**Location:** Burnt Prairie, IL
 
 **EPA Facility ID:** 100000101588
 

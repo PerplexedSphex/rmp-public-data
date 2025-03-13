@@ -1,6 +1,6 @@
-# Unknown
+# West River Wastewater Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Gadsden, AL
 
 **EPA Facility ID:** 100000033894
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lancaster Gas Plant
 
-**Location:** Unknown, AL
+**Location:** Frisco City, AL
 
 **EPA Facility ID:** 100000170076
 

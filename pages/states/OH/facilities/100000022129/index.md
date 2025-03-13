@@ -1,6 +1,6 @@
-# Unknown
+# Equity Group - Ohio Division
 
-**Location:** Unknown, OH
+**Location:** North Baltimore, OH
 
 **EPA Facility ID:** 100000022129
 

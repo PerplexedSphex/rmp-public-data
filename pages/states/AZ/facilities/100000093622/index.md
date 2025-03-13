@@ -1,6 +1,6 @@
-# Unknown
+# Sunbelt Chemical Inc.
 
-**Location:** Unknown, AZ
+**Location:** Gilbert, AZ
 
 **EPA Facility ID:** 100000093622
 

@@ -1,6 +1,6 @@
-# Unknown
+# ChemDesign Products, Inc.
 
-**Location:** Unknown, WI
+**Location:** Marinette, WI
 
 **EPA Facility ID:** 100000116901
 

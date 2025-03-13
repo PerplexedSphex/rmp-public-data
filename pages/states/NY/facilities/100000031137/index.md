@@ -1,6 +1,6 @@
-# Unknown
+# Seneca Foods Corporation - Marion Processing Plant
 
-**Location:** Unknown, NY
+**Location:** Marion, NY
 
 **EPA Facility ID:** 100000031137
 

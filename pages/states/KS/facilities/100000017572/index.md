@@ -1,6 +1,6 @@
-# Unknown
+# DIGHTON LOCATION
 
-**Location:** Unknown, KS
+**Location:** DIGHTON, KS
 
 **EPA Facility ID:** 100000017572
 

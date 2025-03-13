@@ -1,6 +1,6 @@
-# Unknown
+# South Davis Sewer District South Plant
 
-**Location:** Unknown, UT
+**Location:** North Salt Lake, UT
 
 **EPA Facility ID:** 100000029104
 

@@ -1,6 +1,6 @@
-# Unknown
+# Dairy Street Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Ware Shoals, SC
 
 **EPA Facility ID:** 100000174296
 

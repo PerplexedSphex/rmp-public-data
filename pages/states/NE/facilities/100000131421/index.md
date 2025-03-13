@@ -1,6 +1,6 @@
-# Unknown
+# SPALDING CO-OP ELEVATOR COMPANY, NORTH LOUP NE
 
-**Location:** Unknown, NE
+**Location:** NORTH LOUP, NE
 
 **EPA Facility ID:** 100000131421
 

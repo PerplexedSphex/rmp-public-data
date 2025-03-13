@@ -1,6 +1,6 @@
-# Unknown
+# West Central FS, Inc Colchester
 
-**Location:** Unknown, IL
+**Location:** Cochester, IL
 
 **EPA Facility ID:** 100000171538
 

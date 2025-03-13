@@ -1,6 +1,6 @@
-# Unknown
+# Grelton Elevator, Inc.
 
-**Location:** Unknown, OH
+**Location:** Grelton, OH
 
 **EPA Facility ID:** 100000187656
 

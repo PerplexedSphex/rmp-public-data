@@ -1,6 +1,6 @@
-# Unknown
+# Gold Star FS, Inc., Aledo Plant
 
-**Location:** Unknown, IL
+**Location:** Aledo, IL
 
 **EPA Facility ID:** 100000025144
 

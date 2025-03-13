@@ -1,6 +1,6 @@
-# Unknown
+# Garner "B" Chlorine Storage Station
 
-**Location:** Unknown, CA
+**Location:** Riverside, CA
 
 **EPA Facility ID:** 100000179781
 

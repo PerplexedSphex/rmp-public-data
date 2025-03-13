@@ -1,6 +1,6 @@
-# Unknown
+# Lake City, IA Satellite
 
-**Location:** Unknown, IA
+**Location:** Lake City, IA
 
 **EPA Facility ID:** 100000004915
 

@@ -1,6 +1,6 @@
-# Unknown
+# Central Storage & Warehouse Caledonia
 
-**Location:** Unknown, WI
+**Location:** Franksville, WI
 
 **EPA Facility ID:** 100000251158
 

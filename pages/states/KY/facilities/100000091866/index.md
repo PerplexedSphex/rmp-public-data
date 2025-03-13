@@ -1,6 +1,6 @@
-# Unknown
+# Westlake Vinyls, Inc.
 
-**Location:** Unknown, KY
+**Location:** Calvert City, KY
 
 **EPA Facility ID:** 100000091866
 

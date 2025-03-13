@@ -1,6 +1,6 @@
-# Unknown
+# Logansport, IN 10063
 
-**Location:** Unknown, IN
+**Location:** Logansport, IN
 
 **EPA Facility ID:** 100000080388
 

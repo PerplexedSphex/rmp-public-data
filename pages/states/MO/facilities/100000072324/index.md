@@ -1,6 +1,6 @@
-# Unknown
+# Howard Bend Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Chesterfield, MO
 
 **EPA Facility ID:** 100000072324
 

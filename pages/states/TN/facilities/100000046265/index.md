@@ -1,6 +1,6 @@
-# Unknown
+# Gallatin Wastewater Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Gallatin, TN
 
 **EPA Facility ID:** 100000046265
 

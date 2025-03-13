@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. Northwest - Nooksack Propane
 
-**Location:** Unknown, WA
+**Location:** Nooksack, WA
 
 **EPA Facility ID:** 100000232107
 

@@ -1,6 +1,6 @@
-# Unknown
+# Oregon Ice Cream Company, LLC
 
-**Location:** Unknown, OR
+**Location:** Eugene, OR
 
 **EPA Facility ID:** 100000209197
 

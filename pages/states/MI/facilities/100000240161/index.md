@@ -1,6 +1,6 @@
-# Unknown
+# Wolverine Packing Company
 
-**Location:** Unknown, MI
+**Location:** Detroit, MI
 
 **EPA Facility ID:** 100000240161
 

@@ -1,6 +1,6 @@
-# Unknown
+# Golden Bear Oil Specialties Refinery
 
-**Location:** Unknown, CA
+**Location:** Oildale, CA
 
 **EPA Facility ID:** 100000029792
 

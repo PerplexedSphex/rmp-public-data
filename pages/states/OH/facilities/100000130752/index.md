@@ -1,6 +1,6 @@
-# Unknown
+# Mennel Milling- Logan 
 
-**Location:** Unknown, OH
+**Location:** Logan, OH
 
 **EPA Facility ID:** 100000130752
 

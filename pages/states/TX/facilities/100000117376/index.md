@@ -1,6 +1,6 @@
-# Unknown
+# Ajinomoto Foods North America, Inc.
 
-**Location:** Unknown, TX
+**Location:** Lampasas, TX
 
 **EPA Facility ID:** 100000117376
 

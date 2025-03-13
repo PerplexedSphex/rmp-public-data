@@ -1,6 +1,6 @@
-# Unknown
+# Bubba Foods, LLC
 
-**Location:** Unknown, GA
+**Location:** Elberton, GA
 
 **EPA Facility ID:** 100000206742
 

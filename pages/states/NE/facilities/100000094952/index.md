@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - North Bend
 
-**Location:** Unknown, NE
+**Location:** North Bend, NE
 
 **EPA Facility ID:** 100000094952
 

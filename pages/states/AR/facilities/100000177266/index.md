@@ -1,6 +1,6 @@
-# Unknown
+# Dow Chemical
 
-**Location:** Unknown, AR
+**Location:** Texarkana, AR
 
 **EPA Facility ID:** 100000177266
 

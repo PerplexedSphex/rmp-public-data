@@ -1,6 +1,6 @@
-# Unknown
+# Illinois American Water - Streator Plant
 
-**Location:** Unknown, IL
+**Location:** Streator, IL
 
 **EPA Facility ID:** 100000025894
 

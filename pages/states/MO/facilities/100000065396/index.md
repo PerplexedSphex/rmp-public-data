@@ -1,6 +1,6 @@
-# Unknown
+# SFI - Mt. Vernon Plant
 
-**Location:** Unknown, MO
+**Location:** Mount Vernon, MO
 
 **EPA Facility ID:** 100000065396
 

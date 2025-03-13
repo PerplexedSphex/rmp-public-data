@@ -1,6 +1,6 @@
-# Unknown
+# Central Minnesota Renewables
 
-**Location:** Unknown, MN
+**Location:** Little Falls, MN
 
 **EPA Facility ID:** 100000035561
 

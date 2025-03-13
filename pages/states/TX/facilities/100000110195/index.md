@@ -1,6 +1,6 @@
-# Unknown
+# Decker Food Company
 
-**Location:** Unknown, TX
+**Location:** Garland, TX
 
 **EPA Facility ID:** 100000110195
 

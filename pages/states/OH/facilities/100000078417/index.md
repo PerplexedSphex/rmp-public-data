@@ -1,6 +1,6 @@
-# Unknown
+# Newark Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Newark, OH
 
 **EPA Facility ID:** 100000078417
 

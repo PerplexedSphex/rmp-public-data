@@ -1,6 +1,6 @@
-# Unknown
+# Fabriclean Supply of Arkansas Limited
 
-**Location:** Unknown, AR
+**Location:** Little Rock, AR
 
 **EPA Facility ID:** 100000126259
 

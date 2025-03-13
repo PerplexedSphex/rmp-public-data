@@ -1,6 +1,6 @@
-# Unknown
+# Area 7 Compressor Station 143
 
-**Location:** Unknown, TX
+**Location:** Sterling City, TX
 
 **EPA Facility ID:** 100000224269
 

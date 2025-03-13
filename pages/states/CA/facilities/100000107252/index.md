@@ -1,6 +1,6 @@
-# Unknown
+# SMD-1 Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Auburn, CA
 
 **EPA Facility ID:** 100000107252
 

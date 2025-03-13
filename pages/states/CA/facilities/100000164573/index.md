@@ -1,6 +1,6 @@
-# Unknown
+# Kagome Inc.
 
-**Location:** Unknown, CA
+**Location:** Los Banos, CA
 
 **EPA Facility ID:** 100000164573
 

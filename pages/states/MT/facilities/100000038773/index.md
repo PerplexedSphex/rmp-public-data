@@ -1,6 +1,6 @@
-# Unknown
+# Loveland Products, Inc.-Billings
 
-**Location:** Unknown, MT
+**Location:** Billings, MT
 
 **EPA Facility ID:** 100000038773
 

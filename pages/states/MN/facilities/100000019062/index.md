@@ -1,6 +1,6 @@
-# Unknown
+# New Vision Coop
 
-**Location:** Unknown, MN
+**Location:** Wilmont, MN
 
 **EPA Facility ID:** 100000019062
 

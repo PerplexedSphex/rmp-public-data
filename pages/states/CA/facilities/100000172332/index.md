@@ -1,6 +1,6 @@
-# Unknown
+# Mt. Shasta Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Mt. Shasta, CA
 
 **EPA Facility ID:** 100000172332
 

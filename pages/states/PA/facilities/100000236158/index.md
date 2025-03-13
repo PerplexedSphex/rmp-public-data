@@ -1,6 +1,6 @@
-# Unknown
+# Galaxy Gas Plant
 
-**Location:** Unknown, PA
+**Location:** Parker, PA
 
 **EPA Facility ID:** 100000236158
 

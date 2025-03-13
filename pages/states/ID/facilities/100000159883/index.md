@@ -1,6 +1,6 @@
-# Unknown
+# Americold, Nampa  -  Plant # 80558
 
-**Location:** Unknown, ID
+**Location:** Nampa, ID
 
 **EPA Facility ID:** 100000159883
 

@@ -1,6 +1,6 @@
-# Unknown
+# Harwood's Mill Water Treatment Plant
 
-**Location:** Unknown, VA
+**Location:** Grafton, VA
 
 **EPA Facility ID:** 100000080556
 

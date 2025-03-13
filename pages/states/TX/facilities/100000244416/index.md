@@ -1,6 +1,6 @@
-# Unknown
+# Gateway/Heim Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Garden City, TX
 
 **EPA Facility ID:** 100000244416
 

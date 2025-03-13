@@ -1,6 +1,6 @@
-# Unknown
+# Celanese Ltd
 
-**Location:** Unknown, IL
+**Location:** Meredosia, IL
 
 **EPA Facility ID:** 100000082028
 

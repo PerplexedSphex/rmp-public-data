@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Burlington
 
-**Location:** Unknown, CO
+**Location:** Burlington, CO
 
 **EPA Facility ID:** 100000197832
 

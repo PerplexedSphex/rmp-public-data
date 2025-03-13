@@ -1,6 +1,6 @@
-# Unknown
+# Occidental Chemical Corp. - BG Chlor-Alkali-VCM
 
-**Location:** Unknown, TX
+**Location:** La Porte, TX
 
 **EPA Facility ID:** 100000079826
 

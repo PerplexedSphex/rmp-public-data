@@ -1,6 +1,6 @@
-# Unknown
+# General Chemical Newark Works
 
-**Location:** Unknown, NJ
+**Location:** Newark, NJ
 
 **EPA Facility ID:** 100000073181
 

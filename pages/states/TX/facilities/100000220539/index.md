@@ -1,6 +1,6 @@
-# Unknown
+# Briscoe Friday Unit B CPF-A
 
-**Location:** Unknown, TX
+**Location:** Catarina, TX
 
 **EPA Facility ID:** 100000220539
 

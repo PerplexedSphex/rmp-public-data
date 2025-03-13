@@ -1,6 +1,6 @@
-# Unknown
+# Industrial Plating Corporation
 
-**Location:** Unknown, ND
+**Location:** Wahpeton, ND
 
 **EPA Facility ID:** 100000124652
 

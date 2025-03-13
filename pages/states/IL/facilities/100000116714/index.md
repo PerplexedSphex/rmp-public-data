@@ -1,6 +1,6 @@
-# Unknown
+# Ashland Cold Storage Company, Inc.
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000116714
 

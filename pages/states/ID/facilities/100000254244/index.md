@@ -1,6 +1,6 @@
-# Unknown
+# Fresian RNG
 
-**Location:** Unknown, ID
+**Location:** Wendell, ID
 
 **EPA Facility ID:** 100000254244
 

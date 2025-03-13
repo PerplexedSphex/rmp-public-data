@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Dimmitt
 
-**Location:** Unknown, TX
+**Location:** Dimmitt, TX
 
 **EPA Facility ID:** 100000069613
 

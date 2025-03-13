@@ -1,6 +1,6 @@
-# Unknown
+# West Liberty Foods, Tremonton
 
-**Location:** Unknown, UT
+**Location:** Tremonton, UT
 
 **EPA Facility ID:** 100000211923
 

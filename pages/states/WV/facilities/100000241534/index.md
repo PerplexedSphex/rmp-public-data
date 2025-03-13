@@ -1,6 +1,6 @@
-# Unknown
+# Specialty Products US, LLC
 
-**Location:** Unknown, WV
+**Location:** Institute, WV
 
 **EPA Facility ID:** 100000241534
 

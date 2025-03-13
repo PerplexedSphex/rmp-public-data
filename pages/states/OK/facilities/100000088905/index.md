@@ -1,6 +1,6 @@
-# Unknown
+# Terra Nitrogen Limited Partnership,Verdigris Plant
 
-**Location:** Unknown, OK
+**Location:** CLAREMORE, OK
 
 **EPA Facility ID:** 100000088905
 

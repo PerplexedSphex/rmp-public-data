@@ -1,6 +1,6 @@
-# Unknown
+# Cherokee Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Longview, TX
 
 **EPA Facility ID:** 100000082331
 

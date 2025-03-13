@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. dba Prairie Lakes Cooperative
 
-**Location:** Unknown, MN
+**Location:** Cyrus, MN
 
 **EPA Facility ID:** 100000021978
 

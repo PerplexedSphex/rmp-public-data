@@ -1,6 +1,6 @@
-# Unknown
+# Downs Elevator
 
-**Location:** Unknown, KS
+**Location:** Downs, KS
 
 **EPA Facility ID:** 100000086603
 

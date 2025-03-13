@@ -1,6 +1,6 @@
-# Unknown
+# Sherard Water Treatment Plant
 
-**Location:** Unknown, WY
+**Location:** Cheyenne, WY
 
 **EPA Facility ID:** 100000037355
 

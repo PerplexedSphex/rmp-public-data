@@ -1,6 +1,6 @@
-# Unknown
+# Canton Filter Plant
 
-**Location:** Unknown, NC
+**Location:** Canton, NC
 
 **EPA Facility ID:** 100000229353
 

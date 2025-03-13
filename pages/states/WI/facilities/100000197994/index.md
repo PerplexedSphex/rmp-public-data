@@ -1,6 +1,6 @@
-# Unknown
+# United Ethanol, LLC
 
-**Location:** Unknown, WI
+**Location:** Milton, WI
 
 **EPA Facility ID:** 100000197994
 

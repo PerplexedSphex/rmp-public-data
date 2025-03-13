@@ -1,6 +1,6 @@
-# Unknown
+# Eagle-Picher Tech., LLC - EOM Department
 
-**Location:** Unknown, OK
+**Location:** Quapaw, OK
 
 **EPA Facility ID:** 100000062157
 

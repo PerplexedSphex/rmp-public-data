@@ -1,6 +1,6 @@
-# Unknown
+# Fairmont, MN 440
 
-**Location:** Unknown, MN
+**Location:** Fairmont, MN
 
 **EPA Facility ID:** 100000079979
 

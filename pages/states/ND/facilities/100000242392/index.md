@@ -1,6 +1,6 @@
-# Unknown
+# Global Beulah Terminal
 
-**Location:** Unknown, ND
+**Location:** Beulah, ND
 
 **EPA Facility ID:** 100000242392
 

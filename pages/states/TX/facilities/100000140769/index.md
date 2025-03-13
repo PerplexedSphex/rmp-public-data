@@ -1,6 +1,6 @@
-# Unknown
+# Shintech Freeport
 
-**Location:** Unknown, TX
+**Location:** Freeport, TX
 
 **EPA Facility ID:** 100000140769
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wal-Mart Distribution Center #7018
 
-**Location:** Unknown, NE
+**Location:** North Platte, NE
 
 **EPA Facility ID:** 100000189048
 

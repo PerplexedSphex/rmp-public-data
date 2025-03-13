@@ -1,6 +1,6 @@
-# Unknown
+# World Class Distribution, Inc. - Redlands
 
-**Location:** Unknown, CA
+**Location:** San Bernardino, CA
 
 **EPA Facility ID:** 100000239547
 

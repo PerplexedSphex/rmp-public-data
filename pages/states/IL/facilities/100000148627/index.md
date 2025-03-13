@@ -1,6 +1,6 @@
-# Unknown
+# EFFINGHAM CLAY SERVICE COMPANY / SALEM
 
-**Location:** Unknown, IL
+**Location:** SALEM, IL
 
 **EPA Facility ID:** 100000148627
 

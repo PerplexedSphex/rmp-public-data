@@ -1,6 +1,6 @@
-# Unknown
+# Uvalde County Farmer's Coop
 
-**Location:** Unknown, TX
+**Location:** Knippa, TX
 
 **EPA Facility ID:** 100000004648
 

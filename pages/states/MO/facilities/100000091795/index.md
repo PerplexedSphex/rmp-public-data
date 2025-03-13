@@ -1,6 +1,6 @@
-# Unknown
+# Biokyowa, Inc.
 
-**Location:** Unknown, MO
+**Location:** Cape Girardeau, MO
 
 **EPA Facility ID:** 100000091795
 

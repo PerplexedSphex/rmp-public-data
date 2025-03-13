@@ -1,6 +1,6 @@
-# Unknown
+# Laguna Vista Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Laguna Vista, TX
 
 **EPA Facility ID:** 100000201248
 

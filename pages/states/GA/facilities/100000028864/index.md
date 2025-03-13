@@ -1,6 +1,6 @@
-# Unknown
+# Americold - East Point
 
-**Location:** Unknown, GA
+**Location:** East Point, GA
 
 **EPA Facility ID:** 100000028864
 

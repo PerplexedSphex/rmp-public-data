@@ -1,6 +1,6 @@
-# Unknown
+# Central Products DBA Intertape Polymer Group
 
-**Location:** Unknown, SC
+**Location:** Columbia, SC
 
 **EPA Facility ID:** 100000119301
 

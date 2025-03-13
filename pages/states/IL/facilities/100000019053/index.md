@@ -1,6 +1,6 @@
-# Unknown
+# Illini FS - Sidell NH3
 
-**Location:** Unknown, IL
+**Location:** Sidell, IL
 
 **EPA Facility ID:** 100000019053
 

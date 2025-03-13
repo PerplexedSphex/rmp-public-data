@@ -1,6 +1,6 @@
-# Unknown
+# Kettle Cuisine
 
-**Location:** Unknown, WI
+**Location:** Green Bay, WI
 
 **EPA Facility ID:** 100000249251
 

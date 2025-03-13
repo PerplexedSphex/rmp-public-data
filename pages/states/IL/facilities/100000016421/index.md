@@ -1,6 +1,6 @@
-# Unknown
+# Brandt Consolidated, Inc (Emden NH3)
 
-**Location:** Unknown, IL
+**Location:** Endem, IL
 
 **EPA Facility ID:** 100000016421
 

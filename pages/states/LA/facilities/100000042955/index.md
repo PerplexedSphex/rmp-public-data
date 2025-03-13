@@ -1,6 +1,6 @@
-# Unknown
+# MG Industries - West Lake
 
-**Location:** Unknown, LA
+**Location:** West Lake, LA
 
 **EPA Facility ID:** 100000042955
 

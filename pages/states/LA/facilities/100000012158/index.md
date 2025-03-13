@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. - St. Gabriel
 
-**Location:** Unknown, LA
+**Location:** St. Gabriel, LA
 
 **EPA Facility ID:** 100000012158
 

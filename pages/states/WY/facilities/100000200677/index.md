@@ -1,6 +1,6 @@
-# Unknown
+# Sugarloaf Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Powell, WY
 
 **EPA Facility ID:** 100000200677
 

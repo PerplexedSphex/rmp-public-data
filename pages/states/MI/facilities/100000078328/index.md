@@ -1,6 +1,6 @@
-# Unknown
+# Arctic Logistics, LLC
 
-**Location:** Unknown, MI
+**Location:** Canton, MI
 
 **EPA Facility ID:** 100000078328
 

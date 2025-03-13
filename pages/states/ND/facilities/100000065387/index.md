@@ -1,6 +1,6 @@
-# Unknown
+# Allied Agronomy, LLC - County Line
 
-**Location:** Unknown, ND
+**Location:** Jud, ND
 
 **EPA Facility ID:** 100000065387
 

@@ -1,6 +1,6 @@
-# Unknown
+# Save A Lot - Winchester DC # 025051
 
-**Location:** Unknown, KY
+**Location:** Winchester, KY
 
 **EPA Facility ID:** 100000215741
 

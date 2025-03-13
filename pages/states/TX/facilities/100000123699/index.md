@@ -1,6 +1,6 @@
-# Unknown
+# SCHWAN'S FOOD MANUFACTURING, INC.
 
-**Location:** Unknown, TX
+**Location:** PASADENA, TX
 
 **EPA Facility ID:** 100000123699
 

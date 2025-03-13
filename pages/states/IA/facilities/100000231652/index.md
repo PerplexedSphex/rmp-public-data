@@ -1,6 +1,6 @@
-# Unknown
+# Liguria Foods Inc.
 
-**Location:** Unknown, IA
+**Location:** Humboldt, IA
 
 **EPA Facility ID:** 100000231652
 

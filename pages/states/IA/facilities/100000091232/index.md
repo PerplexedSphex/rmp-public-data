@@ -1,6 +1,6 @@
-# Unknown
+# Landus Cooperative - New Hartford 
 
-**Location:** Unknown, IA
+**Location:** New Hartford, IA
 
 **EPA Facility ID:** 100000091232
 

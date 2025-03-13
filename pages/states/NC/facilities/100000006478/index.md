@@ -1,6 +1,6 @@
-# Unknown
+# Kinston Regional Water Reclamation Facility
 
-**Location:** Unknown, NC
+**Location:** Kinston, NC
 
 **EPA Facility ID:** 100000006478
 

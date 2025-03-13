@@ -1,6 +1,6 @@
-# Unknown
+# Wilson Creek Regional Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Allen, TX
 
 **EPA Facility ID:** 100000147263
 

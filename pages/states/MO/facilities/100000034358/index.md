@@ -1,6 +1,6 @@
-# Unknown
+# Ray-Carroll County Grain Growers, Inc. Henrietta
 
-**Location:** Unknown, MO
+**Location:** Henrietta, MO
 
 **EPA Facility ID:** 100000034358
 

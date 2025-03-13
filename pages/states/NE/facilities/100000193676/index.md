@@ -1,6 +1,6 @@
-# Unknown
+# Nebraska Beef, Ltd.
 
-**Location:** Unknown, NE
+**Location:** Omaha, NE
 
 **EPA Facility ID:** 100000193676
 

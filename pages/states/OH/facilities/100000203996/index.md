@@ -1,6 +1,6 @@
-# Unknown
+# Wetzler/Haynes Water Filtration Plant
 
-**Location:** Unknown, OH
+**Location:** Byesville, OH
 
 **EPA Facility ID:** 100000203996
 

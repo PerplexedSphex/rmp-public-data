@@ -1,6 +1,6 @@
-# Unknown
+# West Union Extraction Plant
 
-**Location:** Unknown, WV
+**Location:** West Union, WV
 
 **EPA Facility ID:** 100000008332
 

@@ -1,6 +1,6 @@
-# Unknown
+# PLZ Corp - Bridgeview Facility
 
-**Location:** Unknown, IL
+**Location:** Bridgeview, IL
 
 **EPA Facility ID:** 100000070656
 

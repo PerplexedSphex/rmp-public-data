@@ -1,6 +1,6 @@
-# Unknown
+# Chem Gro Inc. East Tank
 
-**Location:** Unknown, IL
+**Location:** Bowen, IL
 
 **EPA Facility ID:** 100000079363
 

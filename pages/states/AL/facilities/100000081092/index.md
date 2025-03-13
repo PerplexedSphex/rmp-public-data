@@ -1,6 +1,6 @@
-# Unknown
+# Ascend - Decatur Plant
 
-**Location:** Unknown, AL
+**Location:** Decatur, AL
 
 **EPA Facility ID:** 100000081092
 

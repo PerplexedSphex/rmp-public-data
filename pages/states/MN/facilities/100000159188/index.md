@@ -1,6 +1,6 @@
-# Unknown
+# Greenway (Chester)
 
-**Location:** Unknown, MN
+**Location:** CHESTER, MN
 
 **EPA Facility ID:** 100000159188
 

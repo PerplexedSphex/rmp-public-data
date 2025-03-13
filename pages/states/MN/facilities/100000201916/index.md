@@ -1,6 +1,6 @@
-# Unknown
+# Green Plains Otter Tail, LLC.
 
-**Location:** Unknown, MN
+**Location:** Fergus Falls, MN
 
 **EPA Facility ID:** 100000201916
 

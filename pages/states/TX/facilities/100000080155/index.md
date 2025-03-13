@@ -1,6 +1,6 @@
-# Unknown
+# Northgate #2 Plant
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000080155
 

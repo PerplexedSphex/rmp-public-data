@@ -1,6 +1,6 @@
-# Unknown
+# Gold-Eagle Cooperative-Hardy
 
-**Location:** Unknown, IA
+**Location:** Hardy, IA
 
 **EPA Facility ID:** 100000070816
 

@@ -1,6 +1,6 @@
-# Unknown
+# Parallel Farms Inc.
 
-**Location:** Unknown, KS
+**Location:** Whiting, KS
 
 **EPA Facility ID:** 100000226098
 

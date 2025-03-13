@@ -1,6 +1,6 @@
-# Unknown
+# Illini FS - Rising NH3
 
-**Location:** Unknown, IL
+**Location:** Champaign, IL
 
 **EPA Facility ID:** 100000020078
 

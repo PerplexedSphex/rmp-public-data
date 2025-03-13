@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Washburn
 
-**Location:** Unknown, ND
+**Location:** Washburn, ND
 
 **EPA Facility ID:** 100000155066
 

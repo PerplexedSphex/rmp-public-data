@@ -1,6 +1,6 @@
-# Unknown
+# Browns Valley Community Elevator Inc.
 
-**Location:** Unknown, MN
+**Location:** Browns Valley, MN
 
 **EPA Facility ID:** 100000019954
 

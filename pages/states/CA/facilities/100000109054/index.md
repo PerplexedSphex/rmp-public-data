@@ -1,6 +1,6 @@
-# Unknown
+# Cogeneration Facility 18
 
-**Location:** Unknown, CA
+**Location:** Maricopa, CA
 
 **EPA Facility ID:** 100000109054
 

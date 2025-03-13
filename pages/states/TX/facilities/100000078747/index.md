@@ -1,6 +1,6 @@
-# Unknown
+# Lake Halbert Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Corsicana, TX
 
 **EPA Facility ID:** 100000078747
 

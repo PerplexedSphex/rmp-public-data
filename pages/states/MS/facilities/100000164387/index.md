@@ -1,6 +1,6 @@
-# Unknown
+# Enterprise Petal NGL Terminal Facility
 
-**Location:** Unknown, MS
+**Location:** Petal, MS
 
 **EPA Facility ID:** 100000164387
 

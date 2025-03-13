@@ -1,6 +1,6 @@
-# Unknown
+# The Dallas Group of America, Inc.
 
-**Location:** Unknown, TX
+**Location:** Texas City, TX
 
 **EPA Facility ID:** 100000013594
 

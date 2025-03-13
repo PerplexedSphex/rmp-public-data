@@ -1,6 +1,6 @@
-# Unknown
+# Cardinal Ethanol, LLC
 
-**Location:** Unknown, IN
+**Location:** Union City, IN
 
 **EPA Facility ID:** 100000204263
 

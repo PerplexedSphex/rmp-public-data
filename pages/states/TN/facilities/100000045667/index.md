@@ -1,6 +1,6 @@
-# Unknown
+# Knox Chapman Utility District WTP
 
-**Location:** Unknown, TN
+**Location:** Knoxville, TN
 
 **EPA Facility ID:** 100000045667
 

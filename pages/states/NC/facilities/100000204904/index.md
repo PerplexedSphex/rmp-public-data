@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Hillsborough, NC
 
 **EPA Facility ID:** 100000204904
 

@@ -1,6 +1,6 @@
-# Unknown
+# Empire Dairy RNG
 
-**Location:** Unknown, CO
+**Location:** Wiggins, CO
 
 **EPA Facility ID:** 100000252807
 

@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Bertrand
 
-**Location:** Unknown, NE
+**Location:** Bertrand, NE
 
 **EPA Facility ID:** 100000041386
 

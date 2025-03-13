@@ -1,6 +1,6 @@
-# Unknown
+# Highland Baking Co.
 
-**Location:** Unknown, SC
+**Location:** Spartanburg, SC
 
 **EPA Facility ID:** 100000083722
 

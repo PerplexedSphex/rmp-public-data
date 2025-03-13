@@ -1,6 +1,6 @@
-# Unknown
+# Pawtucket Power Associates, LP
 
-**Location:** Unknown, RI
+**Location:** Pawtucket, RI
 
 **EPA Facility ID:** 100000086845
 

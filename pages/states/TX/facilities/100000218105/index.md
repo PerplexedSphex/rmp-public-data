@@ -1,6 +1,6 @@
-# Unknown
+# Woodall Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Briscoe, TX
 
 **EPA Facility ID:** 100000218105
 

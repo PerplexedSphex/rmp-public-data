@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Evansville
 
-**Location:** Unknown, IA
+**Location:** Indianola, IA
 
 **EPA Facility ID:** 100000141018
 

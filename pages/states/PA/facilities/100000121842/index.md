@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center #6047
 
-**Location:** Unknown, PA
+**Location:** Bedford, PA
 
 **EPA Facility ID:** 100000121842
 

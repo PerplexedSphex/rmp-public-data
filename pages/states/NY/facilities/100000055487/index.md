@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Inc., Moreau
 
-**Location:** Unknown, NY
+**Location:** South Glens Falls, NY
 
 **EPA Facility ID:** 100000055487
 

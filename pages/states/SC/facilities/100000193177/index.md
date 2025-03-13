@@ -1,6 +1,6 @@
-# Unknown
+# Nucor Steel- Berkeley
 
-**Location:** Unknown, SC
+**Location:** Huger, SC
 
 **EPA Facility ID:** 100000193177
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sterling Ethanol, LLC
 
-**Location:** Unknown, CO
+**Location:** Sterling, CO
 
 **EPA Facility ID:** 100000193266
 

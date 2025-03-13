@@ -1,6 +1,6 @@
-# Unknown
+# Koch Fertilizer, LLC- Sterlington Ammonia Terminal
 
-**Location:** Unknown, LA
+**Location:** Sterlington, LA
 
 **EPA Facility ID:** 100000046684
 

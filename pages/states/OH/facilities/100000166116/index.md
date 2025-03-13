@@ -1,6 +1,6 @@
-# Unknown
+# Centerra Co-op, Sullivan
 
-**Location:** Unknown, OH
+**Location:** Sullivan, OH
 
 **EPA Facility ID:** 100000166116
 

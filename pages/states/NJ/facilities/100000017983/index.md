@@ -1,6 +1,6 @@
-# Unknown
+# Delaware River Plant
 
-**Location:** Unknown, NJ
+**Location:** Bridgeport, NJ
 
 **EPA Facility ID:** 100000017983
 

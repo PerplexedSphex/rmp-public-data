@@ -1,6 +1,6 @@
-# Unknown
+# Flagg Fertilizer & Chemical Co., Inc.
 
-**Location:** Unknown, TX
+**Location:** Dimmittt, TX
 
 **EPA Facility ID:** 100000115387
 

@@ -1,6 +1,6 @@
-# Unknown
+# Patterson Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Patterson, LA
 
 **EPA Facility ID:** 100000076259
 

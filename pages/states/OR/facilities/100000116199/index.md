@@ -1,6 +1,6 @@
-# Unknown
+# Scenic Fruit Company, Salem
 
-**Location:** Unknown, OR
+**Location:** Salem, OR
 
 **EPA Facility ID:** 100000116199
 

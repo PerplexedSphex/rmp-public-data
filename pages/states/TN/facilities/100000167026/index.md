@@ -1,6 +1,6 @@
-# Unknown
+# Chattanooga Propane Terminal
 
-**Location:** Unknown, TN
+**Location:** Chattanooga, TN
 
 **EPA Facility ID:** 100000167026
 

@@ -1,6 +1,6 @@
-# Unknown
+# AlliedSignal, Inc. - Buffalo Research Laboratory
 
-**Location:** Unknown, NY
+**Location:** Buffalo, NY
 
 **EPA Facility ID:** 100000088308
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bernardi Italian Foods
 
-**Location:** Unknown, PA
+**Location:** Bloomsburg, PA
 
 **EPA Facility ID:** 100000158152
 

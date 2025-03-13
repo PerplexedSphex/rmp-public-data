@@ -1,6 +1,6 @@
-# Unknown
+# Bradys Run San. Authority POTW
 
-**Location:** Unknown, PA
+**Location:** Beaver Falls, PA
 
 **EPA Facility ID:** 100000092446
 

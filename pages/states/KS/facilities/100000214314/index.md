@@ -1,6 +1,6 @@
-# Unknown
+# Dighton North
 
-**Location:** Unknown, KS
+**Location:** Dighton, KS
 
 **EPA Facility ID:** 100000214314
 

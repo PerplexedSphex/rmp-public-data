@@ -1,6 +1,6 @@
-# Unknown
+# Great Western Chemical Company - Anchorage
 
-**Location:** Unknown, AK
+**Location:** Anchorage, AK
 
 **EPA Facility ID:** 100000079201
 

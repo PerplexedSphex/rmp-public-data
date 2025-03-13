@@ -1,6 +1,6 @@
-# Unknown
+# 1-C Gas Plant
 
-**Location:** Unknown, CA
+**Location:** Taft, CA
 
 **EPA Facility ID:** 100000036686
 

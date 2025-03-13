@@ -1,6 +1,6 @@
-# Unknown
+# Brandt Agronomic Services LLC (Gridley)
 
-**Location:** Unknown, IL
+**Location:** Gridley, IL
 
 **EPA Facility ID:** 100000083848
 

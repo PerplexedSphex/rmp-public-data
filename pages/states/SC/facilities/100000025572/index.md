@@ -1,6 +1,6 @@
-# Unknown
+# Starmet CMI
 
-**Location:** Unknown, SC
+**Location:** Barnwell, SC
 
 **EPA Facility ID:** 100000025572
 

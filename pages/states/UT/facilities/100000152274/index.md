@@ -1,6 +1,6 @@
-# Unknown
+# Payson City WWTP
 
-**Location:** Unknown, UT
+**Location:** Payson, UT
 
 **EPA Facility ID:** 100000152274
 

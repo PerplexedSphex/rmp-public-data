@@ -1,6 +1,6 @@
-# Unknown
+# Petal Gas Storage Company
 
-**Location:** Unknown, MS
+**Location:** Petal, MS
 
 **EPA Facility ID:** 100000045694
 

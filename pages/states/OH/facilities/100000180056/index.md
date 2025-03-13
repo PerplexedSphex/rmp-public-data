@@ -1,6 +1,6 @@
-# Unknown
+# Shieldalloy Metallurgical Corporation
 
-**Location:** Unknown, OH
+**Location:** Cambridge, OH
 
 **EPA Facility ID:** 100000180056
 

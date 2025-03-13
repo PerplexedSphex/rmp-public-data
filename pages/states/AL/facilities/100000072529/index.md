@@ -1,6 +1,6 @@
-# Unknown
+# Hamilton Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Hamilton, AL
 
 **EPA Facility ID:** 100000072529
 

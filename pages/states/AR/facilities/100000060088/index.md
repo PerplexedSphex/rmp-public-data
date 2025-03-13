@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Inc.
 
-**Location:** Unknown, AR
+**Location:** Hope, AR
 
 **EPA Facility ID:** 100000060088
 

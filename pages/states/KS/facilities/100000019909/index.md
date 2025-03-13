@@ -1,6 +1,6 @@
-# Unknown
+# TWO RIVERS COOP ARKANSAS CITY
 
-**Location:** Unknown, KS
+**Location:** ARKANSAS CITY, KS
 
 **EPA Facility ID:** 100000019909
 

@@ -1,6 +1,6 @@
-# Unknown
+# Plant B
 
-**Location:** Unknown, LA
+**Location:** Lake Charles, LA
 
 **EPA Facility ID:** 100000106048
 

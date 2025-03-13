@@ -1,6 +1,6 @@
-# Unknown
+# Superior Solvents and Chemicals, Inc.
 
-**Location:** Unknown, KY
+**Location:** Louisville, KY
 
 **EPA Facility ID:** 100000158786
 

@@ -1,6 +1,6 @@
-# Unknown
+# Amick Farms, LLC
 
-**Location:** Unknown, MD
+**Location:** Hurlock, MD
 
 **EPA Facility ID:** 100000063717
 

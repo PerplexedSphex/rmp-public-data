@@ -1,6 +1,6 @@
-# Unknown
+# Lake Saltonstall Water Treatment Plant
 
-**Location:** Unknown, CT
+**Location:** East Haven, CT
 
 **EPA Facility ID:** 100000072422
 

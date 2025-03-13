@@ -1,6 +1,6 @@
-# Unknown
+# Tornado Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Mentone, TX
 
 **EPA Facility ID:** 100000242882
 

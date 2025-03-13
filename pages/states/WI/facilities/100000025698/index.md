@@ -1,6 +1,6 @@
-# Unknown
+# Goodwill Industries of Southeastern Wisconsin Inc.
 
-**Location:** Unknown, WI
+**Location:** Racine, WI
 
 **EPA Facility ID:** 100000025698
 

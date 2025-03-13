@@ -1,6 +1,6 @@
-# Unknown
+# Goodpasture, Inc.  Quanah Location
 
-**Location:** Unknown, TX
+**Location:** Quanah, TX
 
 **EPA Facility ID:** 100000015388
 

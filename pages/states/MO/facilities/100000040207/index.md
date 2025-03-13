@@ -1,6 +1,6 @@
-# Unknown
+# Smith Bros. Farm Supply, Inc dba Ball Fertilizer
 
-**Location:** Unknown, MO
+**Location:** Kahoka, MO
 
 **EPA Facility ID:** 100000040207
 

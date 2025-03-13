@@ -1,6 +1,6 @@
-# Unknown
+# United Farmers Coop - Gaylord
 
-**Location:** Unknown, MN
+**Location:** Gaylord, MN
 
 **EPA Facility ID:** 100000013148
 

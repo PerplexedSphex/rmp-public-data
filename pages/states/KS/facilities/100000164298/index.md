@@ -1,6 +1,6 @@
-# Unknown
+# Great Bend Cooperative Association-Radium
 
-**Location:** Unknown, KS
+**Location:** Radium, KS
 
 **EPA Facility ID:** 100000164298
 

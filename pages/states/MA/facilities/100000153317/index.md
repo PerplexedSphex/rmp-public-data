@@ -1,6 +1,6 @@
-# Unknown
+# Parlex Corporation
 
-**Location:** Unknown, MA
+**Location:** Methuen, MA
 
 **EPA Facility ID:** 100000153317
 

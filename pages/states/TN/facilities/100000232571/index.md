@@ -1,6 +1,6 @@
-# Unknown
+# Sinomax East, Inc.
 
-**Location:** Unknown, TN
+**Location:** La Vergne, TN
 
 **EPA Facility ID:** 100000232571
 

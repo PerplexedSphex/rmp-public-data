@@ -1,6 +1,6 @@
-# Unknown
+# South Texas Chlorine, Inc.
 
-**Location:** Unknown, TX
+**Location:** Harlingen, TX
 
 **EPA Facility ID:** 100000109223
 

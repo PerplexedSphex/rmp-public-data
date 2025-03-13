@@ -1,6 +1,6 @@
-# Unknown
+# Burr Oak Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Glouster, OH
 
 **EPA Facility ID:** 100000049912
 

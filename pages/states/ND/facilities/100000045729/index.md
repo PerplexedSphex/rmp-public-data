@@ -1,6 +1,6 @@
-# Unknown
+# City of Minot Water Treatment Plant
 
-**Location:** Unknown, ND
+**Location:** Minot, ND
 
 **EPA Facility ID:** 100000045729
 

@@ -1,6 +1,6 @@
-# Unknown
+# Chaska Wastewater Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Chaska, MN
 
 **EPA Facility ID:** 100000066304
 

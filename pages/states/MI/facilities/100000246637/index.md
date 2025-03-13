@@ -1,6 +1,6 @@
-# Unknown
+# Star of the West Milling
 
-**Location:** Unknown, MI
+**Location:** Frankenmuth, MI
 
 **EPA Facility ID:** 100000246637
 

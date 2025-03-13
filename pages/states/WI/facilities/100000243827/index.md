@@ -1,6 +1,6 @@
-# Unknown
+# Rosendale Renewable Energy, LLC
 
-**Location:** Unknown, WI
+**Location:** Pickett, WI
 
 **EPA Facility ID:** 100000243827
 

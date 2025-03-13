@@ -1,6 +1,6 @@
-# Unknown
+# Empire ABO Gas Plant
 
-**Location:** Unknown, NM
+**Location:** Artesia, NM
 
 **EPA Facility ID:** 100000075465
 

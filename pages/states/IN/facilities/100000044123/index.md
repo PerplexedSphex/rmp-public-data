@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South, Inc.
 
-**Location:** Unknown, IN
+**Location:** Ft Wayne, IN
 
 **EPA Facility ID:** 100000044123
 

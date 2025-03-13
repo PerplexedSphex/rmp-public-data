@@ -1,6 +1,6 @@
-# Unknown
+# Westinghouse Electric Company LLC
 
-**Location:** Unknown, SC
+**Location:** Hopkins, SC
 
 **EPA Facility ID:** 100000088479
 

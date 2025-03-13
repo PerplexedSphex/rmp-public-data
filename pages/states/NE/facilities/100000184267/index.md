@@ -1,6 +1,6 @@
-# Unknown
+# KAAPA Ethanol,L.L.C.
 
-**Location:** Unknown, NE
+**Location:** Minden, NE
 
 **EPA Facility ID:** 100000184267
 

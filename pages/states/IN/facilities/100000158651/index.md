@@ -1,6 +1,6 @@
-# Unknown
+# Auburn Water Pollution Control Facility
 
-**Location:** Unknown, IN
+**Location:** Auburn, IN
 
 **EPA Facility ID:** 100000158651
 

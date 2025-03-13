@@ -1,6 +1,6 @@
-# Unknown
+# Sioux Falls Water Purification Plant
 
-**Location:** Unknown, SD
+**Location:** Sioux Falls, SD
 
 **EPA Facility ID:** 100000050534
 

@@ -1,6 +1,6 @@
-# Unknown
+# Framatome - Richland Plant
 
-**Location:** Unknown, WA
+**Location:** Richland, WA
 
 **EPA Facility ID:** 100000112255
 

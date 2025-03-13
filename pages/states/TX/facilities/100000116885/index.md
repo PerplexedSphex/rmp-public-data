@@ -1,6 +1,6 @@
-# Unknown
+# City of Bay City Water Reclamation Facility
 
-**Location:** Unknown, TX
+**Location:** Bay City, TX
 
 **EPA Facility ID:** 100000116885
 

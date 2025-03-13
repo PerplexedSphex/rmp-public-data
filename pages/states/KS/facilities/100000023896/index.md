@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Ag Inc-Brewster NH3 Plant
 
-**Location:** Unknown, KS
+**Location:** Brewster, KS
 
 **EPA Facility ID:** 100000023896
 

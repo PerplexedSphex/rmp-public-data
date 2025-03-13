@@ -1,6 +1,6 @@
-# Unknown
+# Olin Corporation, Niagara Falls, NY-Foote Yard
 
-**Location:** Unknown, NY
+**Location:** Niagara Falls, NY
 
 **EPA Facility ID:** 100000115895
 

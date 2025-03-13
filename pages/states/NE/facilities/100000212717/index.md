@@ -1,6 +1,6 @@
-# Unknown
+# Whelan Energy Center Unit 2
 
-**Location:** Unknown, NE
+**Location:** Hastings, NE
 
 **EPA Facility ID:** 100000212717
 

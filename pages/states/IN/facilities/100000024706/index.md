@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water-Kokomo
 
-**Location:** Unknown, IN
+**Location:** Kokomo, IN
 
 **EPA Facility ID:** 100000024706
 

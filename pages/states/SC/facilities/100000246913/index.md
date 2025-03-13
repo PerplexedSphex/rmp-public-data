@@ -1,6 +1,6 @@
-# Unknown
+# Palmetto Pedic LLC
 
-**Location:** Unknown, SC
+**Location:** Gaffney, SC
 
 **EPA Facility ID:** 100000246913
 

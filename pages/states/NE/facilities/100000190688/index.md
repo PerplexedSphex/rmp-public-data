@@ -1,6 +1,6 @@
-# Unknown
+# Superior, NE Satellite
 
-**Location:** Unknown, NE
+**Location:** Superior, NE
 
 **EPA Facility ID:** 100000190688
 

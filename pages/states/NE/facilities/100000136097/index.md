@@ -1,6 +1,6 @@
-# Unknown
+# HiLIne Cooperative, Inc. Wallace
 
-**Location:** Unknown, NE
+**Location:** Wallace, NE
 
 **EPA Facility ID:** 100000136097
 

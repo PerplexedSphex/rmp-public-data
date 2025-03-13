@@ -1,6 +1,6 @@
-# Unknown
+# Newport Utilities Board Water Plant
 
-**Location:** Unknown, TN
+**Location:** Newport, TN
 
 **EPA Facility ID:** 100000123216
 

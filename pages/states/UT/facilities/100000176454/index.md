@@ -1,6 +1,6 @@
-# Unknown
+# Horizon Organic Dairy, LLC
 
-**Location:** Unknown, UT
+**Location:** Salt Lake City, UT
 
 **EPA Facility ID:** 100000176454
 

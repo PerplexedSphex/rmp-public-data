@@ -1,6 +1,6 @@
-# Unknown
+# Citco Water, Inc. - Huntington
 
-**Location:** Unknown, WV
+**Location:** Huntington, WV
 
 **EPA Facility ID:** 100000197501
 

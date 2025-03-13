@@ -1,6 +1,6 @@
-# Unknown
+# Kroger GLRDC
 
-**Location:** Unknown, OH
+**Location:** Delaware, OH
 
 **EPA Facility ID:** 100000181947
 

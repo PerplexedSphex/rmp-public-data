@@ -1,6 +1,6 @@
-# Unknown
+# Solo Cup Company, Augusta Plant
 
-**Location:** Unknown, GA
+**Location:** Augusta, GA
 
 **EPA Facility ID:** 100000049002
 

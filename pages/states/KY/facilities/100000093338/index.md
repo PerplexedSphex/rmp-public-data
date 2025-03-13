@@ -1,6 +1,6 @@
-# Unknown
+# Clinton, KY 2271
 
-**Location:** Unknown, KY
+**Location:** Clinton, KY
 
 **EPA Facility ID:** 100000093338
 

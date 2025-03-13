@@ -1,6 +1,6 @@
-# Unknown
+# Dubach Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Dubach, LA
 
 **EPA Facility ID:** 100000132787
 

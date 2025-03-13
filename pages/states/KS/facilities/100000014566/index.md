@@ -1,6 +1,6 @@
-# Unknown
+# YATES CENTER
 
-**Location:** Unknown, KS
+**Location:** YATES CENTER, KS
 
 **EPA Facility ID:** 100000014566
 

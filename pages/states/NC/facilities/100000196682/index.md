@@ -1,6 +1,6 @@
-# Unknown
+# Global Companies - Apex Terminal 
 
-**Location:** Unknown, NC
+**Location:** Apex, NC
 
 **EPA Facility ID:** 100000196682
 

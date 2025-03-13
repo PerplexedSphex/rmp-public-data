@@ -1,6 +1,6 @@
-# Unknown
+# Diatec Environmental Company - Southgate
 
-**Location:** Unknown, CA
+**Location:** Southgate, CA
 
 **EPA Facility ID:** 100000139414
 

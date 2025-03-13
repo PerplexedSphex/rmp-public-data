@@ -1,6 +1,6 @@
-# Unknown
+# Polo Coop Fertilizer Plant
 
-**Location:** Unknown, IL
+**Location:** Polo, IL
 
 **EPA Facility ID:** 100000023752
 

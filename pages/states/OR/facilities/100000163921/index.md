@@ -1,6 +1,6 @@
-# Unknown
+# Specialty Polymers, Incorporated
 
-**Location:** Unknown, OR
+**Location:** Woodburn, OR
 
 **EPA Facility ID:** 100000163921
 

@@ -1,6 +1,6 @@
-# Unknown
+# Landus Cooperative - Somers
 
-**Location:** Unknown, IA
+**Location:** Somers, IA
 
 **EPA Facility ID:** 100000004988
 

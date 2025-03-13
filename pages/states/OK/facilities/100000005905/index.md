@@ -1,6 +1,6 @@
-# Unknown
+# Banner Coop Elevator Association
 
-**Location:** Unknown, OK
+**Location:** El Reno, OK
 
 **EPA Facility ID:** 100000005905
 

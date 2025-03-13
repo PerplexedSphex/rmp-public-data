@@ -1,6 +1,6 @@
-# Unknown
+# Eaton Plant
 
-**Location:** Unknown, CO
+**Location:** Eaton, CO
 
 **EPA Facility ID:** 100000064921
 

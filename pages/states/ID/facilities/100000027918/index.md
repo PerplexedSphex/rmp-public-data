@@ -1,6 +1,6 @@
-# Unknown
+# Western Farm Service, Craigmont
 
-**Location:** Unknown, ID
+**Location:** Craigmont, ID
 
 **EPA Facility ID:** 100000027918
 

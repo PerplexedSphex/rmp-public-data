@@ -1,6 +1,6 @@
-# Unknown
+# Essex Control Center
 
-**Location:** Unknown, CA
+**Location:** Arcata, CA
 
 **EPA Facility ID:** 100000127141
 

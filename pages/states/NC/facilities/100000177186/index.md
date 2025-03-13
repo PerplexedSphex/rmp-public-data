@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South Inc.
 
-**Location:** Unknown, NC
+**Location:** Greensboro, NC
 
 **EPA Facility ID:** 100000177186
 

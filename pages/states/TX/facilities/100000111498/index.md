@@ -1,6 +1,6 @@
-# Unknown
+# Wharton Chemical Complex
 
-**Location:** Unknown, TX
+**Location:** Hungerford, TX
 
 **EPA Facility ID:** 100000111498
 

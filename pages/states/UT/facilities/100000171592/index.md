@@ -1,6 +1,6 @@
-# Unknown
+# Compeq International
 
-**Location:** Unknown, UT
+**Location:** Salt Lake City, UT
 
 **EPA Facility ID:** 100000171592
 

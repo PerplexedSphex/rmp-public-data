@@ -1,6 +1,6 @@
-# Unknown
+# Ione Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Ione, CA
 
 **EPA Facility ID:** 100000106226
 

@@ -1,6 +1,6 @@
-# Unknown
+# Delhi NGL Plant
 
-**Location:** Unknown, LA
+**Location:** Delhi, LA
 
 **EPA Facility ID:** 100000233552
 

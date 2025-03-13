@@ -1,6 +1,6 @@
-# Unknown
+# FUJIFILM Wako Chemicals U.S.A. Corporation
 
-**Location:** Unknown, VA
+**Location:** Richmond, VA
 
 **EPA Facility ID:** 100000224296
 

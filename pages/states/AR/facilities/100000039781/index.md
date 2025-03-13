@@ -1,6 +1,6 @@
-# Unknown
+# Odom's Tennessee Pride - Little Rock, AR
 
-**Location:** Unknown, AR
+**Location:** Little Rock, AR
 
 **EPA Facility ID:** 100000039781
 

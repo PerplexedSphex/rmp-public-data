@@ -1,6 +1,6 @@
-# Unknown
+# CITY OF ELYRIA WASTEWATER POLLUTION CONTROL PLANT
 
-**Location:** Unknown, OH
+**Location:** ELYRIA, OH
 
 **EPA Facility ID:** 100000037881
 

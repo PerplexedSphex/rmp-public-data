@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Litchville
 
-**Location:** Unknown, ND
+**Location:** Litchville, ND
 
 **EPA Facility ID:** 100000014664
 

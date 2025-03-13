@@ -1,6 +1,6 @@
-# Unknown
+# Seitz Foods, Inc.
 
-**Location:** Unknown, MO
+**Location:** St. Joseph, MO
 
 **EPA Facility ID:** 100000062077
 

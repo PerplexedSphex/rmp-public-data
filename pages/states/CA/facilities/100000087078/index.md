@@ -1,6 +1,6 @@
-# Unknown
+# Clark Foam (CalARP)
 
-**Location:** Unknown, CA
+**Location:** Laguna Niguel, CA
 
 **EPA Facility ID:** 100000087078
 

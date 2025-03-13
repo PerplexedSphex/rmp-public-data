@@ -1,6 +1,6 @@
-# Unknown
+# Light LPG Terminal
 
-**Location:** Unknown, AR
+**Location:** Bono (Light), AR
 
 **EPA Facility ID:** 100000188584
 

@@ -1,6 +1,6 @@
-# Unknown
+# Deadwood Facility
 
-**Location:** Unknown, TX
+**Location:** Carthage, TX
 
 **EPA Facility ID:** 100000250051
 

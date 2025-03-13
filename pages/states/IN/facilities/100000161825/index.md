@@ -1,6 +1,6 @@
-# Unknown
+# Huntington Water Dept.
 
-**Location:** Unknown, IN
+**Location:** Huntington,, IN
 
 **EPA Facility ID:** 100000161825
 

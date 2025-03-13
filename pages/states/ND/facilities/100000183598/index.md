@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Drayton
 
-**Location:** Unknown, ND
+**Location:** Drayton, ND
 
 **EPA Facility ID:** 100000183598
 

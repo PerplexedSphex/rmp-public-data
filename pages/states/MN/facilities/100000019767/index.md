@@ -1,6 +1,6 @@
-# Unknown
+# Prinsburg Farmers Co-op
 
-**Location:** Unknown, MN
+**Location:** Prinsburg, MN
 
 **EPA Facility ID:** 100000019767
 

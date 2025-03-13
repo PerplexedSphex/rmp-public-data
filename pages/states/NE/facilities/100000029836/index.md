@@ -1,6 +1,6 @@
-# Unknown
+# City of Columbus - Wastewater Treatment Facility
 
-**Location:** Unknown, NE
+**Location:** Columbus, NE
 
 **EPA Facility ID:** 100000029836
 

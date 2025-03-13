@@ -1,6 +1,6 @@
-# Unknown
+# SHELBYVILLE WATER TREATMENT PLANT
 
-**Location:** Unknown, KY
+**Location:** SHELBYVILLE, KY
 
 **EPA Facility ID:** 100000155413
 

@@ -1,6 +1,6 @@
-# Unknown
+# Shipman Elevator Co. Carlinville Branch
 
-**Location:** Unknown, IL
+**Location:** Carlinville, IL
 
 **EPA Facility ID:** 100000150294
 

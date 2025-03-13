@@ -1,6 +1,6 @@
-# Unknown
+# Palmer Logistics Grand Prairie
 
-**Location:** Unknown, TX
+**Location:** Grand Prairie, TX
 
 **EPA Facility ID:** 100000224161
 

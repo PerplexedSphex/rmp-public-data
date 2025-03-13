@@ -1,6 +1,6 @@
-# Unknown
+# Long Beach Groundwater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Long Beach, CA
 
 **EPA Facility ID:** 100000132901
 

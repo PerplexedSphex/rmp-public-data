@@ -1,6 +1,6 @@
-# Unknown
+# EMC Packaging, Inc.
 
-**Location:** Unknown, NJ
+**Location:** Lakewood, NJ
 
 **EPA Facility ID:** 100000192418
 

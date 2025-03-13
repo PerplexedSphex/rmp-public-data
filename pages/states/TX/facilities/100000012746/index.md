@@ -1,6 +1,6 @@
-# Unknown
+# Giddings Plant
 
-**Location:** Unknown, TX
+**Location:** La Grange, TX
 
 **EPA Facility ID:** 100000012746
 

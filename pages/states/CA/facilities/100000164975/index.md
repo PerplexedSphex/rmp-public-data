@@ -1,6 +1,6 @@
-# Unknown
+# Pasadena Water & Power City Yards Facility
 
-**Location:** Unknown, CA
+**Location:** Pasadena, CA
 
 **EPA Facility ID:** 100000164975
 

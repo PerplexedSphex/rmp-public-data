@@ -1,6 +1,6 @@
-# Unknown
+# Quincy Foods 
 
-**Location:** Unknown, WA
+**Location:** Quincy, WA
 
 **EPA Facility ID:** 100000239592
 

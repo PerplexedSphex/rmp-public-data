@@ -1,6 +1,6 @@
-# Unknown
+# ThermaTru Corporation
 
-**Location:** Unknown, IN
+**Location:** Butler, IN
 
 **EPA Facility ID:** 100000216287
 

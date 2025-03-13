@@ -1,6 +1,6 @@
-# Unknown
+# DG Distribution IN LLC
 
-**Location:** Unknown, IN
+**Location:** Westville, IN
 
 **EPA Facility ID:** 100000177275
 

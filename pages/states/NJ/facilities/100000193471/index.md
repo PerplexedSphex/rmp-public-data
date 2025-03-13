@@ -1,6 +1,6 @@
-# Unknown
+# Voltaix LLC
 
-**Location:** Unknown, NJ
+**Location:** North Branch, NJ
 
 **EPA Facility ID:** 100000193471
 

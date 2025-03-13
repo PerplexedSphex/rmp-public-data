@@ -1,6 +1,6 @@
-# Unknown
+# Riverbend Meats - Idaho Falls, ID
 
-**Location:** Unknown, ID
+**Location:** Idaho Falls, ID
 
 **EPA Facility ID:** 100000249812
 

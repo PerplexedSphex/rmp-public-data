@@ -1,6 +1,6 @@
-# Unknown
+# CENTRAL PRAIRIE CO-OP - GENESEO FACILITY
 
-**Location:** Unknown, KS
+**Location:** GENESEO, KS
 
 **EPA Facility ID:** 100000138184
 

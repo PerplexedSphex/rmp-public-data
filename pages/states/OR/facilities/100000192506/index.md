@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Portland 1
 
-**Location:** Unknown, OR
+**Location:** Portland, OR
 
 **EPA Facility ID:** 100000192506
 

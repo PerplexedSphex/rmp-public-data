@@ -1,6 +1,6 @@
-# Unknown
+# Americold, Tradewater   #75194
 
-**Location:** Unknown, GA
+**Location:** Atlanta, GA
 
 **EPA Facility ID:** 100000189468
 

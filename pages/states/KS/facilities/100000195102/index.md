@@ -1,6 +1,6 @@
-# Unknown
+# Lucas NH3 Plant East
 
-**Location:** Unknown, KS
+**Location:** Lucas, KS
 
 **EPA Facility ID:** 100000195102
 

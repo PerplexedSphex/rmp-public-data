@@ -1,6 +1,6 @@
-# Unknown
+# Thatcher Company of California, Inc. - Stockton
 
-**Location:** Unknown, CA
+**Location:** Stockton, CA
 
 **EPA Facility ID:** 100000133991
 

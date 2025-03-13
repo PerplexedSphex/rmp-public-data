@@ -1,6 +1,6 @@
-# Unknown
+# Miller Electric Mfg. LLC
 
-**Location:** Unknown, WI
+**Location:** Appleton, WI
 
 **EPA Facility ID:** 100000036917
 

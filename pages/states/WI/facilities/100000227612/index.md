@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. Hixton Propane Terminal
 
-**Location:** Unknown, WI
+**Location:** Hixton, WI
 
 **EPA Facility ID:** 100000227612
 

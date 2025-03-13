@@ -1,6 +1,6 @@
-# Unknown
+# Table Rock Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Cleveland, SC
 
 **EPA Facility ID:** 100000036784
 

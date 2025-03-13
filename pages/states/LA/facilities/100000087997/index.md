@@ -1,6 +1,6 @@
-# Unknown
+# LaRoche Industries Inc. - Gramercy Facility
 
-**Location:** Unknown, LA
+**Location:** Gramercy, LA
 
 **EPA Facility ID:** 100000087997
 

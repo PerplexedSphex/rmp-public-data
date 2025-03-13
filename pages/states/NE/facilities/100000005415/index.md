@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Clarks NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Clarks, NE
 
 **EPA Facility ID:** 100000005415
 

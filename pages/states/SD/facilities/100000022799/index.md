@@ -1,6 +1,6 @@
-# Unknown
+# Groton Facility
 
-**Location:** Unknown, SD
+**Location:** Groton, SD
 
 **EPA Facility ID:** 100000022799
 

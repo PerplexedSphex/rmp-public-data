@@ -1,6 +1,6 @@
-# Unknown
+# Lower Hollywood Reservoir Outlet Chl. Station
 
-**Location:** Unknown, CA
+**Location:** Hollywood, CA
 
 **EPA Facility ID:** 100000145531
 

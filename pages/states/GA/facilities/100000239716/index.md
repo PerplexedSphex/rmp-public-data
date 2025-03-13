@@ -1,6 +1,6 @@
-# Unknown
+# Georgia Northeastern
 
-**Location:** Unknown, GA
+**Location:** Marietta, GA
 
 **EPA Facility ID:** 100000239716
 

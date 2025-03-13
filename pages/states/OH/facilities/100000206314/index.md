@@ -1,6 +1,6 @@
-# Unknown
+# Church & Dwight Co., Inc.
 
-**Location:** Unknown, OH
+**Location:** Fostoria, OH
 
 **EPA Facility ID:** 100000206314
 

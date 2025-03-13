@@ -1,6 +1,6 @@
-# Unknown
+# Koch Foods Inc. Plant B
 
-**Location:** Unknown, OH
+**Location:** Fairfield, OH
 
 **EPA Facility ID:** 100000254173
 

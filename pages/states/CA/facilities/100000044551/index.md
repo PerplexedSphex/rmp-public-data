@@ -1,6 +1,6 @@
-# Unknown
+# Orland Fertilizer & Chemical Company
 
-**Location:** Unknown, CA
+**Location:** Orland, CA
 
 **EPA Facility ID:** 100000044551
 

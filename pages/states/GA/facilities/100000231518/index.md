@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Swainsboro
 
-**Location:** Unknown, GA
+**Location:** Swainsboro, GA
 
 **EPA Facility ID:** 100000231518
 

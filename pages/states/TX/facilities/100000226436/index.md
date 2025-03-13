@@ -1,6 +1,6 @@
-# Unknown
+# Edward Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Midkiff, TX
 
 **EPA Facility ID:** 100000226436
 

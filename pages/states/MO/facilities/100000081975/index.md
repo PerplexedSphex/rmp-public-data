@@ -1,6 +1,6 @@
-# Unknown
+# Coop Service Center
 
-**Location:** Unknown, MO
+**Location:** Jackson, MO
 
 **EPA Facility ID:** 100000081975
 

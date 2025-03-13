@@ -1,6 +1,6 @@
-# Unknown
+# Northwest Alloys, Inc.
 
-**Location:** Unknown, WA
+**Location:** Addy, WA
 
 **EPA Facility ID:** 100000146442
 

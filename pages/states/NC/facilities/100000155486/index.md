@@ -1,6 +1,6 @@
-# Unknown
+# Harris Teeter Greensboro Perishable Foods Dist.
 
-**Location:** Unknown, NC
+**Location:** Greensboro, NC
 
 **EPA Facility ID:** 100000155486
 

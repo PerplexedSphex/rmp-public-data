@@ -1,6 +1,6 @@
-# Unknown
+# Surpass Chemical Company, Inc. Bridge Street Plant
 
-**Location:** Unknown, NY
+**Location:** Albany, NY
 
 **EPA Facility ID:** 100000115706
 

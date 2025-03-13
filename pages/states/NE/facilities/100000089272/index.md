@@ -1,6 +1,6 @@
-# Unknown
+# Tri-Con Industries, Ltd. Manufacturing Plant
 
-**Location:** Unknown, NE
+**Location:** Lincoln, NE
 
 **EPA Facility ID:** 100000089272
 

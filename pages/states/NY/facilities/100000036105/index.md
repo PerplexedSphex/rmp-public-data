@@ -1,6 +1,6 @@
-# Unknown
+# City Of Ogdensburg Wastewater treatment plant
 
-**Location:** Unknown, NY
+**Location:** Ogdensburg, NY
 
 **EPA Facility ID:** 100000036105
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gas Supply Resources - York Terminal
 
-**Location:** Unknown, PA
+**Location:** York, PA
 
 **EPA Facility ID:** 100000203932
 

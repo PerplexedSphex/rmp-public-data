@@ -1,6 +1,6 @@
-# Unknown
+# Clearwater Paper Corporation - Augusta Mill
 
-**Location:** Unknown, GA
+**Location:** Augusta, GA
 
 **EPA Facility ID:** 100000118286
 

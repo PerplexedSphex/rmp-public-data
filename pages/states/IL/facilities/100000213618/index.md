@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc - Shipman -  Raymond
 
-**Location:** Unknown, IL
+**Location:** Raymond, IL
 
 **EPA Facility ID:** 100000213618
 

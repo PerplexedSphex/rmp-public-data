@@ -1,6 +1,6 @@
-# Unknown
+# Courtney Bend Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Sugar Creek, MO
 
 **EPA Facility ID:** 100000054022
 

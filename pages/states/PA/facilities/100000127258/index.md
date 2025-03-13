@@ -1,6 +1,6 @@
-# Unknown
+# East Penn Manufacturing Company, Incorporated
 
-**Location:** Unknown, PA
+**Location:** Lyon Station, PA
 
 **EPA Facility ID:** 100000127258
 

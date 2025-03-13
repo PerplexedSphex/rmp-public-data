@@ -1,6 +1,6 @@
-# Unknown
+# KROWN INC DBA HI-YIELD PRODUCTS
 
-**Location:** Unknown, MN
+**Location:** HARTLAND, MN
 
 **EPA Facility ID:** 100000000580
 

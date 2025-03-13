@@ -1,6 +1,6 @@
-# Unknown
+# Loida Ag Service, LLC
 
-**Location:** Unknown, MO
+**Location:** Perryville, MO
 
 **EPA Facility ID:** 100000197896
 

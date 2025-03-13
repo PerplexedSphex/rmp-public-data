@@ -1,6 +1,6 @@
-# Unknown
+# Wyman-Gordon Company North Grafton Plant
 
-**Location:** Unknown, MA
+**Location:** North Grafton, MA
 
 **EPA Facility ID:** 100000082359
 

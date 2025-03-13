@@ -1,6 +1,6 @@
-# Unknown
+# City of Edmonds Wastewater Treatment Plant
 
-**Location:** Unknown, WA
+**Location:** Edmonds, WA
 
 **EPA Facility ID:** 100000132698
 

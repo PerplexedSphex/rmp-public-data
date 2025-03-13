@@ -1,6 +1,6 @@
-# Unknown
+# Lamb Weston Hermiston Facility
 
-**Location:** Unknown, OR
+**Location:** Hermiston, OR
 
 **EPA Facility ID:** 100000027384
 

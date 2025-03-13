@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Oslo
 
-**Location:** Unknown, MN
+**Location:** OLSO, MN
 
 **EPA Facility ID:** 100000019785
 

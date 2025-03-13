@@ -1,6 +1,6 @@
-# Unknown
+# Hutchinson Co-op/ Arlington Site
 
-**Location:** Unknown, MN
+**Location:** Arlington, MN
 
 **EPA Facility ID:** 100000059161
 

@@ -1,6 +1,6 @@
-# Unknown
+# Colby, KS 1362
 
-**Location:** Unknown, KS
+**Location:** Colby, KS
 
 **EPA Facility ID:** 100000031299
 

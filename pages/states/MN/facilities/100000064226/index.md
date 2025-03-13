@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Luverne
 
-**Location:** Unknown, MN
+**Location:** Luverne, MN
 
 **EPA Facility ID:** 100000064226
 

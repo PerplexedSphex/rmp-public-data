@@ -1,6 +1,6 @@
-# Unknown
+# CENTRAL PRAIRIE CO-OP - BUSHTON FACILITY
 
-**Location:** Unknown, KS
+**Location:** Bushton, KS
 
 **EPA Facility ID:** 100000022888
 

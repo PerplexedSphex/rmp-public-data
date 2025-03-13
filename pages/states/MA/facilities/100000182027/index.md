@@ -1,6 +1,6 @@
-# Unknown
+# New England Confectionery Company
 
-**Location:** Unknown, MA
+**Location:** Revere, MA
 
 **EPA Facility ID:** 100000182027
 

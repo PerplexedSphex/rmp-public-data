@@ -1,6 +1,6 @@
-# Unknown
+# City of Steubenville, Wastewater Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Steubenville, OH
 
 **EPA Facility ID:** 100000167883
 

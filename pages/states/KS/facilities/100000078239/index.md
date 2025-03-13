@@ -1,6 +1,6 @@
-# Unknown
+# Russell Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Russell, KS
 
 **EPA Facility ID:** 100000078239
 

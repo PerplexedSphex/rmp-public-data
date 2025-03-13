@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Hopkinsville Coop, Inc.
 
-**Location:** Unknown, KY
+**Location:** Gracey, KY
 
 **EPA Facility ID:** 100000104683
 

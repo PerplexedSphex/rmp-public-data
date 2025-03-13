@@ -1,6 +1,6 @@
-# Unknown
+# James W. Jardine Water Purification Plant (JWPP)
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000045505
 

@@ -1,6 +1,6 @@
-# Unknown
+# Jacobson Warehouse Co. Inc.
 
-**Location:** Unknown, NJ
+**Location:** Edison, NJ
 
 **EPA Facility ID:** 100000161549
 

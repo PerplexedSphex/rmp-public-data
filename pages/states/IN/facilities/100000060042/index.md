@@ -1,6 +1,6 @@
-# Unknown
+# Bluffton Wastewater Treatment Facility
 
-**Location:** Unknown, IN
+**Location:** Bluffton, IN
 
 **EPA Facility ID:** 100000060042
 

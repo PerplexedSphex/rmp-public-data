@@ -1,6 +1,6 @@
-# Unknown
+# CENTRAL PRAIRIE CO-OP - FREDERICK FACILITY
 
-**Location:** Unknown, KS
+**Location:** FREDERICK, KS
 
 **EPA Facility ID:** 100000023459
 

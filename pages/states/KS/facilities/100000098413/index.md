@@ -1,6 +1,6 @@
-# Unknown
+# Bellaire Elevator
 
-**Location:** Unknown, KS
+**Location:** Lebanon, KS
 
 **EPA Facility ID:** 100000098413
 

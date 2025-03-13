@@ -1,6 +1,6 @@
-# Unknown
+# IndChem, Inc.
 
-**Location:** Unknown, GA
+**Location:** Augusta, GA
 
 **EPA Facility ID:** 100000105272
 

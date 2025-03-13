@@ -1,6 +1,6 @@
-# Unknown
+# Illinois-American Water Company San Koty facility
 
-**Location:** Unknown, IL
+**Location:** Peoria, IL
 
 **EPA Facility ID:** 100000139432
 

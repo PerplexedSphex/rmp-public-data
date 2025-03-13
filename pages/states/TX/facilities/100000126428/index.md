@@ -1,6 +1,6 @@
-# Unknown
+# Mallet CO2 Recovery Plant
 
-**Location:** Unknown, TX
+**Location:** Sundown, TX
 
 **EPA Facility ID:** 100000126428
 

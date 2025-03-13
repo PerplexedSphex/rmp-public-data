@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. -  Kanco
 
-**Location:** Unknown, KS
+**Location:** Kanco, KS
 
 **EPA Facility ID:** 100000150221
 

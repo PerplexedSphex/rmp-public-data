@@ -1,6 +1,6 @@
-# Unknown
+# Coronado Generating Station
 
-**Location:** Unknown, AZ
+**Location:** St. Johns, AZ
 
 **EPA Facility ID:** 100000003426
 

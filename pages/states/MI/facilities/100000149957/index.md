@@ -1,6 +1,6 @@
-# Unknown
+# Cooper MAT LLC
 
-**Location:** Unknown, MI
+**Location:** Detroit, MI
 
 **EPA Facility ID:** 100000149957
 

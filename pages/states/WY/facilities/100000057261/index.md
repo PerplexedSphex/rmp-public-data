@@ -1,6 +1,6 @@
-# Unknown
+# GR/RS/Sw Co. J.P.W.B. Water Treatment Facility
 
-**Location:** Unknown, WY
+**Location:** Green River, WY
 
 **EPA Facility ID:** 100000057261
 

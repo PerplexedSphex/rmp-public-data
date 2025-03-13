@@ -1,6 +1,6 @@
-# Unknown
+# Great Bend Coop Association- Ellinwood
 
-**Location:** Unknown, KS
+**Location:** Ellinwood, KS
 
 **EPA Facility ID:** 100000010141
 

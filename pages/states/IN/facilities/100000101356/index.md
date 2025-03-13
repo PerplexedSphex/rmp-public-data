@@ -1,6 +1,6 @@
-# Unknown
+# New Castle Stainless Plate, LLC
 
-**Location:** Unknown, IN
+**Location:** New Castle, IN
 
 **EPA Facility ID:** 100000101356
 

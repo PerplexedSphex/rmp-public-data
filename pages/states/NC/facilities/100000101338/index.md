@@ -1,6 +1,6 @@
-# Unknown
+# Future Foam, Inc
 
-**Location:** Unknown, NC
+**Location:** High Point, NC
 
 **EPA Facility ID:** 100000101338
 

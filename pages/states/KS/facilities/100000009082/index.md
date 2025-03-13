@@ -1,6 +1,6 @@
-# Unknown
+# Scott Cooperative Associaiton - Shallow Water
 
-**Location:** Unknown, KS
+**Location:** Scott City, KS
 
 **EPA Facility ID:** 100000009082
 

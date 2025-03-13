@@ -1,6 +1,6 @@
-# Unknown
+# Northeast Wastewater Treatment Facility
 
-**Location:** Unknown, NE
+**Location:** Lincoln, NE
 
 **EPA Facility ID:** 100000086097
 

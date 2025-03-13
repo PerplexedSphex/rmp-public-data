@@ -1,6 +1,6 @@
-# Unknown
+# Southeastern Adhesives Company
 
-**Location:** Unknown, NC
+**Location:** Lenoir, NC
 
 **EPA Facility ID:** 100000132073
 

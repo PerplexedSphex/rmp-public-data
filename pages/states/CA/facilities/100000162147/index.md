@@ -1,6 +1,6 @@
-# Unknown
+# Horace Hinckley Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Redlands, CA
 
 **EPA Facility ID:** 100000162147
 

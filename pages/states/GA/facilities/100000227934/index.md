@@ -1,6 +1,6 @@
-# Unknown
+# Americold, Gainesville Candler
 
-**Location:** Unknown, GA
+**Location:** Gainesville, GA
 
 **EPA Facility ID:** 100000227934
 

@@ -1,6 +1,6 @@
-# Unknown
+# CENTRAL PRAIRIE CO-OP - LORRAINE FACILITY
 
-**Location:** Unknown, KS
+**Location:** LORRAINE, KS
 
 **EPA Facility ID:** 100000139272
 

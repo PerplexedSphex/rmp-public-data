@@ -1,6 +1,6 @@
-# Unknown
+# City of Bennettsville Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Bennettsville, SC
 
 **EPA Facility ID:** 100000021371
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Quincy WWTP
 
-**Location:** Unknown, WA
+**Location:** Quincy, WA
 
 **EPA Facility ID:** 100000199395
 

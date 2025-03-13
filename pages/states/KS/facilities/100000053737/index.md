@@ -1,6 +1,6 @@
-# Unknown
+# Mid-West Fertilizer, Inc. - Independence
 
-**Location:** Unknown, KS
+**Location:** Independence, KS
 
 **EPA Facility ID:** 100000053737
 

@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage, Minooka
 
-**Location:** Unknown, IL
+**Location:** Minooka, IL
 
 **EPA Facility ID:** 100000051301
 

@@ -1,6 +1,6 @@
-# Unknown
+# Foamex L.P.
 
-**Location:** Unknown, NC
+**Location:** Conover, NC
 
 **EPA Facility ID:** 100000104978
 

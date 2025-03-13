@@ -1,6 +1,6 @@
-# Unknown
+# Co-op Elevator of McClusky - NH3 Plant
 
-**Location:** Unknown, ND
+**Location:** Denhoff, ND
 
 **EPA Facility ID:** 100000157992
 

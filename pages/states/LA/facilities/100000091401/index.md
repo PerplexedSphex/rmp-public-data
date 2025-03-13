@@ -1,6 +1,6 @@
-# Unknown
+# Jefferson Parish East Bank WWTP
 
-**Location:** Unknown, LA
+**Location:** Harahan, LA
 
 **EPA Facility ID:** 100000091401
 

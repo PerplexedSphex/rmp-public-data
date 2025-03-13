@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. dba Southwest Grain Dickinson, ND
 
-**Location:** Unknown, ND
+**Location:** Dickinson, ND
 
 **EPA Facility ID:** 100000167623
 

@@ -1,6 +1,6 @@
-# Unknown
+# Centralia Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Centralia, IL
 
 **EPA Facility ID:** 100000084776
 

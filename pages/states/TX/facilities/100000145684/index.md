@@ -1,6 +1,6 @@
-# Unknown
+# North Fayette Gas Sweetening Plant
 
-**Location:** Unknown, TX
+**Location:** Giddings, TX
 
 **EPA Facility ID:** 100000145684
 

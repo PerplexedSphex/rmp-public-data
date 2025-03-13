@@ -1,6 +1,6 @@
-# Unknown
+# St. Bernard Parish Water Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Chalmette, LA
 
 **EPA Facility ID:** 100000083857
 

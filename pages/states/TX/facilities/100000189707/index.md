@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant No. 2
 
-**Location:** Unknown, TX
+**Location:** San Juan, TX
 
 **EPA Facility ID:** 100000189707
 

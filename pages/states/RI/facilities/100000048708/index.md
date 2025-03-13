@@ -1,6 +1,6 @@
-# Unknown
+# Tanner Industries, Inc.
 
-**Location:** Unknown, RI
+**Location:** East Providence, RI
 
 **EPA Facility ID:** 100000048708
 

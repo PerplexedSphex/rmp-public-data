@@ -1,6 +1,6 @@
-# Unknown
+# Scottsboro Aluminum, LLC
 
-**Location:** Unknown, AL
+**Location:** Scottsboro, AL
 
 **EPA Facility ID:** 100000143374
 

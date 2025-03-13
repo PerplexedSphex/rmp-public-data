@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Mantador
 
-**Location:** Unknown, ND
+**Location:** Mantador, ND
 
 **EPA Facility ID:** 100000030272
 

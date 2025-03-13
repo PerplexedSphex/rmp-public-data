@@ -1,6 +1,6 @@
-# Unknown
+# Erie Mill
 
-**Location:** Unknown, PA
+**Location:** Erie, PA
 
 **EPA Facility ID:** 100000059651
 

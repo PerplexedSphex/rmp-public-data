@@ -1,6 +1,6 @@
-# Unknown
+# City of Richmond Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Richmond, MO
 
 **EPA Facility ID:** 100000132135
 

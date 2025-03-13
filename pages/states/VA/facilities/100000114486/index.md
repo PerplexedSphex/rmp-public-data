@@ -1,6 +1,6 @@
-# Unknown
+# City of Danville Water Treatment Facility
 
-**Location:** Unknown, VA
+**Location:** Danville, VA
 
 **EPA Facility ID:** 100000114486
 

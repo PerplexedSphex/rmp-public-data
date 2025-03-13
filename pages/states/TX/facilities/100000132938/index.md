@@ -1,6 +1,6 @@
-# Unknown
+# City of Midland Water Purification Plant
 
-**Location:** Unknown, TX
+**Location:** Midland, TX
 
 **EPA Facility ID:** 100000132938
 

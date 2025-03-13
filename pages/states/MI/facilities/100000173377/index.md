@@ -1,6 +1,6 @@
-# Unknown
+# Polychemie Inc. - Wayne, MI
 
-**Location:** Unknown, MI
+**Location:** Wayne, MI
 
 **EPA Facility ID:** 100000173377
 

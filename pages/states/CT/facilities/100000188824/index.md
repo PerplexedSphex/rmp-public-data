@@ -1,6 +1,6 @@
-# Unknown
+# Talalay Global, Inc.
 
-**Location:** Unknown, CT
+**Location:** Shelton, CT
 
 **EPA Facility ID:** 100000188824
 

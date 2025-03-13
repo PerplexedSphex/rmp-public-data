@@ -1,6 +1,6 @@
-# Unknown
+# Darigold Sunnyside
 
-**Location:** Unknown, WA
+**Location:** Sunnyside, WA
 
 **EPA Facility ID:** 100000254128
 

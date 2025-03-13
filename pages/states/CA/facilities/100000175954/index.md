@@ -1,6 +1,6 @@
-# Unknown
+# Valley Generating Station
 
-**Location:** Unknown, CA
+**Location:** Sun Valley, CA
 
 **EPA Facility ID:** 100000175954
 

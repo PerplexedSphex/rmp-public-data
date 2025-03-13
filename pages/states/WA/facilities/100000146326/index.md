@@ -1,6 +1,6 @@
-# Unknown
+# Lineage-Kennewick
 
-**Location:** Unknown, WA
+**Location:** Kennewick, WA
 
 **EPA Facility ID:** 100000146326
 

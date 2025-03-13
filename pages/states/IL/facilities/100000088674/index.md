@@ -1,6 +1,6 @@
-# Unknown
+# City of East Moline Water Filtration Plant
 
-**Location:** Unknown, IL
+**Location:** East Moline, IL
 
 **EPA Facility ID:** 100000088674
 

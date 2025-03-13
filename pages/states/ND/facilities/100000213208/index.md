@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Kindred
 
-**Location:** Unknown, ND
+**Location:** Kindred, ND
 
 **EPA Facility ID:** 100000213208
 

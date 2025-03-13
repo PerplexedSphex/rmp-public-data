@@ -1,6 +1,6 @@
-# Unknown
+# Elk Basin Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Powell, WY
 
 **EPA Facility ID:** 100000029612
 

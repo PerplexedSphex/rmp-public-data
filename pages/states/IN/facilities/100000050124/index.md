@@ -1,6 +1,6 @@
-# Unknown
+# Elanco Clinton Laboratories
 
-**Location:** Unknown, IN
+**Location:** Clinton, IN
 
 **EPA Facility ID:** 100000050124
 

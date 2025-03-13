@@ -1,6 +1,6 @@
-# Unknown
+# Midwest City Water Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Midwest City, OK
 
 **EPA Facility ID:** 100000016537
 

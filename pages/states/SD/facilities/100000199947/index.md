@@ -1,6 +1,6 @@
-# Unknown
+# Canton Propane Terminal
 
-**Location:** Unknown, SD
+**Location:** Canton, SD
 
 **EPA Facility ID:** 100000199947
 

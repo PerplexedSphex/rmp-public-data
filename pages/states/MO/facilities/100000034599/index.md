@@ -1,6 +1,6 @@
-# Unknown
+# Ray-Carroll County Grain Growers, Inc. Hardin
 
-**Location:** Unknown, MO
+**Location:** Hardin, MO
 
 **EPA Facility ID:** 100000034599
 

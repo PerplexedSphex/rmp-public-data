@@ -1,6 +1,6 @@
-# Unknown
+# Tipton - Tipton Fertilizer Trailer Parking
 
-**Location:** Unknown, KS
+**Location:** Tipton, KS
 
 **EPA Facility ID:** 100000172485
 

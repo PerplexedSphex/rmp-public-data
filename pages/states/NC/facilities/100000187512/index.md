@@ -1,6 +1,6 @@
-# Unknown
+# International Cushioning Corporation
 
-**Location:** Unknown, NC
+**Location:** Lincolnton, NC
 
 **EPA Facility ID:** 100000187512
 

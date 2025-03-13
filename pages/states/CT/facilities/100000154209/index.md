@@ -1,6 +1,6 @@
-# Unknown
+# City of Danbury Water Pollution Control Plant
 
-**Location:** Unknown, CT
+**Location:** Danbury, CT
 
 **EPA Facility ID:** 100000154209
 

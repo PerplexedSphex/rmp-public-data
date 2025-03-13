@@ -1,6 +1,6 @@
-# Unknown
+# Little Richardi Pools And Spas Inc.
 
-**Location:** Unknown, KS
+**Location:** Towanda, KS
 
 **EPA Facility ID:** 100000084124
 

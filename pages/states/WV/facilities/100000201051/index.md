@@ -1,6 +1,6 @@
-# Unknown
+# Hurricane Gas Processing Plant
 
-**Location:** Unknown, WV
+**Location:** Hurricane, WV
 
 **EPA Facility ID:** 100000201051
 

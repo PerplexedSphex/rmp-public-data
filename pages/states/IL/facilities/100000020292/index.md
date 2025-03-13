@@ -1,6 +1,6 @@
-# Unknown
+# Chem Gro, Inc. Bowen
 
-**Location:** Unknown, IL
+**Location:** Bowen, IL
 
 **EPA Facility ID:** 100000020292
 

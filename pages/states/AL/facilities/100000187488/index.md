@@ -1,6 +1,6 @@
-# Unknown
+# Equity Group - Eufaula Division, LLC
 
-**Location:** Unknown, AL
+**Location:** Baker Hill, AL
 
 **EPA Facility ID:** 100000187488
 

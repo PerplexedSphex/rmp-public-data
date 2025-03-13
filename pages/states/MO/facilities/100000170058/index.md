@@ -1,6 +1,6 @@
-# Unknown
+# LHB Industries
 
-**Location:** Unknown, MO
+**Location:** Berkeley, MO
 
 **EPA Facility ID:** 100000170058
 

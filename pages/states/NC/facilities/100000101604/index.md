@@ -1,6 +1,6 @@
-# Unknown
+# East Burlington Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Burlington, NC
 
 **EPA Facility ID:** 100000101604
 

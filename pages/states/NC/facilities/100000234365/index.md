@@ -1,6 +1,6 @@
-# Unknown
+# Aldi, Incorporated
 
-**Location:** Unknown, NC
+**Location:** Salisbury, NC
 
 **EPA Facility ID:** 100000234365
 

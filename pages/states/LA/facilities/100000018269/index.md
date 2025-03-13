@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. - Shreveport
 
-**Location:** Unknown, LA
+**Location:** Shreveport, LA
 
 **EPA Facility ID:** 100000018269
 

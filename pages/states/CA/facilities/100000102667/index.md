@@ -1,6 +1,6 @@
-# Unknown
+# El Segundo Generating Station
 
-**Location:** Unknown, CA
+**Location:** El Segundo, CA
 
 **EPA Facility ID:** 100000102667
 

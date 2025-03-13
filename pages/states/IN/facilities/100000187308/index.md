@@ -1,6 +1,6 @@
-# Unknown
+# DFA Dairy Brands Fluid, LLC dba Schenkel's Dairy
 
-**Location:** Unknown, IN
+**Location:** Huntington, IN
 
 **EPA Facility ID:** 100000187308
 

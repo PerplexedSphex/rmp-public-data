@@ -1,6 +1,6 @@
-# Unknown
+# Rixie LPG Terminal
 
-**Location:** Unknown, AR
+**Location:** North Little Rock, AR
 
 **EPA Facility ID:** 100000188619
 

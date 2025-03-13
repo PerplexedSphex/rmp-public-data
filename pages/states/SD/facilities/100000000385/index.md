@@ -1,6 +1,6 @@
-# Unknown
+# Bath Facility
 
-**Location:** Unknown, SD
+**Location:** Aberdeen, SD
 
 **EPA Facility ID:** 100000000385
 

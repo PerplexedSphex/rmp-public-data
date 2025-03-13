@@ -1,6 +1,6 @@
-# Unknown
+# Vang Simplot Grower Solutions
 
-**Location:** Unknown, ND
+**Location:** Vang, ND
 
 **EPA Facility ID:** 100000054148
 

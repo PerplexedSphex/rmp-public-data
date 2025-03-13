@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Cooperative - Friend
 
-**Location:** Unknown, NE
+**Location:** Friend, NE
 
 **EPA Facility ID:** 100000097263
 

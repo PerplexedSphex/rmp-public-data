@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Gadsden
 
-**Location:** Unknown, AL
+**Location:** Gadsden, AL
 
 **EPA Facility ID:** 100000247798
 

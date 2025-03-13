@@ -1,6 +1,6 @@
-# Unknown
+# ChemArt Company
 
-**Location:** Unknown, RI
+**Location:** Lincoln, RI
 
 **EPA Facility ID:** 100000163672
 

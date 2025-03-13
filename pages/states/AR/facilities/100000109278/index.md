@@ -1,6 +1,6 @@
-# Unknown
+# Walker Creek Gas Plant
 
-**Location:** Unknown, AR
+**Location:** Taylor, AR
 
 **EPA Facility ID:** 100000109278
 

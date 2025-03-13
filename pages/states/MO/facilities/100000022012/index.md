@@ -1,6 +1,6 @@
-# Unknown
+# Dyno Nobel, Inc. - Louisiana, Missouri Plant
 
-**Location:** Unknown, MO
+**Location:** Louisiana, MO
 
 **EPA Facility ID:** 100000022012
 

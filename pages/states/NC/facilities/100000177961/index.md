@@ -1,6 +1,6 @@
-# Unknown
+# Nash Finch Company - Lumberton, NC Division
 
-**Location:** Unknown, NC
+**Location:** Lumberton, NC
 
 **EPA Facility ID:** 100000177961
 

@@ -1,6 +1,6 @@
-# Unknown
+# Kenedy Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Karnes City, TX
 
 **EPA Facility ID:** 100000220058
 

@@ -1,6 +1,6 @@
-# Unknown
+# Automated Solutions, LLC - Plant #3
 
-**Location:** Unknown, NC
+**Location:** Statesville, NC
 
 **EPA Facility ID:** 100000045701
 

@@ -1,6 +1,6 @@
-# Unknown
+# Brandt Farms Inc.
 
-**Location:** Unknown, CA
+**Location:** Reedley, CA
 
 **EPA Facility ID:** 100000210265
 

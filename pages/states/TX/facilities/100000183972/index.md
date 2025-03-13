@@ -1,6 +1,6 @@
-# Unknown
+# Costco Wholesale - Dallas
 
-**Location:** Unknown, TX
+**Location:** Dallas, TX
 
 **EPA Facility ID:** 100000183972
 

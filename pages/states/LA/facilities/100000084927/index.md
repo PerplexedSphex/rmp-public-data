@@ -1,6 +1,6 @@
-# Unknown
+# Denka Performance Elastomer LLC
 
-**Location:** Unknown, LA
+**Location:** LaPlace, LA
 
 **EPA Facility ID:** 100000084927
 

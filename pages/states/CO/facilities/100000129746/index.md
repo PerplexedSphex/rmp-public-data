@@ -1,6 +1,6 @@
-# Unknown
+# Superior Fertilizer Company Inc.
 
-**Location:** Unknown, CO
+**Location:** Crook, CO
 
 **EPA Facility ID:** 100000129746
 

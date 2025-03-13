@@ -1,6 +1,6 @@
-# Unknown
+# ODESSA FERTILIZER FACILITY
 
-**Location:** Unknown, WA
+**Location:** Odessa, WA
 
 **EPA Facility ID:** 100000154236
 

@@ -1,6 +1,6 @@
-# Unknown
+# Benjamin Moore & Company, Newark, NJ Plant
 
-**Location:** Unknown, NJ
+**Location:** Newark, NJ
 
 **EPA Facility ID:** 100000026795
 

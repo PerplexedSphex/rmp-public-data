@@ -1,6 +1,6 @@
-# Unknown
+# St John, WA
 
-**Location:** Unknown, WA
+**Location:** St John, WA
 
 **EPA Facility ID:** 100000031618
 

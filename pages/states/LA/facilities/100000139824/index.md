@@ -1,6 +1,6 @@
-# Unknown
+# Super High Activity Catalyst (SHAC) Plant
 
-**Location:** Unknown, LA
+**Location:** Norco, LA
 
 **EPA Facility ID:** 100000139824
 

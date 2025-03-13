@@ -1,6 +1,6 @@
-# Unknown
+# Agricultural Services Inc., of Phillips  NE
 
-**Location:** Unknown, NE
+**Location:** Phillips, NE
 
 **EPA Facility ID:** 100000094319
 

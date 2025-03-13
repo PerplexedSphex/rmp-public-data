@@ -1,6 +1,6 @@
-# Unknown
+# Amerigas Spokane WA Terminal
 
-**Location:** Unknown, WA
+**Location:** Spokane, WA
 
 **EPA Facility ID:** 100000218463
 

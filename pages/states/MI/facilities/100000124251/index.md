@@ -1,6 +1,6 @@
-# Unknown
+# City of Grandville Wastewater Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Grandville, MI
 
 **EPA Facility ID:** 100000124251
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rapid River Depropanizer and Storage Facility
 
-**Location:** Unknown, MI
+**Location:** Rapid River, MI
 
 **EPA Facility ID:** 100000036828
 

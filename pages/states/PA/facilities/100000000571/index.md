@@ -1,6 +1,6 @@
-# Unknown
+# Two Lick Creek Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Indiana, PA
 
 **EPA Facility ID:** 100000000571
 

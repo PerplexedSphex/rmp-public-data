@@ -1,6 +1,6 @@
-# Unknown
+# Panther Creek Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Canute, OK
 
 **EPA Facility ID:** 100000058466
 

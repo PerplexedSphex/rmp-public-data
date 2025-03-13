@@ -1,6 +1,6 @@
-# Unknown
+# Feather River Energy Center
 
-**Location:** Unknown, CA
+**Location:** Yuba city, CA
 
 **EPA Facility ID:** 100000202032
 

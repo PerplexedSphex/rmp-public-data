@@ -1,6 +1,6 @@
-# Unknown
+# Cool Pacific Land Company Inc.
 
-**Location:** Unknown, CA
+**Location:** Salinas, CA
 
 **EPA Facility ID:** 100000148921
 

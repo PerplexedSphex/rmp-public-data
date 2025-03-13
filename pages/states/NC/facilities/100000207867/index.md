@@ -1,6 +1,6 @@
-# Unknown
+# Henkel U.S. Operations Corporation
 
-**Location:** Unknown, NC
+**Location:** Salisbury, NC
 
 **EPA Facility ID:** 100000207867
 

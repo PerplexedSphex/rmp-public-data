@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Yanka
 
-**Location:** Unknown, NE
+**Location:** David City, NE
 
 **EPA Facility ID:** 100000138031
 

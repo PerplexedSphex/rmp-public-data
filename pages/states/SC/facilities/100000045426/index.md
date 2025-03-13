@@ -1,6 +1,6 @@
-# Unknown
+# Winnsboro Plant
 
-**Location:** Unknown, SC
+**Location:** Winnsboro, SC
 
 **EPA Facility ID:** 100000045426
 

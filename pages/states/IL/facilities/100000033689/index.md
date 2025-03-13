@@ -1,6 +1,6 @@
-# Unknown
+# Newton NH3 Facility
 
-**Location:** Unknown, IL
+**Location:** Newton, IL
 
 **EPA Facility ID:** 100000033689
 

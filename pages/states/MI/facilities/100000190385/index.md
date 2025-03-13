@@ -1,6 +1,6 @@
-# Unknown
+# High-Po-Chlor, Inc.
 
-**Location:** Unknown, MI
+**Location:** Romulus, MI
 
 **EPA Facility ID:** 100000190385
 

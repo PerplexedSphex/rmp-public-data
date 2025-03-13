@@ -1,6 +1,6 @@
-# Unknown
+# Bazor Ridge Gas Plant
 
-**Location:** Unknown, MS
+**Location:** Waynesboro, MS
 
 **EPA Facility ID:** 100000171565
 

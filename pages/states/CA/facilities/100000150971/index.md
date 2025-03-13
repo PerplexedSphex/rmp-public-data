@@ -1,6 +1,6 @@
-# Unknown
+# Ventura Gas Processing Plant- Plant 7
 
-**Location:** Unknown, CA
+**Location:** Ventura, CA
 
 **EPA Facility ID:** 100000150971
 

@@ -1,6 +1,6 @@
-# Unknown
+# Silver Bay Seafoods - Valdez
 
-**Location:** Unknown, AK
+**Location:** Valdez, AK
 
 **EPA Facility ID:** 100000218123
 

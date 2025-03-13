@@ -1,6 +1,6 @@
-# Unknown
+# Snotemp
 
-**Location:** Unknown, OR
+**Location:** Albany, OR
 
 **EPA Facility ID:** 100000233124
 

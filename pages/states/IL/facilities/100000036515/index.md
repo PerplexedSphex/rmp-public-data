@@ -1,6 +1,6 @@
-# Unknown
+# Findlay, IL Satellite
 
-**Location:** Unknown, IL
+**Location:** Findlay, IL
 
 **EPA Facility ID:** 100000036515
 

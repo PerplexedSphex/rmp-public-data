@@ -1,6 +1,6 @@
-# Unknown
+# THE DELONG CO., INC.
 
-**Location:** Unknown, WI
+**Location:** SHARON, WI
 
 **EPA Facility ID:** 100000162192
 

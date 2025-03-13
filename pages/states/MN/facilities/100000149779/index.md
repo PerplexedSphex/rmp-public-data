@@ -1,6 +1,6 @@
-# Unknown
+# Central Farm Service - Granada
 
-**Location:** Unknown, MN
+**Location:** Granada, MN
 
 **EPA Facility ID:** 100000149779
 

@@ -1,6 +1,6 @@
-# Unknown
+# Naches River Water Treatment Plant
 
-**Location:** Unknown, WA
+**Location:** Yakima, WA
 
 **EPA Facility ID:** 100000186381
 

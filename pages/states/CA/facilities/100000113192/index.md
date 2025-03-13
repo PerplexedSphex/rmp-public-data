@@ -1,6 +1,6 @@
-# Unknown
+# Polychemie Inc. - Los Angeles, CA
 
-**Location:** Unknown, CA
+**Location:** Los Angeles, CA
 
 **EPA Facility ID:** 100000113192
 

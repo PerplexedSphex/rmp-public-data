@@ -1,6 +1,6 @@
-# Unknown
+# Northeast Missouri Co-op Service
 
-**Location:** Unknown, MO
+**Location:** Edina, MO
 
 **EPA Facility ID:** 100000172421
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cooperative Elevator Co., Fairgrove, MI Facility
 
-**Location:** Unknown, MI
+**Location:** Fairgrove, MI
 
 **EPA Facility ID:** 100000097094
 

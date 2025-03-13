@@ -1,6 +1,6 @@
-# Unknown
+# Laura, IL Satellite
 
-**Location:** Unknown, IL
+**Location:** Laura, IL
 
 **EPA Facility ID:** 100000088102
 

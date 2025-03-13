@@ -1,6 +1,6 @@
-# Unknown
+# Kentucky American Water  Richmond Rd Station
 
-**Location:** Unknown, KY
+**Location:** Lexington, KY
 
 **EPA Facility ID:** 100000005166
 

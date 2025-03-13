@@ -1,6 +1,6 @@
-# Unknown
+# Cookeville Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Baxter, TN
 
 **EPA Facility ID:** 100000055478
 

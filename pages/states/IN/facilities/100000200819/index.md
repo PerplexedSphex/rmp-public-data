@@ -1,6 +1,6 @@
-# Unknown
+# Jacobson Warehouse Company, Inc.
 
-**Location:** Unknown, IN
+**Location:** Plainfield, IN
 
 **EPA Facility ID:** 100000200819
 

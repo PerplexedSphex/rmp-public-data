@@ -1,6 +1,6 @@
-# Unknown
+# Chief Ethanol Fuels, Inc. (Lexington Plant)
 
-**Location:** Unknown, NE
+**Location:** Lexington, NE
 
 **EPA Facility ID:** 100000200052
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bridgeport Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Bridgeport, TX
 
 **EPA Facility ID:** 100000136961
 

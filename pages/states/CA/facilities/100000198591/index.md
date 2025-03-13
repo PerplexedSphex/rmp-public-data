@@ -1,6 +1,6 @@
-# Unknown
+# El Centro Generating Station
 
-**Location:** Unknown, CA
+**Location:** El Centro, CA
 
 **EPA Facility ID:** 100000198591
 

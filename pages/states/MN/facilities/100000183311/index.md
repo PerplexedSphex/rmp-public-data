@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.- Browerville
 
-**Location:** Unknown, MN
+**Location:** Browerville, MN
 
 **EPA Facility ID:** 100000183311
 

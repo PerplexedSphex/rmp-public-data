@@ -1,6 +1,6 @@
-# Unknown
+# LanzaJet Freedom Pines Fuels LLC
 
-**Location:** Unknown, GA
+**Location:** Soperton, GA
 
 **EPA Facility ID:** 100000252638
 

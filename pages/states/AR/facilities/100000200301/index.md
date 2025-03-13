@@ -1,6 +1,6 @@
-# Unknown
+# ozark Mountain Poultry 
 
-**Location:** Unknown, AR
+**Location:** Batesville, AR
 
 **EPA Facility ID:** 100000200301
 

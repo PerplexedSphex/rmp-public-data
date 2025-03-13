@@ -1,6 +1,6 @@
-# Unknown
+# ECSD #6 - Lackawanna WWTP
 
-**Location:** Unknown, NY
+**Location:** Lackawanna, NY
 
 **EPA Facility ID:** 100000091553
 

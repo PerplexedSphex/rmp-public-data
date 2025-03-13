@@ -1,6 +1,6 @@
-# Unknown
+# Ameren Energy Generating Newton Power Station
 
-**Location:** Unknown, IL
+**Location:** Newton, IL
 
 **EPA Facility ID:** 100000104335
 

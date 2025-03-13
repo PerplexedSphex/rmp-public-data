@@ -1,6 +1,6 @@
-# Unknown
+# Washington NH3
 
-**Location:** Unknown, KS
+**Location:** Washington, KS
 
 **EPA Facility ID:** 100000006539
 

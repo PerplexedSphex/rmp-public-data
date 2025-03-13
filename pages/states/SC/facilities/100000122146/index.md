@@ -1,6 +1,6 @@
-# Unknown
+# Floralife, Inc.
 
-**Location:** Unknown, SC
+**Location:** Walterboro, SC
 
 **EPA Facility ID:** 100000122146
 

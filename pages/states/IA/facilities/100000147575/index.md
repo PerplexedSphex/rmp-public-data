@@ -1,6 +1,6 @@
-# Unknown
+# Chem Gro of Houghton Inc. - Hillsboro Facility
 
-**Location:** Unknown, IA
+**Location:** Hillsboro, IA
 
 **EPA Facility ID:** 100000147575
 

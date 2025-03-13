@@ -1,6 +1,6 @@
-# Unknown
+# Baton Rouge SMR
 
-**Location:** Unknown, LA
+**Location:** Baton Rouge, LA
 
 **EPA Facility ID:** 100000209865
 

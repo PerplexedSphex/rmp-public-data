@@ -1,6 +1,6 @@
-# Unknown
+# Barnard - Loy Fertilizer Service, Trailer Parking
 
-**Location:** Unknown, KS
+**Location:** Barnard, KS
 
 **EPA Facility ID:** 100000172494
 

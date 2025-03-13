@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Whiteface
 
-**Location:** Unknown, TX
+**Location:** Whiteface, TX
 
 **EPA Facility ID:** 100000170236
 

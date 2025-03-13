@@ -1,6 +1,6 @@
-# Unknown
+# East Kansas Agri-Energy, LLC
 
-**Location:** Unknown, KS
+**Location:** Garnett, KS
 
 **EPA Facility ID:** 100000192436
 

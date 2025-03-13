@@ -1,6 +1,6 @@
-# Unknown
+# Lawson Products, Inc.Suwanee Distribution Facility
 
-**Location:** Unknown, GA
+**Location:** Suwanee, GA
 
 **EPA Facility ID:** 100000238575
 

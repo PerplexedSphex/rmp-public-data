@@ -1,6 +1,6 @@
-# Unknown
+# GRAINCO FS - NEWARK
 
-**Location:** Unknown, IL
+**Location:** Newark, IL
 
 **EPA Facility ID:** 100000176659
 

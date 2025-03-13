@@ -1,6 +1,6 @@
-# Unknown
+# Gemini HDPE LLC - La Porte Plant
 
-**Location:** Unknown, TX
+**Location:** La Porte, TX
 
 **EPA Facility ID:** 100000236185
 

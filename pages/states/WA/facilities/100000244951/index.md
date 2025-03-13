@@ -1,6 +1,6 @@
-# Unknown
+# Pacific NW Packers, Inc
 
-**Location:** Unknown, WA
+**Location:** Lynden, WA
 
 **EPA Facility ID:** 100000244951
 

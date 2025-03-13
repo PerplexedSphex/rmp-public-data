@@ -1,6 +1,6 @@
-# Unknown
+# Green Bay Dressed Beef Processing, LLC East River
 
-**Location:** Unknown, WI
+**Location:** Green Bay, WI
 
 **EPA Facility ID:** 100000183945
 

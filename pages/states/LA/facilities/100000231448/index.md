@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Luling Facility
 
-**Location:** Unknown, LA
+**Location:** Luling,, LA
 
 **EPA Facility ID:** 100000231448
 

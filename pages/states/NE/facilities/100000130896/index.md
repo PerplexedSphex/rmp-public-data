@@ -1,6 +1,6 @@
-# Unknown
+# Trotter Fertilizer
 
-**Location:** Unknown, NE
+**Location:** Pleasanton, NE
 
 **EPA Facility ID:** 100000130896
 

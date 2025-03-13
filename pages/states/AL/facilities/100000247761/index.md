@@ -1,6 +1,6 @@
-# Unknown
+# Showa Best Glove, Inc
 
-**Location:** Unknown, AL
+**Location:** Fayette, AL
 
 **EPA Facility ID:** 100000247761
 

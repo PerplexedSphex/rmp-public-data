@@ -1,6 +1,6 @@
-# Unknown
+# Lakeside Foods, Inc.
 
-**Location:** Unknown, WI
+**Location:** Manitowoc, WI
 
 **EPA Facility ID:** 100000242418
 

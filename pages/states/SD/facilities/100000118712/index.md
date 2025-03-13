@@ -1,6 +1,6 @@
-# Unknown
+# Redfield Facility, Station #24
 
-**Location:** Unknown, SD
+**Location:** Redfield, SD
 
 **EPA Facility ID:** 100000118712
 

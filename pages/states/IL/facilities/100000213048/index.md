@@ -1,6 +1,6 @@
-# Unknown
+# Visual Pak Company
 
-**Location:** Unknown, IL
+**Location:** Waukegan, IL
 
 **EPA Facility ID:** 100000213048
 

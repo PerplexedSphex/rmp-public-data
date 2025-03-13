@@ -1,6 +1,6 @@
-# Unknown
+# South Rockwall Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Rockwall, TX
 
 **EPA Facility ID:** 100000147325
 

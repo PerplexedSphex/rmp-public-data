@@ -1,6 +1,6 @@
-# Unknown
+# Goodland, IN
 
-**Location:** Unknown, IN
+**Location:** Goodland, IN
 
 **EPA Facility ID:** 100000094836
 

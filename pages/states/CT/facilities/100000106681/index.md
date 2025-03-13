@@ -1,6 +1,6 @@
-# Unknown
+# Bristol Water Treatment Plant
 
-**Location:** Unknown, CT
+**Location:** Bristol, CT
 
 **EPA Facility ID:** 100000106681
 

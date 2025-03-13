@@ -1,6 +1,6 @@
-# Unknown
+# Beaumont Chemical Specialty Plant
 
-**Location:** Unknown, TX
+**Location:** Beaumont, TX
 
 **EPA Facility ID:** 100000061096
 

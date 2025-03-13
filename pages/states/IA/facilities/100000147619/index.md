@@ -1,6 +1,6 @@
-# Unknown
+# Chem Gro of Houghton Inc. - Mt. Hamill Facility
 
-**Location:** Unknown, IA
+**Location:** Donnellson, IA
 
 **EPA Facility ID:** 100000147619
 

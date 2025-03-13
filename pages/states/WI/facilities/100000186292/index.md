@@ -1,6 +1,6 @@
-# Unknown
+# Schoep's Ice Cream Co. Inc.
 
-**Location:** Unknown, WI
+**Location:** Madison, WI
 
 **EPA Facility ID:** 100000186292
 

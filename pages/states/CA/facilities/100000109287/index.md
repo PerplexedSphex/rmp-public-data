@@ -1,6 +1,6 @@
-# Unknown
+# Bolthouse Fresh
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000109287
 

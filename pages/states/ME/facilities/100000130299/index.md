@@ -1,6 +1,6 @@
-# Unknown
+# Lewiston-Auburn Water Pollution Control Authority
 
-**Location:** Unknown, ME
+**Location:** Lewiston, ME
 
 **EPA Facility ID:** 100000130299
 

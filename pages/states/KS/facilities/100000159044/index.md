@@ -1,6 +1,6 @@
-# Unknown
+# York International - UPG Wichita
 
-**Location:** Unknown, KS
+**Location:** Wichita, KS
 
 **EPA Facility ID:** 100000159044
 

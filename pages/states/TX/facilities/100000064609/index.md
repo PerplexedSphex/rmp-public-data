@@ -1,6 +1,6 @@
-# Unknown
+# Bryans Mill Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Douglassville, TX
 
 **EPA Facility ID:** 100000064609
 

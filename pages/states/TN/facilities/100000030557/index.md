@@ -1,6 +1,6 @@
-# Unknown
+# City of Columbia Wastewater Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Columbia, TN
 
 **EPA Facility ID:** 100000030557
 

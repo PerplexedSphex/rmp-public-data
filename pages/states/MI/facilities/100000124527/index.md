@@ -1,6 +1,6 @@
-# Unknown
+# Star of the West Milling Co.
 
-**Location:** Unknown, MI
+**Location:** Quincy, MI
 
 **EPA Facility ID:** 100000124527
 

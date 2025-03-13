@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage, Tulare
 
-**Location:** Unknown, CA
+**Location:** Tulare, CA
 
 **EPA Facility ID:** 100000050767
 

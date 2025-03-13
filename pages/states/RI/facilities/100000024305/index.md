@@ -1,6 +1,6 @@
-# Unknown
+# Pawtucket Water Purification Facility
 
-**Location:** Unknown, RI
+**Location:** Cumberland, RI
 
 **EPA Facility ID:** 100000024305
 

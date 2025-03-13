@@ -1,6 +1,6 @@
-# Unknown
+# Norwich Wastewater Treatment Plant
 
-**Location:** Unknown, CT
+**Location:** Norwich, CT
 
 **EPA Facility ID:** 100000108732
 

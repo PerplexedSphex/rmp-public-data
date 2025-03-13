@@ -1,6 +1,6 @@
-# Unknown
+# Vernon Wade Filtration Plant
 
-**Location:** Unknown, TN
+**Location:** Athens, TN
 
 **EPA Facility ID:** 100000174599
 

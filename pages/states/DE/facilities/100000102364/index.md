@@ -1,6 +1,6 @@
-# Unknown
+# Chemours - Edge Moor Plant
 
-**Location:** Unknown, DE
+**Location:** Edgemoor, DE
 
 **EPA Facility ID:** 100000102364
 

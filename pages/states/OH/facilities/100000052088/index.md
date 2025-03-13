@@ -1,6 +1,6 @@
-# Unknown
+# Akzo Nobel Coatings Inc.
 
-**Location:** Unknown, OH
+**Location:** Huron, OH
 
 **EPA Facility ID:** 100000052088
 

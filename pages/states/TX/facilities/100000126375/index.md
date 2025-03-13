@@ -1,6 +1,6 @@
-# Unknown
+# Pasadena Plastics Complex
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000126375
 

@@ -1,6 +1,6 @@
-# Unknown
+# LAKE HOWARD WATER TREATMENT PLANT
 
-**Location:** Unknown, AL
+**Location:** SYLACAUGA, AL
 
 **EPA Facility ID:** 100000021282
 

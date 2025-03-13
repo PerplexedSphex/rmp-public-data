@@ -1,6 +1,6 @@
-# Unknown
+# Lignite Gas Plant
 
-**Location:** Unknown, ND
+**Location:** Lignite, ND
 
 **EPA Facility ID:** 100000040895
 

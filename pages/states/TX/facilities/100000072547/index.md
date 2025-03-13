@@ -1,6 +1,6 @@
-# Unknown
+# Yates Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Iraan, TX
 
 **EPA Facility ID:** 100000072547
 

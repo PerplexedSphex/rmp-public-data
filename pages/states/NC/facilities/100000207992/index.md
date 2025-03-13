@@ -1,6 +1,6 @@
-# Unknown
+# Western International Gas - Henderson
 
-**Location:** Unknown, NC
+**Location:** Henderson, NC
 
 **EPA Facility ID:** 100000207992
 

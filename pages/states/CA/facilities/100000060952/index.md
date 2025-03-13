@@ -1,6 +1,6 @@
-# Unknown
+# Bakersfield, CA 560
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000060952
 

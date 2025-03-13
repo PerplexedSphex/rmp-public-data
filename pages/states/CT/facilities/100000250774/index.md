@@ -1,6 +1,6 @@
-# Unknown
+# Oakridge 
 
-**Location:** Unknown, CT
+**Location:** Ellington, CT
 
 **EPA Facility ID:** 100000250774
 

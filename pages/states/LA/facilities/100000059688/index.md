@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Inc.
 
-**Location:** Unknown, LA
+**Location:** Alexandria, LA
 
 **EPA Facility ID:** 100000059688
 

@@ -1,6 +1,6 @@
-# Unknown
+# The Arthur Companies, Inc. Tower City
 
-**Location:** Unknown, ND
+**Location:** Tower City, ND
 
 **EPA Facility ID:** 100000031155
 

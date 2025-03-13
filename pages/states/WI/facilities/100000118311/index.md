@@ -1,6 +1,6 @@
-# Unknown
+# Klement Sausage Company, Inc.
 
-**Location:** Unknown, WI
+**Location:** Milwaukee, WI
 
 **EPA Facility ID:** 100000118311
 

@@ -1,6 +1,6 @@
-# Unknown
+# Highland Reservoir
 
-**Location:** Unknown, NY
+**Location:** Rochester, NY
 
 **EPA Facility ID:** 100000057813
 

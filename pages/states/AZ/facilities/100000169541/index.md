@@ -1,6 +1,6 @@
-# Unknown
+# City of Casa Grande Water Reclamation Facility
 
-**Location:** Unknown, AZ
+**Location:** Casa Grande, AZ
 
 **EPA Facility ID:** 100000169541
 

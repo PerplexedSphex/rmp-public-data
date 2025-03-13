@@ -1,6 +1,6 @@
-# Unknown
+# SPALDING CO-OP ELEVATOR COMPANY, BARTLETT NE
 
-**Location:** Unknown, NE
+**Location:** BARTLETT, NE
 
 **EPA Facility ID:** 100000128854
 

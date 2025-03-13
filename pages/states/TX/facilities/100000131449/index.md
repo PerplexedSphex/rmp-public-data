@@ -1,6 +1,6 @@
-# Unknown
+# Equistar Chemicals - Channelview Operations
 
-**Location:** Unknown, TX
+**Location:** Channelview, TX
 
 **EPA Facility ID:** 100000131449
 

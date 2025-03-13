@@ -1,6 +1,6 @@
-# Unknown
+# Bellingham Water Filtration Plant
 
-**Location:** Unknown, WA
+**Location:** Bellingham, WA
 
 **EPA Facility ID:** 100000036971
 

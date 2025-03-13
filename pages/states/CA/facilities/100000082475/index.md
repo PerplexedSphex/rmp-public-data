@@ -1,6 +1,6 @@
-# Unknown
+# Georgia-Pacific Resins, Inc.
 
-**Location:** Unknown, CA
+**Location:** Ukiah, CA
 
 **EPA Facility ID:** 100000082475
 

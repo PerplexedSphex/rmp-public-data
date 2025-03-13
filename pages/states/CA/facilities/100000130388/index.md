@@ -1,6 +1,6 @@
-# Unknown
+# Henry J. Mills Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Riverside, CA
 
 **EPA Facility ID:** 100000130388
 

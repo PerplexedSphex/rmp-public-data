@@ -1,6 +1,6 @@
-# Unknown
+# Johnson Controls, Inc. - Ossian, IN
 
-**Location:** Unknown, IN
+**Location:** Ossian, IN
 
 **EPA Facility ID:** 100000114636
 

@@ -1,6 +1,6 @@
-# Unknown
+# Odom Industries, inc.
 
-**Location:** Unknown, MS
+**Location:** Waynesboro, MS
 
 **EPA Facility ID:** 100000232198
 

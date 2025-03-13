@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.- Howard Bros.
 
-**Location:** Unknown, IL
+**Location:** Junction, IL
 
 **EPA Facility ID:** 100000069347
 

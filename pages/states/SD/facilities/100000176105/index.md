@@ -1,6 +1,6 @@
-# Unknown
+# ISABEL COOPERATIVE, INC.
 
-**Location:** Unknown, SD
+**Location:** Isabel, SD
 
 **EPA Facility ID:** 100000176105
 

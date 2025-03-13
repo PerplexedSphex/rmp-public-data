@@ -1,6 +1,6 @@
-# Unknown
+# Ashland Distribution Company-Garland, TX
 
-**Location:** Unknown, TX
+**Location:** Garland, TX
 
 **EPA Facility ID:** 100000182937
 

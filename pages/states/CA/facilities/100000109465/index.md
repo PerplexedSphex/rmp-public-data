@@ -1,6 +1,6 @@
-# Unknown
+# Crystal Creamery dba Humboldt Creamery
 
-**Location:** Unknown, CA
+**Location:** Fortuna, CA
 
 **EPA Facility ID:** 100000109465
 

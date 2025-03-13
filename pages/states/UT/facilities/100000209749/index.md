@@ -1,6 +1,6 @@
-# Unknown
+# Sundance Compressor Station
 
-**Location:** Unknown, UT
+**Location:** Myton, UT
 
 **EPA Facility ID:** 100000209749
 

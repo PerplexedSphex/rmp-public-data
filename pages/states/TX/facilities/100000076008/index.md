@@ -1,6 +1,6 @@
-# Unknown
+# Mount Carmel Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Waco, TX
 
 **EPA Facility ID:** 100000076008
 

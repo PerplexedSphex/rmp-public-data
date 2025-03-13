@@ -1,6 +1,6 @@
-# Unknown
+# Global Erie Blvd Terminal
 
-**Location:** Unknown, NY
+**Location:** Albany, NY
 
 **EPA Facility ID:** 100000221583
 

@@ -1,6 +1,6 @@
-# Unknown
+# Illinois American Water - Urbana East Plant
 
-**Location:** Unknown, IL
+**Location:** Urbana, IL
 
 **EPA Facility ID:** 100000026296
 

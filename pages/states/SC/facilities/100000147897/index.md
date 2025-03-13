@@ -1,6 +1,6 @@
-# Unknown
+# Resolute Catawba
 
-**Location:** Unknown, SC
+**Location:** Catawba, SC
 
 **EPA Facility ID:** 100000147897
 

@@ -1,6 +1,6 @@
-# Unknown
+# Independence Truck Load-Out
 
-**Location:** Unknown, PA
+**Location:** Avella, PA
 
 **EPA Facility ID:** 100000238245
 

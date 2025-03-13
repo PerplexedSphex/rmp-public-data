@@ -1,6 +1,6 @@
-# Unknown
+# Gerald Grain Center - Wauseon Agronomy
 
-**Location:** Unknown, OH
+**Location:** Wauseon, OH
 
 **EPA Facility ID:** 100000075376
 

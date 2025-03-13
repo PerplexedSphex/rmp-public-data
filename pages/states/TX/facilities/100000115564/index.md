@@ -1,6 +1,6 @@
-# Unknown
+# Lubbock Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Lubbock, TX
 
 **EPA Facility ID:** 100000115564
 

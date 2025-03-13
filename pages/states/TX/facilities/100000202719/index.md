@@ -1,6 +1,6 @@
-# Unknown
+# Ranger Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Ranger, TX
 
 **EPA Facility ID:** 100000202719
 

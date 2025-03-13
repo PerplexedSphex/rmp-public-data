@@ -1,6 +1,6 @@
-# Unknown
+# Kendall Power Company LLC
 
-**Location:** Unknown, IL
+**Location:** Minooka, IL
 
 **EPA Facility ID:** 100000178283
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Wilmington Water Pollution Control Fac.
 
-**Location:** Unknown, DE
+**Location:** Wilmington, DE
 
 **EPA Facility ID:** 100000105879
 

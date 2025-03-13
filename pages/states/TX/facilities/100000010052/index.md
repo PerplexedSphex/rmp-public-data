@@ -1,6 +1,6 @@
-# Unknown
+# Vertical Cold Storage, Richardson
 
-**Location:** Unknown, TX
+**Location:** Richardson, TX
 
 **EPA Facility ID:** 100000010052
 

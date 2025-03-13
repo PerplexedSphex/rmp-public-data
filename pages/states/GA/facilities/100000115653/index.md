@@ -1,6 +1,6 @@
-# Unknown
+# Woodbridge Corporation's Atlanta Foam Plant
 
-**Location:** Unknown, GA
+**Location:** Lithonia, GA
 
 **EPA Facility ID:** 100000115653
 

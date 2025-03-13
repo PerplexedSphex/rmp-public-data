@@ -1,6 +1,6 @@
-# Unknown
+# Tedia Company Inc.
 
-**Location:** Unknown, OH
+**Location:** Fairfield, OH
 
 **EPA Facility ID:** 100000201505
 

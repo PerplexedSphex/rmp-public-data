@@ -1,6 +1,6 @@
-# Unknown
+# THE DODGE CITY COOP EXCHANGE-GRAY
 
-**Location:** Unknown, KS
+**Location:** HANSTON, KS
 
 **EPA Facility ID:** 100000110792
 

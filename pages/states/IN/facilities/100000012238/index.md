@@ -1,6 +1,6 @@
-# Unknown
+# Lynn Ag Center
 
-**Location:** Unknown, IN
+**Location:** Lynn, IN
 
 **EPA Facility ID:** 100000012238
 

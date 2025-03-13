@@ -1,6 +1,6 @@
-# Unknown
+# City of East Peoria Wastwater Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** East Peoria, IL
 
 **EPA Facility ID:** 100000067919
 

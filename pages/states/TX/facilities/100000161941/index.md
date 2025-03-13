@@ -1,6 +1,6 @@
-# Unknown
+# TRICO PRODUCTS CORPORATION
 
-**Location:** Unknown, TX
+**Location:** BROWNSVILLE, TX
 
 **EPA Facility ID:** 100000161941
 

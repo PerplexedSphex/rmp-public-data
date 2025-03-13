@@ -1,6 +1,6 @@
-# Unknown
+# Hancock Service Co.- Durham
 
-**Location:** Unknown, IL
+**Location:** LaHarpe, IL
 
 **EPA Facility ID:** 100000079265
 

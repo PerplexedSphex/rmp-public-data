@@ -1,6 +1,6 @@
-# Unknown
+# Georgia-Pacific Resins, Inc., Louisville, MS
 
-**Location:** Unknown, MS
+**Location:** Louisville, MS
 
 **EPA Facility ID:** 100000031583
 

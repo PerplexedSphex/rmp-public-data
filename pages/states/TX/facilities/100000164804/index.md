@@ -1,6 +1,6 @@
-# Unknown
+# Valspar Coatings - Miller Park
 
-**Location:** Unknown, TX
+**Location:** Garland, TX
 
 **EPA Facility ID:** 100000164804
 

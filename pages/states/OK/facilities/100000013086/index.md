@@ -1,6 +1,6 @@
-# Unknown
+# Great Plains Cooperative
 
-**Location:** Unknown, OK
+**Location:** Meno, OK
 
 **EPA Facility ID:** 100000013086
 

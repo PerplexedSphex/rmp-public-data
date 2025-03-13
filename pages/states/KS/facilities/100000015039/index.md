@@ -1,6 +1,6 @@
-# Unknown
+# Gretna NH 3 Plant
 
-**Location:** Unknown, KS
+**Location:** PHILLIPSBURG, KS
 
 **EPA Facility ID:** 100000015039
 

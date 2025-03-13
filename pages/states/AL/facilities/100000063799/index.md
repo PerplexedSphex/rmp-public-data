@@ -1,6 +1,6 @@
-# Unknown
+# Industrial Chemicals Inc.
 
-**Location:** Unknown, AL
+**Location:** Montgomery, AL
 
 **EPA Facility ID:** 100000063799
 

@@ -1,6 +1,6 @@
-# Unknown
+# Amylu Foods
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000247869
 

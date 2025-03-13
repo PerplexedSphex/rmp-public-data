@@ -1,6 +1,6 @@
-# Unknown
+# Arctic Glacier Inc. Lubbock
 
-**Location:** Unknown, TX
+**Location:** Lubbock, TX
 
 **EPA Facility ID:** 100000050115
 

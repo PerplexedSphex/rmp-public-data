@@ -1,6 +1,6 @@
-# Unknown
+# L'Oreal Walton
 
-**Location:** Unknown, KY
+**Location:** Walton, KY
 
 **EPA Facility ID:** 100000224214
 

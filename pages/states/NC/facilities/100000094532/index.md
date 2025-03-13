@@ -1,6 +1,6 @@
-# Unknown
+# Ed Thomas Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Burlington, NC
 
 **EPA Facility ID:** 100000094532
 

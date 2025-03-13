@@ -1,6 +1,6 @@
-# Unknown
+# Great Plains Cooperative
 
-**Location:** Unknown, OK
+**Location:** Enid, OK
 
 **EPA Facility ID:** 100000009992
 

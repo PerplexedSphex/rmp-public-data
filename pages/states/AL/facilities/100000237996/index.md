@@ -1,6 +1,6 @@
-# Unknown
+# Athens Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Elkmont, AL
 
 **EPA Facility ID:** 100000237996
 

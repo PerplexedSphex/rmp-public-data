@@ -1,6 +1,6 @@
-# Unknown
+# General Mills - Allentown
 
-**Location:** Unknown, PA
+**Location:** Allentown, PA
 
 **EPA Facility ID:** 100000021111
 

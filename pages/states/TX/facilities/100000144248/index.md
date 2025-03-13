@@ -1,6 +1,6 @@
-# Unknown
+# City of Brownwood Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Brownwood, TX
 
 **EPA Facility ID:** 100000144248
 

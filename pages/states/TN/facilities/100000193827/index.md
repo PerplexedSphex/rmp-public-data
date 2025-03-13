@@ -1,6 +1,6 @@
-# Unknown
+# Koch Foods - Chattanooga
 
-**Location:** Unknown, TN
+**Location:** Chattanooga, TN
 
 **EPA Facility ID:** 100000193827
 

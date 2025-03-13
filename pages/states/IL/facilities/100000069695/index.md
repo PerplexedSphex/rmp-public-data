@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-Grayville
 
-**Location:** Unknown, IL
+**Location:** Grayville, IL
 
 **EPA Facility ID:** 100000069695
 

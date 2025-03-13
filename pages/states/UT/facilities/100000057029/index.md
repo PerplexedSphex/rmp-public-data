@@ -1,6 +1,6 @@
-# Unknown
+# Price River Water Improvement District
 
-**Location:** Unknown, UT
+**Location:** Wellington, UT
 
 **EPA Facility ID:** 100000057029
 

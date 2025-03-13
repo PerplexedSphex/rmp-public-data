@@ -1,6 +1,6 @@
-# Unknown
+# New Energy Corp.
 
-**Location:** Unknown, IN
+**Location:** South Bend, IN
 
 **EPA Facility ID:** 100000145372
 

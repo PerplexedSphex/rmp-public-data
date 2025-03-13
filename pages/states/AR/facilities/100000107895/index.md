@@ -1,6 +1,6 @@
-# Unknown
+# Clearwater Paper Corporation - Cypress Bend Mill
 
-**Location:** Unknown, AR
+**Location:** Arkansas City, AR
 
 **EPA Facility ID:** 100000107895
 

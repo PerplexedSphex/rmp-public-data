@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Circuits Inc.
 
-**Location:** Unknown, IL
+**Location:** Aurora, IL
 
 **EPA Facility ID:** 100000142071
 

@@ -1,6 +1,6 @@
-# Unknown
+# AmeriCold Logistics Plant # 80600
 
-**Location:** Unknown, MN
+**Location:** Park Rapids, MN
 
 **EPA Facility ID:** 100000159348
 

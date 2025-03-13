@@ -1,6 +1,6 @@
-# Unknown
+# Brewer Environmental Industries, LLC - Puhi
 
-**Location:** Unknown, HI
+**Location:** Lihue, HI
 
 **EPA Facility ID:** 100000022245
 

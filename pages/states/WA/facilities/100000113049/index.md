@@ -1,6 +1,6 @@
-# Unknown
+# Nippon Dynawave Packaging Company LLC
 
-**Location:** Unknown, WA
+**Location:** Longview, WA
 
 **EPA Facility ID:** 100000113049
 

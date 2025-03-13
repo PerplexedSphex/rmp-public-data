@@ -1,6 +1,6 @@
-# Unknown
+# LaVergne Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** LaVergne, TN
 
 **EPA Facility ID:** 100000135604
 

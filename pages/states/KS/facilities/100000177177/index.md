@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company LLC (Denton, KS)
 
-**Location:** Unknown, KS
+**Location:** Huron, KS
 
 **EPA Facility ID:** 100000177177
 

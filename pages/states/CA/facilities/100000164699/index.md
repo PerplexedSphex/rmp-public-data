@@ -1,6 +1,6 @@
-# Unknown
+# Valspar Coatings - Sacramento
 
-**Location:** Unknown, CA
+**Location:** Sacramento, CA
 
 **EPA Facility ID:** 100000164699
 

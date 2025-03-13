@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. Pipestone
 
-**Location:** Unknown, MN
+**Location:** Pipestone, MN
 
 **EPA Facility ID:** 100000004407
 

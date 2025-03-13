@@ -1,6 +1,6 @@
-# Unknown
+# Aldi Inc. - CT
 
-**Location:** Unknown, CT
+**Location:** South Windsor, CT
 
 **EPA Facility ID:** 100000238931
 

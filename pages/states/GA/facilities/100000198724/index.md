@@ -1,6 +1,6 @@
-# Unknown
+# Eskimo Cold Storage
 
-**Location:** Unknown, GA
+**Location:** Gainesville, GA
 
 **EPA Facility ID:** 100000198724
 

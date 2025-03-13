@@ -1,6 +1,6 @@
-# Unknown
+# Panhandle Cooperative Fertilizer (Torrington)
 
-**Location:** Unknown, WY
+**Location:** Torrington, WY
 
 **EPA Facility ID:** 100000037836
 

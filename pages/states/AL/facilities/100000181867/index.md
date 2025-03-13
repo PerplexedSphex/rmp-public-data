@@ -1,6 +1,6 @@
-# Unknown
+# E.B. Harris Electric Generating Plant
 
-**Location:** Unknown, AL
+**Location:** Prattville, AL
 
 **EPA Facility ID:** 100000181867
 

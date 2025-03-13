@@ -1,6 +1,6 @@
-# Unknown
+# Aqua Clear Pool Chemical Inc.
 
-**Location:** Unknown, AZ
+**Location:** Phoenix, AZ
 
 **EPA Facility ID:** 100000085016
 

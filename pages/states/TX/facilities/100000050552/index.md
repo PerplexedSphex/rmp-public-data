@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage, Laredo III
 
-**Location:** Unknown, TX
+**Location:** Laredo, TX
 
 **EPA Facility ID:** 100000050552
 

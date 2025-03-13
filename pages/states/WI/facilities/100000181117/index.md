@@ -1,6 +1,6 @@
-# Unknown
+# Pleasant Prairie Power Plant
 
-**Location:** Unknown, WI
+**Location:** Pleasant Prairie, WI
 
 **EPA Facility ID:** 100000181117
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of York - Fishing Creek WWTP
 
-**Location:** Unknown, SC
+**Location:** York, SC
 
 **EPA Facility ID:** 100000156911
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Colton Water Reclamation Facility
 
-**Location:** Unknown, CA
+**Location:** Colton, CA
 
 **EPA Facility ID:** 100000167874
 

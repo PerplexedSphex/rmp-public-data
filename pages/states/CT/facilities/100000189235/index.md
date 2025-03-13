@@ -1,6 +1,6 @@
-# Unknown
+# Sysco Connecticut, LLC
 
-**Location:** Unknown, CT
+**Location:** Rocky Hill, CT
 
 **EPA Facility ID:** 100000189235
 

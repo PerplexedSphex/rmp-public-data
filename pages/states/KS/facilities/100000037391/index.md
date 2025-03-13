@@ -1,6 +1,6 @@
-# Unknown
+# Scott City, KS 774 Satellite
 
-**Location:** Unknown, KS
+**Location:** Scott City, KS
 
 **EPA Facility ID:** 100000037391
 

@@ -1,6 +1,6 @@
-# Unknown
+# Ideal Chemical & Supply Co. - Bossier City Branch
 
-**Location:** Unknown, LA
+**Location:** Bossier City, LA
 
 **EPA Facility ID:** 100000191598
 

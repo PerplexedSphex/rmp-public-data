@@ -1,6 +1,6 @@
-# Unknown
+# DFA Dairy Brands Ice Cream, LLC dba Frostbite Froz
 
-**Location:** Unknown, OH
+**Location:** Toledo, OH
 
 **EPA Facility ID:** 100000107289
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bearkat Processing Plant
 
-**Location:** Unknown, TX
+**Location:** Garden City, TX
 
 **EPA Facility ID:** 100000226686
 

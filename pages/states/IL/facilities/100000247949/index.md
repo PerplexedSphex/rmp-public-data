@@ -1,6 +1,6 @@
-# Unknown
+# West Central FS, Inc Galesburg South
 
-**Location:** Unknown, IL
+**Location:** GALESBURG, IL
 
 **EPA Facility ID:** 100000247949
 

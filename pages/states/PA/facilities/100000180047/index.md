@@ -1,6 +1,6 @@
-# Unknown
+# Philipsburg Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Philipsburg, PA
 
 **EPA Facility ID:** 100000180047
 

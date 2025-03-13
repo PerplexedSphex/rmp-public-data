@@ -1,6 +1,6 @@
-# Unknown
+# Yenter Gas Plant Facility
 
-**Location:** Unknown, CO
+**Location:** Sterling, CO
 
 **EPA Facility ID:** 100000138521
 

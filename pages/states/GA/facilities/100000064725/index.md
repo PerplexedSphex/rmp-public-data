@@ -1,6 +1,6 @@
-# Unknown
+# Wayne Farms LLC - Douglas Further Processing
 
-**Location:** Unknown, GA
+**Location:** Douglas, GA
 
 **EPA Facility ID:** 100000064725
 

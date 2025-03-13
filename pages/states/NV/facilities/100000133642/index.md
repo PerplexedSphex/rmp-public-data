@@ -1,6 +1,6 @@
-# Unknown
+# The Sherwin-Williams Company - Dayton Valley DSC
 
-**Location:** Unknown, NV
+**Location:** Dayton Valley, NV
 
 **EPA Facility ID:** 100000133642
 

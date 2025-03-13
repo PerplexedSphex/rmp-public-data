@@ -1,6 +1,6 @@
-# Unknown
+# Royce W. Simpson Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Decatur, TX
 
 **EPA Facility ID:** 100000188307
 

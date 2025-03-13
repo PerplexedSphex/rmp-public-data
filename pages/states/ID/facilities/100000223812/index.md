@@ -1,6 +1,6 @@
-# Unknown
+# Darigold Boise Plant
 
-**Location:** Unknown, ID
+**Location:** Boise, ID
 
 **EPA Facility ID:** 100000223812
 

@@ -1,6 +1,6 @@
-# Unknown
+# Water Plant A
 
-**Location:** Unknown, KY
+**Location:** Owensboro, KY
 
 **EPA Facility ID:** 100000133018
 

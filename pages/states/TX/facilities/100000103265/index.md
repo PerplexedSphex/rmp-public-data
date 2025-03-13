@@ -1,6 +1,6 @@
-# Unknown
+# Bridge City Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Bridge City, TX
 
 **EPA Facility ID:** 100000103265
 

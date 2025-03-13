@@ -1,6 +1,6 @@
-# Unknown
+# DFA Dairy Brands Ice Cream. LLC dba DFA Ice Cream 
 
-**Location:** Unknown, IN
+**Location:** Decatur, IN
 
 **EPA Facility ID:** 100000119962
 

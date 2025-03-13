@@ -1,6 +1,6 @@
-# Unknown
+# Americold Pendergrass
 
-**Location:** Unknown, GA
+**Location:** Pendergrass, GA
 
 **EPA Facility ID:** 100000054451
 

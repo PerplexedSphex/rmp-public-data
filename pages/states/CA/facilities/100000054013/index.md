@@ -1,6 +1,6 @@
-# Unknown
+# Canyon Filtration Plant
 
-**Location:** Unknown, CA
+**Location:** Azusa, CA
 
 **EPA Facility ID:** 100000054013
 

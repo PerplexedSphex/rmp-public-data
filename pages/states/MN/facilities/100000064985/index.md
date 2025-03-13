@@ -1,6 +1,6 @@
-# Unknown
+# Blue Lake Wastewater Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Shakopee, MN
 
 **EPA Facility ID:** 100000064985
 

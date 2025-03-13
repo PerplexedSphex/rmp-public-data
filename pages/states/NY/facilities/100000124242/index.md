@@ -1,6 +1,6 @@
-# Unknown
+# Coney Island Water Pollution Control Plant
 
-**Location:** Unknown, NY
+**Location:** Brooklyn, NY
 
 **EPA Facility ID:** 100000124242
 

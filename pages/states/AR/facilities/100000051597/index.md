@@ -1,6 +1,6 @@
-# Unknown
+# TYSON FOODS, INC. RUSSELLVILLE, AR. (TVDC)
 
-**Location:** Unknown, AR
+**Location:** RUSSELLVILLE, AR
 
 **EPA Facility ID:** 100000051597
 

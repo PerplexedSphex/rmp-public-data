@@ -1,6 +1,6 @@
-# Unknown
+# Panhandle Cooperative Fertilizer
 
-**Location:** Unknown, NE
+**Location:** Scottsbluff, NE
 
 **EPA Facility ID:** 100000037364
 

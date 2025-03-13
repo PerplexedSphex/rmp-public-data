@@ -1,6 +1,6 @@
-# Unknown
+# Houghton Chemical Plant
 
-**Location:** Unknown, MA
+**Location:** Allston(Boston), MA
 
 **EPA Facility ID:** 100000174232
 

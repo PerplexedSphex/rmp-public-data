@@ -1,6 +1,6 @@
-# Unknown
+# Camden Waste Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Camden, AR
 
 **EPA Facility ID:** 100000087906
 

@@ -1,6 +1,6 @@
-# Unknown
+# Landus Cooperative - Lytton
 
-**Location:** Unknown, IA
+**Location:** Lytton, IA
 
 **EPA Facility ID:** 100000004746
 

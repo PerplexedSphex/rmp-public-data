@@ -1,6 +1,6 @@
-# Unknown
+# Camp Creek WPCP
 
-**Location:** Unknown, GA
+**Location:** College Park, GA
 
 **EPA Facility ID:** 100000061461
 

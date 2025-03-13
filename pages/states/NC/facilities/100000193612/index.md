@@ -1,6 +1,6 @@
-# Unknown
+# Town of Pittsboro Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Pittsboro, NC
 
 **EPA Facility ID:** 100000193612
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gateway Generating Station
 
-**Location:** Unknown, CA
+**Location:** Antioch, CA
 
 **EPA Facility ID:** 100000204708
 

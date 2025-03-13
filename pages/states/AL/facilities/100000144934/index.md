@@ -1,6 +1,6 @@
-# Unknown
+# John B. Rains Filter Plant
 
-**Location:** Unknown, AL
+**Location:** Fort Payne, AL
 
 **EPA Facility ID:** 100000144934
 

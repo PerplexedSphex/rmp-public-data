@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Peotone
 
-**Location:** Unknown, IL
+**Location:** Peotone, IL
 
 **EPA Facility ID:** 100000211479
 

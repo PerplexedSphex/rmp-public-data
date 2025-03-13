@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Co. - Astoria Illinois Facility
 
-**Location:** Unknown, IL
+**Location:** Astoria, IL
 
 **EPA Facility ID:** 100000189832
 

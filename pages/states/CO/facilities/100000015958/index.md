@@ -1,6 +1,6 @@
-# Unknown
+# IDALIA NH3 PLANT
 
-**Location:** Unknown, CO
+**Location:** IDALIA, CO
 
 **EPA Facility ID:** 100000015958
 

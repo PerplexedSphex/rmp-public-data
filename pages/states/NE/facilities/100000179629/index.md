@@ -1,6 +1,6 @@
-# Unknown
+# Vertical Cold Storage LLC, La Vista
 
-**Location:** Unknown, NE
+**Location:** La Vista , NE
 
 **EPA Facility ID:** 100000179629
 

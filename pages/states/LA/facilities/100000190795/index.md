@@ -1,6 +1,6 @@
-# Unknown
+# Haughton Plant
 
-**Location:** Unknown, LA
+**Location:** Haughton, LA
 
 **EPA Facility ID:** 100000190795
 

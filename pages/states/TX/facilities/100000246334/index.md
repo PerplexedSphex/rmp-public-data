@@ -1,6 +1,6 @@
-# Unknown
+# Palladio Industries Inc.
 
-**Location:** Unknown, TX
+**Location:** Temple, TX
 
 **EPA Facility ID:** 100000246334
 

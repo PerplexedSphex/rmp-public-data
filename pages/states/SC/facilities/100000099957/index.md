@@ -1,6 +1,6 @@
-# Unknown
+# Lake Hartwell Filter Plant
 
-**Location:** Unknown, SC
+**Location:** Anderson, SC
 
 **EPA Facility ID:** 100000099957
 

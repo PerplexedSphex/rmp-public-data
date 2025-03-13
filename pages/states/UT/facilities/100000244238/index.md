@@ -1,6 +1,6 @@
-# Unknown
+# Price River Terminal
 
-**Location:** Unknown, UT
+**Location:** Wellington, UT
 
 **EPA Facility ID:** 100000244238
 

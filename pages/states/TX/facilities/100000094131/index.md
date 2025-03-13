@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Cooperative- Seminole, TX (72329)
 
-**Location:** Unknown, TX
+**Location:** Seminole, TX
 
 **EPA Facility ID:** 100000094131
 

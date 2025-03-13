@@ -1,6 +1,6 @@
-# Unknown
+# Superior Aluminum Alloys, LLC
 
-**Location:** Unknown, IN
+**Location:** New Haven, IN
 
 **EPA Facility ID:** 100000164653
 

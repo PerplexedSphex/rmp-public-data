@@ -1,6 +1,6 @@
-# Unknown
+# Legendary Baking
 
-**Location:** Unknown, MN
+**Location:** Chaska, MN
 
 **EPA Facility ID:** 100000232606
 

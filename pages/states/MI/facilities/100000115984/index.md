@@ -1,6 +1,6 @@
-# Unknown
+# Gordon Food Service-Grand Rapids
 
-**Location:** Unknown, MI
+**Location:** Grand Rapids, MI
 
 **EPA Facility ID:** 100000115984
 

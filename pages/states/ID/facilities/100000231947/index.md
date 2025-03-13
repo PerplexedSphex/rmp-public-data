@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Paul, ID Facility
 
-**Location:** Unknown, ID
+**Location:** Paul, ID
 
 **EPA Facility ID:** 100000231947
 

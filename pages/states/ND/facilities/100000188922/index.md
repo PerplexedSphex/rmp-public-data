@@ -1,6 +1,6 @@
-# Unknown
+# Central Dakota Frontier Cooperative  Lefor plant
 
-**Location:** Unknown, ND
+**Location:** Lefor, ND
 
 **EPA Facility ID:** 100000188922
 

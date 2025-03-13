@@ -1,6 +1,6 @@
-# Unknown
+# Excelda Manufacturing Warehouse
 
-**Location:** Unknown, MI
+**Location:** Brighton, MI
 
 **EPA Facility ID:** 100000120852
 

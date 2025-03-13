@@ -1,6 +1,6 @@
-# Unknown
+# Clearwater Paper Corp. Idaho P&P Division
 
-**Location:** Unknown, ID
+**Location:** Lewiston, ID
 
 **EPA Facility ID:** 100000087808
 

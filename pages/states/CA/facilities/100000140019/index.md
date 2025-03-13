@@ -1,6 +1,6 @@
-# Unknown
+# Los Angeles Aqueduct Filtration Plant
 
-**Location:** Unknown, CA
+**Location:** Sylmar, CA
 
 **EPA Facility ID:** 100000140019
 

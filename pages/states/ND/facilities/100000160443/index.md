@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc - New Leipzig North
 
-**Location:** Unknown, ND
+**Location:** New Leipzig, ND
 
 **EPA Facility ID:** 100000160443
 

@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Cook
 
-**Location:** Unknown, NE
+**Location:** Cook, NE
 
 **EPA Facility ID:** 100000017386
 

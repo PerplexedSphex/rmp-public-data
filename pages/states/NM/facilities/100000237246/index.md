@@ -1,6 +1,6 @@
-# Unknown
+# Carlsbad Gas Plant
 
-**Location:** Unknown, NM
+**Location:** Loving, NM
 
 **EPA Facility ID:** 100000237246
 

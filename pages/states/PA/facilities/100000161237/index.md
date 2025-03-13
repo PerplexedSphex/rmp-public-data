@@ -1,6 +1,6 @@
-# Unknown
+# GEO Specialty Chemicals, Inc.
 
-**Location:** Unknown, PA
+**Location:** Allentown, PA
 
 **EPA Facility ID:** 100000161237
 

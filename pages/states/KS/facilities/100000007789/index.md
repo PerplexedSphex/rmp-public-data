@@ -1,6 +1,6 @@
-# Unknown
+# Skyland Grain, LLC  - South Kendall
 
-**Location:** Unknown, KS
+**Location:** Kendall, KS
 
 **EPA Facility ID:** 100000007789
 

@@ -1,6 +1,6 @@
-# Unknown
+# Newton's Gas Company
 
-**Location:** Unknown, VT
+**Location:** Colchester, VT
 
 **EPA Facility ID:** 100000022511
 

@@ -1,6 +1,6 @@
-# Unknown
+# J.R. Simplot Company
 
-**Location:** Unknown, CA
+**Location:** Lathrop, CA
 
 **EPA Facility ID:** 100000153932
 

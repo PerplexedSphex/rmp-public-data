@@ -1,6 +1,6 @@
-# Unknown
+# R.L. Adams Plastics Inc.
 
-**Location:** Unknown, MI
+**Location:** Wyoming, MI
 
 **EPA Facility ID:** 100000181689
 

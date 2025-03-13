@@ -1,6 +1,6 @@
-# Unknown
+# Illinois-Amer. Water Co., East St. Louis Facility
 
-**Location:** Unknown, IL
+**Location:** East St. Louis, IL
 
 **EPA Facility ID:** 100000139682
 

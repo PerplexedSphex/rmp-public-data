@@ -1,6 +1,6 @@
-# Unknown
+# Rust-Oleum Corporation
 
-**Location:** Unknown, WI
+**Location:** Pleasant Prairie, WI
 
 **EPA Facility ID:** 100000118525
 

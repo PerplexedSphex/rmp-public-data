@@ -1,6 +1,6 @@
-# Unknown
+# Cheney Co-op Elevator Association - Kingman Branch
 
-**Location:** Unknown, KS
+**Location:** Kingman, KS
 
 **EPA Facility ID:** 100000094925
 

@@ -1,6 +1,6 @@
-# Unknown
+# UniSea, Inc.
 
-**Location:** Unknown, AK
+**Location:** Dutch Harbor, AK
 
 **EPA Facility ID:** 100000054718
 

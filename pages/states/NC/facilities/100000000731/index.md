@@ -1,6 +1,6 @@
-# Unknown
+# L. G. Jordan Oil Company, Inc.
 
-**Location:** Unknown, NC
+**Location:** Apex, NC
 
 **EPA Facility ID:** 100000000731
 

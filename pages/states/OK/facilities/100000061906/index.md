@@ -1,6 +1,6 @@
-# Unknown
+# Milfay Gas Processing Plant
 
-**Location:** Unknown, OK
+**Location:** Stroud, OK
 
 **EPA Facility ID:** 100000061906
 

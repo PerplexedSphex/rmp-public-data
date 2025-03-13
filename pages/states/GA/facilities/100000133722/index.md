@@ -1,6 +1,6 @@
-# Unknown
+# Compass Chemical International LLC
 
-**Location:** Unknown, GA
+**Location:** Smyrna, GA
 
 **EPA Facility ID:** 100000133722
 

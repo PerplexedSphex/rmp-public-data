@@ -1,6 +1,6 @@
-# Unknown
+# DuPont Chambers Works
 
-**Location:** Unknown, NJ
+**Location:** Deepwater, NJ
 
 **EPA Facility ID:** 100000100712
 

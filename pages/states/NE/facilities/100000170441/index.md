@@ -1,6 +1,6 @@
-# Unknown
+# Nebraska Cold Storage
 
-**Location:** Unknown, NE
+**Location:** Hastings, NE
 
 **EPA Facility ID:** 100000170441
 

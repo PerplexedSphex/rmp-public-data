@@ -1,6 +1,6 @@
-# Unknown
+# Lone Butte Wastewater Treatment Plant
 
-**Location:** Unknown, AZ
+**Location:** Chandler, AZ
 
 **EPA Facility ID:** 100000028114
 

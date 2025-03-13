@@ -1,6 +1,6 @@
-# Unknown
+# Scott Candler Filter Plant
 
-**Location:** Unknown, GA
+**Location:** Doraville, GA
 
 **EPA Facility ID:** 100000089441
 

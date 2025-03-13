@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South, Inc.
 
-**Location:** Unknown, IL
+**Location:** Bartonville, IL
 
 **EPA Facility ID:** 100000073715
 

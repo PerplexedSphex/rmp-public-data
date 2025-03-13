@@ -1,6 +1,6 @@
-# Unknown
+# City of Pocatello POTW
 
-**Location:** Unknown, ID
+**Location:** Pocatello, ID
 
 **EPA Facility ID:** 100000030664
 

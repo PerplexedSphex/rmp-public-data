@@ -1,6 +1,6 @@
-# Unknown
+# City of Golden Water Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Golden, CO
 
 **EPA Facility ID:** 100000156092
 

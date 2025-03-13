@@ -1,6 +1,6 @@
-# Unknown
+# Rich Products Corporation - New Britain Facility
 
-**Location:** Unknown, CT
+**Location:** New Britain, CT
 
 **EPA Facility ID:** 100000254397
 

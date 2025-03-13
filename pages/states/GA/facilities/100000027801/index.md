@@ -1,6 +1,6 @@
-# Unknown
+# Water Pollution Control- Joshua Street Plant
 
-**Location:** Unknown, GA
+**Location:** Albany, GA
 
 **EPA Facility ID:** 100000027801
 

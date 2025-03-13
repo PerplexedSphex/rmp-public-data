@@ -1,6 +1,6 @@
-# Unknown
+# Camden, Arkansas Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Camden, AR
 
 **EPA Facility ID:** 100000186372
 

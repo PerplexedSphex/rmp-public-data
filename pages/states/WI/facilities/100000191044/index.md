@@ -1,6 +1,6 @@
-# Unknown
+# Great Lakes Cheese of Wisconsin, Inc.
 
-**Location:** Unknown, WI
+**Location:** Plymouth, WI
 
 **EPA Facility ID:** 100000191044
 

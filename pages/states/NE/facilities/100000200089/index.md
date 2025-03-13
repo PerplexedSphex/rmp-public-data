@@ -1,6 +1,6 @@
-# Unknown
+# Elkhorn Valley Ethanol, LLC
 
-**Location:** Unknown, NE
+**Location:** Norfolk, NE
 
 **EPA Facility ID:** 100000200089
 

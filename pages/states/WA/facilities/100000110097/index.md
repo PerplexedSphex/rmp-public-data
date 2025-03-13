@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Algona
 
-**Location:** Unknown, WA
+**Location:** Algona, WA
 
 **EPA Facility ID:** 100000110097
 

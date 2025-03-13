@@ -1,6 +1,6 @@
-# Unknown
+# Case Farms Processing
 
-**Location:** Unknown, OH
+**Location:** Canton, OH
 
 **EPA Facility ID:** 100000231607
 

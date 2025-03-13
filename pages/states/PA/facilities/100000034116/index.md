@@ -1,6 +1,6 @@
-# Unknown
+# Lebanon Chemical Corporation - Lebanon
 
-**Location:** Unknown, PA
+**Location:** Lebanon, PA
 
 **EPA Facility ID:** 100000034116
 

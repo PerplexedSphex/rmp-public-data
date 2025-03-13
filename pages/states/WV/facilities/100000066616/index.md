@@ -1,6 +1,6 @@
-# Unknown
+# South Charleston Plant, Union Carbide Corporation
 
-**Location:** Unknown, WV
+**Location:** South Charleston, WV
 
 **EPA Facility ID:** 100000066616
 

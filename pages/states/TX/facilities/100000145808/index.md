@@ -1,6 +1,6 @@
-# Unknown
+# Sonora II Gas Plant (Revision 1)
 
-**Location:** Unknown, TX
+**Location:** Sonora, TX
 
 **EPA Facility ID:** 100000145808
 

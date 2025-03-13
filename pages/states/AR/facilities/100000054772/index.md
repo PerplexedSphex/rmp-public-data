@@ -1,6 +1,6 @@
-# Unknown
+# TYSON POULTRY, INC.- CLARKSVILLE PROCESSING PLANT
 
-**Location:** Unknown, AR
+**Location:** CLARKSVILLE, AR
 
 **EPA Facility ID:** 100000054772
 

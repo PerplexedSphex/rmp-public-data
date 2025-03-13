@@ -1,6 +1,6 @@
-# Unknown
+# Reddy Ice-Las Vegas (104)
 
-**Location:** Unknown, NV
+**Location:** Las Vegas, NV
 
 **EPA Facility ID:** 100000146932
 

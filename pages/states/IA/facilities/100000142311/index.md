@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Ruble
 
-**Location:** Unknown, IA
+**Location:** Hartford, IA
 
 **EPA Facility ID:** 100000142311
 

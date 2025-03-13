@@ -1,6 +1,6 @@
-# Unknown
+# Lakeside Foods Inc.
 
-**Location:** Unknown, WI
+**Location:** Random Lake, WI
 
 **EPA Facility ID:** 100000244381
 

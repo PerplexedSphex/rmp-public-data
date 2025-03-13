@@ -1,6 +1,6 @@
-# Unknown
+# Central Rivers Coop
 
-**Location:** Unknown, MN
+**Location:** Princeton, MN
 
 **EPA Facility ID:** 100000045863
 

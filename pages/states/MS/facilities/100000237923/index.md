@@ -1,6 +1,6 @@
-# Unknown
+# USA Yeast Company LLC
 
-**Location:** Unknown, MS
+**Location:** Hattiesburg, MS
 
 **EPA Facility ID:** 100000237923
 

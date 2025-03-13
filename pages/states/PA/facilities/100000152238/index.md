@@ -1,6 +1,6 @@
-# Unknown
+# Chestnut Filtration Plant
 
-**Location:** Unknown, PA
+**Location:** Erie, PA
 
 **EPA Facility ID:** 100000152238
 

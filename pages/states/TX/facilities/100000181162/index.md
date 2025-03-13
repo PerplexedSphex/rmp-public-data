@@ -1,6 +1,6 @@
-# Unknown
+# Rusk Well #3 Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Rusk, TX
 
 **EPA Facility ID:** 100000181162
 

@@ -1,6 +1,6 @@
-# Unknown
+# Idaho Specialty Storage & Distribution
 
-**Location:** Unknown, ID
+**Location:** Nampa, ID
 
 **EPA Facility ID:** 100000212496
 

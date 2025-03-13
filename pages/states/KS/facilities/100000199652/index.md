@@ -1,6 +1,6 @@
-# Unknown
+# Bonanza BioEnergy, LLC
 
-**Location:** Unknown, KS
+**Location:** Garden City, KS
 
 **EPA Facility ID:** 100000199652
 

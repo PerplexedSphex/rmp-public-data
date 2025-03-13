@@ -1,6 +1,6 @@
-# Unknown
+# City of Bogalusa Waste Water Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Bogalusa, LA
 
 **EPA Facility ID:** 100000143427
 

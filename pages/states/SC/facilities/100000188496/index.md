@@ -1,6 +1,6 @@
-# Unknown
+# Food Lion Distribution Center # 30
 
-**Location:** Unknown, SC
+**Location:** Elloree, SC
 
 **EPA Facility ID:** 100000188496
 

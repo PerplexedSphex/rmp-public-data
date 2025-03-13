@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc. - Kalispell
 
-**Location:** Unknown, MT
+**Location:** Kalispell, MT
 
 **EPA Facility ID:** 100000183491
 

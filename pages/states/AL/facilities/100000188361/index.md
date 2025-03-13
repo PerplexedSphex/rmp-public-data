@@ -1,6 +1,6 @@
-# Unknown
+# Western International Gas -  Birmingham
 
-**Location:** Unknown, AL
+**Location:** Birmingham, AL
 
 **EPA Facility ID:** 100000188361
 

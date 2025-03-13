@@ -1,6 +1,6 @@
-# Unknown
+# Noonday Creek WRF
 
-**Location:** Unknown, GA
+**Location:** Kennesaw, GA
 
 **EPA Facility ID:** 100000143793
 

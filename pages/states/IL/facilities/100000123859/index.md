@@ -1,6 +1,6 @@
-# Unknown
+# The Sherwin-Williams Company - Elk Grove
 
-**Location:** Unknown, IL
+**Location:** Elk Grove Village, IL
 
 **EPA Facility ID:** 100000123859
 

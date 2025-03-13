@@ -1,6 +1,6 @@
-# Unknown
+# PBF Logistics Products Terminals LLC
 
-**Location:** Unknown, NJ
+**Location:** Paulsboro, NJ
 
 **EPA Facility ID:** 100000245914
 

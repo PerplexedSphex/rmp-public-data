@@ -1,6 +1,6 @@
-# Unknown
+# Magic Waters
 
-**Location:** Unknown, IL
+**Location:** Cherry Valley, IL
 
 **EPA Facility ID:** 100000048183
 

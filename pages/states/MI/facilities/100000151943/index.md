@@ -1,6 +1,6 @@
-# Unknown
+# Bay Metro Water Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Bay City, MI
 
 **EPA Facility ID:** 100000151943
 

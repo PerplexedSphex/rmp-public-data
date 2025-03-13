@@ -1,6 +1,6 @@
-# Unknown
+# Otisco Lake Metering Station
 
-**Location:** Unknown, NY
+**Location:** Marietta, NY
 
 **EPA Facility ID:** 100000060541
 

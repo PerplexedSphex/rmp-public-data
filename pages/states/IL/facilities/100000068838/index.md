@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-Dale
 
-**Location:** Unknown, IL
+**Location:** Broughton, IL
 
 **EPA Facility ID:** 100000068838
 

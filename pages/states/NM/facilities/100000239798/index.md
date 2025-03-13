@@ -1,6 +1,6 @@
-# Unknown
+# Lightning Dock Geothermal HI-01, LLC
 
-**Location:** Unknown, NM
+**Location:** Animas, NM
 
 **EPA Facility ID:** 100000239798
 

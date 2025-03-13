@@ -1,6 +1,6 @@
-# Unknown
+# Newport Utilities Board Wastewater Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Newport, TN
 
 **EPA Facility ID:** 100000124885
 

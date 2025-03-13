@@ -1,6 +1,6 @@
-# Unknown
+# Lactalis Heritage Dairy - Walton
 
-**Location:** Unknown, NY
+**Location:** Walton, NY
 
 **EPA Facility ID:** 100000031716
 

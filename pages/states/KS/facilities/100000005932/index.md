@@ -1,6 +1,6 @@
-# Unknown
+# Ellis Nh3 Plant
 
-**Location:** Unknown, KS
+**Location:** Ellis, KS
 
 **EPA Facility ID:** 100000005932
 

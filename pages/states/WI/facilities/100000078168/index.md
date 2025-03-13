@@ -1,6 +1,6 @@
-# Unknown
+# Hydrite Chemical Co. - Wausau
 
-**Location:** Unknown, WI
+**Location:** Wausau, WI
 
 **EPA Facility ID:** 100000078168
 

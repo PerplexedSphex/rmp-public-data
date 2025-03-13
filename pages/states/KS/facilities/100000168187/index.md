@@ -1,6 +1,6 @@
-# Unknown
+# Holton NH3
 
-**Location:** Unknown, KS
+**Location:** Holton, KS
 
 **EPA Facility ID:** 100000168187
 

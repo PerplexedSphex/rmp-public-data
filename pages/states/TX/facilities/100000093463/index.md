@@ -1,6 +1,6 @@
-# Unknown
+# Midlothian Tayman Drive WTP (WTP No. 1)
 
-**Location:** Unknown, TX
+**Location:** Midlothian, TX
 
 **EPA Facility ID:** 100000093463
 

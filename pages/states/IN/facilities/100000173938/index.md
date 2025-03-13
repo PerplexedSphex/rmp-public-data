@@ -1,6 +1,6 @@
-# Unknown
+# New Albany Wastewater Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** New Albany, IN
 
 **EPA Facility ID:** 100000173938
 

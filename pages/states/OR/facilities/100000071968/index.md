@@ -1,6 +1,6 @@
-# Unknown
+# Pony Creek Water Treatment Plant
 
-**Location:** Unknown, OR
+**Location:** Coos Bay, OR
 
 **EPA Facility ID:** 100000071968
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bruning Grain & Feed - Alexandria
 
-**Location:** Unknown, NE
+**Location:** Alexandria, NE
 
 **EPA Facility ID:** 100000170085
 

@@ -1,6 +1,6 @@
-# Unknown
+# Hay Canyon Treating Facility
 
-**Location:** Unknown, CO
+**Location:** Loma, CO
 
 **EPA Facility ID:** 100000186657
 

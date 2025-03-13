@@ -1,6 +1,6 @@
-# Unknown
+# Harrison Poultry
 
-**Location:** Unknown, GA
+**Location:** Bethlehem, GA
 
 **EPA Facility ID:** 100000133964
 

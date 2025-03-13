@@ -1,6 +1,6 @@
-# Unknown
+# Star of the West Milling Company of Ohio
 
-**Location:** Unknown, OH
+**Location:** Kent, OH
 
 **EPA Facility ID:** 100000157634
 

@@ -1,6 +1,6 @@
-# Unknown
+# Linde Gas & Equipment - Toledo
 
-**Location:** Unknown, OH
+**Location:** Toledo, OH
 
 **EPA Facility ID:** 100000211237
 

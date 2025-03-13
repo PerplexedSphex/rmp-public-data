@@ -1,6 +1,6 @@
-# Unknown
+# Lion Elastomers Orange, LLC
 
-**Location:** Unknown, TX
+**Location:** Orange, TX
 
 **EPA Facility ID:** 100000151916
 

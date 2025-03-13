@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Gibbon
 
-**Location:** Unknown, NE
+**Location:** Gibbon, NE
 
 **EPA Facility ID:** 100000018447
 

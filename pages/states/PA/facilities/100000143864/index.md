@@ -1,6 +1,6 @@
-# Unknown
+# Penn Champ, Inc.
 
-**Location:** Unknown, PA
+**Location:** East Butler, PA
 
 **EPA Facility ID:** 100000143864
 

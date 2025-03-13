@@ -1,6 +1,6 @@
-# Unknown
+# Chemical Building/ Filtration Plant
 
-**Location:** Unknown, NJ
+**Location:** Wanaque, NJ
 
 **EPA Facility ID:** 100000124616
 

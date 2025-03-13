@@ -1,6 +1,6 @@
-# Unknown
+# DEMICKS LAKE GAS PLANT
 
-**Location:** Unknown, ND
+**Location:** Keene, ND
 
 **EPA Facility ID:** 100000242695
 

@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Cooperative- Lockney, TX (72039)
 
-**Location:** Unknown, TX
+**Location:** Lockney, TX
 
 **EPA Facility ID:** 100000087354
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Princeton, Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Princeton, IL
 
 **EPA Facility ID:** 100000055575
 

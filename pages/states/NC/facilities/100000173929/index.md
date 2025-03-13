@@ -1,6 +1,6 @@
-# Unknown
+# Reser's Fine Foods, Inc. - Halifax Facility
 
-**Location:** Unknown, NC
+**Location:** Halifax, NC
 
 **EPA Facility ID:** 100000173929
 

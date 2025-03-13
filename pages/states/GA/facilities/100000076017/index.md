@@ -1,6 +1,6 @@
-# Unknown
+# Jim Blanchard Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Martinez, GA
 
 **EPA Facility ID:** 100000076017
 

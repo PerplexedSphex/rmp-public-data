@@ -1,6 +1,6 @@
-# Unknown
+# Northport Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Northport, AL
 
 **EPA Facility ID:** 100000108386
 

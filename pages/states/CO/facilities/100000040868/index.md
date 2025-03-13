@@ -1,6 +1,6 @@
-# Unknown
+# Wiggins Gas Plant
 
-**Location:** Unknown, CO
+**Location:** Fort Morgan, CO
 
 **EPA Facility ID:** 100000040868
 

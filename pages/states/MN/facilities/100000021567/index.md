@@ -1,6 +1,6 @@
-# Unknown
+# Elbow Lake Coop Grain, NH3 Plant
 
-**Location:** Unknown, MN
+**Location:** Elbow Lake, MN
 
 **EPA Facility ID:** 100000021567
 

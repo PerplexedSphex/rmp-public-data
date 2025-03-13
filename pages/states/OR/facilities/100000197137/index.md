@@ -1,6 +1,6 @@
-# Unknown
+# Amy's Kitchen, Inc.
 
-**Location:** Unknown, OR
+**Location:** White City, OR
 
 **EPA Facility ID:** 100000197137
 

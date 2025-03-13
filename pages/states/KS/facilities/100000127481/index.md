@@ -1,6 +1,6 @@
-# Unknown
+# Occidental Chemical Corporation - Wichita Plant
 
-**Location:** Unknown, KS
+**Location:** Wichita, KS
 
 **EPA Facility ID:** 100000127481
 

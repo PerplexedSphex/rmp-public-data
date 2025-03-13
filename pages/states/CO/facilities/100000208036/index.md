@@ -1,6 +1,6 @@
-# Unknown
+# Totem Storage Facility- Colorado Interstate Gas Co
 
-**Location:** Unknown, CO
+**Location:** Bennett, CO
 
 **EPA Facility ID:** 100000208036
 

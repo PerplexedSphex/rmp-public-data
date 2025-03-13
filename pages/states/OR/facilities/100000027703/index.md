@@ -1,6 +1,6 @@
-# Unknown
+# Western Farm Service, LaGrande
 
-**Location:** Unknown, OR
+**Location:** LaGrande, OR
 
 **EPA Facility ID:** 100000027703
 

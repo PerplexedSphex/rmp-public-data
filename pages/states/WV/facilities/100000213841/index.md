@@ -1,6 +1,6 @@
-# Unknown
+# Lightburn Extraction Plant
 
-**Location:** Unknown, WV
+**Location:** Jane Lew, WV
 
 **EPA Facility ID:** 100000213841
 

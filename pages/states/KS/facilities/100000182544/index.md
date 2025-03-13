@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Ag Inc-Hendricks NH3 Facility
 
-**Location:** Unknown, KS
+**Location:** Bird City, KS
 
 **EPA Facility ID:** 100000182544
 

@@ -1,6 +1,6 @@
-# Unknown
+# Eastman Chemical Company, Texas Operations
 
-**Location:** Unknown, TX
+**Location:** Longview, TX
 
 **EPA Facility ID:** 100000157126
 

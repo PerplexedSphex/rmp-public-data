@@ -1,6 +1,6 @@
-# Unknown
+# Ideal Chemical & Supply Co. - Memphis Facility
 
-**Location:** Unknown, TN
+**Location:** Memphis, TN
 
 **EPA Facility ID:** 100000074126
 

@@ -1,6 +1,6 @@
-# Unknown
+# George's, Inc. Processing Plant
 
-**Location:** Unknown, MO
+**Location:** Cassville, MO
 
 **EPA Facility ID:** 100000055352
 

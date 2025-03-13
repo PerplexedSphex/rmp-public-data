@@ -1,6 +1,6 @@
-# Unknown
+# Dothan Utilities Chlorine Building
 
-**Location:** Unknown, AL
+**Location:** Dothan, AL
 
 **EPA Facility ID:** 100000241311
 

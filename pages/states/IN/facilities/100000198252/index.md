@@ -1,6 +1,6 @@
-# Unknown
+# Rushville, IN 583
 
-**Location:** Unknown, IN
+**Location:** Rushville, IN
 
 **EPA Facility ID:** 100000198252
 

@@ -1,6 +1,6 @@
-# Unknown
+# Verdant Specialty Solutions US LLC
 
-**Location:** Unknown, IL
+**Location:** University Park, IL
 
 **EPA Facility ID:** 100000192775
 

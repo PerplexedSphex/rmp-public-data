@@ -1,6 +1,6 @@
-# Unknown
+# PPG Industries, Barberton
 
-**Location:** Unknown, OH
+**Location:** Barberton, OH
 
 **EPA Facility ID:** 100000039978
 

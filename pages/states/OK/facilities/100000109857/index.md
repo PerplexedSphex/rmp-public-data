@@ -1,6 +1,6 @@
-# Unknown
+# City of Lawton Water Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Medicine Park, OK
 
 **EPA Facility ID:** 100000109857
 

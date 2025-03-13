@@ -1,6 +1,6 @@
-# Unknown
+# Royal Hub NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Orchard, NE
 
 **EPA Facility ID:** 100000233106
 

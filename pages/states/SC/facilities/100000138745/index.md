@@ -1,6 +1,6 @@
-# Unknown
+# Mullins Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Mullins, SC
 
 **EPA Facility ID:** 100000138745
 

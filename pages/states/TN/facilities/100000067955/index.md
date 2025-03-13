@@ -1,6 +1,6 @@
-# Unknown
+# Hiwassee Utilities Commission Water Treatment Fac.
 
-**Location:** Unknown, TN
+**Location:** Charleston, TN
 
 **EPA Facility ID:** 100000067955
 

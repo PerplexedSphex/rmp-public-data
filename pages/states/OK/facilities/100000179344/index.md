@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Southwest, OKC 
 
-**Location:** Unknown, OK
+**Location:** Oklahoma City, OK
 
 **EPA Facility ID:** 100000179344
 

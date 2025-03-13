@@ -1,6 +1,6 @@
-# Unknown
+# Grey Badger Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Panhandle, TX
 
 **EPA Facility ID:** 100000212726
 

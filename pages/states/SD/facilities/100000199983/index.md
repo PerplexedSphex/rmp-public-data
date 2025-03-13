@@ -1,6 +1,6 @@
-# Unknown
+# Valley Queen Cheese Factory, Inc.
 
-**Location:** Unknown, SD
+**Location:** Milbank, SD
 
 **EPA Facility ID:** 100000199983
 

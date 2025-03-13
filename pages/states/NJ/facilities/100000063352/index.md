@@ -1,6 +1,6 @@
-# Unknown
+# OLD BRIDGE CHEMICALS, INC.
 
-**Location:** Unknown, NJ
+**Location:** OLD BRIDGE, NJ
 
 **EPA Facility ID:** 100000063352
 

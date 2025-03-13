@@ -1,6 +1,6 @@
-# Unknown
+# Emerson L. Burford Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Jackson, GA
 
 **EPA Facility ID:** 100000150926
 

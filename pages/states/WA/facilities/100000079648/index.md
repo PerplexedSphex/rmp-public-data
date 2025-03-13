@@ -1,6 +1,6 @@
-# Unknown
+# Kennewick Fertilizer Operations - Hedges Area
 
-**Location:** Unknown, WA
+**Location:** Kennewick, WA
 
 **EPA Facility ID:** 100000079648
 

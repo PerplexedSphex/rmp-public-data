@@ -1,6 +1,6 @@
-# Unknown
+# WICK GRAIN COMPANY
 
-**Location:** Unknown, KS
+**Location:** DIGHTON, KS
 
 **EPA Facility ID:** 100000092295
 

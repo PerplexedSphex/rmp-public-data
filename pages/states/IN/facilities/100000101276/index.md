@@ -1,6 +1,6 @@
-# Unknown
+# Lineage - Logansport
 
-**Location:** Unknown, IN
+**Location:** Logansport, IN
 
 **EPA Facility ID:** 100000101276
 

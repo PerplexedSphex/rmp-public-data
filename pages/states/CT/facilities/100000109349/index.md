@@ -1,6 +1,6 @@
-# Unknown
+# Allnex USA Inc., Wallingford CT Plant
 
-**Location:** Unknown, CT
+**Location:** Wallingford, CT
 
 **EPA Facility ID:** 100000109349
 

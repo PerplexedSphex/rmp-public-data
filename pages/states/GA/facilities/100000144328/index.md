@@ -1,6 +1,6 @@
-# Unknown
+# The Sherwin-Williams Company - Lanier DSC
 
-**Location:** Unknown, GA
+**Location:** Buford, GA
 
 **EPA Facility ID:** 100000144328
 

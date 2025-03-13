@@ -1,6 +1,6 @@
-# Unknown
+# Cardinal Power Plant
 
-**Location:** Unknown, OH
+**Location:** Brilliant, OH
 
 **EPA Facility ID:** 100000186185
 

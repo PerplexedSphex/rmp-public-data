@@ -1,6 +1,6 @@
-# Unknown
+# PALMER - CENTRA SOTA 
 
-**Location:** Unknown, MN
+**Location:** CLEAR LAKE, MN
 
 **EPA Facility ID:** 100000166303
 

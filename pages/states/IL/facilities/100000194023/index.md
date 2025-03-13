@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center #7024
 
-**Location:** Unknown, IL
+**Location:** Sterling, IL
 
 **EPA Facility ID:** 100000194023
 

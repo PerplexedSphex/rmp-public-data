@@ -1,6 +1,6 @@
-# Unknown
+# Orangeburg DPU Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Orangeburg, SC
 
 **EPA Facility ID:** 100000132867
 

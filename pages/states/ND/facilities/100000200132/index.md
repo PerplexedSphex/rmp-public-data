@@ -1,6 +1,6 @@
-# Unknown
+# Badlands Plant
 
-**Location:** Unknown, ND
+**Location:** Rhame, ND
 
 **EPA Facility ID:** 100000200132
 

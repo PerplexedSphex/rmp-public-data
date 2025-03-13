@@ -1,6 +1,6 @@
-# Unknown
+# The Mennel Milling Company of Michigan
 
-**Location:** Unknown, MI
+**Location:** Dowagiac, MI
 
 **EPA Facility ID:** 100000141223
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Lake Charles - Chennault Water Plant
 
-**Location:** Unknown, LA
+**Location:** Lake Charles, LA
 
 **EPA Facility ID:** 100000055058
 

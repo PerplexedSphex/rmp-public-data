@@ -1,6 +1,6 @@
-# Unknown
+# Sabine Pass Plant
 
-**Location:** Unknown, LA
+**Location:** Johnsons Bayou, LA
 
 **EPA Facility ID:** 100000122538
 

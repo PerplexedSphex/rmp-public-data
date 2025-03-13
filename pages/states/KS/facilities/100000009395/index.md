@@ -1,6 +1,6 @@
-# Unknown
+# FARMWAY CO-OP, INC. CUBA
 
-**Location:** Unknown, KS
+**Location:** CUBA, KS
 
 **EPA Facility ID:** 100000009395
 

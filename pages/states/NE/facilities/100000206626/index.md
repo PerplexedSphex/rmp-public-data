@@ -1,6 +1,6 @@
-# Unknown
+# Panhandle Cooperative Assn- Scottsbluff
 
-**Location:** Unknown, NE
+**Location:** Scottsbluff, NE
 
 **EPA Facility ID:** 100000206626
 

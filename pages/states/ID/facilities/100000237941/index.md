@@ -1,6 +1,6 @@
-# Unknown
+# Fresca Mexican Foods LLC
 
-**Location:** Unknown, ID
+**Location:** Caldwell, ID
 
 **EPA Facility ID:** 100000237941
 

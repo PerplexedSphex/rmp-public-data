@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Logan
 
-**Location:** Unknown, IA
+**Location:** Logan, IA
 
 **EPA Facility ID:** 100000099163
 

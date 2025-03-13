@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Boonville, IN
 
-**Location:** Unknown, IN
+**Location:** Boonville, IN
 
 **EPA Facility ID:** 100000169621
 

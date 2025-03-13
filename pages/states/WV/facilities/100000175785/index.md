@@ -1,6 +1,6 @@
-# Unknown
+# West Virginia American Water - New River WTP
 
-**Location:** Unknown, WV
+**Location:** Beckwith, WV
 
 **EPA Facility ID:** 100000175785
 

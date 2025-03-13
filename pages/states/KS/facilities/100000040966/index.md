@@ -1,6 +1,6 @@
-# Unknown
+# Arkansas City Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Arkansas City, KS
 
 **EPA Facility ID:** 100000040966
 

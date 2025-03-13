@@ -1,6 +1,6 @@
-# Unknown
+# Upper Sandusky, OH 3057
 
-**Location:** Unknown, OH
+**Location:** Upper Sandusky, OH
 
 **EPA Facility ID:** 100000099458
 

@@ -1,6 +1,6 @@
-# Unknown
+# Black Diamond Plant
 
-**Location:** Unknown, TX
+**Location:** Granbury, TX
 
 **EPA Facility ID:** 100000203237
 

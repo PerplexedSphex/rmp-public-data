@@ -1,6 +1,6 @@
-# Unknown
+# Sedalia, KY 652
 
-**Location:** Unknown, KY
+**Location:** Sedalia, KY
 
 **EPA Facility ID:** 100000116527
 

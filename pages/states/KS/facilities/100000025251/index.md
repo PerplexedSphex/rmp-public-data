@@ -1,6 +1,6 @@
-# Unknown
+# Olathe Water Treatment Plant No. 2
 
-**Location:** Unknown, KS
+**Location:** Lenexa, KS
 
 **EPA Facility ID:** 100000025251
 

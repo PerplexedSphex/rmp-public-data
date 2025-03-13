@@ -1,6 +1,6 @@
-# Unknown
+# Alaska Seafood International
 
-**Location:** Unknown, AK
+**Location:** Anchorage, AK
 
 **EPA Facility ID:** 100000162691
 

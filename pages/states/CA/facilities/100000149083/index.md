@@ -1,6 +1,6 @@
-# Unknown
+# R.E. Badger Filtration Plant
 
-**Location:** Unknown, CA
+**Location:** Rancho Santa Fe, CA
 
 **EPA Facility ID:** 100000149083
 

@@ -1,6 +1,6 @@
-# Unknown
+# Guier Chemical & fertilizer, Inc. / Kempf Farm
 
-**Location:** Unknown, MO
+**Location:** Sedalia, MO
 
 **EPA Facility ID:** 100000114618
 

@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Prairie City
 
-**Location:** Unknown, IA
+**Location:** Prairie City, IA
 
 **EPA Facility ID:** 100000095309
 

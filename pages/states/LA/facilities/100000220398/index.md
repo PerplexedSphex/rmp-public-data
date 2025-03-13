@@ -1,6 +1,6 @@
-# Unknown
+# Myriant Lake Providence, Inc.
 
-**Location:** Unknown, LA
+**Location:** Lake Providence, LA
 
 **EPA Facility ID:** 100000220398
 

@@ -1,6 +1,6 @@
-# Unknown
+# FARMLAND COOP, INC.
 
-**Location:** Unknown, CO
+**Location:** BRUSH, CO
 
 **EPA Facility ID:** 100000041581
 

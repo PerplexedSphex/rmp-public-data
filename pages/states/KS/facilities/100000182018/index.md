@@ -1,6 +1,6 @@
-# Unknown
+# CENTRAL PRAIRIE CO-OP - CLAFLIN (N) FACILITY
 
-**Location:** Unknown, KS
+**Location:** Claflin, KS
 
 **EPA Facility ID:** 100000182018
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gulf Plains Plant
 
-**Location:** Unknown, TX
+**Location:** Bishop, TX
 
 **EPA Facility ID:** 100000067054
 

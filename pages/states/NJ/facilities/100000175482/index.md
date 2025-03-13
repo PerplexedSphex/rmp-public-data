@@ -1,6 +1,6 @@
-# Unknown
+# Ronson Consumer Products Corporation
 
-**Location:** Unknown, NJ
+**Location:** Woodbridge Township, NJ
 
 **EPA Facility ID:** 100000175482
 

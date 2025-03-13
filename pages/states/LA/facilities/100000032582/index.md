@@ -1,6 +1,6 @@
-# Unknown
+# Nalco Company - Garyville, LA facility
 
-**Location:** Unknown, LA
+**Location:** Garyville, LA
 
 **EPA Facility ID:** 100000032582
 

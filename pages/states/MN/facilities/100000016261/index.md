@@ -1,6 +1,6 @@
-# Unknown
+# Newfolden Co-op Elevator
 
-**Location:** Unknown, MN
+**Location:** Newfolden, MN
 
 **EPA Facility ID:** 100000016261
 

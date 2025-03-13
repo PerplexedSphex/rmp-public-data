@@ -1,6 +1,6 @@
-# Unknown
+# City of Bethlehem Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Bethlehem, PA
 
 **EPA Facility ID:** 100000084598
 

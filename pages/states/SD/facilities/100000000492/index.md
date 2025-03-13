@@ -1,6 +1,6 @@
-# Unknown
+# Hamlin County Farmers Coop
 
-**Location:** Unknown, SD
+**Location:** Hayti, SD
 
 **EPA Facility ID:** 100000000492
 

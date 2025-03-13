@@ -1,6 +1,6 @@
-# Unknown
+# Preakness Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Orla, TX
 
 **EPA Facility ID:** 100000247814
 

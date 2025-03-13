@@ -1,6 +1,6 @@
-# Unknown
+# George R. Sweeney Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Saltsburg, PA
 
 **EPA Facility ID:** 100000040047
 

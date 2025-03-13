@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Fertilizer & Chemical Company
 
-**Location:** Unknown, CO
+**Location:** Johnstown, CO
 
 **EPA Facility ID:** 100000052765
 

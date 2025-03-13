@@ -1,6 +1,6 @@
-# Unknown
+# (57) The McGregor Company - Harrington Retail
 
-**Location:** Unknown, WA
+**Location:** HARRINGTON, WA
 
 **EPA Facility ID:** 100000176203
 

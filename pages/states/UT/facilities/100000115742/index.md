@@ -1,6 +1,6 @@
-# Unknown
+# White Mesa Uranium Mill
 
-**Location:** Unknown, UT
+**Location:** Blanding, UT
 
 **EPA Facility ID:** 100000115742
 

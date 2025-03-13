@@ -1,6 +1,6 @@
-# Unknown
+# Legacy Cooperative - Wales NH3 Facility
 
-**Location:** Unknown, ND
+**Location:** Wales, ND
 
 **EPA Facility ID:** 100000025581
 

@@ -1,6 +1,6 @@
-# Unknown
+# Hastings Elevator
 
-**Location:** Unknown, IA
+**Location:** Hastings, IA
 
 **EPA Facility ID:** 100000005335
 

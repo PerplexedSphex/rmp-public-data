@@ -1,6 +1,6 @@
-# Unknown
+# Lima Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Lima, OH
 
 **EPA Facility ID:** 100000094024
 

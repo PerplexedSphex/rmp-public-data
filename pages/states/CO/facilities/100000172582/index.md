@@ -1,6 +1,6 @@
-# Unknown
+# Brighton Compressor Station
 
-**Location:** Unknown, CO
+**Location:** Brighton, CO
 
 **EPA Facility ID:** 100000172582
 

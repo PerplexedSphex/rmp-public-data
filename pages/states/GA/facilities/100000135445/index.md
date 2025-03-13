@@ -1,6 +1,6 @@
-# Unknown
+#  Sowega Chlorinator Company, Inc.
 
-**Location:** Unknown, GA
+**Location:** Albany, GA
 
 **EPA Facility ID:** 100000135445
 

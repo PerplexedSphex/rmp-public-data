@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant #6
 
-**Location:** Unknown, FL
+**Location:** Maitland, FL
 
 **EPA Facility ID:** 100000157787
 

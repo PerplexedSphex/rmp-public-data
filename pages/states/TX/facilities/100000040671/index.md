@@ -1,6 +1,6 @@
-# Unknown
+# City of Emory Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Point, TX
 
 **EPA Facility ID:** 100000040671
 

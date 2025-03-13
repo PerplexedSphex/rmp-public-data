@@ -1,6 +1,6 @@
-# Unknown
+# Hopton Technologies, Inc.
 
-**Location:** Unknown, GA
+**Location:** Rome, GA
 
 **EPA Facility ID:** 100000119258
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cedar Grove Warehouse Inc.
 
-**Location:** Unknown, WI
+**Location:** Schofield, WI
 
 **EPA Facility ID:** 100000153683
 

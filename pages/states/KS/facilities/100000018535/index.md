@@ -1,6 +1,6 @@
-# Unknown
+# Smith Center NH3 Plant
 
-**Location:** Unknown, KS
+**Location:** Smith Center, KS
 
 **EPA Facility ID:** 100000018535
 

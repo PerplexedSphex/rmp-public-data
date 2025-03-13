@@ -1,6 +1,6 @@
-# Unknown
+# Drexel Chemical Company
 
-**Location:** Unknown, MS
+**Location:** Tunica, MS
 
 **EPA Facility ID:** 100000174474
 

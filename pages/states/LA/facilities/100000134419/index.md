@@ -1,6 +1,6 @@
-# Unknown
+# Shell Chemical Company LP
 
-**Location:** Unknown, LA
+**Location:** Geismar, LA
 
 **EPA Facility ID:** 100000134419
 

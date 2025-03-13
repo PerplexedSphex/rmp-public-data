@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.- Edgeley
 
-**Location:** Unknown, ND
+**Location:** Edgeley, ND
 
 **EPA Facility ID:** 100000178309
 

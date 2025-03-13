@@ -1,6 +1,6 @@
-# Unknown
+# El Paso Energy Calhoun Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Calhoun, LA
 
 **EPA Facility ID:** 100000137728
 

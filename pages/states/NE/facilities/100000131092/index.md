@@ -1,6 +1,6 @@
-# Unknown
+# Country Partners Cooperative - Spalding
 
-**Location:** Unknown, NE
+**Location:** Spalding, NE
 
 **EPA Facility ID:** 100000131092
 

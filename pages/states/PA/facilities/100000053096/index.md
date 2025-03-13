@@ -1,6 +1,6 @@
-# Unknown
+# ALDI, Inc
 
-**Location:** Unknown, PA
+**Location:** Center Valley, PA
 
 **EPA Facility ID:** 100000053096
 

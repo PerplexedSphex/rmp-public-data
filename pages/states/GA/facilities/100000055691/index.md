@@ -1,6 +1,6 @@
-# Unknown
+# Pilgrim's Pride - Dalton Poultry Processing Plant
 
-**Location:** Unknown, GA
+**Location:** Dalton, GA
 
 **EPA Facility ID:** 100000055691
 

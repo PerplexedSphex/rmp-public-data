@@ -1,6 +1,6 @@
-# Unknown
+# Vertical Cold Storage, Indianapolis
 
-**Location:** Unknown, IN
+**Location:** Indianapolis, IN
 
 **EPA Facility ID:** 100000200294
 

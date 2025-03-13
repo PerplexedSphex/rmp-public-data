@@ -1,6 +1,6 @@
-# Unknown
+# Hog Bayou Energy Center
 
-**Location:** Unknown, AL
+**Location:** Mobile, AL
 
 **EPA Facility ID:** 100000174688
 

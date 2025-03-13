@@ -1,6 +1,6 @@
-# Unknown
+# Kaup Seed & Fertilizer, Inc.
 
-**Location:** Unknown, NE
+**Location:** West Point, NE
 
 **EPA Facility ID:** 100000070326
 

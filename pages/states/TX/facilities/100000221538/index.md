@@ -1,6 +1,6 @@
-# Unknown
+# Brasada Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Cotulla, TX
 
 **EPA Facility ID:** 100000221538
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bennington Branch
 
-**Location:** Unknown, VT
+**Location:** Bennington, VT
 
 **EPA Facility ID:** 100000233419
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mexichem Specialty Resins, Inc. - Henry Plant
 
-**Location:** Unknown, IL
+**Location:** Henry, IL
 
 **EPA Facility ID:** 100000080315
 

@@ -1,6 +1,6 @@
-# Unknown
+# Fort Knox Mine
 
-**Location:** Unknown, AK
+**Location:** Fairbanks, AK
 
 **EPA Facility ID:** 100000097691
 

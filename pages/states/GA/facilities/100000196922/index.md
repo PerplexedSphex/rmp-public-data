@@ -1,6 +1,6 @@
-# Unknown
+# NorthStar Chemicals
 
-**Location:** Unknown, GA
+**Location:** Cartersville, GA
 
 **EPA Facility ID:** 100000196922
 

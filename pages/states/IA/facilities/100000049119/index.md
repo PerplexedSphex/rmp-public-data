@@ -1,6 +1,6 @@
-# Unknown
+# Ajinomoto Health & Nutrition North America, Inc.
 
-**Location:** Unknown, IA
+**Location:** Eddyville, IA
 
 **EPA Facility ID:** 100000049119
 

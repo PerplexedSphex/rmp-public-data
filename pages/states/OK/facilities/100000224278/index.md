@@ -1,6 +1,6 @@
-# Unknown
+# McClure Natural Gas Processing Plant
 
-**Location:** Unknown, OK
+**Location:** Butler, OK
 
 **EPA Facility ID:** 100000224278
 

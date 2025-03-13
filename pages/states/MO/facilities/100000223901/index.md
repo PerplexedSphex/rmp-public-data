@@ -1,6 +1,6 @@
-# Unknown
+# Frick's Quality Meats, Inc.
 
-**Location:** Unknown, MO
+**Location:** Washington, MO
 
 **EPA Facility ID:** 100000223901
 

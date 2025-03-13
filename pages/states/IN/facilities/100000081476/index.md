@@ -1,6 +1,6 @@
-# Unknown
+# Harlan Bakeries - Avon, LLC
 
-**Location:** Unknown, IN
+**Location:** Avon, IN
 
 **EPA Facility ID:** 100000081476
 

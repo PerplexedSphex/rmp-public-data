@@ -1,6 +1,6 @@
-# Unknown
+# Coyne Chemical - Reading Plant
 
-**Location:** Unknown, PA
+**Location:** Reading, PA
 
 **EPA Facility ID:** 100000214519
 

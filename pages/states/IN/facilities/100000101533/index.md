@@ -1,6 +1,6 @@
-# Unknown
+# Growers Cooperative, Inc.
 
-**Location:** Unknown, IN
+**Location:** Terre Haute, IN
 
 **EPA Facility ID:** 100000101533
 

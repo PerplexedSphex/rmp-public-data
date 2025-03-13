@@ -1,6 +1,6 @@
-# Unknown
+# Encogen Northwest Cogeneration Plant
 
-**Location:** Unknown, WA
+**Location:** Bellingham, WA
 
 **EPA Facility ID:** 100000076071
 

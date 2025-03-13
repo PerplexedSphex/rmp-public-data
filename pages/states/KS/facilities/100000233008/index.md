@@ -1,6 +1,6 @@
-# Unknown
+# West Plant
 
-**Location:** Unknown, KS
+**Location:** Dighton, KS
 
 **EPA Facility ID:** 100000233008
 

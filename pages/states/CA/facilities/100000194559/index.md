@@ -1,6 +1,6 @@
-# Unknown
+# Preferred Freezer Services of Los Angeles, LLC
 
-**Location:** Unknown, CA
+**Location:** City of Industry, CA
 
 **EPA Facility ID:** 100000194559
 

@@ -1,6 +1,6 @@
-# Unknown
+# GRAINCO FS, Inc. Serena Facility
 
-**Location:** Unknown, IL
+**Location:** Serena, IL
 
 **EPA Facility ID:** 100000024733
 

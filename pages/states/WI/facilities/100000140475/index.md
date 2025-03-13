@@ -1,6 +1,6 @@
-# Unknown
+# Echo Lake Foods, Franksville
 
-**Location:** Unknown, WI
+**Location:** Franksville, WI
 
 **EPA Facility ID:** 100000140475
 

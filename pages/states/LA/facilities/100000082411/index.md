@@ -1,6 +1,6 @@
-# Unknown
+# City of Gretna Water Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Gretna, LA
 
 **EPA Facility ID:** 100000082411
 

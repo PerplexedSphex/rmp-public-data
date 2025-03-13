@@ -1,6 +1,6 @@
-# Unknown
+# Heritage Environmental Services, LLC
 
-**Location:** Unknown, IN
+**Location:** Indianapolis, IN
 
 **EPA Facility ID:** 100000179095
 

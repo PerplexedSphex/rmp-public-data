@@ -1,6 +1,6 @@
-# Unknown
+# JBS Prepared Foods - Elkhart Facility
 
-**Location:** Unknown, IN
+**Location:** Elkhart, IN
 
 **EPA Facility ID:** 100000186684
 

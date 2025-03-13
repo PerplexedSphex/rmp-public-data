@@ -1,6 +1,6 @@
-# Unknown
+# Tanner Industries, Inc.
 
-**Location:** Unknown, MI
+**Location:** Inkster, MI
 
 **EPA Facility ID:** 100000083161
 

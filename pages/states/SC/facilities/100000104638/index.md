@@ -1,6 +1,6 @@
-# Unknown
+# CHEROKEE COUNTY COGENERATION PARTNERS, LLC
 
-**Location:** Unknown, SC
+**Location:** GAFFNEY, SC
 
 **EPA Facility ID:** 100000104638
 

@@ -1,6 +1,6 @@
-# Unknown
+# De Wafelbakkers, LLC Georgia Plant
 
-**Location:** Unknown, GA
+**Location:** McDonough, GA
 
 **EPA Facility ID:** 100000118749
 

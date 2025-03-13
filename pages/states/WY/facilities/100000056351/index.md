@@ -1,6 +1,6 @@
-# Unknown
+# Big Goose Water Treatment Plant
 
-**Location:** Unknown, WY
+**Location:** Sheridan, WY
 
 **EPA Facility ID:** 100000056351
 

@@ -1,6 +1,6 @@
-# Unknown
+# The Sherwin-Williams Company-Havre de Grace
 
-**Location:** Unknown, MD
+**Location:** Havre de Grace, MD
 
 **EPA Facility ID:** 100000067642
 

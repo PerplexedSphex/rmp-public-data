@@ -1,6 +1,6 @@
-# Unknown
+# Linn Cooperative Oil Co.-Newhall Plant
 
-**Location:** Unknown, IA
+**Location:** Newhall, IA
 
 **EPA Facility ID:** 100000024822
 

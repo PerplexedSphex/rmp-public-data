@@ -1,6 +1,6 @@
-# Unknown
+# El Reno Waterworks Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** El Reno, OK
 
 **EPA Facility ID:** 100000148725
 

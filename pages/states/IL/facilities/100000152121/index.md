@@ -1,6 +1,6 @@
-# Unknown
+# Medora FS, Inc.
 
-**Location:** Unknown, IL
+**Location:** Medora, IL
 
 **EPA Facility ID:** 100000152121
 

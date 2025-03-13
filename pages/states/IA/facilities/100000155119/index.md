@@ -1,6 +1,6 @@
-# Unknown
+# Vision Ag LLC - Brighton
 
-**Location:** Unknown, IA
+**Location:** Brighton, IA
 
 **EPA Facility ID:** 100000155119
 

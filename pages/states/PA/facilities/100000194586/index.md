@@ -1,6 +1,6 @@
-# Unknown
+# West Shore Regional Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** New Cumberland, PA
 
 **EPA Facility ID:** 100000194586
 

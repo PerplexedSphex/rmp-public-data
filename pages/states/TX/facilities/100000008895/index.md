@@ -1,6 +1,6 @@
-# Unknown
+# Lampasas Butane Gas Co - Lometa
 
-**Location:** Unknown, TX
+**Location:** Lometa, TX
 
 **EPA Facility ID:** 100000008895
 

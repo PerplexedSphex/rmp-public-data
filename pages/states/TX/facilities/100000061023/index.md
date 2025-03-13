@@ -1,6 +1,6 @@
-# Unknown
+# Nouryon Functional Chemicals LLC Pasadena Site
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000061023
 

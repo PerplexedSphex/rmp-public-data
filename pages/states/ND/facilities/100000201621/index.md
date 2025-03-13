@@ -1,6 +1,6 @@
-# Unknown
+# Whiting Oil & Gas Ray Gas Plant
 
-**Location:** Unknown, ND
+**Location:** Ray, ND
 
 **EPA Facility ID:** 100000201621
 

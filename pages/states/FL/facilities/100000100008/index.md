@@ -1,6 +1,6 @@
-# Unknown
+# Titusville Water Treatment Plant - Garden Street
 
-**Location:** Unknown, FL
+**Location:** Titusville, FL
 
 **EPA Facility ID:** 100000100008
 

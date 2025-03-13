@@ -1,6 +1,6 @@
-# Unknown
+# SFI-Smithfield
 
-**Location:** Unknown, UT
+**Location:** Smithfield, UT
 
 **EPA Facility ID:** 100000238307
 

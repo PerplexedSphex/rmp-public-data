@@ -1,6 +1,6 @@
-# Unknown
+# Global Stampede Terminal
 
-**Location:** Unknown, ND
+**Location:** Columbus, ND
 
 **EPA Facility ID:** 100000242409
 

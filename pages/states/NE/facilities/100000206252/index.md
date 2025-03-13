@@ -1,6 +1,6 @@
-# Unknown
+# KAAPA Ethanol Ravenna
 
-**Location:** Unknown, NE
+**Location:** Ravenna, NE
 
 **EPA Facility ID:** 100000206252
 

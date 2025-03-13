@@ -1,6 +1,6 @@
-# Unknown
+# Restaurant Depot
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000149948
 

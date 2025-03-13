@@ -1,6 +1,6 @@
-# Unknown
+# Iowa City Wastewater Treatment - North plant
 
-**Location:** Unknown, IA
+**Location:** Iowa City, IA
 
 **EPA Facility ID:** 100000037462
 

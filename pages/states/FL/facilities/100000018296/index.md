@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** New Smyrna Beach, FL
 
 **EPA Facility ID:** 100000018296
 

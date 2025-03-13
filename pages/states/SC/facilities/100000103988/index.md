@@ -1,6 +1,6 @@
-# Unknown
+# Ingevity South Carolina, LLC, Chas. Chem. Plant
 
-**Location:** Unknown, SC
+**Location:** N. Charleston, SC
 
 **EPA Facility ID:** 100000103988
 

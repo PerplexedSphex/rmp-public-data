@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Eckley
 
-**Location:** Unknown, CO
+**Location:** ECKLEY, CO
 
 **EPA Facility ID:** 100000009242
 

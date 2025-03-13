@@ -1,6 +1,6 @@
-# Unknown
+# Boyd Fertilizer, Inc.
 
-**Location:** Unknown, GA
+**Location:** Sylvania, GA
 
 **EPA Facility ID:** 100000146166
 

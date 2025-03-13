@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Readfield
 
-**Location:** Unknown, WI
+**Location:** Readfield, WI
 
 **EPA Facility ID:** 100000097744
 

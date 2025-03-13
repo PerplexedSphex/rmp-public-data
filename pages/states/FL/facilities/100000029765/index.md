@@ -1,6 +1,6 @@
-# Unknown
+# Lithia Water Treatment Facility
 
-**Location:** Unknown, FL
+**Location:** Lithia, FL
 
 **EPA Facility ID:** 100000029765
 

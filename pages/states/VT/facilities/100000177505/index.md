@@ -1,6 +1,6 @@
-# Unknown
+# Gas Supply Resources - Berlin Terminal
 
-**Location:** Unknown, VT
+**Location:** Berlin, VT
 
 **EPA Facility ID:** 100000177505
 

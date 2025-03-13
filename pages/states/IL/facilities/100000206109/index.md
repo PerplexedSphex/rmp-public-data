@@ -1,6 +1,6 @@
-# Unknown
+# Owens Corning Foam Insulation, LLC - Rockford
 
-**Location:** Unknown, IL
+**Location:** Rockford, IL
 
 **EPA Facility ID:** 100000206109
 

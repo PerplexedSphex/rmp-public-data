@@ -1,6 +1,6 @@
-# Unknown
+# ND Paper Inc. - Rumford Division
 
-**Location:** Unknown, ME
+**Location:** Rumford, ME
 
 **EPA Facility ID:** 100000100874
 

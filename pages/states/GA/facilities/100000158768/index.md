@@ -1,6 +1,6 @@
-# Unknown
+# Naval Submarine Base (NSB) Kings Bay
 
-**Location:** Unknown, GA
+**Location:** Kings Bay, GA
 
 **EPA Facility ID:** 100000158768
 

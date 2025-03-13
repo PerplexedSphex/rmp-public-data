@@ -1,6 +1,6 @@
-# Unknown
+# Hickory Bend Gas Processing Plant
 
-**Location:** Unknown, OH
+**Location:** New Middletown, OH
 
 **EPA Facility ID:** 100000228327
 

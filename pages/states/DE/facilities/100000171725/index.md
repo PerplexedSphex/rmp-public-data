@@ -1,6 +1,6 @@
-# Unknown
+# Hanover Foods Corporation - Clayton, DE Plant
 
-**Location:** Unknown, DE
+**Location:** Clayton, DE
 
 **EPA Facility ID:** 100000171725
 

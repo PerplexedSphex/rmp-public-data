@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - St. Charles
 
-**Location:** Unknown, MN
+**Location:** St. Charles, MN
 
 **EPA Facility ID:** 100000221565
 

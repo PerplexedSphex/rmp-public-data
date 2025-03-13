@@ -1,6 +1,6 @@
-# Unknown
+# Mount Holly Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** El Dorado, AR
 
 **EPA Facility ID:** 100000141571
 

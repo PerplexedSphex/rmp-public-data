@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant #2
 
-**Location:** Unknown, UT
+**Location:** Ogden, UT
 
 **EPA Facility ID:** 100000000722
 

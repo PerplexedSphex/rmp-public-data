@@ -1,6 +1,6 @@
-# Unknown
+# TAYGOLD COOPERATIVE
 
-**Location:** Unknown, IA
+**Location:** CLEARFIELD, IA
 
 **EPA Facility ID:** 100000005978
 

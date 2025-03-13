@@ -1,6 +1,6 @@
-# Unknown
+# City of Lewiston Water Treatment Plant
 
-**Location:** Unknown, ID
+**Location:** Lewiston, ID
 
 **EPA Facility ID:** 100000162913
 

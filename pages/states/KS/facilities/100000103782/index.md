@@ -1,6 +1,6 @@
-# Unknown
+# THE DODGE CITY COOP EXCHANGE(BOSSE)
 
-**Location:** Unknown, KS
+**Location:** Jetmore, KS
 
 **EPA Facility ID:** 100000103782
 

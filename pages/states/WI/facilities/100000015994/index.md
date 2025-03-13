@@ -1,6 +1,6 @@
-# Unknown
+# New Horizons Supply Cooperative, Fennimore
 
-**Location:** Unknown, WI
+**Location:** Fennimore, WI
 
 **EPA Facility ID:** 100000015994
 

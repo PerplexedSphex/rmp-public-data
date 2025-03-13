@@ -1,6 +1,6 @@
-# Unknown
+# Bluffton Water Department Filtration Plant
 
-**Location:** Unknown, IN
+**Location:** Bluffton, IN
 
 **EPA Facility ID:** 100000049404
 

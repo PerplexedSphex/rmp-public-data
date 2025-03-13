@@ -1,6 +1,6 @@
-# Unknown
+# Water Works & Industrial Supply Company
 
-**Location:** Unknown, WV
+**Location:** Fairmont, WV
 
 **EPA Facility ID:** 100000080725
 

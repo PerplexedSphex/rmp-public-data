@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Fresh Meats, inc.  Dakota City, NE
 
-**Location:** Unknown, NE
+**Location:** Dakota City, NE
 
 **EPA Facility ID:** 100000008966
 

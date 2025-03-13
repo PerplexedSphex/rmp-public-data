@@ -1,6 +1,6 @@
-# Unknown
+# Polynt Composites USA, Inc. - Valley Park
 
-**Location:** Unknown, MO
+**Location:** Valley Park, MO
 
 **EPA Facility ID:** 100000023761
 

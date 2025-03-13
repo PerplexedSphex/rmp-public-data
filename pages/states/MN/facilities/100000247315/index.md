@@ -1,6 +1,6 @@
-# Unknown
+# Chart Industries
 
-**Location:** Unknown, MN
+**Location:** New Prague, MN
 
 **EPA Facility ID:** 100000247315
 

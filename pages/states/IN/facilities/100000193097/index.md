@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water-Johnson County Marlin Plant
 
-**Location:** Unknown, IN
+**Location:** Greenwood, IN
 
 **EPA Facility ID:** 100000193097
 

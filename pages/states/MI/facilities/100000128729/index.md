@@ -1,6 +1,6 @@
-# Unknown
+# Freezer Services of Michigan, LLC
 
-**Location:** Unknown, MI
+**Location:** Hamtramck, MI
 
 **EPA Facility ID:** 100000128729
 

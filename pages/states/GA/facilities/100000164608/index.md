@@ -1,6 +1,6 @@
-# Unknown
+# PPG Architectural Finishes - Atlanta, GA
 
-**Location:** Unknown, GA
+**Location:** Atlanta, GA
 
 **EPA Facility ID:** 100000164608
 

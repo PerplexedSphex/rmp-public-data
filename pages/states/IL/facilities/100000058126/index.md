@@ -1,6 +1,6 @@
-# Unknown
+# GFC-Bridgeview, Inc
 
-**Location:** Unknown, IL
+**Location:** Bridgeview, IL
 
 **EPA Facility ID:** 100000058126
 

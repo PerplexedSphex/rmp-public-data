@@ -1,6 +1,6 @@
-# Unknown
+# Equistar Chemicals, LP - Lake Charles Polymers
 
-**Location:** Unknown, LA
+**Location:** Westlake, LA
 
 **EPA Facility ID:** 100000051196
 

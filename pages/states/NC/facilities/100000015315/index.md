@@ -1,6 +1,6 @@
-# Unknown
+# Linde Gas, LLC Charlotte (formerly Holox, LTD)
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000015315
 

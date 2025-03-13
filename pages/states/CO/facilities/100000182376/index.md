@@ -1,6 +1,6 @@
-# Unknown
+# Badger Wash Gas Plant
 
-**Location:** Unknown, CO
+**Location:** Mack, CO
 
 **EPA Facility ID:** 100000182376
 

@@ -1,6 +1,6 @@
-# Unknown
+# New Hope Plant
 
-**Location:** Unknown, TX
+**Location:** Scroggins, TX
 
 **EPA Facility ID:** 100000063655
 

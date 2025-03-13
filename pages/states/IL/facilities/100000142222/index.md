@@ -1,6 +1,6 @@
-# Unknown
+# Dolton Recycle Center
 
-**Location:** Unknown, IL
+**Location:** Dolton, IL
 
 **EPA Facility ID:** 100000142222
 

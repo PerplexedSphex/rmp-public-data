@@ -1,6 +1,6 @@
-# Unknown
+# EFFINGHAM CLAY SERVICE COMPANY / TRILLA
 
-**Location:** Unknown, IL
+**Location:** TRILLA, IL
 
 **EPA Facility ID:** 100000148565
 

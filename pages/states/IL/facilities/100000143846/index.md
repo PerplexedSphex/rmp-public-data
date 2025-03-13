@@ -1,6 +1,6 @@
-# Unknown
+# Gold Star FS Inc.-Deer Grove
 
-**Location:** Unknown, IL
+**Location:** Deer Grove, IL
 
 **EPA Facility ID:** 100000143846
 

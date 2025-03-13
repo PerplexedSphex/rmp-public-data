@@ -1,6 +1,6 @@
-# Unknown
+# Perryton Equity- Liberal, Kansas
 
-**Location:** Unknown, KS
+**Location:** Liberal, KS
 
 **EPA Facility ID:** 100000031645
 

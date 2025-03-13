@@ -1,6 +1,6 @@
-# Unknown
+# Palm Street Water Plant
 
-**Location:** Unknown, TX
+**Location:** Huntsville, TX
 
 **EPA Facility ID:** 100000195184
 

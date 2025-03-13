@@ -1,6 +1,6 @@
-# Unknown
+# Costco Wholesale - Mira Loma Depot #961
 
-**Location:** Unknown, CA
+**Location:** Mira Loma, CA
 
 **EPA Facility ID:** 100000108858
 

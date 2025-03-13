@@ -1,6 +1,6 @@
-# Unknown
+# Krown Inc DBA Hi Yield Products
 
-**Location:** Unknown, MN
+**Location:** Hartland, MN
 
 **EPA Facility ID:** 100000207849
 

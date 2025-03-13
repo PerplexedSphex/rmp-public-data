@@ -1,6 +1,6 @@
-# Unknown
+# Kaiser Aluminum & Chemical Corp. - Trentwood Works
 
-**Location:** Unknown, WA
+**Location:** Spokane, WA
 
 **EPA Facility ID:** 100000048897
 

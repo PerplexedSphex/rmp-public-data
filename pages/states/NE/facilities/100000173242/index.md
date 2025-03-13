@@ -1,6 +1,6 @@
-# Unknown
+# United Suppliers Inc,--Silver Creek Ne
 
-**Location:** Unknown, NE
+**Location:** Silver Creek, NE
 
 **EPA Facility ID:** 100000173242
 

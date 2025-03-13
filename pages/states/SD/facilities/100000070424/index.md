@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.-Canton SD
 
-**Location:** Unknown, SD
+**Location:** Canton, SD
 
 **EPA Facility ID:** 100000070424
 

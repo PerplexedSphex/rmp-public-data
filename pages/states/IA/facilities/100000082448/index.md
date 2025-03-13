@@ -1,6 +1,6 @@
-# Unknown
+# PRO Cooperative Inc. - Gilmore City
 
-**Location:** Unknown, IA
+**Location:** Gilmore City, IA
 
 **EPA Facility ID:** 100000082448
 

@@ -1,6 +1,6 @@
-# Unknown
+# Barbourville Water Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Barbourville, KY
 
 **EPA Facility ID:** 100000099975
 

@@ -1,6 +1,6 @@
-# Unknown
+# Terra International,Inc-(Minot, ND)
 
-**Location:** Unknown, ND
+**Location:** Lansford, ND
 
 **EPA Facility ID:** 100000114271
 

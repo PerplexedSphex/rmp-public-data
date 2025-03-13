@@ -1,6 +1,6 @@
-# Unknown
+# California Dairies Inc. Los Banos Processing Plant
 
-**Location:** Unknown, CA
+**Location:** Los Banos, CA
 
 **EPA Facility ID:** 100000213887
 

@@ -1,6 +1,6 @@
-# Unknown
+# Chairmans Foods LLC
 
-**Location:** Unknown, GA
+**Location:** Columbus, GA
 
 **EPA Facility ID:** 100000243676
 

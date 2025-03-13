@@ -1,6 +1,6 @@
-# Unknown
+# Princeton Wastewater Treatment Plant
 
-**Location:** Unknown, WV
+**Location:** Princeton, WV
 
 **EPA Facility ID:** 100000168196
 

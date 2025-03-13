@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company, Blythe, California
 
-**Location:** Unknown, CA
+**Location:** Blythe, CA
 
 **EPA Facility ID:** 100000038791
 

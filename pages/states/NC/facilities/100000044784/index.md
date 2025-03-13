@@ -1,6 +1,6 @@
-# Unknown
+# Pregis Innovative Packaging, Inc.
 
-**Location:** Unknown, NC
+**Location:** Granite Falls, NC
 
 **EPA Facility ID:** 100000044784
 

@@ -1,6 +1,6 @@
-# Unknown
+# Great Bend Coop Assn. DBA American Plains Coop Car
 
-**Location:** Unknown, OK
+**Location:** Carmen, OK
 
 **EPA Facility ID:** 100000003033
 

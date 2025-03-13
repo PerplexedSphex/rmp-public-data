@@ -1,6 +1,6 @@
-# Unknown
+# Pilgrims Mt. Pleasant TX Pet Foods
 
-**Location:** Unknown, TX
+**Location:** Mt. Pleasant, TX
 
 **EPA Facility ID:** 100000236069
 

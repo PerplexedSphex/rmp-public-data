@@ -1,6 +1,6 @@
-# Unknown
+# Berryville, City of-WWTP
 
-**Location:** Unknown, AR
+**Location:** Berryville, AR
 
 **EPA Facility ID:** 100000147717
 

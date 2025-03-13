@@ -1,6 +1,6 @@
-# Unknown
+# Newport Water Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Ft. Thomas, KY
 
 **EPA Facility ID:** 100000168686
 

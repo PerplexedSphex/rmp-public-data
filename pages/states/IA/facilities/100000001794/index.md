@@ -1,6 +1,6 @@
-# Unknown
+# North Central Cooperative - Kanawha Facility
 
-**Location:** Unknown, IA
+**Location:** Kanawha, IA
 
 **EPA Facility ID:** 100000001794
 

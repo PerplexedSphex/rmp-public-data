@@ -1,6 +1,6 @@
-# Unknown
+# Koch Fertilizer, LLC-Walton Terminal
 
-**Location:** Unknown, IN
+**Location:** Walton, IN
 
 **EPA Facility ID:** 100000042946
 

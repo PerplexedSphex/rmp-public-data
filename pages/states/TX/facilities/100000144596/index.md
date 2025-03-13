@@ -1,6 +1,6 @@
-# Unknown
+# Benbrook Water Authority Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Benbrook, TX
 
 **EPA Facility ID:** 100000144596
 

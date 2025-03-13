@@ -1,6 +1,6 @@
-# Unknown
+# National Beef Packing Company, LLC, Liberal
 
-**Location:** Unknown, KS
+**Location:** Liberal, KS
 
 **EPA Facility ID:** 100000130146
 

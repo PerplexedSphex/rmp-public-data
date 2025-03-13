@@ -1,6 +1,6 @@
-# Unknown
+# International Paper Georgetown Mill
 
-**Location:** Unknown, SC
+**Location:** Georgetown, SC
 
 **EPA Facility ID:** 100000051686
 

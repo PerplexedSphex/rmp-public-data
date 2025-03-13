@@ -1,6 +1,6 @@
-# Unknown
+# Heritage FS-Wellington
 
-**Location:** Unknown, IL
+**Location:** Wellington, IL
 
 **EPA Facility ID:** 100000020871
 

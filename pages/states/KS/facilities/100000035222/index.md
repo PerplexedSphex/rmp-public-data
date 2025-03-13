@@ -1,6 +1,6 @@
-# Unknown
+# Dodge City, KS 707 Satellite
 
-**Location:** Unknown, KS
+**Location:** Dodge City, KS
 
 **EPA Facility ID:** 100000035222
 

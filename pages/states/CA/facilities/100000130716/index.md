@@ -1,6 +1,6 @@
-# Unknown
+# Barstow Water Reclamation Facility
 
-**Location:** Unknown, CA
+**Location:** Barstow, CA
 
 **EPA Facility ID:** 100000130716
 

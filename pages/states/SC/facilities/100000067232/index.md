@@ -1,6 +1,6 @@
-# Unknown
+# STEEL HEDDLE MANUFACTURING
 
-**Location:** Unknown, SC
+**Location:** WESTMINSTER, SC
 
 **EPA Facility ID:** 100000067232
 

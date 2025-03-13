@@ -1,6 +1,6 @@
-# Unknown
+# John S. Roth Water Treatment Facility
 
-**Location:** Unknown, CT
+**Location:** Middletown, CT
 
 **EPA Facility ID:** 100000143828
 

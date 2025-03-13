@@ -1,6 +1,6 @@
-# Unknown
+# Aurorium Indianapolis, LLC
 
-**Location:** Unknown, IN
+**Location:** Indianapolis, IN
 
 **EPA Facility ID:** 100000136756
 

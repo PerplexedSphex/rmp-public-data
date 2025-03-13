@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Cooperative Co.
 
-**Location:** Unknown, KS
+**Location:** Wilmore, KS
 
 **EPA Facility ID:** 100000087023
 

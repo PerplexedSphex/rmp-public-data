@@ -1,6 +1,6 @@
-# Unknown
+# Kleerdex Company
 
-**Location:** Unknown, PA
+**Location:** Bloomsburg, PA
 
 **EPA Facility ID:** 100000090901
 

@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Co. - Orangeburg Facility
 
-**Location:** Unknown, SC
+**Location:** Orangeburg, SC
 
 **EPA Facility ID:** 100000182599
 

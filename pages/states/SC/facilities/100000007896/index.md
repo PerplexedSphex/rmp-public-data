@@ -1,6 +1,6 @@
-# Unknown
+# George Hugh Connelly Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Silverstreet, SC
 
 **EPA Facility ID:** 100000007896
 

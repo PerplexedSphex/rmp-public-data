@@ -1,6 +1,6 @@
-# Unknown
+# Dairy Farmers of America INC - Goshen
 
-**Location:** Unknown, IN
+**Location:** Goshen, IN
 
 **EPA Facility ID:** 100000144998
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wellhead Power Panoche, LLC
 
-**Location:** Unknown, CA
+**Location:** Firebaugh, CA
 
 **EPA Facility ID:** 100000191829
 

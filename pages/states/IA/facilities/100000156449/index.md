@@ -1,6 +1,6 @@
-# Unknown
+# Fostoria Cooperative Elevator Company
 
-**Location:** Unknown, IA
+**Location:** Fostoria, IA
 
 **EPA Facility ID:** 100000156449
 

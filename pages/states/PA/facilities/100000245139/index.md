@@ -1,6 +1,6 @@
-# Unknown
+# Freshpet 2
 
-**Location:** Unknown, PA
+**Location:** Bethlehem, PA
 
 **EPA Facility ID:** 100000245139
 

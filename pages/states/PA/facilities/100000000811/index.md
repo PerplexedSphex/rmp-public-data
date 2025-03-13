@@ -1,6 +1,6 @@
-# Unknown
+# HAYS MINE STATION
 
-**Location:** Unknown, PA
+**Location:** PITTSBURGH, PA
 
 **EPA Facility ID:** 100000000811
 

@@ -1,6 +1,6 @@
-# Unknown
+# Nature's Path Foods, Inc.
 
-**Location:** Unknown, WI
+**Location:** Sussex, WI
 
 **EPA Facility ID:** 100000037444
 

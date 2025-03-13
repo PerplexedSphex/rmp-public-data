@@ -1,6 +1,6 @@
-# Unknown
+# Lamanuzzi & Pantaleo -  Dehydrator #3
 
-**Location:** Unknown, CA
+**Location:** Madera, CA
 
 **EPA Facility ID:** 100000075116
 

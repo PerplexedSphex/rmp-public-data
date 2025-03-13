@@ -1,6 +1,6 @@
-# Unknown
+# Peninsula Fruit Exchange
 
-**Location:** Unknown, MI
+**Location:** Traverse City, MI
 
 **EPA Facility ID:** 100000234757
 

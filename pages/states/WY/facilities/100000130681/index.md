@@ -1,6 +1,6 @@
-# Unknown
+# Kitty Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Gillette, WY
 
 **EPA Facility ID:** 100000130681
 

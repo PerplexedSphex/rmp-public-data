@@ -1,6 +1,6 @@
-# Unknown
+# Southern Water Treatment Company Inc.
 
-**Location:** Unknown, SC
+**Location:** Greenville, SC
 
 **EPA Facility ID:** 100000166456
 

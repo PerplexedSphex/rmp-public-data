@@ -1,6 +1,6 @@
-# Unknown
+# National Steak Processors, LLC
 
-**Location:** Unknown, OK
+**Location:** Owasso, OK
 
 **EPA Facility ID:** 100000085141
 

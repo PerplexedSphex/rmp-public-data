@@ -1,6 +1,6 @@
-# Unknown
+# Taylor By-Products, Inc.
 
-**Location:** Unknown, PA
+**Location:** Wyalusing, PA
 
 **EPA Facility ID:** 100000101784
 

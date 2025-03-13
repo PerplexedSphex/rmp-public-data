@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-St. Hilaire
 
-**Location:** Unknown, MN
+**Location:** St. Hilaire, MN
 
 **EPA Facility ID:** 100000062362
 

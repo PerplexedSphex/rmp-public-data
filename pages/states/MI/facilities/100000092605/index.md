@@ -1,6 +1,6 @@
-# Unknown
+# Grand Haven/Spring Lake Wastewater Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Grand Haven, MI
 
 **EPA Facility ID:** 100000092605
 

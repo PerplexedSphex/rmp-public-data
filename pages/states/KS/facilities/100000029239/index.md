@@ -1,6 +1,6 @@
-# Unknown
+# Penalosa NH3 Plant
 
-**Location:** Unknown, KS
+**Location:** Penalosa, KS
 
 **EPA Facility ID:** 100000029239
 

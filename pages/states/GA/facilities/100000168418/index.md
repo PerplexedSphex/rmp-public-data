@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage - McDonough
 
-**Location:** Unknown, GA
+**Location:** McDonough, GA
 
 **EPA Facility ID:** 100000168418
 

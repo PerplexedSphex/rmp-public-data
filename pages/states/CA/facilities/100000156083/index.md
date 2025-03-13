@@ -1,6 +1,6 @@
-# Unknown
+# ISP Alginates Inc.
 
-**Location:** Unknown, CA
+**Location:** SAN DIEGO, CA
 
 **EPA Facility ID:** 100000156083
 

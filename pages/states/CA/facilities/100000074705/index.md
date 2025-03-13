@@ -1,6 +1,6 @@
-# Unknown
+# Salinas River Cogeneration Facility
 
-**Location:** Unknown, CA
+**Location:** San Ardo, CA
 
 **EPA Facility ID:** 100000074705
 

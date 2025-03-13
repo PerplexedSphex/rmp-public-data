@@ -1,6 +1,6 @@
-# Unknown
+# Henkel Corporation
 
-**Location:** Unknown, IL
+**Location:** Elgin, IL
 
 **EPA Facility ID:** 100000175687
 

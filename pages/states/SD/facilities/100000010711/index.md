@@ -1,6 +1,6 @@
-# Unknown
+# FAIRFAX NH3 PLANT
 
-**Location:** Unknown, SD
+**Location:** FAIRFAX, SD
 
 **EPA Facility ID:** 100000010711
 

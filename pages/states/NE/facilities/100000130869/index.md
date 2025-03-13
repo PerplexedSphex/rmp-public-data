@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC  -  ELM  CREEK  
 
-**Location:** Unknown, NE
+**Location:** Elm  Creek, NE
 
 **EPA Facility ID:** 100000130869
 

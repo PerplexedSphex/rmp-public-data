@@ -1,6 +1,6 @@
-# Unknown
+# Americold, Lula
 
-**Location:** Unknown, GA
+**Location:** Lula, GA
 
 **EPA Facility ID:** 100000180733
 

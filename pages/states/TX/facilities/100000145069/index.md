@@ -1,6 +1,6 @@
-# Unknown
+# PD Glycol
 
-**Location:** Unknown, TX
+**Location:** Beaumont, TX
 
 **EPA Facility ID:** 100000145069
 

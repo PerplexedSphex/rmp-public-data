@@ -1,6 +1,6 @@
-# Unknown
+# Sam Brown Sales, LLC - Farmington Plant
 
-**Location:** Unknown, MI
+**Location:** Farmington, MI
 
 **EPA Facility ID:** 100000236568
 

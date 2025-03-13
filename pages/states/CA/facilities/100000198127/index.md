@@ -1,6 +1,6 @@
-# Unknown
+# LOS OSOS COOLING
 
-**Location:** Unknown, CA
+**Location:** Arvin, CA
 
 **EPA Facility ID:** 100000198127
 

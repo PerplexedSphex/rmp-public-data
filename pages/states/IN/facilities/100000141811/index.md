@@ -1,6 +1,6 @@
-# Unknown
+# Elnora, IN Satellite
 
-**Location:** Unknown, IN
+**Location:** Elnora, IN
 
 **EPA Facility ID:** 100000141811
 

@@ -1,6 +1,6 @@
-# Unknown
+# Campbell Soup Supply Company L.L.C. - Maxton Plant
 
-**Location:** Unknown, NC
+**Location:** Maxton, NC
 
 **EPA Facility ID:** 100000066929
 

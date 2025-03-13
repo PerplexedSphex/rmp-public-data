@@ -1,6 +1,6 @@
-# Unknown
+# GATX Richmond Terminal
 
-**Location:** Unknown, CA
+**Location:** Richmond, CA
 
 **EPA Facility ID:** 100000054987
 

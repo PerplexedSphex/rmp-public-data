@@ -1,6 +1,6 @@
-# Unknown
+# Hampshire Chemical Corporation
 
-**Location:** Unknown, NH
+**Location:** Nashua, NH
 
 **EPA Facility ID:** 100000028588
 

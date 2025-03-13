@@ -1,6 +1,6 @@
-# Unknown
+# Jerritt Canyon Mine
 
-**Location:** Unknown, NV
+**Location:** Elko, NV
 
 **EPA Facility ID:** 100000213789
 

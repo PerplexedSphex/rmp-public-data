@@ -1,6 +1,6 @@
-# Unknown
+# Star of the West Milling Co.
 
-**Location:** Unknown, OH
+**Location:** Willard, OH
 
 **EPA Facility ID:** 100000234052
 

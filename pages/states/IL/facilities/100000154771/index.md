@@ -1,6 +1,6 @@
-# Unknown
+# Sealed Air Corporation
 
-**Location:** Unknown, IL
+**Location:** Salem, IL
 
 **EPA Facility ID:** 100000154771
 

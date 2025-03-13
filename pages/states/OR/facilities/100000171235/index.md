@@ -1,6 +1,6 @@
-# Unknown
+# City of Sweet Home Wastewater Treatment Plant
 
-**Location:** Unknown, OR
+**Location:** Sweet Home, OR
 
 **EPA Facility ID:** 100000171235
 

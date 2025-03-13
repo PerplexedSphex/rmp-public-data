@@ -1,6 +1,6 @@
-# Unknown
+# Toshiba Display Devices, Inc.
 
-**Location:** Unknown, NY
+**Location:** Horseheads, NY
 
 **EPA Facility ID:** 100000103586
 

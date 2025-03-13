@@ -1,6 +1,6 @@
-# Unknown
+# Brandt Agronomic Services LLC Richland
 
-**Location:** Unknown, IL
+**Location:** Plesant Plains, IL
 
 **EPA Facility ID:** 100000040591
 

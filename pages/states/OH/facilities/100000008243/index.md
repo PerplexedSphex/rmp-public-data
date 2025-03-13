@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Springfield, OH
 
 **EPA Facility ID:** 100000008243
 

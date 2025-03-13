@@ -1,6 +1,6 @@
-# Unknown
+# Jones Fruit & Produce
 
-**Location:** Unknown, WA
+**Location:** Quincy, WA
 
 **EPA Facility ID:** 100000219024
 

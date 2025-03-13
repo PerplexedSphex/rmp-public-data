@@ -1,6 +1,6 @@
-# Unknown
+# Lone Star Fractionation & Isomerization Facility
 
-**Location:** Unknown, CA
+**Location:** Shafter, CA
 
 **EPA Facility ID:** 100000082858
 

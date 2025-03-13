@@ -1,6 +1,6 @@
-# Unknown
+# Lyons East
 
-**Location:** Unknown, KY
+**Location:** Walton, KY
 
 **EPA Facility ID:** 100000234196
 

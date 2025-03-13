@@ -1,6 +1,6 @@
-# Unknown
+# B. E. Payne Water Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Prospect, KY
 
 **EPA Facility ID:** 100000105067
 

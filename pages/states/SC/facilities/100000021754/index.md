@@ -1,6 +1,6 @@
-# Unknown
+# Barnwell Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Barnwell, SC
 
 **EPA Facility ID:** 100000021754
 

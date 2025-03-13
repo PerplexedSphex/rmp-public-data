@@ -1,6 +1,6 @@
-# Unknown
+# Ambar Chemical - Manistee
 
-**Location:** Unknown, MI
+**Location:** Manistee, MI
 
 **EPA Facility ID:** 100000114627
 

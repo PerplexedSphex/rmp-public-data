@@ -1,6 +1,6 @@
-# Unknown
+# Sherwin-Williams Co - Waco DSC
 
-**Location:** Unknown, TX
+**Location:** Waco, TX
 
 **EPA Facility ID:** 100000144051
 

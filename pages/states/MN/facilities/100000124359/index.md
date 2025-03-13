@@ -1,6 +1,6 @@
-# Unknown
+# Eden Prairie Water Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Eden Prairie, MN
 
 **EPA Facility ID:** 100000124359
 

@@ -1,6 +1,6 @@
-# Unknown
+# Waikoloa Beach Resort Water Reclamation Plant
 
-**Location:** Unknown, HI
+**Location:** Waikoloa, HI
 
 **EPA Facility ID:** 100000150276
 

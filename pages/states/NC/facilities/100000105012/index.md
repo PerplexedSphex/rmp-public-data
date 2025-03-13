@@ -1,6 +1,6 @@
-# Unknown
+# GenCorp Performance Chemcials, Greensboro Plant
 
-**Location:** Unknown, NC
+**Location:** Grensboro, NC
 
 **EPA Facility ID:** 100000105012
 

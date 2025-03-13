@@ -1,6 +1,6 @@
-# Unknown
+# Newark, IL
 
-**Location:** Unknown, IL
+**Location:** Newark, IL
 
 **EPA Facility ID:** 100000172378
 

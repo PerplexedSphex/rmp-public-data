@@ -1,6 +1,6 @@
-# Unknown
+# Able Electropolishing Co., Inc.
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000175393
 

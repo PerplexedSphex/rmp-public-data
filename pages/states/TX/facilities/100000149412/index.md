@@ -1,6 +1,6 @@
-# Unknown
+# Clute/Richwood Wastewater Treatment Facility
 
-**Location:** Unknown, TX
+**Location:** Clute, TX
 
 **EPA Facility ID:** 100000149412
 

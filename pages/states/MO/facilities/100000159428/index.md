@@ -1,6 +1,6 @@
-# Unknown
+# Americold, Carthage Plant # 81302
 
-**Location:** Unknown, MO
+**Location:** Carthage, MO
 
 **EPA Facility ID:** 100000159428
 

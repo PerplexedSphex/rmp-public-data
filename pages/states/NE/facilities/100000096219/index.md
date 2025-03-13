@@ -1,6 +1,6 @@
-# Unknown
+# Butte Farm Supply Inc.
 
-**Location:** Unknown, NE
+**Location:** Butte, NE
 
 **EPA Facility ID:** 100000096219
 

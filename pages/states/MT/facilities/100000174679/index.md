@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Froid
 
-**Location:** Unknown, MT
+**Location:** Froid, MT
 
 **EPA Facility ID:** 100000174679
 

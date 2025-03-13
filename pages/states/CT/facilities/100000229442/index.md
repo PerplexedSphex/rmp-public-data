@@ -1,6 +1,6 @@
-# Unknown
+# Country Pure Foods
 
-**Location:** Unknown, CT
+**Location:** Ellington, CT
 
 **EPA Facility ID:** 100000229442
 

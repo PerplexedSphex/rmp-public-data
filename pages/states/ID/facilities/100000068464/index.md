@@ -1,6 +1,6 @@
-# Unknown
+# Genesee, ID 35
 
-**Location:** Unknown, ID
+**Location:** Genesee, ID
 
 **EPA Facility ID:** 100000068464
 

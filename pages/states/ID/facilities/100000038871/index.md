@@ -1,6 +1,6 @@
-# Unknown
+# Amy's Kitchen, Inc.  - Pocatello
 
-**Location:** Unknown, ID
+**Location:** Pocatello, ID
 
 **EPA Facility ID:** 100000038871
 

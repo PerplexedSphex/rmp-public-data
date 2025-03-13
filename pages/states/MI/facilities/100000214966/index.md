@@ -1,6 +1,6 @@
-# Unknown
+# Frutchey Bean Company Â¿ Oakley, Michigan Facility
 
-**Location:** Unknown, MI
+**Location:** Oakley, MI
 
 **EPA Facility ID:** 100000214966
 

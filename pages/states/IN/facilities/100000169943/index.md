@@ -1,6 +1,6 @@
-# Unknown
+# US Steel Gary Works QBOP Propane Facility
 
-**Location:** Unknown, IN
+**Location:** Gary, IN
 
 **EPA Facility ID:** 100000169943
 

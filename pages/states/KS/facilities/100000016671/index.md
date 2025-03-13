@@ -1,6 +1,6 @@
-# Unknown
+# Griebel Nh3 Plant
 
-**Location:** Unknown, KS
+**Location:** Stockton, KS
 
 **EPA Facility ID:** 100000016671
 

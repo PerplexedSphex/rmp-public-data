@@ -1,6 +1,6 @@
-# Unknown
+# OBI Seafoods - Kodiak
 
-**Location:** Unknown, AK
+**Location:** Kodiak, AK
 
 **EPA Facility ID:** 100000176132
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lilly del Caribe, Inc.
 
-**Location:** Unknown, PR
+**Location:** Mayagüez, PR
 
 **EPA Facility ID:** 100000169257
 

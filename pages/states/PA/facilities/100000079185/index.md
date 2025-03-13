@@ -1,6 +1,6 @@
-# Unknown
+# Stony Garden Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Hamilton Township, PA
 
 **EPA Facility ID:** 100000079185
 

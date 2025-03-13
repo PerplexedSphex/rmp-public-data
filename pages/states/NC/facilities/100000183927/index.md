@@ -1,6 +1,6 @@
-# Unknown
+# Global Companies - Greensboro Terminal
 
-**Location:** Unknown, NC
+**Location:** Greensboro, NC
 
 **EPA Facility ID:** 100000183927
 

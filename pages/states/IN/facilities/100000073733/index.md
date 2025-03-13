@@ -1,6 +1,6 @@
-# Unknown
+# Hammond Water Filtration Plant
 
-**Location:** Unknown, IN
+**Location:** Hammond, IN
 
 **EPA Facility ID:** 100000073733
 

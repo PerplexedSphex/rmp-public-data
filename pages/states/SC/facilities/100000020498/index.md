@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South Inc.
 
-**Location:** Unknown, SC
+**Location:** Charleston, SC
 
 **EPA Facility ID:** 100000020498
 

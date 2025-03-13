@@ -1,6 +1,6 @@
-# Unknown
+# Cutthroat "B" Gas Plant
 
-**Location:** Unknown, CO
+**Location:** Pleasant View, CO
 
 **EPA Facility ID:** 100000142259
 

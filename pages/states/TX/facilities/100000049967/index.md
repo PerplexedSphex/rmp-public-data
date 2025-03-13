@@ -1,6 +1,6 @@
-# Unknown
+# Tippett Gas Plant
 
-**Location:** Unknown, TX
+**Location:** McCamey, TX
 
 **EPA Facility ID:** 100000049967
 

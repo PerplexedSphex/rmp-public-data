@@ -1,6 +1,6 @@
-# Unknown
+# Fort Detrick
 
-**Location:** Unknown, MD
+**Location:** Frederick, MD
 
 **EPA Facility ID:** 100000066288
 

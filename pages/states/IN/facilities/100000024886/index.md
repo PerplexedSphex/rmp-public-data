@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water-Seymour
 
-**Location:** Unknown, IN
+**Location:** Seymour, IN
 
 **EPA Facility ID:** 100000024886
 

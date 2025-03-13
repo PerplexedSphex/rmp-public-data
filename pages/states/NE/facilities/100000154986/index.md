@@ -1,6 +1,6 @@
-# Unknown
+# Shickley NH3 Facility
 
-**Location:** Unknown, NE
+**Location:** Grafton, NE
 
 **EPA Facility ID:** 100000154986
 

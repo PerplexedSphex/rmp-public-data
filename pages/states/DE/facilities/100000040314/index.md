@@ -1,6 +1,6 @@
-# Unknown
+# Kent County Regional Wastewater Treatment Facility
 
-**Location:** Unknown, DE
+**Location:** Milford, DE
 
 **EPA Facility ID:** 100000040314
 

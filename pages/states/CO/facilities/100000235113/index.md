@@ -1,6 +1,6 @@
-# Unknown
+# Skull Creek Dewpoint Plant
 
-**Location:** Unknown, CO
+**Location:** Craig, CO
 
 **EPA Facility ID:** 100000235113
 

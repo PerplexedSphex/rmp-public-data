@@ -1,6 +1,6 @@
-# Unknown
+# Rose Packing Company, Inc., A Division OSI
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000050295
 

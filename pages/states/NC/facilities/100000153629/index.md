@@ -1,6 +1,6 @@
-# Unknown
+# Town of Spindale, Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Spindale, NC
 
 **EPA Facility ID:** 100000153629
 

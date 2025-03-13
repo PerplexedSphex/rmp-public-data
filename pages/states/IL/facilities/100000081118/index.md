@@ -1,6 +1,6 @@
-# Unknown
+# Bergmann-Taylor, Inc.  
 
-**Location:** Unknown, IL
+**Location:** Saint Jacob, IL
 
 **EPA Facility ID:** 100000081118
 

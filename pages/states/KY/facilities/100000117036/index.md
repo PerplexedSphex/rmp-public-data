@@ -1,6 +1,6 @@
-# Unknown
+# Leitchfield Wastewater Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Leitchfield, KY
 
 **EPA Facility ID:** 100000117036
 

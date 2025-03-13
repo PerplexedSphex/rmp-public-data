@@ -1,6 +1,6 @@
-# Unknown
+# Allied Gas & Chemical Company
 
-**Location:** Unknown, IA
+**Location:** Oskaloosa, IA
 
 **EPA Facility ID:** 100000160531
 

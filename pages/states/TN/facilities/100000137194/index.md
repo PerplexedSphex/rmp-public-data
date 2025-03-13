@@ -1,6 +1,6 @@
-# Unknown
+# Eagle Bend Manufacturing, Inc.
 
-**Location:** Unknown, TN
+**Location:** Clinton, TN
 
 **EPA Facility ID:** 100000137194
 

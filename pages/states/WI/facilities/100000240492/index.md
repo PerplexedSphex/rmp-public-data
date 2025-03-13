@@ -1,6 +1,6 @@
-# Unknown
+# Great Lakes Cheese of Wausau, WI, Inc.
 
-**Location:** Unknown, WI
+**Location:** Wausau, WI
 
 **EPA Facility ID:** 100000240492
 

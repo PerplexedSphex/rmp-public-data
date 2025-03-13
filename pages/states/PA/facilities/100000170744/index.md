@@ -1,6 +1,6 @@
-# Unknown
+# Allegheny Ludlum Corporation - Washington Facility
 
-**Location:** Unknown, PA
+**Location:** Washington, PA
 
 **EPA Facility ID:** 100000170744
 

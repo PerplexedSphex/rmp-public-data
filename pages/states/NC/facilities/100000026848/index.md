@@ -1,6 +1,6 @@
-# Unknown
+# Shelby Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Shelby, NC
 
 **EPA Facility ID:** 100000026848
 

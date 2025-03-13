@@ -1,6 +1,6 @@
-# Unknown
+# Industrial & Domestic Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Pt. Wentworth, GA
 
 **EPA Facility ID:** 100000015397
 

@@ -1,6 +1,6 @@
-# Unknown
+# Benjamin Moore & Company, Johnstown, NY Plant
 
-**Location:** Unknown, NY
+**Location:** Johnstown, NY
 
 **EPA Facility ID:** 100000024387
 

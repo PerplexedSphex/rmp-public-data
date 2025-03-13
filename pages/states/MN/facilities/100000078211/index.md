@@ -1,6 +1,6 @@
-# Unknown
+# Hutchinson Water Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Hutchinson, MN
 
 **EPA Facility ID:** 100000078211
 

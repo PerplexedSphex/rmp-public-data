@@ -1,6 +1,6 @@
-# Unknown
+# Lower Creek Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Lenoir, NC
 
 **EPA Facility ID:** 100000156458
 

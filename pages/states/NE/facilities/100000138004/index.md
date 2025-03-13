@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Garrison
 
-**Location:** Unknown, NE
+**Location:** Garrison, NE
 
 **EPA Facility ID:** 100000138004
 

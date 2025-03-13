@@ -1,6 +1,6 @@
-# Unknown
+# NPX ONE - Reading, PA
 
-**Location:** Unknown, PA
+**Location:** Reading, PA
 
 **EPA Facility ID:** 100000124634
 

@@ -1,6 +1,6 @@
-# Unknown
+# Paloma Storage and Transport Station
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000143196
 

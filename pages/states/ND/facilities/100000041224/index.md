@@ -1,6 +1,6 @@
-# Unknown
+# Central Dakota Frontier Coop. Regent South Plant
 
-**Location:** Unknown, ND
+**Location:** Regent, ND
 
 **EPA Facility ID:** 100000041224
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wailuku Shaft 33 Pump Station
 
-**Location:** Unknown, HI
+**Location:** Wailuku, HI
 
 **EPA Facility ID:** 100000035847
 

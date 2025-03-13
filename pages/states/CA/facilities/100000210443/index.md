@@ -1,6 +1,6 @@
-# Unknown
+# Ventura Coastal LLC
 
-**Location:** Unknown, CA
+**Location:** Visalia, CA
 
 **EPA Facility ID:** 100000210443
 

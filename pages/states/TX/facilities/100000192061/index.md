@@ -1,6 +1,6 @@
-# Unknown
+# Clean Harbors LaPorte, LLC
 
-**Location:** Unknown, TX
+**Location:** La Porte, TX
 
 **EPA Facility ID:** 100000192061
 

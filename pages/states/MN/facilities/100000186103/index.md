@@ -1,6 +1,6 @@
-# Unknown
+# Coop Country Farmers Elevator
 
-**Location:** Unknown, MN
+**Location:** Olivia, MN
 
 **EPA Facility ID:** 100000186103
 

@@ -1,6 +1,6 @@
-# Unknown
+# Batesburg-Leesville Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Batesburg-Leesville, SC
 
 **EPA Facility ID:** 100000176588
 

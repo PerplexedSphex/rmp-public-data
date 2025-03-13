@@ -1,6 +1,6 @@
-# Unknown
+# Ambassador Caffery Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Lafayette, LA
 
 **EPA Facility ID:** 100000055245
 

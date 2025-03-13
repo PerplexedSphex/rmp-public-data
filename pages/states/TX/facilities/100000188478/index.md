@@ -1,6 +1,6 @@
-# Unknown
+# PoolChem Specialists LLC
 
-**Location:** Unknown, TX
+**Location:** Richmond, TX
 
 **EPA Facility ID:** 100000188478
 

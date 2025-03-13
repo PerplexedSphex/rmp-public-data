@@ -1,6 +1,6 @@
-# Unknown
+# Tyler Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** Tyler, TX
 
 **EPA Facility ID:** 100000161745
 

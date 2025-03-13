@@ -1,6 +1,6 @@
-# Unknown
+# Hopkins Distribution Co. LLC(Freezer Facility)
 
-**Location:** Unknown, MN
+**Location:** Hopkins, MN
 
 **EPA Facility ID:** 100000105799
 

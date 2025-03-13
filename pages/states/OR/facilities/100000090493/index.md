@@ -1,6 +1,6 @@
-# Unknown
+# Bakelite Chemicals LLC - Albany, OR Plant
 
-**Location:** Unknown, OR
+**Location:** Albany, OR
 
 **EPA Facility ID:** 100000090493
 

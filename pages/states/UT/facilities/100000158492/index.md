@@ -1,6 +1,6 @@
-# Unknown
+# Clean Harbors Aragonite, LLC.
 
-**Location:** Unknown, UT
+**Location:** Aragonite, UT
 
 **EPA Facility ID:** 100000158492
 

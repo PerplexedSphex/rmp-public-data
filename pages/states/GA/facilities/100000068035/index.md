@@ -1,6 +1,6 @@
-# Unknown
+# DOT Foods, Inc. (Vidalia)
 
-**Location:** Unknown, GA
+**Location:** Vidalia, GA
 
 **EPA Facility ID:** 100000068035
 

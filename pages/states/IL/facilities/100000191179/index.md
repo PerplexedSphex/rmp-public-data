@@ -1,6 +1,6 @@
-# Unknown
+# East Lynn, IL
 
-**Location:** Unknown, IL
+**Location:** East Lynn, IL
 
 **EPA Facility ID:** 100000191179
 

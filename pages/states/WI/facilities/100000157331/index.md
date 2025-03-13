@@ -1,6 +1,6 @@
-# Unknown
+# KENRO INC.
 
-**Location:** Unknown, WI
+**Location:** FREDONIA, WI
 
 **EPA Facility ID:** 100000157331
 

@@ -1,6 +1,6 @@
-# Unknown
+# Washington Potato Company - Warden
 
-**Location:** Unknown, WA
+**Location:** Warden, WA
 
 **EPA Facility ID:** 100000247967
 

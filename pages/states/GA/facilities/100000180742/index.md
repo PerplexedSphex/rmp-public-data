@@ -1,6 +1,6 @@
-# Unknown
+# Innovative Chemical Technologies, Inc.
 
-**Location:** Unknown, GA
+**Location:** Cartersville, GA
 
 **EPA Facility ID:** 100000180742
 

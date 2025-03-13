@@ -1,6 +1,6 @@
-# Unknown
+# Lost Hills Gas Processing Plant
 
-**Location:** Unknown, CA
+**Location:** Lost Hills, CA
 
 **EPA Facility ID:** 100000151373
 

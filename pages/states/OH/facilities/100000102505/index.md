@@ -1,6 +1,6 @@
-# Unknown
+# Durez Corporation - Kenton Facility
 
-**Location:** Unknown, OH
+**Location:** Kenton, OH
 
 **EPA Facility ID:** 100000102505
 

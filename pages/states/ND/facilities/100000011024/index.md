@@ -1,6 +1,6 @@
-# Unknown
+# FUOC - Valley City Propane Plant
 
-**Location:** Unknown, ND
+**Location:** Valley City, ND
 
 **EPA Facility ID:** 100000011024
 

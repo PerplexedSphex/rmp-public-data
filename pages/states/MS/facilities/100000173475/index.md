@@ -1,6 +1,6 @@
-# Unknown
+# Platte Chemical Company
 
-**Location:** Unknown, MS
+**Location:** Greenville, MS
 
 **EPA Facility ID:** 100000173475
 

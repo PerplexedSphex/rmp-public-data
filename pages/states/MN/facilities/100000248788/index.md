@@ -1,6 +1,6 @@
-# Unknown
+# North Freeze Dry
 
-**Location:** Unknown, MN
+**Location:** Little Falls, MN
 
 **EPA Facility ID:** 100000248788
 

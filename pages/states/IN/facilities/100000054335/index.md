@@ -1,6 +1,6 @@
-# Unknown
+# Good Humor Corporation Huntington
 
-**Location:** Unknown, IN
+**Location:** Huntington, IN
 
 **EPA Facility ID:** 100000054335
 

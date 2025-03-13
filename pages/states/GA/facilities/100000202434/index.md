@@ -1,6 +1,6 @@
-# Unknown
+# Perma-Fix of South Georgia, Inc.
 
-**Location:** Unknown, GA
+**Location:** Valdosta, GA
 
 **EPA Facility ID:** 100000202434
 

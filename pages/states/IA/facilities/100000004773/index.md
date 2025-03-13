@@ -1,6 +1,6 @@
-# Unknown
+# Landus Cooperative - Churdan
 
-**Location:** Unknown, IA
+**Location:** Churdan, IA
 
 **EPA Facility ID:** 100000004773
 

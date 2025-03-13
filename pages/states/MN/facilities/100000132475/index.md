@@ -1,6 +1,6 @@
-# Unknown
+# Hillside Chemical
 
-**Location:** Unknown, MN
+**Location:** Buffalo Lake, MN
 
 **EPA Facility ID:** 100000132475
 

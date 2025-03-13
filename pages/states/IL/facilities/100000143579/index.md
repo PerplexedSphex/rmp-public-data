@@ -1,6 +1,6 @@
-# Unknown
+# South Central FS, Inc. Vandalia Plant
 
-**Location:** Unknown, IL
+**Location:** Vandalia, IL
 
 **EPA Facility ID:** 100000143579
 

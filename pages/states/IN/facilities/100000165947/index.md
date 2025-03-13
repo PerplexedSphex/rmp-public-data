@@ -1,6 +1,6 @@
-# Unknown
+# Diamond Chain Company
 
-**Location:** Unknown, IN
+**Location:** Indianapolis, IN
 
 **EPA Facility ID:** 100000165947
 

@@ -1,6 +1,6 @@
-# Unknown
+# Kern County Ranch - Kern Lake 
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000227792
 

@@ -1,6 +1,6 @@
-# Unknown
+# L-W Service Company - Fredonia NH3
 
-**Location:** Unknown, IA
+**Location:** Columbus Jct, IA
 
 **EPA Facility ID:** 100000039308
 

@@ -1,6 +1,6 @@
-# Unknown
+# Southern Dome Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Oklahoma City, OK
 
 **EPA Facility ID:** 100000206341
 

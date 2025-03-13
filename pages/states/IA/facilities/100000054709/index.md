@@ -1,6 +1,6 @@
-# Unknown
+# East River Station Water Treatment Plant
 
-**Location:** Unknown, IA
+**Location:** Davenport, IA
 
 **EPA Facility ID:** 100000054709
 

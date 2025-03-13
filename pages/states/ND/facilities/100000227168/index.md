@@ -1,6 +1,6 @@
-# Unknown
+# Mercer NH3 Plant
 
-**Location:** Unknown, ND
+**Location:** Mercer, ND
 
 **EPA Facility ID:** 100000227168
 

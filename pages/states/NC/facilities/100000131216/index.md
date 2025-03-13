@@ -1,6 +1,6 @@
-# Unknown
+# Clariant Mt Holly Plant
 
-**Location:** Unknown, NC
+**Location:** Mt. Holly, NC
 
 **EPA Facility ID:** 100000131216
 

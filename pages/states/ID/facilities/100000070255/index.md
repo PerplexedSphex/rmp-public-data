@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Craigmont
 
-**Location:** Unknown, ID
+**Location:** Craigmont, ID
 
 **EPA Facility ID:** 100000070255
 

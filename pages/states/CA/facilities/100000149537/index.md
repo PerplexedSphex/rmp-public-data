@@ -1,6 +1,6 @@
-# Unknown
+# Golden State Vintners Fresno Winery
 
-**Location:** Unknown, CA
+**Location:** Fresno, CA
 
 **EPA Facility ID:** 100000149537
 

@@ -1,6 +1,6 @@
-# Unknown
+# FREELAND BEAN & GRAIN INC
 
-**Location:** Unknown, MI
+**Location:** FREELAND, MI
 
 **EPA Facility ID:** 100000158447
 

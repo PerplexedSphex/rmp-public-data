@@ -1,6 +1,6 @@
-# Unknown
+# Dry Creek Wastewater Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Madison, TN
 
 **EPA Facility ID:** 100000080798
 

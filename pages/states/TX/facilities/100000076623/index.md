@@ -1,6 +1,6 @@
-# Unknown
+# Waha Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Coyanosa, TX
 
 **EPA Facility ID:** 100000076623
 

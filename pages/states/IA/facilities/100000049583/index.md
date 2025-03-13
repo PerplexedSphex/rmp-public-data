@@ -1,6 +1,6 @@
-# Unknown
+# Osceola Food, LLC
 
-**Location:** Unknown, IA
+**Location:** Osceola, IA
 
 **EPA Facility ID:** 100000049583
 

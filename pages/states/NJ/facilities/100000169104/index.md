@@ -1,6 +1,6 @@
-# Unknown
+# Fairmount Chemical Company, Inc.
 
-**Location:** Unknown, NJ
+**Location:** Newark, NJ
 
 **EPA Facility ID:** 100000169104
 

@@ -1,6 +1,6 @@
-# Unknown
+# Costco Wholesale - Tolleson
 
-**Location:** Unknown, AZ
+**Location:** Tolleson, AZ
 
 **EPA Facility ID:** 100000171404
 

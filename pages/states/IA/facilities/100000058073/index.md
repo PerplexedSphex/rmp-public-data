@@ -1,6 +1,6 @@
-# Unknown
+# Cedar County Cooperative - Tipton
 
-**Location:** Unknown, IA
+**Location:** Tipton, IA
 
 **EPA Facility ID:** 100000058073
 

@@ -1,6 +1,6 @@
-# Unknown
+# Clinton Natural Gas Processing Plant
 
-**Location:** Unknown, OK
+**Location:** Clinton, OK
 
 **EPA Facility ID:** 100000001035
 

@@ -1,6 +1,6 @@
-# Unknown
+# Georgia-Pacific Chemicals LLC - Vienna Resin Plant
 
-**Location:** Unknown, GA
+**Location:** Vienna, GA
 
 **EPA Facility ID:** 100000094756
 

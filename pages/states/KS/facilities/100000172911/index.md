@@ -1,6 +1,6 @@
-# Unknown
+# Russell Stover Chocolates - Iola Kansas Plant
 
-**Location:** Unknown, KS
+**Location:** Iola, KS
 
 **EPA Facility ID:** 100000172911
 

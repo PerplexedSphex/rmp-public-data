@@ -1,6 +1,6 @@
-# Unknown
+# Roger Mills Gas Processing Plant
 
-**Location:** Unknown, OK
+**Location:** Elk City, OK
 
 **EPA Facility ID:** 100000205743
 

@@ -1,6 +1,6 @@
-# Unknown
+# Loves Creek Wastewater Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Knoxville, TN
 
 **EPA Facility ID:** 100000095933
 

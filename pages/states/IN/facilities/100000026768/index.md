@@ -1,6 +1,6 @@
-# Unknown
+# Farbest Foods Inc.
 
-**Location:** Unknown, IN
+**Location:** Huntingburg, IN
 
 **EPA Facility ID:** 100000026768
 

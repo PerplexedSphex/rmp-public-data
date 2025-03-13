@@ -1,6 +1,6 @@
-# Unknown
+# Janesville LPG Terminal
 
-**Location:** Unknown, WI
+**Location:** Janesville, WI
 
 **EPA Facility ID:** 100000188593
 

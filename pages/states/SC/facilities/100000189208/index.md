@@ -1,6 +1,6 @@
-# Unknown
+# Bamberg BPW Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Bamberg, SC
 
 **EPA Facility ID:** 100000189208
 

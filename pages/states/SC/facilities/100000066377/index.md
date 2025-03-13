@@ -1,6 +1,6 @@
-# Unknown
+# Pawleys Island Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Pawleys Island, SC
 
 **EPA Facility ID:** 100000066377
 

@@ -1,6 +1,6 @@
-# Unknown
+# East Stroudsburg Wastewater Plant
 
-**Location:** Unknown, PA
+**Location:** East Stroudsburg, PA
 
 **EPA Facility ID:** 100000133456
 

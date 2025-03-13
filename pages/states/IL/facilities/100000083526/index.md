@@ -1,6 +1,6 @@
-# Unknown
+# Village of Northbrook Water Filtration Plant
 
-**Location:** Unknown, IL
+**Location:** Northbrook, IL
 
 **EPA Facility ID:** 100000083526
 

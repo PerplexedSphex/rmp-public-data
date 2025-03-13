@@ -1,6 +1,6 @@
-# Unknown
+# Rockaway Wastewater Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Peachtree City, GA
 
 **EPA Facility ID:** 100000056832
 

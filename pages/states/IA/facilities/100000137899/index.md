@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Dexter
 
-**Location:** Unknown, IA
+**Location:** Dexter, IA
 
 **EPA Facility ID:** 100000137899
 

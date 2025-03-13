@@ -1,6 +1,6 @@
-# Unknown
+# Merchants Foodservice
 
-**Location:** Unknown, AL
+**Location:** Clanton, AL
 
 **EPA Facility ID:** 100000232367
 

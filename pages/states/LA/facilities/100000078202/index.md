@@ -1,6 +1,6 @@
-# Unknown
+# Pinnacle Polymers, LLC
 
-**Location:** Unknown, LA
+**Location:** Garyville, LA
 
 **EPA Facility ID:** 100000078202
 

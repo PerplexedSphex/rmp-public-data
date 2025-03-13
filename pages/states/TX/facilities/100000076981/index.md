@@ -1,6 +1,6 @@
-# Unknown
+# City of Uvalde, Wastewater Treatment Facility
 
-**Location:** Unknown, TX
+**Location:** Uvalde, TX
 
 **EPA Facility ID:** 100000076981
 

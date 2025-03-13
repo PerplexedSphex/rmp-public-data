@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Coop Assn.
 
-**Location:** Unknown, MN
+**Location:** Jackson, MN
 
 **EPA Facility ID:** 100000020014
 

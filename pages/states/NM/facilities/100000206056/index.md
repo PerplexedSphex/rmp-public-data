@@ -1,6 +1,6 @@
-# Unknown
+# Chaparral Gas Plant
 
-**Location:** Unknown, NM
+**Location:** Carlsbad, NM
 
 **EPA Facility ID:** 100000206056
 

@@ -1,6 +1,6 @@
-# Unknown
+# Canton West Water Plant
 
-**Location:** Unknown, MS
+**Location:** Canton, MS
 
 **EPA Facility ID:** 100000213672
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cooke Plant
 
-**Location:** Unknown, TX
+**Location:** Artesia Wells, TX
 
 **EPA Facility ID:** 100000219621
 

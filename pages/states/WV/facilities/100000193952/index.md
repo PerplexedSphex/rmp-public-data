@@ -1,6 +1,6 @@
-# Unknown
+# Century Aluminum of West Virginia, Inc.
 
-**Location:** Unknown, WV
+**Location:** Ravenswood, WV
 
 **EPA Facility ID:** 100000193952
 

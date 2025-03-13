@@ -1,6 +1,6 @@
-# Unknown
+# Combustion Turbine No. 2/Lodi Energy Center
 
-**Location:** Unknown, CA
+**Location:** Lodi, CA
 
 **EPA Facility ID:** 100000160817
 

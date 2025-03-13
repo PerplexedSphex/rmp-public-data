@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Ortonville
 
-**Location:** Unknown, MN
+**Location:** Ortonville, MN
 
 **EPA Facility ID:** 100000122592
 

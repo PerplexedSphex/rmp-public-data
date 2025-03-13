@@ -1,6 +1,6 @@
-# Unknown
+# Aldi Inc
 
-**Location:** Unknown, WI
+**Location:** Oak Creek, WI
 
 **EPA Facility ID:** 100000225053
 

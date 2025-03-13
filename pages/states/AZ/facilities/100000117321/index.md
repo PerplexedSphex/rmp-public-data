@@ -1,6 +1,6 @@
-# Unknown
+# Dole Fresh Vegetables, Inc (Yuma, Arizona)
 
-**Location:** Unknown, AZ
+**Location:** Yuma, AZ
 
 **EPA Facility ID:** 100000117321
 

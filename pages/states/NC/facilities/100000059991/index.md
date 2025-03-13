@@ -1,6 +1,6 @@
-# Unknown
+# Solite Corporation, dba Carolina Solite
 
-**Location:** Unknown, NC
+**Location:** Norwood, NC
 
 **EPA Facility ID:** 100000059991
 

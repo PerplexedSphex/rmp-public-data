@@ -1,6 +1,6 @@
-# Unknown
+# Coosa Water Reclamation Facility
 
-**Location:** Unknown, GA
+**Location:** Rome, GA
 
 **EPA Facility ID:** 100000034483
 

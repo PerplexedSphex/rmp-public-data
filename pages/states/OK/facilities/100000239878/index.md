@@ -1,6 +1,6 @@
-# Unknown
+# Hickory Hills Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Stuart, OK
 
 **EPA Facility ID:** 100000239878
 

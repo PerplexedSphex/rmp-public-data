@@ -1,6 +1,6 @@
-# Unknown
+# Ed Miniat LLC
 
-**Location:** Unknown, IL
+**Location:** South Holland, IL
 
 **EPA Facility ID:** 100000039086
 

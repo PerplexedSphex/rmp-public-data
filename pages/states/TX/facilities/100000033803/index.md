@@ -1,6 +1,6 @@
-# Unknown
+# Hiland Dairy Ice Cream
 
-**Location:** Unknown, TX
+**Location:** Tyler, TX
 
 **EPA Facility ID:** 100000033803
 

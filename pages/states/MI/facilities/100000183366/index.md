@@ -1,6 +1,6 @@
-# Unknown
+# W. R. Grace & Co.-Conn.
 
-**Location:** Unknown, MI
+**Location:** South Haven, MI
 
 **EPA Facility ID:** 100000183366
 

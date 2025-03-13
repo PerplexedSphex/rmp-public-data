@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Burr
 
-**Location:** Unknown, NE
+**Location:** Burr, NE
 
 **EPA Facility ID:** 100000017787
 

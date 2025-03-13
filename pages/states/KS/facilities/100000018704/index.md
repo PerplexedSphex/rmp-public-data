@@ -1,6 +1,6 @@
-# Unknown
+# Redbarn Pet Products, LLC
 
-**Location:** Unknown, KS
+**Location:** Great Bend, KS
 
 **EPA Facility ID:** 100000018704
 

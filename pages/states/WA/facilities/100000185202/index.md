@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center #7021
 
-**Location:** Unknown, WA
+**Location:** Grandview, WA
 
 **EPA Facility ID:** 100000185202
 

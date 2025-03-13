@@ -1,6 +1,6 @@
-# Unknown
+# City of Greenwood, MS - Wastewater Treatment Plant
 
-**Location:** Unknown, MS
+**Location:** Greenwood, MS
 
 **EPA Facility ID:** 100000044301
 

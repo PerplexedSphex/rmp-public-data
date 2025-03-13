@@ -1,6 +1,6 @@
-# Unknown
+# City of Highland Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Highland, IL
 
 **EPA Facility ID:** 100000249938
 

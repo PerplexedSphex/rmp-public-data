@@ -1,6 +1,6 @@
-# Unknown
+# Gorham Nh3 Plant
 
-**Location:** Unknown, KS
+**Location:** Gorham, KS
 
 **EPA Facility ID:** 100000023128
 

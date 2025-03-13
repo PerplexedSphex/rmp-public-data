@@ -1,6 +1,6 @@
-# Unknown
+# Baker Produce, Inc. - Zillah
 
-**Location:** Unknown, WA
+**Location:** Zillah, WA
 
 **EPA Facility ID:** 100000240385
 

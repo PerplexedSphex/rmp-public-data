@@ -1,6 +1,6 @@
-# Unknown
+# Indianola NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** INDIANOLA, NE
 
 **EPA Facility ID:** 100000153745
 

@@ -1,6 +1,6 @@
-# Unknown
+# GLWA Water Resource Recovery Facility
 
-**Location:** Unknown, MI
+**Location:** Detroit, MI
 
 **EPA Facility ID:** 100000113021
 

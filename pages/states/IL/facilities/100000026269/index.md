@@ -1,6 +1,6 @@
-# Unknown
+# Airgas-Mid America - Galesburg
 
-**Location:** Unknown, IL
+**Location:** Galesburg, IL
 
 **EPA Facility ID:** 100000026269
 

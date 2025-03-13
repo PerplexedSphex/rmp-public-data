@@ -1,6 +1,6 @@
-# Unknown
+# City of Borger Wastewater Treatment Facility
 
-**Location:** Unknown, TX
+**Location:** Borger, TX
 
 **EPA Facility ID:** 100000006584
 

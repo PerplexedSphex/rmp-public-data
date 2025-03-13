@@ -1,6 +1,6 @@
-# Unknown
+# SIMAG Grain, Inc.
 
-**Location:** Unknown, NE
+**Location:** Red Cloud, NE
 
 **EPA Facility ID:** 100000109232
 

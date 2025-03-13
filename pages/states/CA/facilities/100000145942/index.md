@@ -1,6 +1,6 @@
-# Unknown
+# Eagle Rock Reservoir Outlet Chlorination Station
 
-**Location:** Unknown, CA
+**Location:** Eagle Rock, CA
 
 **EPA Facility ID:** 100000145942
 

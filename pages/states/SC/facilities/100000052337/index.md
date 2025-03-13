@@ -1,6 +1,6 @@
-# Unknown
+# Catawba River Water Plant
 
-**Location:** Unknown, SC
+**Location:** Van Wyck, SC
 
 **EPA Facility ID:** 100000052337
 

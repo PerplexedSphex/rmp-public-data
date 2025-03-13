@@ -1,6 +1,6 @@
-# Unknown
+# Ottawa Cooperative Association - Leloup Coop
 
-**Location:** Unknown, KS
+**Location:** Wellsville, KS
 
 **EPA Facility ID:** 100000222993
 

@@ -1,6 +1,6 @@
-# Unknown
+# The Dow Chemical Company, Texas Operations
 
-**Location:** Unknown, TX
+**Location:** Freeport, TX
 
 **EPA Facility ID:** 100000042535
 

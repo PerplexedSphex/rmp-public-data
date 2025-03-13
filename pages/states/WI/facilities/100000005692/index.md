@@ -1,6 +1,6 @@
-# Unknown
+# Hamlin Incorporated
 
-**Location:** Unknown, WI
+**Location:** Lake Mills, WI
 
 **EPA Facility ID:** 100000005692
 

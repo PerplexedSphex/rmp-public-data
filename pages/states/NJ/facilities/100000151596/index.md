@@ -1,6 +1,6 @@
-# Unknown
+# Heterene Chemical Co., Inc.
 
-**Location:** Unknown, NJ
+**Location:** Paterson, NJ
 
 **EPA Facility ID:** 100000151596
 

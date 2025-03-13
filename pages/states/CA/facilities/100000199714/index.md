@@ -1,6 +1,6 @@
-# Unknown
+# Dedeaux Properties
 
-**Location:** Unknown, CA
+**Location:** Commerce, CA
 
 **EPA Facility ID:** 100000199714
 

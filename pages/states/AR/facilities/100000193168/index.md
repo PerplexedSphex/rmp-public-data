@@ -1,6 +1,6 @@
-# Unknown
+# Malvern Wastewater Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Malvern, AR
 
 **EPA Facility ID:** 100000193168
 

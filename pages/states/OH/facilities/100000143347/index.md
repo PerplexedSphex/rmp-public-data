@@ -1,6 +1,6 @@
-# Unknown
+# The Mennel Milling Company
 
-**Location:** Unknown, OH
+**Location:** Fostoria, OH
 
 **EPA Facility ID:** 100000143347
 

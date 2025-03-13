@@ -1,6 +1,6 @@
-# Unknown
+# Beaverdam Creek Water Treatment Facility
 
-**Location:** Unknown, GA
+**Location:** Elberton, GA
 
 **EPA Facility ID:** 100000197618
 

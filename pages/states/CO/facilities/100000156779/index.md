@@ -1,6 +1,6 @@
-# Unknown
+# United States Welding, Inc.
 
-**Location:** Unknown, CO
+**Location:** Denver, CO
 
 **EPA Facility ID:** 100000156779
 

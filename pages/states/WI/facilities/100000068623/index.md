@@ -1,6 +1,6 @@
-# Unknown
+# Metal Injection Molding
 
-**Location:** Unknown, WI
+**Location:** Menomonie, WI
 
 **EPA Facility ID:** 100000068623
 

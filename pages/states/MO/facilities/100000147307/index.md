@@ -1,6 +1,6 @@
-# Unknown
+# ICI EXPLOSIVES USA INC
 
-**Location:** Unknown, MO
+**Location:** JOPLIN, MO
 
 **EPA Facility ID:** 100000147307
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cornish Creek Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Covington, GA
 
 **EPA Facility ID:** 100000105432
 

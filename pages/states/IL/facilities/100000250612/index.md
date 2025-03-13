@@ -1,6 +1,6 @@
-# Unknown
+# WSU - Thunderbird
 
-**Location:** Unknown, IL
+**Location:** East Peoria, IL
 
 **EPA Facility ID:** 100000250612
 

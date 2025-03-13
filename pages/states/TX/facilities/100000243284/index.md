@@ -1,6 +1,6 @@
-# Unknown
+# Formosa Plastics Corporation, Texas #3
 
-**Location:** Unknown, TX
+**Location:** Point Comfort, TX
 
 **EPA Facility ID:** 100000243284
 

@@ -1,6 +1,6 @@
-# Unknown
+# Nevada City Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Nevada City, CA
 
 **EPA Facility ID:** 100000100348
 

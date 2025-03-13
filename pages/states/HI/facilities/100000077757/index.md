@@ -1,6 +1,6 @@
-# Unknown
+# The Gas Company SNG Plant
 
-**Location:** Unknown, HI
+**Location:** Kapolei, HI
 
 **EPA Facility ID:** 100000077757
 

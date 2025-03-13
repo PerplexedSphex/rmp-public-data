@@ -1,6 +1,6 @@
-# Unknown
+# City of Kinston Peachtree WWTP
 
-**Location:** Unknown, NC
+**Location:** Kinston, NC
 
 **EPA Facility ID:** 100000006619
 

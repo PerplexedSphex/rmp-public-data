@@ -1,6 +1,6 @@
-# Unknown
+# City of Hays Water Softening Plant
 
-**Location:** Unknown, KS
+**Location:** Hays, KS
 
 **EPA Facility ID:** 100000043277
 

@@ -1,6 +1,6 @@
-# Unknown
+# Dunkirk Ice Cream Plant (DICP)
 
-**Location:** Unknown, NY
+**Location:** Dunkirk, NY
 
 **EPA Facility ID:** 100000142918
 

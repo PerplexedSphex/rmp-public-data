@@ -1,6 +1,6 @@
-# Unknown
+# Tama-Benton Cooperative - Vinton
 
-**Location:** Unknown, IA
+**Location:** Vinton, IA
 
 **EPA Facility ID:** 100000056609
 

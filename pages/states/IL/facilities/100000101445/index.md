@@ -1,6 +1,6 @@
-# Unknown
+# White Hall, IL 3524
 
-**Location:** Unknown, IL
+**Location:** White Hall, IL
 
 **EPA Facility ID:** 100000101445
 

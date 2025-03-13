@@ -1,6 +1,6 @@
-# Unknown
+# Cooper River Partners, LLC
 
-**Location:** Unknown, SC
+**Location:** Goose Creek, SC
 
 **EPA Facility ID:** 100000210238
 

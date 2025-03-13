@@ -1,6 +1,6 @@
-# Unknown
+# Bellevue Milk and Ice Cream
 
-**Location:** Unknown, WA
+**Location:** Bellevue, WA
 
 **EPA Facility ID:** 100000062086
 

@@ -1,6 +1,6 @@
-# Unknown
+# Kova Fertilizer, Inc (Cortland)
 
-**Location:** Unknown, IN
+**Location:** Seymour, IN
 
 **EPA Facility ID:** 100000155182
 

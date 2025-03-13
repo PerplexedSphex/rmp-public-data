@@ -1,6 +1,6 @@
-# Unknown
+# G.D. Searle LLC
 
-**Location:** Unknown, GA
+**Location:** Augusta, GA
 
 **EPA Facility ID:** 100000192356
 

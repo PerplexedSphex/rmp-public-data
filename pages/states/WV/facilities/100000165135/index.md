@@ -1,6 +1,6 @@
-# Unknown
+# K&Z Mine
 
-**Location:** Unknown, WV
+**Location:** Bruceton Mills, WV
 
 **EPA Facility ID:** 100000165135
 

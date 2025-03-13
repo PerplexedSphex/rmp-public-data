@@ -1,6 +1,6 @@
-# Unknown
+# ALLIED UNIVERSAL CORPORATION
 
-**Location:** Unknown, GA
+**Location:** RANGER, GA
 
 **EPA Facility ID:** 100000036837
 

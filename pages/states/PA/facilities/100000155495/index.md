@@ -1,6 +1,6 @@
-# Unknown
+# Butler Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Butler, PA
 
 **EPA Facility ID:** 100000155495
 

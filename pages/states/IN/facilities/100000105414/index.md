@@ -1,6 +1,6 @@
-# Unknown
+# Accra-Pac, Inc. DBA Voyant Beauty
 
-**Location:** Unknown, IN
+**Location:** Elkhart, IN
 
 **EPA Facility ID:** 100000105414
 

@@ -1,6 +1,6 @@
-# Unknown
+# Golva Coop Elevator
 
-**Location:** Unknown, ND
+**Location:** Golva, ND
 
 **EPA Facility ID:** 100000190036
 

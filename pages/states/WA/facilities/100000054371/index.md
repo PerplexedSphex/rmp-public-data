@@ -1,6 +1,6 @@
-# Unknown
+# Washougal Plant
 
-**Location:** Unknown, WA
+**Location:** Washougal, WA
 
 **EPA Facility ID:** 100000054371
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wichita Falls Cogeneration Plant
 
-**Location:** Unknown, TX
+**Location:** Wichita Falls, TX
 
 **EPA Facility ID:** 100000032476
 

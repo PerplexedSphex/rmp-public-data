@@ -1,6 +1,6 @@
-# Unknown
+# NH3 Limited
 
-**Location:** Unknown, OH
+**Location:** Baltimore, OH
 
 **EPA Facility ID:** 100000168098
 

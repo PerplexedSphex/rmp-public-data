@@ -1,6 +1,6 @@
-# Unknown
+# TVA Shawnee Fossil Plant
 
-**Location:** Unknown, KY
+**Location:** West Paducah, KY
 
 **EPA Facility ID:** 100000235195
 

@@ -1,6 +1,6 @@
-# Unknown
+# Authority of the Borough of Charleroi
 
-**Location:** Unknown, PA
+**Location:** Charleroi, PA
 
 **EPA Facility ID:** 100000057467
 

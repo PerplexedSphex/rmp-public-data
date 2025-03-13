@@ -1,6 +1,6 @@
-# Unknown
+# Intertrade Holdings, Inc.
 
-**Location:** Unknown, TN
+**Location:** Copperhill, TN
 
 **EPA Facility ID:** 100000139423
 

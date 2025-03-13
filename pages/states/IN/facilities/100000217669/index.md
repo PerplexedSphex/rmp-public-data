@@ -1,6 +1,6 @@
-# Unknown
+# Edwardsport IGCC
 
-**Location:** Unknown, IN
+**Location:** Edwardsport, IN
 
 **EPA Facility ID:** 100000217669
 

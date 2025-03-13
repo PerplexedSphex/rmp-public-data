@@ -1,6 +1,6 @@
-# Unknown
+# City of Idaho Falls Water Pollution Control Plant
 
-**Location:** Unknown, ID
+**Location:** Idaho Falls, ID
 
 **EPA Facility ID:** 100000102435
 

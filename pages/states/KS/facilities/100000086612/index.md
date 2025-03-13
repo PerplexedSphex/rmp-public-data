@@ -1,6 +1,6 @@
-# Unknown
+# City of Manhattan Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Manhattan, KS
 
 **EPA Facility ID:** 100000086612
 

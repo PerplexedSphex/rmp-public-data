@@ -1,6 +1,6 @@
-# Unknown
+# GLAMOURETTE FASHION MILLS INC.
 
-**Location:** Unknown, PR
+**Location:** QUEBRADILLAS, PR
 
 **EPA Facility ID:** 100000148869
 

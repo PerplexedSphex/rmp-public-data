@@ -1,6 +1,6 @@
-# Unknown
+# Bar-S Foods -  Lawton Plant
 
-**Location:** Unknown, OK
+**Location:** Lawton, OK
 
 **EPA Facility ID:** 100000134115
 

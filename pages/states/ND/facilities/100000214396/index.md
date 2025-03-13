@@ -1,6 +1,6 @@
-# Unknown
+# Dore NGL Rail Terminal
 
-**Location:** Unknown, ND
+**Location:** East Fairview, ND
 
 **EPA Facility ID:** 100000214396
 

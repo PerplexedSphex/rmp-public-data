@@ -1,6 +1,6 @@
-# Unknown
+# Herrin LTD - Berry Fertilizer
 
-**Location:** Unknown, IL
+**Location:** Rochester, IL
 
 **EPA Facility ID:** 100000019366
 

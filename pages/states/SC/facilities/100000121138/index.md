@@ -1,6 +1,6 @@
-# Unknown
+# HPC Holdings, INC
 
-**Location:** Unknown, SC
+**Location:** North Augusta, SC
 
 **EPA Facility ID:** 100000121138
 

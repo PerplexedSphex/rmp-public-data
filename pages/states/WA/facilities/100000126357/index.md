@@ -1,6 +1,6 @@
-# Unknown
+# City of Kennewick Waste Water Treatment Plant
 
-**Location:** Unknown, WA
+**Location:** Kennewick, WA
 
 **EPA Facility ID:** 100000126357
 

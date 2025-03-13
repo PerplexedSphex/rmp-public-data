@@ -1,6 +1,6 @@
-# Unknown
+# Lakeside Foods
 
-**Location:** Unknown, WI
+**Location:** Reedsburg, WI
 
 **EPA Facility ID:** 100000233213
 

@@ -1,6 +1,6 @@
-# Unknown
+# North Valley Geothermal Project
 
-**Location:** Unknown, NV
+**Location:** Gerlach, NV
 
 **EPA Facility ID:** 100000250444
 

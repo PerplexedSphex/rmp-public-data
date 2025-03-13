@@ -1,6 +1,6 @@
-# Unknown
+# West Brooklyn Farmers Coop Company
 
-**Location:** Unknown, IL
+**Location:** West Brooklyn, IL
 
 **EPA Facility ID:** 100000018884
 

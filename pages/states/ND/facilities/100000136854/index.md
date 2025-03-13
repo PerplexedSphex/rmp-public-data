@@ -1,6 +1,6 @@
-# Unknown
+# Clifford Farmers Co-Op Elevator
 
-**Location:** Unknown, ND
+**Location:** Hope, ND
 
 **EPA Facility ID:** 100000136854
 

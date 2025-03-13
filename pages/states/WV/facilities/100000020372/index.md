@@ -1,6 +1,6 @@
-# Unknown
+# Chemours Washington Works
 
-**Location:** Unknown, WV
+**Location:** Washington, WV
 
 **EPA Facility ID:** 100000020372
 

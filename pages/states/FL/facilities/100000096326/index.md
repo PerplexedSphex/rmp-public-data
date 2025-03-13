@@ -1,6 +1,6 @@
-# Unknown
+# Garniers Wastewater Treatment Facility
 
-**Location:** Unknown, FL
+**Location:** Fort Walton Beach, FL
 
 **EPA Facility ID:** 100000096326
 

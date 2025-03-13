@@ -1,6 +1,6 @@
-# Unknown
+# CRYSTAL VALLEY CO-OP
 
-**Location:** Unknown, MN
+**Location:** St. Clair, MN
 
 **EPA Facility ID:** 100000055281
 

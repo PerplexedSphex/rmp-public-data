@@ -1,6 +1,6 @@
-# Unknown
+# City of Covington Peak Shaving Plant
 
-**Location:** Unknown, GA
+**Location:** Covington, GA
 
 **EPA Facility ID:** 100000086177
 

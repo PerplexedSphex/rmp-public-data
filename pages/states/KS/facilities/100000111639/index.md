@@ -1,6 +1,6 @@
-# Unknown
+# Brownell -- Nh3 Plant
 
-**Location:** Unknown, KS
+**Location:** Brownell, KS
 
 **EPA Facility ID:** 100000111639
 

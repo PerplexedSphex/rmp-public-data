@@ -1,6 +1,6 @@
-# Unknown
+# Dorado Wastewater Treatment Plant
 
-**Location:** Unknown, PR
+**Location:** Dorado, PR
 
 **EPA Facility ID:** 100000124493
 

@@ -1,6 +1,6 @@
-# Unknown
+# Tar River Regional Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Rocky Mount, NC
 
 **EPA Facility ID:** 100000158731
 

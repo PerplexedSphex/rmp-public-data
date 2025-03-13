@@ -1,6 +1,6 @@
-# Unknown
+# Lebanon LPG Terminal
 
-**Location:** Unknown, IN
+**Location:** Lebanon, IN
 
 **EPA Facility ID:** 100000161718
 

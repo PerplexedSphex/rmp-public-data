@@ -1,6 +1,6 @@
-# Unknown
+# Gas Supply Resources, Albany Terminal
 
-**Location:** Unknown, NY
+**Location:** Albany, NY
 
 **EPA Facility ID:** 100000170539
 

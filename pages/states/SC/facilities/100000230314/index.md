@@ -1,6 +1,6 @@
-# Unknown
+# Heath Springs Rail Terminal
 
-**Location:** Unknown, SC
+**Location:** Heath Springs, SC
 
 **EPA Facility ID:** 100000230314
 

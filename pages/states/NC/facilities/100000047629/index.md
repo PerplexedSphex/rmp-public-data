@@ -1,6 +1,6 @@
-# Unknown
+# Sugar Creek Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000047629
 

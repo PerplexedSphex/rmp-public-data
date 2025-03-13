@@ -1,6 +1,6 @@
-# Unknown
+# Secodyne, Incorporated - Detroit, MI
 
-**Location:** Unknown, MI
+**Location:** Detroit, MI
 
 **EPA Facility ID:** 100000120969
 

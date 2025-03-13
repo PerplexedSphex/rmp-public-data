@@ -1,6 +1,6 @@
-# Unknown
+# U.S. Foods, Inc. - Charlotte
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000106583
 

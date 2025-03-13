@@ -1,6 +1,6 @@
-# Unknown
+# Bear Den Processing Plant
 
-**Location:** Unknown, ND
+**Location:** Watford City, ND
 
 **EPA Facility ID:** 100000241482
 

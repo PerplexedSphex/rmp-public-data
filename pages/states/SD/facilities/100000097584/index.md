@@ -1,6 +1,6 @@
-# Unknown
+# Mid-Dakota Water Treatment Plant
 
-**Location:** Unknown, SD
+**Location:** Pierre, SD
 
 **EPA Facility ID:** 100000097584
 

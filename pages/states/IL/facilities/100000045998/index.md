@@ -1,6 +1,6 @@
-# Unknown
+# West Liberty Foods, Bolingbrook
 
-**Location:** Unknown, IL
+**Location:** Bolingbrook, IL
 
 **EPA Facility ID:** 100000045998
 

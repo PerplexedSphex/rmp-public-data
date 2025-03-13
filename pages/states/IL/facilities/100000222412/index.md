@@ -1,6 +1,6 @@
-# Unknown
+# World Class Distribution, Inc. - Minooka
 
-**Location:** Unknown, IL
+**Location:** Minooka, IL
 
 **EPA Facility ID:** 100000222412
 

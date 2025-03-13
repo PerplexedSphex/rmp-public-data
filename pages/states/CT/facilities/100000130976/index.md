@@ -1,6 +1,6 @@
-# Unknown
+# BIC Consumer Products Manufacturing Co., Inc.
 
-**Location:** Unknown, CT
+**Location:** Milford, CT
 
 **EPA Facility ID:** 100000130976
 

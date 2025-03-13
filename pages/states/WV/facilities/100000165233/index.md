@@ -1,6 +1,6 @@
-# Unknown
+# Squire's Creek Mine
 
-**Location:** Unknown, WV
+**Location:** Arthurdale, WV
 
 **EPA Facility ID:** 100000165233
 

@@ -1,6 +1,6 @@
-# Unknown
+# Silver Bay Seafoods - Craig
 
-**Location:** Unknown, AK
+**Location:** Craig, AK
 
 **EPA Facility ID:** 100000208704
 

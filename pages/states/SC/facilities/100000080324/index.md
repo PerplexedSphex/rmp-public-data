@@ -1,6 +1,6 @@
-# Unknown
+# New Dairy South Carolina LLC.
 
-**Location:** Unknown, SC
+**Location:** North Charleston, SC
 
 **EPA Facility ID:** 100000080324
 

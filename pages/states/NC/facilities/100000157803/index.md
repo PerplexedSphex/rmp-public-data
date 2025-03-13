@@ -1,6 +1,6 @@
-# Unknown
+# Lexington Regional Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Lexington, NC
 
 **EPA Facility ID:** 100000157803
 

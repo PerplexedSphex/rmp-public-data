@@ -1,6 +1,6 @@
-# Unknown
+# Reddy Ice-Richmond (422)
 
-**Location:** Unknown, VA
+**Location:** Sandston, VA
 
 **EPA Facility ID:** 100000145522
 

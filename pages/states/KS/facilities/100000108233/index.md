@@ -1,6 +1,6 @@
-# Unknown
+# KANZA COOP, PRATT NORTH END
 
-**Location:** Unknown, KS
+**Location:** PRATT, KS
 
 **EPA Facility ID:** 100000108233
 

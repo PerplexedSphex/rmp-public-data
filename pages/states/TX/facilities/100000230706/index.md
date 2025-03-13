@@ -1,6 +1,6 @@
-# Unknown
+# Kuraray America Inc., POVAL BU, Bayport Plant
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000230706
 

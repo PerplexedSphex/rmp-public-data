@@ -1,6 +1,6 @@
-# Unknown
+# Winnsboro Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Winnsboro, SC
 
 **EPA Facility ID:** 100000026777
 

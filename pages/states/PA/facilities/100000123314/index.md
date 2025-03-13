@@ -1,6 +1,6 @@
-# Unknown
+# Crompton & Knowles Colors Incorporated - Gibraltar
 
-**Location:** Unknown, PA
+**Location:** Gibraltar, PA
 
 **EPA Facility ID:** 100000123314
 

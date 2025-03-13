@@ -1,6 +1,6 @@
-# Unknown
+# Pratum Co-op
 
-**Location:** Unknown, OR
+**Location:** Junction City, OR
 
 **EPA Facility ID:** 100000052774
 

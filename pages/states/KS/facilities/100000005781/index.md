@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Ag Inc-Rexford NH3
 
-**Location:** Unknown, KS
+**Location:** Rexford, KS
 
 **EPA Facility ID:** 100000005781
 

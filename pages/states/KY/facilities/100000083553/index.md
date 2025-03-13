@@ -1,6 +1,6 @@
-# Unknown
+# La Center, KY
 
-**Location:** Unknown, KY
+**Location:** La Center, KY
 
 **EPA Facility ID:** 100000083553
 

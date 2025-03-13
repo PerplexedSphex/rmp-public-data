@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics Friona
 
-**Location:** Unknown, TX
+**Location:** Friona, TX
 
 **EPA Facility ID:** 100000074368
 

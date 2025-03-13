@@ -1,6 +1,6 @@
-# Unknown
+# Chicagoland Quad Cities Express, Inc. - Bedford
 
-**Location:** Unknown, IL
+**Location:** Bedford Park, IL
 
 **EPA Facility ID:** 100000173858
 

@@ -1,6 +1,6 @@
-# Unknown
+# Seymour of Sycamore
 
-**Location:** Unknown, IL
+**Location:** Sycamore, IL
 
 **EPA Facility ID:** 100000068767
 

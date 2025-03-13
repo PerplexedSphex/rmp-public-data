@@ -1,6 +1,6 @@
-# Unknown
+# Vantage Corn Processors LLC
 
-**Location:** Unknown, IA
+**Location:** Cedar Rapids, IA
 
 **EPA Facility ID:** 100000243122
 

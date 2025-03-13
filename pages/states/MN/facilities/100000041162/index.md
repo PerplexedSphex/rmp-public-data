@@ -1,6 +1,6 @@
-# Unknown
+# Triangle Warehouse Inc.
 
-**Location:** Unknown, MN
+**Location:** Minneapolis, MN
 
 **EPA Facility ID:** 100000041162
 

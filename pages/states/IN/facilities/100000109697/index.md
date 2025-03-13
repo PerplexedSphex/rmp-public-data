@@ -1,6 +1,6 @@
-# Unknown
+# Frankfort Wastewater Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** Frankfort, IN
 
 **EPA Facility ID:** 100000109697
 

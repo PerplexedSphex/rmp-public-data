@@ -1,6 +1,6 @@
-# Unknown
+#  Lamb Weston Pasco Facility
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000032047
 

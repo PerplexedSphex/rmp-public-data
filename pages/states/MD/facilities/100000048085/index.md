@@ -1,6 +1,6 @@
-# Unknown
+# Linde Gas & Equipment Inc - Jessup
 
-**Location:** Unknown, MD
+**Location:** Jessup, MD
 
 **EPA Facility ID:** 100000048085
 

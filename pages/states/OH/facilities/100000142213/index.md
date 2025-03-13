@@ -1,6 +1,6 @@
-# Unknown
+# Procter & Gamble Ivorydale
 
-**Location:** Unknown, OH
+**Location:** Cincinnati, OH
 
 **EPA Facility ID:** 100000142213
 

@@ -1,6 +1,6 @@
-# Unknown
+# SIMPLOT GROWER SOLUTIONS - BAKERSFIELD
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000164145
 

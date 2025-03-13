@@ -1,6 +1,6 @@
-# Unknown
+# COLORADO SWEET GOLD LLC
 
-**Location:** Unknown, CO
+**Location:** JOHNSTOWN, CO
 
 **EPA Facility ID:** 100000008252
 

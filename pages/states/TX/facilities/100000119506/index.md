@@ -1,6 +1,6 @@
-# Unknown
+# Gray County Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Pampa, TX
 
 **EPA Facility ID:** 100000119506
 

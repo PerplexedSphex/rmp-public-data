@@ -1,6 +1,6 @@
-# Unknown
+# Flint Lake Treatment Plant 2
 
-**Location:** Unknown, IN
+**Location:** Vallparaiso, IN
 
 **EPA Facility ID:** 100000017439
 

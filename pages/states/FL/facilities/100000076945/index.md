@@ -1,6 +1,6 @@
-# Unknown
+# Thomas P. Smith Water Reclamation Facility
 
-**Location:** Unknown, FL
+**Location:** Tallahassee, FL
 
 **EPA Facility ID:** 100000076945
 

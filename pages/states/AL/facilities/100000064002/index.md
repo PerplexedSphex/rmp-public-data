@@ -1,6 +1,6 @@
-# Unknown
+# Industrial Chemicals Inc.
 
-**Location:** Unknown, AL
+**Location:** Dothan, AL
 
 **EPA Facility ID:** 100000064002
 

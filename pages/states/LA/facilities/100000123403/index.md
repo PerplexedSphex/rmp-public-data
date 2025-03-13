@@ -1,6 +1,6 @@
-# Unknown
+# Shell Chemical Company Inc. Taft Plant
 
-**Location:** Unknown, LA
+**Location:** Taft, LA
 
 **EPA Facility ID:** 100000123403
 

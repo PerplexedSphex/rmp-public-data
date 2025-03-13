@@ -1,6 +1,6 @@
-# Unknown
+# Okeechobee Clean Energy Center Unit 1 (OCEC)
 
-**Location:** Unknown, FL
+**Location:** Vero Beach, FL
 
 **EPA Facility ID:** 100000240223
 

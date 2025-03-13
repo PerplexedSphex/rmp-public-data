@@ -1,6 +1,6 @@
-# Unknown
+# Costco Wholesale Depot #263
 
-**Location:** Unknown, GA
+**Location:** Union City, GA
 
 **EPA Facility ID:** 100000173714
 

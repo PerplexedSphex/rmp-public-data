@@ -1,6 +1,6 @@
-# Unknown
+# MURRY'S, INC.
 
-**Location:** Unknown, PA
+**Location:** LEBANON, PA
 
 **EPA Facility ID:** 100000019589
 

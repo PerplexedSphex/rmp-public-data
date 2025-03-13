@@ -1,6 +1,6 @@
-# Unknown
+# Lone Star Dehydrator
 
-**Location:** Unknown, CA
+**Location:** Sanger, CA
 
 **EPA Facility ID:** 100000218686
 

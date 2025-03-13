@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Frankfort
 
-**Location:** Unknown, KY
+**Location:** Frankfort, KY
 
 **EPA Facility ID:** 100000231037
 

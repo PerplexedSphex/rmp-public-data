@@ -1,6 +1,6 @@
-# Unknown
+# Gray Wolf Compressor Facility
 
-**Location:** Unknown, WY
+**Location:** Douglas, WY
 
 **EPA Facility ID:** 100000243612
 

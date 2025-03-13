@@ -1,6 +1,6 @@
-# Unknown
+# GRAINCO FS, Inc.  Mendota Facility
 
-**Location:** Unknown, IL
+**Location:** Mendota, IL
 
 **EPA Facility ID:** 100000025322
 

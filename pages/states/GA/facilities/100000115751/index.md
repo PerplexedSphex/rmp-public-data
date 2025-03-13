@@ -1,6 +1,6 @@
-# Unknown
+# Rainbow Fertilizer LLC
 
-**Location:** Unknown, GA
+**Location:** Americus, GA
 
 **EPA Facility ID:** 100000115751
 

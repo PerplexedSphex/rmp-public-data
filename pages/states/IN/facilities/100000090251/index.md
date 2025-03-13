@@ -1,6 +1,6 @@
-# Unknown
+# Tanners Creek Plant
 
-**Location:** Unknown, IN
+**Location:** Lawrenceburg, IN
 
 **EPA Facility ID:** 100000090251
 

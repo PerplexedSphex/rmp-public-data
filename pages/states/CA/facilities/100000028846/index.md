@@ -1,6 +1,6 @@
-# Unknown
+# Grow West - Woodland Wholesale
 
-**Location:** Unknown, CA
+**Location:** Woodland, CA
 
 **EPA Facility ID:** 100000028846
 

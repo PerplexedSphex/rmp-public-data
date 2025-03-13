@@ -1,6 +1,6 @@
-# Unknown
+# Pittsfield Wastewater Treatment Facility
 
-**Location:** Unknown, MA
+**Location:** Pittsfield, MA
 
 **EPA Facility ID:** 100000114681
 

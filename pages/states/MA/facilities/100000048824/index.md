@@ -1,6 +1,6 @@
-# Unknown
+# Solenis - Chicopee, Massachusetts
 
-**Location:** Unknown, MA
+**Location:** Chicopee, MA
 
 **EPA Facility ID:** 100000048824
 

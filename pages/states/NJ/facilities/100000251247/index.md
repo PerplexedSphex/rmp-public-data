@@ -1,6 +1,6 @@
-# Unknown
+# FreezPak Logistics
 
-**Location:** Unknown, NJ
+**Location:** Woodbridge, NJ
 
 **EPA Facility ID:** 100000251247
 

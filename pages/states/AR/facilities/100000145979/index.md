@@ -1,6 +1,6 @@
-# Unknown
+# Wastewater Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Springdale, AR
 
 **EPA Facility ID:** 100000145979
 

@@ -1,6 +1,6 @@
-# Unknown
+# S.C. Johnson & Son, Inc. Waxdale Plant
 
-**Location:** Unknown, WI
+**Location:** Sturtevant, WI
 
 **EPA Facility ID:** 100000047709
 

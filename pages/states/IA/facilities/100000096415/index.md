@@ -1,6 +1,6 @@
-# Unknown
+# Truro Grain - Purchased from Heartland Coop 
 
-**Location:** Unknown, IA
+**Location:** Truro, IA
 
 **EPA Facility ID:** 100000096415
 

@@ -1,6 +1,6 @@
-# Unknown
+# Joseph Cold Storage #2
 
-**Location:** Unknown, CA
+**Location:** Delano, CA
 
 **EPA Facility ID:** 100000174704
 

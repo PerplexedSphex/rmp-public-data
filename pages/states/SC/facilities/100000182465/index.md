@@ -1,6 +1,6 @@
-# Unknown
+# Santee Cooper Cross Generating Station
 
-**Location:** Unknown, SC
+**Location:** Pineville, SC
 
 **EPA Facility ID:** 100000182465
 

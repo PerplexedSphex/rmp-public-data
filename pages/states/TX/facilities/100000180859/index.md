@@ -1,6 +1,6 @@
-# Unknown
+# Huntsman Ethyleneamines LLC
 
-**Location:** Unknown, TX
+**Location:** Freeport, TX
 
 **EPA Facility ID:** 100000180859
 

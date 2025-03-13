@@ -1,6 +1,6 @@
-# Unknown
+# Verdant Energy Solutions
 
-**Location:** Unknown, TX
+**Location:** Palestine, TX
 
 **EPA Facility ID:** 100000230555
 

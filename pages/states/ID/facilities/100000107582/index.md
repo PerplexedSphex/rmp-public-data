@@ -1,6 +1,6 @@
-# Unknown
+# Twin City Foods Inc.Lewiston Idaho Div.
 
-**Location:** Unknown, ID
+**Location:** Lewiston, ID
 
 **EPA Facility ID:** 100000107582
 

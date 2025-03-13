@@ -1,6 +1,6 @@
-# Unknown
+# Regional Sterilization - BMD
 
-**Location:** Unknown, GA
+**Location:** Covington, GA
 
 **EPA Facility ID:** 100000145336
 

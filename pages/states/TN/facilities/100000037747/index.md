@@ -1,6 +1,6 @@
-# Unknown
+# Equity Group - Tennessee Division
 
-**Location:** Unknown, TN
+**Location:** Nashville, TN
 
 **EPA Facility ID:** 100000037747
 

@@ -1,6 +1,6 @@
-# Unknown
+# RED SALMON, A DIVISION OF NORTH PACIFIC SEAFOODS
 
-**Location:** Unknown, AK
+**Location:** NAKNEK, AK
 
 **EPA Facility ID:** 100000227275
 

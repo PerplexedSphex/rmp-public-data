@@ -1,6 +1,6 @@
-# Unknown
+# Centre Hall Plant
 
-**Location:** Unknown, PA
+**Location:** Centre Hall, PA
 
 **EPA Facility ID:** 100000153503
 

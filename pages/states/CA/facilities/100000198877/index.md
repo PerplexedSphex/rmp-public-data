@@ -1,6 +1,6 @@
-# Unknown
+# Freshpoint Southern California
 
-**Location:** Unknown, CA
+**Location:** City of Industry, CA
 
 **EPA Facility ID:** 100000198877
 

@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Southwest - Greens Bayou
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000081519
 

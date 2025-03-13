@@ -1,6 +1,6 @@
-# Unknown
+# AGRIFROZEN FOODS - PLANT 10
 
-**Location:** Unknown, WA
+**Location:** WALLA WALLA, WA
 
 **EPA Facility ID:** 100000116518
 

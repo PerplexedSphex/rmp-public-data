@@ -1,6 +1,6 @@
-# Unknown
+# Beaver Creek Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Riverton, WY
 
 **EPA Facility ID:** 100000119917
 

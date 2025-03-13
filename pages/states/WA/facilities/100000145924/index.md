@@ -1,6 +1,6 @@
-# Unknown
+# Butterfield Water Treatment Plant
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000145924
 

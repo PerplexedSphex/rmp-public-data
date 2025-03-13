@@ -1,6 +1,6 @@
-# Unknown
+# Sterling Specialty Chemicals, LLC
 
-**Location:** Unknown, OK
+**Location:** Sand Springs, OK
 
 **EPA Facility ID:** 100000103345
 

@@ -1,6 +1,6 @@
-# Unknown
+# Beckley Water Company (Glade Creek Plant)
 
-**Location:** Unknown, WV
+**Location:** Shady Spring, WV
 
 **EPA Facility ID:** 100000109125
 

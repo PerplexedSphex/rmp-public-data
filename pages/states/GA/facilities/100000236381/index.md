@@ -1,6 +1,6 @@
-# Unknown
+# Georgia Distribution Center
 
-**Location:** Unknown, GA
+**Location:** Cartersville, GA
 
 **EPA Facility ID:** 100000236381
 

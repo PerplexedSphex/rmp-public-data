@@ -1,6 +1,6 @@
-# Unknown
+# Crop Production Services - Huron
 
-**Location:** Unknown, CA
+**Location:** Huron, CA
 
 **EPA Facility ID:** 100000049896
 

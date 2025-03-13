@@ -1,6 +1,6 @@
-# Unknown
+# Key Cooperative - LeGrand location
 
-**Location:** Unknown, IA
+**Location:** Marshalltown, IA
 
 **EPA Facility ID:** 100000118035
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rinchem Company, Inc (CSC 41)
 
-**Location:** Unknown, GA
+**Location:** Decatur, GA
 
 **EPA Facility ID:** 100000235097
 

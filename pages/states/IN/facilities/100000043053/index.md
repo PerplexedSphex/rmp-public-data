@@ -1,6 +1,6 @@
-# Unknown
+# Koch Fertilizer, LLC - Huntington Terminal
 
-**Location:** Unknown, IN
+**Location:** Huntington, IN
 
 **EPA Facility ID:** 100000043053
 

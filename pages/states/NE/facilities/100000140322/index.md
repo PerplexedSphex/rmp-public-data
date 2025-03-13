@@ -1,6 +1,6 @@
-# Unknown
+# FREMONT BEEF COMPANY
 
-**Location:** Unknown, NE
+**Location:** FREMONT, NE
 
 **EPA Facility ID:** 100000140322
 

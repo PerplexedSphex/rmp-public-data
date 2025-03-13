@@ -1,6 +1,6 @@
-# Unknown
+# Putnam Oswego -  JT Skid
 
-**Location:** Unknown, OK
+**Location:** Thomas, OK
 
 **EPA Facility ID:** 100000201774
 

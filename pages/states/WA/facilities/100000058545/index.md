@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Kennewick
 
-**Location:** Unknown, WA
+**Location:** Kennewick, WA
 
 **EPA Facility ID:** 100000058545
 

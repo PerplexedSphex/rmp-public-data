@@ -1,6 +1,6 @@
-# Unknown
+# P. H. Glatfelter Company - Bergstrom Division
 
-**Location:** Unknown, WI
+**Location:** Neenah, WI
 
 **EPA Facility ID:** 100000033901
 

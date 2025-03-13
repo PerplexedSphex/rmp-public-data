@@ -1,6 +1,6 @@
-# Unknown
+# Ashland Specialty Ingredients GP - Hopewell Plant
 
-**Location:** Unknown, VA
+**Location:** Hopewell, VA
 
 **EPA Facility ID:** 100000017233
 

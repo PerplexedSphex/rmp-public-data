@@ -1,6 +1,6 @@
-# Unknown
+# Pilgrim's Pride - Sumter Poultry Processing Plant
 
-**Location:** Unknown, SC
+**Location:** Sumter, SC
 
 **EPA Facility ID:** 100000088834
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lake Scranton Plant
 
-**Location:** Unknown, PA
+**Location:** Moscow, PA
 
 **EPA Facility ID:** 100000000143
 

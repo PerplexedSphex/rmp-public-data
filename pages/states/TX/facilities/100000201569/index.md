@@ -1,6 +1,6 @@
-# Unknown
+# OQ Chemicals Bishop LLC
 
-**Location:** Unknown, TX
+**Location:** Bishop, TX
 
 **EPA Facility ID:** 100000201569
 

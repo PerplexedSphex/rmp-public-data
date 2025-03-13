@@ -1,6 +1,6 @@
-# Unknown
+# Balchem Corporation - Slate Hill
 
-**Location:** Unknown, NY
+**Location:** Slate Hill, NY
 
 **EPA Facility ID:** 100000022398
 

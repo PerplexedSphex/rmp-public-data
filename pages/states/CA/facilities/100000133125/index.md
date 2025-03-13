@@ -1,6 +1,6 @@
-# Unknown
+# GIC Vernon, LLC
 
-**Location:** Unknown, CA
+**Location:** Los Angeles, CA
 
 **EPA Facility ID:** 100000133125
 

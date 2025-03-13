@@ -1,6 +1,6 @@
-# Unknown
+# Pratt, KS 672 Satellite
 
-**Location:** Unknown, KS
+**Location:** Pratt, KS
 
 **EPA Facility ID:** 100000035008
 

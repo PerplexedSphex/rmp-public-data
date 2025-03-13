@@ -1,6 +1,6 @@
-# Unknown
+# Surface Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Henderson, TX
 
 **EPA Facility ID:** 100000174241
 

@@ -1,6 +1,6 @@
-# Unknown
+# BINGMAN LIMESTONE
 
-**Location:** Unknown, IL
+**Location:** Carmi, IL
 
 **EPA Facility ID:** 100000132313
 

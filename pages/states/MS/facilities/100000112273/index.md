@@ -1,6 +1,6 @@
-# Unknown
+# Hamilton Facility
 
-**Location:** Unknown, MS
+**Location:** Hamilton, MS
 
 **EPA Facility ID:** 100000112273
 

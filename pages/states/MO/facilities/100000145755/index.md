@@ -1,6 +1,6 @@
-# Unknown
+# Rushville Fertilizer Plant
 
-**Location:** Unknown, MO
+**Location:** Rushville, MO
 
 **EPA Facility ID:** 100000145755
 

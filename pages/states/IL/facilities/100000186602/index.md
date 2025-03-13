@@ -1,6 +1,6 @@
-# Unknown
+# DDP Specialty Electronics Materials US
 
-**Location:** Unknown, IL
+**Location:** Wilmington, IL
 
 **EPA Facility ID:** 100000186602
 

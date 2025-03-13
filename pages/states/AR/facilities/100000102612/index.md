@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Johnson
 
-**Location:** Unknown, AR
+**Location:** Johnson, AR
 
 **EPA Facility ID:** 100000102612
 

@@ -1,6 +1,6 @@
-# Unknown
+# Americold Allentown Ambassador Drive
 
-**Location:** Unknown, PA
+**Location:** Fogelsville, PA
 
 **EPA Facility ID:** 100000159767
 

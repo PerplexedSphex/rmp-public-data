@@ -1,6 +1,6 @@
-# Unknown
+# Anitox Corp. Buford Plant
 
-**Location:** Unknown, GA
+**Location:** BUFORD, GA
 
 **EPA Facility ID:** 100000062264
 

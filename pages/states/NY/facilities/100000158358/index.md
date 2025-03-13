@@ -1,6 +1,6 @@
-# Unknown
+# Bodycote Thermal Processing, Inc
 
-**Location:** Unknown, NY
+**Location:** Rochester, NY
 
 **EPA Facility ID:** 100000158358
 

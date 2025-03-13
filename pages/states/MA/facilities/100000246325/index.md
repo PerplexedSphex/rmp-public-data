@@ -1,6 +1,6 @@
-# Unknown
+# C. L. Hauthaway & Sons Corporation
 
-**Location:** Unknown, MA
+**Location:** Lynn, MA
 
 **EPA Facility ID:** 100000246325
 

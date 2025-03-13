@@ -1,6 +1,6 @@
-# Unknown
+# Scrib's Fertilizer & Chemical, Inc.
 
-**Location:** Unknown, KS
+**Location:** Caldwell, KS
 
 **EPA Facility ID:** 100000041867
 

@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - North NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Aurora, NE
 
 **EPA Facility ID:** 100000005549
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Ballinger Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Ballinger, TX
 
 **EPA Facility ID:** 100000156635
 

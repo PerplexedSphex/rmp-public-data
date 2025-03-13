@@ -1,6 +1,6 @@
-# Unknown
+# Alfred Merritt Smith Water Treatment Facility
 
-**Location:** Unknown, NV
+**Location:** Boulder City, NV
 
 **EPA Facility ID:** 100000018946
 

@@ -1,6 +1,6 @@
-# Unknown
+# United Cooperative - Hartford
 
-**Location:** Unknown, WI
+**Location:** Hartford, WI
 
 **EPA Facility ID:** 100000122814
 

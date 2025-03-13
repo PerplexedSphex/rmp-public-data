@@ -1,6 +1,6 @@
-# Unknown
+# Sour Lake Olefins Facility
 
-**Location:** Unknown, TX
+**Location:** Sour Lake, TX
 
 **EPA Facility ID:** 100000116484
 

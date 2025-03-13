@@ -1,6 +1,6 @@
-# Unknown
+# West Point Dairy
 
-**Location:** Unknown, UT
+**Location:** Hyrum, UT
 
 **EPA Facility ID:** 100000202808
 

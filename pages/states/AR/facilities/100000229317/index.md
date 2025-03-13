@@ -1,6 +1,6 @@
-# Unknown
+# Envirotech Chemical Services Inc.
 
-**Location:** Unknown, AR
+**Location:** Helena, AR
 
 **EPA Facility ID:** 100000229317
 

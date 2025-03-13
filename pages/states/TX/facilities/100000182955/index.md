@@ -1,6 +1,6 @@
-# Unknown
+# Sterigenics U.S., LLC - Grand Prairie
 
-**Location:** Unknown, TX
+**Location:** Grand Prairie, TX
 
 **EPA Facility ID:** 100000182955
 

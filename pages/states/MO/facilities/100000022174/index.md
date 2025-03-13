@@ -1,6 +1,6 @@
-# Unknown
+# Orrick Farm Service, Inc. - East Facility
 
-**Location:** Unknown, MO
+**Location:** Orrick, MO
 
 **EPA Facility ID:** 100000022174
 

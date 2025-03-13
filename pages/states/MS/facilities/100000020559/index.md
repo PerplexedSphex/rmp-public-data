@@ -1,6 +1,6 @@
-# Unknown
+# International Paper - Natchez Mill
 
-**Location:** Unknown, MS
+**Location:** Natchez, MS
 
 **EPA Facility ID:** 100000020559
 

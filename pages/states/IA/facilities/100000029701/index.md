@@ -1,6 +1,6 @@
-# Unknown
+# Iowa City Wastewater Treatment - South Plant
 
-**Location:** Unknown, IA
+**Location:** Iowa City, IA
 
 **EPA Facility ID:** 100000029701
 

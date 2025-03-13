@@ -1,6 +1,6 @@
-# Unknown
+# Florida's Natural Growers, Inc.
 
-**Location:** Unknown, FL
+**Location:** Lake Wales, FL
 
 **EPA Facility ID:** 100000057751
 

@@ -1,6 +1,6 @@
-# Unknown
+# CITY OF NEWBURGH WATER FILTRATION PLANT
 
-**Location:** Unknown, NY
+**Location:** NEWBURGH, NY
 
 **EPA Facility ID:** 100000129657
 

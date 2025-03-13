@@ -1,6 +1,6 @@
-# Unknown
+# City of Gainesville Flat Creek WWTP
 
-**Location:** Unknown, GA
+**Location:** Gainesville, GA
 
 **EPA Facility ID:** 100000093926
 

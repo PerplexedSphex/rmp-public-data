@@ -1,6 +1,6 @@
-# Unknown
+# Innovative Ag Services - Garden City
 
-**Location:** Unknown, IA
+**Location:** Garden City, IA
 
 **EPA Facility ID:** 100000096095
 

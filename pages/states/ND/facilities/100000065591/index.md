@@ -1,6 +1,6 @@
-# Unknown
+# Larson Grain Company
 
-**Location:** Unknown, ND
+**Location:** LaMoure, ND
 
 **EPA Facility ID:** 100000065591
 

@@ -1,6 +1,6 @@
-# Unknown
+# Blue Earth, MN
 
-**Location:** Unknown, MN
+**Location:** Blue Earth, MN
 
 **EPA Facility ID:** 100000079835
 

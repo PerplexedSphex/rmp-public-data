@@ -1,6 +1,6 @@
-# Unknown
+# Malaga Power, LLC
 
-**Location:** Unknown, CA
+**Location:** Fresno, CA
 
 **EPA Facility ID:** 100000191865
 

@@ -1,6 +1,6 @@
-# Unknown
+# Tru-Gas
 
-**Location:** Unknown, WI
+**Location:** Richland Center, WI
 
 **EPA Facility ID:** 100000067651
 

@@ -1,6 +1,6 @@
-# Unknown
+# Shell Norco Chemical Plant - East Site
 
-**Location:** Unknown, LA
+**Location:** Norco, LA
 
 **EPA Facility ID:** 100000088282
 

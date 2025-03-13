@@ -1,6 +1,6 @@
-# Unknown
+# California Dairies Tipton
 
-**Location:** Unknown, CA
+**Location:** Tipton, CA
 
 **EPA Facility ID:** 100000204664
 

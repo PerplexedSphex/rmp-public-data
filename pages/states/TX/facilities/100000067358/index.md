@@ -1,6 +1,6 @@
-# Unknown
+# Lake Dunlap Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** New Braunfels, TX
 
 **EPA Facility ID:** 100000067358
 

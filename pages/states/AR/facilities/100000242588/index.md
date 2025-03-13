@@ -1,6 +1,6 @@
-# Unknown
+# Benton County Processing
 
-**Location:** Unknown, AR
+**Location:** Gentry, AR
 
 **EPA Facility ID:** 100000242588
 

@@ -1,6 +1,6 @@
-# Unknown
+# Valley Sanitary District Water Reclamation Plant
 
-**Location:** Unknown, CA
+**Location:** Indio, CA
 
 **EPA Facility ID:** 100000107911
 

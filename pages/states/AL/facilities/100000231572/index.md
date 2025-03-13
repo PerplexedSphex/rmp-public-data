@@ -1,6 +1,6 @@
-# Unknown
+# Alatrade Foods LLC
 
-**Location:** Unknown, AL
+**Location:** Phenix City, AL
 
 **EPA Facility ID:** 100000231572
 

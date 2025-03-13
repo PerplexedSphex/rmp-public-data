@@ -1,6 +1,6 @@
-# Unknown
+# Buckeye CO2 Plant
 
-**Location:** Unknown, NM
+**Location:** Lovington, NM
 
 **EPA Facility ID:** 100000049217
 

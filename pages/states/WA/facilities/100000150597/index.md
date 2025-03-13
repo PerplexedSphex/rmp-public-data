@@ -1,6 +1,6 @@
-# Unknown
+# Smith-Kem Inc.
 
-**Location:** Unknown, WA
+**Location:** Ellensburg, WA
 
 **EPA Facility ID:** 100000150597
 

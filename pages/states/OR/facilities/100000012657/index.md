@@ -1,6 +1,6 @@
-# Unknown
+# Coyote Springs Plant
 
-**Location:** Unknown, OR
+**Location:** Boardman, OR
 
 **EPA Facility ID:** 100000012657
 

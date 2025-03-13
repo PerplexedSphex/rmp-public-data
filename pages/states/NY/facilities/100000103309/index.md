@@ -1,6 +1,6 @@
-# Unknown
+# Attica Wastewater Treatment Plant
 
-**Location:** Unknown, NY
+**Location:** Attica, NY
 
 **EPA Facility ID:** 100000103309
 

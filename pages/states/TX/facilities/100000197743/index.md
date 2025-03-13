@@ -1,6 +1,6 @@
-# Unknown
+# Eagle Pass Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** Eagle Pass, TX
 
 **EPA Facility ID:** 100000197743
 

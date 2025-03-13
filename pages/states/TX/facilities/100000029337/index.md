@@ -1,6 +1,6 @@
-# Unknown
+# GSC Wholesale, LLC
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000029337
 

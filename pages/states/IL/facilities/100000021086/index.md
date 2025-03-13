@@ -1,6 +1,6 @@
-# Unknown
+# Brandt Agronomic Services LLC- Niantic
 
-**Location:** Unknown, IL
+**Location:** Niantic, IL
 
 **EPA Facility ID:** 100000021086
 

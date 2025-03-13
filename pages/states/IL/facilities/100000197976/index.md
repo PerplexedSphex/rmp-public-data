@@ -1,6 +1,6 @@
-# Unknown
+# PPG Architectural Coatings Distribution Center
 
-**Location:** Unknown, IL
+**Location:** Aurora, IL
 
 **EPA Facility ID:** 100000197976
 

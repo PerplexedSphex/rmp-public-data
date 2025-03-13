@@ -1,6 +1,6 @@
-# Unknown
+# Dormont Manufacturing Company
 
-**Location:** Unknown, PA
+**Location:** Export, PA
 
 **EPA Facility ID:** 100000107314
 

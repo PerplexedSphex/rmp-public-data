@@ -1,6 +1,6 @@
-# Unknown
+# OMNOVA Solutions Inc. - Calhoun Latex Plant
 
-**Location:** Unknown, GA
+**Location:** Calhoun, GA
 
 **EPA Facility ID:** 100000051463
 

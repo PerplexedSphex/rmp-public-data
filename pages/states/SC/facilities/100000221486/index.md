@@ -1,6 +1,6 @@
-# Unknown
+# Coatex Inc
 
-**Location:** Unknown, SC
+**Location:** Chester, SC
 
 **EPA Facility ID:** 100000221486
 

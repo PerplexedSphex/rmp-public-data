@@ -1,6 +1,6 @@
-# Unknown
+# Lincoln Premium Poultry
 
-**Location:** Unknown, NE
+**Location:** Fremont, NE
 
 **EPA Facility ID:** 100000242061
 

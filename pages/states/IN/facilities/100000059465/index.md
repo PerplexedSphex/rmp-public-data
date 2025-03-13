@@ -1,6 +1,6 @@
-# Unknown
+# The Andersons Walton Terminal
 
-**Location:** Unknown, IN
+**Location:** Galveston, IN
 
 **EPA Facility ID:** 100000059465
 

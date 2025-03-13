@@ -1,6 +1,6 @@
-# Unknown
+# Horsethief Canyon Water Reclamation Facility
 
-**Location:** Unknown, CA
+**Location:** Lake Elsinore, CA
 
 **EPA Facility ID:** 100000119846
 

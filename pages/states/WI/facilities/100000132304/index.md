@@ -1,6 +1,6 @@
-# Unknown
+# Ridgeland/Chetek Coop
 
-**Location:** Unknown, WI
+**Location:** Chetek, WI
 
 **EPA Facility ID:** 100000132304
 

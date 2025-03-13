@@ -1,6 +1,6 @@
-# Unknown
+# Holston Army Ammunition Plant
 
-**Location:** Unknown, TN
+**Location:** Kingsport, TN
 
 **EPA Facility ID:** 100000108304
 

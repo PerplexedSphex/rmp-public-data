@@ -1,6 +1,6 @@
-# Unknown
+# Rhodia Inc.
 
-**Location:** Unknown, IN
+**Location:** Hammond, IN
 
 **EPA Facility ID:** 100000090536
 

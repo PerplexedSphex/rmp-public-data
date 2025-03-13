@@ -1,6 +1,6 @@
-# Unknown
+# Glasco - Schrandt Enterprises, Inc.
 
-**Location:** Unknown, KS
+**Location:** Glasco, KS
 
 **EPA Facility ID:** 100000010597
 

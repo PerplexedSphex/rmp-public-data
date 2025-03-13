@@ -1,6 +1,6 @@
-# Unknown
+# EQUALIZER INCORPORATED
 
-**Location:** Unknown, TX
+**Location:** WACO, TX
 
 **EPA Facility ID:** 100000194568
 

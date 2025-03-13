@@ -1,6 +1,6 @@
-# Unknown
+# SHERRILL MANUFACTURING, INC.
 
-**Location:** Unknown, NY
+**Location:** Sherrill, NY
 
 **EPA Facility ID:** 100000131001
 

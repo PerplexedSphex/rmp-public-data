@@ -1,6 +1,6 @@
-# Unknown
+# Water Pollution Control Facility - Figueroa
 
-**Location:** Unknown, AZ
+**Location:** Yuma, AZ
 
 **EPA Facility ID:** 100000117232
 

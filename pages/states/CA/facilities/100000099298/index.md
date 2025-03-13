@@ -1,6 +1,6 @@
-# Unknown
+# Taft Manufacturing Company
 
-**Location:** Unknown, CA
+**Location:** Taft, CA
 
 **EPA Facility ID:** 100000099298
 

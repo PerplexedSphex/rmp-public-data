@@ -1,6 +1,6 @@
-# Unknown
+# Lompoc Oil & Gas Plant
 
-**Location:** Unknown, CA
+**Location:** Lompoc, CA
 
 **EPA Facility ID:** 100000149476
 

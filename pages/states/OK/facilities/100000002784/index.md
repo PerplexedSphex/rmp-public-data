@@ -1,6 +1,6 @@
-# Unknown
+# Blackwell Cooperative Elevator Association
 
-**Location:** Unknown, OK
+**Location:** Newkirk, OK
 
 **EPA Facility ID:** 100000002784
 

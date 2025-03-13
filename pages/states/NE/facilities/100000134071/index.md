@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Cooperative - Beatrice
 
-**Location:** Unknown, NE
+**Location:** Beatrice, NE
 
 **EPA Facility ID:** 100000134071
 

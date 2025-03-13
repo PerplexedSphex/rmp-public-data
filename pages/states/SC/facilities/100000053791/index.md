@@ -1,6 +1,6 @@
-# Unknown
+# Specialty Industrial Products, Inc.
 
-**Location:** Unknown, SC
+**Location:** Spartanburg, SC
 
 **EPA Facility ID:** 100000053791
 

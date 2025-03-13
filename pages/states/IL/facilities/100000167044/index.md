@@ -1,6 +1,6 @@
-# Unknown
+# Tru Vue Inc.
 
-**Location:** Unknown, IL
+**Location:** McCook, IL
 
 **EPA Facility ID:** 100000167044
 

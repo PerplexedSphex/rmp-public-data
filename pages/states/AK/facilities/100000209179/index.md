@@ -1,6 +1,6 @@
-# Unknown
+# Trident Seafoods Corporation-Wrangell Plant
 
-**Location:** Unknown, AK
+**Location:** Wrangell, AK
 
 **EPA Facility ID:** 100000209179
 

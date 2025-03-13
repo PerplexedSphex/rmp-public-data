@@ -1,6 +1,6 @@
-# Unknown
+# McGinness Hills
 
-**Location:** Unknown, NV
+**Location:** Austin, NV
 
 **EPA Facility ID:** 100000217464
 

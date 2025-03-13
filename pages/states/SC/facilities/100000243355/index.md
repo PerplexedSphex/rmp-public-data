@@ -1,6 +1,6 @@
-# Unknown
+# Healthcare SC, LLC
 
-**Location:** Unknown, SC
+**Location:** Winnsboro, SC
 
 **EPA Facility ID:** 100000243355
 

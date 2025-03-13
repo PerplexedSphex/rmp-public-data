@@ -1,6 +1,6 @@
-# Unknown
+# WIM
 
-**Location:** Unknown, MN
+**Location:** WALTERS, MN
 
 **EPA Facility ID:** 100000216134
 

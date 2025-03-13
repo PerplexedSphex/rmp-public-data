@@ -1,6 +1,6 @@
-# Unknown
+# Slayton, MN 6022
 
-**Location:** Unknown, MN
+**Location:** Slayton, MN
 
 **EPA Facility ID:** 100000114565
 

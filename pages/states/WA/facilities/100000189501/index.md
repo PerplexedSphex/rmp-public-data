@@ -1,6 +1,6 @@
-# Unknown
+# Paneltech
 
-**Location:** Unknown, WA
+**Location:** Hoquiam, WA
 
 **EPA Facility ID:** 100000189501
 

@@ -1,6 +1,6 @@
-# Unknown
+# Canton, IL
 
-**Location:** Unknown, IL
+**Location:** Canton, IL
 
 **EPA Facility ID:** 100000003827
 

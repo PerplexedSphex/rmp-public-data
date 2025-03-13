@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Ellsworth
 
-**Location:** Unknown, MN
+**Location:** ELLSWORTH, MN
 
 **EPA Facility ID:** 100000033796
 

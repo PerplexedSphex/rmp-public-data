@@ -1,6 +1,6 @@
-# Unknown
+# EXCELDA MANUFACTURING
 
-**Location:** Unknown, MI
+**Location:** BRIGHTON, MI
 
 **EPA Facility ID:** 100000120512
 

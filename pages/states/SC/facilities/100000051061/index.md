@@ -1,6 +1,6 @@
-# Unknown
+# YORK WATER FILTER PLANT
 
-**Location:** Unknown, SC
+**Location:** YORK, SC
 
 **EPA Facility ID:** 100000051061
 

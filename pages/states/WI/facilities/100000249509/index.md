@@ -1,6 +1,6 @@
-# Unknown
+# Golden Pet Manufacturing
 
-**Location:** Unknown, WI
+**Location:** Richfield, WI
 
 **EPA Facility ID:** 100000249509
 

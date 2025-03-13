@@ -1,6 +1,6 @@
-# Unknown
+# Honeywell, Inc.,formerly AlliedSignal
 
-**Location:** Unknown, TX
+**Location:** Orange, TX
 
 **EPA Facility ID:** 100000092053
 

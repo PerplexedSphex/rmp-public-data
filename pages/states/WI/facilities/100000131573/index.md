@@ -1,6 +1,6 @@
-# Unknown
+# Kettle-Lakes Cooperative
 
-**Location:** Unknown, WI
+**Location:** Cedar Grove, WI
 
 **EPA Facility ID:** 100000131573
 

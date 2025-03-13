@@ -1,6 +1,6 @@
-# Unknown
+# City of Alturas Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Alturas, CA
 
 **EPA Facility ID:** 100000153148
 

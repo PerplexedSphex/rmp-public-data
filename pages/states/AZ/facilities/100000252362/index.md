@@ -1,6 +1,6 @@
-# Unknown
+# Healthcare Glendale
 
-**Location:** Unknown, AZ
+**Location:** Litchfield Park, AZ
 
 **EPA Facility ID:** 100000252362
 

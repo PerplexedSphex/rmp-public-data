@@ -1,6 +1,6 @@
-# Unknown
+# OSRAM SYLVANIA Products Inc.
 
-**Location:** Unknown, NH
+**Location:** Exeter, NH
 
 **EPA Facility ID:** 100000144612
 

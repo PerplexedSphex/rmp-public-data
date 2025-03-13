@@ -1,6 +1,6 @@
-# Unknown
+# Freedom Fuels, LLC - Mason City, IA
 
-**Location:** Unknown, IA
+**Location:** Mason City, IA
 
 **EPA Facility ID:** 100000199812
 

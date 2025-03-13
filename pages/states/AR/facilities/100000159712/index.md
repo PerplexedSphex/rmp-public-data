@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Foods, Inc. TVDC West
 
-**Location:** Unknown, AR
+**Location:** Russellville, AR
 
 **EPA Facility ID:** 100000159712
 

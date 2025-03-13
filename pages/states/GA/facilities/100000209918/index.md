@@ -1,6 +1,6 @@
-# Unknown
+# City of Kingsland Wastewater Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Kingsland, GA
 
 **EPA Facility ID:** 100000209918
 

@@ -1,6 +1,6 @@
-# Unknown
+# Dunkirk Wastewater Treatment Facility
 
-**Location:** Unknown, NY
+**Location:** Dunkirk, NY
 
 **EPA Facility ID:** 100000160675
 

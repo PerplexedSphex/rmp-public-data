@@ -1,6 +1,6 @@
-# Unknown
+# Sethness Products Company
 
-**Location:** Unknown, IA
+**Location:** Clinton, IA
 
 **EPA Facility ID:** 100000151266
 

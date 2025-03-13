@@ -1,6 +1,6 @@
-# Unknown
+# East Water Purification Plant
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000138308
 

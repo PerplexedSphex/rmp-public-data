@@ -1,6 +1,6 @@
-# Unknown
+# Town of South Windsor Wastewater Treatment Facilit
 
-**Location:** Unknown, CT
+**Location:** South Windsor, CT
 
 **EPA Facility ID:** 100000083875
 

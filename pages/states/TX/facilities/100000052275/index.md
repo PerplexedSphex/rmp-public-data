@@ -1,6 +1,6 @@
-# Unknown
+# Osage Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Amarillo, TX
 
 **EPA Facility ID:** 100000052275
 

@@ -1,6 +1,6 @@
-# Unknown
+# Thrifty PayLess, Inc.
 
-**Location:** Unknown, CA
+**Location:** El Monte, CA
 
 **EPA Facility ID:** 100000182679
 

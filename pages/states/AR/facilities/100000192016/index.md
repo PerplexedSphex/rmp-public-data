@@ -1,6 +1,6 @@
-# Unknown
+# Arkansas Refrigerated Services
 
-**Location:** Unknown, AR
+**Location:** Fort Smith, AR
 
 **EPA Facility ID:** 100000192016
 

@@ -1,6 +1,6 @@
-# Unknown
+# Huntsville Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Dallas, PA
 
 **EPA Facility ID:** 100000182615
 

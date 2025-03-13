@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Slater
 
-**Location:** Unknown, IA
+**Location:** Slater, IA
 
 **EPA Facility ID:** 100000141447
 

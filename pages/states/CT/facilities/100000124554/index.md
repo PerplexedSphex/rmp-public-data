@@ -1,6 +1,6 @@
-# Unknown
+# Hartford Water Pollution Control Facility
 
-**Location:** Unknown, CT
+**Location:** Hartford, CT
 
 **EPA Facility ID:** 100000124554
 

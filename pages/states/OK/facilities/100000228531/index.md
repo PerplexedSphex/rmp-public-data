@@ -1,6 +1,6 @@
-# Unknown
+# Battle Ridge Processing Plant
 
-**Location:** Unknown, OK
+**Location:** Cushing, OK
 
 **EPA Facility ID:** 100000228531
 

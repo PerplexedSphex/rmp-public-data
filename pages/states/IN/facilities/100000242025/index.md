@@ -1,6 +1,6 @@
-# Unknown
+# Terre Haute, IN 
 
-**Location:** Unknown, IN
+**Location:** Terre Haute, IN
 
 **EPA Facility ID:** 100000242025
 

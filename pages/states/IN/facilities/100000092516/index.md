@@ -1,6 +1,6 @@
-# Unknown
+# Terre Haute Wastewater Utility
 
-**Location:** Unknown, IN
+**Location:** Terre Haute, IN
 
 **EPA Facility ID:** 100000092516
 

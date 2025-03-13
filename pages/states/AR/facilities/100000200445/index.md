@@ -1,6 +1,6 @@
-# Unknown
+# Norphlet Chemical, Inc.
 
-**Location:** Unknown, AR
+**Location:** Norphlet, AR
 
 **EPA Facility ID:** 100000200445
 

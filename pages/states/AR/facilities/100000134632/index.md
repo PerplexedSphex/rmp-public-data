@@ -1,6 +1,6 @@
-# Unknown
+# Searcy Gas Plant
 
-**Location:** Unknown, AR
+**Location:** Searcy, AR
 
 **EPA Facility ID:** 100000134632
 

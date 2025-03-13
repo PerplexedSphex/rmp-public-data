@@ -1,6 +1,6 @@
-# Unknown
+# Central Kitsap Tr. Plant
 
-**Location:** Unknown, WA
+**Location:** Poulsbo, WA
 
 **EPA Facility ID:** 100000066572
 

@@ -1,6 +1,6 @@
-# Unknown
+# Hay Butte Plant
 
-**Location:** Unknown, ND
+**Location:** Alexander, ND
 
 **EPA Facility ID:** 100000223867
 

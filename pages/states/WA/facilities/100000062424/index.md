@@ -1,6 +1,6 @@
-# Unknown
+# Grandview Juice Plant
 
-**Location:** Unknown, WA
+**Location:** Grandview, WA
 
 **EPA Facility ID:** 100000062424
 

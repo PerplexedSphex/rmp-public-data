@@ -1,6 +1,6 @@
-# Unknown
+# Ingredion Incorporated Idaho Falls Facility
 
-**Location:** Unknown, ID
+**Location:** Idaho Falls, ID
 
 **EPA Facility ID:** 100000195665
 

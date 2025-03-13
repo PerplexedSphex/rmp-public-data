@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Brunswick, NE Facility
 
-**Location:** Unknown, NE
+**Location:** Brunswick, NE
 
 **EPA Facility ID:** 100000182624
 

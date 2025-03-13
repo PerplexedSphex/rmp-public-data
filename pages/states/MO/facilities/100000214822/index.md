@@ -1,6 +1,6 @@
-# Unknown
+# Garden City Plant
 
-**Location:** Unknown, MO
+**Location:** garden city, MO
 
 **EPA Facility ID:** 100000214822
 

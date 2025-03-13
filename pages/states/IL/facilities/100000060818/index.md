@@ -1,6 +1,6 @@
-# Unknown
+# Illini FS - Potomac NH3
 
-**Location:** Unknown, IL
+**Location:** Potomac, IL
 
 **EPA Facility ID:** 100000060818
 

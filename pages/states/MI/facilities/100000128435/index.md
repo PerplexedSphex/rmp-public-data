@@ -1,6 +1,6 @@
-# Unknown
+# Petoskey Wastewater Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Petoskey, MI
 
 **EPA Facility ID:** 100000128435
 

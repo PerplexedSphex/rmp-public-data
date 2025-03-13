@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center #6073
 
-**Location:** Unknown, SC
+**Location:** Pageland, SC
 
 **EPA Facility ID:** 100000121986
 

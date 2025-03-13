@@ -1,6 +1,6 @@
-# Unknown
+# Pebbly Beach Generating Station
 
-**Location:** Unknown, CA
+**Location:** Avalon, CA
 
 **EPA Facility ID:** 100000077178
 

@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Union Grain Co. of Edgeley
 
-**Location:** Unknown, ND
+**Location:** Monango, ND
 
 **EPA Facility ID:** 100000027348
 

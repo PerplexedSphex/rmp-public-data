@@ -1,6 +1,6 @@
-# Unknown
+# Kennecott Utah Copper Corp. Smelter and Refinery
 
-**Location:** Unknown, UT
+**Location:** Magna, UT
 
 **EPA Facility ID:** 100000136934
 

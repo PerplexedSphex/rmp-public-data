@@ -1,6 +1,6 @@
-# Unknown
+# Cozad Nurse Tank Storage
 
-**Location:** Unknown, NE
+**Location:** Cozad, NE
 
 **EPA Facility ID:** 100000225749
 

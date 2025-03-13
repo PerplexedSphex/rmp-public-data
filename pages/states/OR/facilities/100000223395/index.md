@@ -1,6 +1,6 @@
-# Unknown
+# Terminal Freezers LLC a Lineage Logistics Company
 
-**Location:** Unknown, OR
+**Location:** Salem, OR
 
 **EPA Facility ID:** 100000223395
 

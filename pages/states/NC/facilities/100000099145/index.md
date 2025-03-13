@@ -1,6 +1,6 @@
-# Unknown
+# Elizabeth City Water Treatment Facility
 
-**Location:** Unknown, NC
+**Location:** Elizabeth City, NC
 
 **EPA Facility ID:** 100000099145
 

@@ -1,6 +1,6 @@
-# Unknown
+# Harley Dome Gas Plant
 
-**Location:** Unknown, UT
+**Location:** Westwater, UT
 
 **EPA Facility ID:** 100000195889
 

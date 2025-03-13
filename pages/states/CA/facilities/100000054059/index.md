@@ -1,6 +1,6 @@
-# Unknown
+# Canyon  Chlorination Facility
 
-**Location:** Unknown, CA
+**Location:** Azusa, CA
 
 **EPA Facility ID:** 100000054059
 

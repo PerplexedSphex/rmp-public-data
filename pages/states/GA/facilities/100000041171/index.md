@@ -1,6 +1,6 @@
-# Unknown
+# Mid-Georgia Cogen
 
-**Location:** Unknown, GA
+**Location:** Kathleen, GA
 
 **EPA Facility ID:** 100000041171
 

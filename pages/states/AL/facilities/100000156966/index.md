@@ -1,6 +1,6 @@
-# Unknown
+# Limestone County Water & Sewer Authority
 
-**Location:** Unknown, AL
+**Location:** Elkmont, AL
 
 **EPA Facility ID:** 100000156966
 

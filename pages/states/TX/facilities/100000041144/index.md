@@ -1,6 +1,6 @@
-# Unknown
+# Dallas Food Center
 
-**Location:** Unknown, TX
+**Location:** Garland, TX
 
 **EPA Facility ID:** 100000041144
 

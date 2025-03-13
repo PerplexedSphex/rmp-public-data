@@ -1,6 +1,6 @@
-# Unknown
+# Longview Gas Plant and Rail Terminal
 
-**Location:** Unknown, TX
+**Location:** Longview, TX
 
 **EPA Facility ID:** 100000126017
 

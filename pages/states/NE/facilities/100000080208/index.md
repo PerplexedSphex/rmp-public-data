@@ -1,6 +1,6 @@
-# Unknown
+# Chief Ethanol Fuels, Inc. (Hastings Plant)
 
-**Location:** Unknown, NE
+**Location:** Hastings, NE
 
 **EPA Facility ID:** 100000080208
 

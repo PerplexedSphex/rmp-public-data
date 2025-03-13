@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Great Lakes, LLC-Toledo
 
-**Location:** Unknown, OH
+**Location:** Toledo, OH
 
 **EPA Facility ID:** 100000248715
 

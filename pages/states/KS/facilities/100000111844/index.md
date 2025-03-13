@@ -1,6 +1,6 @@
-# Unknown
+# Garden City, KS 668 Satellite
 
-**Location:** Unknown, KS
+**Location:** Garden City, KS
 
 **EPA Facility ID:** 100000111844
 

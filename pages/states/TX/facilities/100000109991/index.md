@@ -1,6 +1,6 @@
-# Unknown
+# Technical Chemical Company
 
-**Location:** Unknown, TX
+**Location:** Dallas, TX
 
 **EPA Facility ID:** 100000109991
 

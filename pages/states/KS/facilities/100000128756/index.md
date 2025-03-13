@@ -1,6 +1,6 @@
-# Unknown
+# Grinnell, KS 1073
 
-**Location:** Unknown, KS
+**Location:** Grinnell, KS
 
 **EPA Facility ID:** 100000128756
 

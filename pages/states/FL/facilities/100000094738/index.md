@@ -1,6 +1,6 @@
-# Unknown
+# Mcintosh Power Plant/Northside WWTP
 
-**Location:** Unknown, FL
+**Location:** Lakeland, FL
 
 **EPA Facility ID:** 100000094738
 

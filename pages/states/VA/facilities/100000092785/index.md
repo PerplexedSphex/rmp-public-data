@@ -1,6 +1,6 @@
-# Unknown
+# Nexpera James River Plant
 
-**Location:** Unknown, VA
+**Location:** Richmond, VA
 
 **EPA Facility ID:** 100000092785
 

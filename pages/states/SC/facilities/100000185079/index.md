@@ -1,6 +1,6 @@
-# Unknown
+# Columbia Energy Center
 
-**Location:** Unknown, SC
+**Location:** Gaston, SC
 
 **EPA Facility ID:** 100000185079
 

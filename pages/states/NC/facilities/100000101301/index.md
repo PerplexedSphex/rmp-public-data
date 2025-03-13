@@ -1,6 +1,6 @@
-# Unknown
+# VPC Foam USA, Inc.
 
-**Location:** Unknown, NC
+**Location:** Asheboro, NC
 
 **EPA Facility ID:** 100000101301
 

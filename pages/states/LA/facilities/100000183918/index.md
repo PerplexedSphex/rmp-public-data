@@ -1,6 +1,6 @@
-# Unknown
+# Elba Field Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Elba, LA
 
 **EPA Facility ID:** 100000183918
 

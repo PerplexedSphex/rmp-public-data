@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Nehawka
 
-**Location:** Unknown, NE
+**Location:** Nehawka, NE
 
 **EPA Facility ID:** 100000178826
 

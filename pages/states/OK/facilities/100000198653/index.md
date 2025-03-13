@@ -1,6 +1,6 @@
-# Unknown
+# South Canadian Wastewater Treatment Plant (SCWWTP)
 
-**Location:** Unknown, OK
+**Location:** Oklahoma City, OK
 
 **EPA Facility ID:** 100000198653
 

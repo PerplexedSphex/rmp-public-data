@@ -1,6 +1,6 @@
-# Unknown
+# Smyrna Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Smyrna, TN
 
 **EPA Facility ID:** 100000015869
 

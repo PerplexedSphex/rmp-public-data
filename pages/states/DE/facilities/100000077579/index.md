@@ -1,6 +1,6 @@
-# Unknown
+# Aearo Technologies, LLC
 
-**Location:** Unknown, DE
+**Location:** Newark, DE
 
 **EPA Facility ID:** 100000077579
 

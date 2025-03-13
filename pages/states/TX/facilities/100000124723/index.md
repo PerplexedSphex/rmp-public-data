@@ -1,6 +1,6 @@
-# Unknown
+# Pampa Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Pampa, TX
 
 **EPA Facility ID:** 100000124723
 

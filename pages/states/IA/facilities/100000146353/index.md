@@ -1,6 +1,6 @@
-# Unknown
+# Chem Gro of Houghton Inc. - Houghton Facility
 
-**Location:** Unknown, IA
+**Location:** Houghton, IA
 
 **EPA Facility ID:** 100000146353
 

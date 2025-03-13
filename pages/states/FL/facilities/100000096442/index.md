@@ -1,6 +1,6 @@
-# Unknown
+# City of Jacksonville Beach Water Plant No. 2
 
-**Location:** Unknown, FL
+**Location:** Jacksonville Beach, FL
 
 **EPA Facility ID:** 100000096442
 

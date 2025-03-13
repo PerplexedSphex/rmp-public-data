@@ -1,6 +1,6 @@
-# Unknown
+# Claxton Cold Storage
 
-**Location:** Unknown, GA
+**Location:** Claxton, GA
 
 **EPA Facility ID:** 100000016243
 

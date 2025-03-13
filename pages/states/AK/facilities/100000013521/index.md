@@ -1,6 +1,6 @@
-# Unknown
+# Alyeska Seafoods, Inc.
 
-**Location:** Unknown, AK
+**Location:** Unalaska, AK
 
 **EPA Facility ID:** 100000013521
 

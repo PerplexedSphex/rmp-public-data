@@ -1,6 +1,6 @@
-# Unknown
+# Hawkville Gas Treating Facility
 
-**Location:** Unknown, TX
+**Location:** Cotulla, TX
 
 **EPA Facility ID:** 100000217945
 

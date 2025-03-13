@@ -1,6 +1,6 @@
-# Unknown
+# GRAINCO FS - GORMAN STATION
 
-**Location:** Unknown, IL
+**Location:** COAL CITY, IL
 
 **EPA Facility ID:** 100000087504
 

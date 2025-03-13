@@ -1,6 +1,6 @@
-# Unknown
+# Dixon Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Holly Ridge, NC
 
 **EPA Facility ID:** 100000193809
 

@@ -1,6 +1,6 @@
-# Unknown
+# BWA Stripping Plant
 
-**Location:** Unknown, PA
+**Location:** Bradford, PA
 
 **EPA Facility ID:** 100000023832
 

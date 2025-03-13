@@ -1,6 +1,6 @@
-# Unknown
+# Interplex Etch Logic, LLC
 
-**Location:** Unknown, MA
+**Location:** Attleboro, MA
 
 **EPA Facility ID:** 100000171486
 

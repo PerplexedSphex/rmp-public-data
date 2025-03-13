@@ -1,6 +1,6 @@
-# Unknown
+# Concho Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Paint Rock, TX
 
 **EPA Facility ID:** 100000112175
 

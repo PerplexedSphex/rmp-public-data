@@ -1,6 +1,6 @@
-# Unknown
+# Lactalis Heritage Dairy, Inc. - Wausau Wisconsin
 
-**Location:** Unknown, WI
+**Location:** Wausau, WI
 
 **EPA Facility ID:** 100000035516
 

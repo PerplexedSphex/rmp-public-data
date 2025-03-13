@@ -1,6 +1,6 @@
-# Unknown
+# Ashland Specialty Ingredients
 
-**Location:** Unknown, GA
+**Location:** Dalton, GA
 
 **EPA Facility ID:** 100000176392
 

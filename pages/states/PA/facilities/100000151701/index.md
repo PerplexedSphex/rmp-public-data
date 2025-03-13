@@ -1,6 +1,6 @@
-# Unknown
+# MACtac Scranton Facility
 
-**Location:** Unknown, PA
+**Location:** Moosic, PA
 
 **EPA Facility ID:** 100000151701
 

@@ -1,6 +1,6 @@
-# Unknown
+# Willard CO2 Seperation Plant
 
-**Location:** Unknown, TX
+**Location:** Denver City, TX
 
 **EPA Facility ID:** 100000152522
 

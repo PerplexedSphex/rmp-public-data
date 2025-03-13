@@ -1,6 +1,6 @@
-# Unknown
+# Econchate Water Pollution Control Plant (WPCP)
 
-**Location:** Unknown, AL
+**Location:** Montgomery, AL
 
 **EPA Facility ID:** 100000030414
 

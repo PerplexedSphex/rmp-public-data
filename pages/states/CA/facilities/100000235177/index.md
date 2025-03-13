@@ -1,6 +1,6 @@
-# Unknown
+# Spectrum Lab. Prod. - Gardena Facility - Prog. 3
 
-**Location:** Unknown, CA
+**Location:** Gardena, CA
 
 **EPA Facility ID:** 100000235177
 

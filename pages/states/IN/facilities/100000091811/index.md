@@ -1,6 +1,6 @@
-# Unknown
+# Hamlet Ammonia
 
-**Location:** Unknown, IN
+**Location:** Hamlet, IN
 
 **EPA Facility ID:** 100000091811
 

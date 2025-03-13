@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. - Jackson
 
-**Location:** Unknown, MS
+**Location:** Jackson, MS
 
 **EPA Facility ID:** 100000026349
 

@@ -1,6 +1,6 @@
-# Unknown
+# 24th Street Water Treatment Plant
 
-**Location:** Unknown, AZ
+**Location:** Phoenix, AZ
 
 **EPA Facility ID:** 100000036454
 

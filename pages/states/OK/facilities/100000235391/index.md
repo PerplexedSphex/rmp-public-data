@@ -1,6 +1,6 @@
-# Unknown
+# Lincoln Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Dover, OK
 
 **EPA Facility ID:** 100000235391
 

@@ -1,6 +1,6 @@
-# Unknown
+# Big Escambia Creek Gas Plant
 
-**Location:** Unknown, AL
+**Location:** Atmore, AL
 
 **EPA Facility ID:** 100000084339
 

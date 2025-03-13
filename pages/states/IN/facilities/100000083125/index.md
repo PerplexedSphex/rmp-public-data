@@ -1,6 +1,6 @@
-# Unknown
+# Johnson Controls, Inc.
 
-**Location:** Unknown, IN
+**Location:** Goshen, IN
 
 **EPA Facility ID:** 100000083125
 

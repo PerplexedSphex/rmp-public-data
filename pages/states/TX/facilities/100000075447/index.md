@@ -1,6 +1,6 @@
-# Unknown
+# John T. Hickerson Water Reclamation Facility
 
-**Location:** Unknown, TX
+**Location:** El Paso, TX
 
 **EPA Facility ID:** 100000075447
 

@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Bern, KS Facility
 
-**Location:** Unknown, KS
+**Location:** Bern, KS
 
 **EPA Facility ID:** 100000178871
 

@@ -1,6 +1,6 @@
-# Unknown
+# Westside Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Tyler, TX
 
 **EPA Facility ID:** 100000138326
 

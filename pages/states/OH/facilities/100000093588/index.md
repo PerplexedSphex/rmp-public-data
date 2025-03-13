@@ -1,6 +1,6 @@
-# Unknown
+# Southerly Wastewater Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Lockbourne, OH
 
 **EPA Facility ID:** 100000093588
 

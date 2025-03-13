@@ -1,6 +1,6 @@
-# Unknown
+# Bethlehem Energy Center
 
-**Location:** Unknown, PA
+**Location:** Bethlehem, PA
 
 **EPA Facility ID:** 100000182232
 

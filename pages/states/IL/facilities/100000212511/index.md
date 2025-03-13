@@ -1,6 +1,6 @@
-# Unknown
+# Tronox Metals Inc.
 
-**Location:** Unknown, IL
+**Location:** Ottawa, IL
 
 **EPA Facility ID:** 100000212511
 

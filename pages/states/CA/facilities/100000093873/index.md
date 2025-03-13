@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Cooling, Inc.
 
-**Location:** Unknown, CA
+**Location:** Santa Maria, CA
 
 **EPA Facility ID:** 100000093873
 

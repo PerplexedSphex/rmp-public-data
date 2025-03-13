@@ -1,6 +1,6 @@
-# Unknown
+# Northampton Generating Plant
 
-**Location:** Unknown, PA
+**Location:** Northampton, PA
 
 **EPA Facility ID:** 100000134179
 

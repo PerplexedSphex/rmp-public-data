@@ -1,6 +1,6 @@
-# Unknown
+#  Gore Feed & Fertilizer
 
-**Location:** Unknown, TX
+**Location:** Comanche, TX
 
 **EPA Facility ID:** 100000180555
 

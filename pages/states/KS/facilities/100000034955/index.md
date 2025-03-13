@@ -1,6 +1,6 @@
-# Unknown
+# Hugoton Plant
 
-**Location:** Unknown, KS
+**Location:** Hugoton, KS
 
 **EPA Facility ID:** 100000034955
 

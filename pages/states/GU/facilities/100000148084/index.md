@@ -1,6 +1,6 @@
-# Unknown
+# Island Equipment Company Gas Manufacturing Plant
 
-**Location:** Unknown, GU
+**Location:** Sta. Rita, GU
 
 **EPA Facility ID:** 100000148084
 

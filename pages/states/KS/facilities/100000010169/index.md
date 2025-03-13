@@ -1,6 +1,6 @@
-# Unknown
+# Great Bend Coop-Fertilizer Branch
 
-**Location:** Unknown, KS
+**Location:** Great Bend, KS
 
 **EPA Facility ID:** 100000010169
 

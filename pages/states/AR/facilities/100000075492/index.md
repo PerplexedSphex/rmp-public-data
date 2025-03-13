@@ -1,6 +1,6 @@
-# Unknown
+# Searcy Wastewater Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Searcy, AR
 
 **EPA Facility ID:** 100000075492
 

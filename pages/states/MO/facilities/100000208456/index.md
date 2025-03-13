@@ -1,6 +1,6 @@
-# Unknown
+# Chem Gro of Houghton - Alexandria Facility
 
-**Location:** Unknown, MO
+**Location:** Alexandria, MO
 
 **EPA Facility ID:** 100000208456
 

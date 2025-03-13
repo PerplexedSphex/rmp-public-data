@@ -1,6 +1,6 @@
-# Unknown
+# LS
 
-**Location:** Unknown, MN
+**Location:** Le Sueur, MN
 
 **EPA Facility ID:** 100000107706
 

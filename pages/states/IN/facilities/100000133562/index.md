@@ -1,6 +1,6 @@
-# Unknown
+# City of South Bend Wastewater Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** South Bend, IN
 
 **EPA Facility ID:** 100000133562
 

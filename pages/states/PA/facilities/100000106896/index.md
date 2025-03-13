@@ -1,6 +1,6 @@
-# Unknown
+# West Hershey Plant
 
-**Location:** Unknown, PA
+**Location:** Hershey, PA
 
 **EPA Facility ID:** 100000106896
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cottage Grove Wastewater Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Cottage Grove, MN
 
 **EPA Facility ID:** 100000065145
 

@@ -1,6 +1,6 @@
-# Unknown
+# INEOS KOH Inc.
 
-**Location:** Unknown, OH
+**Location:** Ashtabula, OH
 
 **EPA Facility ID:** 100000144738
 

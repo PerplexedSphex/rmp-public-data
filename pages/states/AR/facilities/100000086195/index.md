@@ -1,6 +1,6 @@
-# Unknown
+# Hot Springs Wastewater Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Hot Springs, AR
 
 **EPA Facility ID:** 100000086195
 

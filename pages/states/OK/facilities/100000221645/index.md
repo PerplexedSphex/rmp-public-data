@@ -1,6 +1,6 @@
-# Unknown
+# Putnam Oswego NGL Storage Facility
 
-**Location:** Unknown, OK
+**Location:** Thomas, OK
 
 **EPA Facility ID:** 100000221645
 

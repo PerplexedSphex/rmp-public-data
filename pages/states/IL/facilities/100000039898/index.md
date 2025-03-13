@@ -1,6 +1,6 @@
-# Unknown
+# Gateway FS, Inc. - Percy
 
-**Location:** Unknown, IL
+**Location:** Percy, IL
 
 **EPA Facility ID:** 100000039898
 

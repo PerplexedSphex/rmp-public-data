@@ -1,6 +1,6 @@
-# Unknown
+# West Virginia American Water - Huntington, WV WTP
 
-**Location:** Unknown, WV
+**Location:** Huntington, WV
 
 **EPA Facility ID:** 100000103069
 

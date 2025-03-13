@@ -1,6 +1,6 @@
-# Unknown
+# GAC Chemical - New England
 
-**Location:** Unknown, ME
+**Location:** Searsport, ME
 
 **EPA Facility ID:** 100000143123
 

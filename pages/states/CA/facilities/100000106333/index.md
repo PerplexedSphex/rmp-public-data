@@ -1,6 +1,6 @@
-# Unknown
+# City of Galt Wastewater Treatment plant
 
-**Location:** Unknown, CA
+**Location:** Galt, CA
 
 **EPA Facility ID:** 100000106333
 

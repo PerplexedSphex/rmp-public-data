@@ -1,6 +1,6 @@
-# Unknown
+# Black River Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Dunn, NC
 
 **EPA Facility ID:** 100000087087
 

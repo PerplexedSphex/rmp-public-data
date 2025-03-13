@@ -1,6 +1,6 @@
-# Unknown
+# Lake Erling Gas Processing Plant
 
-**Location:** Unknown, AR
+**Location:** Taylor, AR
 
 **EPA Facility ID:** 100000103611
 

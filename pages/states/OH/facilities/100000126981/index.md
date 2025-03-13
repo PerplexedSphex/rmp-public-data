@@ -1,6 +1,6 @@
-# Unknown
+# JCI Jones Chemicals, Inc. - Barberton, OH
 
-**Location:** Unknown, OH
+**Location:** Barberton, OH
 
 **EPA Facility ID:** 100000126981
 

@@ -1,6 +1,6 @@
-# Unknown
+# Town of Southern Pines Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Pinebluff, NC
 
 **EPA Facility ID:** 100000100865
 

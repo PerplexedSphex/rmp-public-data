@@ -1,6 +1,6 @@
-# Unknown
+# West Central Cooperative - Elk Horn
 
-**Location:** Unknown, IA
+**Location:** Elk Horn, IA
 
 **EPA Facility ID:** 100000154842
 

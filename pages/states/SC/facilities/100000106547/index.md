@@ -1,6 +1,6 @@
-# Unknown
+# US Foods, Inc., Columbia 
 
-**Location:** Unknown, SC
+**Location:** Lexington, SC
 
 **EPA Facility ID:** 100000106547
 

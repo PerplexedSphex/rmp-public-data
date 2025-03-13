@@ -1,6 +1,6 @@
-# Unknown
+# The C.I. Thornburg, Co., Inc.
 
-**Location:** Unknown, KY
+**Location:** Bowling Green, KY
 
 **EPA Facility ID:** 100000197486
 

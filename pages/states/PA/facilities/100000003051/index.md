@@ -1,6 +1,6 @@
-# Unknown
+# Lebanon Propane
 
-**Location:** Unknown, PA
+**Location:** Lebanon, PA
 
 **EPA Facility ID:** 100000003051
 

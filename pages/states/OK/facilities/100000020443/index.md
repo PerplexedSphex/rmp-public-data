@@ -1,6 +1,6 @@
-# Unknown
+# Sooner Coop, Inc.
 
-**Location:** Unknown, OK
+**Location:** Loyal, OK
 
 **EPA Facility ID:** 100000020443
 

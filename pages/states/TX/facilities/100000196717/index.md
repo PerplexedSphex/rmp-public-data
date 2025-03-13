@@ -1,6 +1,6 @@
-# Unknown
+# Henderson Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Henderson, TX
 
 **EPA Facility ID:** 100000196717
 

@@ -1,6 +1,6 @@
-# Unknown
+# SILVER BAY SEAFOODS - KODIAK
 
-**Location:** Unknown, AK
+**Location:** KODIAK, AK
 
 **EPA Facility ID:** 100000181304
 

@@ -1,6 +1,6 @@
-# Unknown
+# Panhandle Cooperative Fertilizer (Bayard)
 
-**Location:** Unknown, NE
+**Location:** Bayard, NE
 
 **EPA Facility ID:** 100000037328
 

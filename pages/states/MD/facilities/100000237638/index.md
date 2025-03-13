@@ -1,6 +1,6 @@
-# Unknown
+# Aldi Incorporated
 
-**Location:** Unknown, MD
+**Location:** Frederick, MD
 
 **EPA Facility ID:** 100000237638
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Casselton
 
-**Location:** Unknown, ND
+**Location:** Casselton, ND
 
 **EPA Facility ID:** 100000152112
 

@@ -1,6 +1,6 @@
-# Unknown
+# Arvah B. Hopkins Electric Generating Station
 
-**Location:** Unknown, FL
+**Location:** Tallahassee, FL
 
 **EPA Facility ID:** 100000192524
 

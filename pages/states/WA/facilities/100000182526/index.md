@@ -1,6 +1,6 @@
-# Unknown
+# Moses Lake Generating
 
-**Location:** Unknown, WA
+**Location:** Moses Lake, WA
 
 **EPA Facility ID:** 100000182526
 

@@ -1,6 +1,6 @@
-# Unknown
+# Tyrone Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Tyrone, OK
 
 **EPA Facility ID:** 100000102587
 

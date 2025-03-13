@@ -1,6 +1,6 @@
-# Unknown
+# Thatcher Company of New York
 
-**Location:** Unknown, NY
+**Location:** Williamson, NY
 
 **EPA Facility ID:** 100000150098
 

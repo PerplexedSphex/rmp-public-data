@@ -1,6 +1,6 @@
-# Unknown
+# LOGAN NH3 Plant
 
-**Location:** Unknown, KS
+**Location:** LOGAN, KS
 
 **EPA Facility ID:** 100000015002
 

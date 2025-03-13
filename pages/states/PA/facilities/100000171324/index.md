@@ -1,6 +1,6 @@
-# Unknown
+# City of Titusville Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** City of Titusville, PA
 
 **EPA Facility ID:** 100000171324
 

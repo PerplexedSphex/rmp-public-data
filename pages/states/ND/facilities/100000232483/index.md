@@ -1,6 +1,6 @@
-# Unknown
+# New Town Water Treatment Plant
 
-**Location:** Unknown, ND
+**Location:** New Town, ND
 
 **EPA Facility ID:** 100000232483
 

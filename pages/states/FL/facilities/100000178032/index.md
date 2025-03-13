@@ -1,6 +1,6 @@
-# Unknown
+# Coastal Chemical, Inc.
 
-**Location:** Unknown, FL
+**Location:** Lake Park, FL
 
 **EPA Facility ID:** 100000178032
 

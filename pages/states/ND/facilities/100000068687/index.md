@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Milton
 
-**Location:** Unknown, ND
+**Location:** Milton, ND
 
 **EPA Facility ID:** 100000068687
 

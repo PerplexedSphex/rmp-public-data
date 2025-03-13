@@ -1,6 +1,6 @@
-# Unknown
+# Iatan Generating Station
 
-**Location:** Unknown, MO
+**Location:** Weston, MO
 
 **EPA Facility ID:** 100000204726
 

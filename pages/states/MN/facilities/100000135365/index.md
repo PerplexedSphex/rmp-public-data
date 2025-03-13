@@ -1,6 +1,6 @@
-# Unknown
+# Minnesota Brewing Company
 
-**Location:** Unknown, MN
+**Location:** St. Paul, MN
 
 **EPA Facility ID:** 100000135365
 

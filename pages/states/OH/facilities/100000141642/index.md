@@ -1,6 +1,6 @@
-# Unknown
+# DAP Inc.
 
-**Location:** Unknown, OH
+**Location:** Tipp City, OH
 
 **EPA Facility ID:** 100000141642
 

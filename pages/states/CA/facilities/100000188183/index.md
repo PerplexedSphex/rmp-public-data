@@ -1,6 +1,6 @@
-# Unknown
+# International Rectifier
 
-**Location:** Unknown, CA
+**Location:** El Segundo, CA
 
 **EPA Facility ID:** 100000188183
 

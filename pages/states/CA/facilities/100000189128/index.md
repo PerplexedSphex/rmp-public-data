@@ -1,6 +1,6 @@
-# Unknown
+# Cal-Organic Vegetable Company
 
-**Location:** Unknown, CA
+**Location:** Lamont, CA
 
 **EPA Facility ID:** 100000189128
 

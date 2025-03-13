@@ -1,6 +1,6 @@
-# Unknown
+# West Biloxi Wastewater Treatment Plant
 
-**Location:** Unknown, MS
+**Location:** Biloxi, MS
 
 **EPA Facility ID:** 100000049814
 

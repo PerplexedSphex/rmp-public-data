@@ -1,6 +1,6 @@
-# Unknown
+# Great Lakes Chemical
 
-**Location:** Unknown, MI
+**Location:** Adrian, MI
 
 **EPA Facility ID:** 100000058313
 

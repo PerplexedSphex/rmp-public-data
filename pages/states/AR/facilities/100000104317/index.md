@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Russellville 324
 
-**Location:** Unknown, AR
+**Location:** Russellville, AR
 
 **EPA Facility ID:** 100000104317
 

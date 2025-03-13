@@ -1,6 +1,6 @@
-# Unknown
+# AG PLUS COOPERATIVE GHENT
 
-**Location:** Unknown, MN
+**Location:** Ghent, MN
 
 **EPA Facility ID:** 100000167124
 

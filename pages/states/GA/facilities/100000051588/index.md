@@ -1,6 +1,6 @@
-# Unknown
+# Quarles Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Marietta, GA
 
 **EPA Facility ID:** 100000051588
 

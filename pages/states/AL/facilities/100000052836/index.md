@@ -1,6 +1,6 @@
-# Unknown
+# Giant Resource Recovery-Attalla, Inc.
 
-**Location:** Unknown, AL
+**Location:** Attalla, AL
 
 **EPA Facility ID:** 100000052836
 

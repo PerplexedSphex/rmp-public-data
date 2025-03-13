@@ -1,6 +1,6 @@
-# Unknown
+# Simplot Grower Solutions - Good Hope
 
-**Location:** Unknown, IL
+**Location:** Good Hope, IL
 
 **EPA Facility ID:** 100000013308
 

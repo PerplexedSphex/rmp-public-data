@@ -1,6 +1,6 @@
-# Unknown
+# West Chicago Rgnl Wastewater Treatment Facility
 
-**Location:** Unknown, IL
+**Location:** West Chicago, IL
 
 **EPA Facility ID:** 100000208198
 

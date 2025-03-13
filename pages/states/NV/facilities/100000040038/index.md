@@ -1,6 +1,6 @@
-# Unknown
+# AMOR IX, LLC - Soda Lake II Geothermal Project
 
-**Location:** Unknown, NV
+**Location:** Fallon, NV
 
 **EPA Facility ID:** 100000040038
 

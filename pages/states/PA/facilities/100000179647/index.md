@@ -1,6 +1,6 @@
-# Unknown
+# Kane Natural Gas Processing Plant
 
-**Location:** Unknown, PA
+**Location:** Kane, PA
 
 **EPA Facility ID:** 100000179647
 

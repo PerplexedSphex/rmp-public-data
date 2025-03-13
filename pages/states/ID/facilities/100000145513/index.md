@@ -1,6 +1,6 @@
-# Unknown
+# Coeur d'Alene Advanced Wastewater Treatment Plant
 
-**Location:** Unknown, ID
+**Location:** Coeur d'Alene, ID
 
 **EPA Facility ID:** 100000145513
 

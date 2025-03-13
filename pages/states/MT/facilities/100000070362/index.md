@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Brockton
 
-**Location:** Unknown, MT
+**Location:** Brockton, MT
 
 **EPA Facility ID:** 100000070362
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Karlstad
 
-**Location:** Unknown, MN
+**Location:** Karlstad, MN
 
 **EPA Facility ID:** 100000129407
 

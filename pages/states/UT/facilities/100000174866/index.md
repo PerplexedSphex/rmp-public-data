@@ -1,6 +1,6 @@
-# Unknown
+# Associated Food Stores Inc.
 
-**Location:** Unknown, UT
+**Location:** Farr West, UT
 
 **EPA Facility ID:** 100000174866
 

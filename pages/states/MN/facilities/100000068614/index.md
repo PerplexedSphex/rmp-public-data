@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.-Lowry
 
-**Location:** Unknown, MN
+**Location:** Lowry, MN
 
 **EPA Facility ID:** 100000068614
 

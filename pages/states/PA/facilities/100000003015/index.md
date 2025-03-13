@@ -1,6 +1,6 @@
-# Unknown
+# Indiana Propane
 
-**Location:** Unknown, PA
+**Location:** Indiana, PA
 
 **EPA Facility ID:** 100000003015
 

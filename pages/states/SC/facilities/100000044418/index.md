@@ -1,6 +1,6 @@
-# Unknown
+# Marion Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Marion, SC
 
 **EPA Facility ID:** 100000044418
 

@@ -1,6 +1,6 @@
-# Unknown
+# Patterson West, Goodyear
 
-**Location:** Unknown, AZ
+**Location:** Goodyear, AZ
 
 **EPA Facility ID:** 100000141599
 

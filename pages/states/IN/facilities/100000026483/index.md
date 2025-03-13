@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water-Muncie
 
-**Location:** Unknown, IN
+**Location:** Muncie, IN
 
 **EPA Facility ID:** 100000026483
 

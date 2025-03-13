@@ -1,6 +1,6 @@
-# Unknown
+# US Foods, Inc - Aurora
 
-**Location:** Unknown, IL
+**Location:** Aurora, IL
 
 **EPA Facility ID:** 100000226178
 

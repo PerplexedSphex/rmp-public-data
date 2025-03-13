@@ -1,6 +1,6 @@
-# Unknown
+# Whitney Canyon Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Evanston, WY
 
 **EPA Facility ID:** 100000133394
 

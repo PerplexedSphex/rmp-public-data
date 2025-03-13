@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage, Lumberton
 
-**Location:** Unknown, NC
+**Location:** Lumberton, NC
 
 **EPA Facility ID:** 100000053149
 

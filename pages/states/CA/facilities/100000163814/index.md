@@ -1,6 +1,6 @@
-# Unknown
+# Hitco Carbon Composites, Inc.
 
-**Location:** Unknown, CA
+**Location:** Gardena, CA
 
 **EPA Facility ID:** 100000163814
 

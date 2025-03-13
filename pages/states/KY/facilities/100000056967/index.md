@@ -1,6 +1,6 @@
-# Unknown
+# Dry Creek Wastewater Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Erlanger, KY
 
 **EPA Facility ID:** 100000056967
 

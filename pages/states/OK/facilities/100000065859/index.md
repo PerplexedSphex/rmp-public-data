@@ -1,6 +1,6 @@
-# Unknown
+# Laverne Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Laverne, OK
 
 **EPA Facility ID:** 100000065859
 

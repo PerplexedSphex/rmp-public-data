@@ -1,6 +1,6 @@
-# Unknown
+# Ivanhoe Farmers Elevator
 
-**Location:** Unknown, MN
+**Location:** Ivanhoe, MN
 
 **EPA Facility ID:** 100000148761
 

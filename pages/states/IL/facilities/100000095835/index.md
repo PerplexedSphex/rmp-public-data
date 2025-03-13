@@ -1,6 +1,6 @@
-# Unknown
+# George B. Prindle Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Highland Park, IL
 
 **EPA Facility ID:** 100000095835
 

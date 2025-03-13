@@ -1,6 +1,6 @@
-# Unknown
+# Claude R. Erickson Station
 
-**Location:** Unknown, MI
+**Location:** Lansing, MI
 
 **EPA Facility ID:** 100000153727
 

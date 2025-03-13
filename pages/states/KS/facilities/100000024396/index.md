@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Selden
 
-**Location:** Unknown, KS
+**Location:** Selden, KS
 
 **EPA Facility ID:** 100000024396
 

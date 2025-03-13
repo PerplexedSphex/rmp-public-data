@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - New Philadelphia
 
-**Location:** Unknown, OH
+**Location:** New Philadelphia, OH
 
 **EPA Facility ID:** 100000244185
 

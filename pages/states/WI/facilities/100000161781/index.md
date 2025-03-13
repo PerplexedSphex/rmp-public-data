@@ -1,6 +1,6 @@
-# Unknown
+# Green Bay LPG Terminal
 
-**Location:** Unknown, WI
+**Location:** Green Bay, WI
 
 **EPA Facility ID:** 100000161781
 

@@ -1,6 +1,6 @@
-# Unknown
+# Ledvance LLC, Wellsboro Glass
 
-**Location:** Unknown, PA
+**Location:** Wellsboro, PA
 
 **EPA Facility ID:** 100000021255
 

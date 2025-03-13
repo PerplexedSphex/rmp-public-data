@@ -1,6 +1,6 @@
-# Unknown
+# United Farmers Coop
 
-**Location:** Unknown, MN
+**Location:** Rushmore, MN
 
 **EPA Facility ID:** 100000018802
 

@@ -1,6 +1,6 @@
-# Unknown
+# Millington, TN Wastewater Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Millington, TN
 
 **EPA Facility ID:** 100000001865
 

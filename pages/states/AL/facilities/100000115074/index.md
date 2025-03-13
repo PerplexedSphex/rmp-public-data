@@ -1,6 +1,6 @@
-# Unknown
+# H.C. Morgan Pollution Control Facility
 
-**Location:** Unknown, AL
+**Location:** Auburn, AL
 
 **EPA Facility ID:** 100000115074
 

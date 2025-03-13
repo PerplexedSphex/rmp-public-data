@@ -1,6 +1,6 @@
-# Unknown
+# Springerville Generating Station
 
-**Location:** Unknown, AZ
+**Location:** Springerville, AZ
 
 **EPA Facility ID:** 100000195148
 

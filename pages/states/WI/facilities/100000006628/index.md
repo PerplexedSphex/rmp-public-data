@@ -1,6 +1,6 @@
-# Unknown
+# Great Northern Corporation
 
-**Location:** Unknown, WI
+**Location:** Appleton, WI
 
 **EPA Facility ID:** 100000006628
 

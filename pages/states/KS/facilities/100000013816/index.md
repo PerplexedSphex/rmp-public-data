@@ -1,6 +1,6 @@
-# Unknown
+# brady grain, inc. - edmond
 
-**Location:** Unknown, KS
+**Location:** Edmond, KS
 
 **EPA Facility ID:** 100000013816
 

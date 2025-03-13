@@ -1,6 +1,6 @@
-# Unknown
+# The Penray Companies, Inc. - Wheeling Facility
 
-**Location:** Unknown, IL
+**Location:** Wheeling, IL
 
 **EPA Facility ID:** 100000186728
 

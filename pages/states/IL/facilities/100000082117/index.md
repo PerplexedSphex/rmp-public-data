@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Aurora, IL
 
 **EPA Facility ID:** 100000082117
 

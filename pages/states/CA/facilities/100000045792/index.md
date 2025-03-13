@@ -1,6 +1,6 @@
-# Unknown
+# John Taylor Fertilizers Company, Inc. - Elmira
 
-**Location:** Unknown, CA
+**Location:** Dixon, CA
 
 **EPA Facility ID:** 100000045792
 

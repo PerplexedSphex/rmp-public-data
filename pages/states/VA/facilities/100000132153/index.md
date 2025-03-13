@@ -1,6 +1,6 @@
-# Unknown
+# KMX Chemical Corporation - New Church plant
 
-**Location:** Unknown, VA
+**Location:** New Church, VA
 
 **EPA Facility ID:** 100000132153
 

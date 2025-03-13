@@ -1,6 +1,6 @@
-# Unknown
+# Plant McIntosh
 
-**Location:** Unknown, GA
+**Location:** Rincon, GA
 
 **EPA Facility ID:** 100000077089
 

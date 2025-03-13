@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-Browns
 
-**Location:** Unknown, IL
+**Location:** Browns, IL
 
 **EPA Facility ID:** 100000069445
 

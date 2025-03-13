@@ -1,6 +1,6 @@
-# Unknown
+# Elizabethtown, IN 2441
 
-**Location:** Unknown, IN
+**Location:** Elizabethtown, IN
 
 **EPA Facility ID:** 100000151284
 

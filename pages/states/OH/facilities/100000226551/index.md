@@ -1,6 +1,6 @@
-# Unknown
+# Tanner Industries, Inc.
 
-**Location:** Unknown, OH
+**Location:** Lima, OH
 
 **EPA Facility ID:** 100000226551
 

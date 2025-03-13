@@ -1,6 +1,6 @@
-# Unknown
+# Soldier Canyon Filter Plant
 
-**Location:** Unknown, CO
+**Location:** Fort Collins, CO
 
 **EPA Facility ID:** 100000030432
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Olean Reservoir
 
-**Location:** Unknown, NY
+**Location:** Olean, NY
 
 **EPA Facility ID:** 100000164635
 

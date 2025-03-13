@@ -1,6 +1,6 @@
-# Unknown
+# Kentucky-American Water Company Kentucky River Sta
 
-**Location:** Unknown, KY
+**Location:** Lexington, KY
 
 **EPA Facility ID:** 100000005148
 

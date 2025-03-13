@@ -1,6 +1,6 @@
-# Unknown
+# Blackfoot, ID 7015
 
-**Location:** Unknown, ID
+**Location:** Blackfoot, ID
 
 **EPA Facility ID:** 100000119882
 

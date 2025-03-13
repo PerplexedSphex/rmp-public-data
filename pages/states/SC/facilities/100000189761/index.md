@@ -1,6 +1,6 @@
-# Unknown
+# Schaeffler Group USA, Inc. - Plant 1
 
-**Location:** Unknown, SC
+**Location:** Cheraw, SC
 
 **EPA Facility ID:** 100000189761
 

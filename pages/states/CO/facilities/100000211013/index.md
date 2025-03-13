@@ -1,6 +1,6 @@
-# Unknown
+# Burlington Bean Plant Simplot Grower Solutions
 
-**Location:** Unknown, CO
+**Location:** Burlington, CO
 
 **EPA Facility ID:** 100000211013
 

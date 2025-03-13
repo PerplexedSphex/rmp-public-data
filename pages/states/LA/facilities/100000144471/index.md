@@ -1,6 +1,6 @@
-# Unknown
+# Westlake Polymers Corp, Poly 1 & 2
 
-**Location:** Unknown, LA
+**Location:** Sulphur, LA
 
 **EPA Facility ID:** 100000144471
 

@@ -1,6 +1,6 @@
-# Unknown
+# King Ranch Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Kingsville, TX
 
 **EPA Facility ID:** 100000081243
 

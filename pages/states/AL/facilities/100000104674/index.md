@@ -1,6 +1,6 @@
-# Unknown
+# Dothan Utilities Beaver Creek WWTP
 
-**Location:** Unknown, AL
+**Location:** Dothan, AL
 
 **EPA Facility ID:** 100000104674
 

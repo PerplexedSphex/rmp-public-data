@@ -1,6 +1,6 @@
-# Unknown
+# Custer Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Custer City, OK
 
 **EPA Facility ID:** 100000060523
 

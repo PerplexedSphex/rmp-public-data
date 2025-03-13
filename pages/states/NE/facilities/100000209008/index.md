@@ -1,6 +1,6 @@
-# Unknown
+# Ag Partners Cooperative, Inc.-Humboldt
 
-**Location:** Unknown, NE
+**Location:** Humboldt, NE
 
 **EPA Facility ID:** 100000209008
 

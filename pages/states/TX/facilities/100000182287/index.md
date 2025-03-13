@@ -1,6 +1,6 @@
-# Unknown
+# RHG Madisonville Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Madisonville, TX
 
 **EPA Facility ID:** 100000182287
 

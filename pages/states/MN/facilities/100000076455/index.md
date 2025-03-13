@@ -1,6 +1,6 @@
-# Unknown
+# American Crystal Sugar Company - East Grand Forks
 
-**Location:** Unknown, MN
+**Location:** East Grand Forks, MN
 
 **EPA Facility ID:** 100000076455
 

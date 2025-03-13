@@ -1,6 +1,6 @@
-# Unknown
+# Schwan's MaMa Rosa's, LLC
 
-**Location:** Unknown, OH
+**Location:** Sidney, OH
 
 **EPA Facility ID:** 100000092464
 

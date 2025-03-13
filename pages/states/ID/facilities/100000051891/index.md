@@ -1,6 +1,6 @@
-# Unknown
+# Western Farm Service, Buhl
 
-**Location:** Unknown, ID
+**Location:** Buhl, ID
 
 **EPA Facility ID:** 100000051891
 

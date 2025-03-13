@@ -1,6 +1,6 @@
-# Unknown
+# Shoup Gas Processing and Fractionation Plant
 
-**Location:** Unknown, TX
+**Location:** Corpus Christi, TX
 
 **EPA Facility ID:** 100000089281
 

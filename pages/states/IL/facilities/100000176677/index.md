@@ -1,6 +1,6 @@
-# Unknown
+# C & F Packing
 
-**Location:** Unknown, IL
+**Location:** Lake Villa, IL
 
 **EPA Facility ID:** 100000176677
 

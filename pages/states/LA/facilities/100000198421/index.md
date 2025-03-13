@@ -1,6 +1,6 @@
-# Unknown
+# City of Bogalusa Well Site #2
 
-**Location:** Unknown, LA
+**Location:** Bogalusa, LA
 
 **EPA Facility ID:** 100000198421
 

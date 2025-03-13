@@ -1,6 +1,6 @@
-# Unknown
+# Wilcox Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Hallettsville, TX
 
 **EPA Facility ID:** 100000145746
 

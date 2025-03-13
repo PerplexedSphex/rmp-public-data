@@ -1,6 +1,6 @@
-# Unknown
+# TYSON FOODS, INC. (M/O EAST) FAYETTEVILLE, AR.
 
-**Location:** Unknown, AR
+**Location:** FAYETTEVILLE, AR
 
 **EPA Facility ID:** 100000054308
 

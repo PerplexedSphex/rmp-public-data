@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - St. Thomas
 
-**Location:** Unknown, ND
+**Location:** St.  Thomas, ND
 
 **EPA Facility ID:** 100000144505
 

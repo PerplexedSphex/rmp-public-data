@@ -1,6 +1,6 @@
-# Unknown
+# Equistar Chemicals-LaPorte
 
-**Location:** Unknown, TX
+**Location:** LaPorte, TX
 
 **EPA Facility ID:** 100000152498
 

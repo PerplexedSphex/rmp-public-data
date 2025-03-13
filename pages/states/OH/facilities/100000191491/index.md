@@ -1,6 +1,6 @@
-# Unknown
+# ISP Lima LLC
 
-**Location:** Unknown, OH
+**Location:** Lima, OH
 
 **EPA Facility ID:** 100000191491
 

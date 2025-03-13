@@ -1,6 +1,6 @@
-# Unknown
+# Clinton Water Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Foss, OK
 
 **EPA Facility ID:** 100000145158
 

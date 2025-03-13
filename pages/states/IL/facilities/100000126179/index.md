@@ -1,6 +1,6 @@
-# Unknown
+# Mason City, IL 723 Satellite
 
-**Location:** Unknown, IL
+**Location:** Mason City, IL
 
 **EPA Facility ID:** 100000126179
 

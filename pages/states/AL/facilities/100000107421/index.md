@@ -1,6 +1,6 @@
-# Unknown
+# Wright Smith, Jr. Wastewater Treatment Facility
 
-**Location:** Unknown, AL
+**Location:** Mobile, AL
 
 **EPA Facility ID:** 100000107421
 

@@ -1,6 +1,6 @@
-# Unknown
+# Brewster. Rupert, Idaho
 
-**Location:** Unknown, ID
+**Location:** Rupert, ID
 
 **EPA Facility ID:** 100000025457
 

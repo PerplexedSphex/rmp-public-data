@@ -1,6 +1,6 @@
-# Unknown
+# Trinseo LLC
 
-**Location:** Unknown, GA
+**Location:** Dalton, GA
 
 **EPA Facility ID:** 100000037346
 

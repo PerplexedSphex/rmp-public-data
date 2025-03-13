@@ -1,6 +1,6 @@
-# Unknown
+# City of Cohoes Water Filtration Plant
 
-**Location:** Unknown, NY
+**Location:** Cohoes, NY
 
 **EPA Facility ID:** 100000170156
 

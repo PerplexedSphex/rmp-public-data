@@ -1,6 +1,6 @@
-# Unknown
+# Georgia-Pacific Wauna Mill
 
-**Location:** Unknown, OR
+**Location:** CLATSKANIE, OR
 
 **EPA Facility ID:** 100000056976
 

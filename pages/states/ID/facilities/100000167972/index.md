@@ -1,6 +1,6 @@
-# Unknown
+# Soda Springs Elev. Inc. North
 
-**Location:** Unknown, ID
+**Location:** Soda Springs, ID
 
 **EPA Facility ID:** 100000167972
 

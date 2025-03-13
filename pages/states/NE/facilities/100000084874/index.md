@@ -1,6 +1,6 @@
-# Unknown
+# All Points Cooperative - Gothenburg East NH3
 
-**Location:** Unknown, NE
+**Location:** Gothenburg, NE
 
 **EPA Facility ID:** 100000084874
 

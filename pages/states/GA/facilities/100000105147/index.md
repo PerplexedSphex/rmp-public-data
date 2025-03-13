@@ -1,6 +1,6 @@
-# Unknown
+# Potato Creek Water Pollution Control Plant
 
-**Location:** Unknown, GA
+**Location:** Griffin, GA
 
 **EPA Facility ID:** 100000105147
 

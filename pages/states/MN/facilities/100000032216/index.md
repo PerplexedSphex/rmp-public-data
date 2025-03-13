@@ -1,6 +1,6 @@
-# Unknown
+# LAKESIDE FOODS, INC.
 
-**Location:** Unknown, MN
+**Location:** BROOTEN, MN
 
 **EPA Facility ID:** 100000032216
 

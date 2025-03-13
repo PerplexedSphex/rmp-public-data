@@ -1,6 +1,6 @@
-# Unknown
+# Gladewater Terminal
 
-**Location:** Unknown, TX
+**Location:** Warren City, TX
 
 **EPA Facility ID:** 100000067018
 

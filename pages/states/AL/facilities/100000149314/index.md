@@ -1,6 +1,6 @@
-# Unknown
+# Technical Propellants, Inc.-Claiborne, AL Plant
 
-**Location:** Unknown, AL
+**Location:** Claiborne, AL
 
 **EPA Facility ID:** 100000149314
 

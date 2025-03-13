@@ -1,6 +1,6 @@
-# Unknown
+# TOYO TANSO USA, INC.
 
-**Location:** Unknown, OR
+**Location:** TROUTDALE, OR
 
 **EPA Facility ID:** 100000123001
 

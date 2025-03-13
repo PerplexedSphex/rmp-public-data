@@ -1,6 +1,6 @@
-# Unknown
+# Elmet Technologies Inc.
 
-**Location:** Unknown, ME
+**Location:** Lewiston, ME
 
 **EPA Facility ID:** 100000058698
 

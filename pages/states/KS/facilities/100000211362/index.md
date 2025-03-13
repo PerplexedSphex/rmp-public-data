@@ -1,6 +1,6 @@
-# Unknown
+# Goff NH3
 
-**Location:** Unknown, KS
+**Location:** Goff, KS
 
 **EPA Facility ID:** 100000211362
 

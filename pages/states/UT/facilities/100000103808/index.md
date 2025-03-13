@@ -1,6 +1,6 @@
-# Unknown
+# Genpak LLC - Cedar City
 
-**Location:** Unknown, UT
+**Location:** Cedar City, UT
 
 **EPA Facility ID:** 100000103808
 

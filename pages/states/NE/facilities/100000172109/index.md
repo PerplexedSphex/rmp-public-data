@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Elk Creek
 
-**Location:** Unknown, NE
+**Location:** Elk Creek, NE
 
 **EPA Facility ID:** 100000172109
 

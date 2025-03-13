@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South, Inc.
 
-**Location:** Unknown, KY
+**Location:** Georgetown, KY
 
 **EPA Facility ID:** 100000194531
 

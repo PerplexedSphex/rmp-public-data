@@ -1,6 +1,6 @@
-# Unknown
+# Lake Youngs Water Treatment Plant
 
-**Location:** Unknown, WA
+**Location:** Renton, WA
 
 **EPA Facility ID:** 100000014389
 

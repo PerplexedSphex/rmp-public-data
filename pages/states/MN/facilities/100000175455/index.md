@@ -1,6 +1,6 @@
-# Unknown
+# Mid-Valley Cooperative
 
-**Location:** Unknown, MN
+**Location:** Crookston, MN
 
 **EPA Facility ID:** 100000175455
 

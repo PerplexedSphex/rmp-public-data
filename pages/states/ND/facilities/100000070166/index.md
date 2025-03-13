@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Devils Lake
 
-**Location:** Unknown, ND
+**Location:** Devils Lake, ND
 
 **EPA Facility ID:** 100000070166
 

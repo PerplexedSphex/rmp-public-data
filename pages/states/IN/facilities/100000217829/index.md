@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Huntington, IN Fac
 
-**Location:** Unknown, IN
+**Location:** Huntington, IN
 
 **EPA Facility ID:** 100000217829
 

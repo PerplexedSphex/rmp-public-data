@@ -1,6 +1,6 @@
-# Unknown
+# City of Clyde Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** CLYDE, OH
 
 **EPA Facility ID:** 100000032635
 

@@ -1,6 +1,6 @@
-# Unknown
+# BOC Gases - Lumber City
 
-**Location:** Unknown, GA
+**Location:** Lumber City, GA
 
 **EPA Facility ID:** 100000025956
 

@@ -1,6 +1,6 @@
-# Unknown
+# Stepan Company
 
-**Location:** Unknown, IL
+**Location:** Elwood, IL
 
 **EPA Facility ID:** 100000074117
 

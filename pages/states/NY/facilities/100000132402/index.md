@@ -1,6 +1,6 @@
-# Unknown
+# HEWITT BROTHERS, INC.
 
-**Location:** Unknown, NY
+**Location:** LOCKE, NY
 
 **EPA Facility ID:** 100000132402
 

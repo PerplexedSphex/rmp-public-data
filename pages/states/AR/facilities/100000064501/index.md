@@ -1,6 +1,6 @@
-# Unknown
+# Texarkana Plant
 
-**Location:** Unknown, AR
+**Location:** Texarkana, AR
 
 **EPA Facility ID:** 100000064501
 

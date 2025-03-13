@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Larimore
 
-**Location:** Unknown, ND
+**Location:** Larimore, ND
 
 **EPA Facility ID:** 100000101114
 

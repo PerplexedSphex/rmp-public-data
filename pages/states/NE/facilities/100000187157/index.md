@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Bertrand Trailer Storage
 
-**Location:** Unknown, NE
+**Location:** Bertrand, NE
 
 **EPA Facility ID:** 100000187157
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lott Ranch J-T Plant
 
-**Location:** Unknown, TX
+**Location:** Briscoe, TX
 
 **EPA Facility ID:** 100000197592
 

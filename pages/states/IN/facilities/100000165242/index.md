@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant No. 2
 
-**Location:** Unknown, IN
+**Location:** Columbus, IN
 
 **EPA Facility ID:** 100000165242
 

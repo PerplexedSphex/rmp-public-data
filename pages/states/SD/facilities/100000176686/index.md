@@ -1,6 +1,6 @@
-# Unknown
+# Dakota Ethanol
 
-**Location:** Unknown, SD
+**Location:** Wentworth, SD
 
 **EPA Facility ID:** 100000176686
 

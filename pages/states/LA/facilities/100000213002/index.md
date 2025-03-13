@@ -1,6 +1,6 @@
-# Unknown
+# LBC Baton Rouge, LLC
 
-**Location:** Unknown, LA
+**Location:** Sunshine, LA
 
 **EPA Facility ID:** 100000213002
 

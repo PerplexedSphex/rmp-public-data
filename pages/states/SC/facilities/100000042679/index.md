@@ -1,6 +1,6 @@
-# Unknown
+# Wilson Creek WWTP
 
-**Location:** Unknown, SC
+**Location:** Greenwood, SC
 
 **EPA Facility ID:** 100000042679
 

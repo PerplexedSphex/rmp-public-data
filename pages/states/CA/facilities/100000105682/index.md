@@ -1,6 +1,6 @@
-# Unknown
+# Encina Water Pollution Control Facility
 
-**Location:** Unknown, CA
+**Location:** Carlsbad, CA
 
 **EPA Facility ID:** 100000105682
 

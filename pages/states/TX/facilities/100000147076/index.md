@@ -1,6 +1,6 @@
-# Unknown
+# Kings Creek Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Terrell, TX
 
 **EPA Facility ID:** 100000147076
 

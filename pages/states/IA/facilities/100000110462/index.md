@@ -1,6 +1,6 @@
-# Unknown
+# Mason City Water Department
 
-**Location:** Unknown, IA
+**Location:** Mason City, IA
 
 **EPA Facility ID:** 100000110462
 

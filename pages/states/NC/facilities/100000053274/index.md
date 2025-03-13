@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Chemical Company
 
-**Location:** Unknown, NC
+**Location:** Wilmington, NC
 
 **EPA Facility ID:** 100000053274
 

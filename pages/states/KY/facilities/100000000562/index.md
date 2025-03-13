@@ -1,6 +1,6 @@
-# Unknown
+# Suiza Dairy Group, LLC DBA Louis Trauth Dairy, LLC
 
-**Location:** Unknown, KY
+**Location:** Newport, KY
 
 **EPA Facility ID:** 100000000562
 

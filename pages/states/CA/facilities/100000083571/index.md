@@ -1,6 +1,6 @@
-# Unknown
+# Lake of the Pines WWTP
 
-**Location:** Unknown, CA
+**Location:** Auburn, CA
 
 **EPA Facility ID:** 100000083571
 

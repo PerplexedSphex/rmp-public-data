@@ -1,6 +1,6 @@
-# Unknown
+# Finney County, KS Facility
 
-**Location:** Unknown, KS
+**Location:** Holcomb, KS
 
 **EPA Facility ID:** 100000087568
 

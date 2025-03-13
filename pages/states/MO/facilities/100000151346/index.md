@@ -1,6 +1,6 @@
-# Unknown
+# City of Butler Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Butler, MO
 
 **EPA Facility ID:** 100000151346
 

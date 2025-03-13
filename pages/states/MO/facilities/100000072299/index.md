@@ -1,6 +1,6 @@
-# Unknown
+# Chain of Rocks Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** St. Louis, MO
 
 **EPA Facility ID:** 100000072299
 

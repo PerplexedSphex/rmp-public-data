@@ -1,6 +1,6 @@
-# Unknown
+# Darling Ingredients Inc. - Mifflintown Division
 
-**Location:** Unknown, PA
+**Location:** Mifflintown, PA
 
 **EPA Facility ID:** 100000234098
 

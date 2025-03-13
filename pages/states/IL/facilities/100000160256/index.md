@@ -1,6 +1,6 @@
-# Unknown
+# Acid Products Company Inc.
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000160256
 

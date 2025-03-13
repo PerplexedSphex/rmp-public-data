@@ -1,6 +1,6 @@
-# Unknown
+# Hawley Cooperative Elevator Company
 
-**Location:** Unknown, MN
+**Location:** Hawley, MN
 
 **EPA Facility ID:** 100000095988
 

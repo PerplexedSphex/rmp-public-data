@@ -1,6 +1,6 @@
-# Unknown
+# Weed Street Wastewater Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** St. Marys, GA
 
 **EPA Facility ID:** 100000131617
 

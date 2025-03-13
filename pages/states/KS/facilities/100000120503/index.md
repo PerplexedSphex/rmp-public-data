@@ -1,6 +1,6 @@
-# Unknown
+# United Suppliers, Inc--Salina Ks
 
-**Location:** Unknown, KS
+**Location:** Salina, KS
 
 **EPA Facility ID:** 100000120503
 

@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company, Wyaconda, MO (Retail)
 
-**Location:** Unknown, MO
+**Location:** Wyaconda, MO
 
 **EPA Facility ID:** 100000191918
 

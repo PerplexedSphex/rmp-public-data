@@ -1,6 +1,6 @@
-# Unknown
+# Illinois City, IL 402 Satellite
 
-**Location:** Unknown, IL
+**Location:** Illinois City, IL
 
 **EPA Facility ID:** 100000009867
 

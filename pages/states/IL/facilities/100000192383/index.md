@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-West Salem
 
-**Location:** Unknown, IL
+**Location:** West Salem, IL
 
 **EPA Facility ID:** 100000192383
 

@@ -1,6 +1,6 @@
-# Unknown
+# Viking Chemical Co.
 
-**Location:** Unknown, IL
+**Location:** Rockford, IL
 
 **EPA Facility ID:** 100000136239
 

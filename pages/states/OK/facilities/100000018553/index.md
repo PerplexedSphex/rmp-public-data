@@ -1,6 +1,6 @@
-# Unknown
+# W. B Johnston Grain - Albin Branch
 
-**Location:** Unknown, OK
+**Location:** Medford, OK
 
 **EPA Facility ID:** 100000018553
 

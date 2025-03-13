@@ -1,6 +1,6 @@
-# Unknown
+# WEST HICKMAN CREEK WWTP
 
-**Location:** Unknown, KY
+**Location:** NICHOLASVILLE, KY
 
 **EPA Facility ID:** 100000099305
 

@@ -1,6 +1,6 @@
-# Unknown
+# Satanta Gas Plant
 
-**Location:** Unknown, KS
+**Location:** Ulysses, KS
 
 **EPA Facility ID:** 100000021781
 

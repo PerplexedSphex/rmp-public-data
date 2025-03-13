@@ -1,6 +1,6 @@
-# Unknown
+# Planters CO OP - Edroy
 
-**Location:** Unknown, TX
+**Location:** Edroy, TX
 
 **EPA Facility ID:** 100000142366
 

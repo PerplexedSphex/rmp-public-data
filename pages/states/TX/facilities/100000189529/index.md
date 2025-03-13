@@ -1,6 +1,6 @@
-# Unknown
+# Lone Star Beef Processors, Inc.
 
-**Location:** Unknown, TX
+**Location:** San Angelo, TX
 
 **EPA Facility ID:** 100000189529
 

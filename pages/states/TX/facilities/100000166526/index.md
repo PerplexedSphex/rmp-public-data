@@ -1,6 +1,6 @@
-# Unknown
+# Rio Grande City Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Rio Grande City, TX
 
 **EPA Facility ID:** 100000166526
 

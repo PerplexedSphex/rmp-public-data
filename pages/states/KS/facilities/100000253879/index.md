@@ -1,6 +1,6 @@
-# Unknown
+# Hilmar Cheese Company - Dodge City
 
-**Location:** Unknown, KS
+**Location:** Dodge City, KS
 
 **EPA Facility ID:** 100000253879
 

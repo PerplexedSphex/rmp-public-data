@@ -1,6 +1,6 @@
-# Unknown
+# Steamboat Geothermal Power Complex
 
-**Location:** Unknown, NV
+**Location:** Reno, NV
 
 **EPA Facility ID:** 100000028356
 

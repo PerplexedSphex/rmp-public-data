@@ -1,6 +1,6 @@
-# Unknown
+# Foster Farms Livingston Deli
 
-**Location:** Unknown, CA
+**Location:** Livingston, CA
 
 **EPA Facility ID:** 100000255779
 

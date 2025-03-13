@@ -1,6 +1,6 @@
-# Unknown
+# Superior Coop Elevator Company
 
-**Location:** Unknown, IA
+**Location:** Spirit Lake, IA
 
 **EPA Facility ID:** 100000168739
 

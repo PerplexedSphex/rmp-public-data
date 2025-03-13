@@ -1,6 +1,6 @@
-# Unknown
+# South Water Plant
 
-**Location:** Unknown, OH
+**Location:** Lancaster, OH
 
 **EPA Facility ID:** 100000185676
 

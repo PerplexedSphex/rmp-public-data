@@ -1,6 +1,6 @@
-# Unknown
+# Lampasas Butane Gas Co - Copperas Cove
 
-**Location:** Unknown, TX
+**Location:** Copperas Cove, TX
 
 **EPA Facility ID:** 100000009466
 

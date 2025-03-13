@@ -1,6 +1,6 @@
-# Unknown
+# Reddy Ice #326-Anniston
 
-**Location:** Unknown, AL
+**Location:** Anniston, AL
 
 **EPA Facility ID:** 100000186069
 

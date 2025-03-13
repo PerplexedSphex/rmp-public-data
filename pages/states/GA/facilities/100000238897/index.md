@@ -1,6 +1,6 @@
-# Unknown
+# Southern Chemical & Textiles, Inc.
 
-**Location:** Unknown, GA
+**Location:** Dalton, GA
 
 **EPA Facility ID:** 100000238897
 

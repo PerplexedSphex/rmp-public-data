@@ -1,6 +1,6 @@
-# Unknown
+# Cimarron, KS 707
 
-**Location:** Unknown, KS
+**Location:** Cimarron, KS
 
 **EPA Facility ID:** 100000026615
 

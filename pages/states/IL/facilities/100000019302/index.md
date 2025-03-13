@@ -1,6 +1,6 @@
-# Unknown
+# Illini FS - Paris NH3
 
-**Location:** Unknown, IL
+**Location:** Paris, IL
 
 **EPA Facility ID:** 100000019302
 

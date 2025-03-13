@@ -1,6 +1,6 @@
-# Unknown
+# Lynchburg Wastewater Treatment Plant
 
-**Location:** Unknown, VA
+**Location:** Lynchburg, VA
 
 **EPA Facility ID:** 100000061675
 

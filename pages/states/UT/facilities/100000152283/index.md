@@ -1,6 +1,6 @@
-# Unknown
+# Magna Water District WWTP
 
-**Location:** Unknown, UT
+**Location:** Magna, UT
 
 **EPA Facility ID:** 100000152283
 

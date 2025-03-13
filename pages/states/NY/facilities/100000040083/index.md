@@ -1,6 +1,6 @@
-# Unknown
+# Herkimer County WWTP
 
-**Location:** Unknown, NY
+**Location:** Mohawk, NY
 
 **EPA Facility ID:** 100000040083
 

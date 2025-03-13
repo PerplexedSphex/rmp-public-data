@@ -1,6 +1,6 @@
-# Unknown
+# Westlake US 2 LLC, Lake Charles Plant
 
-**Location:** Unknown, LA
+**Location:** Westlake, LA
 
 **EPA Facility ID:** 100000082082
 

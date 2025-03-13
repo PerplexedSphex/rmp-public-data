@@ -1,6 +1,6 @@
-# Unknown
+# Heritage Thermal Services
 
-**Location:** Unknown, OH
+**Location:** East Liverpool, OH
 
 **EPA Facility ID:** 100000068099
 

@@ -1,6 +1,6 @@
-# Unknown
+# Pedricktown Cogeneration Plant
 
-**Location:** Unknown, NJ
+**Location:** Pedricktown, NJ
 
 **EPA Facility ID:** 100000131831
 

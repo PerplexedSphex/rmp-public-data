@@ -1,6 +1,6 @@
-# Unknown
+# Cañon City Water Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Cañon City, CO
 
 **EPA Facility ID:** 100000153549
 

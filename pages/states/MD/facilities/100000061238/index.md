@@ -1,6 +1,6 @@
-# Unknown
+# Havre de Grace Wastewater Treatment Facility
 
-**Location:** Unknown, MD
+**Location:** Havre de Grace, MD
 
 **EPA Facility ID:** 100000061238
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mason City Terminal
 
-**Location:** Unknown, IA
+**Location:** Mason City (Emery), IA
 
 **EPA Facility ID:** 100000230742
 

@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Continental, OH Fac
 
-**Location:** Unknown, OH
+**Location:** Latty, OH
 
 **EPA Facility ID:** 100000182508
 

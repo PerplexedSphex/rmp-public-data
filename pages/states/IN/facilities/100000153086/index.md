@@ -1,6 +1,6 @@
-# Unknown
+# TRICO FARM SUPPLIES INC
 
-**Location:** Unknown, IN
+**Location:** Elizabethtown, IN
 
 **EPA Facility ID:** 100000153086
 

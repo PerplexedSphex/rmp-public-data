@@ -1,6 +1,6 @@
-# Unknown
+# Clinton Wastewater Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Clinton, OK
 
 **EPA Facility ID:** 100000140126
 

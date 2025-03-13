@@ -1,6 +1,6 @@
-# Unknown
+# Luray Elevator - West Plant
 
-**Location:** Unknown, KS
+**Location:** Luray, KS
 
 **EPA Facility ID:** 100000173395
 

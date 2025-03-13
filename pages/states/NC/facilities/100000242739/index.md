@@ -1,6 +1,6 @@
-# Unknown
+# Rapid Xchange
 
-**Location:** Unknown, NC
+**Location:** Clinton, NC
 
 **EPA Facility ID:** 100000242739
 

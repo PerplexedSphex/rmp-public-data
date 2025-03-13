@@ -1,6 +1,6 @@
-# Unknown
+# Owensboro Specialty Polymers
 
-**Location:** Unknown, KY
+**Location:** Owensboro, KY
 
 **EPA Facility ID:** 100000028766
 

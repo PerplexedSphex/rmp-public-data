@@ -1,6 +1,6 @@
-# Unknown
+# Aldi Incorporated Springfield Division Warehouse
 
-**Location:** Unknown, OH
+**Location:** Springfield, OH
 
 **EPA Facility ID:** 100000141125
 

@@ -1,6 +1,6 @@
-# Unknown
+# Momentive Specialty Chemicals, Inc.
 
-**Location:** Unknown, IL
+**Location:** Carpentersville, IL
 
 **EPA Facility ID:** 100000041457
 

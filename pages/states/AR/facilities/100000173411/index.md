@@ -1,6 +1,6 @@
-# Unknown
+# Batesville Cold Storage
 
-**Location:** Unknown, AR
+**Location:** Batesville, AR
 
 **EPA Facility ID:** 100000173411
 

@@ -1,6 +1,6 @@
-# Unknown
+# HF Sinclair El Dorado Refining LLC
 
-**Location:** Unknown, KS
+**Location:** El Dorado, KS
 
 **EPA Facility ID:** 100000106164
 

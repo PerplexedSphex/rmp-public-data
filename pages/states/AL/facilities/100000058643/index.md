@@ -1,6 +1,6 @@
-# Unknown
+# Hatters Pond Gas Plant
 
-**Location:** Unknown, AL
+**Location:** Creola, AL
 
 **EPA Facility ID:** 100000058643
 

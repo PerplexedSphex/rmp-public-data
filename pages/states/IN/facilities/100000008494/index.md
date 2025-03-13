@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Fresh Meats, Inc.-Logansport, IN.
 
-**Location:** Unknown, IN
+**Location:** Logansport, IN
 
 **EPA Facility ID:** 100000008494
 

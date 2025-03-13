@@ -1,6 +1,6 @@
-# Unknown
+# Charlotte Western Railroad
 
-**Location:** Unknown, NC
+**Location:** Gastonia, NC
 
 **EPA Facility ID:** 100000256634
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mid-West Fertilizer Inc. 
 
-**Location:** Unknown, KS
+**Location:** Girard, KS
 
 **EPA Facility ID:** 100000042045
 

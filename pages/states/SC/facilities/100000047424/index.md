@@ -1,6 +1,6 @@
-# Unknown
+# Lake Murray WTP
 
-**Location:** Unknown, SC
+**Location:** Lexington, SC
 
 **EPA Facility ID:** 100000047424
 

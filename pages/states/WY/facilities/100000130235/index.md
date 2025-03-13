@@ -1,6 +1,6 @@
-# Unknown
+# Sand Dunes Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Glenrock, WY
 
 **EPA Facility ID:** 100000130235
 

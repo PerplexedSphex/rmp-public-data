@@ -1,6 +1,6 @@
-# Unknown
+# Walnut Greenfield Site
 
-**Location:** Unknown, IL
+**Location:** WALNUT, IL
 
 **EPA Facility ID:** 100000246067
 

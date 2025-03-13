@@ -1,6 +1,6 @@
-# Unknown
+# Jamestown Wastewater Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Jamestown, KY
 
 **EPA Facility ID:** 100000116929
 

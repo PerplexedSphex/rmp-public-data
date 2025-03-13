@@ -1,6 +1,6 @@
-# Unknown
+# Manatee Chemical Company, Inc.
 
-**Location:** Unknown, FL
+**Location:** Palmetto, FL
 
 **EPA Facility ID:** 100000100687
 

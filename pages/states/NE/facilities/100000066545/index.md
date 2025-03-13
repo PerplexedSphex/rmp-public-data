@@ -1,6 +1,6 @@
-# Unknown
+# Country Partners Cooperative - Cozad North
 
-**Location:** Unknown, NE
+**Location:** Cozad, NE
 
 **EPA Facility ID:** 100000066545
 

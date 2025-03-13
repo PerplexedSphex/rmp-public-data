@@ -1,6 +1,6 @@
-# Unknown
+# BLOOMINGTON - CHEMREX
 
-**Location:** Unknown, MN
+**Location:** BLOOMINGTON, MN
 
 **EPA Facility ID:** 100000162405
 

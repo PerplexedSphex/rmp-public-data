@@ -1,6 +1,6 @@
-# Unknown
+# SWEPCO  Wilkes Power Station
 
-**Location:** Unknown, TX
+**Location:** Avinger, TX
 
 **EPA Facility ID:** 100000011694
 

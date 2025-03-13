@@ -1,6 +1,6 @@
-# Unknown
+# Sugar Creek Packing Co.- WCH
 
-**Location:** Unknown, OH
+**Location:** Washington C.H., OH
 
 **EPA Facility ID:** 100000199992
 

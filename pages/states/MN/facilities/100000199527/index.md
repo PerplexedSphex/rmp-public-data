@@ -1,6 +1,6 @@
-# Unknown
+# Faribault Energy Park
 
-**Location:** Unknown, MN
+**Location:** Faribault, MN, MN
 
 **EPA Facility ID:** 100000199527
 

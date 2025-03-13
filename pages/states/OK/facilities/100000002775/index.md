@@ -1,6 +1,6 @@
-# Unknown
+# Great Bend Coop Assn. DBA American Plains Coop Ame
 
-**Location:** Unknown, OK
+**Location:** Ames, OK
 
 **EPA Facility ID:** 100000002775
 

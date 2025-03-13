@@ -1,6 +1,6 @@
-# Unknown
+# Lear Corporation
 
-**Location:** Unknown, MI
+**Location:** Farwell, MI
 
 **EPA Facility ID:** 100000191053
 

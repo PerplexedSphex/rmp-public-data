@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant
 
-**Location:** Unknown, WV
+**Location:** Buckhannon, WV
 
 **EPA Facility ID:** 100000045578
 

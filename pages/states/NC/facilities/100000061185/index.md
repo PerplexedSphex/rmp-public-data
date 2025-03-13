@@ -1,6 +1,6 @@
-# Unknown
+# Brunswick Steam Electric Plant
 
-**Location:** Unknown, NC
+**Location:** Southport, NC
 
 **EPA Facility ID:** 100000061185
 

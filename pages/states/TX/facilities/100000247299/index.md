@@ -1,6 +1,6 @@
-# Unknown
+# Legacy Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** Midland, TX
 
 **EPA Facility ID:** 100000247299
 

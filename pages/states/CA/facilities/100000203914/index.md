@@ -1,6 +1,6 @@
-# Unknown
+# Banner-Taylor Chlorination Station
 
-**Location:** Unknown, CA
+**Location:** Nevada City, CA
 
 **EPA Facility ID:** 100000203914
 

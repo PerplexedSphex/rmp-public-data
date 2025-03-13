@@ -1,6 +1,6 @@
-# Unknown
+# Fairfield Water Treatment Plant
 
-**Location:** Unknown, IA
+**Location:** Fairfield, IA
 
 **EPA Facility ID:** 100000020755
 

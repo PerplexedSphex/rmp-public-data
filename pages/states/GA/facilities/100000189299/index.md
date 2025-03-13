@@ -1,6 +1,6 @@
-# Unknown
+# Washington GA Terminal
 
-**Location:** Unknown, GA
+**Location:** Washington, GA
 
 **EPA Facility ID:** 100000189299
 

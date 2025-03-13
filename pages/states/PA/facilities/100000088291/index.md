@@ -1,6 +1,6 @@
-# Unknown
+# Milton Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Milton, PA
 
 **EPA Facility ID:** 100000088291
 

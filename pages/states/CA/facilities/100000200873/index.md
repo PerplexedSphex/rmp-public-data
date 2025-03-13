@@ -1,6 +1,6 @@
-# Unknown
+# Mirant Potrero, LLC
 
-**Location:** Unknown, CA
+**Location:** San Francisco, CA
 
 **EPA Facility ID:** 100000200873
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lanxess Corporation - Charleston, SC Plant
 
-**Location:** Unknown, SC
+**Location:** Charleston, SC
 
 **EPA Facility ID:** 100000120451
 

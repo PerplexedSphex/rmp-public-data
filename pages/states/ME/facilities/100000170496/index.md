@@ -1,6 +1,6 @@
-# Unknown
+# Gas Supply Resources, Auburn Terminal
 
-**Location:** Unknown, ME
+**Location:** Auburn, ME
 
 **EPA Facility ID:** 100000170496
 

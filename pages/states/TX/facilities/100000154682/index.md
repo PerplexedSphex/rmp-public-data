@@ -1,6 +1,6 @@
-# Unknown
+# Southern Foods Group, LLC d/b/a Southwest Ice Crea
 
-**Location:** Unknown, TX
+**Location:** McKinney, TX
 
 **EPA Facility ID:** 100000154682
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rich Products Corporation - Waycross Facility
 
-**Location:** Unknown, GA
+**Location:** Waycross, GA
 
 **EPA Facility ID:** 100000200221
 

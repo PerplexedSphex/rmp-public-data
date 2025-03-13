@@ -1,6 +1,6 @@
-# Unknown
+# SilverEdge Co-op
 
-**Location:** Unknown, IA
+**Location:** Edgewood, IA
 
 **EPA Facility ID:** 100000016706
 

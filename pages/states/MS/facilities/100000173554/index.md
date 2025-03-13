@@ -1,6 +1,6 @@
-# Unknown
+# School Street Well
 
-**Location:** Unknown, MS
+**Location:** Ridgeland, MS
 
 **EPA Facility ID:** 100000173554
 

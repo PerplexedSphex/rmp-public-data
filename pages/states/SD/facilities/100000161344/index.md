@@ -1,6 +1,6 @@
-# Unknown
+# YALE FARMERS COOPERATIVE
 
-**Location:** Unknown, SD
+**Location:** YALE, SD
 
 **EPA Facility ID:** 100000161344
 

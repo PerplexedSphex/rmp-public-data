@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. - Bessemer
 
-**Location:** Unknown, AL
+**Location:** Bessemer, AL
 
 **EPA Facility ID:** 100000008706
 

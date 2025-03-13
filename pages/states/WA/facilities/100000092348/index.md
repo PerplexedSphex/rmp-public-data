@@ -1,6 +1,6 @@
-# Unknown
+# Great Western Chemical Company - Pasco
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000092348
 

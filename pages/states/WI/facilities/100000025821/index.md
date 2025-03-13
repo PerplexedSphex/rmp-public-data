@@ -1,6 +1,6 @@
-# Unknown
+# Aldrich Chemical Company, LLC - Sheboygan
 
-**Location:** Unknown, WI
+**Location:** Sheboygan Falls, WI
 
 **EPA Facility ID:** 100000025821
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wilson Industrial Sales Company
 
-**Location:** Unknown, IN
+**Location:** Goodland, IN
 
 **EPA Facility ID:** 100000221896
 

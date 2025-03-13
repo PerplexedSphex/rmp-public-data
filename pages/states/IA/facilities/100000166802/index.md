@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Chester
 
-**Location:** Unknown, IA
+**Location:** Chester, IA
 
 **EPA Facility ID:** 100000166802
 

@@ -1,6 +1,6 @@
-# Unknown
+# Hocking International Laboratories, LLC
 
-**Location:** Unknown, MN
+**Location:** Pipestone, MN
 
 **EPA Facility ID:** 100000236014
 

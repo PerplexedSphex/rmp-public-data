@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company - Pasco
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000171422
 

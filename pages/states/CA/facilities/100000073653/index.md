@@ -1,6 +1,6 @@
-# Unknown
+#  Earl Schmidt Filtration Plant
 
-**Location:** Unknown, CA
+**Location:** Castaic, CA
 
 **EPA Facility ID:** 100000073653
 

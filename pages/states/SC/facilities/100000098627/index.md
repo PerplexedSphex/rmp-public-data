@@ -1,6 +1,6 @@
-# Unknown
+# Columbia Case Ready
 
-**Location:** Unknown, SC
+**Location:** Columbia, SC
 
 **EPA Facility ID:** 100000098627
 

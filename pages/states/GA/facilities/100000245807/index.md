@@ -1,6 +1,6 @@
-# Unknown
+# A&D Foods
 
-**Location:** Unknown, GA
+**Location:** Duluth, GA
 
 **EPA Facility ID:** 100000245807
 

@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage, Smyrna
 
-**Location:** Unknown, TN
+**Location:** Smyrna, TN
 
 **EPA Facility ID:** 100000050473
 

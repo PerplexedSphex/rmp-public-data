@@ -1,6 +1,6 @@
-# Unknown
+# Givaudan Flavors Corporation -Carthage
 
-**Location:** Unknown, OH
+**Location:** Cincinnati, OH
 
 **EPA Facility ID:** 100000071995
 

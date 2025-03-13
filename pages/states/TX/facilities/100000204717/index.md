@@ -1,6 +1,6 @@
-# Unknown
+# Oak Grove Steam Electric Generation
 
-**Location:** Unknown, TX
+**Location:** Franklin, TX
 
 **EPA Facility ID:** 100000204717
 

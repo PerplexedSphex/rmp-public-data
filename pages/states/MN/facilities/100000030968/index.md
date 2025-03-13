@@ -1,6 +1,6 @@
-# Unknown
+# City of Fergus Falls Water Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Fergus Falls, MN
 
 **EPA Facility ID:** 100000030968
 

@@ -1,6 +1,6 @@
-# Unknown
+# Simplot U.S. Food Group Holdings, LLC -Idaho Plant
 
-**Location:** Unknown, ID
+**Location:** Caldwell, ID
 
 **EPA Facility ID:** 100000079817
 

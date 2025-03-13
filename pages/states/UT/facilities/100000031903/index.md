@@ -1,6 +1,6 @@
-# Unknown
+# Ardent Mills
 
-**Location:** Unknown, UT
+**Location:** Ogden, UT
 
 **EPA Facility ID:** 100000031903
 

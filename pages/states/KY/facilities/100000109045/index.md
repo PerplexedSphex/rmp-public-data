@@ -1,6 +1,6 @@
-# Unknown
+# Prairie Farms Dairy - Somerset
 
-**Location:** Unknown, KY
+**Location:** Somerset, KY
 
 **EPA Facility ID:** 100000109045
 

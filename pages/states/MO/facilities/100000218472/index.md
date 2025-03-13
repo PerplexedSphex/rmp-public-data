@@ -1,6 +1,6 @@
-# Unknown
+# Plaze, Incorporated
 
-**Location:** Unknown, MO
+**Location:** Pacific, MO
 
 **EPA Facility ID:** 100000218472
 

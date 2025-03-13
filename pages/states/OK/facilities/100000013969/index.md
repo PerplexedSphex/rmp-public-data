@@ -1,6 +1,6 @@
-# Unknown
+# L & L Farm Supply
 
-**Location:** Unknown, OK
+**Location:** Chattanooga, OK
 
 **EPA Facility ID:** 100000013969
 

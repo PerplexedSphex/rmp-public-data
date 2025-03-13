@@ -1,6 +1,6 @@
-# Unknown
+# Bloomfield, IA 2422 Satellite
 
-**Location:** Unknown, IA
+**Location:** Bloomfield, IA
 
 **EPA Facility ID:** 100000125508
 

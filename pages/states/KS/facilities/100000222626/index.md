@@ -1,6 +1,6 @@
-# Unknown
+# Goodland, KS 683 Satellite
 
-**Location:** Unknown, KS
+**Location:** Goodland, KS
 
 **EPA Facility ID:** 100000222626
 

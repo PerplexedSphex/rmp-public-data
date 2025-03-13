@@ -1,6 +1,6 @@
-# Unknown
+# Lafayette, IN 235
 
-**Location:** Unknown, IN
+**Location:** Lafayette, IN
 
 **EPA Facility ID:** 100000103336
 

@@ -1,6 +1,6 @@
-# Unknown
+# LaSalle County Farm Supply Co.  Earlville Facility
 
-**Location:** Unknown, IL
+**Location:** Earlville, IL
 
 **EPA Facility ID:** 100000024939
 

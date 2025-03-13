@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Belfield
 
-**Location:** Unknown, ND
+**Location:** Belfield, ND
 
 **EPA Facility ID:** 100000167598
 

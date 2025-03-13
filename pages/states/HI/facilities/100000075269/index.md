@@ -1,6 +1,6 @@
-# Unknown
+# Kihei WWTP
 
-**Location:** Unknown, HI
+**Location:** Kihei, HI
 
 **EPA Facility ID:** 100000075269
 

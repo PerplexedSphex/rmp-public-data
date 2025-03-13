@@ -1,6 +1,6 @@
-# Unknown
+# Front Royal Wastewater Treatment Plant
 
-**Location:** Unknown, VA
+**Location:** Front Royal, VA
 
 **EPA Facility ID:** 100000113067
 

@@ -1,6 +1,6 @@
-# Unknown
+# Denver Unit CO2 Recovery plant
 
-**Location:** Unknown, TX
+**Location:** Denver City, TX
 
 **EPA Facility ID:** 100000161415
 

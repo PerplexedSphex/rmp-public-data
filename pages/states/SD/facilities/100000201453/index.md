@@ -1,6 +1,6 @@
-# Unknown
+# NuGen Energy, LLC
 
-**Location:** Unknown, SD
+**Location:** Marion, SD
 
 **EPA Facility ID:** 100000201453
 

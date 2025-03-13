@@ -1,6 +1,6 @@
-# Unknown
+# Fox Cold Storage
 
-**Location:** Unknown, WA
+**Location:** Mattawa, WA
 
 **EPA Facility ID:** 100000233179
 

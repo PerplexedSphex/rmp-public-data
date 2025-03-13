@@ -1,6 +1,6 @@
-# Unknown
+# Sherwin-Williams Co-Fredericksburg DSC
 
-**Location:** Unknown, PA
+**Location:** Fredericksburg, PA
 
 **EPA Facility ID:** 100000144382
 

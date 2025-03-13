@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packaged Meats Corp. - St. Charles, IL
 
-**Location:** Unknown, IL
+**Location:** St. Charles, IL
 
 **EPA Facility ID:** 100000117517
 

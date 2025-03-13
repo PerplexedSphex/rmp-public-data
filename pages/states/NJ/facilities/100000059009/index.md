@@ -1,6 +1,6 @@
-# Unknown
+# Shweitzer-Mauduit International, Inc.
 
-**Location:** Unknown, NJ
+**Location:** Spotswood, NJ
 
 **EPA Facility ID:** 100000059009
 

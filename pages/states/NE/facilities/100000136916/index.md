@@ -1,6 +1,6 @@
-# Unknown
+# Maywood Coop Assn.  -  LOGAN  Branch
 
-**Location:** Unknown, NE
+**Location:** Stapelton, NE
 
 **EPA Facility ID:** 100000136916
 

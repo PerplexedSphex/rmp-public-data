@@ -1,6 +1,6 @@
-# Unknown
+# Sony Technology Center-Pittsburgh
 
-**Location:** Unknown, PA
+**Location:** East Huntingdon TWP, PA
 
 **EPA Facility ID:** 100000063502
 

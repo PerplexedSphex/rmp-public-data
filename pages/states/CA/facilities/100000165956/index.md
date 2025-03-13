@@ -1,6 +1,6 @@
-# Unknown
+# City Of Reedley Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Reedley, CA
 
 **EPA Facility ID:** 100000165956
 

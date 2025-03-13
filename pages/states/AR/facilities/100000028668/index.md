@@ -1,6 +1,6 @@
-# Unknown
+# Hitco Carbon Composites, Inc.
 
-**Location:** Unknown, AR
+**Location:** Arkadelphia, AR
 
 **EPA Facility ID:** 100000028668
 

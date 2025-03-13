@@ -1,6 +1,6 @@
-# Unknown
+# Hanson Cold Storage Co. - Decatur Division
 
-**Location:** Unknown, MI
+**Location:** Decatur, MI
 
 **EPA Facility ID:** 100000135374
 

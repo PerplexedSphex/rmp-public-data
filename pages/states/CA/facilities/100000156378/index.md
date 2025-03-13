@@ -1,6 +1,6 @@
-# Unknown
+# JR Simplot Company Helm Plant
 
-**Location:** Unknown, CA
+**Location:** Helm, CA
 
 **EPA Facility ID:** 100000156378
 

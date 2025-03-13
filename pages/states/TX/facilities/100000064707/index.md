@@ -1,6 +1,6 @@
-# Unknown
+# Waskom Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Waskom, TX
 
 **EPA Facility ID:** 100000064707
 

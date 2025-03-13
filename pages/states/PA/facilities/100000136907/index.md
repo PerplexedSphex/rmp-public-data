@@ -1,6 +1,6 @@
-# Unknown
+# Hydrol Chemical Company
 
-**Location:** Unknown, PA
+**Location:** Yeadon, PA
 
 **EPA Facility ID:** 100000136907
 

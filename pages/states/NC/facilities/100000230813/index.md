@@ -1,6 +1,6 @@
-# Unknown
+# Gordon Food Service Kannapolis
 
-**Location:** Unknown, NC
+**Location:** Concord, NC
 
 **EPA Facility ID:** 100000230813
 

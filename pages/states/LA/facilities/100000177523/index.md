@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Inc. Norco Facility
 
-**Location:** Unknown, LA
+**Location:** Norco, LA
 
 **EPA Facility ID:** 100000177523
 

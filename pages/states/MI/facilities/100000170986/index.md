@@ -1,6 +1,6 @@
-# Unknown
+# Welch Foods, Inc.
 
-**Location:** Unknown, MI
+**Location:** Lawton, MI
 
 **EPA Facility ID:** 100000170986
 

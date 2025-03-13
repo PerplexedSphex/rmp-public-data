@@ -1,6 +1,6 @@
-# Unknown
+# Emporia Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Emporia, KS
 
 **EPA Facility ID:** 100000055879
 

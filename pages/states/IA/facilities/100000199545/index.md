@@ -1,6 +1,6 @@
-# Unknown
+# Smith Fertilizer & Grain Company
 
-**Location:** Unknown, IA
+**Location:** Albia, IA
 
 **EPA Facility ID:** 100000199545
 

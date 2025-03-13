@@ -1,6 +1,6 @@
-# Unknown
+# Amboy, IN 536
 
-**Location:** Unknown, IN
+**Location:** Amboy, IN
 
 **EPA Facility ID:** 100000116705
 

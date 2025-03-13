@@ -1,6 +1,6 @@
-# Unknown
+# Bartlett Coop Assoc. (Oswego)
 
-**Location:** Unknown, KS
+**Location:** Oswego, KS
 
 **EPA Facility ID:** 100000065984
 

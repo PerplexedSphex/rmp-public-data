@@ -1,6 +1,6 @@
-# Unknown
+# Council Bluffs Water Works
 
-**Location:** Unknown, IA
+**Location:** Council Bluffs, IA
 
 **EPA Facility ID:** 100000018232
 

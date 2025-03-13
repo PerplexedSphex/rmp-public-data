@@ -1,6 +1,6 @@
-# Unknown
+# DP&L - Killen Electric Generating Station
 
-**Location:** Unknown, OH
+**Location:** Manchester, OH
 
 **EPA Facility ID:** 100000184123
 

@@ -1,6 +1,6 @@
-# Unknown
+# North Auburn Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Auburn, CA
 
 **EPA Facility ID:** 100000040289
 

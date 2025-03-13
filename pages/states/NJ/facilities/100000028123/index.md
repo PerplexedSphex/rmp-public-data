@@ -1,6 +1,6 @@
-# Unknown
+# Deltech Resin Company
 
-**Location:** Unknown, NJ
+**Location:** Newark, NJ
 
 **EPA Facility ID:** 100000028123
 

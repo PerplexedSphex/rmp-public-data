@@ -1,6 +1,6 @@
-# Unknown
+# Chem Gro of Houghton Inc. - West Point Facility
 
-**Location:** Unknown, IA
+**Location:** West Point, IA
 
 **EPA Facility ID:** 100000147548
 

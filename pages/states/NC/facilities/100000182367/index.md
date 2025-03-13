@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000182367
 

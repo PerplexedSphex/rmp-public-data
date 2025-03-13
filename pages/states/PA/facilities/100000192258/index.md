@@ -1,6 +1,6 @@
-# Unknown
+# Valspar Coatings - Lebanon
 
-**Location:** Unknown, PA
+**Location:** Lebanon, PA
 
 **EPA Facility ID:** 100000192258
 

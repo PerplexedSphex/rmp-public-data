@@ -1,6 +1,6 @@
-# Unknown
+# Brownell Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Carbondale, PA
 
 **EPA Facility ID:** 100000000269
 

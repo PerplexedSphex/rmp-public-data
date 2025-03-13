@@ -1,6 +1,6 @@
-# Unknown
+# Goose Creek Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** West Chester, PA
 
 **EPA Facility ID:** 100000091875
 

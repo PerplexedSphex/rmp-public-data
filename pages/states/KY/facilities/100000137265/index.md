@@ -1,6 +1,6 @@
-# Unknown
+# PAINTSVILLE WWTP
 
-**Location:** Unknown, KY
+**Location:** Paintsville, KY
 
 **EPA Facility ID:** 100000137265
 

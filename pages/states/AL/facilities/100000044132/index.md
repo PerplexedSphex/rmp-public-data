@@ -1,6 +1,6 @@
-# Unknown
+# P. B. & S. CHEMICAL COMPANY, INC. (39)
 
-**Location:** Unknown, AL
+**Location:** Lanett, AL
 
 **EPA Facility ID:** 100000044132
 

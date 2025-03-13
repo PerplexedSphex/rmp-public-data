@@ -1,6 +1,6 @@
-# Unknown
+# Lemoore Well #10 Chlorination Facility
 
-**Location:** Unknown, CA
+**Location:** Lemoore, CA
 
 **EPA Facility ID:** 100000133152
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Fergus Falls
 
-**Location:** Unknown, MN
+**Location:** Fergus Falls, MN
 
 **EPA Facility ID:** 100000070219
 

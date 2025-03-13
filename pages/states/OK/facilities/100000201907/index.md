@@ -1,6 +1,6 @@
-# Unknown
+# Tecumseh Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Tecumseh, OK
 
 **EPA Facility ID:** 100000201907
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mandan Fertilizer( Mandan Location)
 
-**Location:** Unknown, ND
+**Location:** Mandan, ND
 
 **EPA Facility ID:** 100000188236
 

@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company, Cordele Facility
 
-**Location:** Unknown, GA
+**Location:** Cordele, GA
 
 **EPA Facility ID:** 100000101374
 

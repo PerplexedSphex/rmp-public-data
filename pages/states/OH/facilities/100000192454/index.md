@@ -1,6 +1,6 @@
-# Unknown
+# Mennel Milling Company of Bucyrus
 
-**Location:** Unknown, OH
+**Location:** Bucyrus, OH
 
 **EPA Facility ID:** 100000192454
 

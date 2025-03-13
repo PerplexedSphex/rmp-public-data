@@ -1,6 +1,6 @@
-# Unknown
+# MacDermid, Inc.
 
-**Location:** Unknown, MI
+**Location:** Ferndale, MI
 
 **EPA Facility ID:** 100000184962
 

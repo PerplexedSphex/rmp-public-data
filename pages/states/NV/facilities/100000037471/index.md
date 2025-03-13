@@ -1,6 +1,6 @@
-# Unknown
+# Solo Cup, Inc
 
-**Location:** Unknown, NV
+**Location:** N Las Vegas, NV
 
 **EPA Facility ID:** 100000037471
 

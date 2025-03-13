@@ -1,6 +1,6 @@
-# Unknown
+# (10) The McGregor Company - Sprague Retail
 
-**Location:** Unknown, WA
+**Location:** SPRAGUE, WA
 
 **EPA Facility ID:** 100000120433
 

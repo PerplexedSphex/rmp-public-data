@@ -1,6 +1,6 @@
-# Unknown
+# AES Alamitos, LLC
 
-**Location:** Unknown, CA
+**Location:** Long Beach, CA
 
 **EPA Facility ID:** 100000115083
 

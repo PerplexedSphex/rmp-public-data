@@ -1,6 +1,6 @@
-# Unknown
+# Grain Processing Corporation Plant II
 
-**Location:** Unknown, IN
+**Location:** Washington, IN
 
 **EPA Facility ID:** 100000160826
 

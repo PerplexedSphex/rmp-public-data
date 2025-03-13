@@ -1,6 +1,6 @@
-# Unknown
+# Pure Pacific Organics, LLC
 
-**Location:** Unknown, CA
+**Location:** Greenfield, CA
 
 **EPA Facility ID:** 100000193667
 

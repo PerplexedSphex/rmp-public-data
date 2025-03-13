@@ -1,6 +1,6 @@
-# Unknown
+# Delaware City Wastewater Treatment Plant
 
-**Location:** Unknown, DE
+**Location:** Delaware City, DE
 
 **EPA Facility ID:** 100000041947
 

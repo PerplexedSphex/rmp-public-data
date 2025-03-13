@@ -1,6 +1,6 @@
-# Unknown
+# Truecore
 
-**Location:** Unknown, IN
+**Location:** Waterloo, IN
 
 **EPA Facility ID:** 100000246815
 

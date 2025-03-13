@@ -1,6 +1,6 @@
-# Unknown
+# ChampionX - Odessa Plant
 
-**Location:** Unknown, TX
+**Location:** Odessa, TX
 
 **EPA Facility ID:** 100000137602
 

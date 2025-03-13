@@ -1,6 +1,6 @@
-# Unknown
+# H. Burns Smith Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** New Kensington, PA
 
 **EPA Facility ID:** 100000136453
 

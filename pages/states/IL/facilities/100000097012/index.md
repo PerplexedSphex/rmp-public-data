@@ -1,6 +1,6 @@
-# Unknown
+# Henry Fertilizer
 
-**Location:** Unknown, IL
+**Location:** Henry, IL
 
 **EPA Facility ID:** 100000097012
 

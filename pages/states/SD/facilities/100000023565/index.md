@@ -1,6 +1,6 @@
-# Unknown
+# Mclaughlin facility
 
-**Location:** Unknown, SD
+**Location:** Mclaughlin, SD
 
 **EPA Facility ID:** 100000023565
 

@@ -1,6 +1,6 @@
-# Unknown
+# Entegris, Inc.
 
-**Location:** Unknown, CT
+**Location:** Danbury, CT
 
 **EPA Facility ID:** 100000234374
 

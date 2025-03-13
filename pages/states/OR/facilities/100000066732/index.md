@@ -1,6 +1,6 @@
-# Unknown
+# (41-P) The McGregor Company Pendleton Retail
 
-**Location:** Unknown, OR
+**Location:** Pendleton, OR
 
 **EPA Facility ID:** 100000066732
 

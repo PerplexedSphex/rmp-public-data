@@ -1,6 +1,6 @@
-# Unknown
+# WEST PLANT
 
-**Location:** Unknown, KS
+**Location:** PLAINS, KS
 
 **EPA Facility ID:** 100000006441
 

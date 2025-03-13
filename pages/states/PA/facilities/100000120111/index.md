@@ -1,6 +1,6 @@
-# Unknown
+# Ingram's Mill Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** West Chester, PA
 
 **EPA Facility ID:** 100000120111
 

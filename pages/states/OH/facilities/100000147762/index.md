@@ -1,6 +1,6 @@
-# Unknown
+# City of Piqua Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Piqua, OH
 
 **EPA Facility ID:** 100000147762
 

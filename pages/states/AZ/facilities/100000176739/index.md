@@ -1,6 +1,6 @@
-# Unknown
+# APS West Phoenix Power Plant
 
-**Location:** Unknown, AZ
+**Location:** Phoenix, AZ
 
 **EPA Facility ID:** 100000176739
 

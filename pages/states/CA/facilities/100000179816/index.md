@@ -1,6 +1,6 @@
-# Unknown
+# Sixth Street Chlorination Station
 
-**Location:** Unknown, CA
+**Location:** San Bernardino, CA
 
 **EPA Facility ID:** 100000179816
 

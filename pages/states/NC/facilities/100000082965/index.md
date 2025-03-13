@@ -1,6 +1,6 @@
-# Unknown
+# Water Filtration Plant
 
-**Location:** Unknown, NC
+**Location:** Wilkesboro, NC
 
 **EPA Facility ID:** 100000082965
 

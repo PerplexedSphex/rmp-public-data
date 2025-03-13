@@ -1,6 +1,6 @@
-# Unknown
+# Richard Miller Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Cincinnati, OH
 
 **EPA Facility ID:** 100000060024
 

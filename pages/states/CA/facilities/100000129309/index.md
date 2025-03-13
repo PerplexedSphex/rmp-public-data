@@ -1,6 +1,6 @@
-# Unknown
+# KIK Pool Additives, Inc.
 
-**Location:** Unknown, CA
+**Location:** Ontario, CA
 
 **EPA Facility ID:** 100000129309
 

@@ -1,6 +1,6 @@
-# Unknown
+# GRAINCO FS, Inc. South Ottawa
 
-**Location:** Unknown, IL
+**Location:** Ottawa, IL
 
 **EPA Facility ID:** 100000060881
 

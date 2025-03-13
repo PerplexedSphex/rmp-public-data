@@ -1,6 +1,6 @@
-# Unknown
+# GPGF Malta / Electronics
 
-**Location:** Unknown, NY
+**Location:** Malta, NY
 
 **EPA Facility ID:** 100000235792
 

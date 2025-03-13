@@ -1,6 +1,6 @@
-# Unknown
+# Rinchem Company LLC.  CSC 31
 
-**Location:** Unknown, UT
+**Location:** Salt Lake City, UT
 
 **EPA Facility ID:** 100000210513
 

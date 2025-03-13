@@ -1,6 +1,6 @@
-# Unknown
+# Cape Cod Ice
 
-**Location:** Unknown, RI
+**Location:** East Providence, RI
 
 **EPA Facility ID:** 100000218631
 

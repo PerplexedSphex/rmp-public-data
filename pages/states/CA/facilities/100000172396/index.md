@@ -1,6 +1,6 @@
-# Unknown
+# Pasadena Water & Power Broadway Power Plant
 
-**Location:** Unknown, CA
+**Location:** Pasadena, CA
 
 **EPA Facility ID:** 100000172396
 

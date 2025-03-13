@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Elkhart
 
-**Location:** Unknown, IA
+**Location:** Elkhart, IA
 
 **EPA Facility ID:** 100000136569
 

@@ -1,6 +1,6 @@
-# Unknown
+# Garden City Water Pollution Control Plant
 
-**Location:** Unknown, GA
+**Location:** Garden City, GA
 
 **EPA Facility ID:** 100000144685
 

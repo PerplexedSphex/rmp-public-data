@@ -1,6 +1,6 @@
-# Unknown
+# City of Dublin Water Pollution Control Plant
 
-**Location:** Unknown, GA
+**Location:** Dublin, GA
 
 **EPA Facility ID:** 100000154922
 

@@ -1,6 +1,6 @@
-# Unknown
+# Canal Road Pumping Station
 
-**Location:** Unknown, IN
+**Location:** Lafayette, IN
 
 **EPA Facility ID:** 100000062013
 

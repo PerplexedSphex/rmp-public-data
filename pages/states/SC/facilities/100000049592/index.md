@@ -1,6 +1,6 @@
-# Unknown
+# Michelin North America, Inc. -- US2
 
-**Location:** Unknown, SC
+**Location:** Sandy Springs, SC
 
 **EPA Facility ID:** 100000049592
 

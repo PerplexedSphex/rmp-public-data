@@ -1,6 +1,6 @@
-# Unknown
+# Koch Fertilizer, LLC - Vernon Center Terminal
 
-**Location:** Unknown, MN
+**Location:** Garden City, MN
 
 **EPA Facility ID:** 100000093711
 

@@ -1,6 +1,6 @@
-# Unknown
+# West Union, IL
 
-**Location:** Unknown, IL
+**Location:** West Union, IL
 
 **EPA Facility ID:** 100000099378
 

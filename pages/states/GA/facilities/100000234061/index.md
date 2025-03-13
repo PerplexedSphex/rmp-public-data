@@ -1,6 +1,6 @@
-# Unknown
+# Powder Springs Logistics, LLC
 
-**Location:** Unknown, GA
+**Location:** Austell, GA
 
 **EPA Facility ID:** 100000234061
 

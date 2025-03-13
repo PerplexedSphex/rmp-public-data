@@ -1,6 +1,6 @@
-# Unknown
+# Burlington Retail Fertilizer Co.
 
-**Location:** Unknown, CO
+**Location:** Burlington, CO
 
 **EPA Facility ID:** 100000155752
 

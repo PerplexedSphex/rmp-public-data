@@ -1,6 +1,6 @@
-# Unknown
+# City of Dayton Ottawa Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Dayton, OH
 
 **EPA Facility ID:** 100000129345
 

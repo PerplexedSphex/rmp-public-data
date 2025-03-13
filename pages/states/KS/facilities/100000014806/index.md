@@ -1,6 +1,6 @@
-# Unknown
+# brady grain, inc. - norton
 
-**Location:** Unknown, KS
+**Location:** norton, KS
 
 **EPA Facility ID:** 100000014806
 

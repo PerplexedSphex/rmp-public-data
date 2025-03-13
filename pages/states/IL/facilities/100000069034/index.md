@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co. - 51-NH3-South Tank
 
-**Location:** Unknown, IL
+**Location:** Allendale, IL
 
 **EPA Facility ID:** 100000069034
 

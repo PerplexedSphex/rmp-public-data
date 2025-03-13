@@ -1,6 +1,6 @@
-# Unknown
+# Twin Rivers Foods Inc.
 
-**Location:** Unknown, AR
+**Location:** Fort Smith, AR
 
 **EPA Facility ID:** 100000207812
 

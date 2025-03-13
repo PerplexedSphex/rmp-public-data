@@ -1,6 +1,6 @@
-# Unknown
+# Brightmark Bridgewater RNG LLC
 
-**Location:** Unknown, OH
+**Location:** Montpelier, OH
 
 **EPA Facility ID:** 100000249661
 

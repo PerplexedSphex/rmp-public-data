@@ -1,6 +1,6 @@
-# Unknown
+# Costco Wholesale - Sumner Depot #285
 
-**Location:** Unknown, WA
+**Location:** Sumner, WA
 
 **EPA Facility ID:** 100000159124
 

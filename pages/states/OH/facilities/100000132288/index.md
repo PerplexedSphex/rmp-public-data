@@ -1,6 +1,6 @@
-# Unknown
+# Capital Resin Corporation
 
-**Location:** Unknown, OH
+**Location:** Columbus, OH
 
 **EPA Facility ID:** 100000132288
 

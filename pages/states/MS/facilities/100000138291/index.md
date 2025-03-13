@@ -1,6 +1,6 @@
-# Unknown
+# Borden Chemical, Inc. - Vicksburg
 
-**Location:** Unknown, MS
+**Location:** Vicksburg, MS
 
 **EPA Facility ID:** 100000138291
 

@@ -1,6 +1,6 @@
-# Unknown
+#  JOHNSTOWN WASTEWATER TREATMENT PLANT
 
-**Location:** Unknown, PA
+**Location:** JOHNSTOWN, PA
 
 **EPA Facility ID:** 100000074901
 

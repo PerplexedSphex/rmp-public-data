@@ -1,6 +1,6 @@
-# Unknown
+# Wausau-Mosinee Paper Corporation (Mosinee, WI)
 
-**Location:** Unknown, WI
+**Location:** Mosinee, WI
 
 **EPA Facility ID:** 100000091081
 

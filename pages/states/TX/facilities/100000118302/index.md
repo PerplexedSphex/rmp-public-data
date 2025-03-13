@@ -1,6 +1,6 @@
-# Unknown
+# Rater-Proctor Fertilizer
 
-**Location:** Unknown, TX
+**Location:** Bowie, TX
 
 **EPA Facility ID:** 100000118302
 

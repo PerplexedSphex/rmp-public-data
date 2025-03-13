@@ -1,6 +1,6 @@
-# Unknown
+# Eaton Aeroquip Inc.
 
-**Location:** Unknown, OH
+**Location:** Van Wert, OH
 
 **EPA Facility ID:** 100000055138
 

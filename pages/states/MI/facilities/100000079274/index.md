@@ -1,6 +1,6 @@
-# Unknown
+# J. B. Sims Generating Station
 
-**Location:** Unknown, MI
+**Location:** Grand Haven, MI
 
 **EPA Facility ID:** 100000079274
 

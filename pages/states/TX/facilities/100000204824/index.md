@@ -1,6 +1,6 @@
-# Unknown
+# Douglas Plant
 
-**Location:** Unknown, TX
+**Location:** Glazier, TX
 
 **EPA Facility ID:** 100000204824
 

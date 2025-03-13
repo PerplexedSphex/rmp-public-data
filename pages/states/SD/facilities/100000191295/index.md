@@ -1,6 +1,6 @@
-# Unknown
+# Huron Energy, LLC
 
-**Location:** Unknown, SD
+**Location:** Huron, SD
 
 **EPA Facility ID:** 100000191295
 

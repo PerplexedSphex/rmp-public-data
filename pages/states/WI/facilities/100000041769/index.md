@@ -1,6 +1,6 @@
-# Unknown
+# Columbus Chemical Industries, Inc.
 
-**Location:** Unknown, WI
+**Location:** Columbus, WI
 
 **EPA Facility ID:** 100000041769
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company LLC (Chester, SD)
 
-**Location:** Unknown, SD
+**Location:** Chester, SD
 
 **EPA Facility ID:** 100000054317
 

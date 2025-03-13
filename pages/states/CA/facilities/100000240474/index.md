@@ -1,6 +1,6 @@
-# Unknown
+# Blue Star Gas - Redding, Co
 
-**Location:** Unknown, CA
+**Location:** Anderson, CA
 
 **EPA Facility ID:** 100000240474
 

@@ -1,6 +1,6 @@
-# Unknown
+# Ormond Beach Generating Station
 
-**Location:** Unknown, CA
+**Location:** Oxnard, CA
 
 **EPA Facility ID:** 100000095327
 

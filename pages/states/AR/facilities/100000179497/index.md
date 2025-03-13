@@ -1,6 +1,6 @@
-# Unknown
+# Union County Water Treatment Facility
 
-**Location:** Unknown, AR
+**Location:** ElDorado, AR
 
 **EPA Facility ID:** 100000179497
 

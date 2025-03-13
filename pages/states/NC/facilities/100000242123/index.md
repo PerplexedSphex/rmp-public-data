@@ -1,6 +1,6 @@
-# Unknown
+# Sherwin-Williams Co - Piedmont
 
-**Location:** Unknown, NC
+**Location:** Statesville, NC
 
 **EPA Facility ID:** 100000242123
 

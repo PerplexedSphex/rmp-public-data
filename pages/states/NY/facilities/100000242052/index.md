@@ -1,6 +1,6 @@
-# Unknown
+# Finger Lakes Storage
 
-**Location:** Unknown, NY
+**Location:** Kendaia, NY
 
 **EPA Facility ID:** 100000242052
 

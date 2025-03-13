@@ -1,6 +1,6 @@
-# Unknown
+# Ag Partners Coop-Seneca
 
-**Location:** Unknown, KS
+**Location:** Seneca, KS
 
 **EPA Facility ID:** 100000032225
 

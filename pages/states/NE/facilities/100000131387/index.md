@@ -1,6 +1,6 @@
-# Unknown
+# Stratton Anhydrous Plant
 
-**Location:** Unknown, NE
+**Location:** Stratton, NE
 
 **EPA Facility ID:** 100000131387
 

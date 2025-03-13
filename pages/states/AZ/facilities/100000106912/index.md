@@ -1,6 +1,6 @@
-# Unknown
+# Pyramid Peak Water Treatment Plant
 
-**Location:** Unknown, AZ
+**Location:** Phoenix, AZ
 
 **EPA Facility ID:** 100000106912
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gage Products Company
 
-**Location:** Unknown, MI
+**Location:** Ferndale, MI
 
 **EPA Facility ID:** 100000210407
 

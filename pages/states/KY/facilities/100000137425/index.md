@@ -1,6 +1,6 @@
-# Unknown
+# Bardstown Wastewater Treatment Plant - Town Creek
 
-**Location:** Unknown, KY
+**Location:** Bardstown, KY
 
 **EPA Facility ID:** 100000137425
 

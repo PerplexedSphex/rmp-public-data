@@ -1,6 +1,6 @@
-# Unknown
+# Warsaw Chemical Co., Inc.
 
-**Location:** Unknown, IN
+**Location:** Warsaw, IN
 
 **EPA Facility ID:** 100000144293
 

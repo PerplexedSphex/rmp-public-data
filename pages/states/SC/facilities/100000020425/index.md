@@ -1,6 +1,6 @@
-# Unknown
+# Columbia Canal Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Columbia, SC
 
 **EPA Facility ID:** 100000020425
 

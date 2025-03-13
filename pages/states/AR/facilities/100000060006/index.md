@@ -1,6 +1,6 @@
-# Unknown
+# Peco Foods, Inc.
 
-**Location:** Unknown, AR
+**Location:** Batesville, AR
 
 **EPA Facility ID:** 100000060006
 

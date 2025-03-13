@@ -1,6 +1,6 @@
-# Unknown
+# Occidental Chemical Corporation Convent Plant
 
-**Location:** Unknown, LA
+**Location:** Convent, LA
 
 **EPA Facility ID:** 100000099323
 

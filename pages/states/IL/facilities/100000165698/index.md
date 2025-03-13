@@ -1,6 +1,6 @@
-# Unknown
+# Musel, Inc. Garden Plain Feed Service
 
-**Location:** Unknown, IL
+**Location:** Fulton, IL
 
 **EPA Facility ID:** 100000165698
 

@@ -1,6 +1,6 @@
-# Unknown
+# West Liberty Foods, Mount Pleasant 
 
-**Location:** Unknown, IA
+**Location:** Mt. Pleasant, IA
 
 **EPA Facility ID:** 100000190731
 

@@ -1,6 +1,6 @@
-# Unknown
+# Campbell Snacks - Denver Plant
 
-**Location:** Unknown, PA
+**Location:** Denver, PA
 
 **EPA Facility ID:** 100000240517
 

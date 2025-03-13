@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. - Thomasville
 
-**Location:** Unknown, NC
+**Location:** Thomasville, NC
 
 **EPA Facility ID:** 100000027437
 

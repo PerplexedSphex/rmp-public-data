@@ -1,6 +1,6 @@
-# Unknown
+# PPG Architectural Coatings Fairburn Distr. Center
 
-**Location:** Unknown, GA
+**Location:** Fairburn, GA
 
 **EPA Facility ID:** 100000220003
 

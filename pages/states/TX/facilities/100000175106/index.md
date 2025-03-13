@@ -1,6 +1,6 @@
-# Unknown
+# Schertz/Seguin Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Rural Gonzales Co., TX
 
 **EPA Facility ID:** 100000175106
 

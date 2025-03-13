@@ -1,6 +1,6 @@
-# Unknown
+# Merchants Ice & Cold Storage Co.
 
-**Location:** Unknown, KY
+**Location:** Louisville, KY
 
 **EPA Facility ID:** 100000048735
 

@@ -1,6 +1,6 @@
-# Unknown
+# Eckert Cold Storage (Escalon)
 
-**Location:** Unknown, CA
+**Location:** Escalon, CA
 
 **EPA Facility ID:** 100000162398
 

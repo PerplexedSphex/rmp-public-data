@@ -1,6 +1,6 @@
-# Unknown
+# Cotton Growers Cooperative
 
-**Location:** Unknown, OK
+**Location:** Altus, OK
 
 **EPA Facility ID:** 100000009938
 

@@ -1,6 +1,6 @@
-# Unknown
+# Baseline Water Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Lafayette, CO
 
 **EPA Facility ID:** 100000131902
 

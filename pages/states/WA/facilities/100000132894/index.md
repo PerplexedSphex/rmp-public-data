@@ -1,6 +1,6 @@
-# Unknown
+# ALL-PURE CHEMICAL -  SPOKANE PLANT
 
-**Location:** Unknown, WA
+**Location:** SPOKANE, WA
 
 **EPA Facility ID:** 100000132894
 

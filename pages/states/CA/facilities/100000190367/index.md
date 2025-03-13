@@ -1,6 +1,6 @@
-# Unknown
+# Costco Wholesale Meat Plant - Tracy
 
-**Location:** Unknown, CA
+**Location:** Tracy, CA
 
 **EPA Facility ID:** 100000190367
 

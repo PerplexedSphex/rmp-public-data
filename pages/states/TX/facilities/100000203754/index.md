@@ -1,6 +1,6 @@
-# Unknown
+# Red Deer Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Miami, TX
 
 **EPA Facility ID:** 100000203754
 

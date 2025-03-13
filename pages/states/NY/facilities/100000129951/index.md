@@ -1,6 +1,6 @@
-# Unknown
+# City of Fulton Water Pollution Control Plant
 
-**Location:** Unknown, NY
+**Location:** Fulton, NY
 
 **EPA Facility ID:** 100000129951
 

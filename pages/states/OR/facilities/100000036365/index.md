@@ -1,6 +1,6 @@
-# Unknown
+# PNW Veg Co., LLC dba Norpac
 
-**Location:** Unknown, OR
+**Location:** Brooks, OR
 
 **EPA Facility ID:** 100000036365
 

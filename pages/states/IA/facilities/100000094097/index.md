@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Randolph
 
-**Location:** Unknown, IA
+**Location:** Randolph, IA
 
 **EPA Facility ID:** 100000094097
 

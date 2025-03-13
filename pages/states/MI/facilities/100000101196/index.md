@@ -1,6 +1,6 @@
-# Unknown
+# Lineage - Benton Harbor
 
-**Location:** Unknown, MI
+**Location:** Sodus, MI
 
 **EPA Facility ID:** 100000101196
 

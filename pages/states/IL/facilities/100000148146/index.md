@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Shipman
 
-**Location:** Unknown, IL
+**Location:** Shipman, IL
 
 **EPA Facility ID:** 100000148146
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cold-Link Logistics Hattiesburg
 
-**Location:** Unknown, MS
+**Location:** Ellisville, MS
 
 **EPA Facility ID:** 100000254431
 

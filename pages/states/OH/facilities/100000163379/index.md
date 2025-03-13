@@ -1,6 +1,6 @@
-# Unknown
+# Spray Products Corporation - Medina
 
-**Location:** Unknown, OH
+**Location:** Medina, OH
 
 **EPA Facility ID:** 100000163379
 

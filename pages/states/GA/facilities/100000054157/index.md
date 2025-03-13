@@ -1,6 +1,6 @@
-# Unknown
+# City of Fayetteville Water & Wastewater Facilities
 
-**Location:** Unknown, GA
+**Location:** Fayetteville, GA
 
 **EPA Facility ID:** 100000054157
 

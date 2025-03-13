@@ -1,6 +1,6 @@
-# Unknown
+# Pollution Control Plant
 
-**Location:** Unknown, OK
+**Location:** Muskogee, OK
 
 **EPA Facility ID:** 100000013558
 

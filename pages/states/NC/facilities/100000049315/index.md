@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packaged Meats Corp. - Wilson, NC
 
-**Location:** Unknown, NC
+**Location:** Wilson, NC
 
 **EPA Facility ID:** 100000049315
 

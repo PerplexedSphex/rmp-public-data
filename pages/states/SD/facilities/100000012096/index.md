@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant #2
 
-**Location:** Unknown, SD
+**Location:** Yankton, SD
 
 **EPA Facility ID:** 100000012096
 

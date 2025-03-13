@@ -1,6 +1,6 @@
-# Unknown
+# Saugahatchee Lake Filter Plant
 
-**Location:** Unknown, AL
+**Location:** Opelika, AL
 
 **EPA Facility ID:** 100000030192
 

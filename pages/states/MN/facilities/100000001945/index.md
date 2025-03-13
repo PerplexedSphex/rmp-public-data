@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Oklee
 
-**Location:** Unknown, MN
+**Location:** Oklee, MN
 
 **EPA Facility ID:** 100000001945
 

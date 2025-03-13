@@ -1,6 +1,6 @@
-# Unknown
+# Farmward Cooperative
 
-**Location:** Unknown, MN
+**Location:** Comfrey, MN
 
 **EPA Facility ID:** 100000001883
 

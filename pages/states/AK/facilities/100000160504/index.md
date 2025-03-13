@@ -1,6 +1,6 @@
-# Unknown
+# PELICAN SEAFOODS
 
-**Location:** Unknown, AK
+**Location:** PELICAN, AK
 
 **EPA Facility ID:** 100000160504
 

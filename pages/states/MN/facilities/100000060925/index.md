@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Grand Meadow
 
-**Location:** Unknown, MN
+**Location:** Grand Meadow, MN
 
 **EPA Facility ID:** 100000060925
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cedar Bay Generating Plant
 
-**Location:** Unknown, FL
+**Location:** Jacksonville, FL
 
 **EPA Facility ID:** 100000103577
 

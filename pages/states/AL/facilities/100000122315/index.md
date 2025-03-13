@@ -1,6 +1,6 @@
-# Unknown
+# Golden Rod Broilers, Inc.
 
-**Location:** Unknown, AL
+**Location:** Cullman, AL
 
 **EPA Facility ID:** 100000122315
 

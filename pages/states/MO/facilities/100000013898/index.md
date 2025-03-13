@@ -1,6 +1,6 @@
-# Unknown
+# Ricketts Farm Service, Inc.
 
-**Location:** Unknown, MO
+**Location:** Salisbury, MO
 
 **EPA Facility ID:** 100000013898
 

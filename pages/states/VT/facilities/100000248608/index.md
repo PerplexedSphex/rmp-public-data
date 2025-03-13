@@ -1,6 +1,6 @@
-# Unknown
+# Leicester-Wye
 
-**Location:** Unknown, VT
+**Location:** Leicester, VT
 
 **EPA Facility ID:** 100000248608
 

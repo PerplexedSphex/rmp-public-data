@@ -1,6 +1,6 @@
-# Unknown
+# Water Pollution Control Plant
 
-**Location:** Unknown, GA
+**Location:** Moultrie, GA
 
 **EPA Facility ID:** 100000164001
 

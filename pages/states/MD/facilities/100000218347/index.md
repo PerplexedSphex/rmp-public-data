@@ -1,6 +1,6 @@
-# Unknown
+# Intercoastal Trading Inc
 
-**Location:** Unknown, MD
+**Location:** Cambridge, MD
 
 **EPA Facility ID:** 100000218347
 

@@ -1,6 +1,6 @@
-# Unknown
+# Indian Basin Gas Plant
 
-**Location:** Unknown, NM
+**Location:** Lakewood, NM
 
 **EPA Facility ID:** 100000079568
 

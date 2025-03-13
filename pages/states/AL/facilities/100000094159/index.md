@@ -1,6 +1,6 @@
-# Unknown
+# Pilgrim's Pride - Boaz Poultry Processing Plant
 
-**Location:** Unknown, AL
+**Location:** Boaz, AL
 
 **EPA Facility ID:** 100000094159
 

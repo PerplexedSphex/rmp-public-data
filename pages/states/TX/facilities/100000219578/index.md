@@ -1,6 +1,6 @@
-# Unknown
+# Rawhide Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Big Spring, TX
 
 **EPA Facility ID:** 100000219578
 

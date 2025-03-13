@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. Haxtun
 
-**Location:** Unknown, CO
+**Location:** Haxtun, CO
 
 **EPA Facility ID:** 100000074652
 

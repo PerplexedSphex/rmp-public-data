@@ -1,6 +1,6 @@
-# Unknown
+# Harris County W.C.I.D. # 1 Wastewater Plant
 
-**Location:** Unknown, TX
+**Location:** Highlands, TX
 
 **EPA Facility ID:** 100000005424
 

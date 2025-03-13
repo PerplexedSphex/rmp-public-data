@@ -1,6 +1,6 @@
-# Unknown
+# Wayne-Sanderson Farms - Pendergrass
 
-**Location:** Unknown, GA
+**Location:** Pendergrass, GA
 
 **EPA Facility ID:** 100000062987
 

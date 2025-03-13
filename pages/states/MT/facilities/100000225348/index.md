@@ -1,6 +1,6 @@
-# Unknown
+# GlaxoSmithKline Vaccines dba Corixa Corporation
 
-**Location:** Unknown, MT
+**Location:** Hamilton, MT
 
 **EPA Facility ID:** 100000225348
 

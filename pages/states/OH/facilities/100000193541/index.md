@@ -1,6 +1,6 @@
-# Unknown
+# IVEX Protective Packaging, Inc.
 
-**Location:** Unknown, OH
+**Location:** Sidney, OH
 
 **EPA Facility ID:** 100000193541
 

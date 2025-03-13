@@ -1,6 +1,6 @@
-# Unknown
+# ARMALY SPONGE COMPANY
 
-**Location:** Unknown, MI
+**Location:** Walled Lake, MI
 
 **EPA Facility ID:** 100000030851
 

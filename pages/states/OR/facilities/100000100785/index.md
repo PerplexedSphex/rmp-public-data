@@ -1,6 +1,6 @@
-# Unknown
+# Kanto Corporation
 
-**Location:** Unknown, OR
+**Location:** Portland, OR
 
 **EPA Facility ID:** 100000100785
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lear Corporation - Hebron Plant
 
-**Location:** Unknown, OH
+**Location:** Hebron, OH
 
 **EPA Facility ID:** 100000200034
 

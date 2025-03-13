@@ -1,6 +1,6 @@
-# Unknown
+# Choctaw County Generating Station
 
-**Location:** Unknown, MS
+**Location:** French Camp, MS
 
 **EPA Facility ID:** 100000181741
 

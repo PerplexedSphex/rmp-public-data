@@ -1,6 +1,6 @@
-# Unknown
+# Eddy Packing Company
 
-**Location:** Unknown, TX
+**Location:** Yoakum, TX
 
 **EPA Facility ID:** 100000200061
 

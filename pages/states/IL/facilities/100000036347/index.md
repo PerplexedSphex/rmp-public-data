@@ -1,6 +1,6 @@
-# Unknown
+# GOLD STAR FS INC.-OSCO NH3 PLANT
 
-**Location:** Unknown, IL
+**Location:** OSCO, IL
 
 **EPA Facility ID:** 100000036347
 

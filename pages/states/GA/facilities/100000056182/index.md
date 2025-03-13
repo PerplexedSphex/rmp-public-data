@@ -1,6 +1,6 @@
-# Unknown
+# Peach State Chemical Co
 
-**Location:** Unknown, GA
+**Location:** Macon, GA
 
 **EPA Facility ID:** 100000056182
 

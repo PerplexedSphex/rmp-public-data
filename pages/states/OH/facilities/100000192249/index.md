@@ -1,6 +1,6 @@
-# Unknown
+# Cleveland Cold Storage
 
-**Location:** Unknown, OH
+**Location:** Solon, OH
 
 **EPA Facility ID:** 100000192249
 

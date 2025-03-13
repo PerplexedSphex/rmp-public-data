@@ -1,6 +1,6 @@
-# Unknown
+# Corning Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Corning, CA
 
 **EPA Facility ID:** 100000194862
 

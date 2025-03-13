@@ -1,6 +1,6 @@
-# Unknown
+# Fry's Food & Drug Stores
 
-**Location:** Unknown, AZ
+**Location:** Phoenix, AZ
 
 **EPA Facility ID:** 100000158517
 

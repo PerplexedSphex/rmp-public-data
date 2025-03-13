@@ -1,6 +1,6 @@
-# Unknown
+# Benton Separation Facility
 
-**Location:** Unknown, LA
+**Location:** Benton, LA
 
 **EPA Facility ID:** 100000195059
 

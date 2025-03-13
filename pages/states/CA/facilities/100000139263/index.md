@@ -1,6 +1,6 @@
-# Unknown
+# Lemoore Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Lemoore, CA
 
 **EPA Facility ID:** 100000139263
 

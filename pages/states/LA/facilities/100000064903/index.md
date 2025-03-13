@@ -1,6 +1,6 @@
-# Unknown
+# Haynesville Plant
 
-**Location:** Unknown, LA
+**Location:** Haynesville, LA
 
 **EPA Facility ID:** 100000064903
 

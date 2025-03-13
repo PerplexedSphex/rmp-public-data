@@ -1,6 +1,6 @@
-# Unknown
+# Auglaize Farmers Cooperative, Inc. - Moulton
 
-**Location:** Unknown, OH
+**Location:** Wapakoneta, OH
 
 **EPA Facility ID:** 100000070077
 

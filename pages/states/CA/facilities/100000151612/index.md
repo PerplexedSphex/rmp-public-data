@@ -1,6 +1,6 @@
-# Unknown
+# CLEARWATER CHEMICAL CO. INC.
 
-**Location:** Unknown, CA
+**Location:** SAN DIMAS, CA
 
 **EPA Facility ID:** 100000151612
 

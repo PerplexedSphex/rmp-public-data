@@ -1,6 +1,6 @@
-# Unknown
+# James A. Vann, Jr. Power Plant
 
-**Location:** Unknown, AL
+**Location:** Andalusia, AL
 
 **EPA Facility ID:** 100000178942
 

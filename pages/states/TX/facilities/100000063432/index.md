@@ -1,6 +1,6 @@
-# Unknown
+# Eustace Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** Eustace, TX
 
 **EPA Facility ID:** 100000063432
 

@@ -1,6 +1,6 @@
-# Unknown
+# Legacy Cooperative - Rock Lake NH3 Plant 
 
-**Location:** Unknown, ND
+**Location:** Rock Lake, ND
 
 **EPA Facility ID:** 100000014021
 

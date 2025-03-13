@@ -1,6 +1,6 @@
-# Unknown
+# Henry Plant
 
-**Location:** Unknown, IL
+**Location:** HENRY, IL
 
 **EPA Facility ID:** 100000152372
 

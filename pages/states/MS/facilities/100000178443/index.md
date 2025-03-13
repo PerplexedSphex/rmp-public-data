@@ -1,6 +1,6 @@
-# Unknown
+# Flare, LLC - Venture Gas Plant
 
-**Location:** Unknown, MS
+**Location:** Laurel, MS
 
 **EPA Facility ID:** 100000178443
 

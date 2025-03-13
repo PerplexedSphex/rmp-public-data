@@ -1,6 +1,6 @@
-# Unknown
+# Yale
 
-**Location:** Unknown, SD
+**Location:** Yale, SD
 
 **EPA Facility ID:** 100000208161
 

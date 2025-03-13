@@ -1,6 +1,6 @@
-# Unknown
+# St. Albans Plant - Ben & Jerry's
 
-**Location:** Unknown, VT
+**Location:** St. Albans, VT
 
 **EPA Facility ID:** 100000080912
 

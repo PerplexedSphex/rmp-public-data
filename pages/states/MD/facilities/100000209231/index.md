@@ -1,6 +1,6 @@
-# Unknown
+# Costco Wholesale Frederick Combo Depot #1053
 
-**Location:** Unknown, MD
+**Location:** Monrovia, MD
 
 **EPA Facility ID:** 100000209231
 

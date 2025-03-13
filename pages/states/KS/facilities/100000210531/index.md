@@ -1,6 +1,6 @@
-# Unknown
+# Mid-West Fertilizer, LLC. - Oswego
 
-**Location:** Unknown, KS
+**Location:** Oswego, KS
 
 **EPA Facility ID:** 100000210531
 

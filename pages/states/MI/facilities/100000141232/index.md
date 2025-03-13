@@ -1,6 +1,6 @@
-# Unknown
+# Thetford Corporation
 
-**Location:** Unknown, MI
+**Location:** Ann Arbor, MI
 
 **EPA Facility ID:** 100000141232
 

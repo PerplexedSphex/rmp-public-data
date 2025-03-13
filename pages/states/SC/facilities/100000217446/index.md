@@ -1,6 +1,6 @@
-# Unknown
+# Global Companies - Spartanburg Terminal 
 
-**Location:** Unknown, SC
+**Location:** Spartanburg, SC
 
 **EPA Facility ID:** 100000217446
 

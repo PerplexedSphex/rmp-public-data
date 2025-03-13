@@ -1,6 +1,6 @@
-# Unknown
+# Resinall Corp
 
-**Location:** Unknown, MS
+**Location:** Hattiesburg, MS
 
 **EPA Facility ID:** 100000220012
 

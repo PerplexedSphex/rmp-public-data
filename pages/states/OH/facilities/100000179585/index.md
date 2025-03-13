@@ -1,6 +1,6 @@
-# Unknown
+# Plant 3
 
-**Location:** Unknown, OH
+**Location:** Akron, OH
 
 **EPA Facility ID:** 100000179585
 

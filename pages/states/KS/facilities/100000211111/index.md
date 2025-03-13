@@ -1,6 +1,6 @@
-# Unknown
+# EIF KC Landfill Gas, LLC
 
-**Location:** Unknown, KS
+**Location:** Shawnee, KS
 
 **EPA Facility ID:** 100000211111
 

@@ -1,6 +1,6 @@
-# Unknown
+# OTTAWA NH3
 
-**Location:** Unknown, KS
+**Location:** OTTAWA, KS
 
 **EPA Facility ID:** 100000155002
 

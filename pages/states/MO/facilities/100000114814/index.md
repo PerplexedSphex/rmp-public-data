@@ -1,6 +1,6 @@
-# Unknown
+# Flex-O-Lators Division
 
-**Location:** Unknown, MO
+**Location:** Carthage, MO
 
 **EPA Facility ID:** 100000114814
 

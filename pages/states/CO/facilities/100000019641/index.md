@@ -1,6 +1,6 @@
-# Unknown
+# Baxter Compressor Station
 
-**Location:** Unknown, CO
+**Location:** Garfield County, CO
 
 **EPA Facility ID:** 100000019641
 

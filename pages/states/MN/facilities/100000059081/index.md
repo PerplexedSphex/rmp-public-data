@@ -1,6 +1,6 @@
-# Unknown
+# Glacial Plains Cooperative Murdock Liquid Plant
 
-**Location:** Unknown, MN
+**Location:** Murdock, MN
 
 **EPA Facility ID:** 100000059081
 

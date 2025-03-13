@@ -1,6 +1,6 @@
-# Unknown
+# Enterprise Inver Grove Heights Terminal
 
-**Location:** Unknown, MN
+**Location:** Inver Grove Heights, MN
 
 **EPA Facility ID:** 100000168034
 

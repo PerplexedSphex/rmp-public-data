@@ -1,6 +1,6 @@
-# Unknown
+# Beaver Dam Creek Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Watson, LA
 
 **EPA Facility ID:** 100000035268
 

@@ -1,6 +1,6 @@
-# Unknown
+# R.B. Simms Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Chesnee, SC
 
 **EPA Facility ID:** 100000013978
 

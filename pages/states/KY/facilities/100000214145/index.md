@@ -1,6 +1,6 @@
-# Unknown
+# Harrodsburg Wastewater Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Harrodsburg, KY
 
 **EPA Facility ID:** 100000214145
 

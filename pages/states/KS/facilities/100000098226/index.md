@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Ag Inc-Ransom
 
-**Location:** Unknown, KS
+**Location:** RANSOM, KS
 
 **EPA Facility ID:** 100000098226
 

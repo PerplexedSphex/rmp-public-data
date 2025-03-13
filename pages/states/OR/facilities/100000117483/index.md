@@ -1,6 +1,6 @@
-# Unknown
+# Northwest Aluminum Company
 
-**Location:** Unknown, OR
+**Location:** The Dalles, OR
 
 **EPA Facility ID:** 100000117483
 

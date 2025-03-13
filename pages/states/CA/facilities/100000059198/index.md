@@ -1,6 +1,6 @@
-# Unknown
+# Cool Valley Facility
 
-**Location:** Unknown, CA
+**Location:** Valley Center, CA
 
 **EPA Facility ID:** 100000059198
 

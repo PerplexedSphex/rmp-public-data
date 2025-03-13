@@ -1,6 +1,6 @@
-# Unknown
+# Washington Steel - Massillon Plant
 
-**Location:** Unknown, OH
+**Location:** Massillon, OH
 
 **EPA Facility ID:** 100000056039
 

@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Seneca, KS Facility
 
-**Location:** Unknown, KS
+**Location:** Seneca, KS
 
 **EPA Facility ID:** 100000001320
 

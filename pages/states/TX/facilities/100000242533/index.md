@@ -1,6 +1,6 @@
-# Unknown
+# Bulldog Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Carthage, TX
 
 **EPA Facility ID:** 100000242533
 

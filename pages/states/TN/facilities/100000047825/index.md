@@ -1,6 +1,6 @@
-# Unknown
+# Denzil Bowman Wastewater Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Greeneville, TN
 
 **EPA Facility ID:** 100000047825
 

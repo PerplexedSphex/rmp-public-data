@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC -  BLADEN   
 
-**Location:** Unknown, NE
+**Location:** Bladen, NE
 
 **EPA Facility ID:** 100000131467
 

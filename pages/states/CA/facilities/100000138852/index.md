@@ -1,6 +1,6 @@
-# Unknown
+# Upper Stone Canyon Chlorination Station
 
-**Location:** Unknown, CA
+**Location:** Los Angeles, CA
 
 **EPA Facility ID:** 100000138852
 

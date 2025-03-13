@@ -1,6 +1,6 @@
-# Unknown
+# City of Guthrie Water Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Guthrie, OK
 
 **EPA Facility ID:** 100000177694
 

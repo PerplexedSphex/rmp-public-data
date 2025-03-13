@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Food Plant
 
-**Location:** Unknown, IN
+**Location:** Dubois, IN
 
 **EPA Facility ID:** 100000255154
 

@@ -1,6 +1,6 @@
-# Unknown
+# Tanner Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Sutter Creek, CA
 
 **EPA Facility ID:** 100000105851
 

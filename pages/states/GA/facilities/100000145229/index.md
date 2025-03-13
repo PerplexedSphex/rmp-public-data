@@ -1,6 +1,6 @@
-# Unknown
+# Zartic Foods, Inc. - Cedartown Division
 
-**Location:** Unknown, GA
+**Location:** Cedartown, GA
 
 **EPA Facility ID:** 100000145229
 

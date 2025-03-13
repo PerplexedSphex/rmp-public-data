@@ -1,6 +1,6 @@
-# Unknown
+# Cowtown Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Cleburne, TX
 
 **EPA Facility ID:** 100000195264
 

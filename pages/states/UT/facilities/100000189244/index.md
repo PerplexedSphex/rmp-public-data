@@ -1,6 +1,6 @@
-# Unknown
+# Layton Dairy
 
-**Location:** Unknown, UT
+**Location:** Layton, UT
 
 **EPA Facility ID:** 100000189244
 

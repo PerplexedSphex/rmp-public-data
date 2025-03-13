@@ -1,6 +1,6 @@
-# Unknown
+# Barton Chapel Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Jacksboro, TX
 
 **EPA Facility ID:** 100000136532
 

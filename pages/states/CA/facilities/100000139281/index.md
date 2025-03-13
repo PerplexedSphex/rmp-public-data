@@ -1,6 +1,6 @@
-# Unknown
+# Grass Valley Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Lake Arrowhead, CA
 
 **EPA Facility ID:** 100000139281
 

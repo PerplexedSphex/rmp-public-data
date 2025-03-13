@@ -1,6 +1,6 @@
-# Unknown
+# Garland Branch
 
-**Location:** Unknown, UT
+**Location:** Garland, UT
 
 **EPA Facility ID:** 100000045514
 

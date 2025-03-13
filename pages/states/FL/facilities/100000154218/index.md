@@ -1,6 +1,6 @@
-# Unknown
+# Village of Palm Springs- Main Water Plant
 
-**Location:** Unknown, FL
+**Location:** Palm Springs, FL
 
 **EPA Facility ID:** 100000154218
 

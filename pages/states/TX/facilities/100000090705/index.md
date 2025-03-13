@@ -1,6 +1,6 @@
-# Unknown
+# ETC La Grange Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** LaGrange, TX
 
 **EPA Facility ID:** 100000090705
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wichita Terminal
 
-**Location:** Unknown, KS
+**Location:** Wichita, KS
 
 **EPA Facility ID:** 100000239609
 

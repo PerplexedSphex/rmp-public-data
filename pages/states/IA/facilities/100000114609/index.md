@@ -1,6 +1,6 @@
-# Unknown
+# West Central Coop - Brayton
 
-**Location:** Unknown, IA
+**Location:** Brayton, IA
 
 **EPA Facility ID:** 100000114609
 

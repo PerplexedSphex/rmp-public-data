@@ -1,6 +1,6 @@
-# Unknown
+# Sommerheim Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Erie, PA
 
 **EPA Facility ID:** 100000197413
 

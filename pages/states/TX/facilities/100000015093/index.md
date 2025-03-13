@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Wellington, Texas
 
-**Location:** Unknown, TX
+**Location:** Wellington, TX
 
 **EPA Facility ID:** 100000015093
 

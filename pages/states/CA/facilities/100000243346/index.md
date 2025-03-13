@@ -1,6 +1,6 @@
-# Unknown
+# Cal Organic Thermal
 
-**Location:** Unknown, CA
+**Location:** Thermal, CA
 
 **EPA Facility ID:** 100000243346
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - McDonough
 
-**Location:** Unknown, GA
+**Location:** McDonough, GA
 
 **EPA Facility ID:** 100000111318
 

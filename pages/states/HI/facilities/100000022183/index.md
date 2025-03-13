@@ -1,6 +1,6 @@
-# Unknown
+# BEI Hawaii -  Hilo Facility, Hawaii
 
-**Location:** Unknown, HI
+**Location:** Hilo, HI
 
 **EPA Facility ID:** 100000022183
 

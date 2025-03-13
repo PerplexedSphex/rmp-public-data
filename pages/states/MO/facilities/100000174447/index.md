@@ -1,6 +1,6 @@
-# Unknown
+# Simplot Grower Solutions - East Prairie
 
-**Location:** Unknown, MO
+**Location:** East Prairie, MO
 
 **EPA Facility ID:** 100000174447
 

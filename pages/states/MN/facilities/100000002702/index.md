@@ -1,6 +1,6 @@
-# Unknown
+# Trilogy Ag Group LLC
 
-**Location:** Unknown, MN
+**Location:** Argyle, MN
 
 **EPA Facility ID:** 100000002702
 

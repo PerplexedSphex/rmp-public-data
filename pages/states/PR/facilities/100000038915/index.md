@@ -1,6 +1,6 @@
-# Unknown
+# Laser Products Inc.
 
-**Location:** Unknown, PR
+**Location:** Juncos, PR
 
 **EPA Facility ID:** 100000038915
 

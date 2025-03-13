@@ -1,6 +1,6 @@
-# Unknown
+# Minden Plant
 
-**Location:** Unknown, LA
+**Location:** Minden, LA
 
 **EPA Facility ID:** 100000065582
 

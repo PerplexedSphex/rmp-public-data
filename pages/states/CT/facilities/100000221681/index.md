@@ -1,6 +1,6 @@
-# Unknown
+# CP Foods LLC
 
-**Location:** Unknown, CT
+**Location:** SOUTH WINDSOR, CT
 
 **EPA Facility ID:** 100000221681
 

@@ -1,6 +1,6 @@
-# Unknown
+# JBS - Grand Island Beef Processing Facility
 
-**Location:** Unknown, NE
+**Location:** Grand Island, NE
 
 **EPA Facility ID:** 100000012684
 

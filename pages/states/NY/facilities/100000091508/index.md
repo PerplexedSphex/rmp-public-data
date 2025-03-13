@@ -1,6 +1,6 @@
-# Unknown
+# Sylvamo Ticonderoga Mill
 
-**Location:** Unknown, NY
+**Location:** Ticonderoga, NY
 
 **EPA Facility ID:** 100000091508
 

@@ -1,6 +1,6 @@
-# Unknown
+# AES Hawaii, LLC
 
-**Location:** Unknown, HI
+**Location:** Kapolei, HI
 
 **EPA Facility ID:** 100000108787
 

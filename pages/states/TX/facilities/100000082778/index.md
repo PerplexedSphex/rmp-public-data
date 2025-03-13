@@ -1,6 +1,6 @@
-# Unknown
+# City of Groves Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Groves, TX
 
 **EPA Facility ID:** 100000082778
 

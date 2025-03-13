@@ -1,6 +1,6 @@
-# Unknown
+# Grand Forks Water Treatment
 
-**Location:** Unknown, ND
+**Location:** Grand Forks, ND
 
 **EPA Facility ID:** 100000047031
 

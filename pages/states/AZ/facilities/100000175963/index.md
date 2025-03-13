@@ -1,6 +1,6 @@
-# Unknown
+# City of El Mirage Wastewater Treatment Plant
 
-**Location:** Unknown, AZ
+**Location:** El Mirage, AZ
 
 **EPA Facility ID:** 100000175963
 

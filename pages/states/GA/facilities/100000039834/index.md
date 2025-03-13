@@ -1,6 +1,6 @@
-# Unknown
+# Douglasville (Sweetwater)
 
-**Location:** Unknown, GA
+**Location:** Douglasville, GA
 
 **EPA Facility ID:** 100000039834
 

@@ -1,6 +1,6 @@
-# Unknown
+# Milner Terminal
 
-**Location:** Unknown, GA
+**Location:** Milner, GA
 
 **EPA Facility ID:** 100000165625
 

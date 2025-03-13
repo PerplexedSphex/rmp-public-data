@@ -1,6 +1,6 @@
-# Unknown
+# Gardendale PGS
 
-**Location:** Unknown, TX
+**Location:** Cotulla, TX
 
 **EPA Facility ID:** 100000220361
 

@@ -1,6 +1,6 @@
-# Unknown
+# Hazen NV Terminal
 
-**Location:** Unknown, NV
+**Location:** Hazen, NV
 
 **EPA Facility ID:** 100000237451
 

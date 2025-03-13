@@ -1,6 +1,6 @@
-# Unknown
+# Dade County Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Trenton, GA
 
 **EPA Facility ID:** 100000141802
 

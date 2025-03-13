@@ -1,6 +1,6 @@
-# Unknown
+# Twin Lake Chemical, Inc.
 
-**Location:** Unknown, NY
+**Location:** Lockport, NY
 
 **EPA Facility ID:** 100000081957
 

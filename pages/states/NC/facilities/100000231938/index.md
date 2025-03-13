@@ -1,6 +1,6 @@
-# Unknown
+# Automated Solutions, LLC
 
-**Location:** Unknown, NC
+**Location:** Lenoir, NC
 
 **EPA Facility ID:** 100000231938
 

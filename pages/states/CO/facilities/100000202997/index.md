@@ -1,6 +1,6 @@
-# Unknown
+# Two Buttes Facility
 
-**Location:** Unknown, CO
+**Location:** Two Buttes, CO
 
 **EPA Facility ID:** 100000202997
 

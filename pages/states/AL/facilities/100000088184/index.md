@@ -1,6 +1,6 @@
-# Unknown
+# 3M Chemical Operations' Decatur facility
 
-**Location:** Unknown, AL
+**Location:** Decatur, AL
 
 **EPA Facility ID:** 100000088184
 

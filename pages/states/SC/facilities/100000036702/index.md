@@ -1,6 +1,6 @@
-# Unknown
+# North Saluda Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Travlers Rest, SC
 
 **EPA Facility ID:** 100000036702
 

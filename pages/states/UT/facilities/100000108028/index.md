@@ -1,6 +1,6 @@
-# Unknown
+# Little Cottonwood Water Treatment Plant
 
-**Location:** Unknown, UT
+**Location:** Cottonwood Heights, UT
 
 **EPA Facility ID:** 100000108028
 

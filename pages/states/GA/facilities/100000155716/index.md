@@ -1,6 +1,6 @@
-# Unknown
+# Pilgrim's Pride - Canton Poultry Processing Plant
 
-**Location:** Unknown, GA
+**Location:** CANTON, GA
 
 **EPA Facility ID:** 100000155716
 

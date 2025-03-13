@@ -1,6 +1,6 @@
-# Unknown
+# Hampton Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Hampton, SC
 
 **EPA Facility ID:** 100000065074
 

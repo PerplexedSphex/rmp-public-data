@@ -1,6 +1,6 @@
-# Unknown
+# Hydrite Chemical Co. - Lake Zurich
 
-**Location:** Unknown, IL
+**Location:** Lake Zurich, IL
 
 **EPA Facility ID:** 100000090297
 

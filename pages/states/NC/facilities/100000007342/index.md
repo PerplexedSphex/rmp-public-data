@@ -1,6 +1,6 @@
-# Unknown
+# City of Lincolnton Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Lincolnton, NC
 
 **EPA Facility ID:** 100000007342
 

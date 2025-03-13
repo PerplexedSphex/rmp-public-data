@@ -1,6 +1,6 @@
-# Unknown
+# SCWRD Sugar Creek WWTP
 
-**Location:** Unknown, IL
+**Location:** Springfield, IL
 
 **EPA Facility ID:** 100000223242
 

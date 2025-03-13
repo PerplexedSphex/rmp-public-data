@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Fresh Meats Corp. - Monmouth, IL
 
-**Location:** Unknown, IL
+**Location:** Monmouth, IL
 
 **EPA Facility ID:** 100000079023
 

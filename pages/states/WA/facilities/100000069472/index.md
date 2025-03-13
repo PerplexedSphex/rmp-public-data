@@ -1,6 +1,6 @@
-# Unknown
+# Thornton, WA 8 Satellite
 
-**Location:** Unknown, WA
+**Location:** Thornton, WA
 
 **EPA Facility ID:** 100000069472
 

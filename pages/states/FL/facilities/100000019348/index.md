@@ -1,6 +1,6 @@
-# Unknown
+# Palm Beach County Water Treatment Plant # 3
 
-**Location:** Unknown, FL
+**Location:** Delray Beach, FL
 
 **EPA Facility ID:** 100000019348
 

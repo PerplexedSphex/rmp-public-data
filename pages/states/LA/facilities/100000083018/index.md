@@ -1,6 +1,6 @@
-# Unknown
+# Lyondell Chemical Company
 
-**Location:** Unknown, LA
+**Location:** Westlake, LA
 
 **EPA Facility ID:** 100000083018
 

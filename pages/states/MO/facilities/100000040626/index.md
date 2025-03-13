@@ -1,6 +1,6 @@
-# Unknown
+# Boonville Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Boonville, MO
 
 **EPA Facility ID:** 100000040626
 

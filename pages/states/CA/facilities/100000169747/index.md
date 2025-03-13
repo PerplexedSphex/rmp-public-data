@@ -1,6 +1,6 @@
-# Unknown
+# KDC West
 
-**Location:** Unknown, CA
+**Location:** Delano, CA
 
 **EPA Facility ID:** 100000169747
 

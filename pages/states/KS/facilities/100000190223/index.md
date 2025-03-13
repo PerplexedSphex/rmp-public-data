@@ -1,6 +1,6 @@
-# Unknown
+# Louisburg Ammonia Plant
 
-**Location:** Unknown, KS
+**Location:** Louisburg, KS
 
 **EPA Facility ID:** 100000190223
 

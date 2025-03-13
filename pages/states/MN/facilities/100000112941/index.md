@@ -1,6 +1,6 @@
-# Unknown
+# Northern Star Company
 
-**Location:** Unknown, MN
+**Location:** Minneapolis, MN
 
 **EPA Facility ID:** 100000112941
 

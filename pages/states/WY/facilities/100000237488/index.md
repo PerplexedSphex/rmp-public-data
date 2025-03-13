@@ -1,6 +1,6 @@
-# Unknown
+# Shoshoni WY Terminal
 
-**Location:** Unknown, WY
+**Location:** Shoshoni, WY
 
 **EPA Facility ID:** 100000237488
 

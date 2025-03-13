@@ -1,6 +1,6 @@
-# Unknown
+# Illini FS, Inc. - Tuscola NH3
 
-**Location:** Unknown, IL
+**Location:** Tuscola, IL
 
 **EPA Facility ID:** 100000019696
 

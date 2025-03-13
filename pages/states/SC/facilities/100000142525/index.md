@@ -1,6 +1,6 @@
-# Unknown
+# Pelham WWTP
 
-**Location:** Unknown, SC
+**Location:** Greer, SC
 
 **EPA Facility ID:** 100000142525
 

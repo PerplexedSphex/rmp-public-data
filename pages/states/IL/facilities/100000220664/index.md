@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Havana
 
-**Location:** Unknown, IL
+**Location:** Havana, IL
 
 **EPA Facility ID:** 100000220664
 

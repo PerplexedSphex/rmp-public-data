@@ -1,6 +1,6 @@
-# Unknown
+# Perryton Equity- Floris, Oklahoma
 
-**Location:** Unknown, OK
+**Location:** Floris, OK
 
 **EPA Facility ID:** 100000032172
 

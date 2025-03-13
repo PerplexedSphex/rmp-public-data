@@ -1,6 +1,6 @@
-# Unknown
+# E Energy Adams, LLC
 
-**Location:** Unknown, NE
+**Location:** Adams, NE
 
 **EPA Facility ID:** 100000200276
 

@@ -1,6 +1,6 @@
-# Unknown
+# OSI Sealants, Inc.
 
-**Location:** Unknown, GA
+**Location:** LaGrange, GA
 
 **EPA Facility ID:** 100000094266
 

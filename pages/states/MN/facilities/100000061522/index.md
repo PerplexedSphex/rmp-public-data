@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Herman
 
-**Location:** Unknown, MN
+**Location:** Herman, MN
 
 **EPA Facility ID:** 100000061522
 

@@ -1,6 +1,6 @@
-# Unknown
+# Daniel's Home Bakery
 
-**Location:** Unknown, NC
+**Location:** Pembroke, NC
 
 **EPA Facility ID:** 100000056306
 

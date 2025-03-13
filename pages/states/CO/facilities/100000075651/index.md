@@ -1,6 +1,6 @@
-# Unknown
+# Whitlock Water Treatment Plant (WTP)
 
-**Location:** Unknown, CO
+**Location:** Pueblo, CO
 
 **EPA Facility ID:** 100000075651
 

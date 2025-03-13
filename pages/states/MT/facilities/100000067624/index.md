@@ -1,6 +1,6 @@
-# Unknown
+# City of Great Falls Water Treatment Plant
 
-**Location:** Unknown, MT
+**Location:** Great Falls, MT
 
 **EPA Facility ID:** 100000067624
 

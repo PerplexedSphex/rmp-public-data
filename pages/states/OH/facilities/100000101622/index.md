@@ -1,6 +1,6 @@
-# Unknown
+# Erie Logistics -  NEO Warehouse
 
-**Location:** Unknown, OH
+**Location:** Maple Heights, OH
 
 **EPA Facility ID:** 100000101622
 

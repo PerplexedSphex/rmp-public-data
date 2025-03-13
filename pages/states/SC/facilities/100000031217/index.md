@@ -1,6 +1,6 @@
-# Unknown
+# Clinton/Joanna Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Kinards, SC
 
 **EPA Facility ID:** 100000031217
 

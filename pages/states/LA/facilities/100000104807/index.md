@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Southwest (SH)
 
-**Location:** Unknown, LA
+**Location:** Shreveport, LA
 
 **EPA Facility ID:** 100000104807
 

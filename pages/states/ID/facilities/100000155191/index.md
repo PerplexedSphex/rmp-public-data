@@ -1,6 +1,6 @@
-# Unknown
+# Environmental Technologies Inc.- Jerome, ID
 
-**Location:** Unknown, ID
+**Location:** Jerome, ID
 
 **EPA Facility ID:** 100000155191
 

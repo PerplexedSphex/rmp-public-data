@@ -1,6 +1,6 @@
-# Unknown
+# Frenchman Valley Coop
 
-**Location:** Unknown, NE
+**Location:** Wauneta, NE
 
 **EPA Facility ID:** 100000090386
 

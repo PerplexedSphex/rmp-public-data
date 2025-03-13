@@ -1,6 +1,6 @@
-# Unknown
+# Wastewater Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Ashland, KY
 
 **EPA Facility ID:** 100000163592
 

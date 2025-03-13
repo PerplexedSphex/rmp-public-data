@@ -1,6 +1,6 @@
-# Unknown
+# City of La Porte - Water Works - East Plant
 
-**Location:** Unknown, IN
+**Location:** La Porte, IN
 
 **EPA Facility ID:** 100000109599
 

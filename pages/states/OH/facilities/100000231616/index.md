@@ -1,6 +1,6 @@
-# Unknown
+# ALDI Hinckley
 
-**Location:** Unknown, OH
+**Location:** Hinckley, OH
 
 **EPA Facility ID:** 100000231616
 

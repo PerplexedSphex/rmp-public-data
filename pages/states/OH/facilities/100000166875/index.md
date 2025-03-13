@@ -1,6 +1,6 @@
-# Unknown
+# Wellman Friction Products
 
-**Location:** Unknown, OH
+**Location:** Brook Park, OH
 
 **EPA Facility ID:** 100000166875
 

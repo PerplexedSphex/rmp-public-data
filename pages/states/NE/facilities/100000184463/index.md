@@ -1,6 +1,6 @@
-# Unknown
+# Loveland Products Inc.
 
-**Location:** Unknown, NE
+**Location:** Fairbury, NE
 
 **EPA Facility ID:** 100000184463
 

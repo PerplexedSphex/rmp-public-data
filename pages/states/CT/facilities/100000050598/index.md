@@ -1,6 +1,6 @@
-# Unknown
+# Pfizer Global Manufacturing - Groton Plant
 
-**Location:** Unknown, CT
+**Location:** Groton, CT
 
 **EPA Facility ID:** 100000050598
 

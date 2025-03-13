@@ -1,6 +1,6 @@
-# Unknown
+# Granger Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Granger, WY
 
 **EPA Facility ID:** 100000130627
 

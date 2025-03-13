@@ -1,6 +1,6 @@
-# Unknown
+# Consolidated Grain & Barge-Smithshire Facility
 
-**Location:** Unknown, IL
+**Location:** Smithshire, IL
 
 **EPA Facility ID:** 100000004489
 

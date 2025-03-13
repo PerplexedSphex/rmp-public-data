@@ -1,6 +1,6 @@
-# Unknown
+# OBI Seafoods, LLC - Cordova
 
-**Location:** Unknown, AK
+**Location:** Cordova, AK
 
 **EPA Facility ID:** 100000225437
 

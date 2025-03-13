@@ -1,6 +1,6 @@
-# Unknown
+# Wingate, IN 260 Satellite
 
-**Location:** Unknown, IN
+**Location:** Wingate, IN
 
 **EPA Facility ID:** 100000085409
 

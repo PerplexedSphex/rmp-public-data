@@ -1,6 +1,6 @@
-# Unknown
+# ANGUS CHEMICAL COMPANY
 
-**Location:** Unknown, LA
+**Location:** Sterlington, LA
 
 **EPA Facility ID:** 100000050874
 

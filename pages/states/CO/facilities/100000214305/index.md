@@ -1,6 +1,6 @@
-# Unknown
+# Boulder Scientific Company LLC
 
-**Location:** Unknown, CO
+**Location:** Longmont, CO
 
 **EPA Facility ID:** 100000214305
 

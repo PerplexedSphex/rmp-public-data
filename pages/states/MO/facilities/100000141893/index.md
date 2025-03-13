@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant, City of Lamar
 
-**Location:** Unknown, MO
+**Location:** Lamar, MO
 
 **EPA Facility ID:** 100000141893
 

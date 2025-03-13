@@ -1,6 +1,6 @@
-# Unknown
+# ICL-IP AMERICA INC.  - Gallipolis Ferry Site
 
-**Location:** Unknown, WV
+**Location:** Gallipolis Ferry, WV
 
 **EPA Facility ID:** 100000140607
 

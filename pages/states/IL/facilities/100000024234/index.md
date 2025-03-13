@@ -1,6 +1,6 @@
-# Unknown
+# Polo Coop Woosung NH3
 
-**Location:** Unknown, IL
+**Location:** Polo, IL
 
 **EPA Facility ID:** 100000024234
 

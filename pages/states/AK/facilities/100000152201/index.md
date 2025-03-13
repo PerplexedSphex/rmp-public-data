@@ -1,6 +1,6 @@
-# Unknown
+# Westward Seafoods, Inc.
 
-**Location:** Unknown, AK
+**Location:** Dutch Harbor, AK
 
 **EPA Facility ID:** 100000152201
 

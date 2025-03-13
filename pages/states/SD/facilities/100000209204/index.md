@@ -1,6 +1,6 @@
-# Unknown
+# LNC
 
-**Location:** Unknown, SD
+**Location:** Lake Norden, SD
 
 **EPA Facility ID:** 100000209204
 

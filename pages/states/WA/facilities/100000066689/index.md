@@ -1,6 +1,6 @@
-# Unknown
+# Palouse, WA 6 Satellite
 
-**Location:** Unknown, WA
+**Location:** Palouse, WA
 
 **EPA Facility ID:** 100000066689
 

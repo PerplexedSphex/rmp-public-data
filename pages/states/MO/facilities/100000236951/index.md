@@ -1,6 +1,6 @@
-# Unknown
+# Ajinomoto Foods North America
 
-**Location:** Unknown, MO
+**Location:** Joplin, MO
 
 **EPA Facility ID:** 100000236951
 

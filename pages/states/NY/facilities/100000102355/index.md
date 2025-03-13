@@ -1,6 +1,6 @@
-# Unknown
+# Diaz Chemical Corporation
 
-**Location:** Unknown, NY
+**Location:** Holley, NY
 
 **EPA Facility ID:** 100000102355
 

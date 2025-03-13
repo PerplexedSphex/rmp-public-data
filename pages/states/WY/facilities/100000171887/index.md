@@ -1,6 +1,6 @@
-# Unknown
+# Lost Creek Compressor Station
 
-**Location:** Unknown, WY
+**Location:** Wamsutter, WY
 
 **EPA Facility ID:** 100000171887
 

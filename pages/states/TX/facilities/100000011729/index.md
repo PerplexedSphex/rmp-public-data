@@ -1,6 +1,6 @@
-# Unknown
+# Coleto Creek Power Station
 
-**Location:** Unknown, TX
+**Location:** Fannin, TX
 
 **EPA Facility ID:** 100000011729
 

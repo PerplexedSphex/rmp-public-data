@@ -1,6 +1,6 @@
-# Unknown
+# Edwardsville Wastewater Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Edwardsville, IL
 
 **EPA Facility ID:** 100000150944
 

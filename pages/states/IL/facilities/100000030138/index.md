@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.- Russellville
 
-**Location:** Unknown, IL
+**Location:** Flat Rock, IL
 
 **EPA Facility ID:** 100000030138
 

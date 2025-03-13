@@ -1,6 +1,6 @@
-# Unknown
+# Swimming River Water Treatment Plant
 
-**Location:** Unknown, NJ
+**Location:** Colts Neck, NJ
 
 **EPA Facility ID:** 100000065895
 

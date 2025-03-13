@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water-Richmond 4th Street
 
-**Location:** Unknown, IN
+**Location:** Richmond, IN
 
 **EPA Facility ID:** 100000193033
 

@@ -1,6 +1,6 @@
-# Unknown
+# LANXESS Bushy Park Plant
 
-**Location:** Unknown, SC
+**Location:** Goose Creek, SC
 
 **EPA Facility ID:** 100000081671
 

@@ -1,6 +1,6 @@
-# Unknown
+# Thermo No. 1 BE-01, LLC Facility
 
-**Location:** Unknown, UT
+**Location:** Milford, UT
 
 **EPA Facility ID:** 100000221164
 

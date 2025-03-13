@@ -1,6 +1,6 @@
-# Unknown
+# City of Norwalk Water Treatment
 
-**Location:** Unknown, OH
+**Location:** Norwalk, OH
 
 **EPA Facility ID:** 100000059027
 

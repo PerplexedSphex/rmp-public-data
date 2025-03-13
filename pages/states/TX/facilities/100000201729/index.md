@@ -1,6 +1,6 @@
-# Unknown
+# Indian Creek Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Pampa, TX
 
 **EPA Facility ID:** 100000201729
 

@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage, Harrisonburg
 
-**Location:** Unknown, VA
+**Location:** Harrisonburg, VA
 
 **EPA Facility ID:** 100000200249
 

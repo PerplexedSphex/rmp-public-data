@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Nebraska City
 
-**Location:** Unknown, NE
+**Location:** Nebraska City, NE
 
 **EPA Facility ID:** 100000073403
 

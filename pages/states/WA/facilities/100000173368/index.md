@@ -1,6 +1,6 @@
-# Unknown
+# Tolt Treatment Facility
 
-**Location:** Unknown, WA
+**Location:** Duvall, WA
 
 **EPA Facility ID:** 100000173368
 

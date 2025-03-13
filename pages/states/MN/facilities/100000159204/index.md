@@ -1,6 +1,6 @@
-# Unknown
+# Koch Nitrogen Company, LLC - Verdi Terminal
 
-**Location:** Unknown, MN
+**Location:** Verdi, MN
 
 **EPA Facility ID:** 100000159204
 

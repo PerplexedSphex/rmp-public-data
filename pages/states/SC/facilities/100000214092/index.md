@@ -1,6 +1,6 @@
-# Unknown
+# North Augusta #2 Terminal
 
-**Location:** Unknown, SC
+**Location:** North Augusta, SC
 
 **EPA Facility ID:** 100000214092
 

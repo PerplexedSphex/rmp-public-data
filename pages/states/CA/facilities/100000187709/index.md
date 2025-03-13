@@ -1,6 +1,6 @@
-# Unknown
+# Salinas Valley Cooling
 
-**Location:** Unknown, CA
+**Location:** Salinas, CA
 
 **EPA Facility ID:** 100000187709
 

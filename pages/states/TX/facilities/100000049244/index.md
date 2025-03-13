@@ -1,6 +1,6 @@
-# Unknown
+# Bradford Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Midland, TX
 
 **EPA Facility ID:** 100000049244
 

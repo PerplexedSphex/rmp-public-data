@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packaged Meats Corp. - Mason City, IA
 
-**Location:** Unknown, IA
+**Location:** Mason City, IA
 
 **EPA Facility ID:** 100000159231
 

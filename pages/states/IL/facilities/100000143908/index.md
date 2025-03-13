@@ -1,6 +1,6 @@
-# Unknown
+# Gold Star FS Inc.- Cordova
 
-**Location:** Unknown, IL
+**Location:** Cordova, IL
 
 **EPA Facility ID:** 100000143908
 

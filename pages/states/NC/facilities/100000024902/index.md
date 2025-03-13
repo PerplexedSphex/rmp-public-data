@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packing Co. ( Kinston, NC)
 
-**Location:** Unknown, NC
+**Location:** Kinston, NC
 
 **EPA Facility ID:** 100000024902
 

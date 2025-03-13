@@ -1,6 +1,6 @@
-# Unknown
+# Western Slidell LLC
 
-**Location:** Unknown, LA
+**Location:** Slidell, LA
 
 **EPA Facility ID:** 100000110729
 

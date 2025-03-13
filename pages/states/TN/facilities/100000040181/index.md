@@ -1,6 +1,6 @@
-# Unknown
+# Roy S. Oakes Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Morristown, TN
 
 **EPA Facility ID:** 100000040181
 

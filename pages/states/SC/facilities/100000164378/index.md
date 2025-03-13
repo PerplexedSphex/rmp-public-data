@@ -1,6 +1,6 @@
-# Unknown
+# Tirzah Storage Terminal
 
-**Location:** Unknown, SC
+**Location:** York, SC
 
 **EPA Facility ID:** 100000164378
 

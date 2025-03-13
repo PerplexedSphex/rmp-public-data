@@ -1,6 +1,6 @@
-# Unknown
+# Throop Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Throop, PA
 
 **EPA Facility ID:** 100000039861
 

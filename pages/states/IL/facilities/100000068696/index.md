@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.- Fairfield
 
-**Location:** Unknown, IL
+**Location:** Fairfield, IL
 
 **EPA Facility ID:** 100000068696
 

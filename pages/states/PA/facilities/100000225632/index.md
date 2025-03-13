@@ -1,6 +1,6 @@
-# Unknown
+# Main Pool and Chemical Company Inc
 
-**Location:** Unknown, PA
+**Location:** Dupont, PA
 
 **EPA Facility ID:** 100000225632
 

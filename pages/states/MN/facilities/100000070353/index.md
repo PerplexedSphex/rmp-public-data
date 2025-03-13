@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Balaton
 
-**Location:** Unknown, MN
+**Location:** Balaton, MN
 
 **EPA Facility ID:** 100000070353
 

@@ -1,6 +1,6 @@
-# Unknown
+# Fabricolor Manufacturing Corporation
 
-**Location:** Unknown, NJ
+**Location:** Paterson, NJ
 
 **EPA Facility ID:** 100000131145
 

@@ -1,6 +1,6 @@
-# Unknown
+# ELANTAS PDG, INC. - OLEAN 
 
-**Location:** Unknown, NY
+**Location:** Olean, NY
 
 **EPA Facility ID:** 100000019981
 

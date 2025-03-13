@@ -1,6 +1,6 @@
-# Unknown
+# Sligo Central Facility
 
-**Location:** Unknown, LA
+**Location:** Haughton, LA
 
 **EPA Facility ID:** 100000208679
 

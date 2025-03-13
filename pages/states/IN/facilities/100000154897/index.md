@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - New Carlisle, IN
 
-**Location:** Unknown, IN
+**Location:** New Carlisle, IN
 
 **EPA Facility ID:** 100000154897
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Yakima
 
-**Location:** Unknown, WA
+**Location:** Yakima, WA
 
 **EPA Facility ID:** 100000147343
 

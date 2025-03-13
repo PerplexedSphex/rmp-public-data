@@ -1,6 +1,6 @@
-# Unknown
+# FXI, Inc. - Auburn
 
-**Location:** Unknown, IN
+**Location:** Auburn, IN
 
 **EPA Facility ID:** 100000079336
 

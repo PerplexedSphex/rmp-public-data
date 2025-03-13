@@ -1,6 +1,6 @@
-# Unknown
+# Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Mammoth Lakes, CA
 
 **EPA Facility ID:** 100000045836
 

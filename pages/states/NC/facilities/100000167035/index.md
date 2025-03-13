@@ -1,6 +1,6 @@
-# Unknown
+# City Of Newton WTP
 
-**Location:** Unknown, NC
+**Location:** Newton, NC
 
 **EPA Facility ID:** 100000167035
 

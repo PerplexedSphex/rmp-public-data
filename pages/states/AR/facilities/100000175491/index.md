@@ -1,6 +1,6 @@
-# Unknown
+# Cedar Piney Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Havana, AR
 
 **EPA Facility ID:** 100000175491
 

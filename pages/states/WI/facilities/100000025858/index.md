@@ -1,6 +1,6 @@
-# Unknown
+# Aldrich Chemical Company, LLC -Teutonia
 
-**Location:** Unknown, WI
+**Location:** Milwaukee, WI
 
 **EPA Facility ID:** 100000025858
 

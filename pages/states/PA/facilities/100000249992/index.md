@@ -1,6 +1,6 @@
-# Unknown
+# LABCHEM, INC
 
-**Location:** Unknown, PA
+**Location:** Zelienolple, PA
 
 **EPA Facility ID:** 100000249992
 

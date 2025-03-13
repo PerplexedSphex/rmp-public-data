@@ -1,6 +1,6 @@
-# Unknown
+# The New Earth Company
 
-**Location:** Unknown, OR
+**Location:** Klamath Falls, OR
 
 **EPA Facility ID:** 100000032074
 

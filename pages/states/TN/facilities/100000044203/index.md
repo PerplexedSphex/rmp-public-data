@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South, Inc.
 
-**Location:** Unknown, TN
+**Location:** CHATTANOOGA, TN
 
 **EPA Facility ID:** 100000044203
 

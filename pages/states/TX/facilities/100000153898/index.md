@@ -1,6 +1,6 @@
-# Unknown
+# DuPont Performance Elastomers - Hypalon Unit
 
-**Location:** Unknown, TX
+**Location:** Beaumont, TX
 
 **EPA Facility ID:** 100000153898
 

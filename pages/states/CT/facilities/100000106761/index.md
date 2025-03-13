@@ -1,6 +1,6 @@
-# Unknown
+# City of Groton, Water Treatment Facility
 
-**Location:** Unknown, CT
+**Location:** Groton, CT
 
 **EPA Facility ID:** 100000106761
 

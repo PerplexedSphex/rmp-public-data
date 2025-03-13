@@ -1,6 +1,6 @@
-# Unknown
+# ACS Technical Products, Inc.
 
-**Location:** Unknown, IN
+**Location:** Griffith, IN
 
 **EPA Facility ID:** 100000083063
 

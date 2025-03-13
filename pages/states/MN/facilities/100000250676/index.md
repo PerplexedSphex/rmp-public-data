@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Luverne
 
-**Location:** Unknown, MN
+**Location:** Luverne, MN
 
 **EPA Facility ID:** 100000250676
 

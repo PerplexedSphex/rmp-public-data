@@ -1,6 +1,6 @@
-# Unknown
+# SUEZ WTS USA INC BEAUMONT - Plant
 
-**Location:** Unknown, TX
+**Location:** Beaumont, TX
 
 **EPA Facility ID:** 100000086809
 

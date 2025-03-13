@@ -1,6 +1,6 @@
-# Unknown
+# BENTON HARBOR-ST.  JOSEPH JOINT WWTP
 
-**Location:** Unknown, MI
+**Location:** SAINT JOSEPH, MI
 
 **EPA Facility ID:** 100000105236
 

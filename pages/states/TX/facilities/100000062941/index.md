@@ -1,6 +1,6 @@
-# Unknown
+# City of Kerrville Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Kerrville, TX
 
 **EPA Facility ID:** 100000062941
 

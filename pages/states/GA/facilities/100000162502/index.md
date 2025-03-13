@@ -1,6 +1,6 @@
-# Unknown
+# Big Creek WTP
 
-**Location:** Unknown, GA
+**Location:** Thomson, GA
 
 **EPA Facility ID:** 100000162502
 

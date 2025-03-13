@@ -1,6 +1,6 @@
-# Unknown
+# City of San Clemente - Water Reclamation Facility
 
-**Location:** Unknown, CA
+**Location:** San Clemente, CA
 
 **EPA Facility ID:** 100000045248
 

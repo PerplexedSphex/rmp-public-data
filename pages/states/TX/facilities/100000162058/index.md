@@ -1,6 +1,6 @@
-# Unknown
+# New Salem Water Supply Plant
 
-**Location:** Unknown, TX
+**Location:** New Salem, TX
 
 **EPA Facility ID:** 100000162058
 

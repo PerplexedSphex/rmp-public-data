@@ -1,6 +1,6 @@
-# Unknown
+# Missouri Prime Beef Packers
 
-**Location:** Unknown, MO
+**Location:** Pleasent Hope, MO
 
 **EPA Facility ID:** 100000247752
 

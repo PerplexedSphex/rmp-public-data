@@ -1,6 +1,6 @@
-# Unknown
+# Golden Grain Energy, LLC
 
-**Location:** Unknown, IA
+**Location:** Mason City, IA
 
 **EPA Facility ID:** 100000189985
 

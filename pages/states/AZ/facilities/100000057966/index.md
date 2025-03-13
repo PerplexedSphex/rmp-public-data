@@ -1,6 +1,6 @@
-# Unknown
+# Scottsdale CAP Plant
 
-**Location:** Unknown, AZ
+**Location:** Scottsdale, AZ
 
 **EPA Facility ID:** 100000057966
 

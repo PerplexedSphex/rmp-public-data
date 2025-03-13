@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Fresh Meats Corp. - Milan, Missouri
 
-**Location:** Unknown, MO
+**Location:** Milan, MO
 
 **EPA Facility ID:** 100000088843
 

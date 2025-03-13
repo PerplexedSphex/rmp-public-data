@@ -1,6 +1,6 @@
-# Unknown
+# Future Foam, Inc.
 
-**Location:** Unknown, WA
+**Location:** Kent, WA
 
 **EPA Facility ID:** 100000037408
 

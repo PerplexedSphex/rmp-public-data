@@ -1,6 +1,6 @@
-# Unknown
+# Schuyler Cooperative Assn. -Richland Anhy. Plant
 
-**Location:** Unknown, NE
+**Location:** Richland, NE
 
 **EPA Facility ID:** 100000001455
 

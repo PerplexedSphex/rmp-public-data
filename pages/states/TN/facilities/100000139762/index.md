@@ -1,6 +1,6 @@
-# Unknown
+# THE DYCHO COMPANY INC.
 
-**Location:** Unknown, TN
+**Location:** NIOTA, TN
 
 **EPA Facility ID:** 100000139762
 

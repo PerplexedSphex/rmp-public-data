@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Inc. - Sheboygan
 
-**Location:** Unknown, WI
+**Location:** SHEBOYGAN, WI
 
 **EPA Facility ID:** 100000095354
 

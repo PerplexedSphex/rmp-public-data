@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op - Earlham
 
-**Location:** Unknown, IA
+**Location:** Earlham, IA
 
 **EPA Facility ID:** 100000004817
 

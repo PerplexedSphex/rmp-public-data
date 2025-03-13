@@ -1,6 +1,6 @@
-# Unknown
+# Goldsby Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Goldsby, OK
 
 **EPA Facility ID:** 100000016314
 

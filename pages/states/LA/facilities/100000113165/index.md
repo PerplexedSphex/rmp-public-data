@@ -1,6 +1,6 @@
-# Unknown
+# City of Ruston - Wastewater Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Ruston, LA
 
 **EPA Facility ID:** 100000113165
 

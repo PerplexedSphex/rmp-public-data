@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Aransas Pass, TX
 
-**Location:** Unknown, TX
+**Location:** Aransas Pass, TX
 
 **EPA Facility ID:** 100000180314
 

@@ -1,6 +1,6 @@
-# Unknown
+# New Vision Coop
 
-**Location:** Unknown, MN
+**Location:** Hills, MN
 
 **EPA Facility ID:** 100000012032
 

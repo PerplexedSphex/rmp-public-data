@@ -1,6 +1,6 @@
-# Unknown
+# J.H. Products, Inc.
 
-**Location:** Unknown, NY
+**Location:** Lockport, NY
 
 **EPA Facility ID:** 100000080002
 

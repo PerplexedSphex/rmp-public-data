@@ -1,6 +1,6 @@
-# Unknown
+# Gerber's Poultry, Inc.
 
-**Location:** Unknown, OH
+**Location:** Kidron, OH
 
 **EPA Facility ID:** 100000147959
 

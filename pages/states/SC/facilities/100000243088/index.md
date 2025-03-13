@@ -1,6 +1,6 @@
-# Unknown
+# Nucor Insulated Panel Group 
 
-**Location:** Unknown, SC
+**Location:** Laurens, SC
 
 **EPA Facility ID:** 100000243088
 

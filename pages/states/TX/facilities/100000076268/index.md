@@ -1,6 +1,6 @@
-# Unknown
+# Trigas, Inc. (Houston)
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000076268
 

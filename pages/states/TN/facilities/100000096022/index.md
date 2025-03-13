@@ -1,6 +1,6 @@
-# Unknown
+# Watauga Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Johnson City, TN
 
 **EPA Facility ID:** 100000096022
 

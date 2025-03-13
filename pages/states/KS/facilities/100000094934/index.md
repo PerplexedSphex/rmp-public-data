@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Coop Elevator Company - Belmont Branch
 
-**Location:** Unknown, KS
+**Location:** Kingman, KS
 
 **EPA Facility ID:** 100000094934
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mount Vernon Mills, Inc. Apparel Fabrics Division
 
-**Location:** Unknown, GA
+**Location:** Trion, GA
 
 **EPA Facility ID:** 100000215064
 

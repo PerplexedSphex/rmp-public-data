@@ -1,6 +1,6 @@
-# Unknown
+# Owens Corning Fairburn plant
 
-**Location:** Unknown, GA
+**Location:** Fairburn, GA
 
 **EPA Facility ID:** 100000118703
 

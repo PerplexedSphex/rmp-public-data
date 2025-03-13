@@ -1,6 +1,6 @@
-# Unknown
+# Landfill Gas Refining Facility
 
-**Location:** Unknown, PR
+**Location:** Humacao, PR
 
 **EPA Facility ID:** 100000248582
 

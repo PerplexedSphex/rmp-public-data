@@ -1,6 +1,6 @@
-# Unknown
+# Light 13 No. 1
 
-**Location:** Unknown, LA
+**Location:** Shreveport, LA
 
 **EPA Facility ID:** 100000201532
 

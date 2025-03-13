@@ -1,6 +1,6 @@
-# Unknown
+# KapStone Charleston Kraft LLC
 
-**Location:** Unknown, SC
+**Location:** North Charleston, SC
 
 **EPA Facility ID:** 100000089584
 

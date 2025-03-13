@@ -1,6 +1,6 @@
-# Unknown
+# DyStar Carolina Chemical
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000114397
 

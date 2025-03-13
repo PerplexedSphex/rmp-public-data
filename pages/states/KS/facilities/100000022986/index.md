@@ -1,6 +1,6 @@
-# Unknown
+# CENTRAL PRAIRIE CO-OP - CHASE FACILITY
 
-**Location:** Unknown, KS
+**Location:** CHASE, KS
 
 **EPA Facility ID:** 100000022986
 

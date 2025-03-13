@@ -1,6 +1,6 @@
-# Unknown
+# Foxtail Foods 
 
-**Location:** Unknown, OH
+**Location:** Fairfield, OH
 
 **EPA Facility ID:** 100000206449
 

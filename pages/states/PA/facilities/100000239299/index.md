@@ -1,6 +1,6 @@
-# Unknown
+# Elliott Product Testing Facility
 
-**Location:** Unknown, PA
+**Location:** Jeannette, PA
 
 **EPA Facility ID:** 100000239299
 

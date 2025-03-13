@@ -1,6 +1,6 @@
-# Unknown
+# Lahaina Water Treatment Facility
 
-**Location:** Unknown, HI
+**Location:** Lahaina, HI
 
 **EPA Facility ID:** 100000035339
 

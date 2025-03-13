@@ -1,6 +1,6 @@
-# Unknown
+# Cedar Lake Plant
 
-**Location:** Unknown, TX
+**Location:** Loop, TX
 
 **EPA Facility ID:** 100000161674
 

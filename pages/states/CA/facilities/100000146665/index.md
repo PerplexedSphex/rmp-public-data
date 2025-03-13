@@ -1,6 +1,6 @@
-# Unknown
+# Yosemite Cold Storage LLC
 
-**Location:** Unknown, CA
+**Location:** Earlimart, CA
 
 **EPA Facility ID:** 100000146665
 

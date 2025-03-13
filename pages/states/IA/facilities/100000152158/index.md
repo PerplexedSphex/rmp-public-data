@@ -1,6 +1,6 @@
-# Unknown
+# Van Diest Supply Company
 
-**Location:** Unknown, IA
+**Location:** Duncombe, IA
 
 **EPA Facility ID:** 100000152158
 

@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Elevator & Supply Co.
 
-**Location:** Unknown, MO
+**Location:** Clinton, MO
 
 **EPA Facility ID:** 100000056315
 

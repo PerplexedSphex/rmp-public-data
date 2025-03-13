@@ -1,6 +1,6 @@
-# Unknown
+# Diatec Environmental Company - Batavia
 
-**Location:** Unknown, IL
+**Location:** Batavia, IL
 
 **EPA Facility ID:** 100000144603
 

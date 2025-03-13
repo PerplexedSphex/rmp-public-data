@@ -1,6 +1,6 @@
-# Unknown
+# Epsilyte LLC
 
-**Location:** Unknown, IL
+**Location:** Peru, IL
 
 **EPA Facility ID:** 100000082769
 

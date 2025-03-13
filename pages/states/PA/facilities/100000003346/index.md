@@ -1,6 +1,6 @@
-# Unknown
+# Gettysburg Propane
 
-**Location:** Unknown, PA
+**Location:** Gettysburg, PA
 
 **EPA Facility ID:** 100000003346
 

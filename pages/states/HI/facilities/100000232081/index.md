@@ -1,6 +1,6 @@
-# Unknown
+# Kauai Coffee Company, LLC
 
-**Location:** Unknown, HI
+**Location:** Kalaheo, HI
 
 **EPA Facility ID:** 100000232081
 

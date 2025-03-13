@@ -1,6 +1,6 @@
-# Unknown
+# MEMC Southwest, Inc.
 
-**Location:** Unknown, TX
+**Location:** Sherman, TX
 
 **EPA Facility ID:** 100000141964
 

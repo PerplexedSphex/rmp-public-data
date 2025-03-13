@@ -1,6 +1,6 @@
-# Unknown
+# Dow Chemical Company Torrance California Site
 
-**Location:** Unknown, CA
+**Location:** Torrance, CA
 
 **EPA Facility ID:** 100000050286
 

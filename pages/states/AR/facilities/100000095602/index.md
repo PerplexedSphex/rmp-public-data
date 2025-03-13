@@ -1,6 +1,6 @@
-# Unknown
+# Kagome Foods, Inc
 
-**Location:** Unknown, AR
+**Location:** Osceola, AR
 
 **EPA Facility ID:** 100000095602
 

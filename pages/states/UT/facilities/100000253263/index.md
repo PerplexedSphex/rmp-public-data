@@ -1,6 +1,6 @@
-# Unknown
+# Cedar City Holly Energy Partners Products Terminal
 
-**Location:** Unknown, UT
+**Location:** Cedar City, UT
 
 **EPA Facility ID:** 100000253263
 

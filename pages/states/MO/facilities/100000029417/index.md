@@ -1,6 +1,6 @@
-# Unknown
+# Ice Cream Specialties, Inc.- St. Louis
 
-**Location:** Unknown, MO
+**Location:** Brentwood, MO
 
 **EPA Facility ID:** 100000029417
 

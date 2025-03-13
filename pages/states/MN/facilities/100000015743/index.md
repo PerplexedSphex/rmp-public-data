@@ -1,6 +1,6 @@
-# Unknown
+# New Vision Coop
 
-**Location:** Unknown, MN
+**Location:** Beaver Creek, MN
 
 **EPA Facility ID:** 100000015743
 

@@ -1,6 +1,6 @@
-# Unknown
+# AmeriGas - Southington, CT Terminal
 
-**Location:** Unknown, CT
+**Location:** Southington, CT
 
 **EPA Facility ID:** 100000193845
 

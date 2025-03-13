@@ -1,6 +1,6 @@
-# Unknown
+# Shasta Lake Wastewater Treatment Facility
 
-**Location:** Unknown, CA
+**Location:** Shasta Lake, CA
 
 **EPA Facility ID:** 100000170904
 

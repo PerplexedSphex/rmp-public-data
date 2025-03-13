@@ -1,6 +1,6 @@
-# Unknown
+# Chemours Johnsonville Plant
 
-**Location:** Unknown, TN
+**Location:** New Johnsonville, TN
 
 **EPA Facility ID:** 100000088656
 

@@ -1,6 +1,6 @@
-# Unknown
+# Freeport LNG Pretreatment Facility
 
-**Location:** Unknown, TX
+**Location:** Freeport, TX
 
 **EPA Facility ID:** 100000238094
 

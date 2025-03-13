@@ -1,6 +1,6 @@
-# Unknown
+# GFG East Stanberry
 
-**Location:** Unknown, MO
+**Location:** Stanberry, MO
 
 **EPA Facility ID:** 100000034125
 

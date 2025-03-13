@@ -1,6 +1,6 @@
-# Unknown
+# Geneva Wastewater Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Geneva, AL
 
 **EPA Facility ID:** 100000104059
 

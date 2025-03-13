@@ -1,6 +1,6 @@
-# Unknown
+# Sterling Specialty Chemicals, US, LLC
 
-**Location:** Unknown, AL
+**Location:** Mobile, AL
 
 **EPA Facility ID:** 100000037113
 

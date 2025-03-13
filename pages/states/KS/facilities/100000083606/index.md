@@ -1,6 +1,6 @@
-# Unknown
+# Bartlett Grain Company, L.P.
 
-**Location:** Unknown, KS
+**Location:** Levant, KS
 
 **EPA Facility ID:** 100000083606
 

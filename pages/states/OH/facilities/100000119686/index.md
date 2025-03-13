@@ -1,6 +1,6 @@
-# Unknown
+# Dover Chemical Corporation
 
-**Location:** Unknown, OH
+**Location:** Dover, OH
 
 **EPA Facility ID:** 100000119686
 

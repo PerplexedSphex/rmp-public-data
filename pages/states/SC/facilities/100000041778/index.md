@@ -1,6 +1,6 @@
-# Unknown
+# Middle Branch WWTP
 
-**Location:** Unknown, SC
+**Location:** Easley, SC
 
 **EPA Facility ID:** 100000041778
 

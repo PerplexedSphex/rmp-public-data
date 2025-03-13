@@ -1,6 +1,6 @@
-# Unknown
+# R&D Plastics of Hickory
 
-**Location:** Unknown, NC
+**Location:** Hickory, NC
 
 **EPA Facility ID:** 100000188254
 

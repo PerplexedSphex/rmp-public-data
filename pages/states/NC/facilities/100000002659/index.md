@@ -1,6 +1,6 @@
-# Unknown
+# Gregory Poole Equipment Company
 
-**Location:** Unknown, NC
+**Location:** HOPE MILLS, NC
 
 **EPA Facility ID:** 100000002659
 

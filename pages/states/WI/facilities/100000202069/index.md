@@ -1,6 +1,6 @@
-# Unknown
+# Hammond Cold Storage
 
-**Location:** Unknown, WI
+**Location:** Hammond, WI
 
 **EPA Facility ID:** 100000202069
 

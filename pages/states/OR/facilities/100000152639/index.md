@@ -1,6 +1,6 @@
-# Unknown
+# Fiskars Brands Inc., Gerber Legendary Blades Div.
 
-**Location:** Unknown, OR
+**Location:** Portland, OR
 
 **EPA Facility ID:** 100000152639
 

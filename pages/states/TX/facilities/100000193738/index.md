@@ -1,6 +1,6 @@
-# Unknown
+# Guardian Industries Corporation
 
-**Location:** Unknown, TX
+**Location:** Corsicana, TX
 
 **EPA Facility ID:** 100000193738
 

@@ -1,6 +1,6 @@
-# Unknown
+# PureCycle Ironton Facility
 
-**Location:** Unknown, OH
+**Location:** Ironton, OH
 
 **EPA Facility ID:** 100000249929
 

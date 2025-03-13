@@ -1,6 +1,6 @@
-# Unknown
+# Carbide Facility
 
-**Location:** Unknown, WV
+**Location:** Hastings, WV
 
 **EPA Facility ID:** 100000227541
 

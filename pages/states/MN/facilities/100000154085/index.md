@@ -1,6 +1,6 @@
-# Unknown
+# Halstad Elevator Company, Inc.
 
-**Location:** Unknown, MN
+**Location:** Halstad, MN
 
 **EPA Facility ID:** 100000154085
 

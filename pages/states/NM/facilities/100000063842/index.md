@@ -1,6 +1,6 @@
-# Unknown
+# Pecos Diamond Gas Plant
 
-**Location:** Unknown, NM
+**Location:** Artesia, NM
 
 **EPA Facility ID:** 100000063842
 

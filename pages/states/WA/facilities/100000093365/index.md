@@ -1,6 +1,6 @@
-# Unknown
+# City of Tacoma, Central Wastewater Treatment Plant
 
-**Location:** Unknown, WA
+**Location:** Tacoma, WA
 
 **EPA Facility ID:** 100000093365
 

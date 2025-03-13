@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Hardy NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Hardy, NE
 
 **EPA Facility ID:** 100000147637
 

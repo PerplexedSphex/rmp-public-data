@@ -1,6 +1,6 @@
-# Unknown
+# Tyrone Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Tyrone, PA
 
 **EPA Facility ID:** 100000092927
 

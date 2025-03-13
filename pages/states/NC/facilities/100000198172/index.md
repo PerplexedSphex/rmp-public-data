@@ -1,6 +1,6 @@
-# Unknown
+# City of King Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Tobaccoville, NC
 
 **EPA Facility ID:** 100000198172
 

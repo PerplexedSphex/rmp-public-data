@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Garnett
 
-**Location:** Unknown, KS
+**Location:** Garnett, KS
 
 **EPA Facility ID:** 100000200891
 

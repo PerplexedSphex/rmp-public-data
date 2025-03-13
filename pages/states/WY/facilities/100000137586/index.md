@@ -1,6 +1,6 @@
-# Unknown
+# Wamsutter LLC Echo Springs Plant
 
-**Location:** Unknown, WY
+**Location:** Wamsutter, WY
 
 **EPA Facility ID:** 100000137586
 

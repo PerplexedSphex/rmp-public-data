@@ -1,6 +1,6 @@
-# Unknown
+# Baker Produce Pasco Holdings
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000240768
 

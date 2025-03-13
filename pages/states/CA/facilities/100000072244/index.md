@@ -1,6 +1,6 @@
-# Unknown
+# Second Imperial Geothermal Company (Heber 2)
 
-**Location:** Unknown, CA
+**Location:** Heber, CA
 
 **EPA Facility ID:** 100000072244
 

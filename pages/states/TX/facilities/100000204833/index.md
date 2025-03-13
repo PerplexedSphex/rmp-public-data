@@ -1,6 +1,6 @@
-# Unknown
+# Johnson State Compressor Facility
 
-**Location:** Unknown, TX
+**Location:** Balmorhea, TX
 
 **EPA Facility ID:** 100000204833
 

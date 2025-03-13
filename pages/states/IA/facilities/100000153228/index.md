@@ -1,6 +1,6 @@
-# Unknown
+# Young's Fertilizer Service
 
-**Location:** Unknown, IA
+**Location:** Plano, IA
 
 **EPA Facility ID:** 100000153228
 

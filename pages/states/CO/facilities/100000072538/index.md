@@ -1,6 +1,6 @@
-# Unknown
+# City of Loveland Water Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Loveland, CO
 
 **EPA Facility ID:** 100000072538
 

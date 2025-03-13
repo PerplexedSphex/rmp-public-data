@@ -1,6 +1,6 @@
-# Unknown
+# Connersville Water Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** Connersville, IN
 
 **EPA Facility ID:** 100000110211
 

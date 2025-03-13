@@ -1,6 +1,6 @@
-# Unknown
+# Excelsior Springs Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Excelsior Springs, MO
 
 **EPA Facility ID:** 100000107172
 

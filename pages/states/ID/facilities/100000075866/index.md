@@ -1,6 +1,6 @@
-# Unknown
+# Oxarc, Inc.
 
-**Location:** Unknown, ID
+**Location:** Lewiston, ID
 
 **EPA Facility ID:** 100000075866
 

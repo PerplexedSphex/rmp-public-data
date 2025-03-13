@@ -1,6 +1,6 @@
-# Unknown
+# metalsAmerica, Inc.
 
-**Location:** Unknown, NC
+**Location:** Shelby, NC
 
 **EPA Facility ID:** 100000093524
 

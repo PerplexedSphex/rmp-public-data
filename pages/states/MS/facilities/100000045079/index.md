@@ -1,6 +1,6 @@
-# Unknown
+# Reynolds R. Ridgely Wastewater Plant
 
-**Location:** Unknown, MS
+**Location:** Columbus, MS
 
 **EPA Facility ID:** 100000045079
 

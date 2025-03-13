@@ -1,6 +1,6 @@
-# Unknown
+# Kelly-Moore Paint Company, Inc.
 
-**Location:** Unknown, TX
+**Location:** Hurst, TX
 
 **EPA Facility ID:** 100000132705
 

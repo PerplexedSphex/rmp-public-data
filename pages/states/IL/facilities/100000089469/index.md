@@ -1,6 +1,6 @@
-# Unknown
+# Salem Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Salem, IL
 
 **EPA Facility ID:** 100000089469
 

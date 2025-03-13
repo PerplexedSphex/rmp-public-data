@@ -1,6 +1,6 @@
-# Unknown
+# Clayton NH3 Plant
 
-**Location:** Unknown, KS
+**Location:** CLAYTON, KS
 
 **EPA Facility ID:** 100000035115
 

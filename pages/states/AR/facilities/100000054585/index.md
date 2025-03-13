@@ -1,6 +1,6 @@
-# Unknown
+# TYSON POULTRY, INC. RUSSELLVILLE, AR. (TYLER RD.)
 
-**Location:** Unknown, AR
+**Location:** RUSSELLVILLE, AR
 
 **EPA Facility ID:** 100000054585
 

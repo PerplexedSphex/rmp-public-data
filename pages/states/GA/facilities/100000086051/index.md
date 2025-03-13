@@ -1,6 +1,6 @@
-# Unknown
+# McKenzie Service Company- Bainbridge, GA (6100)
 
-**Location:** Unknown, GA
+**Location:** Bainbridge, GA
 
 **EPA Facility ID:** 100000086051
 

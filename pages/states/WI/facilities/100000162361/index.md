@@ -1,6 +1,6 @@
-# Unknown
+# The DeLong Co., Inc.
 
-**Location:** Unknown, WI
+**Location:** Clinton, WI
 
 **EPA Facility ID:** 100000162361
 

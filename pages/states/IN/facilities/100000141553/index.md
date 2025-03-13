@@ -1,6 +1,6 @@
-# Unknown
+# Loogootee Branch
 
-**Location:** Unknown, IN
+**Location:** Logootee, IN
 
 **EPA Facility ID:** 100000141553
 

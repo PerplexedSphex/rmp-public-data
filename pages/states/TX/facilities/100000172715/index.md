@@ -1,6 +1,6 @@
-# Unknown
+# El Paso Valley Cotton Association, Inc.
 
-**Location:** Unknown, TX
+**Location:** Clint, TX
 
 **EPA Facility ID:** 100000172715
 

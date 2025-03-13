@@ -1,6 +1,6 @@
-# Unknown
+# Washita Plant
 
-**Location:** Unknown, OK
+**Location:** Ardmore, OK
 
 **EPA Facility ID:** 100000222234
 

@@ -1,6 +1,6 @@
-# Unknown
+# Snakes Pad
 
-**Location:** Unknown, ND
+**Location:** New Town, ND
 
 **EPA Facility ID:** 100000228292
 

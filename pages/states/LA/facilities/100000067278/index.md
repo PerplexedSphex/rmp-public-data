@@ -1,6 +1,6 @@
-# Unknown
+# Lowry Plant
 
-**Location:** Unknown, LA
+**Location:** Lake Arthur, LA
 
 **EPA Facility ID:** 100000067278
 

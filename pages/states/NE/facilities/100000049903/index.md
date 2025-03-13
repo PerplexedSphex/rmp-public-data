@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op - Inland
 
-**Location:** Unknown, NE
+**Location:** Inland, NE
 
 **EPA Facility ID:** 100000049903
 

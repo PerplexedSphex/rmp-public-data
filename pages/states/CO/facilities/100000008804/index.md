@@ -1,6 +1,6 @@
-# Unknown
+# Wallace County Coop - Arapahoe
 
-**Location:** Unknown, CO
+**Location:** Arapahoe, CO
 
 **EPA Facility ID:** 100000008804
 

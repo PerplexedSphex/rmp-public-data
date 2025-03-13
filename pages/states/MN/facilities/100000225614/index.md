@@ -1,6 +1,6 @@
-# Unknown
+# City of Waseca Wastewater Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Waseca, MN
 
 **EPA Facility ID:** 100000225614
 

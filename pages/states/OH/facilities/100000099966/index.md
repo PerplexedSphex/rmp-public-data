@@ -1,6 +1,6 @@
-# Unknown
+# Perstorp Polyols, Inc.
 
-**Location:** Unknown, OH
+**Location:** Toledo, OH
 
 **EPA Facility ID:** 100000099966
 

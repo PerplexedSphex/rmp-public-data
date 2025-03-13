@@ -1,6 +1,6 @@
-# Unknown
+# Sims Fertilizer & Chemical Company
 
-**Location:** Unknown, KS
+**Location:** OSBORNE, KS
 
 **EPA Facility ID:** 100000114128
 

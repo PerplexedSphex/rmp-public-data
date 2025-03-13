@@ -1,6 +1,6 @@
-# Unknown
+# Libby Gas Plant
 
-**Location:** Unknown, NM
+**Location:** Hobbs, NM
 
 **EPA Facility ID:** 100000239333
 

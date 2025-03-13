@@ -1,6 +1,6 @@
-# Unknown
+# CHIQUITA PROCESS FOODS - EUGENE PROCESSING
 
-**Location:** Unknown, OR
+**Location:** EUGENE, OR
 
 **EPA Facility ID:** 100000081653
 

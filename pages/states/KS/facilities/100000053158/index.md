@@ -1,6 +1,6 @@
-# Unknown
+# MEDICINE LODGE
 
-**Location:** Unknown, KS
+**Location:** MEDICINE LODGE, KS
 
 **EPA Facility ID:** 100000053158
 

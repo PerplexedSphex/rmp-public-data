@@ -1,6 +1,6 @@
-# Unknown
+# Garland NGL Storage Facility
 
-**Location:** Unknown, WY
+**Location:** Byron, WY
 
 **EPA Facility ID:** 100000202103
 

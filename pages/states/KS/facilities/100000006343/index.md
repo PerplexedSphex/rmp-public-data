@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Home, KS Facility
 
-**Location:** Unknown, KS
+**Location:** Home, KS
 
 **EPA Facility ID:** 100000006343
 

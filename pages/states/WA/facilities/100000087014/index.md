@@ -1,6 +1,6 @@
-# Unknown
+# Othello Simplot Grower Solutions
 
-**Location:** Unknown, WA
+**Location:** Othello, WA
 
 **EPA Facility ID:** 100000087014
 

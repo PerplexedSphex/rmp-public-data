@@ -1,6 +1,6 @@
-# Unknown
+# Ritzville LPG Terminal
 
-**Location:** Unknown, WA
+**Location:** Ritzville, WA
 
 **EPA Facility ID:** 100000180528
 

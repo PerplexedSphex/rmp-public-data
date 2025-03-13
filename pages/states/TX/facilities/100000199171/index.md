@@ -1,6 +1,6 @@
-# Unknown
+# Henderson (Smackover) Unit Facility
 
-**Location:** Unknown, TX
+**Location:** Kemp, TX
 
 **EPA Facility ID:** 100000199171
 

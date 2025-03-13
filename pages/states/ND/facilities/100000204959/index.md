@@ -1,6 +1,6 @@
-# Unknown
+# Tharaldson Ethanol Plant 1
 
-**Location:** Unknown, ND
+**Location:** Casselton, ND
 
 **EPA Facility ID:** 100000204959
 

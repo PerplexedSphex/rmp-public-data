@@ -1,6 +1,6 @@
-# Unknown
+# Hecla SD Anhydrous Ammonia Plant
 
-**Location:** Unknown, SD
+**Location:** Hecla, SD
 
 **EPA Facility ID:** 100000204441
 

@@ -1,6 +1,6 @@
-# Unknown
+# J. R. Simplot Company - Heyburn Plant
 
-**Location:** Unknown, ID
+**Location:** Heyburn, ID
 
 **EPA Facility ID:** 100000090698
 

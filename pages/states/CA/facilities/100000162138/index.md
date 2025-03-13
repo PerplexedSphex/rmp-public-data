@@ -1,6 +1,6 @@
-# Unknown
+# Henry Tate Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Mentone, CA
 
 **EPA Facility ID:** 100000162138
 

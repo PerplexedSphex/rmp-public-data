@@ -1,6 +1,6 @@
-# Unknown
+# CLAREMONT GRAIN ELEVATOR
 
-**Location:** Unknown, SD
+**Location:** CLAREMONT, SD
 
 **EPA Facility ID:** 100000008993
 

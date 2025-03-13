@@ -1,6 +1,6 @@
-# Unknown
+# Itafos Conda LLC
 
-**Location:** Unknown, ID
+**Location:** Soda Springs, ID
 
 **EPA Facility ID:** 100000108082
 

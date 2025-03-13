@@ -1,6 +1,6 @@
-# Unknown
+# Chicago Specialties LLC
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000002089
 

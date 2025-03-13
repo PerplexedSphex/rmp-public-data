@@ -1,6 +1,6 @@
-# Unknown
+# Americold - CHILLICOTHE
 
-**Location:** Unknown, MO
+**Location:** Chillicothe, MO
 
 **EPA Facility ID:** 100000191605
 

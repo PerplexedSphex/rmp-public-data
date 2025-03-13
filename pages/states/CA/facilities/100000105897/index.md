@@ -1,6 +1,6 @@
-# Unknown
+# Redding Foothill Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Redding, CA
 
 **EPA Facility ID:** 100000105897
 

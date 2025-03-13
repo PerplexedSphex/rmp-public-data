@@ -1,6 +1,6 @@
-# Unknown
+# Amfine Chemical Corporation
 
-**Location:** Unknown, KY
+**Location:** Hopkinsville, KY
 
 **EPA Facility ID:** 100000172868
 

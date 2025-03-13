@@ -1,6 +1,6 @@
-# Unknown
+# Southern Minnesota Beet Sugar Cooperative
 
-**Location:** Unknown, MN
+**Location:** Renville, MN
 
 **EPA Facility ID:** 100000139548
 

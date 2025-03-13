@@ -1,6 +1,6 @@
-# Unknown
+# superior products sales inc.
 
-**Location:** Unknown, MS
+**Location:** Plantersville, MS
 
 **EPA Facility ID:** 100000112157
 

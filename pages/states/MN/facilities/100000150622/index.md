@@ -1,6 +1,6 @@
-# Unknown
+# Jennie-O Turkey Store, Inc., Faribault
 
-**Location:** Unknown, MN
+**Location:** Faribault, MN
 
 **EPA Facility ID:** 100000150622
 

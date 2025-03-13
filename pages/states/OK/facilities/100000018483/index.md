@@ -1,6 +1,6 @@
-# Unknown
+# W.B. Johnston Grain - Wakita, Oklahoma
 
-**Location:** Unknown, OK
+**Location:** Wakita, OK
 
 **EPA Facility ID:** 100000018483
 

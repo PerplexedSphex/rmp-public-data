@@ -1,6 +1,6 @@
-# Unknown
+# Bowman Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Auburn, CA
 
 **EPA Facility ID:** 100000083982
 

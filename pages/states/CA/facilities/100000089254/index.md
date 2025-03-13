@@ -1,6 +1,6 @@
-# Unknown
+# Tri-County Pool Service, Inc.
 
-**Location:** Unknown, CA
+**Location:** Salida, CA
 
 **EPA Facility ID:** 100000089254
 

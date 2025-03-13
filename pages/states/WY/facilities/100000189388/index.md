@@ -1,6 +1,6 @@
-# Unknown
+# Wyoming Ethanol, LLC
 
-**Location:** Unknown, WY
+**Location:** Torrington, WY
 
 **EPA Facility ID:** 100000189388
 

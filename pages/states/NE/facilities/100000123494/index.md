@@ -1,6 +1,6 @@
-# Unknown
+# Arnie's Bakery, Inc.
 
-**Location:** Unknown, NE
+**Location:** Nebraska City, NE
 
 **EPA Facility ID:** 100000123494
 

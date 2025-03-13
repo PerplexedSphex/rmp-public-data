@@ -1,6 +1,6 @@
-# Unknown
+# Chelsea Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Okatie, SC
 
 **EPA Facility ID:** 100000026946
 

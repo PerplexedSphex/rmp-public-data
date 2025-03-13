@@ -1,6 +1,6 @@
-# Unknown
+# West Oak Plant
 
-**Location:** Unknown, GA
+**Location:** Marietta, GA
 
 **EPA Facility ID:** 100000055708
 

@@ -1,6 +1,6 @@
-# Unknown
+# Western New York Energy, LLC
 
-**Location:** Unknown, NY
+**Location:** Medina, NY
 
 **EPA Facility ID:** 100000200926
 

@@ -1,6 +1,6 @@
-# Unknown
+# City Brewing Company, LLC
 
-**Location:** Unknown, WI
+**Location:** La Crosse, WI
 
 **EPA Facility ID:** 100000054353
 

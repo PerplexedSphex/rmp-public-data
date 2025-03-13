@@ -1,6 +1,6 @@
-# Unknown
+# Lynn Water Treatment Plant
 
-**Location:** Unknown, MA
+**Location:** Lynn, MA
 
 **EPA Facility ID:** 100000133045
 

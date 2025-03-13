@@ -1,6 +1,6 @@
-# Unknown
+# Bakelite Synthetics
 
-**Location:** Unknown, NC
+**Location:** Riegelwood, NC
 
 **EPA Facility ID:** 100000046657
 

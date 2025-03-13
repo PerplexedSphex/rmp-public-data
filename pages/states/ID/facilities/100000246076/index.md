@@ -1,6 +1,6 @@
-# Unknown
+# Dickinson Frozen Foods
 
-**Location:** Unknown, ID
+**Location:** Fruitland, ID
 
 **EPA Facility ID:** 100000246076
 

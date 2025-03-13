@@ -1,6 +1,6 @@
-# Unknown
+# Brown Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Durham, NC
 
 **EPA Facility ID:** 100000104184
 

@@ -1,6 +1,6 @@
-# Unknown
+# Kingsburg Fruit Packing, Inc.
 
-**Location:** Unknown, CA
+**Location:** Kingsburg, CA
 
 **EPA Facility ID:** 100000070344
 

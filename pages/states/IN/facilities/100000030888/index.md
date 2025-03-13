@@ -1,6 +1,6 @@
-# Unknown
+# Lapel Ag Center
 
-**Location:** Unknown, IN
+**Location:** Lapel, IN
 
 **EPA Facility ID:** 100000030888
 

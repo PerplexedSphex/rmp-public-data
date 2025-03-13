@@ -1,6 +1,6 @@
-# Unknown
+# BGC Ice Plant and Perishable/Frozen Warehouse
 
-**Location:** Unknown, TX
+**Location:** Tyler, TX
 
 **EPA Facility ID:** 100000031191
 

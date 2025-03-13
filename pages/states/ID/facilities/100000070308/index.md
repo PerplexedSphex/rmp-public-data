@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Nez Perce
 
-**Location:** Unknown, ID
+**Location:** Nezperce, ID
 
 **EPA Facility ID:** 100000070308
 

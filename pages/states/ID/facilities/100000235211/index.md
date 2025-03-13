@@ -1,6 +1,6 @@
-# Unknown
+# CS Beef Packers, LLC
 
-**Location:** Unknown, ID
+**Location:** Kuna, ID
 
 **EPA Facility ID:** 100000235211
 

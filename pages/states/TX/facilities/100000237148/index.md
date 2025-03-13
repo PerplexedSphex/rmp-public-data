@@ -1,6 +1,6 @@
-# Unknown
+# Pegasus Foods Inc
 
-**Location:** Unknown, TX
+**Location:** Rockwall, TX
 
 **EPA Facility ID:** 100000237148
 

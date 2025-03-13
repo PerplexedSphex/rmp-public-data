@@ -1,6 +1,6 @@
-# Unknown
+# Johnny Boyd Fertilizer Co., Inc.
 
-**Location:** Unknown, GA
+**Location:** Statesboro, GA
 
 **EPA Facility ID:** 100000146013
 

@@ -1,6 +1,6 @@
-# Unknown
+# Belton-Honea Path  Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Honea-Path, SC
 
 **EPA Facility ID:** 100000054139
 

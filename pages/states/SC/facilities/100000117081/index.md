@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Greer, SC
 
 **EPA Facility ID:** 100000117081
 

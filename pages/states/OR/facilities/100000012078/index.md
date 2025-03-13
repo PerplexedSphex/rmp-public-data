@@ -1,6 +1,6 @@
-# Unknown
+# Morrow County Grain Growers, Inc., Heppner
 
-**Location:** Unknown, OR
+**Location:** Heppner, OR
 
 **EPA Facility ID:** 100000012078
 

@@ -1,6 +1,6 @@
-# Unknown
+# Innospec Active Chemicals High Point
 
-**Location:** Unknown, NC
+**Location:** High Point, NC
 
 **EPA Facility ID:** 100000246469
 

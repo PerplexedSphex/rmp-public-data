@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Tarnov
 
-**Location:** Unknown, NE
+**Location:** Tarnov, NE
 
 **EPA Facility ID:** 100000130805
 

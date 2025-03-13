@@ -1,6 +1,6 @@
-# Unknown
+# Luana Ammonia Plant
 
-**Location:** Unknown, IA
+**Location:** Luana, IA
 
 **EPA Facility ID:** 100000096184
 

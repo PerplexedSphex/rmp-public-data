@@ -1,6 +1,6 @@
-# Unknown
+# Zif Gas Plant
 
-**Location:** Unknown, IL
+**Location:** Clay City, IL
 
 **EPA Facility ID:** 100000066242
 

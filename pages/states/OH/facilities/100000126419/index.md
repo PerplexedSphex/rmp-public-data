@@ -1,6 +1,6 @@
-# Unknown
+# Gordon Food Service-Springfield
 
-**Location:** Unknown, OH
+**Location:** Springfield, OH
 
 **EPA Facility ID:** 100000126419
 

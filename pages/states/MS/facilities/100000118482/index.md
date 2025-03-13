@@ -1,6 +1,6 @@
-# Unknown
+# City of Vicksburg Wastewater Treatment Facility
 
-**Location:** Unknown, MS
+**Location:** Vicksburg, MS
 
 **EPA Facility ID:** 100000118482
 

@@ -1,6 +1,6 @@
-# Unknown
+# Seneca Gas Processing Plant
 
-**Location:** Unknown, OH
+**Location:** Summerfield, OH
 
 **EPA Facility ID:** 100000222555
 

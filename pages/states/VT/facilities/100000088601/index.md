@@ -1,6 +1,6 @@
-# Unknown
+# Waterbury Plant - Ben & Jerry's
 
-**Location:** Unknown, VT
+**Location:** Waterbury, VT
 
 **EPA Facility ID:** 100000088601
 

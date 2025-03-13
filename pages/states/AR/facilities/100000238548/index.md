@@ -1,6 +1,6 @@
-# Unknown
+# Darling Ingredients Springdale
 
-**Location:** Unknown, AR
+**Location:** Springdale, AR
 
 **EPA Facility ID:** 100000238548
 

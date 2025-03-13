@@ -1,6 +1,6 @@
-# Unknown
+# CHIQUITA PROCESSED FOODS - SALEM PROCESSING
 
-**Location:** Unknown, OR
+**Location:** SALEM, OR
 
 **EPA Facility ID:** 100000085622
 

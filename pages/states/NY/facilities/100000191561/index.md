@@ -1,6 +1,6 @@
-# Unknown
+# Pregis Corporation - Queensbury, NY - Plant 2
 
-**Location:** Unknown, NY
+**Location:** Queensbury, NY
 
 **EPA Facility ID:** 100000191561
 

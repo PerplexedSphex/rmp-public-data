@@ -1,6 +1,6 @@
-# Unknown
+# FARMERS COOPERATIVE ASSOCIATION
 
-**Location:** Unknown, MO
+**Location:** RUSHVILLE, MO
 
 **EPA Facility ID:** 100000104594
 

@@ -1,6 +1,6 @@
-# Unknown
+# Black River Wastewater Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Lorain, OH
 
 **EPA Facility ID:** 100000060729
 

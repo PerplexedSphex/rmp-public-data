@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Garrison
 
-**Location:** Unknown, ND
+**Location:** Garrison, ND
 
 **EPA Facility ID:** 100000162619
 

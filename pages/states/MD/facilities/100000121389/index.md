@@ -1,6 +1,6 @@
-# Unknown
+# Goldwell Cosmetics (USA), Inc.
 
-**Location:** Unknown, MD
+**Location:** Linthicum Heights, MD
 
 **EPA Facility ID:** 100000121389
 

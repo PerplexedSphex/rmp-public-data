@@ -1,6 +1,6 @@
-# Unknown
+# Yuma Ethanol, LLC
 
-**Location:** Unknown, CO
+**Location:** Yuma, CO
 
 **EPA Facility ID:** 100000199787
 

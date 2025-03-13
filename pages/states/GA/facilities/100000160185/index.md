@@ -1,6 +1,6 @@
-# Unknown
+# Americold, Lakewood - Plant # 75102
 
-**Location:** Unknown, GA
+**Location:** Atlanta, GA
 
 **EPA Facility ID:** 100000160185
 

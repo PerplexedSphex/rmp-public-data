@@ -1,6 +1,6 @@
-# Unknown
+# Harkins Street Holdings LLC
 
-**Location:** Unknown, CA
+**Location:** Salinas, CA
 
 **EPA Facility ID:** 100000166438
 

@@ -1,6 +1,6 @@
-# Unknown
+# Garelick Farms, LLC - Lynn
 
-**Location:** Unknown, MA
+**Location:** LYNN, MA
 
 **EPA Facility ID:** 100000127221
 

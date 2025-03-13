@@ -1,6 +1,6 @@
-# Unknown
+# Target Food Distribution Center T3880
 
-**Location:** Unknown, OH
+**Location:** West Jefferson, OH
 
 **EPA Facility ID:** 100000222323
 

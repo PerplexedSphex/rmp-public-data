@@ -1,6 +1,6 @@
-# Unknown
+# Honeywell Electronic Chemicals, LLC
 
-**Location:** Unknown, TX
+**Location:** Mansfield, TX
 
 **EPA Facility ID:** 100000086453
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lee County Solid Waste Resource Recovery Facility
 
-**Location:** Unknown, FL
+**Location:** Fort Myers, FL
 
 **EPA Facility ID:** 100000068749
 

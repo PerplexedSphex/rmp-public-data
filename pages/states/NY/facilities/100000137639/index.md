@@ -1,6 +1,6 @@
-# Unknown
+# G&C Foods, Inc.
 
-**Location:** Unknown, NY
+**Location:** Syracuse, NY
 
 **EPA Facility ID:** 100000137639
 

@@ -1,6 +1,6 @@
-# Unknown
+# Jennings-Gomer Equity, Inc.  - Col. Grove South
 
-**Location:** Unknown, OH
+**Location:** Columbus Grove, OH
 
 **EPA Facility ID:** 100000157714
 

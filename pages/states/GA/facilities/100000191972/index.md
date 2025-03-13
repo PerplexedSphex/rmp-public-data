@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics Albany-2
 
-**Location:** Unknown, GA
+**Location:** Albany, GA
 
 **EPA Facility ID:** 100000191972
 

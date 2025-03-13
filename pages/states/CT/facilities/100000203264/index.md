@@ -1,6 +1,6 @@
-# Unknown
+# Simoniz USA, Inc.
 
-**Location:** Unknown, CT
+**Location:** Bolton, CT
 
 **EPA Facility ID:** 100000203264
 

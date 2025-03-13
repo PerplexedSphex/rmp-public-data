@@ -1,6 +1,6 @@
-# Unknown
+# CITY OF WILMINGTON WATER TREATMENT PLANT
 
-**Location:** Unknown, OH
+**Location:** Wilmington, OH
 
 **EPA Facility ID:** 100000172341
 

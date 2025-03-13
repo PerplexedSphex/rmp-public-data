@@ -1,6 +1,6 @@
-# Unknown
+# Libbey Inc., City of Industry, CA Plant
 
-**Location:** Unknown, CA
+**Location:** Walnut, CA
 
 **EPA Facility ID:** 100000088772
 

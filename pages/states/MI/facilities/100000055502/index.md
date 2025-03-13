@@ -1,6 +1,6 @@
-# Unknown
+# West Branch Gas Plant
 
-**Location:** Unknown, MI
+**Location:** West Branch, MI
 
 **EPA Facility ID:** 100000055502
 

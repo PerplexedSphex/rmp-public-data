@@ -1,6 +1,6 @@
-# Unknown
+# West Virginia-American Water  Mercer/Summers WTP
 
-**Location:** Unknown, WV
+**Location:** True, WV
 
 **EPA Facility ID:** 100000085285
 

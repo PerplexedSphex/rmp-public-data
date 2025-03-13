@@ -1,6 +1,6 @@
-# Unknown
+# Yreka Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Yreka, CA
 
 **EPA Facility ID:** 100000190269
 

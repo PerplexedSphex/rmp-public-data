@@ -1,6 +1,6 @@
-# Unknown
+# Rapid City Water Reclamation Facility
 
-**Location:** Unknown, SD
+**Location:** Rapid City, SD
 
 **EPA Facility ID:** 100000135472
 

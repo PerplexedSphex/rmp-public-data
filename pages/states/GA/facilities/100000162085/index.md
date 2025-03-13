@@ -1,6 +1,6 @@
-# Unknown
+# Rabun Apparel, Inc.
 
-**Location:** Unknown, GA
+**Location:** Rabun Gap, GA
 
 **EPA Facility ID:** 100000162085
 

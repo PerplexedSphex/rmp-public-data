@@ -1,6 +1,6 @@
-# Unknown
+# Kansas City Steak Company
 
-**Location:** Unknown, KS
+**Location:** Kansas City, KS
 
 **EPA Facility ID:** 100000246691
 

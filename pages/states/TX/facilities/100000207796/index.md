@@ -1,6 +1,6 @@
-# Unknown
+# Polycoat Products LLC
 
-**Location:** Unknown, TX
+**Location:** Bedford, TX
 
 **EPA Facility ID:** 100000207796
 

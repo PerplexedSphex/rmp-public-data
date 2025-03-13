@@ -1,6 +1,6 @@
-# Unknown
+# Consolidated Grange Supply Coop - Ritzville Fertil
 
-**Location:** Unknown, WA
+**Location:** Ritzville, WA
 
 **EPA Facility ID:** 100000163066
 

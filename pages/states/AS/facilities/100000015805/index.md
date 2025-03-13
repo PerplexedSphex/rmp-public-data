@@ -1,6 +1,6 @@
-# Unknown
+# COS Samoa Packing Company
 
-**Location:** Unknown, AS
+**Location:** Atu'u, AS
 
 **EPA Facility ID:** 100000015805
 

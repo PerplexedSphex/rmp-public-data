@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage, Oakland
 
-**Location:** Unknown, CA
+**Location:** Oakland, CA
 
 **EPA Facility ID:** 100000053194
 

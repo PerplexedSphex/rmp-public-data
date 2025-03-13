@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Salinas 2118
 
-**Location:** Unknown, CA
+**Location:** Salinas, CA
 
 **EPA Facility ID:** 100000029328
 

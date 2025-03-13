@@ -1,6 +1,6 @@
-# Unknown
+# Georgia-Pacific Resins, Inc., White City, OR
 
-**Location:** Unknown, OR
+**Location:** White City, OR
 
 **EPA Facility ID:** 100000080538
 

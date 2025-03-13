@@ -1,6 +1,6 @@
-# Unknown
+# Lee Creek Water Treatment Facility
 
-**Location:** Unknown, AR
+**Location:** Van Buren, AR
 
 **EPA Facility ID:** 100000120442
 

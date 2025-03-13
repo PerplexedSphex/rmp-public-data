@@ -1,6 +1,6 @@
-# Unknown
+# Hereford Grain Corporation-Sears Location
 
-**Location:** Unknown, TX
+**Location:** Hereford, TX
 
 **EPA Facility ID:** 100000013184
 

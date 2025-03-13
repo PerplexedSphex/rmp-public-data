@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Cooperative - Seward East
 
-**Location:** Unknown, NE
+**Location:** Seward, NE
 
 **EPA Facility ID:** 100000097316
 

@@ -1,6 +1,6 @@
-# Unknown
+# Silver Bay Seafoods - Ketchikan
 
-**Location:** Unknown, AK
+**Location:** Ketchikan, AK
 
 **EPA Facility ID:** 100000217598
 

@@ -1,6 +1,6 @@
-# Unknown
+# United Ag Service Inc. - Stickney
 
-**Location:** Unknown, KS
+**Location:** Hoisington, KS
 
 **EPA Facility ID:** 100000022824
 

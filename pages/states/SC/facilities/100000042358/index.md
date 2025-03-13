@@ -1,6 +1,6 @@
-# Unknown
+# Saluda River WTP
 
-**Location:** Unknown, SC
+**Location:** West Columbia, SC
 
 **EPA Facility ID:** 100000042358
 

@@ -1,6 +1,6 @@
-# Unknown
+# Alton Waste Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Alton, IL
 
 **EPA Facility ID:** 100000244247
 

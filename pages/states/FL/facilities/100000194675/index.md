@@ -1,6 +1,6 @@
-# Unknown
+# Paramount Chemicals & Plastics, Inc.
 
-**Location:** Unknown, FL
+**Location:** Felda, FL
 
 **EPA Facility ID:** 100000194675
 

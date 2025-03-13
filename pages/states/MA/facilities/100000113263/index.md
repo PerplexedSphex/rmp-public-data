@@ -1,6 +1,6 @@
-# Unknown
+# Cleveland Chlorinator Facility
 
-**Location:** Unknown, MA
+**Location:** Hinsdale, MA
 
 **EPA Facility ID:** 100000113263
 

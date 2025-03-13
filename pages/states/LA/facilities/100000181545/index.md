@@ -1,6 +1,6 @@
-# Unknown
+# Rocky Mount Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Plain Dealing, LA
 
 **EPA Facility ID:** 100000181545
 

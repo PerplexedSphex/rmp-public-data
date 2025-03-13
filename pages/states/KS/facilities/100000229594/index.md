@@ -1,6 +1,6 @@
-# Unknown
+# Wathena, KS 1050
 
-**Location:** Unknown, KS
+**Location:** Wathena, KS
 
 **EPA Facility ID:** 100000229594
 

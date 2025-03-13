@@ -1,6 +1,6 @@
-# Unknown
+# Junction City Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Junction City, KS
 
 **EPA Facility ID:** 100000147281
 

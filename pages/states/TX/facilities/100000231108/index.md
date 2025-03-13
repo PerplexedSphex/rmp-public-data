@@ -1,6 +1,6 @@
-# Unknown
+# Tarzan Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Lenorah, TX
 
 **EPA Facility ID:** 100000231108
 

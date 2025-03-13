@@ -1,6 +1,6 @@
-# Unknown
+# Pawnee County Coop-Garfield Branch
 
-**Location:** Unknown, KS
+**Location:** Garfield, KS
 
 **EPA Facility ID:** 100000073671
 

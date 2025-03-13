@@ -1,6 +1,6 @@
-# Unknown
+# City of Boise- West Boise WWTP
 
-**Location:** Unknown, ID
+**Location:** Boise, ID
 
 **EPA Facility ID:** 100000089931
 

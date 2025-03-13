@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company
 
-**Location:** Unknown, NE
+**Location:** Osmond, NE
 
 **EPA Facility ID:** 100000011319
 

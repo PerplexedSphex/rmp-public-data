@@ -1,6 +1,6 @@
-# Unknown
+# Boyd Lake Water Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Loveland, CO
 
 **EPA Facility ID:** 100000092534
 

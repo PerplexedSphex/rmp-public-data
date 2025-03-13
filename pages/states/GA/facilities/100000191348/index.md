@@ -1,6 +1,6 @@
-# Unknown
+# Fort Benning Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Fort Benning, GA
 
 **EPA Facility ID:** 100000191348
 

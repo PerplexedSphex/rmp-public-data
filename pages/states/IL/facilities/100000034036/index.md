@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-Noble
 
-**Location:** Unknown, IL
+**Location:** Noble, IL
 
 **EPA Facility ID:** 100000034036
 

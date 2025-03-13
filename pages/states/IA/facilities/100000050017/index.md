@@ -1,6 +1,6 @@
-# Unknown
+# Landus Cooperative - Coon Rapids
 
-**Location:** Unknown, IA
+**Location:** Coon Rapids, IA
 
 **EPA Facility ID:** 100000050017
 

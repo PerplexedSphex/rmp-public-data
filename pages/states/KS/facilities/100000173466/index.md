@@ -1,6 +1,6 @@
-# Unknown
+# Lebanon Elevator - South Plant
 
-**Location:** Unknown, KS
+**Location:** Lebanon, KS
 
 **EPA Facility ID:** 100000173466
 

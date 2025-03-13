@@ -1,6 +1,6 @@
-# Unknown
+# Sligo Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Haughton, LA
 
 **EPA Facility ID:** 100000064191
 

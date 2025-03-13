@@ -1,6 +1,6 @@
-# Unknown
+# Harbor Generating Station
 
-**Location:** Unknown, CA
+**Location:** Wilmington, CA
 
 **EPA Facility ID:** 100000139673
 

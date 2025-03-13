@@ -1,6 +1,6 @@
-# Unknown
+# Cass County Service Co. Arendsville
 
-**Location:** Unknown, IL
+**Location:** Arendsville, IL
 
 **EPA Facility ID:** 100000089085
 

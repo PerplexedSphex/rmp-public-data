@@ -1,6 +1,6 @@
-# Unknown
+# Griffin Warehouse, Inc. Douglas
 
-**Location:** Unknown, GA
+**Location:** Douglas, GA
 
 **EPA Facility ID:** 100000146193
 

@@ -1,6 +1,6 @@
-# Unknown
+# United Cooperative - Stratford
 
-**Location:** Unknown, IA
+**Location:** Stratford, IA
 
 **EPA Facility ID:** 100000071691
 

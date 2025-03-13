@@ -1,6 +1,6 @@
-# Unknown
+# TENNIS ELEVATOR
 
-**Location:** Unknown, KS
+**Location:** GARDEN CITY, KS
 
 **EPA Facility ID:** 100000003603
 

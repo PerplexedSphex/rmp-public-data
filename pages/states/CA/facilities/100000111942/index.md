@@ -1,6 +1,6 @@
-# Unknown
+# Cogeneration Facility 38
 
-**Location:** Unknown, CA
+**Location:** Taft, CA
 
 **EPA Facility ID:** 100000111942
 

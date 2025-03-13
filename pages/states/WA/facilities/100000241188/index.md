@@ -1,6 +1,6 @@
-# Unknown
+# Sagebrush Flats
 
-**Location:** Unknown, WA
+**Location:** Coulee City, WA
 
 **EPA Facility ID:** 100000241188
 

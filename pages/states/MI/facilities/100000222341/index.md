@@ -1,6 +1,6 @@
-# Unknown
+# IMA Foam Plant
 
-**Location:** Unknown, MI
+**Location:** Detroit, MI
 
 **EPA Facility ID:** 100000222341
 

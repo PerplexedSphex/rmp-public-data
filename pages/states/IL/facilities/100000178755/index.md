@@ -1,6 +1,6 @@
-# Unknown
+# Kincaid Generation, L.L.C.
 
-**Location:** Unknown, IL
+**Location:** Kincaid, IL
 
 **EPA Facility ID:** 100000178755
 

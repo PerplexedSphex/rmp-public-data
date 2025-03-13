@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc - Leith
 
-**Location:** Unknown, ND
+**Location:** Carson, ND
 
 **EPA Facility ID:** 100000160416
 

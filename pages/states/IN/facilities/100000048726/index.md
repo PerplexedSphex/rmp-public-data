@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water - Northwest, Borman Park
 
-**Location:** Unknown, IN
+**Location:** Gary, IN
 
 **EPA Facility ID:** 100000048726
 

@@ -1,6 +1,6 @@
-# Unknown
+# Aldi, Incorporated
 
-**Location:** Unknown, MO
+**Location:** O'Fallon, MO
 
 **EPA Facility ID:** 100000197208
 

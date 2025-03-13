@@ -1,6 +1,6 @@
-# Unknown
+# Southern Foods Group, LLC d/b/a Meadow Gold Dairie
 
-**Location:** Unknown, NE
+**Location:** Lincoln, NE
 
 **EPA Facility ID:** 100000124037
 

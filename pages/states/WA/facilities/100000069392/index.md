@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company LLC Tilma, WA
 
-**Location:** Unknown, WA
+**Location:** Tekoa, WA
 
 **EPA Facility ID:** 100000069392
 

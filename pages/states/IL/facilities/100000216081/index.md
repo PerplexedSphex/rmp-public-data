@@ -1,6 +1,6 @@
-# Unknown
+# Aldi Foods Batavia
 
-**Location:** Unknown, IL
+**Location:** Batavia, IL
 
 **EPA Facility ID:** 100000216081
 

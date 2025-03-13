@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics Dothan
 
-**Location:** Unknown, AL
+**Location:** Dothan, AL
 
 **EPA Facility ID:** 100000238744
 

@@ -1,6 +1,6 @@
-# Unknown
+# Terra International, Inc. - Latty, Ohio
 
-**Location:** Unknown, OH
+**Location:** Latty, OH
 
 **EPA Facility ID:** 100000069141
 

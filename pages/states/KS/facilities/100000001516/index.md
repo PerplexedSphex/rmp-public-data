@@ -1,6 +1,6 @@
-# Unknown
+# PBI/Gordon Corporation Plant
 
-**Location:** Unknown, KS
+**Location:** Kansas City, KS
 
 **EPA Facility ID:** 100000001516
 

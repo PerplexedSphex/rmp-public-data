@@ -1,6 +1,6 @@
-# Unknown
+# Future Foam, Inc.
 
-**Location:** Unknown, WI
+**Location:** Middleton, WI
 
 **EPA Facility ID:** 100000101249
 

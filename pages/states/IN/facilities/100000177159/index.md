@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Great Lakes, LLC - Fort Wayne
 
-**Location:** Unknown, IN
+**Location:** Fort Wayne, IN
 
 **EPA Facility ID:** 100000177159
 

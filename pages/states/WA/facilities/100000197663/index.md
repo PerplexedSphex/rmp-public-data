@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics- Garfield Pier 91 Facility
 
-**Location:** Unknown, WA
+**Location:** Seattle, WA
 
 **EPA Facility ID:** 100000197663
 

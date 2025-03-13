@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage, Wilmington
 
-**Location:** Unknown, IL
+**Location:** Wilmington, IL
 
 **EPA Facility ID:** 100000205734
 

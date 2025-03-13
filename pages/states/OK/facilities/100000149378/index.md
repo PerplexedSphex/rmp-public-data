@@ -1,6 +1,6 @@
-# Unknown
+# Bar-S Foods - Elk City, OK Facility
 
-**Location:** Unknown, OK
+**Location:** Elk City, OK
 
 **EPA Facility ID:** 100000149378
 

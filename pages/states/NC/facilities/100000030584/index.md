@@ -1,6 +1,6 @@
-# Unknown
+# Georgia-Pacific Resins, Inc.
 
-**Location:** Unknown, NC
+**Location:** Denton, NC
 
 **EPA Facility ID:** 100000030584
 

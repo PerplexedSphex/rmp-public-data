@@ -1,6 +1,6 @@
-# Unknown
+# Kentucky Utilities - E.W. Brown Station
 
-**Location:** Unknown, KY
+**Location:** Harrodsburg, KY
 
 **EPA Facility ID:** 100000169738
 

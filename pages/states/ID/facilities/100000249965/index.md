@@ -1,6 +1,6 @@
-# Unknown
+# True West Beef LLC
 
-**Location:** Unknown, ID
+**Location:** Jerome, ID
 
 **EPA Facility ID:** 100000249965
 

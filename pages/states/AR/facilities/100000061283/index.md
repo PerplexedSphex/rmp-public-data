@@ -1,6 +1,6 @@
-# Unknown
+# OK Foods - Ft. Smith
 
-**Location:** Unknown, AR
+**Location:** Fort Smith, AR
 
 **EPA Facility ID:** 100000061283
 

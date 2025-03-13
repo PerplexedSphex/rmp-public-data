@@ -1,6 +1,6 @@
-# Unknown
+# Spice World Inc.
 
-**Location:** Unknown, CA
+**Location:** Coalinga, CA
 
 **EPA Facility ID:** 100000248172
 

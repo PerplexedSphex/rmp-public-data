@@ -1,6 +1,6 @@
-# Unknown
+# Pacific Surimi - Newport LLC
 
-**Location:** Unknown, OR
+**Location:** Newport, OR
 
 **EPA Facility ID:** 100000205823
 

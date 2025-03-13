@@ -1,6 +1,6 @@
-# Unknown
+# OBI Seafoods - Petersburg
 
-**Location:** Unknown, AK
+**Location:** Petersburg, AK
 
 **EPA Facility ID:** 100000113003
 

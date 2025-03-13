@@ -1,6 +1,6 @@
-# Unknown
+# Worth Chemical Corporation
 
-**Location:** Unknown, TN
+**Location:** Chattanooga, TN
 
 **EPA Facility ID:** 100000041251
 

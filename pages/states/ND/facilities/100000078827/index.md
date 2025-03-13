@@ -1,6 +1,6 @@
-# Unknown
+# Mohall NH3 Plant
 
-**Location:** Unknown, ND
+**Location:** Mohall, ND
 
 **EPA Facility ID:** 100000078827
 

@@ -1,6 +1,6 @@
-# Unknown
+# Fairfield Water Pollution Control Facility
 
-**Location:** Unknown, CT
+**Location:** Fairfield, CT
 
 **EPA Facility ID:** 100000160737
 

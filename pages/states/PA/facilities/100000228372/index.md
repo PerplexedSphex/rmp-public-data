@@ -1,6 +1,6 @@
-# Unknown
+# Giorgio Foods, Inc
 
-**Location:** Unknown, PA
+**Location:** Blandon, PA
 
 **EPA Facility ID:** 100000228372
 

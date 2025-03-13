@@ -1,6 +1,6 @@
-# Unknown
+# OTIS NH3 PLANT
 
-**Location:** Unknown, CO
+**Location:** OTIS, CO
 
 **EPA Facility ID:** 100000107056
 

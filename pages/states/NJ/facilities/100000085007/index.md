@@ -1,6 +1,6 @@
-# Unknown
+# Logan Generating Co., L.P.
 
-**Location:** Unknown, NJ
+**Location:** Swedesboro, NJ
 
 **EPA Facility ID:** 100000085007
 

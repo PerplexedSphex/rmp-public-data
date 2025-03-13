@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Kintyre
 
-**Location:** Unknown, ND
+**Location:** Kintyre, ND
 
 **EPA Facility ID:** 100000068491
 

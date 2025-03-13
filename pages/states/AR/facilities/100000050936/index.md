@@ -1,6 +1,6 @@
-# Unknown
+# TYSON Poultry, INC. DARDANELLE, AR.
 
-**Location:** Unknown, AR
+**Location:** DARDANELLE, AR
 
 **EPA Facility ID:** 100000050936
 

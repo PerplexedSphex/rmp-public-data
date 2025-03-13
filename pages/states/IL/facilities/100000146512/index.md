@@ -1,6 +1,6 @@
-# Unknown
+# City of Elmhurst Wastewater Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Elmhurst, IL
 
 **EPA Facility ID:** 100000146512
 

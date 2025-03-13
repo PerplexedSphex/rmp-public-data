@@ -1,6 +1,6 @@
-# Unknown
+# City of Peoria, Greenway Water Treatment Plant
 
-**Location:** Unknown, AZ
+**Location:** Peoria, AZ
 
 **EPA Facility ID:** 100000178103
 

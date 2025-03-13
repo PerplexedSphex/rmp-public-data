@@ -1,6 +1,6 @@
-# Unknown
+# City of Mitchell Water Treatment Facility
 
-**Location:** Unknown, SD
+**Location:** Mitchell, SD
 
 **EPA Facility ID:** 100000141651
 

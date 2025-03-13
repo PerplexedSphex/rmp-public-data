@@ -1,6 +1,6 @@
-# Unknown
+# Illini FS, Inc. - Fairmount NH3
 
-**Location:** Unknown, IL
+**Location:** Fairmount, IL
 
 **EPA Facility ID:** 100000019703
 

@@ -1,6 +1,6 @@
-# Unknown
+# Trotter Grain and Fertilizer
 
-**Location:** Unknown, NE
+**Location:** Loup City, NE
 
 **EPA Facility ID:** 100000110088
 

@@ -1,6 +1,6 @@
-# Unknown
+# Campbellsville Wastewater Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Campbellsville, KY
 
 **EPA Facility ID:** 100000145318
 

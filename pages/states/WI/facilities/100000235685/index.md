@@ -1,6 +1,6 @@
-# Unknown
+# Echo Lake Foods, Inc - Burlington
 
-**Location:** Unknown, WI
+**Location:** Burlington, WI
 
 **EPA Facility ID:** 100000235685
 

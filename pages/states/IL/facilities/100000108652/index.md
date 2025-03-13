@@ -1,6 +1,6 @@
-# Unknown
+# Duquoin, IL Satellite
 
-**Location:** Unknown, IL
+**Location:** Duquoin, IL
 
 **EPA Facility ID:** 100000108652
 

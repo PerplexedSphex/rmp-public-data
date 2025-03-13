@@ -1,6 +1,6 @@
-# Unknown
+# South Tahoe Public Utility District
 
-**Location:** Unknown, CA
+**Location:** South Lake Tahoe, CA
 
 **EPA Facility ID:** 100000014058
 

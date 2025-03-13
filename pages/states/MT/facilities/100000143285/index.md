@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC. - Laurel Refinery
 
-**Location:** Unknown, MT
+**Location:** Laurel, MT
 
 **EPA Facility ID:** 100000143285
 

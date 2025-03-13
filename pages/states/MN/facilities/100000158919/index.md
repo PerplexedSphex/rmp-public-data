@@ -1,6 +1,6 @@
-# Unknown
+# Lakewood Water Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Duluth, MN
 
 **EPA Facility ID:** 100000158919
 

@@ -1,6 +1,6 @@
-# Unknown
+# Colonial Chemical Inc.
 
-**Location:** Unknown, TN
+**Location:** South Pittsburg, TN
 
 **EPA Facility ID:** 100000231046
 

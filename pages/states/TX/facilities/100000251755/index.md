@@ -1,6 +1,6 @@
-# Unknown
+# GT Logistics Omniport CP Chem
 
-**Location:** Unknown, TX
+**Location:** Port Arthur, TX
 
 **EPA Facility ID:** 100000251755
 

@@ -1,6 +1,6 @@
-# Unknown
+# Organic Plant, LLC
 
-**Location:** Unknown, VA
+**Location:** Harrisonburg, VA
 
 **EPA Facility ID:** 100000247431
 

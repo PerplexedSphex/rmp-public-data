@@ -1,6 +1,6 @@
-# Unknown
+# REC Silicon
 
-**Location:** Unknown, WA
+**Location:** Moses Lake, WA
 
 **EPA Facility ID:** 100000117269
 

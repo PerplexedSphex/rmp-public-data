@@ -1,6 +1,6 @@
-# Unknown
+# New Haven Chlor-Alkali LLC
 
-**Location:** Unknown, CT
+**Location:** New Haven, CT
 
 **EPA Facility ID:** 100000133269
 

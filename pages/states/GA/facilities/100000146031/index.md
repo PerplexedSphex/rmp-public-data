@@ -1,6 +1,6 @@
-# Unknown
+# Rentz Farm Supply, Inc.
 
-**Location:** Unknown, GA
+**Location:** Brinson, GA
 
 **EPA Facility ID:** 100000146031
 

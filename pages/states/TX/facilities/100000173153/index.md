@@ -1,6 +1,6 @@
-# Unknown
+# City of Hamilton Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Hamilton, TX
 
 **EPA Facility ID:** 100000173153
 

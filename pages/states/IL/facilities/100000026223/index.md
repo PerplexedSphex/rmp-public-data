@@ -1,6 +1,6 @@
-# Unknown
+# Illinois American Water - Champaign West Plant
 
-**Location:** Unknown, IL
+**Location:** Champaign, IL
 
 **EPA Facility ID:** 100000026223
 

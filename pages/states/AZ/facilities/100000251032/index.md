@@ -1,6 +1,6 @@
-# Unknown
+# Brooklyn Bedding, LLC
 
-**Location:** Unknown, AZ
+**Location:** Glendale, AZ
 
 **EPA Facility ID:** 100000251032
 

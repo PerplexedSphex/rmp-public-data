@@ -1,6 +1,6 @@
-# Unknown
+# Jackson Pike Wastewater Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Columbus, OH
 
 **EPA Facility ID:** 100000066368
 

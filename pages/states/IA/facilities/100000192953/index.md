@@ -1,6 +1,6 @@
-# Unknown
+# Red Star Yeast Company
 
-**Location:** Unknown, IA
+**Location:** Cedar Rapids, IA
 
 **EPA Facility ID:** 100000192953
 

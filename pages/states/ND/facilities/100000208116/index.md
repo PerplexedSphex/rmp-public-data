@@ -1,6 +1,6 @@
-# Unknown
+# MDU CS-6 Recovered Energy Generation Facility
 
-**Location:** Unknown, ND
+**Location:** Glen Ullin, ND
 
 **EPA Facility ID:** 100000208116
 

@@ -1,6 +1,6 @@
-# Unknown
+# Samos Polymers Corporation
 
-**Location:** Unknown, NC
+**Location:** Stanley, NC
 
 **EPA Facility ID:** 100000180029
 

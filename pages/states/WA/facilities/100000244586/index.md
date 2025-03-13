@@ -1,6 +1,6 @@
-# Unknown
+# Sysco Seattle
 
-**Location:** Unknown, WA
+**Location:** Kent, WA
 
 **EPA Facility ID:** 100000244586
 

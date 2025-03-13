@@ -1,6 +1,6 @@
-# Unknown
+# Fairchild Semiconductor Corporation
 
-**Location:** Unknown, ME
+**Location:** South Portland, ME
 
 **EPA Facility ID:** 100000184392
 

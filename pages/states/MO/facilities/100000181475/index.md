@@ -1,6 +1,6 @@
-# Unknown
+# SFI - Clearfield Plant
 
-**Location:** Unknown, MO
+**Location:** Clinton, MO
 
 **EPA Facility ID:** 100000181475
 

@@ -1,6 +1,6 @@
-# Unknown
+# Grey Wolf Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Wink, TX
 
 **EPA Facility ID:** 100000249368
 

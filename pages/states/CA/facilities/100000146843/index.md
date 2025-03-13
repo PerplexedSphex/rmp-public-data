@@ -1,6 +1,6 @@
-# Unknown
+# Los Angeles Refinery Wilmington Plant
 
-**Location:** Unknown, CA
+**Location:** Wilmington, CA
 
 **EPA Facility ID:** 100000146843
 

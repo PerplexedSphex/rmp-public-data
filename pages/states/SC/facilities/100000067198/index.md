@@ -1,6 +1,6 @@
-# Unknown
+# Murrells Inlet Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Murrells Inlet, SC
 
 **EPA Facility ID:** 100000067198
 

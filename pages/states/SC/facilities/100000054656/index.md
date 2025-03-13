@@ -1,6 +1,6 @@
-# Unknown
+# Hardeeville WWTP
 
-**Location:** Unknown, SC
+**Location:** Hardeeville, SC
 
 **EPA Facility ID:** 100000054656
 

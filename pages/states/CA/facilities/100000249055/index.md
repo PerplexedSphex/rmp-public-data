@@ -1,6 +1,6 @@
-# Unknown
+# City of Fortuna Water Wells Site
 
-**Location:** Unknown, CA
+**Location:** Fortuna, CA
 
 **EPA Facility ID:** 100000249055
 

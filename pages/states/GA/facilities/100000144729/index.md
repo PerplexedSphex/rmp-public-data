@@ -1,6 +1,6 @@
-# Unknown
+# Griffin Warehouse, Inc. Hwy 32
 
-**Location:** Unknown, GA
+**Location:** Douglas, GA
 
 **EPA Facility ID:** 100000144729
 

@@ -1,6 +1,6 @@
-# Unknown
+# Grady Plant
 
-**Location:** Unknown, OK
+**Location:** Lindsay, OK
 
 **EPA Facility ID:** 100000228014
 

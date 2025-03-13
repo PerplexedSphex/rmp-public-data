@@ -1,6 +1,6 @@
-# Unknown
+# La Junta Terminal
 
-**Location:** Unknown, CO
+**Location:** La Junta, CO
 
 **EPA Facility ID:** 100000166072
 

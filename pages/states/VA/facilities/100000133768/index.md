@@ -1,6 +1,6 @@
-# Unknown
+# Lower Smith River Waste Water Treatment Plant
 
-**Location:** Unknown, VA
+**Location:** Axton, VA
 
 **EPA Facility ID:** 100000133768
 

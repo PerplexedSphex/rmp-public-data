@@ -1,6 +1,6 @@
-# Unknown
+# Walnut Energy Center
 
-**Location:** Unknown, CA
+**Location:** Turlock, CA
 
 **EPA Facility ID:** 100000192301
 

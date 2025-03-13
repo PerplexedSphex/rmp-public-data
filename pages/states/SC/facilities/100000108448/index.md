@@ -1,6 +1,6 @@
-# Unknown
+# Coneross Creek Wastewater Treatment Facility
 
-**Location:** Unknown, SC
+**Location:** Seneca, SC
 
 **EPA Facility ID:** 100000108448
 

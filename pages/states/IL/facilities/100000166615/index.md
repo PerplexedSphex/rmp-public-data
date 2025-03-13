@@ -1,6 +1,6 @@
-# Unknown
+# LANXESS Solutions, US
 
-**Location:** Unknown, IL
+**Location:** Mapleton, IL
 
 **EPA Facility ID:** 100000166615
 

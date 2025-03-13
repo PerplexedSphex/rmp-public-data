@@ -1,6 +1,6 @@
-# Unknown
+# Linn Cooperative Oil Co.
 
-**Location:** Unknown, IA
+**Location:** Springville, IA
 
 **EPA Facility ID:** 100000019847
 

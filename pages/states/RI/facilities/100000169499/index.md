@@ -1,6 +1,6 @@
-# Unknown
+# Tiverton Power, LLC
 
-**Location:** Unknown, RI
+**Location:** Tiverton, RI
 
 **EPA Facility ID:** 100000169499
 

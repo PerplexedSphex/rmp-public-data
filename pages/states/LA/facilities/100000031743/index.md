@@ -1,6 +1,6 @@
-# Unknown
+# Louisiana Mill
 
-**Location:** Unknown, LA
+**Location:** Bastrop, LA
 
 **EPA Facility ID:** 100000031743
 

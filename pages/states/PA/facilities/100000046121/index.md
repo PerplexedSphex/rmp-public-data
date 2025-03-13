@@ -1,6 +1,6 @@
-# Unknown
+# GHJSA Wastewater Treatment Facility
 
-**Location:** Unknown, PA
+**Location:** West Hazleton, PA
 
 **EPA Facility ID:** 100000046121
 

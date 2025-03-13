@@ -1,6 +1,6 @@
-# Unknown
+# RLS Logistics Pittston Division
 
-**Location:** Unknown, PA
+**Location:** Pittston, PA
 
 **EPA Facility ID:** 100000021932
 

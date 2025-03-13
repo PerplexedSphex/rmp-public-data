@@ -1,6 +1,6 @@
-# Unknown
+# AGA Gas, Inc.
 
-**Location:** Unknown, OH
+**Location:** Brook Park, OH
 
 **EPA Facility ID:** 100000104709
 

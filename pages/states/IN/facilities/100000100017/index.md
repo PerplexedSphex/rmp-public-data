@@ -1,6 +1,6 @@
-# Unknown
+# UAP Richter
 
-**Location:** Unknown, IN
+**Location:** Sandborn, IN
 
 **EPA Facility ID:** 100000100017
 

@@ -1,6 +1,6 @@
-# Unknown
+# J. P. ROSS COTTON COMPANY, INC.
 
-**Location:** Unknown, MO
+**Location:** ESSEX, MO
 
 **EPA Facility ID:** 100000170646
 

@@ -1,6 +1,6 @@
-# Unknown
+# Kroger Cincinnati Fresh Center
 
-**Location:** Unknown, OH
+**Location:** Blue Ash, OH
 
 **EPA Facility ID:** 100000179353
 

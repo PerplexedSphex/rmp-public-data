@@ -1,6 +1,6 @@
-# Unknown
+# MEDFORD FRACTIONATOR
 
-**Location:** Unknown, OK
+**Location:** Medford, OK
 
 **EPA Facility ID:** 100000055067
 

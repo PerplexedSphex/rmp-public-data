@@ -1,6 +1,6 @@
-# Unknown
+# Equity Exchange - Turpin East
 
-**Location:** Unknown, OK
+**Location:** Turpin, OK
 
 **EPA Facility ID:** 100000247397
 

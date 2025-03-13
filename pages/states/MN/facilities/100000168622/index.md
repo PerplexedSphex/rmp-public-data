@@ -1,6 +1,6 @@
-# Unknown
+# Worthington Industrial Treatment Facility
 
-**Location:** Unknown, MN
+**Location:** Worthington, MN
 
 **EPA Facility ID:** 100000168622
 

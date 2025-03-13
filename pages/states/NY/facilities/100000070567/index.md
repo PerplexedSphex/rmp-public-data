@@ -1,6 +1,6 @@
-# Unknown
+# Village of Endicott Water Polution Control Plant
 
-**Location:** Unknown, NY
+**Location:** Endicott, NY
 
 **EPA Facility ID:** 100000070567
 

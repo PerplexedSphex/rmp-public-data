@@ -1,6 +1,6 @@
-# Unknown
+# Mankato Elevator
 
-**Location:** Unknown, KS
+**Location:** Mankato, KS
 
 **EPA Facility ID:** 100000156065
 

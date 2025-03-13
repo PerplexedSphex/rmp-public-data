@@ -1,6 +1,6 @@
-# Unknown
+# SFI - Green Bay Plant
 
-**Location:** Unknown, WI
+**Location:** Green Bay, WI
 
 **EPA Facility ID:** 100000066527
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Coleman Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Coleman, TX
 
 **EPA Facility ID:** 100000181965
 

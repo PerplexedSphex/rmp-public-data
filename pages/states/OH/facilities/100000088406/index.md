@@ -1,6 +1,6 @@
-# Unknown
+# Springdale Ice Cream and Beverage
 
-**Location:** Unknown, OH
+**Location:** Cincinnati, OH
 
 **EPA Facility ID:** 100000088406
 

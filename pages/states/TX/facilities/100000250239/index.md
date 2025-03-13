@@ -1,6 +1,6 @@
-# Unknown
+# Red Lake Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Stanton, TX
 
 **EPA Facility ID:** 100000250239
 

@@ -1,6 +1,6 @@
-# Unknown
+# Verdant Specialty Solutions
 
-**Location:** Unknown, TX
+**Location:** Liberty, TX
 
 **EPA Facility ID:** 100000232214
 

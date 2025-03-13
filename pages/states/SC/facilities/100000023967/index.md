@@ -1,6 +1,6 @@
-# Unknown
+# Saxon Street Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Laurens, SC
 
 **EPA Facility ID:** 100000023967
 

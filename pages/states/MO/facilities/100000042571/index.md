@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packaged Meats Corp. - Kansas City, MO
 
-**Location:** Unknown, MO
+**Location:** Kansas City, MO
 
 **EPA Facility ID:** 100000042571
 

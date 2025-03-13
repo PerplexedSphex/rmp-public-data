@@ -1,6 +1,6 @@
-# Unknown
+# Newark Tank Depot LLC
 
-**Location:** Unknown, NJ
+**Location:** Newark, NJ
 
 **EPA Facility ID:** 100000239173
 

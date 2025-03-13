@@ -1,6 +1,6 @@
-# Unknown
+# Superior Dairy Inc.
 
-**Location:** Unknown, OH
+**Location:** Canton, OH
 
 **EPA Facility ID:** 100000145274
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rend Lake Intercity Water Plant
 
-**Location:** Unknown, IL
+**Location:** Benton, IL
 
 **EPA Facility ID:** 100000126963
 

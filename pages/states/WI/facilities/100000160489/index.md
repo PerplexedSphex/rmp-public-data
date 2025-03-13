@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Elkhorn, WI Facility
 
-**Location:** Unknown, WI
+**Location:** Elkhorn, WI
 
 **EPA Facility ID:** 100000160489
 

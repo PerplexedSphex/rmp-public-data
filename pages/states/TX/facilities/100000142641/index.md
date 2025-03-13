@@ -1,6 +1,6 @@
-# Unknown
+# Wallace R. Knox Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Texas City, TX
 
 **EPA Facility ID:** 100000142641
 

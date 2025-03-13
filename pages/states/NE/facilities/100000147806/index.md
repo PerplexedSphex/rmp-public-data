@@ -1,6 +1,6 @@
-# Unknown
+# Rokeby Generating Station
 
-**Location:** Unknown, NE
+**Location:** Lincoln, NE
 
 **EPA Facility ID:** 100000147806
 

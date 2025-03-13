@@ -1,6 +1,6 @@
-# Unknown
+# House Creek 4-43
 
-**Location:** Unknown, WY
+**Location:** Wright, WY
 
 **EPA Facility ID:** 100000219603
 

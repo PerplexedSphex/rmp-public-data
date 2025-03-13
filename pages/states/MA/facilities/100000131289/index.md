@@ -1,6 +1,6 @@
-# Unknown
+# Lowell Wastewater Treatment Plant
 
-**Location:** Unknown, MA
+**Location:** Lowell, MA
 
 **EPA Facility ID:** 100000131289
 

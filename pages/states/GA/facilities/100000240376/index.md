@@ -1,6 +1,6 @@
-# Unknown
+# Gold Creek Foods LLC,
 
-**Location:** Unknown, GA
+**Location:** Gainesville, GA
 
 **EPA Facility ID:** 100000240376
 

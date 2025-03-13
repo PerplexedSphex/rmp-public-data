@@ -1,6 +1,6 @@
-# Unknown
+# AmeriCold Logistics Plant # 80511
 
-**Location:** Unknown, CA
+**Location:** Burbank, CA
 
 **EPA Facility ID:** 100000159981
 

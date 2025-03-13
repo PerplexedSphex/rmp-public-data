@@ -1,6 +1,6 @@
-# Unknown
+# Hydrite Chemical Co. - Milwaukee
 
-**Location:** Unknown, WI
+**Location:** Milwuakee, WI
 
 **EPA Facility ID:** 100000090448
 

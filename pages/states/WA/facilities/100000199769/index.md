@@ -1,6 +1,6 @@
-# Unknown
+# Cedar Water Treatment Facility
 
-**Location:** Unknown, WA
+**Location:** Renton, WA
 
 **EPA Facility ID:** 100000199769
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rohm and Haas Chemicals LLC - Charlotte Plant
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000064681
 

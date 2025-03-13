@@ -1,6 +1,6 @@
-# Unknown
+# Basic American Foods Rexburg
 
-**Location:** Unknown, ID
+**Location:** Rexburg, ID
 
 **EPA Facility ID:** 100000196986
 

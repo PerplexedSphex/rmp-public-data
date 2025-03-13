@@ -1,6 +1,6 @@
-# Unknown
+# Green Plains Shenandoah, LLC.
 
-**Location:** Unknown, IA
+**Location:** Shenandoah, IA
 
 **EPA Facility ID:** 100000199803
 

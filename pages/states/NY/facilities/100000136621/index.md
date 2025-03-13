@@ -1,6 +1,6 @@
-# Unknown
+# Eastside Wastewater Treatment Plant
 
-**Location:** Unknown, NY
+**Location:** Oswego, NY
 
 **EPA Facility ID:** 100000136621
 

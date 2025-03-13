@@ -1,6 +1,6 @@
-# Unknown
+# City of Hays Wastewater Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Hays, KS
 
 **EPA Facility ID:** 100000160568
 

@@ -1,6 +1,6 @@
-# Unknown
+# Oahu Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Coyanosa, TX
 
 **EPA Facility ID:** 100000237111
 

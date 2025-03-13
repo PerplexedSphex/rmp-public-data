@@ -1,6 +1,6 @@
-# Unknown
+# GREEN VALLEY FERTILIZER INC
 
-**Location:** Unknown, ID
+**Location:** RIGBY, ID
 
 **EPA Facility ID:** 100000151293
 

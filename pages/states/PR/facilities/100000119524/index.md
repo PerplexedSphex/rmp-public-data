@@ -1,6 +1,6 @@
-# Unknown
+# Arecibo Regional Wastewater Treatment Plant
 
-**Location:** Unknown, PR
+**Location:** Arecibo, PR
 
 **EPA Facility ID:** 100000119524
 

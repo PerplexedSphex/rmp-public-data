@@ -1,6 +1,6 @@
-# Unknown
+# Jewell Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Douglas, WY
 
 **EPA Facility ID:** 100000241026
 

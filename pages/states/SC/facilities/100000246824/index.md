@@ -1,6 +1,6 @@
-# Unknown
+# Nova Molecular Sumter, LLC
 
-**Location:** Unknown, SC
+**Location:** Sumter, SC
 
 **EPA Facility ID:** 100000246824
 

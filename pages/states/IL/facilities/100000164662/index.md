@@ -1,6 +1,6 @@
-# Unknown
+# PPG Architectural Finishes - Batavia, IL
 
-**Location:** Unknown, IL
+**Location:** Batavia, IL
 
 **EPA Facility ID:** 100000164662
 

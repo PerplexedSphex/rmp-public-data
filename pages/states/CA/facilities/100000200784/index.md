@@ -1,6 +1,6 @@
-# Unknown
+# Golden Pacific Cold Storage
 
-**Location:** Unknown, CA
+**Location:** Exeter, CA
 
 **EPA Facility ID:** 100000200784
 

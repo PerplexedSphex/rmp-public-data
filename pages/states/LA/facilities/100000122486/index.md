@@ -1,6 +1,6 @@
-# Unknown
+# Eunice Natural Gas Processing Plant
 
-**Location:** Unknown, LA
+**Location:** Eunice, LA
 
 **EPA Facility ID:** 100000122486
 

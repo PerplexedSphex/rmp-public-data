@@ -1,6 +1,6 @@
-# Unknown
+# Cambridge Wastewater Treatment Facility
 
-**Location:** Unknown, MN
+**Location:** Cambridge, MN
 
 **EPA Facility ID:** 100000171814
 

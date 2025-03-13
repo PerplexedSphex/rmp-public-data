@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.-Wendell
 
-**Location:** Unknown, MN
+**Location:** Wendell, MN
 
 **EPA Facility ID:** 100000068909
 

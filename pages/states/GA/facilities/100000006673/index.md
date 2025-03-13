@@ -1,6 +1,6 @@
-# Unknown
+# North Columbus Water Resource Facility (WRF)
 
-**Location:** Unknown, GA
+**Location:** Columbus, GA
 
 **EPA Facility ID:** 100000006673
 

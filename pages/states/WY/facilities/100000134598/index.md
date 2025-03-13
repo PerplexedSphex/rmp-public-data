@@ -1,6 +1,6 @@
-# Unknown
+# Washakie Midstream Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Worland, WY
 
 **EPA Facility ID:** 100000134598
 

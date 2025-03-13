@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Southwest Inc., Houston 1-13 Update
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000042884
 

@@ -1,6 +1,6 @@
-# Unknown
+# Russell Stover Chocolates - Corsicana, TX
 
-**Location:** Unknown, TX
+**Location:** Corsicana, TX
 
 **EPA Facility ID:** 100000172902
 

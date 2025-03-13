@@ -1,6 +1,6 @@
-# Unknown
+# SalonCentric
 
-**Location:** Unknown, CA
+**Location:** VALENCIA, CA
 
 **EPA Facility ID:** 100000226418
 

@@ -1,6 +1,6 @@
-# Unknown
+# Graham Hill Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Santa Cruz, CA
 
 **EPA Facility ID:** 100000118838
 

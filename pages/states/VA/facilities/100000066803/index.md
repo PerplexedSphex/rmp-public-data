@@ -1,6 +1,6 @@
-# Unknown
+# Galax Wastewater Treatment Facility
 
-**Location:** Unknown, VA
+**Location:** Galax, VA
 
 **EPA Facility ID:** 100000066803
 

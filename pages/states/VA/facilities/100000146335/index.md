@@ -1,6 +1,6 @@
-# Unknown
+# Reddy Ice-Harrisonburg (402)
 
-**Location:** Unknown, VA
+**Location:** Harrisonburg, VA
 
 **EPA Facility ID:** 100000146335
 

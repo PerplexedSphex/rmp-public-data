@@ -1,6 +1,6 @@
-# Unknown
+# Jackson, TN - Frozen Foods
 
-**Location:** Unknown, TN
+**Location:** Jackson, TN
 
 **EPA Facility ID:** 100000051613
 

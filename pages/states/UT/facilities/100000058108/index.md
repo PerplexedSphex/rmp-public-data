@@ -1,6 +1,6 @@
-# Unknown
+# Lisbon Gas Plant
 
-**Location:** Unknown, UT
+**Location:** La Sal, UT
 
 **EPA Facility ID:** 100000058108
 

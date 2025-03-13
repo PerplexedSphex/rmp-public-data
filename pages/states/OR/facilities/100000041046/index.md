@@ -1,6 +1,6 @@
-# Unknown
+# Rinchem Company, Inc. - Hillsboro, OR
 
-**Location:** Unknown, OR
+**Location:** Hillsboro, OR
 
 **EPA Facility ID:** 100000041046
 

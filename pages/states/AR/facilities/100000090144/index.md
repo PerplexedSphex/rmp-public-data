@@ -1,6 +1,6 @@
-# Unknown
+# Sterling Lacy Water Purification Plant
 
-**Location:** Unknown, AR
+**Location:** Magnolia, AR
 
 **EPA Facility ID:** 100000090144
 

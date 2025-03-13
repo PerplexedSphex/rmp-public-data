@@ -1,6 +1,6 @@
-# Unknown
+# Elementis Specialities New Martinsville
 
-**Location:** Unknown, WV
+**Location:** Proctor, WV
 
 **EPA Facility ID:** 100000225525
 

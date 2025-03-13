@@ -1,6 +1,6 @@
-# Unknown
+# Pool Chlor of Nevada, Inc.
 
-**Location:** Unknown, NV
+**Location:** Las Vegas, NV
 
 **EPA Facility ID:** 100000135766
 

@@ -1,6 +1,6 @@
-# Unknown
+# Galaxy Chemicals, LLC.
 
-**Location:** Unknown, OK
+**Location:** Claremore, OK
 
 **EPA Facility ID:** 100000181616
 

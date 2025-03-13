@@ -1,6 +1,6 @@
-# Unknown
+# Lobo 2 Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** Mentone, TX
 
 **EPA Facility ID:** 100000234221
 

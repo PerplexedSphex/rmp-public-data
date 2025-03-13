@@ -1,6 +1,6 @@
-# Unknown
+# 6th Street Cooling, LLC
 
-**Location:** Unknown, CA
+**Location:** Holtville, CA
 
 **EPA Facility ID:** 100000185211
 

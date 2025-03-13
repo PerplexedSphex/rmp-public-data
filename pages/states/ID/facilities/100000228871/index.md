@@ -1,6 +1,6 @@
-# Unknown
+# Americold-Heyburn, ID
 
-**Location:** Unknown, ID
+**Location:** Heyburn, ID
 
 **EPA Facility ID:** 100000228871
 

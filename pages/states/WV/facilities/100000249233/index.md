@@ -1,6 +1,6 @@
-# Unknown
+# Longview Power Plant
 
-**Location:** Unknown, WV
+**Location:** Maidsville, WV
 
 **EPA Facility ID:** 100000249233
 

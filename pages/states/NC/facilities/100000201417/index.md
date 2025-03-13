@@ -1,6 +1,6 @@
-# Unknown
+# RPM Wood Finishes Group, Inc.
 
-**Location:** Unknown, NC
+**Location:** Hudson, NC
 
 **EPA Facility ID:** 100000201417
 

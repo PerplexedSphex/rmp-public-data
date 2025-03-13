@@ -1,6 +1,6 @@
-# Unknown
+# Manitowoc Public Utilities - WWTP
 
-**Location:** Unknown, WI
+**Location:** Manitowoc, WI
 
 **EPA Facility ID:** 100000083241
 

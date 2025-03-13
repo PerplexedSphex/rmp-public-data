@@ -1,6 +1,6 @@
-# Unknown
+# Cottage Grove - 3M Company
 
-**Location:** Unknown, MN
+**Location:** Cottage Grove, MN
 
 **EPA Facility ID:** 100000102676
 

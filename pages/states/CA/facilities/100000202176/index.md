@@ -1,6 +1,6 @@
-# Unknown
+# Madera Power, LLC
 
-**Location:** Unknown, CA
+**Location:** Firebaugh, CA
 
 **EPA Facility ID:** 100000202176
 

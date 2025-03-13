@@ -1,6 +1,6 @@
-# Unknown
+# Casco Bay Energy Company, LLC
 
-**Location:** Unknown, ME
+**Location:** Veazie, ME
 
 **EPA Facility ID:** 100000167801
 

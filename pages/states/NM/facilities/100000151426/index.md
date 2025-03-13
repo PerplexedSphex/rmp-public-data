@@ -1,6 +1,6 @@
-# Unknown
+# Navajo Refining Company
 
-**Location:** Unknown, NM
+**Location:** Artesia, NM
 
 **EPA Facility ID:** 100000151426
 

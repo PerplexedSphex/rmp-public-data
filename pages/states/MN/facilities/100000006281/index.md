@@ -1,6 +1,6 @@
-# Unknown
+# Schmitz Grian Inc. Slayton , MN
 
-**Location:** Unknown, MN
+**Location:** Slayton, MN
 
 **EPA Facility ID:** 100000006281
 

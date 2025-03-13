@@ -1,6 +1,6 @@
-# Unknown
+# State Flying Buffalo S01
 
-**Location:** Unknown, WY
+**Location:** Gillette, WY
 
 **EPA Facility ID:** 100000231581
 

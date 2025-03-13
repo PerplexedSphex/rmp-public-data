@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South, Inc.
 
-**Location:** Unknown, MO
+**Location:** St. Louis, MO
 
 **EPA Facility ID:** 100000044196
 

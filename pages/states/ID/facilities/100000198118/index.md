@@ -1,6 +1,6 @@
-# Unknown
+# Rite Stuff Foods, Inc.
 
-**Location:** Unknown, ID
+**Location:** Jerome, ID
 
 **EPA Facility ID:** 100000198118
 

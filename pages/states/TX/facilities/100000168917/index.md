@@ -1,6 +1,6 @@
-# Unknown
+# City of Elsa Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Elsa, TX
 
 **EPA Facility ID:** 100000168917
 

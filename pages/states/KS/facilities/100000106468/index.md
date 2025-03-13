@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packaged Meats Corp. - Wichita, KS
 
-**Location:** Unknown, KS
+**Location:** Wichita, KS
 
 **EPA Facility ID:** 100000106468
 

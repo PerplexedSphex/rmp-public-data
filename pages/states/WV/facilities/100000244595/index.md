@@ -1,6 +1,6 @@
-# Unknown
+# Clearfork Processing Plant
 
-**Location:** Unknown, WV
+**Location:** Glen Easton, WV
 
 **EPA Facility ID:** 100000244595
 

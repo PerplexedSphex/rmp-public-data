@@ -1,6 +1,6 @@
-# Unknown
+# Washington-East Washington Joint Authority TP
 
-**Location:** Unknown, PA
+**Location:** Washington, PA
 
 **EPA Facility ID:** 100000157974
 

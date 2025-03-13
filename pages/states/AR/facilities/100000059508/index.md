@@ -1,6 +1,6 @@
-# Unknown
+# TETRA Technologies - West Memphis Plant
 
-**Location:** Unknown, AR
+**Location:** West Memphis, AR
 
 **EPA Facility ID:** 100000059508
 

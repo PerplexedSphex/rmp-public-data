@@ -1,6 +1,6 @@
-# Unknown
+# Beloit, KS 5533
 
-**Location:** Unknown, KS
+**Location:** Beloit, KS
 
 **EPA Facility ID:** 100000182269
 

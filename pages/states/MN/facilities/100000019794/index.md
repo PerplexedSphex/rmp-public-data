@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc - Argyle 
 
-**Location:** Unknown, MN
+**Location:** ARGYLE, MN
 
 **EPA Facility ID:** 100000019794
 

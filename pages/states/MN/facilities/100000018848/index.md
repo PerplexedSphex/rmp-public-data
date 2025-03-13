@@ -1,6 +1,6 @@
-# Unknown
+# New Vision Coop
 
-**Location:** Unknown, MN
+**Location:** Brewster, MN
 
 **EPA Facility ID:** 100000018848
 

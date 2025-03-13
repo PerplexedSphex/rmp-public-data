@@ -1,6 +1,6 @@
-# Unknown
+# Central City Water Works
 
-**Location:** Unknown, KY
+**Location:** Central City, KY
 
 **EPA Facility ID:** 100000173947
 

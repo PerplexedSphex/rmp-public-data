@@ -1,6 +1,6 @@
-# Unknown
+# Continental Nitrogen & Resources Corporation
 
-**Location:** Unknown, MN
+**Location:** Rosemount, MN
 
 **EPA Facility ID:** 100000146727
 

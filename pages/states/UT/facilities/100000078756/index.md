@@ -1,6 +1,6 @@
-# Unknown
+# Yellow Creek Gas Plant
 
-**Location:** Unknown, UT
+**Location:** Coalville, UT
 
 **EPA Facility ID:** 100000078756
 

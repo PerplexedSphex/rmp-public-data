@@ -1,6 +1,6 @@
-# Unknown
+# Don L Moore Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Easley, SC
 
 **EPA Facility ID:** 100000026241
 

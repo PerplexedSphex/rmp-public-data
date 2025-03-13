@@ -1,6 +1,6 @@
-# Unknown
+# House of Flavors
 
-**Location:** Unknown, MI
+**Location:** Ludington, MI
 
 **EPA Facility ID:** 100000219033
 

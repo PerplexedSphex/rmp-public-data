@@ -1,6 +1,6 @@
-# Unknown
+# Geary Grain, Inc.
 
-**Location:** Unknown, KS
+**Location:** Junction City, KS
 
 **EPA Facility ID:** 100000095363
 

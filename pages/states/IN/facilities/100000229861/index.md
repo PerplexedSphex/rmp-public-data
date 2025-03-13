@@ -1,6 +1,6 @@
-# Unknown
+# Sugar Creek Packing Co.- CCI
 
-**Location:** Unknown, IN
+**Location:** Cambridge City, IN
 
 **EPA Facility ID:** 100000229861
 

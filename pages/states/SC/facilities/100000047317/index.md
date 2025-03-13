@@ -1,6 +1,6 @@
-# Unknown
+# Long Cane Creek Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Abbeville, SC
 
 **EPA Facility ID:** 100000047317
 

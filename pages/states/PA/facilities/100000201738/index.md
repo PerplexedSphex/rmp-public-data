@@ -1,6 +1,6 @@
-# Unknown
+# Washington Compressor Station
 
-**Location:** Unknown, PA
+**Location:** Hickory, PA
 
 **EPA Facility ID:** 100000201738
 

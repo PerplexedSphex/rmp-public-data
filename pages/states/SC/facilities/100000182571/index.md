@@ -1,6 +1,6 @@
-# Unknown
+# Wateree Station
 
-**Location:** Unknown, SC
+**Location:** Eastover, SC
 
 **EPA Facility ID:** 100000182571
 

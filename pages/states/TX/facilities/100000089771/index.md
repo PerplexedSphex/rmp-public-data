@@ -1,6 +1,6 @@
-# Unknown
+# Trecora WAX LLC
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000089771
 

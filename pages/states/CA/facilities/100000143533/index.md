@@ -1,6 +1,6 @@
-# Unknown
+# Giumarra Vineyards, Packing and Cold Storage
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000143533
 

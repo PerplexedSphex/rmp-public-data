@@ -1,6 +1,6 @@
-# Unknown
+# Perryville Electric Generating Plant
 
-**Location:** Unknown, LA
+**Location:** Sterlington, LA
 
 **EPA Facility ID:** 100000178808
 

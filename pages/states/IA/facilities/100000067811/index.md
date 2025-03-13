@@ -1,6 +1,6 @@
-# Unknown
+# West Central Cooperative - Griswold
 
-**Location:** Unknown, IA
+**Location:** Griswold, IA
 
 **EPA Facility ID:** 100000067811
 

@@ -1,6 +1,6 @@
-# Unknown
+# Edwardsport, IN 10388 Satellite
 
-**Location:** Unknown, IN
+**Location:** Edwardsport, IN
 
 **EPA Facility ID:** 100000011756
 

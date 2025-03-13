@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.- West Liberty
 
-**Location:** Unknown, IL
+**Location:** West Liberty, IL
 
 **EPA Facility ID:** 100000033661
 

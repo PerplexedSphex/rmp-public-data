@@ -1,6 +1,6 @@
-# Unknown
+# HL Power Company
 
-**Location:** Unknown, CA
+**Location:** Wendel, CA
 
 **EPA Facility ID:** 100000120317
 

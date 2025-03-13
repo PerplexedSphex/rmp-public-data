@@ -1,6 +1,6 @@
-# Unknown
+# Coop Services Inc, Lawton Facility
 
-**Location:** Unknown, OK
+**Location:** Lawton, OK
 
 **EPA Facility ID:** 100000004675
 

@@ -1,6 +1,6 @@
-# Unknown
+# Houston Gas Plant
 
-**Location:** Unknown, PA
+**Location:** Washington, PA
 
 **EPA Facility ID:** 100000205191
 

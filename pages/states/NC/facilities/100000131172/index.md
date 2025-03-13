@@ -1,6 +1,6 @@
-# Unknown
+# CPI Packaging Inc.
 
-**Location:** Unknown, NC
+**Location:** Lincolnton, NC
 
 **EPA Facility ID:** 100000131172
 

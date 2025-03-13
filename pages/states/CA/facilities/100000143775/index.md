@@ -1,6 +1,6 @@
-# Unknown
+# Imperial Valley Cooling LLC
 
-**Location:** Unknown, CA
+**Location:** El Centro, CA
 
 **EPA Facility ID:** 100000143775
 

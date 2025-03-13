@@ -1,6 +1,6 @@
-# Unknown
+# Edwards Chemicals, Inc.
 
-**Location:** Unknown, MO
+**Location:** Saint Joseph, MO
 
 **EPA Facility ID:** 100000133483
 

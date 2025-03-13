@@ -1,6 +1,6 @@
-# Unknown
+# Luling Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Prairie Lea, TX
 
 **EPA Facility ID:** 100000111283
 

@@ -1,6 +1,6 @@
-# Unknown
+# AMERICAN REFFUEL OF ESSEX COUNTY
 
-**Location:** Unknown, NJ
+**Location:** NEWARK, NJ
 
 **EPA Facility ID:** 100000132616
 

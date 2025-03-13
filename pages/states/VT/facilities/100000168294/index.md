@@ -1,6 +1,6 @@
-# Unknown
+# City of St. Albans Wastewater Treatment Facility
 
-**Location:** Unknown, VT
+**Location:** St. Albans, VT
 
 **EPA Facility ID:** 100000168294
 

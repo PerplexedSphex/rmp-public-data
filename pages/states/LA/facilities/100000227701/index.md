@@ -1,6 +1,6 @@
-# Unknown
+# Black Lake Facility
 
-**Location:** Unknown, LA
+**Location:** Minden, LA
 
 **EPA Facility ID:** 100000227701
 

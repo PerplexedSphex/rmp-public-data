@@ -1,6 +1,6 @@
-# Unknown
+# Blue Water Pool Chemical Company, Inc.
 
-**Location:** Unknown, AZ
+**Location:** Scottsdale, AZ
 
 **EPA Facility ID:** 100000028999
 

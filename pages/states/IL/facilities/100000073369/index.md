@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-Allendale
 
-**Location:** Unknown, IL
+**Location:** Allendale, IL
 
 **EPA Facility ID:** 100000073369
 

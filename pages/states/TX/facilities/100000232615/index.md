@@ -1,6 +1,6 @@
-# Unknown
+# Hidalgo Argo Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Orla, TX
 
 **EPA Facility ID:** 100000232615
 

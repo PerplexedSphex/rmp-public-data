@@ -1,6 +1,6 @@
-# Unknown
+# Wastewater Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Effingham, IL
 
 **EPA Facility ID:** 100000130878
 

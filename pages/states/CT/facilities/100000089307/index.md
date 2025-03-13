@@ -1,6 +1,6 @@
-# Unknown
+# Reservoir 6 Water Treatment Facility
 
-**Location:** Unknown, CT
+**Location:** West Hartford, CT
 
 **EPA Facility ID:** 100000089307
 

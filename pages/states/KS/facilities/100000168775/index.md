@@ -1,6 +1,6 @@
-# Unknown
+# Hays Aquatic Park
 
-**Location:** Unknown, KS
+**Location:** Hays,, KS
 
 **EPA Facility ID:** 100000168775
 

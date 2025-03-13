@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Owensboro Svc-Clay, KY
 
-**Location:** Unknown, KY
+**Location:** Clay, KY
 
 **EPA Facility ID:** 100000111229
 

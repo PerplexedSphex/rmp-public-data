@@ -1,6 +1,6 @@
-# Unknown
+# R.M. Levy Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Lakeside, CA
 
 **EPA Facility ID:** 100000093089
 

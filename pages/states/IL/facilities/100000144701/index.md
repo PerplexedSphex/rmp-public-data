@@ -1,6 +1,6 @@
-# Unknown
+# Landmark Services Cooperative - Harrison Location
 
-**Location:** Unknown, IL
+**Location:** Durand, IL
 
 **EPA Facility ID:** 100000144701
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rutland Propane Bulk Plant
 
-**Location:** Unknown, VT
+**Location:** Rutland, VT
 
 **EPA Facility ID:** 100000250934
 

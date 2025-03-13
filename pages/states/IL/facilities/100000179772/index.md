@@ -1,6 +1,6 @@
-# Unknown
+# East Side Jersey Dairy - O'Fallon, IL
 
-**Location:** Unknown, IL
+**Location:** O'Fallon, IL
 
 **EPA Facility ID:** 100000179772
 

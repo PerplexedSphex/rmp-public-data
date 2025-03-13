@@ -1,6 +1,6 @@
-# Unknown
+# Splash Pool Chemicals Inc.
 
-**Location:** Unknown, NV
+**Location:** Las Vegas, NV
 
 **EPA Facility ID:** 100000157322
 

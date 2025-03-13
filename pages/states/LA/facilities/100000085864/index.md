@@ -1,6 +1,6 @@
-# Unknown
+# Bridge City Wastewater Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Bridge City, LA
 
 **EPA Facility ID:** 100000085864
 

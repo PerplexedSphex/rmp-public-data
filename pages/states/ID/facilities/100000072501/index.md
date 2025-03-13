@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company (Troy, ID)
 
-**Location:** Unknown, ID
+**Location:** Troy, ID
 
 **EPA Facility ID:** 100000072501
 

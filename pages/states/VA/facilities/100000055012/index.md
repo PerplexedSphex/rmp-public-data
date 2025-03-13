@@ -1,6 +1,6 @@
-# Unknown
+# Good Humor Corporation Richmond
 
-**Location:** Unknown, VA
+**Location:** Richmond, VA
 
 **EPA Facility ID:** 100000055012
 

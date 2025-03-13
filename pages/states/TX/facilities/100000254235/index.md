@@ -1,6 +1,6 @@
-# Unknown
+# Leprino Foods Company, Lubbock Texas Facility
 
-**Location:** Unknown, TX
+**Location:** Lubbock, TX
 
 **EPA Facility ID:** 100000254235
 

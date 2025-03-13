@@ -1,6 +1,6 @@
-# Unknown
+# Case Farms Chicken - Winesburg
 
-**Location:** Unknown, OH
+**Location:** Winesburg, OH
 
 **EPA Facility ID:** 100000172742
 

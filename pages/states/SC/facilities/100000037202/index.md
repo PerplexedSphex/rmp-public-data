@@ -1,6 +1,6 @@
-# Unknown
+# Broad River Waste Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Gaffney, SC
 
 **EPA Facility ID:** 100000037202
 

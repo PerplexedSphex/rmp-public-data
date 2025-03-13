@@ -1,6 +1,6 @@
-# Unknown
+# Mizer Compressor Station
 
-**Location:** Unknown, OH
+**Location:** Cadiz, OH
 
 **EPA Facility ID:** 100000245077
 

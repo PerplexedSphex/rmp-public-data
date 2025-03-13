@@ -1,6 +1,6 @@
-# Unknown
+# Hallett Railroad Storage & Services LLC
 
-**Location:** Unknown, MN
+**Location:** Duluth, MN
 
 **EPA Facility ID:** 100000243382
 

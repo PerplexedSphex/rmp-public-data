@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Southwest, Inc. Wichita
 
-**Location:** Unknown, KS
+**Location:** Wichita, KS
 
 **EPA Facility ID:** 100000076856
 

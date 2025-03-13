@@ -1,6 +1,6 @@
-# Unknown
+# Western Farm Service, Southwick
 
-**Location:** Unknown, ID
+**Location:** Southwick, ID
 
 **EPA Facility ID:** 100000027268
 

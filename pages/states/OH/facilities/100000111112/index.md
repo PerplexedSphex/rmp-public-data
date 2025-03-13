@@ -1,6 +1,6 @@
-# Unknown
+# City of Dover Wastewater Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Dover, OH
 
 **EPA Facility ID:** 100000111112
 

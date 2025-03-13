@@ -1,6 +1,6 @@
-# Unknown
+# Hattiesburg South Lagoon
 
-**Location:** Unknown, MS
+**Location:** Hattiesburg, MS
 
 **EPA Facility ID:** 100000175357
 

@@ -1,6 +1,6 @@
-# Unknown
+# Corning Incorporated, Concord Facility
 
-**Location:** Unknown, NC
+**Location:** Midland, NC
 
 **EPA Facility ID:** 100000162753
 

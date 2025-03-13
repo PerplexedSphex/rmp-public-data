@@ -1,6 +1,6 @@
-# Unknown
+# Yakima Fruit and Cold Storage
 
-**Location:** Unknown, WA
+**Location:** Wapato, WA
 
 **EPA Facility ID:** 100000171501
 

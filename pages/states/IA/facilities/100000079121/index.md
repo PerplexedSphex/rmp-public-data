@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Fresh Meats Corp. - Denison, IA
 
-**Location:** Unknown, IA
+**Location:** DENISON, IA
 
 **EPA Facility ID:** 100000079121
 

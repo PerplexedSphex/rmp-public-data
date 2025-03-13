@@ -1,6 +1,6 @@
-# Unknown
+# Sterling Specialty Chemicals - Columbus Plant
 
-**Location:** Unknown, GA
+**Location:** Columbus, GA
 
 **EPA Facility ID:** 100000144916
 

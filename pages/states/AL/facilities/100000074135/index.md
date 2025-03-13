@@ -1,6 +1,6 @@
-# Unknown
+# H.E. Neal III Water Filtration Plant
 
-**Location:** Unknown, AL
+**Location:** Russellville, AL
 
 **EPA Facility ID:** 100000074135
 

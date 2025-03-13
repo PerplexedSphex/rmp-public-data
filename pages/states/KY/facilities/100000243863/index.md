@@ -1,6 +1,6 @@
-# Unknown
+# Greenfield Global USA Inc.
 
-**Location:** Unknown, KY
+**Location:** Shelbyville, KY
 
 **EPA Facility ID:** 100000243863
 

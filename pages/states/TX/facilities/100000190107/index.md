@@ -1,6 +1,6 @@
-# Unknown
+# City of Carthage Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Carthage, TX
 
 **EPA Facility ID:** 100000190107
 

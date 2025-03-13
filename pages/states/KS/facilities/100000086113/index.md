@@ -1,6 +1,6 @@
-# Unknown
+# LEWIS Location
 
-**Location:** Unknown, KS
+**Location:** Lewis, KS
 
 **EPA Facility ID:** 100000086113
 

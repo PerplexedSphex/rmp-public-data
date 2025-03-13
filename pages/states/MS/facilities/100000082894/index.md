@@ -1,6 +1,6 @@
-# Unknown
+# NeMRWSD Treatment Plant
 
-**Location:** Unknown, MS
+**Location:** Fulton, MS
 
 **EPA Facility ID:** 100000082894
 

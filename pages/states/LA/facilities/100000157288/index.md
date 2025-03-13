@@ -1,6 +1,6 @@
-# Unknown
+# Tete Bayou Waste Water Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** New Iberia, LA
 
 **EPA Facility ID:** 100000157288
 

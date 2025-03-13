@@ -1,6 +1,6 @@
-# Unknown
+# Rushville Ag Center
 
-**Location:** Unknown, IN
+**Location:** Rushville, IN
 
 **EPA Facility ID:** 100000148477
 

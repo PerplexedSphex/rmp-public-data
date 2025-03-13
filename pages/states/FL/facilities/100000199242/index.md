@@ -1,6 +1,6 @@
-# Unknown
+# Reddy Ice-Plant City (413)
 
-**Location:** Unknown, FL
+**Location:** Plant City, FL
 
 **EPA Facility ID:** 100000199242
 

@@ -1,6 +1,6 @@
-# Unknown
+# COOP Service Inc.
 
-**Location:** Unknown, MN
+**Location:** Baudette, MN
 
 **EPA Facility ID:** 100000226052
 

@@ -1,6 +1,6 @@
-# Unknown
+# Stratas Foods LLC
 
-**Location:** Unknown, IL
+**Location:** Quincy, IL
 
 **EPA Facility ID:** 100000189958
 

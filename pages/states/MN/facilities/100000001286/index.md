@@ -1,6 +1,6 @@
-# Unknown
+# RED LAKE COUNTY COOP
 
-**Location:** Unknown, MN
+**Location:** PLUMMER, MN
 
 **EPA Facility ID:** 100000001286
 

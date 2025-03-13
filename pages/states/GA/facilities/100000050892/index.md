@@ -1,6 +1,6 @@
-# Unknown
+# Miniat Foods LLC
 
-**Location:** Unknown, GA
+**Location:** Carrollton, GA
 
 **EPA Facility ID:** 100000050892
 

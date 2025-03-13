@@ -1,6 +1,6 @@
-# Unknown
+# Cuba NH3
 
-**Location:** Unknown, KS
+**Location:** Cuba, KS
 
 **EPA Facility ID:** 100000200711
 

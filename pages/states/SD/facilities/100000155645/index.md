@@ -1,6 +1,6 @@
-# Unknown
+# Dakota Fertilizer & Chemical Inc.
 
-**Location:** Unknown, SD
+**Location:** Canton, SD
 
 **EPA Facility ID:** 100000155645
 

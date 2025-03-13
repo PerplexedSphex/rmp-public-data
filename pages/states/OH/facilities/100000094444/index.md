@@ -1,6 +1,6 @@
-# Unknown
+# Synthomer Inc.
 
-**Location:** Unknown, OH
+**Location:** Mogadore, OH
 
 **EPA Facility ID:** 100000094444
 

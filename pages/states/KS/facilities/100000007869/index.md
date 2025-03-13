@@ -1,6 +1,6 @@
-# Unknown
+# Anthony Farmers Coop-Duquoin
 
-**Location:** Unknown, KS
+**Location:** Harper, KS
 
 **EPA Facility ID:** 100000007869
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Loveland Wastewater Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Loveland, CO
 
 **EPA Facility ID:** 100000066199
 

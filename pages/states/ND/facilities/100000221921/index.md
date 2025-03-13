@@ -1,6 +1,6 @@
-# Unknown
+# Bakken Gas Plant
 
-**Location:** Unknown, ND
+**Location:** Fortuna, ND
 
 **EPA Facility ID:** 100000221921
 

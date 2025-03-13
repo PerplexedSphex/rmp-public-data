@@ -1,6 +1,6 @@
-# Unknown
+# City of Lebanon Authority Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Lebanon, PA
 
 **EPA Facility ID:** 100000091928
 

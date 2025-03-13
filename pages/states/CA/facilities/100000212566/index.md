@@ -1,6 +1,6 @@
-# Unknown
+# LUNDAY THAGARD COMPANY
 
-**Location:** Unknown, CA
+**Location:** SOUTH GATE, CA
 
 **EPA Facility ID:** 100000212566
 

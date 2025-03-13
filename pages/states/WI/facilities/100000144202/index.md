@@ -1,6 +1,6 @@
-# Unknown
+# Maynard Steel Casting Company
 
-**Location:** Unknown, WI
+**Location:** Milwaukee, WI
 
 **EPA Facility ID:** 100000144202
 

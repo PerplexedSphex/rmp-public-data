@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company
 
-**Location:** Unknown, OH
+**Location:** Coldwater, OH
 
 **EPA Facility ID:** 100000011239
 

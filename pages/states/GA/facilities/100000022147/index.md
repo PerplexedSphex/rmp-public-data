@@ -1,6 +1,6 @@
-# Unknown
+# Clarence B. Walker Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Cartersville, GA
 
 **EPA Facility ID:** 100000022147
 

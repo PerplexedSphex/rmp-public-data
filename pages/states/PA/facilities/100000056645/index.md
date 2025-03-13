@@ -1,6 +1,6 @@
-# Unknown
+# Empire Kosher Poultry Inc.
 
-**Location:** Unknown, PA
+**Location:** Mifflintown, PA
 
 **EPA Facility ID:** 100000056645
 

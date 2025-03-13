@@ -1,6 +1,6 @@
-# Unknown
+# Dayton, WA 12
 
-**Location:** Unknown, WA
+**Location:** Dayton, WA
 
 **EPA Facility ID:** 100000068008
 

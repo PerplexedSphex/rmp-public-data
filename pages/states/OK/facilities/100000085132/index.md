@@ -1,6 +1,6 @@
-# Unknown
+# Advanced Specialty Chemicals Co., LC   (AdSpec)
 
-**Location:** Unknown, OK
+**Location:** Blackwell, OK
 
 **EPA Facility ID:** 100000085132
 

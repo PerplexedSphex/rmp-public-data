@@ -1,6 +1,6 @@
-# Unknown
+# The Elco Corporation
 
-**Location:** Unknown, OH
+**Location:** Cleveland, OH
 
 **EPA Facility ID:** 100000078266
 

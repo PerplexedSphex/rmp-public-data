@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Garretson
 
-**Location:** Unknown, SD
+**Location:** Garretson, SD
 
 **EPA Facility ID:** 100000070031
 

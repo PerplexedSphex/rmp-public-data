@@ -1,6 +1,6 @@
-# Unknown
+# Neches Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Jacksonville, TX
 
 **EPA Facility ID:** 100000218757
 

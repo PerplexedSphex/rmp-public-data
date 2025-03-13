@@ -1,6 +1,6 @@
-# Unknown
+# City of Kingsland Water Treatment Facility # 2
 
-**Location:** Unknown, GA
+**Location:** Kingsland, GA
 
 **EPA Facility ID:** 100000162682
 

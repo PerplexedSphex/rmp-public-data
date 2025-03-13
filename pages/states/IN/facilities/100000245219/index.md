@@ -1,6 +1,6 @@
-# Unknown
+# Interstate Cold Storage
 
-**Location:** Unknown, IN
+**Location:** Fort Wayne, IN
 
 **EPA Facility ID:** 100000245219
 

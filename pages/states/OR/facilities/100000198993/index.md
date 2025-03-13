@@ -1,6 +1,6 @@
-# Unknown
+# Bornstein Seafoods, Inc.
 
-**Location:** Unknown, OR
+**Location:** Astoria, OR
 
 **EPA Facility ID:** 100000198993
 

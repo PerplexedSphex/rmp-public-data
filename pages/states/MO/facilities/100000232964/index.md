@@ -1,6 +1,6 @@
-# Unknown
+# Daily's Premium Meats, LLC
 
-**Location:** Unknown, MO
+**Location:** St. Joseph, MO
 
 **EPA Facility ID:** 100000232964
 

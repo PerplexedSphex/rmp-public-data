@@ -1,6 +1,6 @@
-# Unknown
+# Sedalia, OH Satellite
 
-**Location:** Unknown, OH
+**Location:** Sedalia, OH
 
 **EPA Facility ID:** 100000068446
 

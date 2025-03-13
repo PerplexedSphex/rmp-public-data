@@ -1,6 +1,6 @@
-# Unknown
+# Great Lakes Cheese Company, Inc.
 
-**Location:** Unknown, OH
+**Location:** Hiram, OH
 
 **EPA Facility ID:** 100000145504
 

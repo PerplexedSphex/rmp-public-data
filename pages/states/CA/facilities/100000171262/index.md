@@ -1,6 +1,6 @@
-# Unknown
+# Joseph Cold Storage #1
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000171262
 

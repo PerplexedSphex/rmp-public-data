@@ -1,6 +1,6 @@
-# Unknown
+# HENRY SERVICE COMPANY- GENESEO NH3 PLANT
 
-**Location:** Unknown, IL
+**Location:** GENESEO, IL
 
 **EPA Facility ID:** 100000034161
 

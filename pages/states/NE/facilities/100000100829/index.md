@@ -1,6 +1,6 @@
-# Unknown
+# Battle Creek Farmers Cooperative  --  Pierce, NE
 
-**Location:** Unknown, NE
+**Location:** Pierce, NE
 
 **EPA Facility ID:** 100000100829
 

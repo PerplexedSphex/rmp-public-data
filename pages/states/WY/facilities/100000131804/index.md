@@ -1,6 +1,6 @@
-# Unknown
+# UPR Brady Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Rock Springs, WY
 
 **EPA Facility ID:** 100000131804
 

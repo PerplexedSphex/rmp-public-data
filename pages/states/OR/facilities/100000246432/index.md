@@ -1,6 +1,6 @@
-# Unknown
+# NIC Industries
 
-**Location:** Unknown, OR
+**Location:** White City, OR
 
 **EPA Facility ID:** 100000246432
 

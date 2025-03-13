@@ -1,6 +1,6 @@
-# Unknown
+# Dole Fresh Vegetables-Bessemer City, NC
 
-**Location:** Unknown, NC
+**Location:** Bessemer City, NC
 
 **EPA Facility ID:** 100000197351
 

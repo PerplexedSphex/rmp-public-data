@@ -1,6 +1,6 @@
-# Unknown
+# FAR Research, Inc. (dba FAR Chemical, Inc.)
 
-**Location:** Unknown, FL
+**Location:** Palm Bay, FL
 
 **EPA Facility ID:** 100000123804
 

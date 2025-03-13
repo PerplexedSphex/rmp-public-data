@@ -1,6 +1,6 @@
-# Unknown
+# F.B. Purnell Sausage Co.
 
-**Location:** Unknown, KY
+**Location:** Simpsonville, KY
 
 **EPA Facility ID:** 100000043339
 

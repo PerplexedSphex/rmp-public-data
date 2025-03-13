@@ -1,6 +1,6 @@
-# Unknown
+# Tipton - Tipton Fertilizer & Chemical
 
-**Location:** Unknown, KS
+**Location:** Tipton, KS
 
 **EPA Facility ID:** 100000010418
 

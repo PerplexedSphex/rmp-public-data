@@ -1,6 +1,6 @@
-# Unknown
+# NHK Seating of America
 
-**Location:** Unknown, IN
+**Location:** Frankfort, IN
 
 **EPA Facility ID:** 100000224232
 

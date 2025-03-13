@@ -1,6 +1,6 @@
-# Unknown
+# Bartlesville Chickasaw Wastewater Plant
 
-**Location:** Unknown, OK
+**Location:** Bartlesville, OK
 
 **EPA Facility ID:** 100000060916
 

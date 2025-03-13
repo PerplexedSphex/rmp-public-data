@@ -1,6 +1,6 @@
-# Unknown
+# CPT Fredericksburg Terminal
 
-**Location:** Unknown, VA
+**Location:** Fredericksburg, VA
 
 **EPA Facility ID:** 100000238218
 

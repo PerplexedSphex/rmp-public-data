@@ -1,6 +1,6 @@
-# Unknown
+# Paris Water Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Paris, KY
 
 **EPA Facility ID:** 100000092981
 

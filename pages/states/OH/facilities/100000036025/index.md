@@ -1,6 +1,6 @@
-# Unknown
+# Clermont County Pierce-Union-Batavia WTP
 
-**Location:** Unknown, OH
+**Location:** New Richmond, OH
 
 **EPA Facility ID:** 100000036025
 

@@ -1,6 +1,6 @@
-# Unknown
+# Coffee Creek Water Resource Recovery Facility
 
-**Location:** Unknown, OK
+**Location:** Edmond, OK
 
 **EPA Facility ID:** 100000220076
 

@@ -1,6 +1,6 @@
-# Unknown
+# Grangeville, ID 36
 
-**Location:** Unknown, ID
+**Location:** Grangeville, ID
 
 **EPA Facility ID:** 100000068972
 

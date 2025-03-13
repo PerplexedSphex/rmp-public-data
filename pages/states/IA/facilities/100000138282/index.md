@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Goodhue
 
-**Location:** Unknown, IA
+**Location:** Carlisle, IA
 
 **EPA Facility ID:** 100000138282
 

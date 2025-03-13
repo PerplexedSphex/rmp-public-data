@@ -1,6 +1,6 @@
-# Unknown
+# Glanbia Foods, Inc., Gooding Plant
 
-**Location:** Unknown, ID
+**Location:** Gooding, ID
 
 **EPA Facility ID:** 100000118785
 

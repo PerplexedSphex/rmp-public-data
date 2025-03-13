@@ -1,6 +1,6 @@
-# Unknown
+# Homer Fertilizer Service, Inc.
 
-**Location:** Unknown, IL
+**Location:** Bushnell, IL
 
 **EPA Facility ID:** 100000076035
 

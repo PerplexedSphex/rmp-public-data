@@ -1,6 +1,6 @@
-# Unknown
+# Aqua Ohio Struthers Division WTP
 
-**Location:** Unknown, OH
+**Location:** Poland, OH
 
 **EPA Facility ID:** 100000040537
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Sunbury Water Filtration Plant
 
-**Location:** Unknown, PA
+**Location:** Sunbury, PA
 
 **EPA Facility ID:** 100000045195
 

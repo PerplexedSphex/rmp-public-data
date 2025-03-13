@@ -1,6 +1,6 @@
-# Unknown
+# Interstate Chemical Company, Inc.
 
-**Location:** Unknown, PA
+**Location:** Hermitage, PA
 
 **EPA Facility ID:** 100000063995
 

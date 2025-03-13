@@ -1,6 +1,6 @@
-# Unknown
+# Lake of Egypt Water and Sewer District
 
-**Location:** Unknown, IL
+**Location:** Marion, IL
 
 **EPA Facility ID:** 100000152577
 

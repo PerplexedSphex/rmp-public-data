@@ -1,6 +1,6 @@
-# Unknown
+# Southern Ionics Incorporated Lake Charles Plant
 
-**Location:** Unknown, LA
+**Location:** Carlyss, LA
 
 **EPA Facility ID:** 100000079194
 

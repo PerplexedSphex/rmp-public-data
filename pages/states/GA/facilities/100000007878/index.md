@@ -1,6 +1,6 @@
-# Unknown
+# Claxton Poultry
 
-**Location:** Unknown, GA
+**Location:** Claxton, GA
 
 **EPA Facility ID:** 100000007878
 

@@ -1,6 +1,6 @@
-# Unknown
+# Searles Valley Minerals - Trona Facility
 
-**Location:** Unknown, CA
+**Location:** Trona, CA
 
 **EPA Facility ID:** 100000127711
 

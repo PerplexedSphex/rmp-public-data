@@ -1,6 +1,6 @@
-# Unknown
+# South East Kern River Cogeneration Facility
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000152835
 

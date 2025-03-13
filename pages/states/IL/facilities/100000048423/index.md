@@ -1,6 +1,6 @@
-# Unknown
+# Baldwin Power Plant
 
-**Location:** Unknown, IL
+**Location:** Baldwin, IL
 
 **EPA Facility ID:** 100000048423
 

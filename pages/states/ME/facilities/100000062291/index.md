@@ -1,6 +1,6 @@
-# Unknown
+# Wyman's Hancock Plant
 
-**Location:** Unknown, ME
+**Location:** Hancock, ME
 
 **EPA Facility ID:** 100000062291
 

@@ -1,6 +1,6 @@
-# Unknown
+# Colfax, WA
 
-**Location:** Unknown, WA
+**Location:** Colfax, WA
 
 **EPA Facility ID:** 100000035598
 

@@ -1,6 +1,6 @@
-# Unknown
+# TRG Hot Springs, LLC
 
-**Location:** Unknown, AR
+**Location:** Hot Springs, AR
 
 **EPA Facility ID:** 100000128168
 

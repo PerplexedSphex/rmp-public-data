@@ -1,6 +1,6 @@
-# Unknown
+# Sholem Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Duncan, OK
 
 **EPA Facility ID:** 100000076507
 

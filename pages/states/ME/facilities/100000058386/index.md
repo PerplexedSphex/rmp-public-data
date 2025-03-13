@@ -1,6 +1,6 @@
-# Unknown
+# HoltraChem Manufacturing Company
 
-**Location:** Unknown, ME
+**Location:** Orrington, ME
 
 **EPA Facility ID:** 100000058386
 

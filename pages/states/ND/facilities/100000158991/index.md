@@ -1,6 +1,6 @@
-# Unknown
+# Tioga Gas Plant
 
-**Location:** Unknown, ND
+**Location:** Tioga, ND
 
 **EPA Facility ID:** 100000158991
 

@@ -1,6 +1,6 @@
-# Unknown
+# Ruiz Food Products, Inc.
 
-**Location:** Unknown, TX
+**Location:** Denison, TX
 
 **EPA Facility ID:** 100000193391
 

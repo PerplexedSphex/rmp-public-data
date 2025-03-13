@@ -1,6 +1,6 @@
-# Unknown
+# ALDI, Inc.
 
-**Location:** Unknown, GA
+**Location:** Jefferson, GA
 
 **EPA Facility ID:** 100000213949
 

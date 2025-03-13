@@ -1,6 +1,6 @@
-# Unknown
+# Lion Copolymer Geismar, LLC
 
-**Location:** Unknown, LA
+**Location:** Geismar, LA
 
 **EPA Facility ID:** 100000145078
 

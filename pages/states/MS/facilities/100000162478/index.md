@@ -1,6 +1,6 @@
-# Unknown
+# Fulton Water Dept
 
-**Location:** Unknown, MS
+**Location:** Fulton, MS
 
 **EPA Facility ID:** 100000162478
 

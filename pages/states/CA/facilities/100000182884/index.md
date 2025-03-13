@@ -1,6 +1,6 @@
-# Unknown
+# Red Diamond Cooling, Inc.
 
-**Location:** Unknown, CA
+**Location:** Guadalupe, CA
 
 **EPA Facility ID:** 100000182884
 

@@ -1,6 +1,6 @@
-# Unknown
+# Smart Warehousing, LLC
 
-**Location:** Unknown, MO
+**Location:** Independence, MO
 
 **EPA Facility ID:** 100000158571
 

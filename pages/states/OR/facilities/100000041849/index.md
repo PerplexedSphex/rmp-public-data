@@ -1,6 +1,6 @@
-# Unknown
+# City of Myrtle Creek Wastewater Treatment Plant
 
-**Location:** Unknown, OR
+**Location:** Myrtle Creek, OR
 
 **EPA Facility ID:** 100000041849
 

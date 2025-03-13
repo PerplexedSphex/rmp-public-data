@@ -1,6 +1,6 @@
-# Unknown
+# Aurora East, LLC
 
-**Location:** Unknown, NE
+**Location:** Aurora, NE
 
 **EPA Facility ID:** 100000184686
 

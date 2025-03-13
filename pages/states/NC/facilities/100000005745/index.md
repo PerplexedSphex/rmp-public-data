@@ -1,6 +1,6 @@
-# Unknown
+# Catawba River Water Filtration Plant
 
-**Location:** Unknown, NC
+**Location:** Morganton, NC
 
 **EPA Facility ID:** 100000005745
 

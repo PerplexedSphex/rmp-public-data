@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Distribution Center - 3M Company
 
-**Location:** Unknown, IL
+**Location:** Aurora, IL
 
 **EPA Facility ID:** 100000042009
 

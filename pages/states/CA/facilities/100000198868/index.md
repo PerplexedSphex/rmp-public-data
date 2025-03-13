@@ -1,6 +1,6 @@
-# Unknown
+# Calexico Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Calexico, CA
 
 **EPA Facility ID:** 100000198868
 

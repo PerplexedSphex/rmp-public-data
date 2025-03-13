@@ -1,6 +1,6 @@
-# Unknown
+# Ponderay Newsprint Company
 
-**Location:** Unknown, WA
+**Location:** Usk, WA
 
 **EPA Facility ID:** 100000056388
 

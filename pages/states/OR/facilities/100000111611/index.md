@@ -1,6 +1,6 @@
-# Unknown
+# Haskins Ck.(Norman R. Scott) Water Treatment Plant
 
-**Location:** Unknown, OR
+**Location:** Yamhill, OR
 
 **EPA Facility ID:** 100000111611
 

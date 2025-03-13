@@ -1,6 +1,6 @@
-# Unknown
+# Robert E. Hurst Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Mountain Home, AR
 
 **EPA Facility ID:** 100000075795
 

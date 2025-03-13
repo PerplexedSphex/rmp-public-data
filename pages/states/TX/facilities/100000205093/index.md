@@ -1,6 +1,6 @@
-# Unknown
+# Spearman Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Spearman, TX
 
 **EPA Facility ID:** 100000205093
 

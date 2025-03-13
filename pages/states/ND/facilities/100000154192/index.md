@@ -1,6 +1,6 @@
-# Unknown
+# Valley United Coop
 
-**Location:** Unknown, ND
+**Location:** Grandin, ND
 
 **EPA Facility ID:** 100000154192
 

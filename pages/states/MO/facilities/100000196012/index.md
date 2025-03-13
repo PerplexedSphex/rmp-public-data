@@ -1,6 +1,6 @@
-# Unknown
+# Midwest Sterilization Corporation - Jackson
 
-**Location:** Unknown, MO
+**Location:** Jackson, MO
 
 **EPA Facility ID:** 100000196012
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Company - Willow Hill
 
-**Location:** Unknown, IL
+**Location:** Willow Hill, IL
 
 **EPA Facility ID:** 100000037872
 

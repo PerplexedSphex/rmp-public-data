@@ -1,6 +1,6 @@
-# Unknown
+# Stratas Foods, LLC - Jacksonville, Illinois
 
-**Location:** Unknown, IL
+**Location:** Jacksonville, IL
 
 **EPA Facility ID:** 100000063726
 

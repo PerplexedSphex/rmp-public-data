@@ -1,6 +1,6 @@
-# Unknown
+# Chemours El Dorado Plant
 
-**Location:** Unknown, AR
+**Location:** El Dorado, AR
 
 **EPA Facility ID:** 100000201462
 

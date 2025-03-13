@@ -1,6 +1,6 @@
-# Unknown
+# GSWSA Myrtle Beach SWTP
 
-**Location:** Unknown, SC
+**Location:** Myrtle Beach, SC
 
 **EPA Facility ID:** 100000110186
 

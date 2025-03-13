@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Harvard
 
-**Location:** Unknown, NE
+**Location:** Harvard, NE
 
 **EPA Facility ID:** 100000005594
 

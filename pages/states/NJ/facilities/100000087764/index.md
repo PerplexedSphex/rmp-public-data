@@ -1,6 +1,6 @@
-# Unknown
+# COIM USA, Inc. 
 
-**Location:** Unknown, NJ
+**Location:** Paulsboro, NJ
 
 **EPA Facility ID:** 100000087764
 

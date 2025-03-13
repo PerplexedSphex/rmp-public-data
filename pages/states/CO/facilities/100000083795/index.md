@@ -1,6 +1,6 @@
-# Unknown
+# Grand Valley Gas Plant
 
-**Location:** Unknown, CO
+**Location:** Parachute, CO
 
 **EPA Facility ID:** 100000083795
 

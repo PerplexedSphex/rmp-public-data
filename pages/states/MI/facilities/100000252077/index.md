@@ -1,6 +1,6 @@
-# Unknown
+# Lansing Propane Terminal
 
-**Location:** Unknown, MI
+**Location:** Lansing, MI
 
 **EPA Facility ID:** 100000252077
 

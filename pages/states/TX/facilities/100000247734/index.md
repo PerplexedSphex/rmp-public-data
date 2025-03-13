@@ -1,6 +1,6 @@
-# Unknown
+# Freshpet 3
 
-**Location:** Unknown, TX
+**Location:** Ennis, TX
 
 **EPA Facility ID:** 100000247734
 

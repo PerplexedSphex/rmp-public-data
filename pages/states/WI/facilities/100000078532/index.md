@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Superior
 
-**Location:** Unknown, WI
+**Location:** Superior, WI
 
 **EPA Facility ID:** 100000078532
 

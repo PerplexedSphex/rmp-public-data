@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. - Powder Springs
 
-**Location:** Unknown, GA
+**Location:** Powder Springs, GA
 
 **EPA Facility ID:** 100000021629
 

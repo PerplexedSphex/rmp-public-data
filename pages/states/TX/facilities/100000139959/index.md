@@ -1,6 +1,6 @@
-# Unknown
+# Valspar Coatings - Garland, TX
 
-**Location:** Unknown, TX
+**Location:** Garland, TX
 
 **EPA Facility ID:** 100000139959
 

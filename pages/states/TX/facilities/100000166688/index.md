@@ -1,6 +1,6 @@
-# Unknown
+# Cross Plains Grain & Peanut Company
 
-**Location:** Unknown, TX
+**Location:** Cross Plains, TX
 
 **EPA Facility ID:** 100000166688
 

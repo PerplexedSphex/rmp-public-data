@@ -1,6 +1,6 @@
-# Unknown
+# Wheaton-Dumont Coop Elevator - Wheaton Location
 
-**Location:** Unknown, MN
+**Location:** Wheaton, MN
 
 **EPA Facility ID:** 100000012906
 

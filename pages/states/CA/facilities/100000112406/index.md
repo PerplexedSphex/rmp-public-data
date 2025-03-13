@@ -1,6 +1,6 @@
-# Unknown
+# SCWA: Airport SZTP
 
-**Location:** Unknown, CA
+**Location:** Santa Rosa, CA
 
 **EPA Facility ID:** 100000112406
 

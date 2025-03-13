@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Cooperative  - Bennet
 
-**Location:** Unknown, NE
+**Location:** Bennet, NE
 
 **EPA Facility ID:** 100000015486
 

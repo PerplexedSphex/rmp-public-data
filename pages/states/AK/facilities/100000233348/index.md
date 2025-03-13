@@ -1,6 +1,6 @@
-# Unknown
+# Petro Star - North Pole Refinery
 
-**Location:** Unknown, AK
+**Location:** North Pole, AK
 
 **EPA Facility ID:** 100000233348
 

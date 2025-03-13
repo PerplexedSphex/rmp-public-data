@@ -1,6 +1,6 @@
-# Unknown
+# Battle Creek Farmers Cooperative- Plainview, NE
 
-**Location:** Unknown, NE
+**Location:** Plainview, NE
 
 **EPA Facility ID:** 100000100286
 

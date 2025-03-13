@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Paul, ID
 
-**Location:** Unknown, ID
+**Location:** Paul, ID
 
 **EPA Facility ID:** 100000142712
 

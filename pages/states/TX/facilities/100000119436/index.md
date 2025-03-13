@@ -1,6 +1,6 @@
-# Unknown
+# Rhodia Inc., Freeport Plant
 
-**Location:** Unknown, TX
+**Location:** Freeport, TX
 
 **EPA Facility ID:** 100000119436
 

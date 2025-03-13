@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Gaston 
 
-**Location:** Unknown, SC
+**Location:** Gaston, SC
 
 **EPA Facility ID:** 100000187754
 

@@ -1,6 +1,6 @@
-# Unknown
+# Dinsdale Bros., Inc.
 
-**Location:** Unknown, NE
+**Location:** Fullerton, NE
 
 **EPA Facility ID:** 100000179941
 

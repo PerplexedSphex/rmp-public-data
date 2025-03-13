@@ -1,6 +1,6 @@
-# Unknown
+# Enterprise Matagorda Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Palacios, TX
 
 **EPA Facility ID:** 100000090723
 

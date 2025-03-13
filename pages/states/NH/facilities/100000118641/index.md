@@ -1,6 +1,6 @@
-# Unknown
+# HENKEL CORPORATION
 
-**Location:** Unknown, NH
+**Location:** Seabrook, NH
 
 **EPA Facility ID:** 100000118641
 

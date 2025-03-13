@@ -1,6 +1,6 @@
-# Unknown
+# Gomer, OH
 
-**Location:** Unknown, OH
+**Location:** Gomer, OH
 
 **EPA Facility ID:** 100000106379
 

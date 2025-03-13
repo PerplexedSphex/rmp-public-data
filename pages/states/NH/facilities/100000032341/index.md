@@ -1,6 +1,6 @@
-# Unknown
+# Troy Mills, Inc.
 
-**Location:** Unknown, NH
+**Location:** Troy, NH
 
 **EPA Facility ID:** 100000032341
 

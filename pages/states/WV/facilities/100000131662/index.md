@@ -1,6 +1,6 @@
-# Unknown
+# Beth Station Prep. Plant
 
-**Location:** Unknown, WV
+**Location:** Danville, WV
 
 **EPA Facility ID:** 100000131662
 

@@ -1,6 +1,6 @@
-# Unknown
+# Group14 BAM-2, Inc.
 
-**Location:** Unknown, WA
+**Location:** Moses Lake, WA
 
 **EPA Facility ID:** 100000254011
 

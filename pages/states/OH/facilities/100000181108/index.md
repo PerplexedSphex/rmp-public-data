@@ -1,6 +1,6 @@
-# Unknown
+# Vermilion Water Plant
 
-**Location:** Unknown, OH
+**Location:** Vermilion, OH
 
 **EPA Facility ID:** 100000181108
 

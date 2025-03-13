@@ -1,6 +1,6 @@
-# Unknown
+# BEI Hawaii -  Puhi Facility, Kauai
 
-**Location:** Unknown, HI
+**Location:** Lihue, HI
 
 **EPA Facility ID:** 100000180145
 

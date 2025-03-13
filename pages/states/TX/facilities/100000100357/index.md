@@ -1,6 +1,6 @@
-# Unknown
+# McLean Gas Plant
 
-**Location:** Unknown, TX
+**Location:** McLean, TX
 
 **EPA Facility ID:** 100000100357
 

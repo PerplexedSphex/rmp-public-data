@@ -1,6 +1,6 @@
-# Unknown
+# John Taylor Fertilizers Company, Inc - Stockton
 
-**Location:** Unknown, CA
+**Location:** Stockton, CA
 
 **EPA Facility ID:** 100000045756
 

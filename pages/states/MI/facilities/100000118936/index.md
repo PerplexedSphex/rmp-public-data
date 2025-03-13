@@ -1,6 +1,6 @@
-# Unknown
+# LymTal International, Inc.
 
-**Location:** Unknown, MI
+**Location:** Lake Orion, MI
 
 **EPA Facility ID:** 100000118936
 

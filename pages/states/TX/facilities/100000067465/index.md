@@ -1,6 +1,6 @@
-# Unknown
+# Texarkana Mill
 
-**Location:** Unknown, TX
+**Location:** Queen City, TX
 
 **EPA Facility ID:** 100000067465
 

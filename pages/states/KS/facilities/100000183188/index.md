@@ -1,6 +1,6 @@
-# Unknown
+# PARADISE GRAIN CO., INC.
 
-**Location:** Unknown, KS
+**Location:** PARADISE, KS
 
 **EPA Facility ID:** 100000183188
 

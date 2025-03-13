@@ -1,6 +1,6 @@
-# Unknown
+# Calaveras Co. Ebbetts Pass  WTP (Hunters)
 
-**Location:** Unknown, CA
+**Location:** Hathaway Pines, CA
 
 **EPA Facility ID:** 100000126339
 

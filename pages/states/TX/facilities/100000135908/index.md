@@ -1,6 +1,6 @@
-# Unknown
+# Loeb Chlorination Facility
 
-**Location:** Unknown, TX
+**Location:** Lumberton, TX
 
 **EPA Facility ID:** 100000135908
 

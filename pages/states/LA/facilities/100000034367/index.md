@@ -1,6 +1,6 @@
-# Unknown
+# Gaylord Chemical Co., LLC, Bogalusa Plant
 
-**Location:** Unknown, LA
+**Location:** Bogalusa, LA
 
 **EPA Facility ID:** 100000034367
 

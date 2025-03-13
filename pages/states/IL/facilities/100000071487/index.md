@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics Batavia
 
-**Location:** Unknown, IL
+**Location:** Batavia, IL
 
 **EPA Facility ID:** 100000071487
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sault Ste. Marie Wastewater Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Sault Ste. Marie, MI
 
 **EPA Facility ID:** 100000110621
 

@@ -1,6 +1,6 @@
-# Unknown
+# Santee Cooper Winyah Generating Station
 
-**Location:** Unknown, SC
+**Location:** Georgetown, SC
 
 **EPA Facility ID:** 100000185854
 

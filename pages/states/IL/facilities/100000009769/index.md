@@ -1,6 +1,6 @@
-# Unknown
+# Consolidated Grain & Barge-Gladstone Facility
 
-**Location:** Unknown, IL
+**Location:** Gladstone, IL
 
 **EPA Facility ID:** 100000009769
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sherwood Plant
 
-**Location:** Unknown, WV
+**Location:** West Union, WV
 
 **EPA Facility ID:** 100000219541
 

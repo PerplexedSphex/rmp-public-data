@@ -1,6 +1,6 @@
-# Unknown
+# Rifle Range Wastewater Treatment Facility
 
-**Location:** Unknown, SC
+**Location:** Mount Pleasant, SC
 
 **EPA Facility ID:** 100000046247
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Sanborn Facility
 
-**Location:** Unknown, ND
+**Location:** Sanborn, ND
 
 **EPA Facility ID:** 100000062031
 

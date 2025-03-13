@@ -1,6 +1,6 @@
-# Unknown
+# ADM Milling Company
 
-**Location:** Unknown, NY
+**Location:** Buffalo, NY
 
 **EPA Facility ID:** 100000012041
 

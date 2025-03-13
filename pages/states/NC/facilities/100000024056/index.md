@@ -1,6 +1,6 @@
-# Unknown
+# City of Washington Regional Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Washington, NC
 
 **EPA Facility ID:** 100000024056
 

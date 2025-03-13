@@ -1,6 +1,6 @@
-# Unknown
+# Town of Valdese Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Valdese, NC
 
 **EPA Facility ID:** 100000003836
 

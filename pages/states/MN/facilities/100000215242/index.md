@@ -1,6 +1,6 @@
-# Unknown
+# Minnesota Freezer Whse. Co. Albert Lea
 
-**Location:** Unknown, MN
+**Location:** Albert Lea, MN
 
 **EPA Facility ID:** 100000215242
 

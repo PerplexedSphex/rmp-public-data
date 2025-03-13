@@ -1,6 +1,6 @@
-# Unknown
+# Ozona Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Ozona, TX
 
 **EPA Facility ID:** 100000063744
 

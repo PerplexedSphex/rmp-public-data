@@ -1,6 +1,6 @@
-# Unknown
+# Acordis Industrial Fibers Inc.
 
-**Location:** Unknown, AL
+**Location:** Scottsboro, AL
 
 **EPA Facility ID:** 100000077445
 

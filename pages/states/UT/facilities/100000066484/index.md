@@ -1,6 +1,6 @@
-# Unknown
+# SFI - Logan Plant and UDC
 
-**Location:** Unknown, UT
+**Location:** Logan, UT
 
 **EPA Facility ID:** 100000066484
 

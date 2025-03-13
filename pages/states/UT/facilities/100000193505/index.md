@@ -1,6 +1,6 @@
-# Unknown
+# Costco Wholesale - Salt Lake City
 
-**Location:** Unknown, UT
+**Location:** Salt Lake City, UT
 
 **EPA Facility ID:** 100000193505
 

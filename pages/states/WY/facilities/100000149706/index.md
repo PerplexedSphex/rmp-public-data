@@ -1,6 +1,6 @@
-# Unknown
+# Vermillion Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Rock Springs, WY
 
 **EPA Facility ID:** 100000149706
 

@@ -1,6 +1,6 @@
-# Unknown
+# Emmaus Foods, LLC
 
-**Location:** Unknown, AL
+**Location:** Albertville, AL
 
 **EPA Facility ID:** 100000231796
 

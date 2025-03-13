@@ -1,6 +1,6 @@
-# Unknown
+# Barnes NH3
 
-**Location:** Unknown, KS
+**Location:** Barnes, KS
 
 **EPA Facility ID:** 100000015066
 

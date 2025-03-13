@@ -1,6 +1,6 @@
-# Unknown
+# Panola Gathering and Treating Facility
 
-**Location:** Unknown, OK
+**Location:** Red Oak, OK
 
 **EPA Facility ID:** 100000204156
 

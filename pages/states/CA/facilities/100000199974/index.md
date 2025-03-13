@@ -1,6 +1,6 @@
-# Unknown
+# Harding & Leggett, Inc.
 
-**Location:** Unknown, CA
+**Location:** Orange Cove, CA
 
 **EPA Facility ID:** 100000199974
 

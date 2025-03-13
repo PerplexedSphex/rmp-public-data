@@ -1,6 +1,6 @@
-# Unknown
+# Leprino Foods Company Lemoore East CA. Plant
 
-**Location:** Unknown, CA
+**Location:** Lemoore, CA
 
 **EPA Facility ID:** 100000144186
 

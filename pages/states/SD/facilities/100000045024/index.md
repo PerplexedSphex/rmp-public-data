@@ -1,6 +1,6 @@
-# Unknown
+# Huron Water Treatment Plant
 
-**Location:** Unknown, SD
+**Location:** Huron, SD
 
 **EPA Facility ID:** 100000045024
 

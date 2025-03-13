@@ -1,6 +1,6 @@
-# Unknown
+# F. R. Blankenstein Co.
 
-**Location:** Unknown, MS
+**Location:** Natchez, MS
 
 **EPA Facility ID:** 100000156733
 

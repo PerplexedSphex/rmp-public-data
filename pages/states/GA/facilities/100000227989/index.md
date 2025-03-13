@@ -1,6 +1,6 @@
-# Unknown
+# Gordon Food Service
 
-**Location:** Unknown, GA
+**Location:** Lithia Springs, GA
 
 **EPA Facility ID:** 100000227989
 

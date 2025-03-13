@@ -1,6 +1,6 @@
-# Unknown
+# National Semiconductor Texas
 
-**Location:** Unknown, TX
+**Location:** Arlington, TX
 
 **EPA Facility ID:** 100000076516
 

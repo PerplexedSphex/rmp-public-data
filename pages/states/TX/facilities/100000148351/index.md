@@ -1,6 +1,6 @@
-# Unknown
+# City of Terrell - Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Terrell, TX
 
 **EPA Facility ID:** 100000148351
 

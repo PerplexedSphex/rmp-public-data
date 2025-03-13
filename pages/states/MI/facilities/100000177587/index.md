@@ -1,6 +1,6 @@
-# Unknown
+# Norquick Distributing Company
 
-**Location:** Unknown, MI
+**Location:** Canton, MI
 
 **EPA Facility ID:** 100000177587
 

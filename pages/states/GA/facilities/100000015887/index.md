@@ -1,6 +1,6 @@
-# Unknown
+# Fresh Frozen Foods, Inc
 
-**Location:** Unknown, GA
+**Location:** Thomasville, GA
 
 **EPA Facility ID:** 100000015887
 

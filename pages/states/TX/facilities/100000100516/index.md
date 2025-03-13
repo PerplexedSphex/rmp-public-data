@@ -1,6 +1,6 @@
-# Unknown
+# South East Water Reclamation Plant (SEWRP)
 
-**Location:** Unknown, TX
+**Location:** Lubbock, TX
 
 **EPA Facility ID:** 100000100516
 

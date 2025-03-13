@@ -1,6 +1,6 @@
-# Unknown
+# City of Porterville Wastewater Treatment Facility
 
-**Location:** Unknown, CA
+**Location:** Porterville, CA
 
 **EPA Facility ID:** 100000159222
 

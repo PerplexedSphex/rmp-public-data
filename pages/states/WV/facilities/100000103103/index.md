@@ -1,6 +1,6 @@
-# Unknown
+# West Virginia-American Water  Kanawha Valley WTP
 
-**Location:** Unknown, WV
+**Location:** Charleston, WV
 
 **EPA Facility ID:** 100000103103
 

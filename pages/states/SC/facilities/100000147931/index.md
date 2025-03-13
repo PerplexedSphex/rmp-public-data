@@ -1,6 +1,6 @@
-# Unknown
+# Springs Industries, Inc. - Grace Complex
 
-**Location:** Unknown, SC
+**Location:** Lancaster, SC
 
 **EPA Facility ID:** 100000147931
 

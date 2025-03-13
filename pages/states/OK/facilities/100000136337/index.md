@@ -1,6 +1,6 @@
-# Unknown
+# LSB Chemical L.L.C.
 
-**Location:** Unknown, OK
+**Location:** Pryor, OK
 
 **EPA Facility ID:** 100000136337
 

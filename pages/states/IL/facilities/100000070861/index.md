@@ -1,6 +1,6 @@
-# Unknown
+# KIK Custom Products - Danville Warehouse
 
-**Location:** Unknown, IL
+**Location:** Danville, IL
 
 **EPA Facility ID:** 100000070861
 

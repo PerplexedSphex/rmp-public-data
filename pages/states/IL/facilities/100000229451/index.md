@@ -1,6 +1,6 @@
-# Unknown
+# Brewster Cheese Company, Stockton Location
 
-**Location:** Unknown, IL
+**Location:** Stockton, IL
 
 **EPA Facility ID:** 100000229451
 

@@ -1,6 +1,6 @@
-# Unknown
+# Altamont Gas Plant
 
-**Location:** Unknown, UT
+**Location:** Altamont, UT
 
 **EPA Facility ID:** 100000106262
 

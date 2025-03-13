@@ -1,6 +1,6 @@
-# Unknown
+# West Central FS, Inc.   Stronghurst
 
-**Location:** Unknown, IL
+**Location:** Stronghurst, IL
 
 **EPA Facility ID:** 100000058242
 

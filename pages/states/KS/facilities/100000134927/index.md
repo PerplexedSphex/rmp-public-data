@@ -1,6 +1,6 @@
-# Unknown
+# KANZA COOP, RANDLE BRANCH
 
-**Location:** Unknown, KS
+**Location:** PRATT, KS
 
 **EPA Facility ID:** 100000134927
 

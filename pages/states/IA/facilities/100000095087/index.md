@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Silver City
 
-**Location:** Unknown, IA
+**Location:** Silver City, IA
 
 **EPA Facility ID:** 100000095087
 

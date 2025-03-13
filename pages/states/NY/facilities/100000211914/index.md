@@ -1,6 +1,6 @@
-# Unknown
+# Byrne DeWitt (formerly Ultra Dairy, LLC)
 
-**Location:** Unknown, NY
+**Location:** East Syracuse, NY
 
 **EPA Facility ID:** 100000211914
 

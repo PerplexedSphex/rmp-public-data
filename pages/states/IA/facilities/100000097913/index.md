@@ -1,6 +1,6 @@
-# Unknown
+# Landus Cooperative - Thompson
 
-**Location:** Unknown, IA
+**Location:** Thompson, IA
 
 **EPA Facility ID:** 100000097913
 

@@ -1,6 +1,6 @@
-# Unknown
+# Benicia Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Benicia, CA
 
 **EPA Facility ID:** 100000112497
 

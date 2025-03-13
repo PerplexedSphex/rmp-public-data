@@ -1,6 +1,6 @@
-# Unknown
+# Central Dakota Frontier Cooperative Mandan Plant
 
-**Location:** Unknown, ND
+**Location:** Mandan, ND
 
 **EPA Facility ID:** 100000036445
 

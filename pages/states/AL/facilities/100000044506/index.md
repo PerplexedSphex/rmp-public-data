@@ -1,6 +1,6 @@
-# Unknown
+# Cherokee County Water Plant
 
-**Location:** Unknown, AL
+**Location:** Piedmont, AL
 
 **EPA Facility ID:** 100000044506
 

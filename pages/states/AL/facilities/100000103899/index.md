@@ -1,6 +1,6 @@
-# Unknown
+# Cullman Wastewater Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Cullman, AL
 
 **EPA Facility ID:** 100000103899
 

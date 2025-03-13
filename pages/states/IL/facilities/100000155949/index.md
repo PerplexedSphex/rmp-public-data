@@ -1,6 +1,6 @@
-# Unknown
+# CHEM GRO of ADRIAN
 
-**Location:** Unknown, IL
+**Location:** DALLAS CITY, IL
 
 **EPA Facility ID:** 100000155949
 

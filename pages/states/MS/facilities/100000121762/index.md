@@ -1,6 +1,6 @@
-# Unknown
+# MI College Water Treatment Plant
 
-**Location:** Unknown, MS
+**Location:** West Point, MS
 
 **EPA Facility ID:** 100000121762
 

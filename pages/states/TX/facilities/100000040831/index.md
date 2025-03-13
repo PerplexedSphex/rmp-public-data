@@ -1,6 +1,6 @@
-# Unknown
+# Solvay USA LLC (Vernon, Texas Facility)
 
-**Location:** Unknown, TX
+**Location:** Vernon, TX
 
 **EPA Facility ID:** 100000040831
 

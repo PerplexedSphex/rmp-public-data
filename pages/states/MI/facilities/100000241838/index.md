@@ -1,6 +1,6 @@
-# Unknown
+# Plainfield Township Water Department
 
-**Location:** Unknown, MI
+**Location:** GRAND RAPIDS, MI
 
 **EPA Facility ID:** 100000241838
 

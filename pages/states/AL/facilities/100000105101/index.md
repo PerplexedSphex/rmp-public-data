@@ -1,6 +1,6 @@
-# Unknown
+# Dothan Utilities Little Choctawhatchee WWTP
 
-**Location:** Unknown, AL
+**Location:** Dothan, AL
 
 **EPA Facility ID:** 100000105101
 

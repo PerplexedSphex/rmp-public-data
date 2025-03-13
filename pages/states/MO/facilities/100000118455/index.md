@@ -1,6 +1,6 @@
-# Unknown
+# Plaze, Incorporated
 
-**Location:** Unknown, MO
+**Location:** St. Clair, MO
 
 **EPA Facility ID:** 100000118455
 

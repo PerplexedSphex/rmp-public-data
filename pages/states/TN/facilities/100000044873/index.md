@@ -1,6 +1,6 @@
-# Unknown
+# Shelbyville Wastewater Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Shelbyville, TN
 
 **EPA Facility ID:** 100000044873
 

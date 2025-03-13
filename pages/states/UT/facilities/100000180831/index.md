@@ -1,6 +1,6 @@
-# Unknown
+# Harris Research, Inc.
 
-**Location:** Unknown, UT
+**Location:** Logan, UT
 
 **EPA Facility ID:** 100000180831
 

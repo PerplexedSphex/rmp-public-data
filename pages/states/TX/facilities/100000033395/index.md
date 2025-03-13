@@ -1,6 +1,6 @@
-# Unknown
+# LCRA - Fayette Power Project
 
-**Location:** Unknown, TX
+**Location:** LaGrange, TX
 
 **EPA Facility ID:** 100000033395
 

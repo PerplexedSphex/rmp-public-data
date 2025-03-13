@@ -1,6 +1,6 @@
-# Unknown
+# UAP Northwest, Pasco
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000119203
 

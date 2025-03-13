@@ -1,6 +1,6 @@
-# Unknown
+# Pregis Innovative Packaging Inc.
 
-**Location:** Unknown, IN
+**Location:** Plymouth, IN
 
 **EPA Facility ID:** 100000044631
 

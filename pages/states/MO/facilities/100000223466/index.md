@@ -1,6 +1,6 @@
-# Unknown
+# Loganbill Ag Services
 
-**Location:** Unknown, MO
+**Location:** Syracuse, MO
 
 **EPA Facility ID:** 100000223466
 

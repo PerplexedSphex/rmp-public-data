@@ -1,6 +1,6 @@
-# Unknown
+# Gonnella Frozen Products-Hazle Township
 
-**Location:** Unknown, PA
+**Location:** Hazle Township, PA
 
 **EPA Facility ID:** 100000200454
 

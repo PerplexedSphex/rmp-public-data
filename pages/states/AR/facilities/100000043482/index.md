@@ -1,6 +1,6 @@
-# Unknown
+# US Vanadium, LLC
 
-**Location:** Unknown, AR
+**Location:** Hot Springs, AR
 
 **EPA Facility ID:** 100000043482
 

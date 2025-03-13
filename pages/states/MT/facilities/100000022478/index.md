@@ -1,6 +1,6 @@
-# Unknown
+# Bozeman Wastewater Treatment Plant
 
-**Location:** Unknown, MT
+**Location:** Bozeman, MT
 
 **EPA Facility ID:** 100000022478
 

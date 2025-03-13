@@ -1,6 +1,6 @@
-# Unknown
+# Sycamore Terminal Company, LLC
 
-**Location:** Unknown, OH
+**Location:** Sycamore, OH
 
 **EPA Facility ID:** 100000247805
 

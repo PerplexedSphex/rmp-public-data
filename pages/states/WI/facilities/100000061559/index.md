@@ -1,6 +1,6 @@
-# Unknown
+# Goodwill Industries of Sotheastern WI-Vogel Plant
 
-**Location:** Unknown, WI
+**Location:** Milwaukee, WI
 
 **EPA Facility ID:** 100000061559
 

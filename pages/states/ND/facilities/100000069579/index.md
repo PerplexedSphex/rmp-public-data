@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.-Osnabrock
 
-**Location:** Unknown, ND
+**Location:** Osnabrock, ND
 
 **EPA Facility ID:** 100000069579
 

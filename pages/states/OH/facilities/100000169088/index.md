@@ -1,6 +1,6 @@
-# Unknown
+# OHIGRO, Inc. Richwood
 
-**Location:** Unknown, OH
+**Location:** Richwood, OH
 
 **EPA Facility ID:** 100000169088
 

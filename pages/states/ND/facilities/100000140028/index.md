@@ -1,6 +1,6 @@
-# Unknown
+# BLOOMVALE  INC.
 
-**Location:** Unknown, ND
+**Location:** TAYLOR, ND
 
 **EPA Facility ID:** 100000140028
 

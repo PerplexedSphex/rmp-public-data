@@ -1,6 +1,6 @@
-# Unknown
+# Koch Fertilizer, LLC - Wood River Terminal
 
-**Location:** Unknown, IL
+**Location:** East Alton, IL
 
 **EPA Facility ID:** 100000042713
 

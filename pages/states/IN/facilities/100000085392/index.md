@@ -1,6 +1,6 @@
-# Unknown
+# Logansport Wastewater Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** Logansport, IN
 
 **EPA Facility ID:** 100000085392
 

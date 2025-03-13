@@ -1,6 +1,6 @@
-# Unknown
+# GFC Foam, LLC
 
-**Location:** Unknown, PA
+**Location:** West Hazleton, PA
 
 **EPA Facility ID:** 100000025554
 

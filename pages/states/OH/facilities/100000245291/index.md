@@ -1,6 +1,6 @@
-# Unknown
+# NSG Glass North America, Inc.
 
-**Location:** Unknown, OH
+**Location:** Luckey, OH
 
 **EPA Facility ID:** 100000245291
 

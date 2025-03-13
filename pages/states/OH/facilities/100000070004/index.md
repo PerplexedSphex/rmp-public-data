@@ -1,6 +1,6 @@
-# Unknown
+# Sunrise Co-op, Inc. - Norwalk, Ohio
 
-**Location:** Unknown, OH
+**Location:** Norwalk, OH
 
 **EPA Facility ID:** 100000070004
 

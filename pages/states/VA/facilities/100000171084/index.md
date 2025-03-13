@@ -1,6 +1,6 @@
-# Unknown
+# Bedford Regional Water Authority
 
-**Location:** Unknown, VA
+**Location:** Bedford, VA
 
 **EPA Facility ID:** 100000171084
 

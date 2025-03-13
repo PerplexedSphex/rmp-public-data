@@ -1,6 +1,6 @@
-# Unknown
+# Ketchikan Chlorination Plant
 
-**Location:** Unknown, AK
+**Location:** Ketchikan, AK
 
 **EPA Facility ID:** 100000061336
 

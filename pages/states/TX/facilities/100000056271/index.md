@@ -1,6 +1,6 @@
-# Unknown
+# Lockney Cooperative Gin
 
-**Location:** Unknown, TX
+**Location:** Lockney, TX
 
 **EPA Facility ID:** 100000056271
 

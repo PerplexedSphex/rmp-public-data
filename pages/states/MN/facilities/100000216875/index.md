@@ -1,6 +1,6 @@
-# Unknown
+# Rinchem Company, Inc.
 
-**Location:** Unknown, MN
+**Location:** Eagan, MN
 
 **EPA Facility ID:** 100000216875
 

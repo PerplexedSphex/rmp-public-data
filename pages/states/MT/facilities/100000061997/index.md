@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.-Richey
 
-**Location:** Unknown, MT
+**Location:** Richey, MT
 
 **EPA Facility ID:** 100000061997
 

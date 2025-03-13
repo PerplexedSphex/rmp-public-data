@@ -1,6 +1,6 @@
-# Unknown
+# Good Humor Corporation Framingham
 
-**Location:** Unknown, MA
+**Location:** Framingham, MA
 
 **EPA Facility ID:** 100000053782
 

@@ -1,6 +1,6 @@
-# Unknown
+# Laurel Mountain Midstream Operating Stewart Plant
 
-**Location:** Unknown, PA
+**Location:** Hickory, PA
 
 **EPA Facility ID:** 100000209936
 

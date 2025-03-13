@@ -1,6 +1,6 @@
-# Unknown
+# TriCross Renewable Energy
 
-**Location:** Unknown, SD
+**Location:** Viborg, SD
 
 **EPA Facility ID:** 100000253101
 

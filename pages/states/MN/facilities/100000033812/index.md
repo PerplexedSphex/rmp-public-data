@@ -1,6 +1,6 @@
-# Unknown
+# New Vision Coop
 
-**Location:** Unknown, MN
+**Location:** LISMORE, MN
 
 **EPA Facility ID:** 100000033812
 

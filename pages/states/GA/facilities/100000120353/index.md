@@ -1,6 +1,6 @@
-# Unknown
+# Pilgrim's Pride - Elberton Processing Plant
 
-**Location:** Unknown, GA
+**Location:** Elberton, GA
 
 **EPA Facility ID:** 100000120353
 

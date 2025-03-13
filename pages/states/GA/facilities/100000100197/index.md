@@ -1,6 +1,6 @@
-# Unknown
+# Tom's Foods Inc. - Columbus Ga Bakery
 
-**Location:** Unknown, GA
+**Location:** Columbus, GA
 
 **EPA Facility ID:** 100000100197
 

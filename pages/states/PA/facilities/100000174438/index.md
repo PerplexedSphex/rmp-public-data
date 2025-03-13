@@ -1,6 +1,6 @@
-# Unknown
+# Wyoming Valley Sanitary Authority
 
-**Location:** Unknown, PA
+**Location:** Hanover Township, PA
 
 **EPA Facility ID:** 100000174438
 

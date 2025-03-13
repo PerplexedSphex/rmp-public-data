@@ -1,6 +1,6 @@
-# Unknown
+# Yale, IA 49
 
-**Location:** Unknown, IA
+**Location:** Yale, IA
 
 **EPA Facility ID:** 100000004853
 

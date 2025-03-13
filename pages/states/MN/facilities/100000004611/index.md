@@ -1,6 +1,6 @@
-# Unknown
+# NUWAY COOPERATIVE FAIRMONT MN
 
-**Location:** Unknown, MN
+**Location:** FAIRMONT, MN
 
 **EPA Facility ID:** 100000004611
 

@@ -1,6 +1,6 @@
-# Unknown
+# Grubb Lease Gas Plant
 
-**Location:** Unknown, CA
+**Location:** Ventura, CA
 
 **EPA Facility ID:** 100000222591
 

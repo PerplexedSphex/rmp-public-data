@@ -1,6 +1,6 @@
-# Unknown
+# Park 100 Foods, Inc.
 
-**Location:** Unknown, IN
+**Location:** Tipton, IN
 
 **EPA Facility ID:** 100000217455
 

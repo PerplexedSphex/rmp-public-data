@@ -1,6 +1,6 @@
-# Unknown
+# Bachman Agricultural Service, Inc.
 
-**Location:** Unknown, OH
+**Location:** Johnstown, OH
 
 **EPA Facility ID:** 100000114422
 

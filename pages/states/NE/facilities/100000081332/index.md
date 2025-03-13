@@ -1,6 +1,6 @@
-# Unknown
+# COOPERATIVE PRODUCERS, INC - Potter Farm NH3
 
-**Location:** Unknown, NE
+**Location:** Wilcox, NE
 
 **EPA Facility ID:** 100000081332
 

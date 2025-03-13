@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Pasco, WA
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000206788
 

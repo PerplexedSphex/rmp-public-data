@@ -1,6 +1,6 @@
-# Unknown
+# Freeman Road Water Production Plant
 
-**Location:** Unknown, GA
+**Location:** Jonesboro, GA
 
 **EPA Facility ID:** 100000163752
 

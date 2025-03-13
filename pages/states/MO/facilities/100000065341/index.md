@@ -1,6 +1,6 @@
-# Unknown
+# SFI - Clinton Plant
 
-**Location:** Unknown, MO
+**Location:** Clinton, MO
 
 **EPA Facility ID:** 100000065341
 

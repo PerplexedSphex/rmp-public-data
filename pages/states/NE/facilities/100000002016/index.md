@@ -1,6 +1,6 @@
-# Unknown
+# Central Valley Ag Cooperative - Snyder
 
-**Location:** Unknown, NE
+**Location:** Snyder, NE
 
 **EPA Facility ID:** 100000002016
 

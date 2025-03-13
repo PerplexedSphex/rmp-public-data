@@ -1,6 +1,6 @@
-# Unknown
+# Hugoton Station
 
-**Location:** Unknown, KS
+**Location:** Hugoton, KS
 
 **EPA Facility ID:** 100000230617
 

@@ -1,6 +1,6 @@
-# Unknown
+# United Cooperaitve - Johnson Creek
 
-**Location:** Unknown, WI
+**Location:** Johnson Creek, WI
 
 **EPA Facility ID:** 100000122618
 

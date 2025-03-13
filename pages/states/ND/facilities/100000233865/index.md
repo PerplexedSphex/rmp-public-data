@@ -1,6 +1,6 @@
-# Unknown
+# Helena Ruth Grant Plant
 
-**Location:** Unknown, ND
+**Location:** Mandaree, ND
 
 **EPA Facility ID:** 100000233865
 

@@ -1,6 +1,6 @@
-# Unknown
+# Tanner Industries, Inc.
 
-**Location:** Unknown, WV
+**Location:** Kenova, WV
 
 **EPA Facility ID:** 100000106618
 

@@ -1,6 +1,6 @@
-# Unknown
+# Jackson Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Jackson, AL
 
 **EPA Facility ID:** 100000143686
 

@@ -1,6 +1,6 @@
-# Unknown
+# William C. Dale Station
 
-**Location:** Unknown, KY
+**Location:** Winchester, KY
 
 **EPA Facility ID:** 100000212986
 

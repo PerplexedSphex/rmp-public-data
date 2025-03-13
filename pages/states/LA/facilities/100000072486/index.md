@@ -1,6 +1,6 @@
-# Unknown
+# Northeast Wastewater Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Bossier City, LA
 
 **EPA Facility ID:** 100000072486
 

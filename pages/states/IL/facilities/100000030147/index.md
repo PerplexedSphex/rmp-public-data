@@ -1,6 +1,6 @@
-# Unknown
+# Heritage FS-Symerton
 
-**Location:** Unknown, IL
+**Location:** Wilmington, IL
 
 **EPA Facility ID:** 100000030147
 

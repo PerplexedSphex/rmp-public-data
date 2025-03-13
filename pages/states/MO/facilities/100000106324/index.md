@@ -1,6 +1,6 @@
-# Unknown
+# St. Joseph Facility
 
-**Location:** Unknown, MO
+**Location:** St. Joseph, MO
 
 **EPA Facility ID:** 100000106324
 

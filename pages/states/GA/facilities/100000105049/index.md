@@ -1,6 +1,6 @@
-# Unknown
+# Simmons Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Griffin, GA
 
 **EPA Facility ID:** 100000105049
 

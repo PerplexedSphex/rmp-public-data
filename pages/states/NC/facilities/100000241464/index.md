@@ -1,6 +1,6 @@
-# Unknown
+# Water Guard, Inc
 
-**Location:** Unknown, NC
+**Location:** Wilson, NC
 
 **EPA Facility ID:** 100000241464
 

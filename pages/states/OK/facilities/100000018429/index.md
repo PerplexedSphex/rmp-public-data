@@ -1,6 +1,6 @@
-# Unknown
+# W. B. JOHNSTON GRAIN CO. - BILLINGS LOCATION
 
-**Location:** Unknown, OK
+**Location:** BILLINGS, OK
 
 **EPA Facility ID:** 100000018429
 

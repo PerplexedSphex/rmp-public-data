@@ -1,6 +1,6 @@
-# Unknown
+# Intermountain Generating Station
 
-**Location:** Unknown, UT
+**Location:** Delta, UT
 
 **EPA Facility ID:** 100000055156
 

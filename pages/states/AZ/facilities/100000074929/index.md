@@ -1,6 +1,6 @@
-# Unknown
+# Town of Gilbert Water Treatment Plant
 
-**Location:** Unknown, AZ
+**Location:** Gilbert, AZ
 
 **EPA Facility ID:** 100000074929
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wayne Sanderson Farms-Decatur Prepared Foods-East
 
-**Location:** Unknown, AL
+**Location:** Decatur, AL
 
 **EPA Facility ID:** 100000064761
 

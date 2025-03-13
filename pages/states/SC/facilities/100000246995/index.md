@@ -1,6 +1,6 @@
-# Unknown
+# Electrolux - Anderson Campus
 
-**Location:** Unknown, SC
+**Location:** Anderson, SC
 
 **EPA Facility ID:** 100000246995
 

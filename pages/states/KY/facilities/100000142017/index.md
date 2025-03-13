@@ -1,6 +1,6 @@
-# Unknown
+# Nexpera Wurtland Plant
 
-**Location:** Unknown, KY
+**Location:** Wurtland, KY
 
 **EPA Facility ID:** 100000142017
 

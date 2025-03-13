@@ -1,6 +1,6 @@
-# Unknown
+# Linde - East Chicago, IN
 
-**Location:** Unknown, IN
+**Location:** East Chicago, IN
 
 **EPA Facility ID:** 100000144462
 

@@ -1,6 +1,6 @@
-# Unknown
+# McComb POTW, West
 
-**Location:** Unknown, MS
+**Location:** McComb, MS
 
 **EPA Facility ID:** 100000195709
 

@@ -1,6 +1,6 @@
-# Unknown
+# Central Valley Water Reclamation Facility
 
-**Location:** Unknown, UT
+**Location:** Salt Lake City, UT
 
 **EPA Facility ID:** 100000018688
 

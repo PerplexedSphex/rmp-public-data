@@ -1,6 +1,6 @@
-# Unknown
+# Cobb Facility
 
-**Location:** Unknown, WV
+**Location:** Clendenin, WV
 
 **EPA Facility ID:** 100000180225
 

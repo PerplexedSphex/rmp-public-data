@@ -1,6 +1,6 @@
-# Unknown
+# Linn Coop - Central City
 
-**Location:** Unknown, IA
+**Location:** Central City, IA
 
 **EPA Facility ID:** 100000247486
 

@@ -1,6 +1,6 @@
-# Unknown
+# Illinois-American Water Company, Alton Plant
 
-**Location:** Unknown, IL
+**Location:** Alton, IL
 
 **EPA Facility ID:** 100000138898
 

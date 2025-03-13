@@ -1,6 +1,6 @@
-# Unknown
+# Plug Power Charleston
 
-**Location:** Unknown, TN
+**Location:** Charleston, TN
 
 **EPA Facility ID:** 100000238156
 

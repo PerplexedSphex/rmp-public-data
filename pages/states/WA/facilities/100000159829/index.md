@@ -1,6 +1,6 @@
-# Unknown
+# Americold, Pasco    # 80547
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000159829
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gibson Generating Station
 
-**Location:** Unknown, IN
+**Location:** Owensville, IN
 
 **EPA Facility ID:** 100000177006
 

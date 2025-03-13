@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co. -Norris City
 
-**Location:** Unknown, IL
+**Location:** Norris City, IL
 
 **EPA Facility ID:** 100000093034
 

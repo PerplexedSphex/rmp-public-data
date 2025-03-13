@@ -1,6 +1,6 @@
-# Unknown
+# BIC USA, Inc. Packaging
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000209534
 

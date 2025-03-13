@@ -1,6 +1,6 @@
-# Unknown
+# Logan Outfall Disinfection Facility
 
-**Location:** Unknown, UT
+**Location:** Logan, UT
 
 **EPA Facility ID:** 100000128809
 

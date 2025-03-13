@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Inc.- Baytown TX
 
-**Location:** Unknown, TX
+**Location:** Baytown, TX
 
 **EPA Facility ID:** 100000059615
 

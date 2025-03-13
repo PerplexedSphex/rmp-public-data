@@ -1,6 +1,6 @@
-# Unknown
+# Leggett & Platt
 
-**Location:** Unknown, MS
+**Location:** Houston, MS
 
 **EPA Facility ID:** 100000190394
 

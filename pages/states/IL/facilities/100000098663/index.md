@@ -1,6 +1,6 @@
-# Unknown
+# Yates City, IL 404
 
-**Location:** Unknown, IL
+**Location:** Yates City, IL
 
 **EPA Facility ID:** 100000098663
 

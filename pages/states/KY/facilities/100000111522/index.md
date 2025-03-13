@@ -1,6 +1,6 @@
-# Unknown
+# Elkton, KY 18012
 
-**Location:** Unknown, KY
+**Location:** Elkton, KY
 
 **EPA Facility ID:** 100000111522
 

@@ -1,6 +1,6 @@
-# Unknown
+# Allied Cold Storage
 
-**Location:** Unknown, RI
+**Location:** Cranston, RI
 
 **EPA Facility ID:** 100000076099
 

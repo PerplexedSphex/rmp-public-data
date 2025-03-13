@@ -1,6 +1,6 @@
-# Unknown
+# Chestnut Ridge Foam, Inc.
 
-**Location:** Unknown, PA
+**Location:** Latrobe, PA
 
 **EPA Facility ID:** 100000166866
 

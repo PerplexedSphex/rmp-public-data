@@ -1,6 +1,6 @@
-# Unknown
+# Laramie River Station
 
-**Location:** Unknown, WY
+**Location:** Wheatland, WY
 
 **EPA Facility ID:** 100000241883
 

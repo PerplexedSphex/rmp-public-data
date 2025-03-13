@@ -1,6 +1,6 @@
-# Unknown
+# Clinton Reservoir Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Lawrence, KS
 
 **EPA Facility ID:** 100000094569
 

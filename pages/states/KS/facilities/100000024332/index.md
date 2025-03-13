@@ -1,6 +1,6 @@
-# Unknown
+# LENORA NH3 PLANT
 
-**Location:** Unknown, KS
+**Location:** LENORA, KS
 
 **EPA Facility ID:** 100000024332
 

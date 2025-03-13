@@ -1,6 +1,6 @@
-# Unknown
+# TYSON POULTRY, INC. - Tyson of Rogers
 
-**Location:** Unknown, AR
+**Location:** ROGERS, AR
 
 **EPA Facility ID:** 100000052444
 

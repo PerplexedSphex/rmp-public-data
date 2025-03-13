@@ -1,6 +1,6 @@
-# Unknown
+# Camrick Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Balko, OK
 
 **EPA Facility ID:** 100000067704
 

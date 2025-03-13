@@ -1,6 +1,6 @@
-# Unknown
+# Pomona Water Reclamation Plant
 
-**Location:** Unknown, CA
+**Location:** Pomona, CA
 
 **EPA Facility ID:** 100000143089
 

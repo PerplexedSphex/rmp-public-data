@@ -1,6 +1,6 @@
-# Unknown
+# U.S. Energy Bettendorf Terminal
 
-**Location:** Unknown, IA
+**Location:** Bettendorf, IA
 
 **EPA Facility ID:** 100000228853
 

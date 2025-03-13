@@ -1,6 +1,6 @@
-# Unknown
+# Ray-Carroll County Grain Growers, Inc., Slater
 
-**Location:** Unknown, MO
+**Location:** Slater, MO
 
 **EPA Facility ID:** 100000180216
 

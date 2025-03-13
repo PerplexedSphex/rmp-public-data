@@ -1,6 +1,6 @@
-# Unknown
+# Allen Harim Foods, LLC - Harbeson Plant
 
-**Location:** Unknown, DE
+**Location:** Harbeson, DE
 
 **EPA Facility ID:** 100000076348
 

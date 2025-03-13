@@ -1,6 +1,6 @@
-# Unknown
+# King Pak Potato Company LLC
 
-**Location:** Unknown, CA
+**Location:** Edison, CA
 
 **EPA Facility ID:** 100000190526
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mid-West Fertilizer, INC. - Liberty
 
-**Location:** Unknown, KS
+**Location:** Liberty, KS
 
 **EPA Facility ID:** 100000060364
 

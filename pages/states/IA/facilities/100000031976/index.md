@@ -1,6 +1,6 @@
-# Unknown
+# Ottumwa Water & Hydro
 
-**Location:** Unknown, IA
+**Location:** Ottumwa, IA
 
 **EPA Facility ID:** 100000031976
 

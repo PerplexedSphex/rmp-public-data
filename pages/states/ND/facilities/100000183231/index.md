@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.- Michigan
 
-**Location:** Unknown, ND
+**Location:** Michigan, ND
 
 **EPA Facility ID:** 100000183231
 

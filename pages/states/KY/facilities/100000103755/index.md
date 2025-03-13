@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packaged Meats Corp. - Grayson, KY
 
-**Location:** Unknown, KY
+**Location:** Grayson, KY
 
 **EPA Facility ID:** 100000103755
 

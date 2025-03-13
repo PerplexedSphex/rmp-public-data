@@ -1,6 +1,6 @@
-# Unknown
+# Chobani - Twin Falls, ID
 
-**Location:** Unknown, ID
+**Location:** Twin Falls, ID
 
 **EPA Facility ID:** 100000219426
 

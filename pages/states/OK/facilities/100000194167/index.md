@@ -1,6 +1,6 @@
-# Unknown
+# City of Ardmore Wastewater Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Ardmore, OK
 
 **EPA Facility ID:** 100000194167
 

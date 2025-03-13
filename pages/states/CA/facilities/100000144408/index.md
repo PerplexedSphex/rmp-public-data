@@ -1,6 +1,6 @@
-# Unknown
+# Mt. Poso Cogeneration Facility
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000144408
 

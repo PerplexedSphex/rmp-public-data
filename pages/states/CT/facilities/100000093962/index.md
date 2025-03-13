@@ -1,6 +1,6 @@
-# Unknown
+# City of West Haven Water Pollution Control Fac.
 
-**Location:** Unknown, CT
+**Location:** West Haven, CT
 
 **EPA Facility ID:** 100000093962
 

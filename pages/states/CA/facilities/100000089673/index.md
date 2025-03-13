@@ -1,6 +1,6 @@
-# Unknown
+# Burney Forest Power
 
-**Location:** Unknown, CA
+**Location:** Burney, CA
 
 **EPA Facility ID:** 100000089673
 

@@ -1,6 +1,6 @@
-# Unknown
+# US Foods, Inc. - Detroit
 
-**Location:** Unknown, MI
+**Location:** Wixom, MI
 
 **EPA Facility ID:** 100000180813
 

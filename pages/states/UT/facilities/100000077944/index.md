@@ -1,6 +1,6 @@
-# Unknown
+# Jordan Valley Water Treatment Plant
 
-**Location:** Unknown, UT
+**Location:** Herriman, UT
 
 **EPA Facility ID:** 100000077944
 

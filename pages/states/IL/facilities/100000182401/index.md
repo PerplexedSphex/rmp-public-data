@@ -1,6 +1,6 @@
-# Unknown
+# Edwards Power Station
 
-**Location:** Unknown, IL
+**Location:** Bartonville, IL
 
 **EPA Facility ID:** 100000182401
 

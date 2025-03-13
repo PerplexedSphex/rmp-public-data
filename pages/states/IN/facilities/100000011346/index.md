@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company
 
-**Location:** Unknown, IN
+**Location:** Goshen, IN
 
 **EPA Facility ID:** 100000011346
 

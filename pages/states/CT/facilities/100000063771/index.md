@@ -1,6 +1,6 @@
-# Unknown
+# Sybron Chemicals
 
-**Location:** Unknown, CT
+**Location:** Norwich, CT
 
 **EPA Facility ID:** 100000063771
 

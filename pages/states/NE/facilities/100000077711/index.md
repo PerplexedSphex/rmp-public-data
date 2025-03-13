@@ -1,6 +1,6 @@
-# Unknown
+# Country Partners Cooperative - Gothenburg
 
-**Location:** Unknown, NE
+**Location:** Gothenburg, NE
 
 **EPA Facility ID:** 100000077711
 

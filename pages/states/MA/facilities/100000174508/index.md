@@ -1,6 +1,6 @@
-# Unknown
+# Northampton Wastewater Treatment Plant
 
-**Location:** Unknown, MA
+**Location:** Northampton, MA
 
 **EPA Facility ID:** 100000174508
 

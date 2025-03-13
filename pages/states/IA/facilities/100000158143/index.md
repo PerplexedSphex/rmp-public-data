@@ -1,6 +1,6 @@
-# Unknown
+# Landus Cooperative - Aredale
 
-**Location:** Unknown, IA
+**Location:** Aredale, IA
 
 **EPA Facility ID:** 100000158143
 

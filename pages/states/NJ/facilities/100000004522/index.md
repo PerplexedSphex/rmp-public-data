@@ -1,6 +1,6 @@
-# Unknown
+# Elan Incorporated
 
-**Location:** Unknown, NJ
+**Location:** Newark, NJ
 
 **EPA Facility ID:** 100000004522
 

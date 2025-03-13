@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South, Inc.
 
-**Location:** Unknown, MO
+**Location:** Kansas City, MO
 
 **EPA Facility ID:** 100000135463
 

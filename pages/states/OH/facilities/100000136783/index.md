@@ -1,6 +1,6 @@
-# Unknown
+# PMC Specialties Group, Inc.
 
-**Location:** Unknown, OH
+**Location:** Cincinnati, OH
 
 **EPA Facility ID:** 100000136783
 

@@ -1,6 +1,6 @@
-# Unknown
+# Tiarco Chemical Division
 
-**Location:** Unknown, GA
+**Location:** Dalton, GA
 
 **EPA Facility ID:** 100000193499
 

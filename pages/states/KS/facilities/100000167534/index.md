@@ -1,6 +1,6 @@
-# Unknown
+# Airosol Co. Inc.
 
-**Location:** Unknown, KS
+**Location:** Neodesha, KS
 
 **EPA Facility ID:** 100000167534
 

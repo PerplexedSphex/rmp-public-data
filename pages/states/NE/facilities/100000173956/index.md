@@ -1,6 +1,6 @@
-# Unknown
+# United Suppliers Inc. - Blair
 
-**Location:** Unknown, NE
+**Location:** Blair, NE
 
 **EPA Facility ID:** 100000173956
 

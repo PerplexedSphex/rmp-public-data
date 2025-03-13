@@ -1,6 +1,6 @@
-# Unknown
+# Occidental  Chemical Corporation, Mobile Plant
 
-**Location:** Unknown, AL
+**Location:** Mobile, AL
 
 **EPA Facility ID:** 100000106805
 

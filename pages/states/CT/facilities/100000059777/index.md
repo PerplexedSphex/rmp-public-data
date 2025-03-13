@@ -1,6 +1,6 @@
-# Unknown
+# West River Water Treatment Plant
 
-**Location:** Unknown, CT
+**Location:** Woodbridge, CT
 
 **EPA Facility ID:** 100000059777
 

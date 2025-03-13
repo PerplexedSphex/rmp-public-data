@@ -1,6 +1,6 @@
-# Unknown
+# Delaware Gas Delivery Point (GDP)
 
-**Location:** Unknown, TX
+**Location:** Orla, TX
 
 **EPA Facility ID:** 100000241865
 

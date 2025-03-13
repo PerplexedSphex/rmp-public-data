@@ -1,6 +1,6 @@
-# Unknown
+# Bradford Pumping Plant
 
-**Location:** Unknown, CA
+**Location:** Terra Bella, CA
 
 **EPA Facility ID:** 100000195406
 

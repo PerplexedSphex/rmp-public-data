@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Montgomery, IN Facility
 
-**Location:** Unknown, IN
+**Location:** Montgomery, IN
 
 **EPA Facility ID:** 100000101631
 

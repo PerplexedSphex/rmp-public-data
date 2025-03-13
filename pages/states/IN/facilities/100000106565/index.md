@@ -1,6 +1,6 @@
-# Unknown
+# Lebanon, IN
 
-**Location:** Unknown, IN
+**Location:** Lebanon, IN
 
 **EPA Facility ID:** 100000106565
 

@@ -1,6 +1,6 @@
-# Unknown
+# SpartanNash Omaha
 
-**Location:** Unknown, NE
+**Location:** Omaha, NE
 
 **EPA Facility ID:** 100000184828
 

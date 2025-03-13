@@ -1,6 +1,6 @@
-# Unknown
+# Benton Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Benton, AR
 
 **EPA Facility ID:** 100000028472
 

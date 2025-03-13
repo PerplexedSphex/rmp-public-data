@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Chicken Inc., HOPE, AR.
 
-**Location:** Unknown, AR
+**Location:** HOPE, AR
 
 **EPA Facility ID:** 100000052998
 

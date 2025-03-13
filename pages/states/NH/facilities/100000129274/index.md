@@ -1,6 +1,6 @@
-# Unknown
+# Wyman Gordon Titanium Castings, LLC
 
-**Location:** Unknown, NH
+**Location:** Franklin, NH
 
 **EPA Facility ID:** 100000129274
 

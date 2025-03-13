@@ -1,6 +1,6 @@
-# Unknown
+# AMI Doduco (NC), Inc.
 
-**Location:** Unknown, NC
+**Location:** Reidsville, NC
 
 **EPA Facility ID:** 100000074377
 

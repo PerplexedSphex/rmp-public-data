@@ -1,6 +1,6 @@
-# Unknown
+# Elementis Catalysts, Inc.
 
-**Location:** Unknown, PA
+**Location:** Allentown, PA
 
 **EPA Facility ID:** 100000107957
 

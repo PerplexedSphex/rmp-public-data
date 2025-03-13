@@ -1,6 +1,6 @@
-# Unknown
+# Mt. Vernon Water Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** Mt. Vernon, IN
 
 **EPA Facility ID:** 100000047111
 

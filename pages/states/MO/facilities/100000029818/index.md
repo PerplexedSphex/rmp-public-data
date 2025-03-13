@@ -1,6 +1,6 @@
-# Unknown
+# Liberty Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Liberty, MO
 
 **EPA Facility ID:** 100000029818
 

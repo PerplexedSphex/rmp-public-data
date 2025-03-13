@@ -1,6 +1,6 @@
-# Unknown
+# HUNTER GRAIN CO., BLANCHARD
 
-**Location:** Unknown, ND
+**Location:** BLANCHARD, ND
 
 **EPA Facility ID:** 100000009527
 

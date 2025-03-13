@@ -1,6 +1,6 @@
-# Unknown
+# Smith Ranch Project
 
-**Location:** Unknown, WY
+**Location:** Douglas, WY
 
 **EPA Facility ID:** 100000160835
 

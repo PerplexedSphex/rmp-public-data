@@ -1,6 +1,6 @@
-# Unknown
+# Brookshire Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Gun Barrel City, TX
 
 **EPA Facility ID:** 100000048968
 

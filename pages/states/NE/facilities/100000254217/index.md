@@ -1,6 +1,6 @@
-# Unknown
+# Omaha Industries
 
-**Location:** Unknown, NE
+**Location:** Lincoln, NE
 
 **EPA Facility ID:** 100000254217
 

@@ -1,6 +1,6 @@
-# Unknown
+# Summitville, IN
 
-**Location:** Unknown, IN
+**Location:** Summittville, IN
 
 **EPA Facility ID:** 100000036098
 

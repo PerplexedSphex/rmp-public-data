@@ -1,6 +1,6 @@
-# Unknown
+# Lenox Ag Services, Inc.
 
-**Location:** Unknown, GA
+**Location:** Lenox, GA
 
 **EPA Facility ID:** 100000145443
 

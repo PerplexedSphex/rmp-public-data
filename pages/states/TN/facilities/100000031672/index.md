@@ -1,6 +1,6 @@
-# Unknown
+# Columbia Water System Filter Plant
 
-**Location:** Unknown, TN
+**Location:** Columbia, TN
 
 **EPA Facility ID:** 100000031672
 

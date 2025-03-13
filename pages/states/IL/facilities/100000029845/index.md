@@ -1,6 +1,6 @@
-# Unknown
+# Fulton Market Cold Storage Company, LLC
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000029845
 

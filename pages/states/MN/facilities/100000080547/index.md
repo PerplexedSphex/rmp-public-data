@@ -1,6 +1,6 @@
-# Unknown
+# Gibbon Fertilizer
 
-**Location:** Unknown, MN
+**Location:** GIBBON, MN
 
 **EPA Facility ID:** 100000080547
 

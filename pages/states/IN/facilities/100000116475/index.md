@@ -1,6 +1,6 @@
-# Unknown
+# Rushville, IN 747 Satellite
 
-**Location:** Unknown, IN
+**Location:** Milroy, IN
 
 **EPA Facility ID:** 100000116475
 

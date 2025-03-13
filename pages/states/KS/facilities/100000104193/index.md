@@ -1,6 +1,6 @@
-# Unknown
+# EDGERTON
 
-**Location:** Unknown, KS
+**Location:** EDGERTON, KS
 
 **EPA Facility ID:** 100000104193
 

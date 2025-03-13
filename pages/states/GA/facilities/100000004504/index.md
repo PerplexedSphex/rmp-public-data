@@ -1,6 +1,6 @@
-# Unknown
+# Atlanta-Fulton County Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Johns Creek, GA
 
 **EPA Facility ID:** 100000004504
 

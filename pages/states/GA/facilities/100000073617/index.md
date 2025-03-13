@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Phosphate and Fertilizer Company
 
-**Location:** Unknown, GA
+**Location:** Savannah, GA
 
 **EPA Facility ID:** 100000073617
 

@@ -1,6 +1,6 @@
-# Unknown
+# LUDELL NH3 PLANT
 
-**Location:** Unknown, KS
+**Location:** LUDELL, KS
 
 **EPA Facility ID:** 100000009983
 

@@ -1,6 +1,6 @@
-# Unknown
+# Plattsburg NH3
 
-**Location:** Unknown, MO
+**Location:** Plattsburg, MO
 
 **EPA Facility ID:** 100000080459
 

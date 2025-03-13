@@ -1,6 +1,6 @@
-# Unknown
+# The Stroh Brewery Company Portland
 
-**Location:** Unknown, OR
+**Location:** Portland, OR
 
 **EPA Facility ID:** 100000062317
 

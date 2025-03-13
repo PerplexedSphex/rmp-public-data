@@ -1,6 +1,6 @@
-# Unknown
+# Bakelite Chemicals LLC - Lufkin Plant
 
-**Location:** Unknown, TX
+**Location:** Lufkin, TX
 
 **EPA Facility ID:** 100000036757
 

@@ -1,6 +1,6 @@
-# Unknown
+# Berea Municipal Water Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Berea, KY
 
 **EPA Facility ID:** 100000153889
 

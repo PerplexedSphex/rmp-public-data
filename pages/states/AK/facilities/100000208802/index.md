@@ -1,6 +1,6 @@
-# Unknown
+# Trident Seafoods - North Naknek
 
-**Location:** Unknown, AK
+**Location:** Naknek, AK
 
 **EPA Facility ID:** 100000208802
 

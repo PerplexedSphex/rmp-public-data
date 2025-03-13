@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Slater
 
-**Location:** Unknown, IA
+**Location:** Slater, IA
 
 **EPA Facility ID:** 100000078578
 

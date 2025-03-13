@@ -1,6 +1,6 @@
-# Unknown
+# Bowie Compressor Station
 
-**Location:** Unknown, TX
+**Location:** Bowie, TX
 
 **EPA Facility ID:** 100000110774
 

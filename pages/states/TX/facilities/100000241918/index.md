@@ -1,6 +1,6 @@
-# Unknown
+# 30-30 Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Plains, TX
 
 **EPA Facility ID:** 100000241918
 

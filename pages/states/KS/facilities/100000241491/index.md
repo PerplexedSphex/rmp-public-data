@@ -1,6 +1,6 @@
-# Unknown
+# New Haven
 
-**Location:** Unknown, KS
+**Location:** South Haven, KS
 
 **EPA Facility ID:** 100000241491
 

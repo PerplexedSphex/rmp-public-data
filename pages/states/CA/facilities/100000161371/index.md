@@ -1,6 +1,6 @@
-# Unknown
+# Carbon Canyon Wastewater Reclamation Facility
 
-**Location:** Unknown, CA
+**Location:** CHINO, CA
 
 **EPA Facility ID:** 100000161371
 

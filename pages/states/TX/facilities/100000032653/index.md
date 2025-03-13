@@ -1,6 +1,6 @@
-# Unknown
+# DOUBLE CIRCLE COOP
 
-**Location:** Unknown, TX
+**Location:** Eddy, TX
 
 **EPA Facility ID:** 100000032653
 

@@ -1,6 +1,6 @@
-# Unknown
+# H.B. Fuller - Covington Plant
 
-**Location:** Unknown, GA
+**Location:** Covington, GA
 
 **EPA Facility ID:** 100000060836
 

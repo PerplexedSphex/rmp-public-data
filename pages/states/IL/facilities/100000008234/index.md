@@ -1,6 +1,6 @@
-# Unknown
+# Easton, IL
 
-**Location:** Unknown, IL
+**Location:** Easton, IL
 
 **EPA Facility ID:** 100000008234
 

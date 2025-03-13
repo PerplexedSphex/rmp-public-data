@@ -1,6 +1,6 @@
-# Unknown
+# Valero  Corpus Christi Refineries - West Plant
 
-**Location:** Unknown, TX
+**Location:** Corpus Christi, TX
 
 **EPA Facility ID:** 100000079504
 

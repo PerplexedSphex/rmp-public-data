@@ -1,6 +1,6 @@
-# Unknown
+# Skyland Grain, LLC. - North Kendall
 
-**Location:** Unknown, KS
+**Location:** Lakin, KS
 
 **EPA Facility ID:** 100000007645
 

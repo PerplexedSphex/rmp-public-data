@@ -1,6 +1,6 @@
-# Unknown
+# KANKAKEE POLYMER PLANT
 
-**Location:** Unknown, IL
+**Location:** KANKAKEE, IL
 
 **EPA Facility ID:** 100000046087
 

@@ -1,6 +1,6 @@
-# Unknown
+# Fairway Foods
 
-**Location:** Unknown, MN
+**Location:** Northfield, MN
 
 **EPA Facility ID:** 100000070923
 

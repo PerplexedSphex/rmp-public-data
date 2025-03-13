@@ -1,6 +1,6 @@
-# Unknown
+# City of Grand Rapids Wastewater Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Grand Rapids, MI
 
 **EPA Facility ID:** 100000017055
 

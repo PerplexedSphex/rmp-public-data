@@ -1,6 +1,6 @@
-# Unknown
+# Indorama Ventures Oxides, LLC - Pasadena Plant
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000236504
 

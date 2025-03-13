@@ -1,6 +1,6 @@
-# Unknown
+# Berthold Plant East
 
-**Location:** Unknown, ND
+**Location:** Berthold, ND
 
 **EPA Facility ID:** 100000191142
 

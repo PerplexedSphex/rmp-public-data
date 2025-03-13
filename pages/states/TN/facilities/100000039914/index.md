@@ -1,6 +1,6 @@
-# Unknown
+# City of Dyersburg Wastewater Plant
 
-**Location:** Unknown, TN
+**Location:** Dyersburg, TN
 
 **EPA Facility ID:** 100000039914
 

@@ -1,6 +1,6 @@
-# Unknown
+# GH West Water Plant
 
-**Location:** Unknown, LA
+**Location:** Lake Charles, LA
 
 **EPA Facility ID:** 100000041304
 

@@ -1,6 +1,6 @@
-# Unknown
+# Richard-Allan Scientific, Wayne, NJ
 
-**Location:** Unknown, NJ
+**Location:** Wayne, NJ
 
 **EPA Facility ID:** 100000169907
 

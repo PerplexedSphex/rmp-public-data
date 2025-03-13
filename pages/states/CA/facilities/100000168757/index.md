@@ -1,6 +1,6 @@
-# Unknown
+# Fremont EMC / Electronics
 
-**Location:** Unknown, CA
+**Location:** Fremont, CA
 
 **EPA Facility ID:** 100000168757
 

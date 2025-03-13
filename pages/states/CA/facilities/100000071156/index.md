@@ -1,6 +1,6 @@
-# Unknown
+# Susanville CSD Wastewater Treatment Facility
 
-**Location:** Unknown, CA
+**Location:** Susanville, CA
 
 **EPA Facility ID:** 100000071156
 

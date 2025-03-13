@@ -1,6 +1,6 @@
-# Unknown
+# Lopez Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Arroyo Grande, CA
 
 **EPA Facility ID:** 100000093294
 

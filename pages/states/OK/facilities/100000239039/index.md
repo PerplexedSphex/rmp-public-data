@@ -1,6 +1,6 @@
-# Unknown
+# Omega Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Okarche, OK
 
 **EPA Facility ID:** 100000239039
 

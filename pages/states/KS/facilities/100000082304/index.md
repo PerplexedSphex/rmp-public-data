@@ -1,6 +1,6 @@
-# Unknown
+# THE DODGE CITY COOP EXCHANGE- Ingalls North
 
-**Location:** Unknown, KS
+**Location:** INGALLS, KS
 
 **EPA Facility ID:** 100000082304
 

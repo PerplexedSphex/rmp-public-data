@@ -1,6 +1,6 @@
-# Unknown
+# Great Lakes Cheese - Franklinville
 
-**Location:** Unknown, NY
+**Location:** Franklinville, NY
 
 **EPA Facility ID:** 100000252601
 

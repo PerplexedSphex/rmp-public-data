@@ -1,6 +1,6 @@
-# Unknown
+# Beachner Grain, Inc. - Chanute
 
-**Location:** Unknown, KS
+**Location:** Chanute, KS
 
 **EPA Facility ID:** 100000221752
 

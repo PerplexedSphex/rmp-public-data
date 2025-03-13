@@ -1,6 +1,6 @@
-# Unknown
+# HAMILTON SUNDSTRAND - Windsor Locks
 
-**Location:** Unknown, CT
+**Location:** WINDSOR LOCKS, CT
 
 **EPA Facility ID:** 100000164886
 

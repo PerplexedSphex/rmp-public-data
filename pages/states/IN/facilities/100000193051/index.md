@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water-Richmond Elks Road
 
-**Location:** Unknown, IN
+**Location:** Richmond, IN
 
 **EPA Facility ID:** 100000193051
 

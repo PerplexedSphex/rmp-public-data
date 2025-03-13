@@ -1,6 +1,6 @@
-# Unknown
+# KIMOTO TECH., INC
 
-**Location:** Unknown, GA
+**Location:** CEDARTOWN, GA
 
 **EPA Facility ID:** 100000029202
 

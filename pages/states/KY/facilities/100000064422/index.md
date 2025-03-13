@@ -1,6 +1,6 @@
-# Unknown
+# HWEA: Moss Water Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Hopkinsville, KY
 
 **EPA Facility ID:** 100000064422
 

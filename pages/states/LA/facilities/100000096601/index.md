@@ -1,6 +1,6 @@
-# Unknown
+# Occidental Chemical Corporation - Geismar Plant
 
-**Location:** Unknown, LA
+**Location:** Geismar, LA
 
 **EPA Facility ID:** 100000096601
 

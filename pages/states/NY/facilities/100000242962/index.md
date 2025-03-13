@@ -1,6 +1,6 @@
-# Unknown
+# Geneva Water Plant
 
-**Location:** Unknown, NY
+**Location:** Geneva, NY
 
 **EPA Facility ID:** 100000242962
 

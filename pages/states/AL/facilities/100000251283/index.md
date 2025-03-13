@@ -1,6 +1,6 @@
-# Unknown
+# Southside Wastewater Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Scottsboro, AL
 
 **EPA Facility ID:** 100000251283
 

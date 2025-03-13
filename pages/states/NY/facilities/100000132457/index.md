@@ -1,6 +1,6 @@
-# Unknown
+# Town of Bethlehem Water Treatment Plant - Selkirk
 
-**Location:** Unknown, NY
+**Location:** Selkirk, NY
 
 **EPA Facility ID:** 100000132457
 

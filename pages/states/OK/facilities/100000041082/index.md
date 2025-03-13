@@ -1,6 +1,6 @@
-# Unknown
+# Tyrone, OK 777 Satellite
 
-**Location:** Unknown, OK
+**Location:** Tyrone, OK
 
 **EPA Facility ID:** 100000041082
 

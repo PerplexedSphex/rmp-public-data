@@ -1,6 +1,6 @@
-# Unknown
+# U.S. Army Garrison, Hawaii
 
-**Location:** Unknown, HI
+**Location:** Schofield Barracks, HI
 
 **EPA Facility ID:** 100000094462
 

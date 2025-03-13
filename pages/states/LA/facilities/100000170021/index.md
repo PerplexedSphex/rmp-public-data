@@ -1,6 +1,6 @@
-# Unknown
+# City of Opelousas Water Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Opelousas, LA
 
 **EPA Facility ID:** 100000170021
 

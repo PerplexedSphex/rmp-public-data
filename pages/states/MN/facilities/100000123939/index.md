@@ -1,6 +1,6 @@
-# Unknown
+# Cenex/Land O'Lakes Agronomy Center - Strathcona
 
-**Location:** Unknown, MN
+**Location:** Strathcona, MN
 
 **EPA Facility ID:** 100000123939
 

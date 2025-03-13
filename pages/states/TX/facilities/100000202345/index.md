@@ -1,6 +1,6 @@
-# Unknown
+# Duncan Compressor Station
 
-**Location:** Unknown, TX
+**Location:** Henderson, TX
 
 **EPA Facility ID:** 100000202345
 

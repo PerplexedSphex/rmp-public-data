@@ -1,6 +1,6 @@
-# Unknown
+# Koch Fertilizer, LLC - Trilla Terminal
 
-**Location:** Unknown, IL
+**Location:** Mattoon, IL
 
 **EPA Facility ID:** 100000041028
 

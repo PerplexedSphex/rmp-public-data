@@ -1,6 +1,6 @@
-# Unknown
+# Golden Gate City Wastewater Treatment Facility
 
-**Location:** Unknown, FL
+**Location:** Naples, FL
 
 **EPA Facility ID:** 100000182134
 

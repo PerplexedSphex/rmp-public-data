@@ -1,6 +1,6 @@
-# Unknown
+# The Arthur Companies, Inc. Buffalo
 
-**Location:** Unknown, ND
+**Location:** Buffalo, ND
 
 **EPA Facility ID:** 100000030986
 

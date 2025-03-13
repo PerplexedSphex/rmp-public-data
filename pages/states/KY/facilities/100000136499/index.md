@@ -1,6 +1,6 @@
-# Unknown
+# Edwin Keith White Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Frankfort, KY
 
 **EPA Facility ID:** 100000136499
 

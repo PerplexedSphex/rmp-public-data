@@ -1,6 +1,6 @@
-# Unknown
+# Hermiston Foods LLC
 
-**Location:** Unknown, OR
+**Location:** Hermiston, OR
 
 **EPA Facility ID:** 100000156555
 

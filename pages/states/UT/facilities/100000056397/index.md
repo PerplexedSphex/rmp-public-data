@@ -1,6 +1,6 @@
-# Unknown
+# Sterigenics US, LLC - Salt Lake City
 
-**Location:** Unknown, UT
+**Location:** Salt Lake City, UT
 
 **EPA Facility ID:** 100000056397
 

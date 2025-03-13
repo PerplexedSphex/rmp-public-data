@@ -1,6 +1,6 @@
-# Unknown
+# Centerra Co-op, Loudonville
 
-**Location:** Unknown, OH
+**Location:** Loudonville, OH
 
 **EPA Facility ID:** 100000041885
 

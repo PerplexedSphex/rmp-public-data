@@ -1,6 +1,6 @@
-# Unknown
+# Perdue Foods, LLC. Dillon, SC Processing Plant
 
-**Location:** Unknown, SC
+**Location:** Dillon, SC
 
 **EPA Facility ID:** 100000139922
 

@@ -1,6 +1,6 @@
-# Unknown
+# Yuengling Brewery
 
-**Location:** Unknown, PA
+**Location:** Pottsville, PA
 
 **EPA Facility ID:** 100000173901
 

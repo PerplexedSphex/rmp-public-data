@@ -1,6 +1,6 @@
-# Unknown
+# The LYCRA Company LLC, Waynesboro
 
-**Location:** Unknown, VA
+**Location:** Waynesboro, VA
 
 **EPA Facility ID:** 100000051604
 

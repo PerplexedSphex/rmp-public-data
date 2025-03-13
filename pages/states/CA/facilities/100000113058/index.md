@@ -1,6 +1,6 @@
-# Unknown
+# Union Ice Co.
 
-**Location:** Unknown, CA
+**Location:** Commerce, CA
 
 **EPA Facility ID:** 100000113058
 

@@ -1,6 +1,6 @@
-# Unknown
+# Shield Packaging Co., Inc.
 
-**Location:** Unknown, MA
+**Location:** Dudley, MA
 
 **EPA Facility ID:** 100000156957
 

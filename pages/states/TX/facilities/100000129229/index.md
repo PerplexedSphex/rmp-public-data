@@ -1,6 +1,6 @@
-# Unknown
+# HPL Resources Company Three Rivers Gas Plant
 
-**Location:** Unknown, TX
+**Location:** George West, TX
 
 **EPA Facility ID:** 100000129229
 

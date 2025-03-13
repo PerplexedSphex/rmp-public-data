@@ -1,6 +1,6 @@
-# Unknown
+# Lake of the Ozarks Wastewater Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Lake Ozark, MO
 
 **EPA Facility ID:** 100000046577
 

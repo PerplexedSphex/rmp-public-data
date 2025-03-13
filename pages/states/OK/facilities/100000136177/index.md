@@ -1,6 +1,6 @@
-# Unknown
+# South Bishop Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Arnett, OK
 
 **EPA Facility ID:** 100000136177
 

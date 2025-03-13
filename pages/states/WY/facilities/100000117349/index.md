@@ -1,6 +1,6 @@
-# Unknown
+# GILLETTE WASTEWATER TREATMENT FACILITY
 
-**Location:** Unknown, WY
+**Location:** GILLETTE, WY
 
 **EPA Facility ID:** 100000117349
 

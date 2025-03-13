@@ -1,6 +1,6 @@
-# Unknown
+# HP Hood Vernon
 
-**Location:** Unknown, NY
+**Location:** Vernon, NY
 
 **EPA Facility ID:** 100000245497
 

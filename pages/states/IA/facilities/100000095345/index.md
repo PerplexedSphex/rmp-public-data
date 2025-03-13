@@ -1,6 +1,6 @@
-# Unknown
+# Landus Cooperative - Hampton
 
-**Location:** Unknown, IA
+**Location:** Hampton, IA
 
 **EPA Facility ID:** 100000095345
 

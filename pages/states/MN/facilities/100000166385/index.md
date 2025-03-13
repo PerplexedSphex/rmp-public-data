@@ -1,6 +1,6 @@
-# Unknown
+# COKATO - CENTRA SOTA
 
-**Location:** Unknown, MN
+**Location:** COKATO, MN
 
 **EPA Facility ID:** 100000166385
 

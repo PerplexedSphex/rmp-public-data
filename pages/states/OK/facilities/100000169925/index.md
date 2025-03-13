@@ -1,6 +1,6 @@
-# Unknown
+# AECI CC Power Plant -- Chouteau Power Plant
 
-**Location:** Unknown, OK
+**Location:** Pryor, OK
 
 **EPA Facility ID:** 100000169925
 

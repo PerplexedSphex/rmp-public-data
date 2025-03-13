@@ -1,6 +1,6 @@
-# Unknown
+# Friona Wheatgrowers, Lakeview location
 
-**Location:** Unknown, TX
+**Location:** Friona, TX
 
 **EPA Facility ID:** 100000013013
 

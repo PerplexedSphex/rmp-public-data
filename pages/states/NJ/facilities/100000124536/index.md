@@ -1,6 +1,6 @@
-# Unknown
+# Old (Original) Treatment Plant
 
-**Location:** Unknown, NJ
+**Location:** Wanaque, NJ
 
 **EPA Facility ID:** 100000124536
 

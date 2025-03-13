@@ -1,6 +1,6 @@
-# Unknown
+# Missouri American Water Co. St. Joseph Plant
 
-**Location:** Unknown, MO
+**Location:** St. Joseph, MO
 
 **EPA Facility ID:** 100000167892
 

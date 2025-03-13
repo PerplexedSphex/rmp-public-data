@@ -1,6 +1,6 @@
-# Unknown
+# Paint Creek Gas Facility
 
-**Location:** Unknown, TX
+**Location:** Throckmorton, TX
 
 **EPA Facility ID:** 100000230396
 

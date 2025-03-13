@@ -1,6 +1,6 @@
-# Unknown
+# Lactalis US Yogurt, Inc.
 
-**Location:** Unknown, NH
+**Location:** Londonderry, NH
 
 **EPA Facility ID:** 100000174713
 

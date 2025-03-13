@@ -1,6 +1,6 @@
-# Unknown
+# Nash Finch Company - Bridgeport Michigan Facility
 
-**Location:** Unknown, MI
+**Location:** Bridgeport, MI
 
 **EPA Facility ID:** 100000179399
 

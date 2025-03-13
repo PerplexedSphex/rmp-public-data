@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics Milwaukee
 
-**Location:** Unknown, WI
+**Location:** Wauwatosa, WI
 
 **EPA Facility ID:** 100000002392
 

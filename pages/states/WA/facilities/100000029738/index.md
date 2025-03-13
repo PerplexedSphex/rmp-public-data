@@ -1,6 +1,6 @@
-# Unknown
+# Lake Stevens Sewer District Treatment Plant
 
-**Location:** Unknown, WA
+**Location:** Everett, WA
 
 **EPA Facility ID:** 100000029738
 

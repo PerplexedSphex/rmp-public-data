@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Horace
 
-**Location:** Unknown, ND
+**Location:** Horace, ND
 
 **EPA Facility ID:** 100000061452
 

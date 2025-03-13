@@ -1,6 +1,6 @@
-# Unknown
+# Buffalo Color Corporation
 
-**Location:** Unknown, NY
+**Location:** Buffalo, NY
 
 **EPA Facility ID:** 100000045293
 

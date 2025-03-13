@@ -1,6 +1,6 @@
-# Unknown
+# Dougan Compressor Station
 
-**Location:** Unknown, CO
+**Location:** Fort Lupton, CO
 
 **EPA Facility ID:** 100000172573
 

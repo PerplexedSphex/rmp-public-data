@@ -1,6 +1,6 @@
-# Unknown
+# Stillwater Geothermal I
 
-**Location:** Unknown, NV
+**Location:** Fallon, NV
 
 **EPA Facility ID:** 100000039344
 

@@ -1,6 +1,6 @@
-# Unknown
+# E&B Natural Resources Management Corp-Gas Plant#10
 
-**Location:** Unknown, CA
+**Location:** New Cuyama, CA
 
 **EPA Facility ID:** 100000242775
 

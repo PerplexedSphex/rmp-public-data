@@ -1,6 +1,6 @@
-# Unknown
+# Olin Corp. McIntosh, Alabama Plant
 
-**Location:** Unknown, AL
+**Location:** McIntosh, AL
 
 **EPA Facility ID:** 100000100393
 

@@ -1,6 +1,6 @@
-# Unknown
+# THE DELONG CO., INC.
 
-**Location:** Unknown, WI
+**Location:** JANESVILLE, WI
 
 **EPA Facility ID:** 100000161852
 

@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Lynden 2340
 
-**Location:** Unknown, WA
+**Location:** Lynden, WA
 
 **EPA Facility ID:** 100000093828
 

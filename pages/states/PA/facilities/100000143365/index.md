@@ -1,6 +1,6 @@
-# Unknown
+# Jessop Steel, LLC Washington Facility
 
-**Location:** Unknown, PA
+**Location:** Washington, PA
 
 **EPA Facility ID:** 100000143365
 

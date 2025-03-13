@@ -1,6 +1,6 @@
-# Unknown
+# Green Plains Central City LLC.
 
-**Location:** Unknown, NE
+**Location:** Central City, NE
 
 **EPA Facility ID:** 100000185774
 

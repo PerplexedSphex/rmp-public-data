@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. - Dallas
 
-**Location:** Unknown, TX
+**Location:** Dallas, TX
 
 **EPA Facility ID:** 100000007743
 

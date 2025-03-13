@@ -1,6 +1,6 @@
-# Unknown
+# Eagle-Picher Technologies LLC Chemicals Department
 
-**Location:** Unknown, MO
+**Location:** Joplin, MO
 
 **EPA Facility ID:** 100000067303
 

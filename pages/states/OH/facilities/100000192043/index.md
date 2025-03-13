@@ -1,6 +1,6 @@
-# Unknown
+# V. H. Cooper Inc.
 
-**Location:** Unknown, OH
+**Location:** Van Wert, OH
 
 **EPA Facility ID:** 100000192043
 

@@ -1,6 +1,6 @@
-# Unknown
+# WYNNE WATER UTILITIES
 
-**Location:** Unknown, AR
+**Location:** Wynne, AR
 
 **EPA Facility ID:** 100000172555
 

@@ -1,6 +1,6 @@
-# Unknown
+# Riverside Wastewater Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Andalusia, AL
 
 **EPA Facility ID:** 100000067875
 

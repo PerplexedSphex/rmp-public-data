@@ -1,6 +1,6 @@
-# Unknown
+# Agriliance LLC - Hatton
 
-**Location:** Unknown, ND
+**Location:** Hatton, ND
 
 **EPA Facility ID:** 100000035641
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wheeler LPG Terminal
 
-**Location:** Unknown, MI
+**Location:** Merrill, MI
 
 **EPA Facility ID:** 100000247958
 

@@ -1,6 +1,6 @@
-# Unknown
+# East Coast Bakery 
 
-**Location:** Unknown, NC
+**Location:** Battleboro, NC
 
 **EPA Facility ID:** 100000194513
 

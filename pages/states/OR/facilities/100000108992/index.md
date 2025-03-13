@@ -1,6 +1,6 @@
-# Unknown
+# City of Hermiston Wastewater Treatment Plant
 
-**Location:** Unknown, OR
+**Location:** Hermiston, OR
 
 **EPA Facility ID:** 100000108992
 

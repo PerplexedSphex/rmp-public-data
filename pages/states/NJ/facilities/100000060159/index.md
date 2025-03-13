@@ -1,6 +1,6 @@
-# Unknown
+# Honeywell International Inc. Elizabeth Plant
 
-**Location:** Unknown, NJ
+**Location:** Elizabeth, NJ
 
 **EPA Facility ID:** 100000060159
 

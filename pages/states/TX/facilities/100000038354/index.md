@@ -1,6 +1,6 @@
-# Unknown
+# Como Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Como, TX
 
 **EPA Facility ID:** 100000038354
 

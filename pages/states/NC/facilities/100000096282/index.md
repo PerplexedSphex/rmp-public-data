@@ -1,6 +1,6 @@
-# Unknown
+# Town of Mooresville Raw Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Mooresville, NC
 
 **EPA Facility ID:** 100000096282
 

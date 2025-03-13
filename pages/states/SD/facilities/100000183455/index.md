@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.- Faulkton
 
-**Location:** Unknown, SD
+**Location:** Faulkton, SD
 
 **EPA Facility ID:** 100000183455
 

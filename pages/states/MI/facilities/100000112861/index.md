@@ -1,6 +1,6 @@
-# Unknown
+# LAKE HURON WATER TREATMENT PLANT
 
-**Location:** Unknown, MI
+**Location:** FORT GRATIOT, MI
 
 **EPA Facility ID:** 100000112861
 

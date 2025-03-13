@@ -1,6 +1,6 @@
-# Unknown
+# Towson Chlorinator Station
 
-**Location:** Unknown, MD
+**Location:** Towson, MD
 
 **EPA Facility ID:** 100000053434
 

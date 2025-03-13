@@ -1,6 +1,6 @@
-# Unknown
+# City of Boynton Beach East Water Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Boynton Beach, FL
 
 **EPA Facility ID:** 100000025242
 

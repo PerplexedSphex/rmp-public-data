@@ -1,6 +1,6 @@
-# Unknown
+# Covanta Delano, Inc
 
-**Location:** Unknown, CA
+**Location:** Delano, CA
 
 **EPA Facility ID:** 100000124297
 

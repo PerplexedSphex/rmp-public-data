@@ -1,6 +1,6 @@
-# Unknown
+# L-W Service Company - Richmond NH3
 
-**Location:** Unknown, IA
+**Location:** Kalona, IA
 
 **EPA Facility ID:** 100000035106
 

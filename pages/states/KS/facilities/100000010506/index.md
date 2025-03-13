@@ -1,6 +1,6 @@
-# Unknown
+# Republic, KS 5542
 
-**Location:** Unknown, KS
+**Location:** Republic, KS
 
 **EPA Facility ID:** 100000010506
 

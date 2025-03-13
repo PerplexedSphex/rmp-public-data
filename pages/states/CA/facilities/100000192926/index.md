@@ -1,6 +1,6 @@
-# Unknown
+# Pappas & Co. - Lyons Plant
 
-**Location:** Unknown, CA
+**Location:** Mendota, CA
 
 **EPA Facility ID:** 100000192926
 

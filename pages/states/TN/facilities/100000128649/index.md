@@ -1,6 +1,6 @@
-# Unknown
+# FPU Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Fayetteville, TN
 
 **EPA Facility ID:** 100000128649
 

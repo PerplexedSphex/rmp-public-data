@@ -1,6 +1,6 @@
-# Unknown
+# Dole Fresh Vegetables, Inc.
 
-**Location:** Unknown, CA
+**Location:** Soledad, CA
 
 **EPA Facility ID:** 100000117063
 

@@ -1,6 +1,6 @@
-# Unknown
+# Hershey Creamery Co. Harrisburg
 
-**Location:** Unknown, PA
+**Location:** Harrisburg, PA
 
 **EPA Facility ID:** 100000090162
 

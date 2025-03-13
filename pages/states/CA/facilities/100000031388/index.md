@@ -1,6 +1,6 @@
-# Unknown
+# Shore Chemical Company,Inc.
 
-**Location:** Unknown, CA
+**Location:** Turlock, CA
 
 **EPA Facility ID:** 100000031388
 

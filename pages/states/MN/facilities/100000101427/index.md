@@ -1,6 +1,6 @@
-# Unknown
+# Hayward, MN
 
-**Location:** Unknown, MN
+**Location:** Hayward, MN
 
 **EPA Facility ID:** 100000101427
 

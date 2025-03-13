@@ -1,6 +1,6 @@
-# Unknown
+# Reddy Ice-Bogalusa (328)
 
-**Location:** Unknown, LA
+**Location:** Bogalusa, LA
 
 **EPA Facility ID:** 100000188192
 

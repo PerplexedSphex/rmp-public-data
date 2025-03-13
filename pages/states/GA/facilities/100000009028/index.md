@@ -1,6 +1,6 @@
-# Unknown
+# Water Pollution Control Plant
 
-**Location:** Unknown, GA
+**Location:** Milledgeville, GA
 
 **EPA Facility ID:** 100000009028
 

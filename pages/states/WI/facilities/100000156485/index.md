@@ -1,6 +1,6 @@
-# Unknown
+# Wisvest Ther-Max, LLC
 
-**Location:** Unknown, WI
+**Location:** LaCrosse, WI
 
 **EPA Facility ID:** 100000156485
 

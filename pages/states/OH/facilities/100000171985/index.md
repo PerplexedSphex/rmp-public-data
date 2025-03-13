@@ -1,6 +1,6 @@
-# Unknown
+# Ricketts Nitrogen Service Inc.
 
-**Location:** Unknown, OH
+**Location:** Thornville, OH
 
 **EPA Facility ID:** 100000171985
 

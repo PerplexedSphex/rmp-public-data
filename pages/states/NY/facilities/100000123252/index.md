@@ -1,6 +1,6 @@
-# Unknown
+# U. S. Foodservice of Buffalo, Inc.
 
-**Location:** Unknown, NY
+**Location:** Buffalo, NY
 
 **EPA Facility ID:** 100000123252
 

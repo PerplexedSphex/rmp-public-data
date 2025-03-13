@@ -1,6 +1,6 @@
-# Unknown
+# Fairmont Foods, Inc.
 
-**Location:** Unknown, MN
+**Location:** Fairmont, MN
 
 **EPA Facility ID:** 100000184953
 

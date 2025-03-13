@@ -1,6 +1,6 @@
-# Unknown
+# GRACE EDISON PLANT
 
-**Location:** Unknown, NJ
+**Location:** EDISON, NJ
 
 **EPA Facility ID:** 100000197048
 

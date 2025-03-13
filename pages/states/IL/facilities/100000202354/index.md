@@ -1,6 +1,6 @@
-# Unknown
+# Burgess Norton Manufacturing Company - Plant 2
 
-**Location:** Unknown, IL
+**Location:** Geneva, IL
 
 **EPA Facility ID:** 100000202354
 

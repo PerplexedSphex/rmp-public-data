@@ -1,6 +1,6 @@
-# Unknown
+# Atlantic Coast Polymers, Inc.
 
-**Location:** Unknown, CT
+**Location:** Plainfield, CT
 
 **EPA Facility ID:** 100000114823
 

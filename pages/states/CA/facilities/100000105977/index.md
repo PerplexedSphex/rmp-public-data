@@ -1,6 +1,6 @@
-# Unknown
+# Grass Valley Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Grass Valley, CA
 
 **EPA Facility ID:** 100000105977
 

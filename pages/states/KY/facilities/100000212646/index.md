@@ -1,6 +1,6 @@
-# Unknown
+# Kentucky River Station II
 
-**Location:** Unknown, KY
+**Location:** Owenton, KY
 
 **EPA Facility ID:** 100000212646
 

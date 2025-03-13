@@ -1,6 +1,6 @@
-# Unknown
+# GFG Elwood
 
-**Location:** Unknown, KS
+**Location:** Elwood, KS
 
 **EPA Facility ID:** 100000223493
 

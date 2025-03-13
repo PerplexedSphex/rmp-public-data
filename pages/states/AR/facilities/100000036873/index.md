@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. - Little Rock
 
-**Location:** Unknown, AR
+**Location:** Little Rock, AR
 
 **EPA Facility ID:** 100000036873
 

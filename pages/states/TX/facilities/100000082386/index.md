@@ -1,6 +1,6 @@
-# Unknown
+# Rowlett Creek Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Garland, TX
 
 **EPA Facility ID:** 100000082386
 

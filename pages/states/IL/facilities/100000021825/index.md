@@ -1,6 +1,6 @@
-# Unknown
+# La Moille, IL
 
-**Location:** Unknown, IL
+**Location:** La Moille, IL
 
 **EPA Facility ID:** 100000021825
 

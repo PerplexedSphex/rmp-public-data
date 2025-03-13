@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Edwardsville
 
-**Location:** Unknown, KS
+**Location:** Edwardsville, KS
 
 **EPA Facility ID:** 100000071539
 

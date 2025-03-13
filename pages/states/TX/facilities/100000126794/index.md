@@ -1,6 +1,6 @@
-# Unknown
+# Phibro Tech Inc., Garland Facility
 
-**Location:** Unknown, TX
+**Location:** Garland, TX
 
 **EPA Facility ID:** 100000126794
 

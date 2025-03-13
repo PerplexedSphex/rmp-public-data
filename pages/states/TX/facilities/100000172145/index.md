@@ -1,6 +1,6 @@
-# Unknown
+# City of Atlanta Wastewater Treatment Facility
 
-**Location:** Unknown, TX
+**Location:** Atlanta, TX
 
 **EPA Facility ID:** 100000172145
 

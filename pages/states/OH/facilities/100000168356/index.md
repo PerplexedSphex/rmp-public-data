@@ -1,6 +1,6 @@
-# Unknown
+# The SYGMA Network - Columbus
 
-**Location:** Unknown, OH
+**Location:** Columbus, OH
 
 **EPA Facility ID:** 100000168356
 

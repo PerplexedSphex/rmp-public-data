@@ -1,6 +1,6 @@
-# Unknown
+# City of Gainesville Linwood WWTP
 
-**Location:** Unknown, GA
+**Location:** Gainesville, GA
 
 **EPA Facility ID:** 100000104647
 

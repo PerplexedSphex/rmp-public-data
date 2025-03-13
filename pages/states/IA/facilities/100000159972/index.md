@@ -1,6 +1,6 @@
-# Unknown
+# Americold, Bettendorf  - Plant # 80562
 
-**Location:** Unknown, IA
+**Location:** Bettendorf, IA
 
 **EPA Facility ID:** 100000159972
 

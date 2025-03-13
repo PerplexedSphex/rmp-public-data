@@ -1,6 +1,6 @@
-# Unknown
+# Duckwall Fruit 
 
-**Location:** Unknown, OR
+**Location:** Hood River, OR
 
 **EPA Facility ID:** 100000074849
 

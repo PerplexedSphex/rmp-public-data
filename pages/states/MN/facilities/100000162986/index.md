@@ -1,6 +1,6 @@
-# Unknown
+# DENCO II, LLC
 
-**Location:** Unknown, MN
+**Location:** Morris, MN
 
 **EPA Facility ID:** 100000162986
 

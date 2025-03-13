@@ -1,6 +1,6 @@
-# Unknown
+# THE SCOTTS COMPANY
 
-**Location:** Unknown, IL
+**Location:** Channahon, IL
 
 **EPA Facility ID:** 100000248449
 

@@ -1,6 +1,6 @@
-# Unknown
+# Berkshire Refrigerated Warehousing, LLC
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000190722
 

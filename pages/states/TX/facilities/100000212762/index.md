@@ -1,6 +1,6 @@
-# Unknown
+# Corvette Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Grandbury, TX
 
 **EPA Facility ID:** 100000212762
 

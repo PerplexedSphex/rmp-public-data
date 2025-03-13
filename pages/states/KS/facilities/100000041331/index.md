@@ -1,6 +1,6 @@
-# Unknown
+# ELBING GRAIN LLC
 
-**Location:** Unknown, KS
+**Location:** Elbing, KS
 
 **EPA Facility ID:** 100000041331
 

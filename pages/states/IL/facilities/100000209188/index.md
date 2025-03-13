@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics, LLC
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000209188
 

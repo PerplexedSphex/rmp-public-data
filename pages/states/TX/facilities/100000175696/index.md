@@ -1,6 +1,6 @@
-# Unknown
+# Magic Valley Generation
 
-**Location:** Unknown, TX
+**Location:** Edinburg, TX
 
 **EPA Facility ID:** 100000175696
 

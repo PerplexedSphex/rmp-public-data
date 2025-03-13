@@ -1,6 +1,6 @@
-# Unknown
+# Advanced Specialty Gases
 
-**Location:** Unknown, NV
+**Location:** DAYTON, NV
 
 **EPA Facility ID:** 100000017554
 

@@ -1,6 +1,6 @@
-# Unknown
+# Garyville Sewerage Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Garyville, LA
 
 **EPA Facility ID:** 100000156608
 

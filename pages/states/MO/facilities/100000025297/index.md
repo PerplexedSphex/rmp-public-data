@@ -1,6 +1,6 @@
-# Unknown
+# Plant Foods Inc.
 
-**Location:** Unknown, MO
+**Location:** Malden, MO
 
 **EPA Facility ID:** 100000025297
 

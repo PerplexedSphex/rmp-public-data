@@ -1,6 +1,6 @@
-# Unknown
+# Wild River Foods
 
-**Location:** Unknown, WA
+**Location:** Grandview, WA
 
 **EPA Facility ID:** 100000090466
 

@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Southwest, Inc.  St. Gabriel Bleach Plant
 
-**Location:** Unknown, LA
+**Location:** St. Gabriel, LA
 
 **EPA Facility ID:** 100000164706
 

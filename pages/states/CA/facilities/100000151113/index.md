@@ -1,6 +1,6 @@
-# Unknown
+# City of El Centro Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** El Centro, CA
 
 **EPA Facility ID:** 100000151113
 

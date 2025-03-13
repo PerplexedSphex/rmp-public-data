@@ -1,6 +1,6 @@
-# Unknown
+# Broad River Water Plant
 
-**Location:** Unknown, NC
+**Location:** Rutherfordton, NC
 
 **EPA Facility ID:** 100000070889
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wilson Lake Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Florence, AL
 
 **EPA Facility ID:** 100000006334
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mid Missouri Agri Service - Concordia
 
-**Location:** Unknown, MO
+**Location:** Concordia, MO
 
 **EPA Facility ID:** 100000081831
 

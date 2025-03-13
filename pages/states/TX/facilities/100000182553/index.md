@@ -1,6 +1,6 @@
-# Unknown
+# Lake Ray Roberts Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Aubrey, TX
 
 **EPA Facility ID:** 100000182553
 

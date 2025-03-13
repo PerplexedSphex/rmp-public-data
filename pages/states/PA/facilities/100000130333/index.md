@@ -1,6 +1,6 @@
-# Unknown
+# Water Filtration Plant A
 
-**Location:** Unknown, PA
+**Location:** Connellsville, PA
 
 **EPA Facility ID:** 100000130333
 

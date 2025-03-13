@@ -1,6 +1,6 @@
-# Unknown
+# Lake Country Storage
 
-**Location:** Unknown, NY
+**Location:** Wolcott, NY
 
 **EPA Facility ID:** 100000201612
 

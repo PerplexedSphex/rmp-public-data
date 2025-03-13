@@ -1,6 +1,6 @@
-# Unknown
+# Hunter Grain Co.
 
-**Location:** Unknown, ND
+**Location:** Hunter, ND
 
 **EPA Facility ID:** 100000009509
 

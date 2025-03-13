@@ -1,6 +1,6 @@
-# Unknown
+# Marlboro Paper Mill
 
-**Location:** Unknown, SC
+**Location:** Bennettsville, SC
 
 **EPA Facility ID:** 100000077418
 

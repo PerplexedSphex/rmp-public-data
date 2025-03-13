@@ -1,6 +1,6 @@
-# Unknown
+# Hobbs Gas Plant
 
-**Location:** Unknown, NM
+**Location:** Hobbs, NM
 
 **EPA Facility ID:** 100000120282
 

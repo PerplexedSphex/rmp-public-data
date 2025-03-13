@@ -1,6 +1,6 @@
-# Unknown
+# Seward Generating Station
 
-**Location:** Unknown, PA
+**Location:** New Florence, PA
 
 **EPA Facility ID:** 100000181484
 

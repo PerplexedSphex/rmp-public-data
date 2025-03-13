@@ -1,6 +1,6 @@
-# Unknown
+# Future Foam, Inc
 
-**Location:** Unknown, MA
+**Location:** Mansfield, MA
 
 **EPA Facility ID:** 100000238539
 

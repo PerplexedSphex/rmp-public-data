@@ -1,6 +1,6 @@
-# Unknown
+# CRYSTAL VALLEY CO-OP
 
-**Location:** Unknown, MN
+**Location:** Good Thunder, MN
 
 **EPA Facility ID:** 100000055398
 

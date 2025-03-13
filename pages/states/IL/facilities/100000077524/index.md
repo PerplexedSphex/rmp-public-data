@@ -1,6 +1,6 @@
-# Unknown
+# Danisco USA, Inc.
 
-**Location:** Unknown, IL
+**Location:** Thomson, IL
 
 **EPA Facility ID:** 100000077524
 

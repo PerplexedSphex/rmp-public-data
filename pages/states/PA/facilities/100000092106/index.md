@@ -1,6 +1,6 @@
-# Unknown
+# Engelhard Corporation
 
-**Location:** Unknown, PA
+**Location:** Erie, PA
 
 **EPA Facility ID:** 100000092106
 

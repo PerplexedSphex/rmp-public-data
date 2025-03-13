@@ -1,6 +1,6 @@
-# Unknown
+# Carson Power Plant
 
-**Location:** Unknown, CA
+**Location:** Elk Grove, CA
 
 **EPA Facility ID:** 100000077196
 

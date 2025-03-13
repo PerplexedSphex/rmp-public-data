@@ -1,6 +1,6 @@
-# Unknown
+# Americold, Clearfield, #80501
 
-**Location:** Unknown, UT
+**Location:** Clearfield, UT
 
 **EPA Facility ID:** 100000159669
 

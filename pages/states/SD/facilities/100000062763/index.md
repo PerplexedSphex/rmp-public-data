@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Lemmon
 
-**Location:** Unknown, SD
+**Location:** Lemmon, SD
 
 **EPA Facility ID:** 100000062763
 

@@ -1,6 +1,6 @@
-# Unknown
+# (49) The McGregor Company Lind Retail
 
-**Location:** Unknown, WA
+**Location:** Lind, WA
 
 **EPA Facility ID:** 100000182045
 

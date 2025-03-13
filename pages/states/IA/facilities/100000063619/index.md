@@ -1,6 +1,6 @@
-# Unknown
+# The University of Iowa Water Plant
 
-**Location:** Unknown, IA
+**Location:** Iowa City, IA
 
 **EPA Facility ID:** 100000063619
 

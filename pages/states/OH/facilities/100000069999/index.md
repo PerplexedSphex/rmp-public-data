@@ -1,6 +1,6 @@
-# Unknown
+# Terra International, Inc. (Verona)
 
-**Location:** Unknown, OH
+**Location:** Verona, OH
 
 **EPA Facility ID:** 100000069999
 

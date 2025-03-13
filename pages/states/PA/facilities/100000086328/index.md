@@ -1,6 +1,6 @@
-# Unknown
+# City of Bethlehem Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Lehigh Township, PA
 
 **EPA Facility ID:** 100000086328
 

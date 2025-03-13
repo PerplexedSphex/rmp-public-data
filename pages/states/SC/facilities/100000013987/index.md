@@ -1,6 +1,6 @@
-# Unknown
+# A. Manning Lynch Wastewater Treatment Facility
 
-**Location:** Unknown, SC
+**Location:** Spartanburg, SC
 
 **EPA Facility ID:** 100000013987
 

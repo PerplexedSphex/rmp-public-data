@@ -1,6 +1,6 @@
-# Unknown
+# Bethany Fellowship Mission
 
-**Location:** Unknown, MN
+**Location:** Bloomington, MN
 
 **EPA Facility ID:** 100000116448
 

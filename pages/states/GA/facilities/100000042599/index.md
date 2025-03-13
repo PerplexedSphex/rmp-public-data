@@ -1,6 +1,6 @@
-# Unknown
+# EASTMAN CHEMICAL COMPANY - COLUMBUS, GA.
 
-**Location:** Unknown, GA
+**Location:** Columbus, GA
 
 **EPA Facility ID:** 100000042599
 

@@ -1,6 +1,6 @@
-# Unknown
+# Foundation Creek Gas Plant
 
-**Location:** Unknown, CO
+**Location:** Rangely, CO
 
 **EPA Facility ID:** 100000135187
 

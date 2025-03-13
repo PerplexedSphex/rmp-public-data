@@ -1,6 +1,6 @@
-# Unknown
+# Shalersville Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Ravenna, OH
 
 **EPA Facility ID:** 100000036695
 

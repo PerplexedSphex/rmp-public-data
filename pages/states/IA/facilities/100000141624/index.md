@@ -1,6 +1,6 @@
-# Unknown
+# ART'S MILLING SERVICE, Inc.
 
-**Location:** Unknown, IA
+**Location:** PROTIVIN, IA
 
 **EPA Facility ID:** 100000141624
 

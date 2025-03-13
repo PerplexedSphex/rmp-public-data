@@ -1,6 +1,6 @@
-# Unknown
+# HoltraChem Manufacturing Company
 
-**Location:** Unknown, NC
+**Location:** Riegelwood, NC
 
 **EPA Facility ID:** 100000117875
 

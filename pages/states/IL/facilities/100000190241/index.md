@@ -1,6 +1,6 @@
-# Unknown
+# Menasha Packaging Company
 
-**Location:** Unknown, IL
+**Location:** Bolingbrook, IL
 
 **EPA Facility ID:** 100000190241
 

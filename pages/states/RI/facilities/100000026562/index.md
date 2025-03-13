@@ -1,6 +1,6 @@
-# Unknown
+# WEST WARWICK REGIONAL WASTEWATER TREATMENT FAC.
 
-**Location:** Unknown, RI
+**Location:** WEST WARWICK, RI
 
 **EPA Facility ID:** 100000026562
 

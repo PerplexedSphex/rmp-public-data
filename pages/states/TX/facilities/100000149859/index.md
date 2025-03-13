@@ -1,6 +1,6 @@
-# Unknown
+# Kickapoo Street Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Jacksonville, TX
 
 **EPA Facility ID:** 100000149859
 

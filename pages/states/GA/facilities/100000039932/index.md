@@ -1,6 +1,6 @@
-# Unknown
+# King & Prince Seafood
 
-**Location:** Unknown, GA
+**Location:** Brunswick, GA
 
 **EPA Facility ID:** 100000039932
 

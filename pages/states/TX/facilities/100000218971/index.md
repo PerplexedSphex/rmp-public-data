@@ -1,6 +1,6 @@
-# Unknown
+# Eagle Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Edna, TX
 
 **EPA Facility ID:** 100000218971
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.-Claire City
 
-**Location:** Unknown, SD
+**Location:** Claire City, SD
 
 **EPA Facility ID:** 100000061639
 

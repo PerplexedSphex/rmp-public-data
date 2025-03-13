@@ -1,6 +1,6 @@
-# Unknown
+# Washington Fruit & Produce Company - Union Gap
 
-**Location:** Unknown, WA
+**Location:** Union Gap, WA
 
 **EPA Facility ID:** 100000106244
 

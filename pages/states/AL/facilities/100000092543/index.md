@@ -1,6 +1,6 @@
-# Unknown
+# Stanley Brooks WWTP
 
-**Location:** Unknown, AL
+**Location:** Prichard, AL
 
 **EPA Facility ID:** 100000092543
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wheeler Natural Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** Wheeler, TX
 
 **EPA Facility ID:** 100000220806
 

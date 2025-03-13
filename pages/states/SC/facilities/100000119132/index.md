@@ -1,6 +1,6 @@
-# Unknown
+# Giant Cement Company
 
-**Location:** Unknown, SC
+**Location:** Harleyville, SC
 
 **EPA Facility ID:** 100000119132
 

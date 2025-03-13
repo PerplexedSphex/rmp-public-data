@@ -1,6 +1,6 @@
-# Unknown
+# Harris Ranch Beef Company
 
-**Location:** Unknown, CA
+**Location:** Selma, CA
 
 **EPA Facility ID:** 100000200542
 

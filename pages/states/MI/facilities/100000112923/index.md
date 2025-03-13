@@ -1,6 +1,6 @@
-# Unknown
+# NORTHEAST WATER TREATMENT PLANT
 
-**Location:** Unknown, MI
+**Location:** Detroit, MI
 
 **EPA Facility ID:** 100000112923
 

@@ -1,6 +1,6 @@
-# Unknown
+# Arapaho Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Butler, OK
 
 **EPA Facility ID:** 100000164118
 

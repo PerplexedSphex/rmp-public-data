@@ -1,6 +1,6 @@
-# Unknown
+# Millennium Specialty Chemicals Colonels Island
 
-**Location:** Unknown, GA
+**Location:** Brunswick, GA
 
 **EPA Facility ID:** 100000051784
 

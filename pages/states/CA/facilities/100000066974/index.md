@@ -1,6 +1,6 @@
-# Unknown
+# North Island Energy Facility
 
-**Location:** Unknown, CA
+**Location:** San Diego, CA
 
 **EPA Facility ID:** 100000066974
 

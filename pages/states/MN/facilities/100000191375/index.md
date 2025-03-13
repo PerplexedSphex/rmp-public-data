@@ -1,6 +1,6 @@
-# Unknown
+# Sauk Rapids Water Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Sauk Rapids, MN
 
 **EPA Facility ID:** 100000191375
 

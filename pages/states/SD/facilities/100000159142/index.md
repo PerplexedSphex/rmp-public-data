@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Brandon
 
-**Location:** Unknown, SD
+**Location:** Brandon, SD
 
 **EPA Facility ID:** 100000159142
 

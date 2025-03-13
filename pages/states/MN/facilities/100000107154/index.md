@@ -1,6 +1,6 @@
-# Unknown
+# Ag Partners Coop - Goodhue
 
-**Location:** Unknown, MN
+**Location:** Goodhue, MN
 
 **EPA Facility ID:** 100000107154
 

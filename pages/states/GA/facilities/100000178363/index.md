@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South, Inc.
 
-**Location:** Unknown, GA
+**Location:** Valdosta, GA
 
 **EPA Facility ID:** 100000178363
 

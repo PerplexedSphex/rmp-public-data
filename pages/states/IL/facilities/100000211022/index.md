@@ -1,6 +1,6 @@
-# Unknown
+# PSW- Retail LLC Fairmont 
 
-**Location:** Unknown, IL
+**Location:** Fairmount, IL
 
 **EPA Facility ID:** 100000211022
 

@@ -1,6 +1,6 @@
-# Unknown
+# ASHLAND SPECIALTY INGREDIENTS G.P. - PARLIN PLANT
 
-**Location:** Unknown, NJ
+**Location:** PARLIN, NJ
 
 **EPA Facility ID:** 100000052676
 

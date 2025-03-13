@@ -1,6 +1,6 @@
-# Unknown
+# Koch Fertilizer, LLC - Henry Terminal
 
-**Location:** Unknown, IL
+**Location:** Henry, IL
 
 **EPA Facility ID:** 100000050482
 

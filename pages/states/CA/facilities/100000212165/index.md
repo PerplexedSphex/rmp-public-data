@@ -1,6 +1,6 @@
-# Unknown
+# Trinity Packing Company
 
-**Location:** Unknown, CA
+**Location:** Reedley, CA
 
 **EPA Facility ID:** 100000212165
 

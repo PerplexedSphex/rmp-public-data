@@ -1,6 +1,6 @@
-# Unknown
+# GreenGate Fresh Salinas
 
-**Location:** Unknown, CA
+**Location:** Salinas, CA
 
 **EPA Facility ID:** 100000221459
 

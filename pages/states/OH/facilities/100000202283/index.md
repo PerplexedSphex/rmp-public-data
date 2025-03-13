@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Massillon, Erie  #75117
 
-**Location:** Unknown, OH
+**Location:** Massillon, OH
 
 **EPA Facility ID:** 100000202283
 

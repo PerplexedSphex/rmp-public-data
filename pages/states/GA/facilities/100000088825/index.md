@@ -1,6 +1,6 @@
-# Unknown
+# Olin Corporation Augusta, Georgia Plant
 
-**Location:** Unknown, GA
+**Location:** Augusta, GA
 
 **EPA Facility ID:** 100000088825
 

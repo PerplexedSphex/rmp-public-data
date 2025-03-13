@@ -1,6 +1,6 @@
-# Unknown
+# Great Plain Cooperative
 
-**Location:** Unknown, OK
+**Location:** Lahoma, OK
 
 **EPA Facility ID:** 100000010098
 

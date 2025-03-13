@@ -1,6 +1,6 @@
-# Unknown
+# Sterigenics US, LLC - Los Angeles
 
-**Location:** Unknown, CA
+**Location:** Vernon, CA
 
 **EPA Facility ID:** 100000061265
 

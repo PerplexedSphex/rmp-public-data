@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company (Colfax, WA)
 
-**Location:** Unknown, WA
+**Location:** COLFAX, WA
 
 **EPA Facility ID:** 100000071771
 

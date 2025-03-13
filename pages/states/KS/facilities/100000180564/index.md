@@ -1,6 +1,6 @@
-# Unknown
+# Goodland Simplot Grower Solutions
 
-**Location:** Unknown, KS
+**Location:** Goodland, KS
 
 **EPA Facility ID:** 100000180564
 

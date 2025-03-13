@@ -1,6 +1,6 @@
-# Unknown
+# CHS Propane Terminal- Glenwood
 
-**Location:** Unknown, MN
+**Location:** Glenwood, MN
 
 **EPA Facility ID:** 100000165983
 

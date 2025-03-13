@@ -1,6 +1,6 @@
-# Unknown
+# Itasca Cooperative Grain Company
 
-**Location:** Unknown, TX
+**Location:** Itasca, TX
 
 **EPA Facility ID:** 100000181714
 

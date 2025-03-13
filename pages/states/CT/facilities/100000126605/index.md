@@ -1,6 +1,6 @@
-# Unknown
+# Distribution Center / Chesebrough-Ponds USA
 
-**Location:** Unknown, CT
+**Location:** Clinton, CT
 
 **EPA Facility ID:** 100000126605
 

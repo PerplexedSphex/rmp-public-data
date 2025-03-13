@@ -1,6 +1,6 @@
-# Unknown
+# THE DODGE CITY COOP EXCHANGE -HAGGARD
 
-**Location:** Unknown, KS
+**Location:** CIMARRON, KS
 
 **EPA Facility ID:** 100000104399
 

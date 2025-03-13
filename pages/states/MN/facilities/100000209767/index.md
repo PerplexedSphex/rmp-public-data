@@ -1,6 +1,6 @@
-# Unknown
+# StateLine Cooperative-Granada Facility
 
-**Location:** Unknown, MN
+**Location:** Granada, MN
 
 **EPA Facility ID:** 100000209767
 

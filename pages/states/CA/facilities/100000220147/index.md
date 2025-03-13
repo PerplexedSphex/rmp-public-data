@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Taft Hwy Site 2
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000220147
 

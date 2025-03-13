@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Lowell
 
-**Location:** Unknown, AR
+**Location:** Lowell, AR
 
 **EPA Facility ID:** 100000141839
 

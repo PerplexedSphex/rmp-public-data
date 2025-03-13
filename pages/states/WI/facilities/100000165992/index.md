@@ -1,6 +1,6 @@
-# Unknown
+# Superior Propane Terminal
 
-**Location:** Unknown, WI
+**Location:** Superior, WI
 
 **EPA Facility ID:** 100000165992
 

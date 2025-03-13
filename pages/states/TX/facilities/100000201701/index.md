@@ -1,6 +1,6 @@
-# Unknown
+# CO2 Extraction Plant
 
-**Location:** Unknown, TX
+**Location:** Snyder, TX
 
 **EPA Facility ID:** 100000201701
 

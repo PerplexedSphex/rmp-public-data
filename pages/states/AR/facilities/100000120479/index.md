@@ -1,6 +1,6 @@
-# Unknown
+# Massard Wastewater Treatment Facility
 
-**Location:** Unknown, AR
+**Location:** Barling, AR
 
 **EPA Facility ID:** 100000120479
 

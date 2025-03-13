@@ -1,6 +1,6 @@
-# Unknown
+# Tidewater Umatilla Terminal
 
-**Location:** Unknown, OR
+**Location:** Umatilla, OR
 
 **EPA Facility ID:** 100000121067
 

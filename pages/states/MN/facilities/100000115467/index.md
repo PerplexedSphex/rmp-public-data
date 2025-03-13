@@ -1,6 +1,6 @@
-# Unknown
+# Seneca Foods Corporation, Montgomery, Minnesota
 
-**Location:** Unknown, MN
+**Location:** Montgomery, MN
 
 **EPA Facility ID:** 100000115467
 

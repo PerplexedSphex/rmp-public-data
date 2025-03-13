@@ -1,6 +1,6 @@
-# Unknown
+# Protein Technologies International - Louisville
 
-**Location:** Unknown, KY
+**Location:** Louisville, KY
 
 **EPA Facility ID:** 100000037587
 

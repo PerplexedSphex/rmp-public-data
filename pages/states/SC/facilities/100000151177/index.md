@@ -1,6 +1,6 @@
-# Unknown
+# DMC Prints, Inc.
 
-**Location:** Unknown, SC
+**Location:** Orangeburg, SC
 
 **EPA Facility ID:** 100000151177
 

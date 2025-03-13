@@ -1,6 +1,6 @@
-# Unknown
+# Silver Bay Seafoods - Port Moller, AK
 
-**Location:** Unknown, AK
+**Location:** Port Moller, AK
 
 **EPA Facility ID:** 100000185836
 

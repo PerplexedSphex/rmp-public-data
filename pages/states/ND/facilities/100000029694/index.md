@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Wyndmere
 
-**Location:** Unknown, ND
+**Location:** Wyndmere, ND
 
 **EPA Facility ID:** 100000029694
 

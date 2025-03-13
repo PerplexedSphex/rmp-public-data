@@ -1,6 +1,6 @@
-# Unknown
+# Aspire Bakeries 
 
-**Location:** Unknown, SC
+**Location:** West Columbia, SC
 
 **EPA Facility ID:** 100000187059
 

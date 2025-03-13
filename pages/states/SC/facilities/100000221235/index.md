@@ -1,6 +1,6 @@
-# Unknown
+# Omega Partners Carolinas LLC
 
-**Location:** Unknown, SC
+**Location:** Blacksburg, SC
 
 **EPA Facility ID:** 100000221235
 

@@ -1,6 +1,6 @@
-# Unknown
+# Eagle Chemicals, Inc.
 
-**Location:** Unknown, OH
+**Location:** Hamilton, OH
 
 **EPA Facility ID:** 100000160782
 

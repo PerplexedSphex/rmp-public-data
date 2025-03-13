@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water-Richmond
 
-**Location:** Unknown, IN
+**Location:** Richmond, IN
 
 **EPA Facility ID:** 100000024975
 

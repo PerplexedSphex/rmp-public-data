@@ -1,6 +1,6 @@
-# Unknown
+# Alpharma Inc.
 
-**Location:** Unknown, WV
+**Location:** Willow Island, WV
 
 **EPA Facility ID:** 100000101711
 

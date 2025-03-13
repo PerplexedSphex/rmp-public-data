@@ -1,6 +1,6 @@
-# Unknown
+# Double Eagle
 
-**Location:** Unknown, MI
+**Location:** Middleton, MI
 
 **EPA Facility ID:** 100000250747
 

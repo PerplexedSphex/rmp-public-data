@@ -1,6 +1,6 @@
-# Unknown
+# Hamakua Energy, LLC
 
-**Location:** Unknown, HI
+**Location:** Honokaa, HI
 
 **EPA Facility ID:** 100000172546
 

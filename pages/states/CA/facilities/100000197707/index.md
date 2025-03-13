@@ -1,6 +1,6 @@
-# Unknown
+# Southern California Ice Company
 
-**Location:** Unknown, CA
+**Location:** Torrance, CA
 
 **EPA Facility ID:** 100000197707
 

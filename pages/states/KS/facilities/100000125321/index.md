@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packaged Meats Corp. -Junction City, KS
 
-**Location:** Unknown, KS
+**Location:** Junction City, KS
 
 **EPA Facility ID:** 100000125321
 

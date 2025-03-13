@@ -1,6 +1,6 @@
-# Unknown
+# Union Fertilizer Company  
 
-**Location:** Unknown, KY
+**Location:** Morganfield, KY
 
 **EPA Facility ID:** 100000080048
 

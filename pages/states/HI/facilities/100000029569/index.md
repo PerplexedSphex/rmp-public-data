@@ -1,6 +1,6 @@
-# Unknown
+# Pi`ihilo Water Treatment Facility
 
-**Location:** Unknown, HI
+**Location:** Makawao, HI
 
 **EPA Facility ID:** 100000029569
 

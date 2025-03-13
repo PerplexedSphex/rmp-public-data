@@ -1,6 +1,6 @@
-# Unknown
+# City of Palestine Utilities Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Palestine, TX
 
 **EPA Facility ID:** 100000092204
 

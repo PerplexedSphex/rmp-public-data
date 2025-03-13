@@ -1,6 +1,6 @@
-# Unknown
+# JM Smucker LLC
 
-**Location:** Unknown, CO
+**Location:** Longmont, CO
 
 **EPA Facility ID:** 100000240232
 

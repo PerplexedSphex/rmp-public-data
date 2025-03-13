@@ -1,6 +1,6 @@
-# Unknown
+# Crystal Valley Co-op
 
-**Location:** Unknown, MN
+**Location:** Mankato, MN
 
 **EPA Facility ID:** 100000054834
 

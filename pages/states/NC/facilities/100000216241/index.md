@@ -1,6 +1,6 @@
-# Unknown
+# Blanchard Terminal Company LLC - Charlotte East
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000216241
 

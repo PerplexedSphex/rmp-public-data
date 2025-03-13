@@ -1,6 +1,6 @@
-# Unknown
+# Badger State Ethanol, LLC
 
-**Location:** Unknown, WI
+**Location:** Monroe, WI
 
 **EPA Facility ID:** 100000180234
 

@@ -1,6 +1,6 @@
-# Unknown
+# Nippon Chemical Texas Inc.
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000140581
 

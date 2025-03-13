@@ -1,6 +1,6 @@
-# Unknown
+# Valleydale Foods, Inc
 
-**Location:** Unknown, VA
+**Location:** Salem, VA
 
 **EPA Facility ID:** 100000038407
 

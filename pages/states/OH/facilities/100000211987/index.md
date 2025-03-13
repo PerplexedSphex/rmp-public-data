@@ -1,6 +1,6 @@
-# Unknown
+# Brush Wellman Inc - Elmore OH
 
-**Location:** Unknown, OH
+**Location:** Elmore, OH
 
 **EPA Facility ID:** 100000211987
 

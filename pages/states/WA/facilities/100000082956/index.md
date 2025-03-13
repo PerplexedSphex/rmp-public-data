@@ -1,6 +1,6 @@
-# Unknown
+# Twin City Foods - Ellensburg
 
-**Location:** Unknown, WA
+**Location:** Ellensburg, WA
 
 **EPA Facility ID:** 100000082956
 

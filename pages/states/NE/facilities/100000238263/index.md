@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Union - Elk City
 
-**Location:** Unknown, NE
+**Location:** Bennington, NE
 
 **EPA Facility ID:** 100000238263
 

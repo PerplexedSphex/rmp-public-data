@@ -1,6 +1,6 @@
-# Unknown
+# Cooperative Grain & Supply - Marion
 
-**Location:** Unknown, KS
+**Location:** Marion, KS
 
 **EPA Facility ID:** 100000113423
 

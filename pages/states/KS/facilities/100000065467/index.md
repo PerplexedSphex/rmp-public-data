@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Ag Inc-Lawn Ridge NH3
 
-**Location:** Unknown, KS
+**Location:** St Francis, KS
 
 **EPA Facility ID:** 100000065467
 

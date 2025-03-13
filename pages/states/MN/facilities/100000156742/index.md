@@ -1,6 +1,6 @@
-# Unknown
+# Buddy's Kitchen
 
-**Location:** Unknown, MN
+**Location:** Lakeville, MN
 
 **EPA Facility ID:** 100000156742
 

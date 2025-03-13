@@ -1,6 +1,6 @@
-# Unknown
+# Fairmont Wastewater Treatment Plant
 
-**Location:** Unknown, WV
+**Location:** Fairmont, WV
 
 **EPA Facility ID:** 100000059713
 

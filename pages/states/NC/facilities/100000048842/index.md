@@ -1,6 +1,6 @@
-# Unknown
+# City of Eden, Mebane Bridge WWTP
 
-**Location:** Unknown, NC
+**Location:** Eden, NC
 
 **EPA Facility ID:** 100000048842
 

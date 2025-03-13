@@ -1,6 +1,6 @@
-# Unknown
+# Middletown Wastewater Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Middletown, OH
 
 **EPA Facility ID:** 100000043124
 

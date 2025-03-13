@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packaged Meats Corp. - St. James, MN
 
-**Location:** Unknown, MN
+**Location:** St. James, MN
 
 **EPA Facility ID:** 100000118605
 

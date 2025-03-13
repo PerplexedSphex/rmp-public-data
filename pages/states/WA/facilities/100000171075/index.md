@@ -1,6 +1,6 @@
-# Unknown
+# Legacy Fruit Packers, LLC.
 
-**Location:** Unknown, WA
+**Location:** Wapato, WA
 
 **EPA Facility ID:** 100000171075
 

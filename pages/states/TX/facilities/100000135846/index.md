@@ -1,6 +1,6 @@
-# Unknown
+# Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Paris, TX
 
 **EPA Facility ID:** 100000135846
 

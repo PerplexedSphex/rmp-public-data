@@ -1,6 +1,6 @@
-# Unknown
+# Bluewater Thermal Solutions LLC
 
-**Location:** Unknown, IL
+**Location:** Northlake, IL
 
 **EPA Facility ID:** 100000168695
 

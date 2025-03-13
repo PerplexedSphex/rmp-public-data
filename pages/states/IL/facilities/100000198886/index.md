@@ -1,6 +1,6 @@
-# Unknown
+# Galatia, IL 2733
 
-**Location:** Unknown, IL
+**Location:** Galatia, IL
 
 **EPA Facility ID:** 100000198886
 

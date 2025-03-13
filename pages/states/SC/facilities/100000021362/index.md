@@ -1,6 +1,6 @@
-# Unknown
+# City of Camden WTP
 
-**Location:** Unknown, SC
+**Location:** Camden, SC
 
 **EPA Facility ID:** 100000021362
 

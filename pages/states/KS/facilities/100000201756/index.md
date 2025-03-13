@@ -1,6 +1,6 @@
-# Unknown
+# Nesika Energy, LLC
 
-**Location:** Unknown, KS
+**Location:** Scandia, KS
 
 **EPA Facility ID:** 100000201756
 

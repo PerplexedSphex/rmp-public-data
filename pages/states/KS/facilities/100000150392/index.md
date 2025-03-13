@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Flying V
 
-**Location:** Unknown, KS
+**Location:** Sharon Springs, KS
 
 **EPA Facility ID:** 100000150392
 

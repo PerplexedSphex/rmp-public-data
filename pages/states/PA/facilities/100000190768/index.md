@@ -1,6 +1,6 @@
-# Unknown
+# Johnson & Johnson Sales and Logistics Company, LLC
 
-**Location:** Unknown, PA
+**Location:** Lititiz, PA
 
 **EPA Facility ID:** 100000190768
 

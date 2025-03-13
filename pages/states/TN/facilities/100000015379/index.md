@@ -1,6 +1,6 @@
-# Unknown
+# Simplot Grower Solutions - Kenton, TN
 
-**Location:** Unknown, TN
+**Location:** Kenton, TN
 
 **EPA Facility ID:** 100000015379
 

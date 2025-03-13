@@ -1,6 +1,6 @@
-# Unknown
+# ELEMENTIS PIGMENTS E. ST. LOUIS PLANT
 
-**Location:** Unknown, IL
+**Location:** E. ST. LOUIS, IL
 
 **EPA Facility ID:** 100000128097
 

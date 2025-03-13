@@ -1,6 +1,6 @@
-# Unknown
+# Kern River Eastridge Cogeneration Facility
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000167936
 

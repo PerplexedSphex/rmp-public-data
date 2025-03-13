@@ -1,6 +1,6 @@
-# Unknown
+# THE ENSIGN-BICKFORD CO. - Spanish Fork, UT
 
-**Location:** Unknown, UT
+**Location:** Spanish Fork, UT
 
 **EPA Facility ID:** 100000080422
 

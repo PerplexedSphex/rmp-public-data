@@ -1,6 +1,6 @@
-# Unknown
+# Jackson Ice Cream Denver
 
-**Location:** Unknown, CO
+**Location:** Denver, CO
 
 **EPA Facility ID:** 100000131911
 

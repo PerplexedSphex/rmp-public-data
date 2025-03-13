@@ -1,6 +1,6 @@
-# Unknown
+# Council Bluffs, IA - Frozen Foods
 
-**Location:** Unknown, IA
+**Location:** Council Bluffs, IA
 
 **EPA Facility ID:** 100000080413
 

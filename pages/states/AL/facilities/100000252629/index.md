@@ -1,6 +1,6 @@
-# Unknown
+# JM Smucker, LLC
 
-**Location:** Unknown, AL
+**Location:** McCalla, AL
 
 **EPA Facility ID:** 100000252629
 

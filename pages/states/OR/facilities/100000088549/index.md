@@ -1,6 +1,6 @@
-# Unknown
+# SUMCO USA - South Campus
 
-**Location:** Unknown, OR
+**Location:** Salem, OR
 
 **EPA Facility ID:** 100000088549
 

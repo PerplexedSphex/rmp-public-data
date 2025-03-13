@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc - Hazel
 
-**Location:** Unknown, MN
+**Location:** Hazel, MN
 
 **EPA Facility ID:** 100000243015
 

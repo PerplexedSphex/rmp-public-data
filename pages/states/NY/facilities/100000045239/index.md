@@ -1,6 +1,6 @@
-# Unknown
+# City of Niagara Falls Wastewater Treatment Plant
 
-**Location:** Unknown, NY
+**Location:** Niagara Falls, NY
 
 **EPA Facility ID:** 100000045239
 

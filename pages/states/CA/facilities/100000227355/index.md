@@ -1,6 +1,6 @@
-# Unknown
+# Van-G Logistics - Selma
 
-**Location:** Unknown, CA
+**Location:** Selma, CA
 
 **EPA Facility ID:** 100000227355
 

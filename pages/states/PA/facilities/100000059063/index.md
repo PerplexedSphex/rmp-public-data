@@ -1,6 +1,6 @@
-# Unknown
+# Schaefferstown Storage Terminal
 
-**Location:** Unknown, PA
+**Location:** Newmanstown, PA
 
 **EPA Facility ID:** 100000059063
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company (Walla Walla, WA)
 
-**Location:** Unknown, WA
+**Location:** Walla Walla, WA
 
 **EPA Facility ID:** 100000096004
 

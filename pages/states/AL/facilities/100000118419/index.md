@@ -1,6 +1,6 @@
-# Unknown
+# Sugar Creek Wastewater Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Alexander City, AL
 
 **EPA Facility ID:** 100000118419
 

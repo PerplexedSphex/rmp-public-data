@@ -1,6 +1,6 @@
-# Unknown
+# Milk Specialties Company
 
-**Location:** Unknown, WI
+**Location:** Fond du Lac, WI
 
 **EPA Facility ID:** 100000222216
 

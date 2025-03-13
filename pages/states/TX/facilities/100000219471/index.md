@@ -1,6 +1,6 @@
-# Unknown
+# HET Levelland, LLC
 
-**Location:** Unknown, TX
+**Location:** Levelland, TX
 
 **EPA Facility ID:** 100000219471
 

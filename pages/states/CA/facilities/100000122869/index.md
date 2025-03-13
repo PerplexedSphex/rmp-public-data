@@ -1,6 +1,6 @@
-# Unknown
+# Redding Buckeye Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Shasta, CA
 
 **EPA Facility ID:** 100000122869
 

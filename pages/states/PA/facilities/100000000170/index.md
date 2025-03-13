@@ -1,6 +1,6 @@
-# Unknown
+# Hershey Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Hummelstown, PA
 
 **EPA Facility ID:** 100000000170
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Thomasville Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Thomasville, NC
 
 **EPA Facility ID:** 100000072173
 

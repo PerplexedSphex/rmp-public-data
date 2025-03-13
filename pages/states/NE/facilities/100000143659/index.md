@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Belgrade
 
-**Location:** Unknown, NE
+**Location:** Belgrade, NE
 
 **EPA Facility ID:** 100000143659
 

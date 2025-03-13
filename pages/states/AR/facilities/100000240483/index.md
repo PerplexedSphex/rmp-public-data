@@ -1,6 +1,6 @@
-# Unknown
+# United Industries Inc
 
-**Location:** Unknown, AR
+**Location:** Bentonville, AR
 
 **EPA Facility ID:** 100000240483
 

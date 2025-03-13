@@ -1,6 +1,6 @@
-# Unknown
+# Smith Center, KS 3901
 
-**Location:** Unknown, KS
+**Location:** Smith Center, KS
 
 **EPA Facility ID:** 100000208063
 

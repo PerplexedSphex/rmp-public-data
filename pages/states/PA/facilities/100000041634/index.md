@@ -1,6 +1,6 @@
-# Unknown
+# Samuel S. Baxter Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Philadelphia, PA
 
 **EPA Facility ID:** 100000041634
 

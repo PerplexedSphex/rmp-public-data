@@ -1,6 +1,6 @@
-# Unknown
+# Granite City Regional Waste Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Granite City, IL
 
 **EPA Facility ID:** 100000032136
 

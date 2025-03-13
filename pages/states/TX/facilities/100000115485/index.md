@@ -1,6 +1,6 @@
-# Unknown
+# Johnson County Power, LLC
 
-**Location:** Unknown, TX
+**Location:** Cleburne, TX
 
 **EPA Facility ID:** 100000115485
 

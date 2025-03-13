@@ -1,6 +1,6 @@
-# Unknown
+# All Points Cooperative - Cozad South
 
-**Location:** Unknown, NE
+**Location:** Cozad, NE
 
 **EPA Facility ID:** 100000078051
 

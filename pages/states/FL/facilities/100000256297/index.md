@@ -1,6 +1,6 @@
-# Unknown
+# FreezPak Logistics
 
-**Location:** Unknown, FL
+**Location:** Jacksonville, FL
 
 **EPA Facility ID:** 100000256297
 

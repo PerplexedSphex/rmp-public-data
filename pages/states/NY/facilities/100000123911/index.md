@@ -1,6 +1,6 @@
-# Unknown
+# Jamaica Water Pollution Control Plant
 
-**Location:** Unknown, NY
+**Location:** Jamaica, NY
 
 **EPA Facility ID:** 100000123911
 

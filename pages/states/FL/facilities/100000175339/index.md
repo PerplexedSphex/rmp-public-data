@@ -1,6 +1,6 @@
-# Unknown
+# Coastal Chemical, Inc.
 
-**Location:** Unknown, FL
+**Location:** West Palm Beach, FL
 
 **EPA Facility ID:** 100000175339
 

@@ -1,6 +1,6 @@
-# Unknown
+# Burbank Water Reclamation Plant Chlorination Stn.
 
-**Location:** Unknown, CA
+**Location:** Burbank, CA
 
 **EPA Facility ID:** 100000030254
 

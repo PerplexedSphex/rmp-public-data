@@ -1,6 +1,6 @@
-# Unknown
+# Thomas Refinery
 
-**Location:** Unknown, OK
+**Location:** Thomas, OK
 
 **EPA Facility ID:** 100000201104
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Dodge City
 
-**Location:** Unknown, KS
+**Location:** Dodge City, KS
 
 **EPA Facility ID:** 100000094079
 

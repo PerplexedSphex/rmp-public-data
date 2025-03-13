@@ -1,6 +1,6 @@
-# Unknown
+# Shoal Creek Wastewater Treatment Facility
 
-**Location:** Unknown, MO
+**Location:** Joplin, MO
 
 **EPA Facility ID:** 100000041448
 

@@ -1,6 +1,6 @@
-# Unknown
+# THE DODGE CITY COOP EXCHANGE-HOWELL
 
-**Location:** Unknown, KS
+**Location:** DODGE CITY, KS
 
 **EPA Facility ID:** 100000087096
 

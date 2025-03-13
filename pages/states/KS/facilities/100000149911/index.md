@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - North Selkirk (Buehler Place)
 
-**Location:** Unknown, KS
+**Location:** Buehler, KS
 
 **EPA Facility ID:** 100000149911
 

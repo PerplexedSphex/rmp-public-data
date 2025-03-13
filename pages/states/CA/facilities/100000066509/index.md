@@ -1,6 +1,6 @@
-# Unknown
+# Arnco - South Gate
 
-**Location:** Unknown, CA
+**Location:** South Gate, CA
 
 **EPA Facility ID:** 100000066509
 

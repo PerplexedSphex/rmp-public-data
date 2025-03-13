@@ -1,6 +1,6 @@
-# Unknown
+# Pawnee County Cooperative-Larned
 
-**Location:** Unknown, KS
+**Location:** Larned, KS
 
 **EPA Facility ID:** 100000077016
 

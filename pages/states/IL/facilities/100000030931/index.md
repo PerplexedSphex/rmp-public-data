@@ -1,6 +1,6 @@
-# Unknown
+# Viscofan USA, Inc.
 
-**Location:** Unknown, IL
+**Location:** Danville, IL
 
 **EPA Facility ID:** 100000030931
 

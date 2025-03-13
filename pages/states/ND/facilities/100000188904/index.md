@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Bentley, ND Fac
 
-**Location:** Unknown, ND
+**Location:** Bentley, ND
 
 **EPA Facility ID:** 100000188904
 

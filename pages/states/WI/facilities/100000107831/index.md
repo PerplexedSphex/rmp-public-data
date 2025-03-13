@@ -1,6 +1,6 @@
-# Unknown
+# Du-al Gas, Inc.
 
-**Location:** Unknown, WI
+**Location:** Friesland, WI
 
 **EPA Facility ID:** 100000107831
 

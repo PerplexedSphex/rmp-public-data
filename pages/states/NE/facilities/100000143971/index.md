@@ -1,6 +1,6 @@
-# Unknown
+# HUSKER COOP          COLUMBUS ELEVATOR
 
-**Location:** Unknown, NE
+**Location:** COLUMBUS, NE
 
 **EPA Facility ID:** 100000143971
 

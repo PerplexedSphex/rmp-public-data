@@ -1,6 +1,6 @@
-# Unknown
+# Pilot Goldsmith Plant
 
-**Location:** Unknown, TX
+**Location:** Goldsmith, TX
 
 **EPA Facility ID:** 100000215153
 

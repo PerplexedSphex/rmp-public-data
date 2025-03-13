@@ -1,6 +1,6 @@
-# Unknown
+# Day-Glo Color Corp.
 
-**Location:** Unknown, OH
+**Location:** Twinsburg, OH
 
 **EPA Facility ID:** 100000056789
 

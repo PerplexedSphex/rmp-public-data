@@ -1,6 +1,6 @@
-# Unknown
+# Cedar Bayou Electric Generating Station
 
-**Location:** Unknown, TX
+**Location:** Eldon, TX
 
 **EPA Facility ID:** 100000182241
 

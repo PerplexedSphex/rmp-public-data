@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage, Milford
 
-**Location:** Unknown, DE
+**Location:** Milford, DE
 
 **EPA Facility ID:** 100000053265
 

@@ -1,6 +1,6 @@
-# Unknown
+# Channel Chemical Corporation
 
-**Location:** Unknown, MS
+**Location:** Gulfport, MS
 
 **EPA Facility ID:** 100000030959
 

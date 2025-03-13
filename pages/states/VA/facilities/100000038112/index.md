@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Fresh Meats Corp. - Smithfield, VA
 
-**Location:** Unknown, VA
+**Location:** Smithfield, VA
 
 **EPA Facility ID:** 100000038112
 

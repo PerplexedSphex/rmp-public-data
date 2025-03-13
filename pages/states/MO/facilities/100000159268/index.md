@@ -1,6 +1,6 @@
-# Unknown
+# Kansas City Cold Storage & Ice Company
 
-**Location:** Unknown, MO
+**Location:** Kansas City, MO
 
 **EPA Facility ID:** 100000159268
 

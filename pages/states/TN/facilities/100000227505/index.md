@@ -1,6 +1,6 @@
-# Unknown
+# Great Lakes Cheese of Tennessee, Inc.
 
-**Location:** Unknown, TN
+**Location:** Manchester, TN
 
 **EPA Facility ID:** 100000227505
 

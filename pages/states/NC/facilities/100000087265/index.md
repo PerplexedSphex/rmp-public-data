@@ -1,6 +1,6 @@
-# Unknown
+# FMC Corporation - Lithium Division
 
-**Location:** Unknown, NC
+**Location:** Bessemer City, NC
 
 **EPA Facility ID:** 100000087265
 

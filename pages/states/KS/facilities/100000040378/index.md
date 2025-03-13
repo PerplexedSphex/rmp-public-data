@@ -1,6 +1,6 @@
-# Unknown
+# Collingwood Grain, Inc. - Coolidge
 
-**Location:** Unknown, KS
+**Location:** Coolidge, KS
 
 **EPA Facility ID:** 100000040378
 

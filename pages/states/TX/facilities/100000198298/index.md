@@ -1,6 +1,6 @@
-# Unknown
+# OQ Chemicals - Bay City Plant
 
-**Location:** Unknown, TX
+**Location:** Bay City, TX
 
 **EPA Facility ID:** 100000198298
 

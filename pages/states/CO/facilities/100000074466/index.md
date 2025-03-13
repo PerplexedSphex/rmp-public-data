@@ -1,6 +1,6 @@
-# Unknown
+# Paradox Anhydrous Ammonia Plant
 
-**Location:** Unknown, CO
+**Location:** Paradox, CO
 
 **EPA Facility ID:** 100000074466
 

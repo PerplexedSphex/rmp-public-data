@@ -1,6 +1,6 @@
-# Unknown
+# Gordon Food Service
 
-**Location:** Unknown, MI
+**Location:** Wyoming, MI
 
 **EPA Facility ID:** 100000236247
 

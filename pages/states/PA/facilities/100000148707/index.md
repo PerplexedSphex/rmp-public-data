@@ -1,6 +1,6 @@
-# Unknown
+# Giant Eagle Fresh Foods
 
-**Location:** Unknown, PA
+**Location:** Freedom, PA
 
 **EPA Facility ID:** 100000148707
 

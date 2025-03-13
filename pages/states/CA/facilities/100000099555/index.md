@@ -1,6 +1,6 @@
-# Unknown
+# California Chemical Coachella Valley
 
-**Location:** Unknown, CA
+**Location:** Coachella, CA
 
 **EPA Facility ID:** 100000099555
 

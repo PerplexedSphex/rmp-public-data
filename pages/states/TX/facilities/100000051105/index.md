@@ -1,6 +1,6 @@
-# Unknown
+# United States Cold Storage, Arlington
 
-**Location:** Unknown, TX
+**Location:** Arlington, TX
 
 **EPA Facility ID:** 100000051105
 

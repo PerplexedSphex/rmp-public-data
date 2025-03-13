@@ -1,6 +1,6 @@
-# Unknown
+# PHILLIPSBURG NH3 Plant
 
-**Location:** Unknown, KS
+**Location:** PHILLIPSBURG, KS
 
 **EPA Facility ID:** 100000014879
 

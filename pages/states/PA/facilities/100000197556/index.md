@@ -1,6 +1,6 @@
-# Unknown
+# Midland LPG Terminal (BETIP)
 
-**Location:** Unknown, PA
+**Location:** Midland, PA
 
 **EPA Facility ID:** 100000197556
 

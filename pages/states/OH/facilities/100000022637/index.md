@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packaged Meats Corp. - Springdale, OH
 
-**Location:** Unknown, OH
+**Location:** Springdale, OH
 
 **EPA Facility ID:** 100000022637
 

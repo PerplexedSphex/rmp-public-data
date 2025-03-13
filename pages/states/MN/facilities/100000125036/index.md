@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Clinton
 
-**Location:** Unknown, MN
+**Location:** Clinton, MN
 
 **EPA Facility ID:** 100000125036
 

@@ -1,6 +1,6 @@
-# Unknown
+# Osram Sylvania Products, Inc.
 
-**Location:** Unknown, RI
+**Location:** Central Falls, RI
 
 **EPA Facility ID:** 100000074974
 

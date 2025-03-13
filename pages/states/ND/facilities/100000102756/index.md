@@ -1,6 +1,6 @@
-# Unknown
+# Little Knife Gas Plant
 
-**Location:** Unknown, ND
+**Location:** Killdeer, ND
 
 **EPA Facility ID:** 100000102756
 

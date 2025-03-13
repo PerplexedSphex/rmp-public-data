@@ -1,6 +1,6 @@
-# Unknown
+# Ckyde Cooperative Association
 
-**Location:** Unknown, OK
+**Location:** Medford, OK
 
 **EPA Facility ID:** 100000003079
 

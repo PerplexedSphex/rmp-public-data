@@ -1,6 +1,6 @@
-# Unknown
+# Rusk Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Rusk, TX
 
 **EPA Facility ID:** 100000180957
 

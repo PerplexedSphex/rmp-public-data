@@ -1,6 +1,6 @@
-# Unknown
+# Reser's Fine Foods, Inc. - Capitol Facility
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000248957
 

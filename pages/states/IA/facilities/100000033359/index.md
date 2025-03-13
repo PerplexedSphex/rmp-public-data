@@ -1,6 +1,6 @@
-# Unknown
+# L-W Service Company - EPP NH3
 
-**Location:** Unknown, IA
+**Location:** Brighton, IA
 
 **EPA Facility ID:** 100000033359
 

@@ -1,6 +1,6 @@
-# Unknown
+# Merchants Cold Storage, LLC.,
 
-**Location:** Unknown, KY
+**Location:** Walton, KY
 
 **EPA Facility ID:** 100000199251
 

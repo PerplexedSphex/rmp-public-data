@@ -1,6 +1,6 @@
-# Unknown
+# WASHITA FERTILIZER COMPANY, INC.
 
-**Location:** Unknown, OK
+**Location:** NINNEKAH, OK
 
 **EPA Facility ID:** 100000174214
 

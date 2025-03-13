@@ -1,6 +1,6 @@
-# Unknown
+# Krotz Springs Plant
 
-**Location:** Unknown, LA
+**Location:** Krotz Springs, LA
 
 **EPA Facility ID:** 100000176819
 

@@ -1,6 +1,6 @@
-# Unknown
+# TIER Environmental, LLC
 
-**Location:** Unknown, OH
+**Location:** Bedford, OH
 
 **EPA Facility ID:** 100000066894
 

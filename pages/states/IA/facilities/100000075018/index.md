@@ -1,6 +1,6 @@
-# Unknown
+# Two Rivers Cooperative - Leighton
 
-**Location:** Unknown, IA
+**Location:** Leighton, IA
 
 **EPA Facility ID:** 100000075018
 

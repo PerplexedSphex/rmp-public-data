@@ -1,6 +1,6 @@
-# Unknown
+# Clymers Farm Center
 
-**Location:** Unknown, IN
+**Location:** Logansport, IN
 
 **EPA Facility ID:** 100000059358
 

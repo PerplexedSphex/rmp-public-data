@@ -1,6 +1,6 @@
-# Unknown
+# Tom's Foods Inc. - Columbus Main Plant
 
-**Location:** Unknown, GA
+**Location:** Columbus, GA
 
 **EPA Facility ID:** 100000099868
 

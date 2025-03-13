@@ -1,6 +1,6 @@
-# Unknown
+# Allyn's Point Latex
 
-**Location:** Unknown, CT
+**Location:** Gales Ferry, CT
 
 **EPA Facility ID:** 100000026875
 

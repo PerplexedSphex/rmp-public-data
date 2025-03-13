@@ -1,6 +1,6 @@
-# Unknown
+# PLZ Corp - Coal City
 
-**Location:** Unknown, IL
+**Location:** Coal City, IL
 
 **EPA Facility ID:** 100000188511
 

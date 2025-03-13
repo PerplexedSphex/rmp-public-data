@@ -1,6 +1,6 @@
-# Unknown
+# College Hill Water Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Waco, KY
 
 **EPA Facility ID:** 100000146996
 

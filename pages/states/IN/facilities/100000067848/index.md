@@ -1,6 +1,6 @@
-# Unknown
+# Dreyer's Grand Ice Cream - Fort Wayne, IN
 
-**Location:** Unknown, IN
+**Location:** Fort Wayne, IN
 
 **EPA Facility ID:** 100000067848
 

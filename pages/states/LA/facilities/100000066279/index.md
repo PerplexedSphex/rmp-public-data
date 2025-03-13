@@ -1,6 +1,6 @@
-# Unknown
+# LaRoche Industries Inc., Holden, LA
 
-**Location:** Unknown, LA
+**Location:** Holden, LA
 
 **EPA Facility ID:** 100000066279
 

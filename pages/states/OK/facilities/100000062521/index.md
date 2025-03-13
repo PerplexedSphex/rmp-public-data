@@ -1,6 +1,6 @@
-# Unknown
+# Glenpool Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Glenpool, OK
 
 **EPA Facility ID:** 100000062521
 

@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** INDEPENDENCE, KS
 
 **EPA Facility ID:** 100000025288
 

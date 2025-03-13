@@ -1,6 +1,6 @@
-# Unknown
+# Seymour Terminal
 
-**Location:** Unknown, IN
+**Location:** Seymour, IN
 
 **EPA Facility ID:** 100000167268
 

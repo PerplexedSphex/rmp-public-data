@@ -1,6 +1,6 @@
-# Unknown
+# Bradford, OH 743 Satellite
 
-**Location:** Unknown, OH
+**Location:** Bradford, OH
 
 **EPA Facility ID:** 100000132091
 

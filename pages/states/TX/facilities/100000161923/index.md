@@ -1,6 +1,6 @@
-# Unknown
+# City of Edinburg Water Filtration Plant
 
-**Location:** Unknown, TX
+**Location:** Edinburg, TX
 
 **EPA Facility ID:** 100000161923
 

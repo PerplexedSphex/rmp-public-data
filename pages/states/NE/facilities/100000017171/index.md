@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Cooperative - Waverly East
 
-**Location:** Unknown, NE
+**Location:** Waverly, NE
 
 **EPA Facility ID:** 100000017171
 

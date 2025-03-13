@@ -1,6 +1,6 @@
-# Unknown
+# Rocky Creek Water Reclamation Facility (WRF)
 
-**Location:** Unknown, GA
+**Location:** Macon, GA
 
 **EPA Facility ID:** 100000136596
 

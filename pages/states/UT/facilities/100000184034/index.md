@@ -1,6 +1,6 @@
-# Unknown
+# DFA Dairy Brands Ice Cream, LLC dba Meadow Gold Ic
 
-**Location:** Unknown, UT
+**Location:** St. George, UT
 
 **EPA Facility ID:** 100000184034
 

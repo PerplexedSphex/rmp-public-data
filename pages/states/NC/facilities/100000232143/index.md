@@ -1,6 +1,6 @@
-# Unknown
+# Farm Supply Warehouse Hickory
 
-**Location:** Unknown, NC
+**Location:** Hickory, NC
 
 **EPA Facility ID:** 100000232143
 

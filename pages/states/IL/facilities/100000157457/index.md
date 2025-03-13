@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc - Lowder
 
-**Location:** Unknown, IL
+**Location:** Waverly, IL
 
 **EPA Facility ID:** 100000157457
 

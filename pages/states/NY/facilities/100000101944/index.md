@@ -1,6 +1,6 @@
-# Unknown
+# City of Beacon Wastewater Treatment Facility
 
-**Location:** Unknown, NY
+**Location:** Beacon, NY
 
 **EPA Facility ID:** 100000101944
 

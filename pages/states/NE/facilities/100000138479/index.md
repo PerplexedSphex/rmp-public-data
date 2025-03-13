@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC  -  HOLDREGE NORTH  
 
-**Location:** Unknown, NE
+**Location:** Holdrege, NE
 
 **EPA Facility ID:** 100000138479
 

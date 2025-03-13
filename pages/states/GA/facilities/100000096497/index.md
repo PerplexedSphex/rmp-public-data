@@ -1,6 +1,6 @@
-# Unknown
+# City of Gainesville Water Works
 
-**Location:** Unknown, GA
+**Location:** Gainesville, GA
 
 **EPA Facility ID:** 100000096497
 

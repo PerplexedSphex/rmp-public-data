@@ -1,6 +1,6 @@
-# Unknown
+# Battle Horse Plant
 
-**Location:** Unknown, TX
+**Location:** Brenham, TX
 
 **EPA Facility ID:** 100000242793
 

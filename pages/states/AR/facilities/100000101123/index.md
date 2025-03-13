@@ -1,6 +1,6 @@
-# Unknown
+# Pilgrim's Pride - Clinton Poultry Processing Plant
 
-**Location:** Unknown, AR
+**Location:** Clinton, AR
 
 **EPA Facility ID:** 100000101123
 

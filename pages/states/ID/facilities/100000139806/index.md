@@ -1,6 +1,6 @@
-# Unknown
+# Plant Foods, Inc
 
-**Location:** Unknown, ID
+**Location:** Filer, ID
 
 **EPA Facility ID:** 100000139806
 

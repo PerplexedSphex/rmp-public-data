@@ -1,6 +1,6 @@
-# Unknown
+# Chemours La Porte Plant
 
-**Location:** Unknown, TX
+**Location:** La Porte, TX
 
 **EPA Facility ID:** 100000229068
 

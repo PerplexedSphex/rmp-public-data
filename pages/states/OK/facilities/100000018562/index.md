@@ -1,6 +1,6 @@
-# Unknown
+# W.B. Johnston Grain Company - Renfrow, Oklahoma
 
-**Location:** Unknown, OK
+**Location:** Renfrow, OK
 
 **EPA Facility ID:** 100000018562
 

@@ -1,6 +1,6 @@
-# Unknown
+# Fremont Ice Packaging Facility
 
-**Location:** Unknown, CA
+**Location:** Fremont, CA
 
 **EPA Facility ID:** 100000177211
 

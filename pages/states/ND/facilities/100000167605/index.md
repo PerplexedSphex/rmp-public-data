@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Richardton
 
-**Location:** Unknown, ND
+**Location:** Richardton, ND
 
 **EPA Facility ID:** 100000167605
 

@@ -1,6 +1,6 @@
-# Unknown
+# Perryton Equity - Turpin, Oklahoma
 
-**Location:** Unknown, OK
+**Location:** Turpin, OK
 
 **EPA Facility ID:** 100000032323
 

@@ -1,6 +1,6 @@
-# Unknown
+# Curry County Fertilizer LLC. - North
 
-**Location:** Unknown, NM
+**Location:** Clovis, NM
 
 **EPA Facility ID:** 100000053773
 

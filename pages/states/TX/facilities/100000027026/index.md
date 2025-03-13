@@ -1,6 +1,6 @@
-# Unknown
+# Geronimo Creek Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Seguin, TX
 
 **EPA Facility ID:** 100000027026
 

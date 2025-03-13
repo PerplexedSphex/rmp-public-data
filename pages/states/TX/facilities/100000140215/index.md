@@ -1,6 +1,6 @@
-# Unknown
+# Southern Union Gas Company
 
-**Location:** Unknown, TX
+**Location:** La Blanca, TX
 
 **EPA Facility ID:** 100000140215
 

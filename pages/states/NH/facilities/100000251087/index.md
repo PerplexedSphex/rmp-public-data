@@ -1,6 +1,6 @@
-# Unknown
+# Canaan Bulk Plant
 
-**Location:** Unknown, NH
+**Location:** Canaan, NH
 
 **EPA Facility ID:** 100000251087
 

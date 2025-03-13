@@ -1,6 +1,6 @@
-# Unknown
+# Sika Corporation-Greer Plant
 
-**Location:** Unknown, SC
+**Location:** Greer, SC
 
 **EPA Facility ID:** 100000166198
 

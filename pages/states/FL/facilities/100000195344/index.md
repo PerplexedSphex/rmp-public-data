@@ -1,6 +1,6 @@
-# Unknown
+# Clean Harbors Florida LLC
 
-**Location:** Unknown, FL
+**Location:** Bartow, FL
 
 **EPA Facility ID:** 100000195344
 

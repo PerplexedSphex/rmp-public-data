@@ -1,6 +1,6 @@
-# Unknown
+# Enterprise Chaco Plant
 
-**Location:** Unknown, NM
+**Location:** Bloomfield, NM
 
 **EPA Facility ID:** 100000060667
 

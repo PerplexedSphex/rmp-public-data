@@ -1,6 +1,6 @@
-# Unknown
+# DuPont Dalton Site
 
-**Location:** Unknown, GA
+**Location:** Dalton, GA
 
 **EPA Facility ID:** 100000251906
 

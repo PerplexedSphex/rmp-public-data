@@ -1,6 +1,6 @@
-# Unknown
+# Whole Foods Midwest Distribution Center
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000236755
 

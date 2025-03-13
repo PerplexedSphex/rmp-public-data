@@ -1,6 +1,6 @@
-# Unknown
+# Mendota Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Miami, TX
 
 **EPA Facility ID:** 100000176711
 

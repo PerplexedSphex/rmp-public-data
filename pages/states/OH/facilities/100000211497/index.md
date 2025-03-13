@@ -1,6 +1,6 @@
-# Unknown
+# Owens Corning Foam Insulation, LLC - Tallmadge
 
-**Location:** Unknown, OH
+**Location:** Tallmadge, OH
 
 **EPA Facility ID:** 100000211497
 

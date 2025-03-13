@@ -1,6 +1,6 @@
-# Unknown
+# John Flannagan Water Authority
 
-**Location:** Unknown, VA
+**Location:** Haysi, VA
 
 **EPA Facility ID:** 100000082787
 

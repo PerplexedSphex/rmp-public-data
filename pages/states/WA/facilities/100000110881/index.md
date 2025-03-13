@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company (Tekoa, WA)
 
-**Location:** Unknown, WA
+**Location:** Tekoa, WA
 
 **EPA Facility ID:** 100000110881
 

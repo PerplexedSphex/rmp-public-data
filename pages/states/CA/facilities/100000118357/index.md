@@ -1,6 +1,6 @@
-# Unknown
+# Kern Ridge Growers, LLC (Arvin)
 
-**Location:** Unknown, CA
+**Location:** Arvin, CA
 
 **EPA Facility ID:** 100000118357
 

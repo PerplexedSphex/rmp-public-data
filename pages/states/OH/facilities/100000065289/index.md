@@ -1,6 +1,6 @@
-# Unknown
+# City of Findlay Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Findlay, OH
 
 **EPA Facility ID:** 100000065289
 

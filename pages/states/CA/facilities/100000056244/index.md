@@ -1,6 +1,6 @@
-# Unknown
+# OLS Energy-Chino Cogeneration Facility
 
-**Location:** Unknown, CA
+**Location:** Chino, CA
 
 **EPA Facility ID:** 100000056244
 

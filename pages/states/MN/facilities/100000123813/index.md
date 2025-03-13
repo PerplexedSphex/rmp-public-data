@@ -1,6 +1,6 @@
-# Unknown
+# SCHWAN'S FOOD MANUFACTURING, INC.
 
-**Location:** Unknown, MN
+**Location:** NORWOODYOUNGAMERICA, MN
 
 **EPA Facility ID:** 100000123813
 

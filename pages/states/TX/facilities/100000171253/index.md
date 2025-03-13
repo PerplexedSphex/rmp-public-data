@@ -1,6 +1,6 @@
-# Unknown
+# Sweetwater Creek Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Decatur, TX
 
 **EPA Facility ID:** 100000171253
 

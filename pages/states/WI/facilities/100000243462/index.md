@@ -1,6 +1,6 @@
-# Unknown
+# U.S. Energy RNG Facility Dallmann
 
-**Location:** Unknown, WI
+**Location:** Brillion, WI
 
 **EPA Facility ID:** 100000243462
 

@@ -1,6 +1,6 @@
-# Unknown
+# Grand Glaize Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Valley Park, MO
 
 **EPA Facility ID:** 100000109768
 

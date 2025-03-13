@@ -1,6 +1,6 @@
-# Unknown
+# Farmer's Coop / Ionia
 
-**Location:** Unknown, IA
+**Location:** Ionia, IA
 
 **EPA Facility ID:** 100000089352
 

@@ -1,6 +1,6 @@
-# Unknown
+# River Valley Cooperative - Geneseo
 
-**Location:** Unknown, IL
+**Location:** Geneseo, IL
 
 **EPA Facility ID:** 100000007486
 

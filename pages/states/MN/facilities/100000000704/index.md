@@ -1,6 +1,6 @@
-# Unknown
+# Chandler Coop
 
-**Location:** Unknown, MN
+**Location:** Lake Wilson, MN
 
 **EPA Facility ID:** 100000000704
 

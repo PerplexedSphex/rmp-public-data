@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Inc. - Springfield
 
-**Location:** Unknown, OR
+**Location:** SPRINGFIELD, OR
 
 **EPA Facility ID:** 100000049645
 

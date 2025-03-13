@@ -1,6 +1,6 @@
-# Unknown
+# Riverside Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Johnstown, PA 15904, PA
 
 **EPA Facility ID:** 100000096228
 

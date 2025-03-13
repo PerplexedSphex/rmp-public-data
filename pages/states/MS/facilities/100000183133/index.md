@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. - West Point
 
-**Location:** Unknown, MS
+**Location:** West Point, MS
 
 **EPA Facility ID:** 100000183133
 

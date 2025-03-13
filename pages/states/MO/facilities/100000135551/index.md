@@ -1,6 +1,6 @@
-# Unknown
+# Ajinomoto Foods
 
-**Location:** Unknown, MO
+**Location:** Carthage, MO
 
 **EPA Facility ID:** 100000135551
 

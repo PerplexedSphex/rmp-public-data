@@ -1,6 +1,6 @@
-# Unknown
+# Heron Lake BioEnergy, LLC
 
-**Location:** Unknown, MN
+**Location:** Heron Lake, MN
 
 **EPA Facility ID:** 100000199625
 

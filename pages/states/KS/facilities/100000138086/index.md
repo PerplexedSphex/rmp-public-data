@@ -1,6 +1,6 @@
-# Unknown
+# City of Chanute Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Chanute, KS
 
 **EPA Facility ID:** 100000138086
 

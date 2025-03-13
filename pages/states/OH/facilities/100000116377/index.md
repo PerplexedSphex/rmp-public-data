@@ -1,6 +1,6 @@
-# Unknown
+# Leipsic, OH 630
 
-**Location:** Unknown, OH
+**Location:** Leipsic, OH
 
 **EPA Facility ID:** 100000116377
 

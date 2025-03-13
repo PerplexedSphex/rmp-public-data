@@ -1,6 +1,6 @@
-# Unknown
+# East Chicago Water Filtration Plant
 
-**Location:** Unknown, IN
+**Location:** East Chicago, IN
 
 **EPA Facility ID:** 100000024225
 

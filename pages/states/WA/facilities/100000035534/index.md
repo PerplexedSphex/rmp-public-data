@@ -1,6 +1,6 @@
-# Unknown
+# Pomeroy, WA
 
-**Location:** Unknown, WA
+**Location:** Pomeroy, WA
 
 **EPA Facility ID:** 100000035534
 

@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Fresh Meats, Inc-Emporia, KS
 
-**Location:** Unknown, KS
+**Location:** Emporia, KS
 
 **EPA Facility ID:** 100000009661
 

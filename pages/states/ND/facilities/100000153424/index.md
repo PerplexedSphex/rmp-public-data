@@ -1,6 +1,6 @@
-# Unknown
+# Allied Agronomy,  - Jud
 
-**Location:** Unknown, ND
+**Location:** Jud, ND
 
 **EPA Facility ID:** 100000153424
 

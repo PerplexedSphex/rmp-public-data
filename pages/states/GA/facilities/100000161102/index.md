@@ -1,6 +1,6 @@
-# Unknown
+# Lanier Filter Plant
 
-**Location:** Unknown, GA
+**Location:** Buford, GA
 
 **EPA Facility ID:** 100000161102
 

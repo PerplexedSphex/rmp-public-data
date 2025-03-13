@@ -1,6 +1,6 @@
-# Unknown
+# Tin Products, Inc.
 
-**Location:** Unknown, SC
+**Location:** Lexington, SC
 
 **EPA Facility ID:** 100000128916
 

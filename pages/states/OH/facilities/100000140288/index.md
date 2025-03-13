@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Fairfield OH
 
-**Location:** Unknown, OH
+**Location:** Fairfield, OH
 
 **EPA Facility ID:** 100000140288
 

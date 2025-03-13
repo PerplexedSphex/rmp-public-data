@@ -1,6 +1,6 @@
-# Unknown
+# Coldpoint Logistics
 
-**Location:** Unknown, KS
+**Location:** Edgerton, KS
 
 **EPA Facility ID:** 100000235907
 

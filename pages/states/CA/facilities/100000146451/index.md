@@ -1,6 +1,6 @@
-# Unknown
+# Inglewood Gas Plant
 
-**Location:** Unknown, CA
+**Location:** Los Angeles, CA
 
 **EPA Facility ID:** 100000146451
 

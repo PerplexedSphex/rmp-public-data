@@ -1,6 +1,6 @@
-# Unknown
+# Paden Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Paden, OK
 
 **EPA Facility ID:** 100000206369
 

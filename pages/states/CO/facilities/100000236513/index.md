@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Yuma
 
-**Location:** Unknown, CO
+**Location:** Yuma, CO
 
 **EPA Facility ID:** 100000236513
 

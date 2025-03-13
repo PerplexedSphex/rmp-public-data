@@ -1,6 +1,6 @@
-# Unknown
+# US Foods Spokane
 
-**Location:** Unknown, WA
+**Location:** Spokane Valley, WA
 
 **EPA Facility ID:** 100000253227
 

@@ -1,6 +1,6 @@
-# Unknown
+# Marion Generating Station
 
-**Location:** Unknown, IL
+**Location:** Marion, IL
 
 **EPA Facility ID:** 100000158287
 

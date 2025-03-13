@@ -1,6 +1,6 @@
-# Unknown
+# Echo Lake Foods - Owensboro
 
-**Location:** Unknown, KY
+**Location:** Owensboro, KY
 
 **EPA Facility ID:** 100000223938
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gold Star FS Inc.- Galt
 
-**Location:** Unknown, IL
+**Location:** Galt, IL
 
 **EPA Facility ID:** 100000144042
 

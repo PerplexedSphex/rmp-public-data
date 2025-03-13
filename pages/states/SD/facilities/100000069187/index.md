@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.-Pierre
 
-**Location:** Unknown, SD
+**Location:** Pierre, SD
 
 **EPA Facility ID:** 100000069187
 

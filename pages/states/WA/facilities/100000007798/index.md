@@ -1,6 +1,6 @@
-# Unknown
+# Stemilt Growers Miller Street Facility
 
-**Location:** Unknown, WA
+**Location:** Wenatchee, WA
 
 **EPA Facility ID:** 100000007798
 

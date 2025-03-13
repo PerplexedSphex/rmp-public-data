@@ -1,6 +1,6 @@
-# Unknown
+# SYNTECH CHEMICALS
 
-**Location:** Unknown, TX
+**Location:** HOUSTON, TX
 
 **EPA Facility ID:** 100000243961
 

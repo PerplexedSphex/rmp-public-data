@@ -1,6 +1,6 @@
-# Unknown
+# LaCygne Generating Station
 
-**Location:** Unknown, KS
+**Location:** LaCygne, KS
 
 **EPA Facility ID:** 100000198751
 

@@ -1,6 +1,6 @@
-# Unknown
+# Industrial Solution Services, Inc.
 
-**Location:** Unknown, CA
+**Location:** Stockton, CA
 
 **EPA Facility ID:** 100000229228
 

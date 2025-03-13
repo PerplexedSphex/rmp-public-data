@@ -1,6 +1,6 @@
-# Unknown
+# Cheney Gas Plant
 
-**Location:** Unknown, KS
+**Location:** Cheney, KS
 
 **EPA Facility ID:** 100000063405
 

@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company, Holtville, CA
 
-**Location:** Unknown, CA
+**Location:** Holtville, CA
 
 **EPA Facility ID:** 100000038693
 

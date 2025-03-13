@@ -1,6 +1,6 @@
-# Unknown
+# Net-Zero Richardton, LLC
 
-**Location:** Unknown, ND
+**Location:** Richardton, ND
 
 **EPA Facility ID:** 100000197583
 

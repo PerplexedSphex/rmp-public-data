@@ -1,6 +1,6 @@
-# Unknown
+# Golden Valley, Inc, Sanford
 
-**Location:** Unknown, KS
+**Location:** Larned, KS
 
 **EPA Facility ID:** 100000011578
 

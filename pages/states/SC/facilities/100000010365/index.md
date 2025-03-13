@@ -1,6 +1,6 @@
-# Unknown
+# Georgia-Pacific Chemicals LLC - Russellville Plant
 
-**Location:** Unknown, SC
+**Location:** Russellville, SC
 
 **EPA Facility ID:** 100000010365
 

@@ -1,6 +1,6 @@
-# Unknown
+# Seneca Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Seneca, SC
 
 **EPA Facility ID:** 100000068525
 

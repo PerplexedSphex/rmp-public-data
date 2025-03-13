@@ -1,6 +1,6 @@
-# Unknown
+# New Castle Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** New Castle, PA
 
 **EPA Facility ID:** 100000000072
 

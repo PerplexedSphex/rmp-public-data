@@ -1,6 +1,6 @@
-# Unknown
+# Express Packaging of NC
 
-**Location:** Unknown, NC
+**Location:** Lumberton, NC
 
 **EPA Facility ID:** 100000093695
 

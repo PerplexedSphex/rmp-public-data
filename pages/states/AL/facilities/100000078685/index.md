@@ -1,6 +1,6 @@
-# Unknown
+# Industrial Chemicals Inc.
 
-**Location:** Unknown, AL
+**Location:** Mobile, AL
 
 **EPA Facility ID:** 100000078685
 

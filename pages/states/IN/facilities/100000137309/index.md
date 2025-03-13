@@ -1,6 +1,6 @@
-# Unknown
+# JCI Jones Chemicals, Inc. - Beech Grove, IN
 
-**Location:** Unknown, IN
+**Location:** Beech Grove, IN
 
 **EPA Facility ID:** 100000137309
 

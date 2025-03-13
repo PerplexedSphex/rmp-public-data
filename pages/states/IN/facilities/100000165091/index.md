@@ -1,6 +1,6 @@
-# Unknown
+# Columbus Wastewater Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** Columbus, IN
 
 **EPA Facility ID:** 100000165091
 

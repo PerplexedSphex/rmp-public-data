@@ -1,6 +1,6 @@
-# Unknown
+# P. B. & S. CHEMICAL COMPANY, INC. (60)
 
-**Location:** Unknown, WV
+**Location:** Proctor, WV
 
 **EPA Facility ID:** 100000044187
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sunray Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Sunray, TX
 
 **EPA Facility ID:** 100000120219
 

@@ -1,6 +1,6 @@
-# Unknown
+# Pueblo West Water Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Pueblo West, CO
 
 **EPA Facility ID:** 100000079069
 

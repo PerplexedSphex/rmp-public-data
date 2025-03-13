@@ -1,6 +1,6 @@
-# Unknown
+# Owensboro Grain Edible Oils, LLC
 
-**Location:** Unknown, KY
+**Location:** Owensboro, KY
 
 **EPA Facility ID:** 100000131886
 

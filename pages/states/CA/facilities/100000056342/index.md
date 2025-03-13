@@ -1,6 +1,6 @@
-# Unknown
+# Sterigenics US, LLC (Ontario)
 
-**Location:** Unknown, CA
+**Location:** Ontario, CA
 
 **EPA Facility ID:** 100000056342
 

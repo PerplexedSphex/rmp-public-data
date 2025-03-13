@@ -1,6 +1,6 @@
-# Unknown
+# Streetsboro-Hudson WWTP
 
-**Location:** Unknown, OH
+**Location:** Streetsboro, OH
 
 **EPA Facility ID:** 100000039852
 

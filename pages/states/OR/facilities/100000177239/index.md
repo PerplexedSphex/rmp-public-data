@@ -1,6 +1,6 @@
-# Unknown
+# Grain Craft - Pendleton
 
-**Location:** Unknown, OR
+**Location:** Pendleton, OR
 
 **EPA Facility ID:** 100000177239
 

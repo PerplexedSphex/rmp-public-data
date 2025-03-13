@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Graceville
 
-**Location:** Unknown, MN
+**Location:** Graceville, MN
 
 **EPA Facility ID:** 100000021433
 

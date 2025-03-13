@@ -1,6 +1,6 @@
-# Unknown
+# Lewistown Propane & Fertilizer Co-Points North Pla
 
-**Location:** Unknown, MT
+**Location:** Garneill, MT
 
 **EPA Facility ID:** 100000150542
 

@@ -1,6 +1,6 @@
-# Unknown
+# MEAG Plant Wansley Unit 9
 
-**Location:** Unknown, GA
+**Location:** Franklin, GA
 
 **EPA Facility ID:** 100000184784
 

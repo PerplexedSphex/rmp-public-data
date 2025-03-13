@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Coop Elevator Co.
 
-**Location:** Unknown, MN
+**Location:** Rushford, MN
 
 **EPA Facility ID:** 100000003382
 

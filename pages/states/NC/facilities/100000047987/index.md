@@ -1,6 +1,6 @@
-# Unknown
+# Franklin Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000047987
 

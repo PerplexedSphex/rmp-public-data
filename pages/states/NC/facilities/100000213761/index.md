@@ -1,6 +1,6 @@
-# Unknown
+# Global Companies - Fayetteville Terminal
 
-**Location:** Unknown, NC
+**Location:** Fayetteville, NC
 
 **EPA Facility ID:** 100000213761
 

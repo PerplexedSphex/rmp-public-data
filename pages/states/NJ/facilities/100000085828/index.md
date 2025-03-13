@@ -1,6 +1,6 @@
-# Unknown
+# State Metal Industries, Inc.
 
-**Location:** Unknown, NJ
+**Location:** Camden, NJ
 
 **EPA Facility ID:** 100000085828
 

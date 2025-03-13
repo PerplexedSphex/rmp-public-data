@@ -1,6 +1,6 @@
-# Unknown
+# Land View, Inc.  (Minidoka)
 
-**Location:** Unknown, ID
+**Location:** Rupert, ID
 
 **EPA Facility ID:** 100000098798
 

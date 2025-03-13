@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant #3
 
-**Location:** Unknown, UT
+**Location:** Layton, UT
 
 **EPA Facility ID:** 100000000768
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sysco Detroit, LLC
 
-**Location:** Unknown, MI
+**Location:** Canton, MI
 
 **EPA Facility ID:** 100000081225
 

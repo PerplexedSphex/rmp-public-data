@@ -1,6 +1,6 @@
-# Unknown
+# Lake Worth Water Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Lake Worth, FL
 
 **EPA Facility ID:** 100000095853
 

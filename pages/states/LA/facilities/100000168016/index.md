@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Inc. - Geismar Facility
 
-**Location:** Unknown, LA
+**Location:** Geismar, LA
 
 **EPA Facility ID:** 100000168016
 

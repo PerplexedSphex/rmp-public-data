@@ -1,6 +1,6 @@
-# Unknown
+# Plant Hammond
 
-**Location:** Unknown, GA
+**Location:** Rome, GA
 
 **EPA Facility ID:** 100000178238
 

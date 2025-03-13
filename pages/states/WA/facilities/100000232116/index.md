@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. Northwest - Yakima Propane
 
-**Location:** Unknown, WA
+**Location:** Yakima, WA
 
 **EPA Facility ID:** 100000232116
 

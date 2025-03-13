@@ -1,6 +1,6 @@
-# Unknown
+# Lambent Technologies Corporation, Skokie Facility
 
-**Location:** Unknown, IL
+**Location:** Skokie, IL
 
 **EPA Facility ID:** 100000122137
 

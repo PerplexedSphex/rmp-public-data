@@ -1,6 +1,6 @@
-# Unknown
+# The NutraSweet Company
 
-**Location:** Unknown, GA
+**Location:** Augusta, GA
 
 **EPA Facility ID:** 100000112077
 

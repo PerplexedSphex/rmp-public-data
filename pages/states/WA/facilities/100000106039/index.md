@@ -1,6 +1,6 @@
-# Unknown
+# Sumas Cogeneration
 
-**Location:** Unknown, WA
+**Location:** Sumas, WA
 
 **EPA Facility ID:** 100000106039
 

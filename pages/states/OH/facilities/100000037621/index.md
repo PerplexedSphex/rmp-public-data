@@ -1,6 +1,6 @@
-# Unknown
+# CITY OF ELYRIA WATER WORKS
 
-**Location:** Unknown, OH
+**Location:** LORAIN, OH
 
 **EPA Facility ID:** 100000037621
 

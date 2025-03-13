@@ -1,6 +1,6 @@
-# Unknown
+# Ida Grove, IA 6016
 
-**Location:** Unknown, IA
+**Location:** Ida Grove, IA
 
 **EPA Facility ID:** 100000082153
 

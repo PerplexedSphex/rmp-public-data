@@ -1,6 +1,6 @@
-# Unknown
+# Snyder Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Snyder, TX
 
 **EPA Facility ID:** 100000157938
 

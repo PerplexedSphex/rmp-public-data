@@ -1,6 +1,6 @@
-# Unknown
+# TYSON FARMS, INC. - FRESH RETAIL DIVISION
 
-**Location:** Unknown, NC
+**Location:** Wilkesboro, NC
 
 **EPA Facility ID:** 100000052462
 

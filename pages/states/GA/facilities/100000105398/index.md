@@ -1,6 +1,6 @@
-# Unknown
+# Etowah River Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Ballground, GA
 
 **EPA Facility ID:** 100000105398
 

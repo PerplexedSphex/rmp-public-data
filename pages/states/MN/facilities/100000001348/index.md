@@ -1,6 +1,6 @@
-# Unknown
+# RED LAKE COUNTY CO-OP-BROOKS
 
-**Location:** Unknown, MN
+**Location:** BROOKS, MN
 
 **EPA Facility ID:** 100000001348
 

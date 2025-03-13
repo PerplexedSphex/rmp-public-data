@@ -1,6 +1,6 @@
-# Unknown
+# Tremonton City Wastewater Treatment Facility
 
-**Location:** Unknown, UT
+**Location:** Tremonton, UT
 
 **EPA Facility ID:** 100000152354
 

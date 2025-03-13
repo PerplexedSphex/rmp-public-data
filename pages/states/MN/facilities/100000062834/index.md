@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.-Kennedy
 
-**Location:** Unknown, MN
+**Location:** Kennedy, MN
 
 **EPA Facility ID:** 100000062834
 

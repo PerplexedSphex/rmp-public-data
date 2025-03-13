@@ -1,6 +1,6 @@
-# Unknown
+# HATTIESBURG GAS STORAGE COMPANY
 
-**Location:** Unknown, MS
+**Location:** PETAL, MS
 
 **EPA Facility ID:** 100000060195
 

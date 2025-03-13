@@ -1,6 +1,6 @@
-# Unknown
+# Land View Fertilizer Inc., Garland
 
-**Location:** Unknown, UT
+**Location:** Garland, UT
 
 **EPA Facility ID:** 100000094685
 

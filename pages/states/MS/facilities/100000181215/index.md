@@ -1,6 +1,6 @@
-# Unknown
+# W. Jackson County Regional WWTF
 
-**Location:** Unknown, MS
+**Location:** Ocean Springs, MS
 
 **EPA Facility ID:** 100000181215
 

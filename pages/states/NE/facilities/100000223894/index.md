@@ -1,6 +1,6 @@
-# Unknown
+# Johnson, NE 6039
 
-**Location:** Unknown, NE
+**Location:** Johnson, NE
 
 **EPA Facility ID:** 100000223894
 

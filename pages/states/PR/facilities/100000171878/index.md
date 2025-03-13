@@ -1,6 +1,6 @@
-# Unknown
+# Lajas Water Filtration Plant
 
-**Location:** Unknown, PR
+**Location:** Lajas, PR
 
 **EPA Facility ID:** 100000171878
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rinchem Company, Inc. Chaparral Facility
 
-**Location:** Unknown, NM
+**Location:** Chaparral, NM
 
 **EPA Facility ID:** 100000170432
 

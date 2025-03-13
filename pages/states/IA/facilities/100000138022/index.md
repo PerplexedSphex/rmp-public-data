@@ -1,6 +1,6 @@
-# Unknown
+# Equistar Chemicals, LP River Terminal
 
-**Location:** Unknown, IA
+**Location:** Clinton, IA
 
 **EPA Facility ID:** 100000138022
 

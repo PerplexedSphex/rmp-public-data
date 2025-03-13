@@ -1,6 +1,6 @@
-# Unknown
+# Whirlpool Corporation - Amana Division
 
-**Location:** Unknown, IA
+**Location:** Amana, IA
 
 **EPA Facility ID:** 100000245745
 

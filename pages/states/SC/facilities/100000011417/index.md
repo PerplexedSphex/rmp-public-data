@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Sumter
 
-**Location:** Unknown, SC
+**Location:** Sumter, SC
 
 **EPA Facility ID:** 100000011417
 

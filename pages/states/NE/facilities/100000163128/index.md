@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Sodtown NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Ravenna, NE
 
 **EPA Facility ID:** 100000163128
 

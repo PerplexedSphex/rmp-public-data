@@ -1,6 +1,6 @@
-# Unknown
+# Barber Foods
 
-**Location:** Unknown, ME
+**Location:** Portland, ME
 
 **EPA Facility ID:** 100000134801
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Colby
 
-**Location:** Unknown, KS
+**Location:** Colby, KS
 
 **EPA Facility ID:** 100000024699
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sawyer Water Purification Plant (SWPP)
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000045159
 

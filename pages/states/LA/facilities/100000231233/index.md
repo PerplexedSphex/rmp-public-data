@@ -1,6 +1,6 @@
-# Unknown
+# Aurorium Denham Springs LLC
 
-**Location:** Unknown, LA
+**Location:** Denham Springs, LA
 
 **EPA Facility ID:** 100000231233
 

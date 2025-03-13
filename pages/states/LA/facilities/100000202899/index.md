@@ -1,6 +1,6 @@
-# Unknown
+# Shintech Plaquemine Plant 
 
-**Location:** Unknown, LA
+**Location:** Plaquemine, LA
 
 **EPA Facility ID:** 100000202899
 

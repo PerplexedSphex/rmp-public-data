@@ -1,6 +1,6 @@
-# Unknown
+# Scott City, KS 5524
 
-**Location:** Unknown, KS
+**Location:** Scott City, KS
 
 **EPA Facility ID:** 100000150953
 

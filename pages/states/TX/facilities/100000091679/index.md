@@ -1,6 +1,6 @@
-# Unknown
+# Clorox Products Manufacturing Company
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000091679
 

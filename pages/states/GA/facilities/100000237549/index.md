@@ -1,6 +1,6 @@
-# Unknown
+# Rise Baking Company
 
-**Location:** Unknown, GA
+**Location:** Tucker, GA
 
 **EPA Facility ID:** 100000237549
 

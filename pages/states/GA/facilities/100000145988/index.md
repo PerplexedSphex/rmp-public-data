@@ -1,6 +1,6 @@
-# Unknown
+# Luke Oil & Fertilizer, Inc.
 
-**Location:** Unknown, GA
+**Location:** Ocilla, GA
 
 **EPA Facility ID:** 100000145988
 

@@ -1,6 +1,6 @@
-# Unknown
+# Nash Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Nash, OK
 
 **EPA Facility ID:** 100000209561
 

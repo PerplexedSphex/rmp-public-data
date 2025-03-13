@@ -1,6 +1,6 @@
-# Unknown
+# Daniels Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Siloam Springs, AR
 
 **EPA Facility ID:** 100000030806
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lac Qui Parle Co-op Oil Co.
 
-**Location:** Unknown, MN
+**Location:** Dawson, MN
 
 **EPA Facility ID:** 100000002025
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.  - Selkirk
 
-**Location:** Unknown, KS
+**Location:** Selkirk, KS
 
 **EPA Facility ID:** 100000151097
 

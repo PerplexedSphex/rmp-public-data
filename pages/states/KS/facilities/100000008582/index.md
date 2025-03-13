@@ -1,6 +1,6 @@
-# Unknown
+# Scott Cooperative Association - Pence
 
-**Location:** Unknown, KS
+**Location:** Scott City, KS
 
 **EPA Facility ID:** 100000008582
 

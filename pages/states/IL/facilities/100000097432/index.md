@@ -1,6 +1,6 @@
-# Unknown
+# CHASE PRODUCTS CO.
 
-**Location:** Unknown, IL
+**Location:** BROADVIEW, IL
 
 **EPA Facility ID:** 100000097432
 

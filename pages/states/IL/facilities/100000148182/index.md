@@ -1,6 +1,6 @@
-# Unknown
+# Gateway Coop Nekoma
 
-**Location:** Unknown, IL
+**Location:** Altona, IL
 
 **EPA Facility ID:** 100000148182
 

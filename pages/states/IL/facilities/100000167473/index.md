@@ -1,6 +1,6 @@
-# Unknown
+# W R Yakey Grain Co
 
-**Location:** Unknown, IL
+**Location:** Mode, IL
 
 **EPA Facility ID:** 100000167473
 

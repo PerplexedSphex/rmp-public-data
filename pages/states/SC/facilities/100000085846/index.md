@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Piedmont
 
-**Location:** Unknown, SC
+**Location:** Piedmont, SC
 
 **EPA Facility ID:** 100000085846
 

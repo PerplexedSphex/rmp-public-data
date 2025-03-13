@@ -1,6 +1,6 @@
-# Unknown
+# TYSON POULTRY, INC. CHICK-N-QUICK
 
-**Location:** Unknown, AR
+**Location:** ROGERS, AR
 
 **EPA Facility ID:** 100000171164
 

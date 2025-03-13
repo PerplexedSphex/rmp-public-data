@@ -1,6 +1,6 @@
-# Unknown
+# ST CLAIR SERVICE CO  (BELLEVILLE)
 
-**Location:** Unknown, IL
+**Location:** BELLEVILLE, IL
 
 **EPA Facility ID:** 100000049869
 

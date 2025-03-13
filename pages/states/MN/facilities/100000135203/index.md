@@ -1,6 +1,6 @@
-# Unknown
+# Lake Lillian
 
-**Location:** Unknown, MN
+**Location:** Lake Lillian, MN
 
 **EPA Facility ID:** 100000135203
 

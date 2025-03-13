@@ -1,6 +1,6 @@
-# Unknown
+# Thomaston Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Thomaston, GA
 
 **EPA Facility ID:** 100000234828
 

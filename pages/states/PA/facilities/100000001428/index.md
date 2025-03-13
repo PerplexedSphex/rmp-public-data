@@ -1,6 +1,6 @@
-# Unknown
+# East Brady Pump Station
 
-**Location:** Unknown, PA
+**Location:** East Brady, PA
 
 **EPA Facility ID:** 100000001428
 

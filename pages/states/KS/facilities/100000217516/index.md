@@ -1,6 +1,6 @@
-# Unknown
+# COMPTON NH3 PLANT
 
-**Location:** Unknown, KS
+**Location:** Scott City, KS
 
 **EPA Facility ID:** 100000217516
 

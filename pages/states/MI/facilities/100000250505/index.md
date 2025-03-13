@@ -1,6 +1,6 @@
-# Unknown
+# Ottawa Lake Co-Op - Britton
 
-**Location:** Unknown, MI
+**Location:** Britton, MI
 
 **EPA Facility ID:** 100000250505
 

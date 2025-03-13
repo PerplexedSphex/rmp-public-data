@@ -1,6 +1,6 @@
-# Unknown
+# Milner Injection
 
-**Location:** Unknown, ID
+**Location:** Murtaugh, ID
 
 **EPA Facility ID:** 100000252843
 

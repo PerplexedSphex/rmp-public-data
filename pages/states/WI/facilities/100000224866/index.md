@@ -1,6 +1,6 @@
-# Unknown
+# LUX
 
-**Location:** Unknown, WI
+**Location:** Luxemburg, WI
 
 **EPA Facility ID:** 100000224866
 

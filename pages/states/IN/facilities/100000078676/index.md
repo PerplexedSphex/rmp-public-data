@@ -1,6 +1,6 @@
-# Unknown
+# Benton Crop Center
 
-**Location:** Unknown, IN
+**Location:** Goshen, IN
 
 **EPA Facility ID:** 100000078676
 

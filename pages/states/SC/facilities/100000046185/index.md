@@ -1,6 +1,6 @@
-# Unknown
+# Kingstree Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Kingstree, SC
 
 **EPA Facility ID:** 100000046185
 

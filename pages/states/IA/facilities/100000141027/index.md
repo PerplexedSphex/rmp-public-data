@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Luther
 
-**Location:** Unknown, IA
+**Location:** Luther, IA
 
 **EPA Facility ID:** 100000141027
 

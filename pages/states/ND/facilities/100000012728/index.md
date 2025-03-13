@@ -1,6 +1,6 @@
-# Unknown
+# Modern Grain, Inc.
 
-**Location:** Unknown, ND
+**Location:** New Salem, ND
 
 **EPA Facility ID:** 100000012728
 

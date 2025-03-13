@@ -1,6 +1,6 @@
-# Unknown
+# City of Gardner, Hillsdale Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Spring Hill, KS
 
 **EPA Facility ID:** 100000076062
 

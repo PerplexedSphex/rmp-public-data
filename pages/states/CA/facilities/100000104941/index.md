@@ -1,6 +1,6 @@
-# Unknown
+# Sumitomo Sitix Silicon, Inc., Fremont Div.
 
-**Location:** Unknown, CA
+**Location:** Fremont, CA
 
 **EPA Facility ID:** 100000104941
 

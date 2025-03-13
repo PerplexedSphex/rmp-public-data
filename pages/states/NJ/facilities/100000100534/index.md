@@ -1,6 +1,6 @@
-# Unknown
+# Carneys Point Generating Plant
 
-**Location:** Unknown, NJ
+**Location:** Carneys Point, NJ
 
 **EPA Facility ID:** 100000100534
 

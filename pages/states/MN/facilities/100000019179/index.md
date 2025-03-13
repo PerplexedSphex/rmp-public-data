@@ -1,6 +1,6 @@
-# Unknown
+# New Vision Coop
 
-**Location:** Unknown, MN
+**Location:** Reading, MN
 
 **EPA Facility ID:** 100000019179
 

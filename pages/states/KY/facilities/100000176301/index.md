@@ -1,6 +1,6 @@
-# Unknown
+# Franklin Wastewater Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Franklin, KY
 
 **EPA Facility ID:** 100000176301
 

@@ -1,6 +1,6 @@
-# Unknown
+# Union Mills, IN
 
-**Location:** Unknown, IN
+**Location:** Union Mills, IN
 
 **EPA Facility ID:** 100000108938
 

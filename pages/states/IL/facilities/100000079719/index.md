@@ -1,6 +1,6 @@
-# Unknown
+# Joy, IL
 
-**Location:** Unknown, IL
+**Location:** Joy, IL
 
 **EPA Facility ID:** 100000079719
 

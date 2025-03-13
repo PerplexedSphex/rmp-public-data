@@ -1,6 +1,6 @@
-# Unknown
+# Sodus Cold Storage Co., Inc.
 
-**Location:** Unknown, NY
+**Location:** Sodus, NY
 
 **EPA Facility ID:** 100000174143
 

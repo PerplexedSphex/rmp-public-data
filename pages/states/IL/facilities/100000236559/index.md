@@ -1,6 +1,6 @@
-# Unknown
+# Gateway FS, Inc. - Baldwin
 
-**Location:** Unknown, IL
+**Location:** Red Bud, IL
 
 **EPA Facility ID:** 100000236559
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Allentown Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Allentown, PA
 
 **EPA Facility ID:** 100000056565
 

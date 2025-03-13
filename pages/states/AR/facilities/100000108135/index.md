@@ -1,6 +1,6 @@
-# Unknown
+# Great Lakes Chemical, Newell Plant
 
-**Location:** Unknown, AR
+**Location:** El Dorado, AR
 
 **EPA Facility ID:** 100000108135
 

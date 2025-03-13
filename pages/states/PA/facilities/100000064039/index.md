@@ -1,6 +1,6 @@
-# Unknown
+# Equity Group - Pennsylvania Division
 
-**Location:** Unknown, PA
+**Location:** Folcroft, PA
 
 **EPA Facility ID:** 100000064039
 

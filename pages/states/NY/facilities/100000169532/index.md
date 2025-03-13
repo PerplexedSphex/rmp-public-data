@@ -1,6 +1,6 @@
-# Unknown
+# City of Hornell Water Treatment Plant
 
-**Location:** Unknown, NY
+**Location:** Hornell, NY
 
 **EPA Facility ID:** 100000169532
 

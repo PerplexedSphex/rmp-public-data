@@ -1,6 +1,6 @@
-# Unknown
+# South Canadian Natural Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Calumet, OK
 
 **EPA Facility ID:** 100000217856
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cosumnes Power Plant
 
-**Location:** Unknown, CA
+**Location:** Herald, CA
 
 **EPA Facility ID:** 100000193596
 

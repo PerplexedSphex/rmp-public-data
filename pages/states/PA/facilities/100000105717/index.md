@@ -1,6 +1,6 @@
-# Unknown
+# US Steel Clairton Works
 
-**Location:** Unknown, PA
+**Location:** Clairton, PA
 
 **EPA Facility ID:** 100000105717
 

@@ -1,6 +1,6 @@
-# Unknown
+# KIK Aerosol Socal LLC
 
-**Location:** Unknown, CA
+**Location:** City of Industry, CA
 
 **EPA Facility ID:** 100000153335
 

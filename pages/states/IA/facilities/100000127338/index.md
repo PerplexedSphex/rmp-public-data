@@ -1,6 +1,6 @@
-# Unknown
+# Pomeroy, IA 12 Satellite
 
-**Location:** Unknown, IA
+**Location:** Pomeroy, IA
 
 **EPA Facility ID:** 100000127338
 

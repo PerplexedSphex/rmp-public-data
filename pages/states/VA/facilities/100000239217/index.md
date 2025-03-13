@@ -1,6 +1,6 @@
-# Unknown
+# Aldi Inc. Virginia
 
-**Location:** Unknown, VA
+**Location:** Petersburg, VA
 
 **EPA Facility ID:** 100000239217
 

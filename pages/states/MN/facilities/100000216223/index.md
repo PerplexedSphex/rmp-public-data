@@ -1,6 +1,6 @@
-# Unknown
+# Dan's Prize, Inc. - Long Prairie
 
-**Location:** Unknown, MN
+**Location:** Long Prairie, MN
 
 **EPA Facility ID:** 100000216223
 

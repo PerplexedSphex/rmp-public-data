@@ -1,6 +1,6 @@
-# Unknown
+# Frenchman Valley Coop - Pine Bluff, WY - NH3
 
-**Location:** Unknown, WY
+**Location:** Pine Bluff, WY
 
 **EPA Facility ID:** 100000100838
 

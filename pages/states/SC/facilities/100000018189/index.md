@@ -1,6 +1,6 @@
-# Unknown
+# Plum Island WWTP
 
-**Location:** Unknown, SC
+**Location:** Charleston, SC
 
 **EPA Facility ID:** 100000018189
 

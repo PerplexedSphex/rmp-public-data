@@ -1,6 +1,6 @@
-# Unknown
+# Somerset Propane
 
-**Location:** Unknown, PA
+**Location:** Somerset, PA
 
 **EPA Facility ID:** 100000002962
 

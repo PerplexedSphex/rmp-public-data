@@ -1,6 +1,6 @@
-# Unknown
+# Chemtec Inc.
 
-**Location:** Unknown, CA
+**Location:** Chico, CA
 
 **EPA Facility ID:** 100000119007
 

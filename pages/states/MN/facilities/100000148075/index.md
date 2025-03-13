@@ -1,6 +1,6 @@
-# Unknown
+# Central Valley Cooperative - Northfield
 
-**Location:** Unknown, MN
+**Location:** Northfield, MN
 
 **EPA Facility ID:** 100000148075
 

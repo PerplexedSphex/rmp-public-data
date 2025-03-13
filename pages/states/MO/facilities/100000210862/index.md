@@ -1,6 +1,6 @@
-# Unknown
+# Jacobson Warehouse Co.
 
-**Location:** Unknown, MO
+**Location:** Palmyra, MO
 
 **EPA Facility ID:** 100000210862
 

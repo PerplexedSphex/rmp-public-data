@@ -1,6 +1,6 @@
-# Unknown
+# Trigas, Inc. (Pasadena)
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000075483
 

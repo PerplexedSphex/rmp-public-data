@@ -1,6 +1,6 @@
-# Unknown
+# City of Easton Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Easton, PA
 
 **EPA Facility ID:** 100000095372
 

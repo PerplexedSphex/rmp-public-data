@@ -1,6 +1,6 @@
-# Unknown
+# Heritage FS, Inc. - Milford
 
-**Location:** Unknown, IL
+**Location:** Milford, IL
 
 **EPA Facility ID:** 100000242338
 

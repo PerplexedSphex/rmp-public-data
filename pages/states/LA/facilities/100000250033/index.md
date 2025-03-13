@@ -1,6 +1,6 @@
-# Unknown
+# Pelican Treating Plant
 
-**Location:** Unknown, LA
+**Location:** Pelican, LA
 
 **EPA Facility ID:** 100000250033
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gateway FS, Inc. - Waterloo
 
-**Location:** Unknown, IL
+**Location:** Waterloo, IL
 
 **EPA Facility ID:** 100000040216
 

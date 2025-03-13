@@ -1,6 +1,6 @@
-# Unknown
+# COLGATE-PALMOLIVE CAMBRIDGE, OHIO, PLANT
 
-**Location:** Unknown, OH
+**Location:** CAMBRIDGE, OH
 
 **EPA Facility ID:** 100000118099
 

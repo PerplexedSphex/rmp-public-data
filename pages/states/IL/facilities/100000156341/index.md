@@ -1,6 +1,6 @@
-# Unknown
+# Toledo, IL 725 Satellite
 
-**Location:** Unknown, IL
+**Location:** Toledo, IL
 
 **EPA Facility ID:** 100000156341
 

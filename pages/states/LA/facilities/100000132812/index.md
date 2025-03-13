@@ -1,6 +1,6 @@
-# Unknown
+# Formosa Plastics Corp., LA
 
-**Location:** Unknown, LA
+**Location:** Baton Rouge, LA
 
 **EPA Facility ID:** 100000132812
 

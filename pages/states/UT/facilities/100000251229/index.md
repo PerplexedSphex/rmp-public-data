@@ -1,6 +1,6 @@
-# Unknown
+# Thrive Freeze Dry
 
-**Location:** Unknown, UT
+**Location:** American Fork, UT
 
 **EPA Facility ID:** 100000251229
 

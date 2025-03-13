@@ -1,6 +1,6 @@
-# Unknown
+# Home Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Spring City, PA
 
 **EPA Facility ID:** 100000079513
 

@@ -1,6 +1,6 @@
-# Unknown
+# Brighton Well
 
-**Location:** Unknown, MS
+**Location:** Clinton, MS
 
 **EPA Facility ID:** 100000185569
 

@@ -1,6 +1,6 @@
-# Unknown
+# Opal Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Opal, WY
 
 **EPA Facility ID:** 100000158839
 

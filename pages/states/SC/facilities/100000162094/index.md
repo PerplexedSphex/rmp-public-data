@@ -1,6 +1,6 @@
-# Unknown
+# Gilder Creek WWTP
 
-**Location:** Unknown, SC
+**Location:** Simpsonville, SC
 
 **EPA Facility ID:** 100000162094
 

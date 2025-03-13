@@ -1,6 +1,6 @@
-# Unknown
+# Huron Facility
 
-**Location:** Unknown, SD
+**Location:** Huron, SD
 
 **EPA Facility ID:** 100000082643
 

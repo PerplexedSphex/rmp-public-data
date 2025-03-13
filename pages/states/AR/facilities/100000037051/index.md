@@ -1,6 +1,6 @@
-# Unknown
+# Hot Springs Village POA Water Plant
 
-**Location:** Unknown, AR
+**Location:** Hot Springs Village, AR
 
 **EPA Facility ID:** 100000037051
 

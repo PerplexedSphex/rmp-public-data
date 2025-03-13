@@ -1,6 +1,6 @@
-# Unknown
+# Illini FS - Hindsboro NH3
 
-**Location:** Unknown, IL
+**Location:** Arcola, IL
 
 **EPA Facility ID:** 100000068482
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cando Farmers Grain & Oil Coop - Maza Location
 
-**Location:** Unknown, ND
+**Location:** Cando, ND
 
 **EPA Facility ID:** 100000034517
 

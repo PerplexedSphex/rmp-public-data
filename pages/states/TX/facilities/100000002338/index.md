@@ -1,6 +1,6 @@
-# Unknown
+# Houston Central Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Sheridan, TX
 
 **EPA Facility ID:** 100000002338
 

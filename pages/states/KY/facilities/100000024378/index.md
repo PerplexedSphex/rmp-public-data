@@ -1,6 +1,6 @@
-# Unknown
+# Henry County Water Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Bedford, KY
 
 **EPA Facility ID:** 100000024378
 

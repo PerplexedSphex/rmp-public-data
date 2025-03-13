@@ -1,6 +1,6 @@
-# Unknown
+# Sheetz, Inc.
 
-**Location:** Unknown, PA
+**Location:** Claysburg, PA
 
 **EPA Facility ID:** 100000176374
 

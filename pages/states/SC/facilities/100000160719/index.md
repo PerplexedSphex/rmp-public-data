@@ -1,6 +1,6 @@
-# Unknown
+# LANXESS Southeast Dist Center, Simpsonville, SC
 
-**Location:** Unknown, SC
+**Location:** Simpsonville, SC
 
 **EPA Facility ID:** 100000160719
 

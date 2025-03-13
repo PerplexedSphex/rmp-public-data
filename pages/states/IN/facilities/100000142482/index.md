@@ -1,6 +1,6 @@
-# Unknown
+# Muncie Water Pollution Control Facility
 
-**Location:** Unknown, IN
+**Location:** Muncie, IN
 
 **EPA Facility ID:** 100000142482
 

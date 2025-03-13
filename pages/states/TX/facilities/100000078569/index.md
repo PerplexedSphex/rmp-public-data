@@ -1,6 +1,6 @@
-# Unknown
+# Hulldale Treating Facility
 
-**Location:** Unknown, TX
+**Location:** Eldorado, TX
 
 **EPA Facility ID:** 100000078569
 

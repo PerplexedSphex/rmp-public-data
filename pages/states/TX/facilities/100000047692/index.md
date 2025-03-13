@@ -1,6 +1,6 @@
-# Unknown
+# City of Ennis Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Ennis, TX
 
 **EPA Facility ID:** 100000047692
 

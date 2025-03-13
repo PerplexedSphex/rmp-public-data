@@ -1,6 +1,6 @@
-# Unknown
+# Illinois American Water - Pontiac Plant
 
-**Location:** Unknown, IL
+**Location:** Pontiac, IL
 
 **EPA Facility ID:** 100000026161
 

@@ -1,6 +1,6 @@
-# Unknown
+# Chemtrade Performance ChemicalsUS LLC Kalama Plant
 
-**Location:** Unknown, WA
+**Location:** Kalama, WA
 
 **EPA Facility ID:** 100000031468
 

@@ -1,6 +1,6 @@
-# Unknown
+# The Amalgamated Sugar Company LLC
 
-**Location:** Unknown, OR
+**Location:** Nyssa, OR
 
 **EPA Facility ID:** 100000157233
 

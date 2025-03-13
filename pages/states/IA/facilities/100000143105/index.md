@@ -1,6 +1,6 @@
-# Unknown
+# Plumrose dba JBS Prepared Foods - Council Bluffs 1
 
-**Location:** Unknown, IA
+**Location:** Council Bluffs, IA
 
 **EPA Facility ID:** 100000143105
 

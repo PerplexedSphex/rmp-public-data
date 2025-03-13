@@ -1,6 +1,6 @@
-# Unknown
+# Wildcat Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Kermit, TX
 
 **EPA Facility ID:** 100000238174
 

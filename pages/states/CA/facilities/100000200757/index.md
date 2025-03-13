@@ -1,6 +1,6 @@
-# Unknown
+# Swiss American Sausage Company
 
-**Location:** Unknown, CA
+**Location:** Lathrop, CA
 
 **EPA Facility ID:** 100000200757
 

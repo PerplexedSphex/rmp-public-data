@@ -1,6 +1,6 @@
-# Unknown
+# Tacoma Water -- McMillin Reservoir
 
-**Location:** Unknown, WA
+**Location:** Puyallup, WA
 
 **EPA Facility ID:** 100000025545
 

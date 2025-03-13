@@ -1,6 +1,6 @@
-# Unknown
+# F.T. Precision, Inc
 
-**Location:** Unknown, OH
+**Location:** Fredericktown, OH
 
 **EPA Facility ID:** 100000190991
 

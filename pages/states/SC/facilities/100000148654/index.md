@@ -1,6 +1,6 @@
-# Unknown
+# Santee Cooper Regional Water System
 
-**Location:** Unknown, SC
+**Location:** Moncks Corner, SC
 
 **EPA Facility ID:** 100000148654
 

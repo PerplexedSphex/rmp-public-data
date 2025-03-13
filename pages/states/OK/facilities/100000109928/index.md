@@ -1,6 +1,6 @@
-# Unknown
+# City of Lawton Wastewater Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Lawton, OK
 
 **EPA Facility ID:** 100000109928
 

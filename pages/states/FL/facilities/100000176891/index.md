@@ -1,6 +1,6 @@
-# Unknown
+# Midulla Generating Station
 
-**Location:** Unknown, FL
+**Location:** Bowling Green, FL
 
 **EPA Facility ID:** 100000176891
 

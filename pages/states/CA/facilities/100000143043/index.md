@@ -1,6 +1,6 @@
-# Unknown
+# Long Beach Water Reclamation Plant
 
-**Location:** Unknown, CA
+**Location:** Long Beach, CA
 
 **EPA Facility ID:** 100000143043
 

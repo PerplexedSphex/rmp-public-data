@@ -1,6 +1,6 @@
-# Unknown
+# Procter & Gamble Hair Care LLC -- Iowa City
 
-**Location:** Unknown, IA
+**Location:** Iowa City, IA
 
 **EPA Facility ID:** 100000081369
 

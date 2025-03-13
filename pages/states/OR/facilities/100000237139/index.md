@@ -1,6 +1,6 @@
-# Unknown
+# Boardman Foods Incorporated
 
-**Location:** Unknown, OR
+**Location:** Boardman, OR
 
 **EPA Facility ID:** 100000237139
 

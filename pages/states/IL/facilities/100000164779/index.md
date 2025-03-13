@@ -1,6 +1,6 @@
-# Unknown
+# Valspar Coatings - Green Oaks
 
-**Location:** Unknown, IL
+**Location:** Lake Forest, IL
 
 **EPA Facility ID:** 100000164779
 

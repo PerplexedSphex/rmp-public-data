@@ -1,6 +1,6 @@
-# Unknown
+# GREN Inc. 12920 Imperial Hwy
 
-**Location:** Unknown, CA
+**Location:** Santa Fe Springs, CA
 
 **EPA Facility ID:** 100000083991
 

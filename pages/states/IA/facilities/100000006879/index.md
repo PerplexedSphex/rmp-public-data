@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Fresh Meats, Inc. - Denison, IA
 
-**Location:** Unknown, IA
+**Location:** Denison, IA
 
 **EPA Facility ID:** 100000006879
 

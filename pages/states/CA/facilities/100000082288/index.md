@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Specialty Chemicals - Lynwood Plant
 
-**Location:** Unknown, CA
+**Location:** Lynwood, CA
 
 **EPA Facility ID:** 100000082288
 

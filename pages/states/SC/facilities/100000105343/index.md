@@ -1,6 +1,6 @@
-# Unknown
+# Holly Oak Chemical, Inc.
 
-**Location:** Unknown, SC
+**Location:** Fountain Inn, SC
 
 **EPA Facility ID:** 100000105343
 

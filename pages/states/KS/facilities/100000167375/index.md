@@ -1,6 +1,6 @@
-# Unknown
+# Cash Grain of Pittsburg
 
-**Location:** Unknown, KS
+**Location:** Pittsburg, KS
 
 **EPA Facility ID:** 100000167375
 

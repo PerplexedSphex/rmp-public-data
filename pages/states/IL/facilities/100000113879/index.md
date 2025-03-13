@@ -1,6 +1,6 @@
-# Unknown
+# Gibbs Fertilizer Service Inc
 
-**Location:** Unknown, IL
+**Location:** Junction, IL
 
 **EPA Facility ID:** 100000113879
 

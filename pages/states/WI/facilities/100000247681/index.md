@@ -1,6 +1,6 @@
-# Unknown
+# Visual Pak Pleasant Prairie Inc
 
-**Location:** Unknown, WI
+**Location:** Kenosha, WI
 
 **EPA Facility ID:** 100000247681
 

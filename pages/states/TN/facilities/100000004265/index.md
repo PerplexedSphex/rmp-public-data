@@ -1,6 +1,6 @@
-# Unknown
+# Covington Wastewater Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Covington, TN
 
 **EPA Facility ID:** 100000004265
 

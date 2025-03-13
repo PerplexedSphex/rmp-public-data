@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Lawrence, KS Fac
 
-**Location:** Unknown, KS
+**Location:** LAWRENCE, KS
 
 **EPA Facility ID:** 100000206065
 

@@ -1,6 +1,6 @@
-# Unknown
+# JM Smucker, LLC
 
-**Location:** Unknown, KY
+**Location:** Scottsville, KY
 
 **EPA Facility ID:** 100000199509
 

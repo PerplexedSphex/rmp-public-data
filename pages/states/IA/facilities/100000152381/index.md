@@ -1,6 +1,6 @@
-# Unknown
+# Van Diest Supply Company
 
-**Location:** Unknown, IA
+**Location:** Gilmore City, IA
 
 **EPA Facility ID:** 100000152381
 

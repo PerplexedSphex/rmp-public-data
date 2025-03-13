@@ -1,6 +1,6 @@
-# Unknown
+# Stanley L. Goodwin Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Cayce, SC
 
 **EPA Facility ID:** 100000026517
 

@@ -1,6 +1,6 @@
-# Unknown
+# Chester Soapstone Track
 
-**Location:** Unknown, VT
+**Location:** Chester, VT
 
 **EPA Facility ID:** 100000230467
 

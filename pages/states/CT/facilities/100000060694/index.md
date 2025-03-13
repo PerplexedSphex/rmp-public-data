@@ -1,6 +1,6 @@
-# Unknown
+# Clean Harbors of Connecticut, Inc.
 
-**Location:** Unknown, CT
+**Location:** Bristol, CT
 
 **EPA Facility ID:** 100000060694
 

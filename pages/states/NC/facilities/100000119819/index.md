@@ -1,6 +1,6 @@
-# Unknown
+# Town of Garner WWTP Facility
 
-**Location:** Unknown, NC
+**Location:** Garner, NC
 
 **EPA Facility ID:** 100000119819
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sentinel Polyolefins LLC
 
-**Location:** Unknown, NY
+**Location:** Richfield Springs, NY
 
 **EPA Facility ID:** 100000089414
 

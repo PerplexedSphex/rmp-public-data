@@ -1,6 +1,6 @@
-# Unknown
+# CITY OF LEBANON WASTEWATER PLANT
 
-**Location:** Unknown, TN
+**Location:** LEBANON, TN
 
 **EPA Facility ID:** 100000105165
 

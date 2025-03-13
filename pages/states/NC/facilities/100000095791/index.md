@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Inc.
 
-**Location:** Unknown, NC
+**Location:** Fayetteville, NC
 
 **EPA Facility ID:** 100000095791
 

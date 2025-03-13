@@ -1,6 +1,6 @@
-# Unknown
+# LaGrou Hammond Warehouse
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000032831
 

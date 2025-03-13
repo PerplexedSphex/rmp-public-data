@@ -1,6 +1,6 @@
-# Unknown
+# Baker Gas Plant
 
-**Location:** Unknown, MT
+**Location:** Baker, MT
 
 **EPA Facility ID:** 100000040804
 

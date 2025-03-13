@@ -1,6 +1,6 @@
-# Unknown
+# Sea-3 Providence, LLC 
 
-**Location:** Unknown, RI
+**Location:** Providence, RI
 
 **EPA Facility ID:** 100000175981
 

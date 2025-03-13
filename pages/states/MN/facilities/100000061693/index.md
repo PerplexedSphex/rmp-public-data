@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. -Tracy East
 
-**Location:** Unknown, MN
+**Location:** Tracy, MN
 
 **EPA Facility ID:** 100000061693
 

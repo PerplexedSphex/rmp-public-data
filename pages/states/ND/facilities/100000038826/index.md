@@ -1,6 +1,6 @@
-# Unknown
+# Dakota Midland Grain, LLC
 
-**Location:** Unknown, ND
+**Location:** Norwich, ND
 
 **EPA Facility ID:** 100000038826
 

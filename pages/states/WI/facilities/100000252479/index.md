@@ -1,6 +1,6 @@
-# Unknown
+# Carnivore Meat Company 
 
-**Location:** Unknown, WI
+**Location:** Green Bay, WI
 
 **EPA Facility ID:** 100000252479
 

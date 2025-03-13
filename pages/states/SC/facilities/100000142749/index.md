@@ -1,6 +1,6 @@
-# Unknown
+# Durbin Creek WWTP
 
-**Location:** Unknown, SC
+**Location:** Fountain Inn, SC
 
 **EPA Facility ID:** 100000142749
 

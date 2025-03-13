@@ -1,6 +1,6 @@
-# Unknown
+# Frenchman Valley Coop
 
-**Location:** Unknown, NE
+**Location:** Imperial, NE
 
 **EPA Facility ID:** 100000086569
 

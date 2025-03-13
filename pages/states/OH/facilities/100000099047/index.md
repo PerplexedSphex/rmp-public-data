@@ -1,6 +1,6 @@
-# Unknown
+# City of Portsmouth Waste Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Portsmouth, OH
 
 **EPA Facility ID:** 100000099047
 

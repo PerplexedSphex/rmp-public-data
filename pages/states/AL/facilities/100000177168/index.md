@@ -1,6 +1,6 @@
-# Unknown
+# Tenaska Lindsay Hill Generating Station
 
-**Location:** Unknown, AL
+**Location:** Billingsley, AL
 
 **EPA Facility ID:** 100000177168
 

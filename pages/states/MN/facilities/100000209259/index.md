@@ -1,6 +1,6 @@
-# Unknown
+# CS-12 Recovered Energy Facility
 
-**Location:** Unknown, MN
+**Location:** Garvin, MN
 
 **EPA Facility ID:** 100000209259
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rock Island Water Plant
 
-**Location:** Unknown, IL
+**Location:** Rock Island, IL
 
 **EPA Facility ID:** 100000156822
 

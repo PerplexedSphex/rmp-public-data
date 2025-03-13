@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - North Lapwai
 
-**Location:** Unknown, ID
+**Location:** North Lapwai, ID
 
 **EPA Facility ID:** 100000184007
 

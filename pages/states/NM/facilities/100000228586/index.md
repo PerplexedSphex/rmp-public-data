@@ -1,6 +1,6 @@
-# Unknown
+# Zia II Gas Plant
 
-**Location:** Unknown, NM
+**Location:** Lovington, NM
 
 **EPA Facility ID:** 100000228586
 

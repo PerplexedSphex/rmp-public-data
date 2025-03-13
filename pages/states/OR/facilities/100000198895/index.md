@@ -1,6 +1,6 @@
-# Unknown
+# Astoria Pacific Seafoods
 
-**Location:** Unknown, OR
+**Location:** Astoria, OR
 
 **EPA Facility ID:** 100000198895
 

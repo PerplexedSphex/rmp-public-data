@@ -1,6 +1,6 @@
-# Unknown
+# Germantown Power Plant
 
-**Location:** Unknown, WI
+**Location:** Germantown, WI
 
 **EPA Facility ID:** 100000170227
 

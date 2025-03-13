@@ -1,6 +1,6 @@
-# Unknown
+# EDSON NH3 PLANT
 
-**Location:** Unknown, KS
+**Location:** EDSON, KS
 
 **EPA Facility ID:** 100000023725
 

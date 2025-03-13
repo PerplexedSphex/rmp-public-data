@@ -1,6 +1,6 @@
-# Unknown
+# Brakebush Wells
 
-**Location:** Unknown, MN
+**Location:** Wells, MN
 
 **EPA Facility ID:** 100000122226
 

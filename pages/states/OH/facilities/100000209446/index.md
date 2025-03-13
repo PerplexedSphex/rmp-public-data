@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Columbus
 
-**Location:** Unknown, OH
+**Location:** Columbus, OH
 
 **EPA Facility ID:** 100000209446
 

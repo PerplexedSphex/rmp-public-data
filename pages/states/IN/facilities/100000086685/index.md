@@ -1,6 +1,6 @@
-# Unknown
+# GE Appliances - Bloomington, Inc.
 
-**Location:** Unknown, IN
+**Location:** Bloomington, IN
 
 **EPA Facility ID:** 100000086685
 

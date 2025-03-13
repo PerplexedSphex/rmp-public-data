@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Smithfield, NC
 
 **EPA Facility ID:** 100000023912
 

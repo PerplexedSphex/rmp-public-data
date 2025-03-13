@@ -1,6 +1,6 @@
-# Unknown
+# Delia well pad - NGL
 
-**Location:** Unknown, ND
+**Location:** Kildeer, ND
 
 **EPA Facility ID:** 100000237255
 

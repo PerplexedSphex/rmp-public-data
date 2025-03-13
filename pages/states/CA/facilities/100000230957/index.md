@@ -1,6 +1,6 @@
-# Unknown
+# Richmond Terminal
 
-**Location:** Unknown, CA
+**Location:** Richmond, CA
 
 **EPA Facility ID:** 100000230957
 

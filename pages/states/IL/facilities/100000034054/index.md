@@ -1,6 +1,6 @@
-# Unknown
+# Fox River Water Reclamation District
 
-**Location:** Unknown, IL
+**Location:** Elgin, IL
 
 **EPA Facility ID:** 100000034054
 

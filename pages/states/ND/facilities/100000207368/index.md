@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Fairdale
 
-**Location:** Unknown, ND
+**Location:** Fairdale, ND
 
 **EPA Facility ID:** 100000207368
 

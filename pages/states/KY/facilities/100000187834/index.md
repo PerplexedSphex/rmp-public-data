@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packaged Meats Corp. - Middlesboro, KY
 
-**Location:** Unknown, KY
+**Location:** Middlesboro, KY
 
 **EPA Facility ID:** 100000187834
 

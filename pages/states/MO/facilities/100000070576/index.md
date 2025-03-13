@@ -1,6 +1,6 @@
-# Unknown
+# Water Filtration Plant
 
-**Location:** Unknown, MO
+**Location:** Neosho, MO
 
 **EPA Facility ID:** 100000070576
 

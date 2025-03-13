@@ -1,6 +1,6 @@
-# Unknown
+# Blacks Fork Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Granger, WY
 
 **EPA Facility ID:** 100000136925
 

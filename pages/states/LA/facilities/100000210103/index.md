@@ -1,6 +1,6 @@
-# Unknown
+# Southern Cold Storage, LLC
 
-**Location:** Unknown, LA
+**Location:** Baton Rouge, LA
 
 **EPA Facility ID:** 100000210103
 

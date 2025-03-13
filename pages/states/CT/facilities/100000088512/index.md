@@ -1,6 +1,6 @@
-# Unknown
+# Gold Medal Bagel Bakery, Inc.
 
-**Location:** Unknown, CT
+**Location:** West Haven, CT
 
 **EPA Facility ID:** 100000088512
 

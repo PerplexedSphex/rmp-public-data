@@ -1,6 +1,6 @@
-# Unknown
+# Procter & Gamble Manufacturing Co.
 
-**Location:** Unknown, GA
+**Location:** Augusta, GA
 
 **EPA Facility ID:** 100000117508
 

@@ -1,6 +1,6 @@
-# Unknown
+# Ennis Power Company, LLC
 
-**Location:** Unknown, TX
+**Location:** Ennis, TX
 
 **EPA Facility ID:** 100000177202
 

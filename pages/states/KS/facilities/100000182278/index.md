@@ -1,6 +1,6 @@
-# Unknown
+# Great Plains
 
-**Location:** Unknown, KS
+**Location:** Pratt, KS
 
 **EPA Facility ID:** 100000182278
 

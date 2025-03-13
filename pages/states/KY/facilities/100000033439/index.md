@@ -1,6 +1,6 @@
-# Unknown
+# Mount Sterling Wastewater Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Mt. Sterling, KY
 
 **EPA Facility ID:** 100000033439
 

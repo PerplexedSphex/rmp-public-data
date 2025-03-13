@@ -1,6 +1,6 @@
-# Unknown
+# ATK Launch Systems LLC
 
-**Location:** Unknown, UT
+**Location:** Brigham City, UT
 
 **EPA Facility ID:** 100000056958
 

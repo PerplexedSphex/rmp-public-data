@@ -1,6 +1,6 @@
-# Unknown
+# Garfield
 
-**Location:** Unknown, SD
+**Location:** Bryant, SD
 
 **EPA Facility ID:** 100000254921
 

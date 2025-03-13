@@ -1,6 +1,6 @@
-# Unknown
+# City of Hanford Wastewater Treatment Facility
 
-**Location:** Unknown, CA
+**Location:** Hanford, CA
 
 **EPA Facility ID:** 100000138255
 

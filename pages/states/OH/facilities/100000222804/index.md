@@ -1,6 +1,6 @@
-# Unknown
+# L'Oreal Streetsboro Distribution
 
-**Location:** Unknown, OH
+**Location:** Streetsboro, OH
 
 **EPA Facility ID:** 100000222804
 

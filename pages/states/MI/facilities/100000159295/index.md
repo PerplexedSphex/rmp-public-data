@@ -1,6 +1,6 @@
-# Unknown
+# Patterson Laboratories, Inc
 
-**Location:** Unknown, MI
+**Location:** Detroit, MI
 
 **EPA Facility ID:** 100000159295
 

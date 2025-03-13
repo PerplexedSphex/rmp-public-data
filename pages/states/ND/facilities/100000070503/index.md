@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Lakota
 
-**Location:** Unknown, ND
+**Location:** Lakota, ND
 
 **EPA Facility ID:** 100000070503
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Maple Park
 
-**Location:** Unknown, IL
+**Location:** Maple Park, IL
 
 **EPA Facility ID:** 100000024163
 

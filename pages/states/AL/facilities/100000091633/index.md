@@ -1,6 +1,6 @@
-# Unknown
+# Gold Kist Trussville Processing Plant
 
-**Location:** Unknown, AL
+**Location:** Trussville, AL
 
 **EPA Facility ID:** 100000091633
 

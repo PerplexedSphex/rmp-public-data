@@ -1,6 +1,6 @@
-# Unknown
+# Ele Corporation
 
-**Location:** Unknown, IL
+**Location:** McCook, IL
 
 **EPA Facility ID:** 100000088996
 

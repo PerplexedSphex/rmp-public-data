@@ -1,6 +1,6 @@
-# Unknown
+# East Aurora Wastewater Treatment Plant
 
-**Location:** Unknown, NY
+**Location:** East Aurora, NY
 
 **EPA Facility ID:** 100000118339
 

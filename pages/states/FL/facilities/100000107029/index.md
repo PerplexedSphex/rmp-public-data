@@ -1,6 +1,6 @@
-# Unknown
+# Lake Bridge Water Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Lutz, FL
 
 **EPA Facility ID:** 100000107029
 

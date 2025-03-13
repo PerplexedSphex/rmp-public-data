@@ -1,6 +1,6 @@
-# Unknown
+# Central Dakota Frontier Coop. Dickinson ND
 
-**Location:** Unknown, ND
+**Location:** Dickinson, ND
 
 **EPA Facility ID:** 100000236229
 

@@ -1,6 +1,6 @@
-# Unknown
+# Titan Cold Storage, Inc. Bakersfield
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000061354
 

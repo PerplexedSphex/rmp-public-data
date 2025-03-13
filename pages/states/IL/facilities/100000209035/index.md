@@ -1,6 +1,6 @@
-# Unknown
+# Rise Baking Company Manteno
 
-**Location:** Unknown, IL
+**Location:** Manteno, IL
 
 **EPA Facility ID:** 100000209035
 

@@ -1,6 +1,6 @@
-# Unknown
+# Olathe Water Treatment Plant No. 1
 
-**Location:** Unknown, KS
+**Location:** Olathe, KS
 
 **EPA Facility ID:** 100000025233
 

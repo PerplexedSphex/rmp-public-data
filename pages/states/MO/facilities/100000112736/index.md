@@ -1,6 +1,6 @@
-# Unknown
+# Central Cooperatives, Inc.
 
-**Location:** Unknown, MO
+**Location:** Odessa, MO
 
 **EPA Facility ID:** 100000112736
 

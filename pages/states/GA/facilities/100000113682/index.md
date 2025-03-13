@@ -1,6 +1,6 @@
-# Unknown
+# Rome Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Rome, GA
 
 **EPA Facility ID:** 100000113682
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bethany Water Plant
 
-**Location:** Unknown, OK
+**Location:** Bethany, OK
 
 **EPA Facility ID:** 100000107261
 

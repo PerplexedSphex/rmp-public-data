@@ -1,6 +1,6 @@
-# Unknown
+# The New Algae co.
 
-**Location:** Unknown, OR
+**Location:** Klamath Falls, OR
 
 **EPA Facility ID:** 100000032038
 

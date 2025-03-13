@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Madison, SD
 
-**Location:** Unknown, SD
+**Location:** Madison, SD
 
 **EPA Facility ID:** 100000009947
 

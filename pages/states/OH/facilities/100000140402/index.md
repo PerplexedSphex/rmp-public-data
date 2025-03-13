@@ -1,6 +1,6 @@
-# Unknown
+# Ross Incineration Services, Inc.
 
-**Location:** Unknown, OH
+**Location:** Grafton, OH
 
 **EPA Facility ID:** 100000140402
 

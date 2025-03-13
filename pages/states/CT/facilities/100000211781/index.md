@@ -1,6 +1,6 @@
-# Unknown
+# Poquonock Water Pollution Control Facility
 
-**Location:** Unknown, CT
+**Location:** Windsor, CT
 
 **EPA Facility ID:** 100000211781
 

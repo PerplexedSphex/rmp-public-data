@@ -1,6 +1,6 @@
-# Unknown
+# Olympic Chemical Corporation
 
-**Location:** Unknown, WA
+**Location:** Tacoma, WA
 
 **EPA Facility ID:** 100000056468
 

@@ -1,6 +1,6 @@
-# Unknown
+# OXARC- Springfield
 
-**Location:** Unknown, WA
+**Location:** Spokane, WA
 
 **EPA Facility ID:** 100000248804
 

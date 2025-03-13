@@ -1,6 +1,6 @@
-# Unknown
+# Jennings-Gomer Equity - Beaverdam NH3
 
-**Location:** Unknown, OH
+**Location:** Beaverdam, OH
 
 **EPA Facility ID:** 100000176221
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of La Porte - Wastewater Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** La Porte, IN
 
 **EPA Facility ID:** 100000107939
 

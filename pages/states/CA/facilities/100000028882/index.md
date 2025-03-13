@@ -1,6 +1,6 @@
-# Unknown
+# Grow West - Walnut Grove Retail
 
-**Location:** Unknown, CA
+**Location:** Walnut Grove, CA
 
 **EPA Facility ID:** 100000028882
 

@@ -1,6 +1,6 @@
-# Unknown
+# Melrose Dairy Proteins
 
-**Location:** Unknown, MN
+**Location:** Melrose, MN
 
 **EPA Facility ID:** 100000029578
 

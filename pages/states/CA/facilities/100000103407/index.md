@@ -1,6 +1,6 @@
-# Unknown
+# Sable Offshore - Las Flores Canyon Treating Plant
 
-**Location:** Unknown, CA
+**Location:** Goleta, CA
 
 **EPA Facility ID:** 100000103407
 

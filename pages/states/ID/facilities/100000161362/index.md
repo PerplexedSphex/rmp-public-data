@@ -1,6 +1,6 @@
-# Unknown
+# Bingham Ag Services - Blackfoot
 
-**Location:** Unknown, ID
+**Location:** Blackfoot, ID
 
 **EPA Facility ID:** 100000161362
 

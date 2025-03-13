@@ -1,6 +1,6 @@
-# Unknown
+# Horse Creek Pollution Control Facility
 
-**Location:** Unknown, SC
+**Location:** North Augusta, SC
 
 **EPA Facility ID:** 100000021807
 

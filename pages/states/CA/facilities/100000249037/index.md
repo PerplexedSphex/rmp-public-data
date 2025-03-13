@@ -1,6 +1,6 @@
-# Unknown
+# Lompoc Valley Cooling
 
-**Location:** Unknown, CA
+**Location:** Lompoc, CA
 
 **EPA Facility ID:** 100000249037
 

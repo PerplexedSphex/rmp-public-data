@@ -1,6 +1,6 @@
-# Unknown
+# Lopez Foods Cherokee
 
-**Location:** Unknown, IA
+**Location:** Cherokee, IA
 
 **EPA Facility ID:** 100000056093
 

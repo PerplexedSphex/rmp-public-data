@@ -1,6 +1,6 @@
-# Unknown
+# W. B. Johnston Grain-Fairview, Oklahoma
 
-**Location:** Unknown, OK
+**Location:** Fairview, OK
 
 **EPA Facility ID:** 100000018376
 

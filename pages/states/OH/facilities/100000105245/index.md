@@ -1,6 +1,6 @@
-# Unknown
+# Sherwin-Williams Co - Bedford Heights
 
-**Location:** Unknown, OH
+**Location:** Bedford Heights, OH
 
 **EPA Facility ID:** 100000105245
 

@@ -1,6 +1,6 @@
-# Unknown
+# Syracuse Plant
 
-**Location:** Unknown, KS
+**Location:** Syracuse, KS
 
 **EPA Facility ID:** 100000007592
 

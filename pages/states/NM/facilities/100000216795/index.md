@@ -1,6 +1,6 @@
-# Unknown
+# Palo Duro Gas Processing Plant
 
-**Location:** Unknown, NM
+**Location:** Loving, NM
 
 **EPA Facility ID:** 100000216795
 

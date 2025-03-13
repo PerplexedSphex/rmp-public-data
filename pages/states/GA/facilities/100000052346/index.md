@@ -1,6 +1,6 @@
-# Unknown
+# JCG Foods of Georgia, LLC
 
-**Location:** Unknown, GA
+**Location:** Pine Mountain Valle, GA
 
 **EPA Facility ID:** 100000052346
 

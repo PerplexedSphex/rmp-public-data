@@ -1,6 +1,6 @@
-# Unknown
+# LaRoche Industries Inc.
 
-**Location:** Unknown, IL
+**Location:** Madison, IL
 
 **EPA Facility ID:** 100000064672
 

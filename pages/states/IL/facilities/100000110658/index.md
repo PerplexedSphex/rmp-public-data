@@ -1,6 +1,6 @@
-# Unknown
+# OSI Industries, LLC - West Chicago Facility
 
-**Location:** Unknown, IL
+**Location:** West Chicago, IL
 
 **EPA Facility ID:** 100000110658
 

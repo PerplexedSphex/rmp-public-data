@@ -1,6 +1,6 @@
-# Unknown
+# BASF Corporation - Kankakee, IL, Mfg. Facility
 
-**Location:** Unknown, IL
+**Location:** Kankakee, IL
 
 **EPA Facility ID:** 100000085383
 

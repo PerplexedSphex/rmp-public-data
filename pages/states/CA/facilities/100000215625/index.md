@@ -1,6 +1,6 @@
-# Unknown
+# Long Beach Cold Storage & Logistics
 
-**Location:** Unknown, CA
+**Location:** Long Beach, CA
 
 **EPA Facility ID:** 100000215625
 

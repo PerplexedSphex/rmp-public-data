@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Gettysburg
 
-**Location:** Unknown, SD
+**Location:** Gettysburg, SD
 
 **EPA Facility ID:** 100000068106
 

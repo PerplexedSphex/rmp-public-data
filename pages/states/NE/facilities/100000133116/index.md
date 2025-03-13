@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC  -  LOOMIS  NORTH  
 
-**Location:** Unknown, NE
+**Location:** Loomis, NE
 
 **EPA Facility ID:** 100000133116
 

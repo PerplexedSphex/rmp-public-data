@@ -1,6 +1,6 @@
-# Unknown
+# Orange Beach Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Orange Beach, AL
 
 **EPA Facility ID:** 100000128505
 

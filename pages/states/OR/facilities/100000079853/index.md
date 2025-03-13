@@ -1,6 +1,6 @@
-# Unknown
+# Wyman-Gordon Titanium Castings
 
-**Location:** Unknown, OR
+**Location:** Albany, OR
 
 **EPA Facility ID:** 100000079853
 

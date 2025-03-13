@@ -1,6 +1,6 @@
-# Unknown
+# Mertzon Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Mertzon, TX
 
 **EPA Facility ID:** 100000016289
 

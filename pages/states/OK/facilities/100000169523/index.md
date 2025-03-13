@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Alloys, L.L.C
 
-**Location:** Unknown, OK
+**Location:** Checotah, OK
 
 **EPA Facility ID:** 100000169523
 

@@ -1,6 +1,6 @@
-# Unknown
+# Steamboat Processing Facility
 
-**Location:** Unknown, WY
+**Location:** Douglas, WY
 
 **EPA Facility ID:** 100000245193
 

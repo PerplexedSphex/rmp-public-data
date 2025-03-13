@@ -1,6 +1,6 @@
-# Unknown
+# John Kubala Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Arlington, TX
 
 **EPA Facility ID:** 100000114002
 

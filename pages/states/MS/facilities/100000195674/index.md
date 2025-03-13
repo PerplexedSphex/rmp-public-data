@@ -1,6 +1,6 @@
-# Unknown
+# Corrine Gas Plant
 
-**Location:** Unknown, MS
+**Location:** Aberdeen, MS
 
 **EPA Facility ID:** 100000195674
 

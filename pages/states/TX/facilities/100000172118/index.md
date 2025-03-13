@@ -1,6 +1,6 @@
-# Unknown
+# Blicks Inc. - Whiteface, TX (Lease Facility)
 
-**Location:** Unknown, TX
+**Location:** Whiteface, TX
 
 **EPA Facility ID:** 100000172118
 

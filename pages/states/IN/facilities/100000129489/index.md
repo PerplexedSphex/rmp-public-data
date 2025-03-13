@@ -1,6 +1,6 @@
-# Unknown
+# Dover Chemical - Hammond Works Operated by Keil
 
-**Location:** Unknown, IN
+**Location:** Hammond, IN
 
 **EPA Facility ID:** 100000129489
 

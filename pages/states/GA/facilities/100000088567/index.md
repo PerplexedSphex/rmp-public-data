@@ -1,6 +1,6 @@
-# Unknown
+# GENCO Atlanta Distribution Center
 
-**Location:** Unknown, GA
+**Location:** Palmetto, GA
 
 **EPA Facility ID:** 100000088567
 

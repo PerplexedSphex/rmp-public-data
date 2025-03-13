@@ -1,6 +1,6 @@
-# Unknown
+# Techalloy Company, Inc - Welding Division
 
-**Location:** Unknown, MD
+**Location:** Baltimore, MD
 
 **EPA Facility ID:** 100000171351
 

@@ -1,6 +1,6 @@
-# Unknown
+# Coalinga Cogeneration Facility
 
-**Location:** Unknown, CA
+**Location:** Coalinga, CA
 
 **EPA Facility ID:** 100000098244
 

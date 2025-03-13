@@ -1,6 +1,6 @@
-# Unknown
+# CHEM GRO of ELVASTON
 
-**Location:** Unknown, IL
+**Location:** CARTHAGE, IL
 
 **EPA Facility ID:** 100000156412
 

@@ -1,6 +1,6 @@
-# Unknown
+# ERGON-West Virginia, Inc.
 
-**Location:** Unknown, WV
+**Location:** Newell, WV
 
 **EPA Facility ID:** 100000165019
 

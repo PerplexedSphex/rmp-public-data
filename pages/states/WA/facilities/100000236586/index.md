@@ -1,6 +1,6 @@
-# Unknown
+# NewCold Seattle Operations LLC
 
-**Location:** Unknown, WA
+**Location:** Tacoma, WA
 
 **EPA Facility ID:** 100000236586
 

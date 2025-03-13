@@ -1,6 +1,6 @@
-# Unknown
+# Kaunakakai WWRF
 
-**Location:** Unknown, HI
+**Location:** Kaunakakai, HI
 
 **EPA Facility ID:** 100000075401
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bakelite Chemicals, LLC
 
-**Location:** Unknown, OH
+**Location:** Columbus, OH
 
 **EPA Facility ID:** 100000145149
 

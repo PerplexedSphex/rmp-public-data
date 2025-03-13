@@ -1,6 +1,6 @@
-# Unknown
+# Manistee 23 Sulfur Plant
 
-**Location:** Unknown, MI
+**Location:** Manistee, MI
 
 **EPA Facility ID:** 100000006637
 

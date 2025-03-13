@@ -1,6 +1,6 @@
-# Unknown
+# VWR International, LLC
 
-**Location:** Unknown, NJ
+**Location:** Bridgeport, NJ
 
 **EPA Facility ID:** 100000078373
 

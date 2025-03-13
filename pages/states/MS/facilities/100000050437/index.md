@@ -1,6 +1,6 @@
-# Unknown
+# Long Beach / Pass Christian Treatment Plant
 
-**Location:** Unknown, MS
+**Location:** Pass Christian, MS
 
 **EPA Facility ID:** 100000050437
 

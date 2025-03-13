@@ -1,6 +1,6 @@
-# Unknown
+# STI Polymer, Inc.
 
-**Location:** Unknown, NC
+**Location:** Sanford, NC
 
 **EPA Facility ID:** 100000175071
 

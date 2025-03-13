@@ -1,6 +1,6 @@
-# Unknown
+# American Industrial Chemical Corporation
 
-**Location:** Unknown, GA
+**Location:** Smyrna, GA
 
 **EPA Facility ID:** 100000078408
 

@@ -1,6 +1,6 @@
-# Unknown
+# Emerald Kalama Chemical, LLC
 
-**Location:** Unknown, WA
+**Location:** Kalama, WA
 
 **EPA Facility ID:** 100000126883
 

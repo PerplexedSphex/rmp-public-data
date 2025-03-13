@@ -1,6 +1,6 @@
-# Unknown
+# Clark Community Oil Company
 
-**Location:** Unknown, SD
+**Location:** Clark, SD
 
 **EPA Facility ID:** 100000000349
 

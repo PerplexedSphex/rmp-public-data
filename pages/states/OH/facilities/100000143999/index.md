@@ -1,6 +1,6 @@
-# Unknown
+# Van Wert Propane
 
-**Location:** Unknown, OH
+**Location:** Van Wert, OH
 
 **EPA Facility ID:** 100000143999
 

@@ -1,6 +1,6 @@
-# Unknown
+# Water Reclamation Plant
 
-**Location:** Unknown, TX
+**Location:** Beaumont, TX
 
 **EPA Facility ID:** 100000139619
 

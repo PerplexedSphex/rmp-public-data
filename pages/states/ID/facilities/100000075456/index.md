@@ -1,6 +1,6 @@
-# Unknown
+# D & D Service Inc.
 
-**Location:** Unknown, ID
+**Location:** Bonners Ferry, ID
 
 **EPA Facility ID:** 100000075456
 

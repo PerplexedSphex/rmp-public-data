@@ -1,6 +1,6 @@
-# Unknown
+# Wheatland Grain Inc.
 
-**Location:** Unknown, ND
+**Location:** Wheatland, ND
 
 **EPA Facility ID:** 100000022021
 

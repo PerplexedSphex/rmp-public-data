@@ -1,6 +1,6 @@
-# Unknown
+# PrairieLand FS, Inc. Lick NH/3
 
-**Location:** Unknown, IL
+**Location:** Chatham, IL
 
 **EPA Facility ID:** 100000098404
 

@@ -1,6 +1,6 @@
-# Unknown
+# Logistics Park Dubuque
 
-**Location:** Unknown, IL
+**Location:** East Dubuque, IL
 
 **EPA Facility ID:** 100000245736
 

@@ -1,6 +1,6 @@
-# Unknown
+# Hormel Foods Corporation Beloit Plant
 
-**Location:** Unknown, WI
+**Location:** Beloit, WI
 
 **EPA Facility ID:** 100000175142
 

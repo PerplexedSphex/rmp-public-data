@@ -1,6 +1,6 @@
-# Unknown
+# ETC Chisholm Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** La Grange, TX
 
 **EPA Facility ID:** 100000216893
 

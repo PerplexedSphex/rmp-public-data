@@ -1,6 +1,6 @@
-# Unknown
+# George M. Sullivan Plant 2/2A
 
-**Location:** Unknown, AK
+**Location:** Anchorage, AK
 
 **EPA Facility ID:** 100000231466
 

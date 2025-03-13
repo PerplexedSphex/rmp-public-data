@@ -1,6 +1,6 @@
-# Unknown
+# Lineage - Lafayette
 
-**Location:** Unknown, IN
+**Location:** Lafayette, IN
 
 **EPA Facility ID:** 100000100758
 

@@ -1,6 +1,6 @@
-# Unknown
+# SAGE CREEK GAS PLANT
 
-**Location:** Unknown, WY
+**Location:** Glenrock, WY
 
 **EPA Facility ID:** 100000183179
 

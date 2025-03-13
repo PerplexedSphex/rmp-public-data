@@ -1,6 +1,6 @@
-# Unknown
+# Apex Generating Station
 
-**Location:** Unknown, NV
+**Location:** Las Vegas, NV
 
 **EPA Facility ID:** 100000181625
 

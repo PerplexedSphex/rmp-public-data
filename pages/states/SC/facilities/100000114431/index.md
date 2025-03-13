@@ -1,6 +1,6 @@
-# Unknown
+# Lake Wateree Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Ridgeway, SC
 
 **EPA Facility ID:** 100000114431
 

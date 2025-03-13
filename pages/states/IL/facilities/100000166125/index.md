@@ -1,6 +1,6 @@
-# Unknown
+# Airlite Water Treatment Facility
 
-**Location:** Unknown, IL
+**Location:** Elgin, IL
 
 **EPA Facility ID:** 100000166125
 

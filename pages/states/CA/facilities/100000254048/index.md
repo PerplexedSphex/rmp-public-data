@@ -1,6 +1,6 @@
-# Unknown
+# Valley Natural Beverages Bakersfield, CA
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000254048
 

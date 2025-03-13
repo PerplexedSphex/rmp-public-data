@@ -1,6 +1,6 @@
-# Unknown
+# Amrex Chemical Company, Inc (Main Facility)
 
-**Location:** Unknown, NY
+**Location:** Binghamton, NY
 
 **EPA Facility ID:** 100000123421
 

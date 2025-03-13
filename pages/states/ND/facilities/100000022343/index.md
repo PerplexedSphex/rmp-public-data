@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Lisbon NH3 Plant
 
-**Location:** Unknown, ND
+**Location:** Lisbon, ND
 
 **EPA Facility ID:** 100000022343
 

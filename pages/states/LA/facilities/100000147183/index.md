@@ -1,6 +1,6 @@
-# Unknown
+# Destrehan Wastewater Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Destrehan, LA
 
 **EPA Facility ID:** 100000147183
 

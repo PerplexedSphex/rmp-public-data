@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Yazoo City, MS
 
-**Location:** Unknown, MS
+**Location:** Yazoo City, MS
 
 **EPA Facility ID:** 100000045319
 

@@ -1,6 +1,6 @@
-# Unknown
+# Kelso Milling Co.
 
-**Location:** Unknown, MO
+**Location:** Scott City, MO
 
 **EPA Facility ID:** 100000191366
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rocky River Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Anderson, SC
 
 **EPA Facility ID:** 100000126696
 

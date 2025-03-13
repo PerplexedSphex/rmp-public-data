@@ -1,6 +1,6 @@
-# Unknown
+# Fritz C. Dietrich Environmental Control Facility
 
-**Location:** Unknown, IN
+**Location:** Porter, IN
 
 **EPA Facility ID:** 100000138932
 

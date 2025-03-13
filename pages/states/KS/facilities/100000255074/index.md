@@ -1,6 +1,6 @@
-# Unknown
+# Lacrosse -- NH3
 
-**Location:** Unknown, KS
+**Location:** Lacrosse, KS
 
 **EPA Facility ID:** 100000255074
 

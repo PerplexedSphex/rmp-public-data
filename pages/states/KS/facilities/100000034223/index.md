@@ -1,6 +1,6 @@
-# Unknown
+# COOPERATIVE GRAIN & SUPPLY - CANTON EAST
 
-**Location:** Unknown, KS
+**Location:** CANTON, KS
 
 **EPA Facility ID:** 100000034223
 

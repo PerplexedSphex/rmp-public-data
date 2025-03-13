@@ -1,6 +1,6 @@
-# Unknown
+# Brook, IN 172
 
-**Location:** Unknown, IN
+**Location:** Brook, IN
 
 **EPA Facility ID:** 100000036258
 

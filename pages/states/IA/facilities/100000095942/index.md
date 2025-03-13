@@ -1,6 +1,6 @@
-# Unknown
+# ChemTreat, Inc., Eldridge, IA
 
-**Location:** Unknown, IA
+**Location:** Eldridge, IA
 
 **EPA Facility ID:** 100000095942
 

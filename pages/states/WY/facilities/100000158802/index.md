@@ -1,6 +1,6 @@
-# Unknown
+# Simplot Phosphates LLC Rock Springs
 
-**Location:** Unknown, WY
+**Location:** Rock Springs, WY
 
 **EPA Facility ID:** 100000158802
 

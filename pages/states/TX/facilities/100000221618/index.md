@@ -1,6 +1,6 @@
-# Unknown
+# Proctor Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Comanche, TX
 
 **EPA Facility ID:** 100000221618
 

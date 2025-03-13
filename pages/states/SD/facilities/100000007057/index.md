@@ -1,6 +1,6 @@
-# Unknown
+# Homestake Mine of Lead South Dakota
 
-**Location:** Unknown, SD
+**Location:** Lead, SD
 
 **EPA Facility ID:** 100000007057
 

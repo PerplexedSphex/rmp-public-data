@@ -1,6 +1,6 @@
-# Unknown
+# Jackson Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Ganado, TX
 
 **EPA Facility ID:** 100000220049
 

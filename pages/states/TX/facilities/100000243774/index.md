@@ -1,6 +1,6 @@
-# Unknown
+# El Pico Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Laredo, TX
 
 **EPA Facility ID:** 100000243774
 

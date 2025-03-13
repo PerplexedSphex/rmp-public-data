@@ -1,6 +1,6 @@
-# Unknown
+# Occidental Chemical Corporation Taft Plant
 
-**Location:** Unknown, LA
+**Location:** Hahnville, LA
 
 **EPA Facility ID:** 100000081911
 

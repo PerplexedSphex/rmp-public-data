@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water-Newburgh
 
-**Location:** Unknown, IN
+**Location:** Newburgh, IN
 
 **EPA Facility ID:** 100000187576
 

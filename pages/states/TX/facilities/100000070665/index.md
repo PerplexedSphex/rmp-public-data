@@ -1,6 +1,6 @@
-# Unknown
+# Village Creek Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Arlington, TX
 
 **EPA Facility ID:** 100000070665
 

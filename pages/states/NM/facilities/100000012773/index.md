@@ -1,6 +1,6 @@
-# Unknown
+# Linam Ranch Plant
 
-**Location:** Unknown, NM
+**Location:** Hobbs, NM
 
 **EPA Facility ID:** 100000012773
 

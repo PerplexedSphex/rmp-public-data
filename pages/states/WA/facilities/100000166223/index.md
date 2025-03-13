@@ -1,6 +1,6 @@
-# Unknown
+# Lynnwood Wastewater Treatment Facility
 
-**Location:** Unknown, WA
+**Location:** Edmonds, WA
 
 **EPA Facility ID:** 100000166223
 

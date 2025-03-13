@@ -1,6 +1,6 @@
-# Unknown
+# Lathrop Logistics
 
-**Location:** Unknown, CA
+**Location:** Lathrop, CA
 
 **EPA Facility ID:** 100000026465
 

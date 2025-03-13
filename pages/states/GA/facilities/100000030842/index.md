@@ -1,6 +1,6 @@
-# Unknown
+# Polynt Composites USA, Inc. - Forest Park
 
-**Location:** Unknown, GA
+**Location:** Forest Park, GA
 
 **EPA Facility ID:** 100000030842
 

@@ -1,6 +1,6 @@
-# Unknown
+# GNI Chemicals Corporation, Inc.
 
-**Location:** Unknown, TX
+**Location:** Deer Park, TX
 
 **EPA Facility ID:** 100000120585
 

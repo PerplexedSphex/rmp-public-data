@@ -1,6 +1,6 @@
-# Unknown
+# Wastewater Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Battle Creek, MI
 
 **EPA Facility ID:** 100000056841
 

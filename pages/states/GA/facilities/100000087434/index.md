@@ -1,6 +1,6 @@
-# Unknown
+# Legendary Meats
 
-**Location:** Unknown, GA
+**Location:** Marietta, GA
 
 **EPA Facility ID:** 100000087434
 

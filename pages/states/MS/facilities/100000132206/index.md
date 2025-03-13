@@ -1,6 +1,6 @@
-# Unknown
+# First Chemical Corporation
 
-**Location:** Unknown, MS
+**Location:** Pascagoula, MS
 
 **EPA Facility ID:** 100000132206
 

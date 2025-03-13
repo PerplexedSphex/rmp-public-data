@@ -1,6 +1,6 @@
-# Unknown
+# Graphic Packaging International, Inc - West Monroe
 
-**Location:** Unknown, LA
+**Location:** West Monroe, LA
 
 **EPA Facility ID:** 100000094541
 

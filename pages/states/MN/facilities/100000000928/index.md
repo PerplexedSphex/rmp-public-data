@@ -1,6 +1,6 @@
-# Unknown
+# HI YIELD PRODUCTS, INC.
 
-**Location:** Unknown, MN
+**Location:** ALDEN, MN
 
 **EPA Facility ID:** 100000000928
 

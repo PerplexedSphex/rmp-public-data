@@ -1,6 +1,6 @@
-# Unknown
+# City of Faribault Water Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Faribault, MN
 
 **EPA Facility ID:** 100000184052
 

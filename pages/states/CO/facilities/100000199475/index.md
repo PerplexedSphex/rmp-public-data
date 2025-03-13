@@ -1,6 +1,6 @@
-# Unknown
+# Bar X Dew Point Control Facility
 
-**Location:** Unknown, CO
+**Location:** Mack, CO
 
 **EPA Facility ID:** 100000199475
 

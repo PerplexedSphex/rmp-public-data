@@ -1,6 +1,6 @@
-# Unknown
+# Loogootee, IN
 
-**Location:** Unknown, IN
+**Location:** Loogootee, IN
 
 **EPA Facility ID:** 100000240624
 

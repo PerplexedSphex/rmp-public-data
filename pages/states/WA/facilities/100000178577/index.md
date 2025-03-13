@@ -1,6 +1,6 @@
-# Unknown
+# FREDERICKSON POWER LP
 
-**Location:** Unknown, WA
+**Location:** TACOMA, WA
 
 **EPA Facility ID:** 100000178577
 

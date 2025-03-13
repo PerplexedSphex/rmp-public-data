@@ -1,6 +1,6 @@
-# Unknown
+# Elwood Line Grain & Fertilizer
 
-**Location:** Unknown, IN
+**Location:** Lake Village, IN
 
 **EPA Facility ID:** 100000169355
 

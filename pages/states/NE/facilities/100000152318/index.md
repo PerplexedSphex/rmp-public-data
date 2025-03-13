@@ -1,6 +1,6 @@
-# Unknown
+# Madison's Great Western
 
-**Location:** Unknown, NE
+**Location:** Bassett, NE
 
 **EPA Facility ID:** 100000152318
 

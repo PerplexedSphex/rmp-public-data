@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Euclid
 
-**Location:** Unknown, MN
+**Location:** Euclid, MN
 
 **EPA Facility ID:** 100000021157
 

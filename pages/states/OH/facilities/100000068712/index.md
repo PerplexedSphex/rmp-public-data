@@ -1,6 +1,6 @@
-# Unknown
+# Middle Point, OH Satellite
 
-**Location:** Unknown, OH
+**Location:** Middle Point, OH
 
 **EPA Facility ID:** 100000068712
 

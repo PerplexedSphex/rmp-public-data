@@ -1,6 +1,6 @@
-# Unknown
+# Charles M. Bolton Plant
 
-**Location:** Unknown, OH
+**Location:** Fairfield, OH
 
 **EPA Facility ID:** 100000065314
 

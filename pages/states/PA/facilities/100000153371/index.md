@@ -1,6 +1,6 @@
-# Unknown
+# Lower Lackawanna Valley Sanitary Authority
 
-**Location:** Unknown, PA
+**Location:** Duryea, PA
 
 **EPA Facility ID:** 100000153371
 

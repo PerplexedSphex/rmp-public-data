@@ -1,6 +1,6 @@
-# Unknown
+# Rich Products Corporation
 
-**Location:** Unknown, MN
+**Location:** Fridley, MN
 
 **EPA Facility ID:** 100000074536
 

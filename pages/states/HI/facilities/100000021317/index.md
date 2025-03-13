@@ -1,6 +1,6 @@
-# Unknown
+# BEI Hawaii -  Barbers Point Facility, Oahu
 
-**Location:** Unknown, HI
+**Location:** Kapolei, HI
 
 **EPA Facility ID:** 100000021317
 

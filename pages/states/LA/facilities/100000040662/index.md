@@ -1,6 +1,6 @@
-# Unknown
+# Ashland Specialty Chemical Company-Plaquemine, LA
 
-**Location:** Unknown, LA
+**Location:** Plaquemine, LA
 
 **EPA Facility ID:** 100000040662
 

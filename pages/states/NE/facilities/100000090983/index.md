@@ -1,6 +1,6 @@
-# Unknown
+# Agricultural Services Inc., of Grand Island  NE
 
-**Location:** Unknown, NE
+**Location:** Grand Island, NE
 
 **EPA Facility ID:** 100000090983
 

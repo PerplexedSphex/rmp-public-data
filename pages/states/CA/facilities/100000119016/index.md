@@ -1,6 +1,6 @@
-# Unknown
+# Kern Ridge Growers, LLC (Lamont)
 
-**Location:** Unknown, CA
+**Location:** Lamont, CA
 
 **EPA Facility ID:** 100000119016
 

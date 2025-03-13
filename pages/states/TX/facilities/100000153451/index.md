@@ -1,6 +1,6 @@
-# Unknown
+# Doshier Farm Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Temple, TX
 
 **EPA Facility ID:** 100000153451
 

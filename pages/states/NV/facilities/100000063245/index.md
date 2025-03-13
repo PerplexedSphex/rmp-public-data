@@ -1,6 +1,6 @@
-# Unknown
+# Dyno Nobel, Inc - Battle Mountain Plant
 
-**Location:** Unknown, NV
+**Location:** Battle Mountain, NV
 
 **EPA Facility ID:** 100000063245
 

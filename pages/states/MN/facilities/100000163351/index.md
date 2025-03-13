@@ -1,6 +1,6 @@
-# Unknown
+# New Vision Coop
 
-**Location:** Unknown, MN
+**Location:** Heron Lake, MN
 
 **EPA Facility ID:** 100000163351
 

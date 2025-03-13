@@ -1,6 +1,6 @@
-# Unknown
+# James Baugh Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Milledgeville, GA
 
 **EPA Facility ID:** 100000008975
 

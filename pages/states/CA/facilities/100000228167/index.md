@@ -1,6 +1,6 @@
-# Unknown
+# Mt. Whitney Cold Storage
 
-**Location:** Unknown, CA
+**Location:** Exeter, CA
 
 **EPA Facility ID:** 100000228167
 

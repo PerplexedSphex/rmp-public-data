@@ -1,6 +1,6 @@
-# Unknown
+# LSB Chemical L.L.C.
 
-**Location:** Unknown, TX
+**Location:** Baytown, TX
 
 **EPA Facility ID:** 100000083189
 

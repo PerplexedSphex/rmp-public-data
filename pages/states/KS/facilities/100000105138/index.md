@@ -1,6 +1,6 @@
-# Unknown
+# RUSH CENTER -- NH3 PLANT
 
-**Location:** Unknown, KS
+**Location:** RUSH CENTER, KS
 
 **EPA Facility ID:** 100000105138
 

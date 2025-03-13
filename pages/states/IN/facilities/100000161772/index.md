@@ -1,6 +1,6 @@
-# Unknown
+# Kempton Grain & Supply Corp.
 
-**Location:** Unknown, IN
+**Location:** Kempton, IN
 
 **EPA Facility ID:** 100000161772
 

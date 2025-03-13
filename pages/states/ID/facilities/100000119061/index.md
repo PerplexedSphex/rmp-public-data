@@ -1,6 +1,6 @@
-# Unknown
+# Basic American Foods (Blackfoot)
 
-**Location:** Unknown, ID
+**Location:** Blackfoot, ID
 
 **EPA Facility ID:** 100000119061
 

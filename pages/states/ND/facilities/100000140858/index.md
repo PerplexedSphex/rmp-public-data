@@ -1,6 +1,6 @@
-# Unknown
+# Powers Lake Anhydrous Plant
 
-**Location:** Unknown, ND
+**Location:** Powers Lake, ND
 
 **EPA Facility ID:** 100000140858
 

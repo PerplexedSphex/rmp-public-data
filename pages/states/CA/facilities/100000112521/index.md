@@ -1,6 +1,6 @@
-# Unknown
+# Trauger Pumping Plant
 
-**Location:** Unknown, CA
+**Location:** Lindsay, CA
 
 **EPA Facility ID:** 100000112521
 

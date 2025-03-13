@@ -1,6 +1,6 @@
-# Unknown
+# Newport Chemical Depot
 
-**Location:** Unknown, IN
+**Location:** Newport, IN
 
 **EPA Facility ID:** 100000008653
 

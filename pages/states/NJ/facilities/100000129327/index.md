@@ -1,6 +1,6 @@
-# Unknown
+# Dye Specialties, Inc.
 
-**Location:** Unknown, NJ
+**Location:** Jersey City, NJ
 
 **EPA Facility ID:** 100000129327
 

@@ -1,6 +1,6 @@
-# Unknown
+# Seal Beach Gas Processing Joint Venture
 
-**Location:** Unknown, CA
+**Location:** Seal Beach, CA
 
 **EPA Facility ID:** 100000212815
 

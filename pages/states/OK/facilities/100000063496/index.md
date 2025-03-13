@@ -1,6 +1,6 @@
-# Unknown
+# Madill Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Madill, OK
 
 **EPA Facility ID:** 100000063496
 

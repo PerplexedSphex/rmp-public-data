@@ -1,6 +1,6 @@
-# Unknown
+# SENECA FOODS CORP.  GLENCOE, MINNESOTA
 
-**Location:** Unknown, MN
+**Location:** GLENCOE, MN
 
 **EPA Facility ID:** 100000069588
 

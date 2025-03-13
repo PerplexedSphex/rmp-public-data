@@ -1,6 +1,6 @@
-# Unknown
+# James Lake Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Goldsmith, TX
 
 **EPA Facility ID:** 100000237353
 

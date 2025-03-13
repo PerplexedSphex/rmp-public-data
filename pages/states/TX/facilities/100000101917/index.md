@@ -1,6 +1,6 @@
-# Unknown
+# City of Carthage Water Plant
 
-**Location:** Unknown, TX
+**Location:** Carthage, TX
 
 **EPA Facility ID:** 100000101917
 

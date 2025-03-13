@@ -1,6 +1,6 @@
-# Unknown
+# Wintu Pumping Plant
 
-**Location:** Unknown, CA
+**Location:** Redding, CA
 
 **EPA Facility ID:** 100000105423
 

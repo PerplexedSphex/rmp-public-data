@@ -1,6 +1,6 @@
-# Unknown
+# Oklahoma Kansas Cooperatives - Hardtner
 
-**Location:** Unknown, KS
+**Location:** Hardtner, KS
 
 **EPA Facility ID:** 100000024984
 

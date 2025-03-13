@@ -1,6 +1,6 @@
-# Unknown
+# Milton Filter Plant
 
-**Location:** Unknown, PA
+**Location:** Milton, PA
 
 **EPA Facility ID:** 100000000839
 

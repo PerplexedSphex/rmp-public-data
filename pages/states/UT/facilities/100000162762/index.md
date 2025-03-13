@@ -1,6 +1,6 @@
-# Unknown
+# Scholzen Products Company Hurricane Branch
 
-**Location:** Unknown, UT
+**Location:** Hurricane, UT
 
 **EPA Facility ID:** 100000162762
 

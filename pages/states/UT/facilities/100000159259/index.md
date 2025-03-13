@@ -1,6 +1,6 @@
-# Unknown
+# Grain Craft (Ogden, UT)
 
-**Location:** Unknown, UT
+**Location:** Ogden, UT
 
 **EPA Facility ID:** 100000159259
 

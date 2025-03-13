@@ -1,6 +1,6 @@
-# Unknown
+# Fairfield Non-Stock Co-op Fertilizer Association
 
-**Location:** Unknown, NE
+**Location:** Edgar, NE
 
 **EPA Facility ID:** 100000108698
 

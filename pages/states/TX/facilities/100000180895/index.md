@@ -1,6 +1,6 @@
-# Unknown
+# W.A. Parish Electric Generating Station
 
-**Location:** Unknown, TX
+**Location:** Thompsons, TX
 
 **EPA Facility ID:** 100000180895
 

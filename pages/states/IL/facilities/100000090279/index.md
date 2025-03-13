@@ -1,6 +1,6 @@
-# Unknown
+# DOT Foods Inc., (Mt. Sterling)
 
-**Location:** Unknown, IL
+**Location:** Mount Sterling, IL
 
 **EPA Facility ID:** 100000090279
 

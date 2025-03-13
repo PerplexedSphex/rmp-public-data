@@ -1,6 +1,6 @@
-# Unknown
+# Green Plains Fairmont LLC
 
-**Location:** Unknown, MN
+**Location:** Fairmont, MN
 
 **EPA Facility ID:** 100000202489
 

@@ -1,6 +1,6 @@
-# Unknown
+# Surface Water Advanced Treatment System
 
-**Location:** Unknown, TX
+**Location:** Granbury, TX
 
 **EPA Facility ID:** 100000108162
 

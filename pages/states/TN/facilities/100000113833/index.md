@@ -1,6 +1,6 @@
-# Unknown
+# K. R. Harrington Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Nashville, TN
 
 **EPA Facility ID:** 100000113833
 

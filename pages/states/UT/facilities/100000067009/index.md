@@ -1,6 +1,6 @@
-# Unknown
+# Hill Brothers Chemical Co. - Salt Lake City
 
-**Location:** Unknown, UT
+**Location:** North Salt Lake, UT
 
 **EPA Facility ID:** 100000067009
 

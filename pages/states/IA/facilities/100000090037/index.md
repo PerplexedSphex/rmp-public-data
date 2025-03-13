@@ -1,6 +1,6 @@
-# Unknown
+# United Suppliers, Inc. - Eldora, IA
 
-**Location:** Unknown, IA
+**Location:** Eldora, IA
 
 **EPA Facility ID:** 100000090037
 

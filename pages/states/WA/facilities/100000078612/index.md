@@ -1,6 +1,6 @@
-# Unknown
+# Chambers Creek Wastewater Treatment Plant
 
-**Location:** Unknown, WA
+**Location:** University Place, WA
 
 **EPA Facility ID:** 100000078612
 

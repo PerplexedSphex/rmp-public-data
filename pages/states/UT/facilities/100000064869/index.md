@@ -1,6 +1,6 @@
-# Unknown
+# Bridger Lake Production Facility
 
-**Location:** Unknown, UT
+**Location:** Summit County, UT
 
 **EPA Facility ID:** 100000064869
 

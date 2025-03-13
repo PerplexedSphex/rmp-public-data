@@ -1,6 +1,6 @@
-# Unknown
+# Galloway Company
 
-**Location:** Unknown, WI
+**Location:** Neenah, WI
 
 **EPA Facility ID:** 100000228416
 

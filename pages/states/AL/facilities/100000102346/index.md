@@ -1,6 +1,6 @@
-# Unknown
+# Smiths Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Smiths, AL
 
 **EPA Facility ID:** 100000102346
 

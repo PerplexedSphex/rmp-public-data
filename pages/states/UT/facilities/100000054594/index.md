@@ -1,6 +1,6 @@
-# Unknown
+# Salt Lake City Water Reclamation Plant
 
-**Location:** Unknown, UT
+**Location:** Salt Lake City, UT
 
 **EPA Facility ID:** 100000054594
 

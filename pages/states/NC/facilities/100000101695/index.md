@@ -1,6 +1,6 @@
-# Unknown
+# Salisbury-Rowan Utilities Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Salisbury, NC
 
 **EPA Facility ID:** 100000101695
 

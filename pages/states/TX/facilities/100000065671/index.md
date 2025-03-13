@@ -1,6 +1,6 @@
-# Unknown
+# Wright Patman Water Plant
 
-**Location:** Unknown, TX
+**Location:** Texarkana, TX
 
 **EPA Facility ID:** 100000065671
 

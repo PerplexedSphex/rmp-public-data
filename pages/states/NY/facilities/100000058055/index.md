@@ -1,6 +1,6 @@
-# Unknown
+# Sodus Cold Storage Co., Inc.  North Rose
 
-**Location:** Unknown, NY
+**Location:** North Rose, NY
 
 **EPA Facility ID:** 100000058055
 

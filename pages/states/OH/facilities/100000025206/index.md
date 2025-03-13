@@ -1,6 +1,6 @@
-# Unknown
+# Lorain Water Purification Plant
 
-**Location:** Unknown, OH
+**Location:** Lorain, OH
 
 **EPA Facility ID:** 100000025206
 

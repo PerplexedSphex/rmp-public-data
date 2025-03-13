@@ -1,6 +1,6 @@
-# Unknown
+# Masters Creek Gas Plant (Rev 1)
 
-**Location:** Unknown, LA
+**Location:** Pitkin, LA
 
 **EPA Facility ID:** 100000064208
 

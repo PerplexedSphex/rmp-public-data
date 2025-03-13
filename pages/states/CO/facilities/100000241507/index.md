@@ -1,6 +1,6 @@
-# Unknown
+# Sterling Terminal
 
-**Location:** Unknown, CO
+**Location:** Sterling, CO
 
 **EPA Facility ID:** 100000241507
 

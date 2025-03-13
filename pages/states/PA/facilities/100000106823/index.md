@@ -1,6 +1,6 @@
-# Unknown
+# Franklin Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Franklin, PA
 
 **EPA Facility ID:** 100000106823
 

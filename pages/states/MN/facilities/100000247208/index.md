@@ -1,6 +1,6 @@
-# Unknown
+# West St. Paul Home City Ice
 
-**Location:** Unknown, MN
+**Location:** West St Paul, MN
 
 **EPA Facility ID:** 100000247208
 

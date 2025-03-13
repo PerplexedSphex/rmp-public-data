@@ -1,6 +1,6 @@
-# Unknown
+# CITY OF HARRISONBURG WATER TREATMENT PLANT
 
-**Location:** Unknown, VA
+**Location:** HARRISONBURG, VA
 
 **EPA Facility ID:** 100000062754
 

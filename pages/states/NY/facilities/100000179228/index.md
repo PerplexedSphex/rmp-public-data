@@ -1,6 +1,6 @@
-# Unknown
+# Upstate Niagara Cooperative, Inc.
 
-**Location:** Unknown, NY
+**Location:** Buffalo, NY
 
 **EPA Facility ID:** 100000179228
 

@@ -1,6 +1,6 @@
-# Unknown
+# Griswold Water Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Aurora, CO
 
 **EPA Facility ID:** 100000122654
 

@@ -1,6 +1,6 @@
-# Unknown
+# Red Wing Gas Plant
 
-**Location:** Unknown, ND
+**Location:** Watford City, ND
 
 **EPA Facility ID:** 100000021683
 

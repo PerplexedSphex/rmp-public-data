@@ -1,6 +1,6 @@
-# Unknown
+# Signiture Foods Indiana
 
-**Location:** Unknown, IN
+**Location:** Worthington, IN
 
 **EPA Facility ID:** 100000062111
 

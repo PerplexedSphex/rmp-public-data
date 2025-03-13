@@ -1,6 +1,6 @@
-# Unknown
+# Southam Elevator Co.
 
-**Location:** Unknown, ND
+**Location:** Southam, ND
 
 **EPA Facility ID:** 100000012363
 

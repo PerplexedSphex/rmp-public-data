@@ -1,6 +1,6 @@
-# Unknown
+# Hanover Foods Freezer
 
-**Location:** Unknown, PA
+**Location:** Hanover, PA
 
 **EPA Facility ID:** 100000249778
 

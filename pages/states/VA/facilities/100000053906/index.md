@@ -1,6 +1,6 @@
-# Unknown
+# Borden Chemical, Inc. - Waverly, VA Plant
 
-**Location:** Unknown, VA
+**Location:** Waverly, VA
 
 **EPA Facility ID:** 100000053906
 

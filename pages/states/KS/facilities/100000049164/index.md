@@ -1,6 +1,6 @@
-# Unknown
+# ITW Profressional Brands
 
-**Location:** Unknown, KS
+**Location:** Olathe, KS
 
 **EPA Facility ID:** 100000049164
 

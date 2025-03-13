@@ -1,6 +1,6 @@
-# Unknown
+# QC West Coast Inc.
 
-**Location:** Unknown, AZ
+**Location:** Buckeye, AZ
 
 **EPA Facility ID:** 100000254306
 

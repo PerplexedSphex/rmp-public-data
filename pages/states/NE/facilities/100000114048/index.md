@@ -1,6 +1,6 @@
-# Unknown
+# Blair Water Treatment Facility
 
-**Location:** Unknown, NE
+**Location:** Blair, NE
 
 **EPA Facility ID:** 100000114048
 

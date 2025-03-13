@@ -1,6 +1,6 @@
-# Unknown
+# Puritan Ice Company
 
-**Location:** Unknown, CA
+**Location:** Guadalupe, CA
 
 **EPA Facility ID:** 100000089897
 

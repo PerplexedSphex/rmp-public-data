@@ -1,6 +1,6 @@
-# Unknown
+# Central Elmore Water and Sewer Authority
 
-**Location:** Unknown, AL
+**Location:** Eclectic, AL
 
 **EPA Facility ID:** 100000006799
 

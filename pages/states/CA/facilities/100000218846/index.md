@@ -1,6 +1,6 @@
-# Unknown
+# Rich Products Corporation- Union City Facility
 
-**Location:** Unknown, CA
+**Location:** Union City, CA
 
 **EPA Facility ID:** 100000218846
 

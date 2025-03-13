@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals, Inc (Houston)
 
-**Location:** Unknown, TX
+**Location:** Baytown, TX
 
 **EPA Facility ID:** 100000246511
 

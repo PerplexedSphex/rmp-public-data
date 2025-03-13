@@ -1,6 +1,6 @@
-# Unknown
+# Erie County Southtowns WWTP
 
-**Location:** Unknown, NY
+**Location:** Buffalo, NY
 
 **EPA Facility ID:** 100000103041
 

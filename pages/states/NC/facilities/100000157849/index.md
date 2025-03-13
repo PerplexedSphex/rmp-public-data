@@ -1,6 +1,6 @@
-# Unknown
+# Lexington Water Treatment Plants
 
-**Location:** Unknown, NC
+**Location:** Lexington, NC
 
 **EPA Facility ID:** 100000157849
 

@@ -1,6 +1,6 @@
-# Unknown
+# Arizona Public Service Company Redhawk Power Plant
 
-**Location:** Unknown, AZ
+**Location:** Arlington, AZ
 
 **EPA Facility ID:** 100000177701
 

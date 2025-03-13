@@ -1,6 +1,6 @@
-# Unknown
+# Barry Steam Electric Generating Plant
 
-**Location:** Unknown, AL
+**Location:** Bucks, AL
 
 **EPA Facility ID:** 100000169122
 

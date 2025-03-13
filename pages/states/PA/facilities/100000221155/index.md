@@ -1,6 +1,6 @@
-# Unknown
+# Ventura Foods, LLC - Chambersburg Division
 
-**Location:** Unknown, PA
+**Location:** Chambersburg, PA
 
 **EPA Facility ID:** 100000221155
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wise County Power Company, LLC
 
-**Location:** Unknown, TX
+**Location:** Poolville, TX
 
 **EPA Facility ID:** 100000183785
 

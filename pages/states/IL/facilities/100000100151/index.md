@@ -1,6 +1,6 @@
-# Unknown
+# Beauty Quest Group
 
-**Location:** Unknown, IL
+**Location:** Rantoul, IL
 
 **EPA Facility ID:** 100000100151
 

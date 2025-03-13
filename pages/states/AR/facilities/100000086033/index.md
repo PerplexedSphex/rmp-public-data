@@ -1,6 +1,6 @@
-# Unknown
+# Magnolia Wastewater Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Magnolia, AR
 
 **EPA Facility ID:** 100000086033
 

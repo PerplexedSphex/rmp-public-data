@@ -1,6 +1,6 @@
-# Unknown
+# City of Belmont Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Belmont, NC
 
 **EPA Facility ID:** 100000007128
 

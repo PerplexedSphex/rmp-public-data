@@ -1,6 +1,6 @@
-# Unknown
+# American Fertilizer Company, Inc.
 
-**Location:** Unknown, CO
+**Location:** Pueblo, CO
 
 **EPA Facility ID:** 100000022101
 

@@ -1,6 +1,6 @@
-# Unknown
+# NORTH PLAINS CHEMICAL CO., INC. - BERNSTEIN
 
-**Location:** Unknown, TX
+**Location:** GRUVER, TX
 
 **EPA Facility ID:** 100000168748
 

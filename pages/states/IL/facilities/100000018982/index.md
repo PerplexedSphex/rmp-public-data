@@ -1,6 +1,6 @@
-# Unknown
+# Illini FS, Inc. - Chrisman NH3
 
-**Location:** Unknown, IL
+**Location:** Chrisman, IL
 
 **EPA Facility ID:** 100000018982
 

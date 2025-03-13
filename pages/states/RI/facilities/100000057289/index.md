@@ -1,6 +1,6 @@
-# Unknown
+# Clariant Corporation - Coventry
 
-**Location:** Unknown, RI
+**Location:** Coventry, RI
 
 **EPA Facility ID:** 100000057289
 

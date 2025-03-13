@@ -1,6 +1,6 @@
-# Unknown
+# Valspar Coatings - Chicago, IL
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000131699
 

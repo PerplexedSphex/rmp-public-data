@@ -1,6 +1,6 @@
-# Unknown
+# Cotton Valley Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Cotton Valley, LA
 
 **EPA Facility ID:** 100000033448
 

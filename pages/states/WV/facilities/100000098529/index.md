@@ -1,6 +1,6 @@
-# Unknown
+# City of Wheeling - Water Treatment Plant
 
-**Location:** Unknown, WV
+**Location:** Wheeling, WV
 
 **EPA Facility ID:** 100000098529
 

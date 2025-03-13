@@ -1,6 +1,6 @@
-# Unknown
+# Cold Storage Solutions/Shetakis Wholesalers
 
-**Location:** Unknown, NV
+**Location:** North Las Vegas, NV
 
 **EPA Facility ID:** 100000174526
 

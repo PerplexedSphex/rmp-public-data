@@ -1,6 +1,6 @@
-# Unknown
+# Newport Wastewater Treatment Facility
 
-**Location:** Unknown, VT
+**Location:** Newport, VT
 
 **EPA Facility ID:** 100000070415
 

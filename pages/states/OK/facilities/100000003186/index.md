@@ -1,6 +1,6 @@
-# Unknown
+# Great Bend Coop Assn. DBA American Plains Coop Ame
 
-**Location:** Unknown, OK
+**Location:** Drummond, OK
 
 **EPA Facility ID:** 100000003186
 

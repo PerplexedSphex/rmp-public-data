@@ -1,6 +1,6 @@
-# Unknown
+# Rich Products Corporation - Fresno Facility
 
-**Location:** Unknown, CA
+**Location:** Fresno, CA
 
 **EPA Facility ID:** 100000064743
 

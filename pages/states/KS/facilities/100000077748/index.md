@@ -1,6 +1,6 @@
-# Unknown
+# DODGE CITY COOPERATIVE EXCHANGE(CIMARRON NH3)
 
-**Location:** Unknown, KS
+**Location:** CIMARRON, KS
 
 **EPA Facility ID:** 100000077748
 

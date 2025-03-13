@@ -1,6 +1,6 @@
-# Unknown
+# Comanche Plant
 
-**Location:** Unknown, TX
+**Location:** Pecos, TX
 
 **EPA Facility ID:** 100000234212
 

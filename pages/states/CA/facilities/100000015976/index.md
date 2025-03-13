@@ -1,6 +1,6 @@
-# Unknown
+# Alameda Chemical & Scientific of Newbury Park
 
-**Location:** Unknown, CA
+**Location:** Camarillo, CA
 
 **EPA Facility ID:** 100000015976
 

@@ -1,6 +1,6 @@
-# Unknown
+# ChemDesign Corporation
 
-**Location:** Unknown, MA
+**Location:** Fitchburg, MA
 
 **EPA Facility ID:** 100000117893
 

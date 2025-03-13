@@ -1,6 +1,6 @@
-# Unknown
+# J. SKinner Baking Company
 
-**Location:** Unknown, TX
+**Location:** Paris, TX
 
 **EPA Facility ID:** 100000161488
 

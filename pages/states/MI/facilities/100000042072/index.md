@@ -1,6 +1,6 @@
-# Unknown
+# Gerber Products Company
 
-**Location:** Unknown, MI
+**Location:** Fremont, MI
 
 **EPA Facility ID:** 100000042072
 

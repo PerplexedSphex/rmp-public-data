@@ -1,6 +1,6 @@
-# Unknown
+# Temple-Belton Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Belton, TX
 
 **EPA Facility ID:** 100000119169
 

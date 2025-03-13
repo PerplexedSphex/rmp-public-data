@@ -1,6 +1,6 @@
-# Unknown
+# Idalia Satellite Location
 
-**Location:** Unknown, CO
+**Location:** Idalia, CO
 
 **EPA Facility ID:** 100000020942
 

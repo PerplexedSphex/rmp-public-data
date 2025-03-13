@@ -1,6 +1,6 @@
-# Unknown
+# Pittsburg, Kansas Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Pittsburg, KS
 
 **EPA Facility ID:** 100000141679
 

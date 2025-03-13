@@ -1,6 +1,6 @@
-# Unknown
+# Wal-Mart Distribution Center #6065
 
-**Location:** Unknown, MO
+**Location:** Harrisonville, MO
 
 **EPA Facility ID:** 100000175669
 

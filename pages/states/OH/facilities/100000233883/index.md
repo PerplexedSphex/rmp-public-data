@@ -1,6 +1,6 @@
-# Unknown
+# McLane Ohio, Inc
 
-**Location:** Unknown, OH
+**Location:** Findlay, OH
 
 **EPA Facility ID:** 100000233883
 

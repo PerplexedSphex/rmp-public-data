@@ -1,6 +1,6 @@
-# Unknown
+# Rich Products Corporation - Hilliard Facility
 
-**Location:** Unknown, OH
+**Location:** Hilliard, OH
 
 **EPA Facility ID:** 100000092883
 

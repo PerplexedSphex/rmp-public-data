@@ -1,6 +1,6 @@
-# Unknown
+# City of Niles, MI Wastewater Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Niles, MI
 
 **EPA Facility ID:** 100000070772
 

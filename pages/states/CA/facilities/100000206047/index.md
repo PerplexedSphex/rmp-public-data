@@ -1,6 +1,6 @@
-# Unknown
+# Argo Chemical, Inc.
 
-**Location:** Unknown, CA
+**Location:** Shafter, CA
 
 **EPA Facility ID:** 100000206047
 

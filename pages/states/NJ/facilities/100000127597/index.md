@@ -1,6 +1,6 @@
-# Unknown
+# Colorite Specialty Resins
 
-**Location:** Unknown, NJ
+**Location:** Burlington, NJ
 
 **EPA Facility ID:** 100000127597
 

@@ -1,6 +1,6 @@
-# Unknown
+# Ellis Road NW Water Treatment Plant
 
-**Location:** Unknown, IA
+**Location:** Cedar Rapids, IA
 
 **EPA Facility ID:** 100000084703
 

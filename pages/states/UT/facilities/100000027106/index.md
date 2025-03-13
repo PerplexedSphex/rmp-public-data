@@ -1,6 +1,6 @@
-# Unknown
+# Duchesne Valley Water Treatment Plant
 
-**Location:** Unknown, UT
+**Location:** Duchesne, UT
 
 **EPA Facility ID:** 100000027106
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lake States Yeast, LLC
 
-**Location:** Unknown, WI
+**Location:** Rhinelander, WI
 
 **EPA Facility ID:** 100000209678
 

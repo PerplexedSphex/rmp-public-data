@@ -1,6 +1,6 @@
-# Unknown
+# Wilako Wastewater Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Wetumpka, AL
 
 **EPA Facility ID:** 100000029113
 

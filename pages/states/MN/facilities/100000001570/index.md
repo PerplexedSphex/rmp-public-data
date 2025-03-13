@@ -1,6 +1,6 @@
-# Unknown
+# WESTERN CONSOLIDATED COOP     -     APPLETON
 
-**Location:** Unknown, MN
+**Location:** APPLETON, MN
 
 **EPA Facility ID:** 100000001570
 

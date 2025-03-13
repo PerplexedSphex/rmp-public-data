@@ -1,6 +1,6 @@
-# Unknown
+# Western Piece Dyers and Finishers, Inc.
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000197397
 

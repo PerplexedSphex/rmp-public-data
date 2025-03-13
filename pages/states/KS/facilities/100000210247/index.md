@@ -1,6 +1,6 @@
-# Unknown
+# Hi Plains Feed LLC
 
-**Location:** Unknown, KS
+**Location:** Garden City, KS
 
 **EPA Facility ID:** 100000210247
 

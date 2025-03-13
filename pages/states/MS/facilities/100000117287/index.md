@@ -1,6 +1,6 @@
-# Unknown
+# Rising Sun Fertilizer Plant
 
-**Location:** Unknown, MS
+**Location:** Greenwood, MS
 
 **EPA Facility ID:** 100000117287
 

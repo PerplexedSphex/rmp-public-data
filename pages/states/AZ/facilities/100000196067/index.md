@@ -1,6 +1,6 @@
-# Unknown
+# Lake Pleasant Water Treatment Plant
 
-**Location:** Unknown, AZ
+**Location:** Peoria, AZ
 
 **EPA Facility ID:** 100000196067
 

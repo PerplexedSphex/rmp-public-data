@@ -1,6 +1,6 @@
-# Unknown
+# Enterprise Clay Center Terminal & Storage
 
-**Location:** Unknown, KS
+**Location:** Clay Center, KS
 
 **EPA Facility ID:** 100000191696
 

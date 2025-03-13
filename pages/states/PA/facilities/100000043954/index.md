@@ -1,6 +1,6 @@
-# Unknown
+# Tamaqua Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Tamaqua, PA
 
 **EPA Facility ID:** 100000043954
 

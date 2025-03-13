@@ -1,6 +1,6 @@
-# Unknown
+# City of Findlay Water Pollution Control Center
 
-**Location:** Unknown, OH
+**Location:** Findlay, OH
 
 **EPA Facility ID:** 100000060051
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Escondido/Vista Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Escondido, CA
 
 **EPA Facility ID:** 100000147147
 

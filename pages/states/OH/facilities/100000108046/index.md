@@ -1,6 +1,6 @@
-# Unknown
+# Clorox Products Manufacturing Company
 
-**Location:** Unknown, OH
+**Location:** Cleveland, OH
 
 **EPA Facility ID:** 100000108046
 

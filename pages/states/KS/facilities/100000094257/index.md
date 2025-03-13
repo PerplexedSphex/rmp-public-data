@@ -1,6 +1,6 @@
-# Unknown
+# Luray Elevator
 
-**Location:** Unknown, KS
+**Location:** Luray, KS
 
 **EPA Facility ID:** 100000094257
 

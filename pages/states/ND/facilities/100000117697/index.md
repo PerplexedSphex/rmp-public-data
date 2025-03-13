@@ -1,6 +1,6 @@
-# Unknown
+# Minn-Dak Farmers Cooperative
 
-**Location:** Unknown, ND
+**Location:** Wahpeton, ND
 
 **EPA Facility ID:** 100000117697
 

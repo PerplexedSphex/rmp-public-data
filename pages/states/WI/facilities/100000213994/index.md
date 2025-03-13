@@ -1,6 +1,6 @@
-# Unknown
+# Great Lakes Cheese of La Crosse, Wisconsin, INC.
 
-**Location:** Unknown, WI
+**Location:** La Crosse, WI
 
 **EPA Facility ID:** 100000213994
 

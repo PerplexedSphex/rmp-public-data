@@ -1,6 +1,6 @@
-# Unknown
+# DFA Dairy Brands Ice Cream, LLC dba Friendly's Ice
 
-**Location:** Unknown, MA
+**Location:** Wilbraham, MA
 
 **EPA Facility ID:** 100000114119
 

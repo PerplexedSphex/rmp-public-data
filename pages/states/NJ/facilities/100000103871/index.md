@@ -1,6 +1,6 @@
-# Unknown
+# Manhattan Products, Inc.
 
-**Location:** Unknown, NJ
+**Location:** Carlstadt, NJ
 
 **EPA Facility ID:** 100000103871
 

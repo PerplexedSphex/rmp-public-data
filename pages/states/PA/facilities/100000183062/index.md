@@ -1,6 +1,6 @@
-# Unknown
+# Berks Packing Company Inc
 
-**Location:** Unknown, PA
+**Location:** Reading, PA
 
 **EPA Facility ID:** 100000183062
 

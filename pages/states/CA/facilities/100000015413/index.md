@@ -1,6 +1,6 @@
-# Unknown
+# Wholesale Fuels - Bakersfield Bulk Plant
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000015413
 

@@ -1,6 +1,6 @@
-# Unknown
+# Alta Vista
 
-**Location:** Unknown, KS
+**Location:** Alta Vista, KS
 
 **EPA Facility ID:** 100000041625
 

@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Coop. Inc.- Fulton Service
 
-**Location:** Unknown, TN
+**Location:** South Fulton, TN
 
 **EPA Facility ID:** 100000090894
 

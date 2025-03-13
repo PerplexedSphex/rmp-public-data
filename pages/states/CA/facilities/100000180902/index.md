@@ -1,6 +1,6 @@
-# Unknown
+# Konoike E Street Inc.
 
-**Location:** Unknown, CA
+**Location:** Wilmington, CA, CA
 
 **EPA Facility ID:** 100000180902
 

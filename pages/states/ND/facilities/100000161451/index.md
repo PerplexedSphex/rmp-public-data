@@ -1,6 +1,6 @@
-# Unknown
+# Bordulac Farmers Elevator
 
-**Location:** Unknown, ND
+**Location:** Carrington, ND
 
 **EPA Facility ID:** 100000161451
 

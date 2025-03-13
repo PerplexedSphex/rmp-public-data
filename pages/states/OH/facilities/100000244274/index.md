@@ -1,6 +1,6 @@
-# Unknown
+# Valspar Speciality Paints
 
-**Location:** Unknown, OH
+**Location:** Massillon, OH
 
 **EPA Facility ID:** 100000244274
 

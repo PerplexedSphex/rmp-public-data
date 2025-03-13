@@ -1,6 +1,6 @@
-# Unknown
+# Worthington Water Treatment Facility
 
-**Location:** Unknown, MN
+**Location:** Worthington, MN
 
 **EPA Facility ID:** 100000022959
 

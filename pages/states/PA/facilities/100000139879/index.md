@@ -1,6 +1,6 @@
-# Unknown
+# OSRAM SYLVANIA Products Inc. - Warren, PA
 
-**Location:** Unknown, PA
+**Location:** Warren, PA
 
 **EPA Facility ID:** 100000139879
 

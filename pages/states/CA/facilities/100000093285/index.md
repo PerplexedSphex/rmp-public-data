@@ -1,6 +1,6 @@
-# Unknown
+# GE Betz - Bakersfield Plant
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000093285
 

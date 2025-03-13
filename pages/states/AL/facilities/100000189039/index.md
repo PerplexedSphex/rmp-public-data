@@ -1,6 +1,6 @@
-# Unknown
+# Gordo Gas Plant
 
-**Location:** Unknown, AL
+**Location:** Gordo, AL
 
 **EPA Facility ID:** 100000189039
 

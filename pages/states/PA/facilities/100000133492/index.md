@@ -1,6 +1,6 @@
-# Unknown
+# East Stroudsburg Water Filtration Plant
 
-**Location:** Unknown, PA
+**Location:** East Stroudsburg, PA
 
 **EPA Facility ID:** 100000133492
 

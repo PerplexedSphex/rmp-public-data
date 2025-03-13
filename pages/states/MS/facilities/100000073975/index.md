@@ -1,6 +1,6 @@
-# Unknown
+# Flare, LLC - Eucutta Gas Plant
 
-**Location:** Unknown, MS
+**Location:** Shubuta, MS
 
 **EPA Facility ID:** 100000073975
 

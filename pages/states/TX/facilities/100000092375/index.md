@@ -1,6 +1,6 @@
-# Unknown
+# Roy C. Hester Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Big Spring, TX
 
 **EPA Facility ID:** 100000092375
 

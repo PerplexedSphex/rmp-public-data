@@ -1,6 +1,6 @@
-# Unknown
+# Hamlin Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Hamlin, TX
 
 **EPA Facility ID:** 100000065252
 

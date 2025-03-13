@@ -1,6 +1,6 @@
-# Unknown
+# Chula Farmers Coop
 
-**Location:** Unknown, MO
+**Location:** Chula, MO
 
 **EPA Facility ID:** 100000081323
 

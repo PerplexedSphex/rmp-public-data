@@ -1,6 +1,6 @@
-# Unknown
+# Valley Wide Coop
 
-**Location:** Unknown, ID
+**Location:** Rexburg, ID
 
 **EPA Facility ID:** 100000197574
 

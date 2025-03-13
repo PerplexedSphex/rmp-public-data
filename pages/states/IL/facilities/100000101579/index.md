@@ -1,6 +1,6 @@
-# Unknown
+# Amboy, IL 482
 
-**Location:** Unknown, IL
+**Location:** Amboy, IL
 
 **EPA Facility ID:** 100000101579
 

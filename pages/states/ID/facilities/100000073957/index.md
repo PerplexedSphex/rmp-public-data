@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company (Genesee, ID)
 
-**Location:** Unknown, ID
+**Location:** Genesee, ID
 
 **EPA Facility ID:** 100000073957
 

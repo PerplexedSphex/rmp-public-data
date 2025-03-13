@@ -1,6 +1,6 @@
-# Unknown
+# Jim Bridger Power Plant
 
-**Location:** Unknown, WY
+**Location:** Point of Rocks, WY
 
 **EPA Facility ID:** 100000229834
 

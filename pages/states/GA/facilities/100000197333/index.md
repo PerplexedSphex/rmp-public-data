@@ -1,6 +1,6 @@
-# Unknown
+# Sunoco Logistics Pelham GA Terminal
 
-**Location:** Unknown, GA
+**Location:** Pelham, GA
 
 **EPA Facility ID:** 100000197333
 

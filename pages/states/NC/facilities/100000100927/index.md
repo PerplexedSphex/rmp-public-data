@@ -1,6 +1,6 @@
-# Unknown
+# First Broad River Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Shelby, NC
 
 **EPA Facility ID:** 100000100927
 

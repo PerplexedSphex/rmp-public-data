@@ -1,6 +1,6 @@
-# Unknown
+# D.G. Hunter Generating Station
 
-**Location:** Unknown, LA
+**Location:** Alexandria, LA
 
 **EPA Facility ID:** 100000123243
 

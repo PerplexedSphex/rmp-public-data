@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op Redfield West
 
-**Location:** Unknown, IA
+**Location:** Redfield, IA
 
 **EPA Facility ID:** 100000141713
 

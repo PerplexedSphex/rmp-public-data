@@ -1,6 +1,6 @@
-# Unknown
+# Blues City Brewery, LLC
 
-**Location:** Unknown, TN
+**Location:** Memphis, TN
 
 **EPA Facility ID:** 100000135383
 

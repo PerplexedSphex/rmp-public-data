@@ -1,6 +1,6 @@
-# Unknown
+# Idalia Anhydrous Ammonia Plant
 
-**Location:** Unknown, CO
+**Location:** Idalia, CO
 
 **EPA Facility ID:** 100000074395
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cotton Center Grain Co.
 
-**Location:** Unknown, TX
+**Location:** Cotton Center, TX
 
 **EPA Facility ID:** 100000108073
 

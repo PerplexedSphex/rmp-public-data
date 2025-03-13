@@ -1,6 +1,6 @@
-# Unknown
+# Spokane Waste-to-Energy Facility
 
-**Location:** Unknown, WA
+**Location:** Spokane, WA
 
 **EPA Facility ID:** 100000091615
 

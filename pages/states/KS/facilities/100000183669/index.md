@@ -1,6 +1,6 @@
-# Unknown
+# Lefty's Soil Service
 
-**Location:** Unknown, KS
+**Location:** Dighton, KS
 
 **EPA Facility ID:** 100000183669
 

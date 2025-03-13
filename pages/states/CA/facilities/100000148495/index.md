@@ -1,6 +1,6 @@
-# Unknown
+# San Jose Creek Water Reclamation Plant
 
-**Location:** Unknown, CA
+**Location:** Whittier, CA
 
 **EPA Facility ID:** 100000148495
 

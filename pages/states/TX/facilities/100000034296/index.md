@@ -1,6 +1,6 @@
-# Unknown
+# Sulphur Springs Water Plant
 
-**Location:** Unknown, TX
+**Location:** Sulphur Springs, TX
 
 **EPA Facility ID:** 100000034296
 

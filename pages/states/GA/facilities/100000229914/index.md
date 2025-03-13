@@ -1,6 +1,6 @@
-# Unknown
+# BGDC, LLC
 
-**Location:** Unknown, GA
+**Location:** Forest Park, GA
 
 **EPA Facility ID:** 100000229914
 

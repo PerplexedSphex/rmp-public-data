@@ -1,6 +1,6 @@
-# Unknown
+# Elcon Inc.
 
-**Location:** Unknown, CA
+**Location:** San Jose, CA
 
 **EPA Facility ID:** 100000181938
 

@@ -1,6 +1,6 @@
-# Unknown
+# TYSON FOODS, INC. HEFLIN, AL.
 
-**Location:** Unknown, AL
+**Location:** HEFLIN, AL
 
 **EPA Facility ID:** 100000186915
 

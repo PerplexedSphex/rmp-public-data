@@ -1,6 +1,6 @@
-# Unknown
+# Ottawa Lake Co-op Elevator
 
-**Location:** Unknown, MI
+**Location:** Ottawa Lake, MI
 
 **EPA Facility ID:** 100000200392
 

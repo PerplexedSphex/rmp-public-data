@@ -1,6 +1,6 @@
-# Unknown
+# Coffeen Energy Center
 
-**Location:** Unknown, IL
+**Location:** Coffeen, IL
 
 **EPA Facility ID:** 100000060426
 

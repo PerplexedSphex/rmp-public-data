@@ -1,6 +1,6 @@
-# Unknown
+# World Class Distribution, Inc. - Peoria
 
-**Location:** Unknown, AZ
+**Location:** Peoria, AZ
 
 **EPA Facility ID:** 100000254832
 

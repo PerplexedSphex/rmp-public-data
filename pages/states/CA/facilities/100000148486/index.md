@@ -1,6 +1,6 @@
-# Unknown
+# Terminal Island Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** San Pedro, CA
 
 **EPA Facility ID:** 100000148486
 

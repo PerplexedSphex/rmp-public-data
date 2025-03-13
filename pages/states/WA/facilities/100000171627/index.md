@@ -1,6 +1,6 @@
-# Unknown
+# Ritzville, WA 58
 
-**Location:** Unknown, WA
+**Location:** Ritzville, WA
 
 **EPA Facility ID:** 100000171627
 

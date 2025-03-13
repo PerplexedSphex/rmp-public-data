@@ -1,6 +1,6 @@
-# Unknown
+# Cedar City Regional Wastewater Treatment Facility
 
-**Location:** Unknown, UT
+**Location:** Cedar City, UT
 
 **EPA Facility ID:** 100000115181
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bitter Creek BG Mix Tank
 
-**Location:** Unknown, WY
+**Location:** Gillette, WY
 
 **EPA Facility ID:** 100000022664
 

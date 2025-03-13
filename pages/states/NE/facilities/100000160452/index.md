@@ -1,6 +1,6 @@
-# Unknown
+# Nebraska Fertilizer Company, Inc.
 
-**Location:** Unknown, NE
+**Location:** Rulo, NE
 
 **EPA Facility ID:** 100000160452
 

@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Gainesville
 
-**Location:** Unknown, GA
+**Location:** Gainesville, GA
 
 **EPA Facility ID:** 100000061309
 

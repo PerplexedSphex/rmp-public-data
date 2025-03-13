@@ -1,6 +1,6 @@
-# Unknown
+# Cimcon Electroplating
 
-**Location:** Unknown, TX
+**Location:** Garland, TX
 
 **EPA Facility ID:** 100000194096
 

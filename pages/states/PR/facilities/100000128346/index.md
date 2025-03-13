@@ -1,6 +1,6 @@
-# Unknown
+# Lares Wastewater Treatment Plant
 
-**Location:** Unknown, PR
+**Location:** Lares, PR
 
 **EPA Facility ID:** 100000128346
 

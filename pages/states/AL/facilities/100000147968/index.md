@@ -1,6 +1,6 @@
-# Unknown
+# The Section & Dutton Water System
 
-**Location:** Unknown, AL
+**Location:** Scottsboro, AL
 
 **EPA Facility ID:** 100000147968
 

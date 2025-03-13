@@ -1,6 +1,6 @@
-# Unknown
+# Occidental Chemical Corporation Ingleside Plant
 
-**Location:** Unknown, TX
+**Location:** Gregory, TX
 
 **EPA Facility ID:** 100000157796
 

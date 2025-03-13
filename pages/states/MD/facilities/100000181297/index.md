@@ -1,6 +1,6 @@
-# Unknown
+# SpartanNash - Severn Distribution Center
 
-**Location:** Unknown, MD
+**Location:** Severn, MD
 
 **EPA Facility ID:** 100000181297
 

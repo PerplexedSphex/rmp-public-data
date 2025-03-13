@@ -1,6 +1,6 @@
-# Unknown
+# SWMN Farmers Co-op
 
-**Location:** Unknown, MN
+**Location:** Magnolia, MN
 
 **EPA Facility ID:** 100000015681
 

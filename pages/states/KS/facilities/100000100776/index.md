@@ -1,6 +1,6 @@
-# Unknown
+# Lakin Gas Processing Plant
 
-**Location:** Unknown, KS
+**Location:** Lakin, KS
 
 **EPA Facility ID:** 100000100776
 

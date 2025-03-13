@@ -1,6 +1,6 @@
-# Unknown
+# Hemlock Semiconductor Operations LLC
 
-**Location:** Unknown, MI
+**Location:** Midland, MI
 
 **EPA Facility ID:** 100000246968
 

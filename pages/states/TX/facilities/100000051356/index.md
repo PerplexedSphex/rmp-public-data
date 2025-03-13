@@ -1,6 +1,6 @@
-# Unknown
+# Kuraray America, Inc.
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000051356
 

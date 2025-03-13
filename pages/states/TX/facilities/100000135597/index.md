@@ -1,6 +1,6 @@
-# Unknown
+# WEST FERTILIZER CO.
 
-**Location:** Unknown, TX
+**Location:** WEST, TX
 
 **EPA Facility ID:** 100000135597
 

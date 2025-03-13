@@ -1,6 +1,6 @@
-# Unknown
+# ProChem International, Inc.
 
-**Location:** Unknown, IL
+**Location:** Rockford, IL
 
 **EPA Facility ID:** 100000167963
 

@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Fairbury NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Fairbury, NE
 
 **EPA Facility ID:** 100000227809
 

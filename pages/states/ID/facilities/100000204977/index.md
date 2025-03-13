@@ -1,6 +1,6 @@
-# Unknown
+# Fresca Mexican Foods, LLC
 
-**Location:** Unknown, ID
+**Location:** Boise, ID
 
 **EPA Facility ID:** 100000204977
 

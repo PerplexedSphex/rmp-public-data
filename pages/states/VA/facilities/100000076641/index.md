@@ -1,6 +1,6 @@
-# Unknown
+# College Hill Water Treatment Plant
 
-**Location:** Unknown, VA
+**Location:** Lynchburg, VA
 
 **EPA Facility ID:** 100000076641
 

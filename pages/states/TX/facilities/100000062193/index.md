@@ -1,6 +1,6 @@
-# Unknown
+# City of Kilgore Laird Hill Storage Facility
 
-**Location:** Unknown, TX
+**Location:** Kilgore, TX
 
 **EPA Facility ID:** 100000062193
 

@@ -1,6 +1,6 @@
-# Unknown
+# Allerton Supply Company Inc. (Bongard location)
 
-**Location:** Unknown, IL
+**Location:** Philo, IL
 
 **EPA Facility ID:** 100000140974
 

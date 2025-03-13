@@ -1,6 +1,6 @@
-# Unknown
+# COOPERATIVE PRODUCERS, INC. - Lawrence
 
-**Location:** Unknown, NE
+**Location:** LAWRENCE, NE
 
 **EPA Facility ID:** 100000100464
 

@@ -1,6 +1,6 @@
-# Unknown
+# Huntsman Advanced Materials Inc.
 
-**Location:** Unknown, SC
+**Location:** Rock Hill, SC
 
 **EPA Facility ID:** 100000093374
 

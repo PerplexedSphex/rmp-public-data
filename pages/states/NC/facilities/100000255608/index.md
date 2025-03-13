@@ -1,6 +1,6 @@
-# Unknown
+# Lightning Renewables, LLC - East Carolina RNG
 
-**Location:** Unknown, NC
+**Location:** Aulander, NC
 
 **EPA Facility ID:** 100000255608
 

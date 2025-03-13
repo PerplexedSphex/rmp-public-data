@@ -10,6 +10,6 @@
 
 ## Facilities
 
-| Facility Name | City | Submissions |
-|--------------|------|-------------|
-| [Unknown](facilities/100000015805/index.md) | Unknown | 2 |
+| Facility Name | Parent Co Name | City | First Submission | Latest Submission | Submission Count |
+|---------------|----------------|------|------------------|-------------------|------------------|
+| [COS Samoa Packing Company](facilities/100000015805/index.md) | Thai Union Frozen Products PCL | Atu'u | 1999-06-01 | 2006-03-22 | 2 |

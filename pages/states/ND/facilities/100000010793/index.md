@@ -1,6 +1,6 @@
-# Unknown
+# BOWMAN GRAIN, INC.
 
-**Location:** Unknown, ND
+**Location:** BOWMAN, ND
 
 **EPA Facility ID:** 100000010793
 

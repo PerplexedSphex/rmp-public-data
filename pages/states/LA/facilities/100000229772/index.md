@@ -1,6 +1,6 @@
-# Unknown
+# Lincoln Parish Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Arcadia, LA
 
 **EPA Facility ID:** 100000229772
 

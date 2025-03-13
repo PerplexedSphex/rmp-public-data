@@ -1,6 +1,6 @@
-# Unknown
+# CenDak  Co-op - Maddock NH3 Facility
 
-**Location:** Unknown, ND
+**Location:** Maddock, ND
 
 **EPA Facility ID:** 100000011293
 

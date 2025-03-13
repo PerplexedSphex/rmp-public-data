@@ -1,6 +1,6 @@
-# Unknown
+# R.A.R. Desalination Facility
 
-**Location:** Unknown, CA
+**Location:** Chula Vista, CA
 
 **EPA Facility ID:** 100000210666
 

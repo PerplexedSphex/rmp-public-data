@@ -1,6 +1,6 @@
-# Unknown
+# Bethune Point Wastewater Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Daytona Beach, FL
 
 **EPA Facility ID:** 100000086872
 

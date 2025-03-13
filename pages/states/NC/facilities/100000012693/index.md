@@ -1,6 +1,6 @@
-# Unknown
+# Bessemer City Waste Water Treatment Facility
 
-**Location:** Unknown, NC
+**Location:** Bessemer City, NC
 
 **EPA Facility ID:** 100000012693
 

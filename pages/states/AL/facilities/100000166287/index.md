@@ -1,6 +1,6 @@
-# Unknown
+# Enterprise Albertville LPG Terminal
 
-**Location:** Unknown, AL
+**Location:** Albertville, AL
 
 **EPA Facility ID:** 100000166287
 

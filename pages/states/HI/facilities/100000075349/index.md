@@ -1,6 +1,6 @@
-# Unknown
+# Lahaina WWRF
 
-**Location:** Unknown, HI
+**Location:** Lahaina, HI
 
 **EPA Facility ID:** 100000075349
 

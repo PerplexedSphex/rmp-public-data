@@ -1,6 +1,6 @@
-# Unknown
+# Illinois-American Water Co. Dodge St. Facility
 
-**Location:** Unknown, IL
+**Location:** Peoria, IL
 
 **EPA Facility ID:** 100000161059
 

@@ -1,6 +1,6 @@
-# Unknown
+# Milliken Chemical Allen Plant
 
-**Location:** Unknown, SC
+**Location:** Blacksburg, SC
 
 **EPA Facility ID:** 100000212085
 

@@ -1,6 +1,6 @@
-# Unknown
+# Ideal Chemical & Supply Co., Inc.
 
-**Location:** Unknown, MS
+**Location:** Jackson, MS
 
 **EPA Facility ID:** 100000074028
 

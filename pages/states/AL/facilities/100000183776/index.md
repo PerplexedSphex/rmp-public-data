@@ -1,6 +1,6 @@
-# Unknown
+# Warrior River Water Filter Plant
 
-**Location:** Unknown, AL
+**Location:** Bessemer, AL
 
 **EPA Facility ID:** 100000183776
 

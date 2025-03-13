@@ -1,6 +1,6 @@
-# Unknown
+# Seminole Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** Seminole, TX
 
 **EPA Facility ID:** 100000090572
 

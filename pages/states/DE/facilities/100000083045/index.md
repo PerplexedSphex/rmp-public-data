@@ -1,6 +1,6 @@
-# Unknown
+# Dow Reichhold Specialty Latex LLC
 
-**Location:** Unknown, DE
+**Location:** Dover, DE
 
 **EPA Facility ID:** 100000083045
 

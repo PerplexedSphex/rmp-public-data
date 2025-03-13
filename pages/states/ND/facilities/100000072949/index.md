@@ -1,6 +1,6 @@
-# Unknown
+# Gwinner NH3 Plant
 
-**Location:** Unknown, ND
+**Location:** Gwinner, ND
 
 **EPA Facility ID:** 100000072949
 

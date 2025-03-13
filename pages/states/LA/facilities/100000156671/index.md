@@ -1,6 +1,6 @@
-# Unknown
+# Edgard Potable Water Plant
 
-**Location:** Unknown, LA
+**Location:** Edgard, LA
 
 **EPA Facility ID:** 100000156671
 

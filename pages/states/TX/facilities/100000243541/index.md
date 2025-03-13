@@ -1,6 +1,6 @@
-# Unknown
+# Holmes Foods Inc.
 
-**Location:** Unknown, TX
+**Location:** Nixon, TX
 
 **EPA Facility ID:** 100000243541
 

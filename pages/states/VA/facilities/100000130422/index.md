@@ -1,6 +1,6 @@
-# Unknown
+# Waynesboro Wastewater Treatment Facility
 
-**Location:** Unknown, VA
+**Location:** Waynesboro, VA
 
 **EPA Facility ID:** 100000130422
 

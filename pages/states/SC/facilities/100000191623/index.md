@@ -1,6 +1,6 @@
-# Unknown
+# INA USA Corporation - Plant 2
 
-**Location:** Unknown, SC
+**Location:** Cheraw, SC
 
 **EPA Facility ID:** 100000191623
 

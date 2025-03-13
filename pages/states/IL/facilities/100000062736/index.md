@@ -1,6 +1,6 @@
-# Unknown
+# Prairie Farms Dairy - Granite City, IL
 
-**Location:** Unknown, IL
+**Location:** Granite City, IL
 
 **EPA Facility ID:** 100000062736
 

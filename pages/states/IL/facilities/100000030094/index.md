@@ -1,6 +1,6 @@
-# Unknown
+# Joliet Office/Warehouse
 
-**Location:** Unknown, IL
+**Location:** Joliet, IL
 
 **EPA Facility ID:** 100000030094
 

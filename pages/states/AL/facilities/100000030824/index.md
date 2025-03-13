@@ -1,6 +1,6 @@
-# Unknown
+# South Parkway Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Huntsville, AL
 
 **EPA Facility ID:** 100000030824
 

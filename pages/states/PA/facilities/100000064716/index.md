@@ -1,6 +1,6 @@
-# Unknown
+# Erie Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Erie, PA
 
 **EPA Facility ID:** 100000064716
 

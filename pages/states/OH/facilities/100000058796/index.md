@@ -1,6 +1,6 @@
-# Unknown
+# Defiance Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Defiance, OH
 
 **EPA Facility ID:** 100000058796
 

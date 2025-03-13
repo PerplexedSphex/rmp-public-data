@@ -1,6 +1,6 @@
-# Unknown
+# Legacy Cooperative - Agate Location
 
-**Location:** Unknown, ND
+**Location:** Agate, ND
 
 **EPA Facility ID:** 100000213921
 

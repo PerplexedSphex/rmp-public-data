@@ -1,6 +1,6 @@
-# Unknown
+# Sitka Sound Seafoods
 
-**Location:** Unknown, AK
+**Location:** Sitka, AK
 
 **EPA Facility ID:** 100000182811
 

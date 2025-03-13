@@ -1,6 +1,6 @@
-# Unknown
+# Archbold, Ohio - Specialty Canning
 
-**Location:** Unknown, OH
+**Location:** Archbold, OH
 
 **EPA Facility ID:** 100000237237
 

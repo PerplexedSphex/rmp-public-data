@@ -1,6 +1,6 @@
-# Unknown
+# Central Region Cooperative - Fairfax Agronomy
 
-**Location:** Unknown, MN
+**Location:** Fairfax, MN
 
 **EPA Facility ID:** 100000245228
 

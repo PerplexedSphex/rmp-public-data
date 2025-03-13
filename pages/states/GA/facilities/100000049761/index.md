@@ -1,6 +1,6 @@
-# Unknown
+# Fort Benning
 
-**Location:** Unknown, GA
+**Location:** Ft. Benning, GA
 
 **EPA Facility ID:** 100000049761
 

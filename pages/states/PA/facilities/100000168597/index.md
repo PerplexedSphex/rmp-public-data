@@ -1,6 +1,6 @@
-# Unknown
+# Cambria Cogen Company
 
-**Location:** Unknown, PA
+**Location:** Ebensburg, PA
 
 **EPA Facility ID:** 100000168597
 

@@ -1,6 +1,6 @@
-# Unknown
+# Republic Plastics, L.P.
 
-**Location:** Unknown, TN
+**Location:** Knoxville, TN
 
 **EPA Facility ID:** 100000192551
 

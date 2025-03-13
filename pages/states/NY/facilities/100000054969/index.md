@@ -1,6 +1,6 @@
-# Unknown
+# Watertown Water Filtration Plant
 
-**Location:** Unknown, NY
+**Location:** Watertown, NY
 
 **EPA Facility ID:** 100000054969
 

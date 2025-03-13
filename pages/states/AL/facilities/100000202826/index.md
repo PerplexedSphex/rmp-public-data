@@ -1,6 +1,6 @@
-# Unknown
+# Charles R. Lowman Power Plant
 
-**Location:** Unknown, AL
+**Location:** Leroy, AL
 
 **EPA Facility ID:** 100000202826
 

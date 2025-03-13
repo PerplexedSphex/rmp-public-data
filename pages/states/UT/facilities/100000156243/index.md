@@ -1,6 +1,6 @@
-# Unknown
+# United States Welding
 
-**Location:** Unknown, UT
+**Location:** Salt Lake City, UT
 
 **EPA Facility ID:** 100000156243
 

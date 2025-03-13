@@ -1,6 +1,6 @@
-# Unknown
+# Penn Foam Corporation
 
-**Location:** Unknown, PA
+**Location:** Allentown, PA
 
 **EPA Facility ID:** 100000098565
 

@@ -1,6 +1,6 @@
-# Unknown
+# Vastar Resources, Inc. - Big Thicket Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Vidor, TX
 
 **EPA Facility ID:** 100000055548
 

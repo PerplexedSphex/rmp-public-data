@@ -1,6 +1,6 @@
-# Unknown
+# City of Quincy Wastewater Treatment Facility
 
-**Location:** Unknown, IL
+**Location:** Quincy, IL
 
 **EPA Facility ID:** 100000007912
 

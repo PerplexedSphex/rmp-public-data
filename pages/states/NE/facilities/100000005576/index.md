@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Murphy NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Phillips, NE
 
 **EPA Facility ID:** 100000005576
 

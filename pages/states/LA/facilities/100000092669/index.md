@@ -1,6 +1,6 @@
-# Unknown
+# Sarepta Gas Plant
 
-**Location:** Unknown, LA
+**Location:** near Sarepta, LA
 
 **EPA Facility ID:** 100000092669
 

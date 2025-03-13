@@ -1,6 +1,6 @@
-# Unknown
+# Finger Lakes LPG Storage Facility
 
-**Location:** Unknown, NY
+**Location:** Savona, NY
 
 **EPA Facility ID:** 100000045523
 

@@ -1,6 +1,6 @@
-# Unknown
+# Royal Ridge Fruit and Cold Storage LLC.
 
-**Location:** Unknown, WA
+**Location:** Royal City, WA
 
 **EPA Facility ID:** 100000188272
 

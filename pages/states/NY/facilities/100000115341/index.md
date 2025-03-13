@@ -1,6 +1,6 @@
-# Unknown
+# Olin Corporation - Niagara Falls, New York Plant
 
-**Location:** Unknown, NY
+**Location:** Niagara Falls, NY
 
 **EPA Facility ID:** 100000115341
 

@@ -1,6 +1,6 @@
-# Unknown
+# South Fayette Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Fayetteville, GA
 
 **EPA Facility ID:** 100000223876
 

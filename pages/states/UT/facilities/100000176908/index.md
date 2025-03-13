@@ -1,6 +1,6 @@
-# Unknown
+# Holcim - Salt Lake City
 
-**Location:** Unknown, UT
+**Location:** West Valley City, UT
 
 **EPA Facility ID:** 100000176908
 

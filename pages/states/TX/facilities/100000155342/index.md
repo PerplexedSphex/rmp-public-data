@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Refrigerated Processed Meats, Vernon, TX
 
-**Location:** Unknown, TX
+**Location:** Vernon, TX
 
 **EPA Facility ID:** 100000155342
 

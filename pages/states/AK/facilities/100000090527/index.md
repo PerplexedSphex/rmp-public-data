@@ -1,6 +1,6 @@
-# Unknown
+# Quadra Chemicals Western, Inc.-Fairbanks
 
-**Location:** Unknown, AK
+**Location:** Fairbanks, AK
 
 **EPA Facility ID:** 100000090527
 

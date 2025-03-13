@@ -1,6 +1,6 @@
-# Unknown
+# Hanahan Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Hanahan, SC
 
 **EPA Facility ID:** 100000017778
 

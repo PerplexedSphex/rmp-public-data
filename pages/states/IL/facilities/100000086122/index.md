@@ -1,6 +1,6 @@
-# Unknown
+# Ridgway, IL 2731 Satellite
 
-**Location:** Unknown, IL
+**Location:** Ridgway, IL
 
 **EPA Facility ID:** 100000086122
 

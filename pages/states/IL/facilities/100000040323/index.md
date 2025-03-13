@@ -1,6 +1,6 @@
-# Unknown
+# Harrison Coop
 
-**Location:** Unknown, IL
+**Location:** Durand, IL
 
 **EPA Facility ID:** 100000040323
 

@@ -1,6 +1,6 @@
-# Unknown
+# COURTNEY FERTILIZER INC
 
-**Location:** Unknown, OK
+**Location:** MARIETTA, OK
 
 **EPA Facility ID:** 100000177113
 

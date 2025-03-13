@@ -1,6 +1,6 @@
-# Unknown
+# Linde Gas & Equipment Inc.- Kingman, AZ
 
-**Location:** Unknown, AZ
+**Location:** Kingman, AZ
 
 **EPA Facility ID:** 100000128925
 

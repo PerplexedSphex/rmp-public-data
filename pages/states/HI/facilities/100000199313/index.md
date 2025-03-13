@@ -1,6 +1,6 @@
-# Unknown
+# Advanced Silicon Carbide Materials
 
-**Location:** Unknown, HI
+**Location:** Lihue, HI
 
 **EPA Facility ID:** 100000199313
 

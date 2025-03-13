@@ -1,6 +1,6 @@
-# Unknown
+# AGC Chemicals Americas, Inc.
 
-**Location:** Unknown, NJ
+**Location:** Bayonne, NJ
 
 **EPA Facility ID:** 100000129648
 

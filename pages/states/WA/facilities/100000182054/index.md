@@ -1,6 +1,6 @@
-# Unknown
+# (47) The McGregor Company Connell Retail
 
-**Location:** Unknown, WA
+**Location:** Connell, WA
 
 **EPA Facility ID:** 100000182054
 

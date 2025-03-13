@@ -1,6 +1,6 @@
-# Unknown
+# Water Plant #1
 
-**Location:** Unknown, KS
+**Location:** Leavenworth, KS
 
 **EPA Facility ID:** 100000144239
 

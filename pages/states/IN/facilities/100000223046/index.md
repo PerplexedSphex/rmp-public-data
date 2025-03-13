@@ -1,6 +1,6 @@
-# Unknown
+# Farbest Foods, Inc.
 
-**Location:** Unknown, IN
+**Location:** Vincennes, IN
 
 **EPA Facility ID:** 100000223046
 

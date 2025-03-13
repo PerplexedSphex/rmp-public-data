@@ -1,6 +1,6 @@
-# Unknown
+# J. Wayne Leonard Power Station
 
-**Location:** Unknown, LA
+**Location:** Montz, LA
 
 **EPA Facility ID:** 100000252745
 

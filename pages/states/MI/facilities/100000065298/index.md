@@ -1,6 +1,6 @@
-# Unknown
+# Alliant Foodservice, Detroit
 
-**Location:** Unknown, MI
+**Location:** Taylor, MI
 
 **EPA Facility ID:** 100000065298
 

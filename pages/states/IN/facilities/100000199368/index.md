@@ -1,6 +1,6 @@
-# Unknown
+# Central Indiana Ethanol, LLC
 
-**Location:** Unknown, IN
+**Location:** Marion, IN
 
 **EPA Facility ID:** 100000199368
 

@@ -1,6 +1,6 @@
-# Unknown
+# National Beef Packing Company, LLC, Dodge City
 
-**Location:** Unknown, KS
+**Location:** Dodge City, KS
 
 **EPA Facility ID:** 100000129675
 

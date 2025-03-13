@@ -1,6 +1,6 @@
-# Unknown
+# Hearthside Food Solutions, LLC
 
-**Location:** Unknown, IL
+**Location:** Carol Stream, IL
 
 **EPA Facility ID:** 100000198341
 

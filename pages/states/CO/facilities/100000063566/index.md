@@ -1,6 +1,6 @@
-# Unknown
+# Sterling Ammonia Plant
 
-**Location:** Unknown, CO
+**Location:** Sterling, CO
 
 **EPA Facility ID:** 100000063566
 

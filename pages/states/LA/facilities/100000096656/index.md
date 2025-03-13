@@ -1,6 +1,6 @@
-# Unknown
+# Waterbury Companies, Inc.
 
-**Location:** Unknown, LA
+**Location:** Independence, LA
 
 **EPA Facility ID:** 100000096656
 

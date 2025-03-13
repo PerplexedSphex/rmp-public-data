@@ -1,6 +1,6 @@
-# Unknown
+# G and G Company
 
-**Location:** Unknown, MT
+**Location:** Flaxville, Mt., MT
 
 **EPA Facility ID:** 100000159954
 

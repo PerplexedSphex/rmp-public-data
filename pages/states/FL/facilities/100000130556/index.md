@@ -1,6 +1,6 @@
-# Unknown
+# Specialty Chemical Manufacturing, Inc.
 
-**Location:** Unknown, FL
+**Location:** Quincy, FL
 
 **EPA Facility ID:** 100000130556
 

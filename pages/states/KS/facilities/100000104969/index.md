@@ -1,6 +1,6 @@
-# Unknown
+# Beachner Grain, Inc.
 
-**Location:** Unknown, KS
+**Location:** GARNETT, KS
 
 **EPA Facility ID:** 100000104969
 

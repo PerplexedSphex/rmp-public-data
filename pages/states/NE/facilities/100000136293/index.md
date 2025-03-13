@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Cooperative - Hoag
 
-**Location:** Unknown, NE
+**Location:** Beatrice, NE
 
 **EPA Facility ID:** 100000136293
 

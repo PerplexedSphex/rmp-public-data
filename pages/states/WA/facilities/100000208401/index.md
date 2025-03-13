@@ -1,6 +1,6 @@
-# Unknown
+# The Dalles Fruit Company
 
-**Location:** Unknown, WA
+**Location:** Dallesport, WA
 
 **EPA Facility ID:** 100000208401
 

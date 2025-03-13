@@ -1,6 +1,6 @@
-# Unknown
+# Foamex L.P.
 
-**Location:** Unknown, IN
+**Location:** Elkhart, IN
 
 **EPA Facility ID:** 100000157037
 

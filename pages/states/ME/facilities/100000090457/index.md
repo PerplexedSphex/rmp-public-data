@@ -1,6 +1,6 @@
-# Unknown
+# Great Northern Paper, Inc.
 
-**Location:** Unknown, ME
+**Location:** Millinocket, ME
 
 **EPA Facility ID:** 100000090457
 

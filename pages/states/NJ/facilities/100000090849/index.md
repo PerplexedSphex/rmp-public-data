@@ -1,6 +1,6 @@
-# Unknown
+# Equistar Chemicals, LP
 
-**Location:** Unknown, NJ
+**Location:** Edison, NJ
 
 **EPA Facility ID:** 100000090849
 

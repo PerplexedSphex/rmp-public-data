@@ -1,6 +1,6 @@
-# Unknown
+# Bayfield Compression Facility
 
-**Location:** Unknown, CO
+**Location:** Bayfield, CO
 
 **EPA Facility ID:** 100000144569
 

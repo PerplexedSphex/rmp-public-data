@@ -1,6 +1,6 @@
-# Unknown
+# Leedey Refrigeration Plant
 
-**Location:** Unknown, OK
+**Location:** Leedey, OK
 
 **EPA Facility ID:** 100000167767
 

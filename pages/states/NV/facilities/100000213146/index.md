@@ -1,6 +1,6 @@
-# Unknown
+# Enel Salt Wells, LLC
 
-**Location:** Unknown, NV
+**Location:** Fallon, NV
 
 **EPA Facility ID:** 100000213146
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Sidney, Ohio - Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Sidney, OH
 
 **EPA Facility ID:** 100000081109
 

@@ -1,6 +1,6 @@
-# Unknown
+# Arlington NH3 Plant
 
-**Location:** Unknown, KS
+**Location:** Arlington, KS
 
 **EPA Facility ID:** 100000037514
 

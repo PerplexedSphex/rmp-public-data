@@ -1,6 +1,6 @@
-# Unknown
+# Hydrite Chemical Co. - University Park
 
-**Location:** Unknown, IL
+**Location:** University Park, IL
 
 **EPA Facility ID:** 100000098743
 

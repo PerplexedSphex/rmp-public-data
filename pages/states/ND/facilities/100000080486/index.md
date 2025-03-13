@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Fargo
 
-**Location:** Unknown, ND
+**Location:** Fargo, ND
 
 **EPA Facility ID:** 100000080486
 

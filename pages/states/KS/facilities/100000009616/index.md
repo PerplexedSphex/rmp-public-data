@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Fresh Meats, inc. - Finney Co.KS
 
-**Location:** Unknown, KS
+**Location:** Holcomb, KS
 
 **EPA Facility ID:** 100000009616
 

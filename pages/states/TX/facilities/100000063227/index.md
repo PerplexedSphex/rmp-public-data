@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Eddy, TX Facility
 
-**Location:** Unknown, TX
+**Location:** Eddy, TX
 
 **EPA Facility ID:** 100000063227
 

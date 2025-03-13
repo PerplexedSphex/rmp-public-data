@@ -1,6 +1,6 @@
-# Unknown
+# The Talladega/Shelby County Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Alpine, AL
 
 **EPA Facility ID:** 100000048717
 

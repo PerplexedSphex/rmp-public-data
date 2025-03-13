@@ -1,6 +1,6 @@
-# Unknown
+# Chemtrade West US LLC
 
-**Location:** Unknown, CA
+**Location:** Richmond, CA
 
 **EPA Facility ID:** 100000119579
 

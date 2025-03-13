@@ -1,6 +1,6 @@
-# Unknown
+# White Mills Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Glendale, KY
 
 **EPA Facility ID:** 100000053167
 

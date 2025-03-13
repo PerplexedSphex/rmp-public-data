@@ -1,6 +1,6 @@
-# Unknown
+# Wicks Water Treatment Plant
 
-**Location:** Unknown, OR
+**Location:** The Dalles, OR
 
 **EPA Facility ID:** 100000013861
 

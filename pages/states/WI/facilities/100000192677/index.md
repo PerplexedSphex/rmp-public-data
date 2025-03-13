@@ -1,6 +1,6 @@
-# Unknown
+# Gehl Foods, LLC
 
-**Location:** Unknown, WI
+**Location:** Germantown, WI
 
 **EPA Facility ID:** 100000192677
 

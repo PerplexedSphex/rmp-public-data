@@ -1,6 +1,6 @@
-# Unknown
+# Flex Foam
 
-**Location:** Unknown, AZ
+**Location:** Phoenix, AZ
 
 **EPA Facility ID:** 100000126099
 

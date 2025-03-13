@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Schramm
 
-**Location:** Unknown, CO
+**Location:** YUMA, CO
 
 **EPA Facility ID:** 100000009224
 

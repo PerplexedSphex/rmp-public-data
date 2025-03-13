@@ -1,6 +1,6 @@
-# Unknown
+# Magnablend Inc.
 
-**Location:** Unknown, WY
+**Location:** Cheyenne, WY
 
 **EPA Facility ID:** 100000226169
 

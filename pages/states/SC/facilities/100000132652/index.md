@@ -1,6 +1,6 @@
-# Unknown
+# Westminster CPW Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Westminster, SC
 
 **EPA Facility ID:** 100000132652
 

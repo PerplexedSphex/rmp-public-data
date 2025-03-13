@@ -1,6 +1,6 @@
-# Unknown
+# Alexander Chemical Corporation
 
-**Location:** Unknown, IN
+**Location:** Kingsbury, IN
 
 **EPA Facility ID:** 100000099911
 

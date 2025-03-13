@@ -1,6 +1,6 @@
-# Unknown
+# Freezer and Dry Storage LLC
 
-**Location:** Unknown, MI
+**Location:** Taylor, MI
 
 **EPA Facility ID:** 100000030487
 

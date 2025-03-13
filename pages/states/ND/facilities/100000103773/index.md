@@ -1,6 +1,6 @@
-# Unknown
+# Legacy Cooperative - Bisbee NH3 Plant
 
-**Location:** Unknown, ND
+**Location:** Bisbee, ND
 
 **EPA Facility ID:** 100000103773
 

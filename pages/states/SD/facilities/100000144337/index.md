@@ -1,6 +1,6 @@
-# Unknown
+# Ipswich Propane Site Plant
 
-**Location:** Unknown, SD
+**Location:** Ipswich, SD
 
 **EPA Facility ID:** 100000144337
 

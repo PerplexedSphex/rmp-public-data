@@ -1,6 +1,6 @@
-# Unknown
+# Secodyne, Incorporated - New Richmond, OH
 
-**Location:** Unknown, OH
+**Location:** New Richmond, OH
 
 **EPA Facility ID:** 100000124322
 

@@ -1,6 +1,6 @@
-# Unknown
+# Club Chef LLC
 
-**Location:** Unknown, OH
+**Location:** Cincinnati, OH
 
 **EPA Facility ID:** 100000044016
 

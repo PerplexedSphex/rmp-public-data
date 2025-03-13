@@ -1,6 +1,6 @@
-# Unknown
+# Farragut, IA 302
 
-**Location:** Unknown, IA
+**Location:** Farragut, IA
 
 **EPA Facility ID:** 100000254208
 

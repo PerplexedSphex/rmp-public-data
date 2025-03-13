@@ -1,6 +1,6 @@
-# Unknown
+# Manito, IL
 
-**Location:** Unknown, IL
+**Location:** Manito, IL
 
 **EPA Facility ID:** 100000008154
 

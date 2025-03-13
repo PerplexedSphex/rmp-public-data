@@ -1,6 +1,6 @@
-# Unknown
+# City of Superior Wastewater Div. Of Public Works
 
-**Location:** Unknown, WI
+**Location:** Superior, WI
 
 **EPA Facility ID:** 100000150472
 

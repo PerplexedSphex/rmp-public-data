@@ -1,6 +1,6 @@
-# Unknown
+# Ingles Markets, Inc.
 
-**Location:** Unknown, NC
+**Location:** Black Mountain, NC
 
 **EPA Facility ID:** 100000177667
 

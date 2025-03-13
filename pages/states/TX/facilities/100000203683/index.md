@@ -1,6 +1,6 @@
-# Unknown
+# ETC Godley Gas Processing Plant
 
-**Location:** Unknown, TX
+**Location:** Godley, TX
 
 **EPA Facility ID:** 100000203683
 

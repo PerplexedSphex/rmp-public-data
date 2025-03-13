@@ -1,6 +1,6 @@
-# Unknown
+# East Texas Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Carthage, TX
 
 **EPA Facility ID:** 100000061764
 

@@ -1,6 +1,6 @@
-# Unknown
+# Russellville Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Russellville, AR
 
 **EPA Facility ID:** 100000147888
 

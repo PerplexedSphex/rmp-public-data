@@ -1,6 +1,6 @@
-# Unknown
+# Lindsay Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Lindsay, OK
 
 **EPA Facility ID:** 100000203825
 

@@ -1,6 +1,6 @@
-# Unknown
+# Stratton Simplot Grower Solutions
 
-**Location:** Unknown, CO
+**Location:** Stratton, CO
 
 **EPA Facility ID:** 100000199386
 

@@ -1,6 +1,6 @@
-# Unknown
+# Valentine Field Southcoast Battery
 
-**Location:** Unknown, LA
+**Location:** Gheens, LA
 
 **EPA Facility ID:** 100000222029
 

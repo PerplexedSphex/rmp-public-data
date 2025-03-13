@@ -1,6 +1,6 @@
-# Unknown
+# Haven Gas Plant
 
-**Location:** Unknown, KS
+**Location:** Haven, KS
 
 **EPA Facility ID:** 100000228559
 

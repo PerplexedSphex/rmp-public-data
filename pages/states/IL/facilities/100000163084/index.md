@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Minooka, IL Facility
 
-**Location:** Unknown, IL
+**Location:** Minooka, IL
 
 **EPA Facility ID:** 100000163084
 

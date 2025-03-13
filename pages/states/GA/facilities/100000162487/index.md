@@ -1,6 +1,6 @@
-# Unknown
+# City of Thomson - Usry Pond Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Thomson, GA
 
 **EPA Facility ID:** 100000162487
 

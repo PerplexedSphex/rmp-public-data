@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Great Lakes, LLC - Wauwatosa Warehouse
 
-**Location:** Unknown, WI
+**Location:** Wauwatosa, WI
 
 **EPA Facility ID:** 100000190054
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lampasas Butane Gas Co. - Hwy 281
 
-**Location:** Unknown, TX
+**Location:** Lampasas, TX
 
 **EPA Facility ID:** 100000009581
 

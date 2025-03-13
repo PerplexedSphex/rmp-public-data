@@ -1,6 +1,6 @@
-# Unknown
+# Grow West - Yuba City Wholesale
 
-**Location:** Unknown, CA
+**Location:** Yuba City, CA
 
 **EPA Facility ID:** 100000206207
 

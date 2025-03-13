@@ -1,6 +1,6 @@
-# Unknown
+# Dallas Tailor & Laundry Supply
 
-**Location:** Unknown, TX
+**Location:** Dallas, TX
 
 **EPA Facility ID:** 100000184221
 

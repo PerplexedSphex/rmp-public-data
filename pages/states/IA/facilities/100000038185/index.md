@@ -1,6 +1,6 @@
-# Unknown
+# NEW HORIZON FS, INC.-- KONINGSMART 8185
 
-**Location:** Unknown, IA
+**Location:** CEDAR RAPIDS, IA
 
 **EPA Facility ID:** 100000038185
 

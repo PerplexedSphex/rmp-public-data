@@ -1,6 +1,6 @@
-# Unknown
+# Great Lakes Cheese, Fillmore, Utah
 
-**Location:** Unknown, UT
+**Location:** Fillmore, UT
 
 **EPA Facility ID:** 100000194577
 

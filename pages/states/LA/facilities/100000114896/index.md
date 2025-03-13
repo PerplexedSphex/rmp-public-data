@@ -1,6 +1,6 @@
-# Unknown
+# Lucas Waste Water Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Shreveport, LA
 
 **EPA Facility ID:** 100000114896
 

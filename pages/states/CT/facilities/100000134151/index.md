@@ -1,6 +1,6 @@
-# Unknown
+# City of Meriden Broad Brook Water Treatment Plant
 
-**Location:** Unknown, CT
+**Location:** Cheshire, CT
 
 **EPA Facility ID:** 100000134151
 

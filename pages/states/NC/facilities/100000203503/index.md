@@ -1,6 +1,6 @@
-# Unknown
+# Canton Pre-Chlorination Treatment Facility
 
-**Location:** Unknown, NC
+**Location:** Canton, NC
 
 **EPA Facility ID:** 100000203503
 

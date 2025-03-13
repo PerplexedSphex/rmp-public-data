@@ -1,6 +1,6 @@
-# Unknown
+# EC Property LLC
 
-**Location:** Unknown, CA
+**Location:** El Centro, CA
 
 **EPA Facility ID:** 100000188977
 

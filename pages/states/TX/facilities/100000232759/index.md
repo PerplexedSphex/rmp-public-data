@@ -1,6 +1,6 @@
-# Unknown
+# Riptide Plant
 
-**Location:** Unknown, TX
+**Location:** Lenorah, TX
 
 **EPA Facility ID:** 100000232759
 

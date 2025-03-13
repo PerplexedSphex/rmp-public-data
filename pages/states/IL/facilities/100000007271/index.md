@@ -1,6 +1,6 @@
-# Unknown
+# EFFINGHAM CLAY SERVICE COMPANY / GAYS
 
-**Location:** Unknown, IL
+**Location:** GAYS, IL
 
 **EPA Facility ID:** 100000007271
 

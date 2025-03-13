@@ -1,6 +1,6 @@
-# Unknown
+# Walter D. Williams Water Filter Plant
 
-**Location:** Unknown, GA
+**Location:** LaGrange, GA
 
 **EPA Facility ID:** 100000076598
 

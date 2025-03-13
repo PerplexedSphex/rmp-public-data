@@ -1,6 +1,6 @@
-# Unknown
+# Plaze Inc. dba Shield Packaging of California
 
-**Location:** Unknown, CA
+**Location:** Chino, CA
 
 **EPA Facility ID:** 100000121049
 

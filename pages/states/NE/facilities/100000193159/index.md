@@ -1,6 +1,6 @@
-# Unknown
+# Madison's Great Western
 
-**Location:** Unknown, NE
+**Location:** Ainsworth, NE
 
 **EPA Facility ID:** 100000193159
 

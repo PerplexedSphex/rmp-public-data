@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Centralia
 
-**Location:** Unknown, IL
+**Location:** Centralia, IL
 
 **EPA Facility ID:** 100000213896
 

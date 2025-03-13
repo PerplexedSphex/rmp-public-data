@@ -1,6 +1,6 @@
-# Unknown
+# John Taylor Fertilizer Company Inc., - Gridley
 
-**Location:** Unknown, CA
+**Location:** Gridley, CA
 
 **EPA Facility ID:** 100000045765
 

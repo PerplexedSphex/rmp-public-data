@@ -1,6 +1,6 @@
-# Unknown
+# Solo Cup Company - Springfield, MO
 
-**Location:** Unknown, MO
+**Location:** Springfield, MO
 
 **EPA Facility ID:** 100000046906
 

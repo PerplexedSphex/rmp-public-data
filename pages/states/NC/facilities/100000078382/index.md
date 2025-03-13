@@ -1,6 +1,6 @@
-# Unknown
+# Franklin Industrial Minerals
 
-**Location:** Unknown, NC
+**Location:** Kings Mountain, NC
 
 **EPA Facility ID:** 100000078382
 

@@ -1,6 +1,6 @@
-# Unknown
+# Salt Creek Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Midwest, WY
 
 **EPA Facility ID:** 100000022897
 

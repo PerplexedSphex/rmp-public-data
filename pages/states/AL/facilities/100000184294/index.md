@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center #7019
 
-**Location:** Unknown, AL
+**Location:** Brundidge, AL
 
 **EPA Facility ID:** 100000184294
 

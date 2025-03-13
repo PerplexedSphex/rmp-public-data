@@ -1,6 +1,6 @@
-# Unknown
+# McComb Water Treatment Plant
 
-**Location:** Unknown, MS
+**Location:** McComb, MS
 
 **EPA Facility ID:** 100000195692
 

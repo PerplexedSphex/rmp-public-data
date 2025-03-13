@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Dickinson North 
 
-**Location:** Unknown, ND
+**Location:** Dickinson, ND
 
 **EPA Facility ID:** 100000191188
 

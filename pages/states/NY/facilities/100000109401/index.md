@@ -1,6 +1,6 @@
-# Unknown
+# Genpak LLC - Middletown
 
-**Location:** Unknown, NY
+**Location:** Middletown, NY
 
 **EPA Facility ID:** 100000109401
 

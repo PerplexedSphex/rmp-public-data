@@ -1,6 +1,6 @@
-# Unknown
+# Firestone Polymers Pilot Plant
 
-**Location:** Unknown, OH
+**Location:** Akron, OH
 
 **EPA Facility ID:** 100000102177
 

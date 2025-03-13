@@ -1,6 +1,6 @@
-# Unknown
+# Barber's Chemicals, Inc.
 
-**Location:** Unknown, PA
+**Location:** Sharpsville, PA
 
 **EPA Facility ID:** 100000198779
 

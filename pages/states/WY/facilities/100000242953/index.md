@@ -1,6 +1,6 @@
-# Unknown
+# Spire Storage West - Belle Butte Plant
 
-**Location:** Unknown, WY
+**Location:** Evanston, WY
 
 **EPA Facility ID:** 100000242953
 

@@ -1,6 +1,6 @@
-# Unknown
+# Eastham Refrigeration Plant
 
-**Location:** Unknown, TX
+**Location:** Lovelady, TX
 
 **EPA Facility ID:** 100000218926
 

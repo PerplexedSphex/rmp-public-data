@@ -1,6 +1,6 @@
-# Unknown
+# Linde Gas & Equipment - Blythewood
 
-**Location:** Unknown, SC
+**Location:** Blythewood, SC
 
 **EPA Facility ID:** 100000234784
 

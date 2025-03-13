@@ -1,6 +1,6 @@
-# Unknown
+# Luther-Weidman USA
 
-**Location:** Unknown, ND
+**Location:** New Town, ND
 
 **EPA Facility ID:** 100000242819
 

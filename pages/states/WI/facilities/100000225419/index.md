@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Stevens Point
 
-**Location:** Unknown, WI
+**Location:** Stevens Point, WI
 
 **EPA Facility ID:** 100000225419
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gordon Food Service - Brighton
 
-**Location:** Unknown, MI
+**Location:** Brighton, MI
 
 **EPA Facility ID:** 100000127301
 

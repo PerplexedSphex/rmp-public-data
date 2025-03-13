@@ -1,6 +1,6 @@
-# Unknown
+# Klamath Cogeneration Project
 
-**Location:** Unknown, OR
+**Location:** Klamath Falls, OR
 
 **EPA Facility ID:** 100000176702
 

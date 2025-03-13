@@ -1,6 +1,6 @@
-# Unknown
+# Lawson Fork Wastewater Treament Plant
 
-**Location:** Unknown, SC
+**Location:** Spartanburg, SC
 
 **EPA Facility ID:** 100000013807
 

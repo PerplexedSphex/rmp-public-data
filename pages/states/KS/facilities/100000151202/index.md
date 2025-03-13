@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Tribune
 
-**Location:** Unknown, KS
+**Location:** Tribune, KS
 
 **EPA Facility ID:** 100000151202
 

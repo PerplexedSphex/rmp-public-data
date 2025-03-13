@@ -1,6 +1,6 @@
-# Unknown
+# Dover-Hennessey Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Hennessey, OK
 
 **EPA Facility ID:** 100000081029
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mandalay Generating Station
 
-**Location:** Unknown, CA
+**Location:** Oxnard, CA
 
 **EPA Facility ID:** 100000089619
 

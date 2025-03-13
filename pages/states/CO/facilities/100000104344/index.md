@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Greeley
 
-**Location:** Unknown, CO
+**Location:** Greeley, CO
 
 **EPA Facility ID:** 100000104344
 

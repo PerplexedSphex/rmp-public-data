@@ -1,6 +1,6 @@
-# Unknown
+# DAVIS WIRE CORPORATION - HAYWARD PLANT
 
-**Location:** Unknown, CA
+**Location:** HAYWARD, CA
 
 **EPA Facility ID:** 100000109777
 

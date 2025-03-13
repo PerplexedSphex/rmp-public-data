@@ -1,6 +1,6 @@
-# Unknown
+# CPC International Apple Co
 
-**Location:** Unknown, WA
+**Location:** Yakima, WA
 
 **EPA Facility ID:** 100000226258
 

@@ -1,6 +1,6 @@
-# Unknown
+# Dickinson Frozen Foods (IdaCold LLC)
 
-**Location:** Unknown, ID
+**Location:** Nampa, ID
 
 **EPA Facility ID:** 100000139003
 

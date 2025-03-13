@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Dwight
 
-**Location:** Unknown, NE
+**Location:** Dwight, NE
 
 **EPA Facility ID:** 100000138567
 

@@ -1,6 +1,6 @@
-# Unknown
+# Coal Gas Recovery LP
 
-**Location:** Unknown, PA
+**Location:** Waynesburg, PA
 
 **EPA Facility ID:** 100000188487
 

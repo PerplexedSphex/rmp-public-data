@@ -1,6 +1,6 @@
-# Unknown
+# Chamberlain Facility
 
-**Location:** Unknown, SD
+**Location:** Chamberlain, SD
 
 **EPA Facility ID:** 100000117713
 

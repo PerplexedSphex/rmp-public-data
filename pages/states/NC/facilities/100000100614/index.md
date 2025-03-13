@@ -1,6 +1,6 @@
-# Unknown
+# Harris Teeter Greensboro Frozen Foods Distribution
 
-**Location:** Unknown, NC
+**Location:** Greensboro, NC
 
 **EPA Facility ID:** 100000100614
 

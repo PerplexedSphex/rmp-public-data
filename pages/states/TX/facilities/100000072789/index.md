@@ -1,6 +1,6 @@
-# Unknown
+# GE Betz - Orange Plant
 
-**Location:** Unknown, TX
+**Location:** West Orange, TX
 
 **EPA Facility ID:** 100000072789
 

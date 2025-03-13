@@ -1,6 +1,6 @@
-# Unknown
+# Pioneer Silica Gel Plant
 
-**Location:** Unknown, WY
+**Location:** Opal, WY
 
 **EPA Facility ID:** 100000184613
 

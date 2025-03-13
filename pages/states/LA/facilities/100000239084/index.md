@@ -1,6 +1,6 @@
-# Unknown
+# Souter Chlorine Storage Facility
 
-**Location:** Unknown, LA
+**Location:** Baton Rouge, LA
 
 **EPA Facility ID:** 100000239084
 

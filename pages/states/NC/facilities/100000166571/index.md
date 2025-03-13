@@ -1,6 +1,6 @@
-# Unknown
+# City of Mount Holly Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Mount Holly, NC
 
 **EPA Facility ID:** 100000166571
 

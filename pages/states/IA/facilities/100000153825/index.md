@@ -1,6 +1,6 @@
-# Unknown
+# Western Iowa Co-Op
 
-**Location:** Unknown, IA
+**Location:** Sloan, IA
 
 **EPA Facility ID:** 100000153825
 

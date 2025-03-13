@@ -1,6 +1,6 @@
-# Unknown
+# Kenneth D. Byrd Intake Station
 
-**Location:** Unknown, AL
+**Location:** Quinton, AL
 
 **EPA Facility ID:** 100000025616
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-Olney
 
-**Location:** Unknown, IL
+**Location:** Olney, IL
 
 **EPA Facility ID:** 100000030012
 

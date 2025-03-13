@@ -1,6 +1,6 @@
-# Unknown
+# Sugar Creek Packing Co.- BWB
 
-**Location:** Unknown, OH
+**Location:** Fairfield, OH
 
 **EPA Facility ID:** 100000228906
 

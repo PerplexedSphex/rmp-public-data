@@ -1,6 +1,6 @@
-# Unknown
+# Spring Creek Facility
 
-**Location:** Unknown, IL
+**Location:** Springfield, IL
 
 **EPA Facility ID:** 100000110239
 

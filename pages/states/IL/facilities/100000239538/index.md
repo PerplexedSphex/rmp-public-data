@@ -1,6 +1,6 @@
-# Unknown
+# Hoopeston, IL 50
 
-**Location:** Unknown, IL
+**Location:** Hoopeston, IL
 
 **EPA Facility ID:** 100000239538
 

@@ -1,6 +1,6 @@
-# Unknown
+# Central Valley Meat Company
 
-**Location:** Unknown, CA
+**Location:** Hanford, CA
 
 **EPA Facility ID:** 100000210434
 

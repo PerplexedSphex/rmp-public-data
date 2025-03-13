@@ -1,6 +1,6 @@
-# Unknown
+# TYSON CHICKEN, INC. DEXTER, MO.
 
-**Location:** Unknown, MO
+**Location:** DEXTER, MO
 
 **EPA Facility ID:** 100000054362
 

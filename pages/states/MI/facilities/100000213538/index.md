@@ -1,6 +1,6 @@
-# Unknown
+# Trinseo - Midland MI Plant
 
-**Location:** Unknown, MI
+**Location:** Midland, MI
 
 **EPA Facility ID:** 100000213538
 

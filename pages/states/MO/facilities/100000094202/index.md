@@ -1,6 +1,6 @@
-# Unknown
+# Canfil Industries, Inc.
 
-**Location:** Unknown, MO
+**Location:** St. James, MO
 
 **EPA Facility ID:** 100000094202
 

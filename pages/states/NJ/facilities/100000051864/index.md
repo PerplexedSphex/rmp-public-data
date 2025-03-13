@@ -1,6 +1,6 @@
-# Unknown
+# Ciba Specialty Chemicals, Corp.
 
-**Location:** Unknown, NJ
+**Location:** Old Bridge, NJ
 
 **EPA Facility ID:** 100000051864
 

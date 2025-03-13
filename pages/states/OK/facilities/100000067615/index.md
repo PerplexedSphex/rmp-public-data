@@ -1,6 +1,6 @@
-# Unknown
+# Harrah Natural Gas Processing Plant
 
-**Location:** Unknown, OK
+**Location:** Harrah, OK
 
 **EPA Facility ID:** 100000067615
 

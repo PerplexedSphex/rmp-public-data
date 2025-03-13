@@ -1,6 +1,6 @@
-# Unknown
+# Blythe Energy Center
 
-**Location:** Unknown, CA
+**Location:** Blythe, CA
 
 **EPA Facility ID:** 100000180181
 

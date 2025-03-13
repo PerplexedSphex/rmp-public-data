@@ -1,6 +1,6 @@
-# Unknown
+# Carty Generation Station
 
-**Location:** Unknown, OR
+**Location:** Boardman, OR
 
 **EPA Facility ID:** 100000232679
 

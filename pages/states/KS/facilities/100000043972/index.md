@@ -1,6 +1,6 @@
-# Unknown
+# Salina Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Salina, KS
 
 **EPA Facility ID:** 100000043972
 

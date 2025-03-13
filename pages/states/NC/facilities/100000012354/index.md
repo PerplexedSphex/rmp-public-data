@@ -1,6 +1,6 @@
-# Unknown
+# J.V. Tarpley Water Treatment Facility
 
-**Location:** Unknown, NC
+**Location:** Bessemer City, NC
 
 **EPA Facility ID:** 100000012354
 

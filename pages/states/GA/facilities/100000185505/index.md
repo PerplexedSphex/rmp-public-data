@@ -1,6 +1,6 @@
-# Unknown
+# Shoal Creek Filter Plant
 
-**Location:** Unknown, GA
+**Location:** Buford, GA
 
 **EPA Facility ID:** 100000185505
 

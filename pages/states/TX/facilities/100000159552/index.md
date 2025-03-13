@@ -1,6 +1,6 @@
-# Unknown
+# Americold, Amarillo  - Plant  #8408
 
-**Location:** Unknown, TX
+**Location:** Amarillo, TX
 
 **EPA Facility ID:** 100000159552
 

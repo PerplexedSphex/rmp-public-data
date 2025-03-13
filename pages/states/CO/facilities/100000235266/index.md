@@ -1,6 +1,6 @@
-# Unknown
+# Fort Lupton Gas Plant
 
-**Location:** Unknown, CO
+**Location:** Ft. Lupton, CO
 
 **EPA Facility ID:** 100000235266
 

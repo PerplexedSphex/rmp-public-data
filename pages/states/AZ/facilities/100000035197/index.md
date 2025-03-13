@@ -1,6 +1,6 @@
-# Unknown
+# Verde Water Treatment Plant
 
-**Location:** Unknown, AZ
+**Location:** Scottsdale, AZ
 
 **EPA Facility ID:** 100000035197
 

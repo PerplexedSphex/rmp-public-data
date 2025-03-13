@@ -1,6 +1,6 @@
-# Unknown
+# Skelgas of Park Rapids
 
-**Location:** Unknown, MN
+**Location:** Park Rapids, MN
 
 **EPA Facility ID:** 100000014708
 

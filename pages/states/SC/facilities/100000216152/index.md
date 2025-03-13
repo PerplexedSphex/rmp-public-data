@@ -1,6 +1,6 @@
-# Unknown
+# Town of Lyman Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Lyman, SC
 
 **EPA Facility ID:** 100000216152
 

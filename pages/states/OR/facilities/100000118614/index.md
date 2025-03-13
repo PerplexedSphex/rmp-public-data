@@ -1,6 +1,6 @@
-# Unknown
+# Robert A. Duff Water Treatment Plant
 
-**Location:** Unknown, OR
+**Location:** White City, OR
 
 **EPA Facility ID:** 100000118614
 

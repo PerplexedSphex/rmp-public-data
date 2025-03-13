@@ -1,6 +1,6 @@
-# Unknown
+# OHIGRO, Inc. Waldo
 
-**Location:** Unknown, OH
+**Location:** Waldo, OH
 
 **EPA Facility ID:** 100000169079
 

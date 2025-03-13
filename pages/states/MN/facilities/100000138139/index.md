@@ -1,6 +1,6 @@
-# Unknown
+# Progress Casting, Inc.
 
-**Location:** Unknown, MN
+**Location:** Plymouth, MN
 
 **EPA Facility ID:** 100000138139
 

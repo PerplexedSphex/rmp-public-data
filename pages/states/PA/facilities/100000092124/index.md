@@ -1,6 +1,6 @@
-# Unknown
+# Scranton Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Scranton, PA
 
 **EPA Facility ID:** 100000092124
 

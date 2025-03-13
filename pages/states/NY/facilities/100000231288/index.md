@@ -1,6 +1,6 @@
-# Unknown
+# The Matt Brewery Co., Inc.
 
-**Location:** Unknown, NY
+**Location:** Utica, NY
 
 **EPA Facility ID:** 100000231288
 

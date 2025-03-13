@@ -1,6 +1,6 @@
-# Unknown
+# Cana Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Calumet, OK
 
 **EPA Facility ID:** 100000213459
 

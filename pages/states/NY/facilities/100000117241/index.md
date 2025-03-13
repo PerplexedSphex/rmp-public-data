@@ -1,6 +1,6 @@
-# Unknown
+# Eastern Alloys Inc.
 
-**Location:** Unknown, NY
+**Location:** Maybrook, NY
 
 **EPA Facility ID:** 100000117241
 

@@ -1,6 +1,6 @@
-# Unknown
+# National Cold Storage Co.
 
-**Location:** Unknown, CA
+**Location:** Los Angeles, CA
 
 **EPA Facility ID:** 100000139245
 

@@ -1,6 +1,6 @@
-# Unknown
+# Copperhead Chemical Company Inc.
 
-**Location:** Unknown, PA
+**Location:** Tamaqua, PA
 
 **EPA Facility ID:** 100000052195
 

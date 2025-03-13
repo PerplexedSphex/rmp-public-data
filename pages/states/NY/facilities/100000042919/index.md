@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Alloys, L.L.C.
 
-**Location:** Unknown, NY
+**Location:** Syracuse, NY
 
 **EPA Facility ID:** 100000042919
 

@@ -1,6 +1,6 @@
-# Unknown
+# Clorox Products Manufacturing Company
 
-**Location:** Unknown, CA
+**Location:** City Of Vernon, CA
 
 **EPA Facility ID:** 100000067571
 

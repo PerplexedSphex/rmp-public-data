@@ -1,6 +1,6 @@
-# Unknown
+# Coastal Oyster Creek Chemical
 
-**Location:** Unknown, TX
+**Location:** Freeport, TX
 
 **EPA Facility ID:** 100000030717
 

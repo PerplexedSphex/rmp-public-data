@@ -1,6 +1,6 @@
-# Unknown
+# Northampton Borough Municipal Authority WTP
 
-**Location:** Unknown, PA
+**Location:** Whitehall, PA
 
 **EPA Facility ID:** 100000092071
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sandel Glass Company
 
-**Location:** Unknown, AL
+**Location:** Bessemer, AL
 
 **EPA Facility ID:** 100000066019
 

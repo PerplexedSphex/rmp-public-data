@@ -1,6 +1,6 @@
-# Unknown
+# Reichhold, Inc.
 
-**Location:** Unknown, IL
+**Location:** Morris, IL
 
 **EPA Facility ID:** 100000081341
 

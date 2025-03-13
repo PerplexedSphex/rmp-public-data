@@ -1,6 +1,6 @@
-# Unknown
+# Ray-Carroll County Grain Growers, Inc., Sumner
 
-**Location:** Unknown, MO
+**Location:** Sumner, MO
 
 **EPA Facility ID:** 100000034697
 

@@ -1,6 +1,6 @@
-# Unknown
+# COOPERAIVE PRODUCERS, INC - Funk North NH3
 
-**Location:** Unknown, NE
+**Location:** Funk, NE
 
 **EPA Facility ID:** 100000086275
 

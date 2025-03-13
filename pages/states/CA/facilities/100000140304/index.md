@@ -1,6 +1,6 @@
-# Unknown
+# AES Placerita, Inc.
 
-**Location:** Unknown, CA
+**Location:** Newhall, CA
 
 **EPA Facility ID:** 100000140304
 

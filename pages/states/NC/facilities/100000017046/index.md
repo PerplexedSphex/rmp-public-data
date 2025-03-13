@@ -1,6 +1,6 @@
-# Unknown
+# City of Asheboro Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Asheboro, NC
 
 **EPA Facility ID:** 100000017046
 

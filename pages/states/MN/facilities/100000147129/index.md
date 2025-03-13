@@ -1,6 +1,6 @@
-# Unknown
+# Central Valley Cooperative - Dennison
 
-**Location:** Unknown, MN
+**Location:** Dennison, MN
 
 **EPA Facility ID:** 100000147129
 

@@ -1,6 +1,6 @@
-# Unknown
+# Ferrero - Florence Plant
 
-**Location:** Unknown, KY
+**Location:** Florence, KY
 
 **EPA Facility ID:** 100000040859
 

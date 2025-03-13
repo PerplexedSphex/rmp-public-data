@@ -1,6 +1,6 @@
-# Unknown
+# LaGrander's Hillside Dairy
 
-**Location:** Unknown, WI
+**Location:** Stanley, WI
 
 **EPA Facility ID:** 100000241785
 

@@ -1,6 +1,6 @@
-# Unknown
+# Midwest Farmers Coop - Otoe
 
-**Location:** Unknown, NE
+**Location:** Otoe, NE
 
 **EPA Facility ID:** 100000080716
 

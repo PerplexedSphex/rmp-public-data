@@ -1,6 +1,6 @@
-# Unknown
+# Elemetal Refining, LLC
 
-**Location:** Unknown, OH
+**Location:** Jackson, OH
 
 **EPA Facility ID:** 100000224713
 

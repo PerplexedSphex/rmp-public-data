@@ -1,6 +1,6 @@
-# Unknown
+# Redding Clear Creek Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Anderson, CA
 
 **EPA Facility ID:** 100000099467
 

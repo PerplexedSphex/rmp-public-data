@@ -1,6 +1,6 @@
-# Unknown
+# Greenville Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Greenville, PA
 
 **EPA Facility ID:** 100000038568
 

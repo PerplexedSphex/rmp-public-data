@@ -1,6 +1,6 @@
-# Unknown
+# Maid Rite Specialty Foods Inc.
 
-**Location:** Unknown, PA
+**Location:** Dunmore, PA
 
 **EPA Facility ID:** 100000226908
 

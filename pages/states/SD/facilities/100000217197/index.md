@@ -1,6 +1,6 @@
-# Unknown
+# Link Snacks Inc.
 
-**Location:** Unknown, SD
+**Location:** Alpena, SD
 
 **EPA Facility ID:** 100000217197
 

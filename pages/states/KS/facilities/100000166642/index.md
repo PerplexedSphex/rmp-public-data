@@ -1,6 +1,6 @@
-# Unknown
+# Golden Valley, Inc. - Burdett
 
-**Location:** Unknown, KS
+**Location:** Burdett, KS
 
 **EPA Facility ID:** 100000166642
 

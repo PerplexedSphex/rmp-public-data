@@ -1,6 +1,6 @@
-# Unknown
+# Essential Power Newington, LLC
 
-**Location:** Unknown, NH
+**Location:** Newington, NH
 
 **EPA Facility ID:** 100000180546
 

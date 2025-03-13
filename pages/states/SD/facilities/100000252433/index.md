@@ -1,6 +1,6 @@
-# Unknown
+# Brookings RNG Injection Hub
 
-**Location:** Unknown, SD
+**Location:** Brookings, SD
 
 **EPA Facility ID:** 100000252433
 

@@ -1,6 +1,6 @@
-# Unknown
+# Ajinomoto North America, Inc. - Raleigh Plant
 
-**Location:** Unknown, NC
+**Location:** Raleigh, NC
 
 **EPA Facility ID:** 100000036793
 

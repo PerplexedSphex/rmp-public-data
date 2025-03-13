@@ -1,6 +1,6 @@
-# Unknown
+# Jennie-O Turkey, Store, Inc. Pelican Rapids
 
-**Location:** Unknown, MN
+**Location:** Pelican Rapids, MN
 
 **EPA Facility ID:** 100000103185
 

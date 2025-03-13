@@ -1,6 +1,6 @@
-# Unknown
+# TYSON POULTRY INC. PINE BLUFF, AR. (FP-JP)
 
-**Location:** Unknown, AR
+**Location:** PINE BLUFF, AR
 
 **EPA Facility ID:** 100000054415
 

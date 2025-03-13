@@ -1,6 +1,6 @@
-# Unknown
+# Synear Foods - Chatsworth
 
-**Location:** Unknown, CA
+**Location:** Chatsworth, CA
 
 **EPA Facility ID:** 100000128578
 

@@ -1,6 +1,6 @@
-# Unknown
+# Longhorn Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Decatur, TX
 
 **EPA Facility ID:** 100000224811
 

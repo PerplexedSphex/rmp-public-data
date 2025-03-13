@@ -1,6 +1,6 @@
-# Unknown
+# Pueblo Wastewater Reclamation Facility
 
-**Location:** Unknown, CO
+**Location:** Pueblo, CO
 
 **EPA Facility ID:** 100000101864
 

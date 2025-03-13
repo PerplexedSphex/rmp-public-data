@@ -1,6 +1,6 @@
-# Unknown
+# Glendale Waste Water Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Lakeland, FL
 
 **EPA Facility ID:** 100000093686
 

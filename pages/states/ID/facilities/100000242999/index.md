@@ -1,6 +1,6 @@
-# Unknown
+# Dickinson Frozen Foods
 
-**Location:** Unknown, ID
+**Location:** Sugar City, ID
 
 **EPA Facility ID:** 100000242999
 

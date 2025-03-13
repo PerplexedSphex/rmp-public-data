@@ -1,6 +1,6 @@
-# Unknown
+# L.T. "Pie" Hay Filter Plant
 
-**Location:** Unknown, TN
+**Location:** Lexington, TN
 
 **EPA Facility ID:** 100000097441
 

@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. -- Houston
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000014575
 

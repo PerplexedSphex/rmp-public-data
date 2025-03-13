@@ -1,6 +1,6 @@
-# Unknown
+# Gordon Food Service - Kenosha
 
-**Location:** Unknown, WI
+**Location:** Kenosha, WI
 
 **EPA Facility ID:** 100000210577
 

@@ -1,6 +1,6 @@
-# Unknown
+# Kent Quality Foods
 
-**Location:** Unknown, MI
+**Location:** Hudsonville, MI
 
 **EPA Facility ID:** 100000238995
 

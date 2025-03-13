@@ -1,6 +1,6 @@
-# Unknown
+# California Dairies, Inc. Visalia
 
-**Location:** Unknown, CA
+**Location:** Visalia, CA
 
 **EPA Facility ID:** 100000200828
 

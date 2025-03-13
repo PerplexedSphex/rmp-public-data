@@ -1,6 +1,6 @@
-# Unknown
+# Pottstown Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Pottstown, PA
 
 **EPA Facility ID:** 100000091125
 

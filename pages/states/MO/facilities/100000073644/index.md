@@ -1,6 +1,6 @@
-# Unknown
+# Euticals Inc.
 
-**Location:** Unknown, MO
+**Location:** Springfield, MO
 
 **EPA Facility ID:** 100000073644
 

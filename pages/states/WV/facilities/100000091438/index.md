@@ -1,6 +1,6 @@
-# Unknown
+# Taylor County PSD Water Treatment Plant (WTP)
 
-**Location:** Unknown, WV
+**Location:** Grafton, WV
 
 **EPA Facility ID:** 100000091438
 

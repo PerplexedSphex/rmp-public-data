@@ -1,6 +1,6 @@
-# Unknown
+# THE STATE SUPPLY COMPANY, INC.
 
-**Location:** Unknown, GA
+**Location:** JACKSON, GA
 
 **EPA Facility ID:** 100000022539
 

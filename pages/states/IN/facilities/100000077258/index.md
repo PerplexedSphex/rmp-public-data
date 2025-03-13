@@ -1,6 +1,6 @@
-# Unknown
+# Gary Wastewater Treatment Plant
 
-**Location:** Unknown, IN
+**Location:** Gary, IN
 
 **EPA Facility ID:** 100000077258
 

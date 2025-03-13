@@ -1,6 +1,6 @@
-# Unknown
+# Northern Pride, Inc.
 
-**Location:** Unknown, MN
+**Location:** Thief River Falls, MN
 
 **EPA Facility ID:** 100000247306
 

@@ -1,6 +1,6 @@
-# Unknown
+# COOPERATIVE PRODUCERS, INC - Republican City NH3
 
-**Location:** Unknown, NE
+**Location:** Republican City, NE
 
 **EPA Facility ID:** 100000082224
 

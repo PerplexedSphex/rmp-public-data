@@ -1,6 +1,6 @@
-# Unknown
+# Wastewater Treatment Facility
 
-**Location:** Unknown, CA
+**Location:** Merced, CA
 
 **EPA Facility ID:** 100000084482
 

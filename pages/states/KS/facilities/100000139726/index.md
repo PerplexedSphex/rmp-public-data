@@ -1,6 +1,6 @@
-# Unknown
+# City of Hutchinson Chlorine Storage Facility
 
-**Location:** Unknown, KS
+**Location:** Hutchinson, KS
 
 **EPA Facility ID:** 100000139726
 

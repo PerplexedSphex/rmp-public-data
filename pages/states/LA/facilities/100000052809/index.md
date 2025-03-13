@@ -1,6 +1,6 @@
-# Unknown
+# Witco Corporation  Harahan Louisiana Plant
 
-**Location:** Unknown, LA
+**Location:** Harahan, LA
 
 **EPA Facility ID:** 100000052809
 

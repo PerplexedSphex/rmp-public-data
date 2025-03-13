@@ -1,6 +1,6 @@
-# Unknown
+# The Andersons Upper Sandusky Terminal
 
-**Location:** Unknown, OH
+**Location:** Upper Sandusky, OH
 
 **EPA Facility ID:** 100000227186
 

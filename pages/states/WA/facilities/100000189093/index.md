@@ -1,6 +1,6 @@
-# Unknown
+# Lamb Weston Paterson Facility
 
-**Location:** Unknown, WA
+**Location:** Paterson, WA
 
 **EPA Facility ID:** 100000189093
 

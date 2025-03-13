@@ -1,6 +1,6 @@
-# Unknown
+# Illinois-Amer. Water Co, Granite City Facility
 
-**Location:** Unknown, IL
+**Location:** Granite City, IL
 
 **EPA Facility ID:** 100000137791
 

@@ -1,6 +1,6 @@
-# Unknown
+# GRAINCO FS - MINOOKA
 
-**Location:** Unknown, IL
+**Location:** MINOOKA, IL
 
 **EPA Facility ID:** 100000103372
 

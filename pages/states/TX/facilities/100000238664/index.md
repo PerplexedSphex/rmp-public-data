@@ -1,6 +1,6 @@
-# Unknown
+# Polycoat Products, LLC - Arlington, TX
 
-**Location:** Unknown, TX
+**Location:** Arlington, TX
 
 **EPA Facility ID:** 100000238664
 

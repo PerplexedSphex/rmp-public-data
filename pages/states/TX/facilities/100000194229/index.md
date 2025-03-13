@@ -1,6 +1,6 @@
-# Unknown
+# Guardian Pool Chemical, Inc.
 
-**Location:** Unknown, TX
+**Location:** Garland, TX
 
 **EPA Facility ID:** 100000194229
 

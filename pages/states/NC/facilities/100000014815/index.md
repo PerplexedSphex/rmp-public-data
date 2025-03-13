@@ -1,6 +1,6 @@
-# Unknown
+# City of Sanford Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Sanford, NC
 
 **EPA Facility ID:** 100000014815
 

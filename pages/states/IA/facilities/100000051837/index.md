@@ -1,6 +1,6 @@
-# Unknown
+# Osceola Water Plant
 
-**Location:** Unknown, IA
+**Location:** Osceola, IA
 
 **EPA Facility ID:** 100000051837
 

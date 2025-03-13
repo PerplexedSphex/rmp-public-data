@@ -1,6 +1,6 @@
-# Unknown
+# Acuity Specialty Products dba Zep Sales & Service
 
-**Location:** Unknown, AZ
+**Location:** Kingman, AZ
 
 **EPA Facility ID:** 100000249457
 

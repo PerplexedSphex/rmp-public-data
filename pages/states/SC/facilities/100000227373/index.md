@@ -1,6 +1,6 @@
-# Unknown
+# Chemsolv Rock Hill Facility
 
-**Location:** Unknown, SC
+**Location:** Rock Hill, SC
 
 **EPA Facility ID:** 100000227373
 

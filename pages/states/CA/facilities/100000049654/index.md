@@ -1,6 +1,6 @@
-# Unknown
+# Hanford Power Plant
 
-**Location:** Unknown, CA
+**Location:** Hanford, CA
 
 **EPA Facility ID:** 100000049654
 

@@ -1,6 +1,6 @@
-# Unknown
+# Four Star Supply, Inc. (steptoe plant)
 
-**Location:** Unknown, WA
+**Location:** Steptoe, WA
 
 **EPA Facility ID:** 100000029603
 

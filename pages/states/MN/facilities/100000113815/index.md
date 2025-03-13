@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Claremont West
 
-**Location:** Unknown, MN
+**Location:** Claremont, MN
 
 **EPA Facility ID:** 100000113815
 

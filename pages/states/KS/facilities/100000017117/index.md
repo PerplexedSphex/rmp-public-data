@@ -1,6 +1,6 @@
-# Unknown
+# Elkhart Cooperative Equity Exchange - Richfield
 
-**Location:** Unknown, KS
+**Location:** Richfield, KS
 
 **EPA Facility ID:** 100000017117
 

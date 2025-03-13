@@ -1,6 +1,6 @@
-# Unknown
+# Gordonsville Power Station
 
-**Location:** Unknown, VA
+**Location:** Gordonsville, VA
 
 **EPA Facility ID:** 100000027286
 

@@ -1,6 +1,6 @@
-# Unknown
+# BernzOmatic
 
-**Location:** Unknown, NY
+**Location:** Medina, NY
 
 **EPA Facility ID:** 100000214083
 

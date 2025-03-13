@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Chester NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Chester, NE
 
 **EPA Facility ID:** 100000147726
 

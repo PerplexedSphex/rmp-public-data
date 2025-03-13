@@ -1,6 +1,6 @@
-# Unknown
+# Garrison Energy Center LLC
 
-**Location:** Unknown, DE
+**Location:** Dover, DE
 
 **EPA Facility ID:** 100000229184
 

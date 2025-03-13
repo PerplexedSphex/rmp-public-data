@@ -1,6 +1,6 @@
-# Unknown
+# Elm Grove Dew Point Control Plant
 
-**Location:** Unknown, LA
+**Location:** Haughton, LA
 
 **EPA Facility ID:** 100000194906
 

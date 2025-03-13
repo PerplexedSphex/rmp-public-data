@@ -1,6 +1,6 @@
-# Unknown
+# Dr. Charles W. Solomon Water Purification Plant
 
-**Location:** Unknown, CT
+**Location:** Lebanon, CT
 
 **EPA Facility ID:** 100000111791
 

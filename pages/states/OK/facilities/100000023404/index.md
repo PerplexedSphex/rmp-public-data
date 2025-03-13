@@ -1,6 +1,6 @@
-# Unknown
+# Elmore City Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Elmore City, OK
 
 **EPA Facility ID:** 100000023404
 

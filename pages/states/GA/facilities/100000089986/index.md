@@ -1,6 +1,6 @@
-# Unknown
+# Hershall B. Norred Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Newnan, GA
 
 **EPA Facility ID:** 100000089986
 

@@ -1,6 +1,6 @@
-# Unknown
+# FXI, Inc. - West Chicago
 
-**Location:** Unknown, IL
+**Location:** West Chicago, IL
 
 **EPA Facility ID:** 100000103648
 

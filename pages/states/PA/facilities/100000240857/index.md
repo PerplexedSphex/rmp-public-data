@@ -1,6 +1,6 @@
-# Unknown
+# SGL Carbon, LLC
 
-**Location:** Unknown, PA
+**Location:** St Marys, PA
 
 **EPA Facility ID:** 100000240857
 

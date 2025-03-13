@@ -1,6 +1,6 @@
-# Unknown
+# Burbank Water Reclamation Plant
 
-**Location:** Unknown, CA
+**Location:** Burbank, CA
 
 **EPA Facility ID:** 100000095167
 

@@ -1,6 +1,6 @@
-# Unknown
+# Freeport-McMoRan Sierrita Inc.
 
-**Location:** Unknown, AZ
+**Location:** Green Valley, AZ
 
 **EPA Facility ID:** 100000098388
 

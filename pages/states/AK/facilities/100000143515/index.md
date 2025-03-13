@@ -1,6 +1,6 @@
-# Unknown
+# King Cove Facility
 
-**Location:** Unknown, AK
+**Location:** King Cove, AK
 
 **EPA Facility ID:** 100000143515
 

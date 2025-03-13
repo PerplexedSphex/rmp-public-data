@@ -1,6 +1,6 @@
-# Unknown
+# Whelan Plant
 
-**Location:** Unknown, TX
+**Location:** Harleton, TX
 
 **EPA Facility ID:** 100000184515
 

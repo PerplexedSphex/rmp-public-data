@@ -1,6 +1,6 @@
-# Unknown
+# Detroit Hydrogen Plant
 
-**Location:** Unknown, MI
+**Location:** Detroit, MI
 
 **EPA Facility ID:** 100000218329
 

@@ -1,6 +1,6 @@
-# Unknown
+# Delta Pride Catfish, Inc. - Main Plant
 
-**Location:** Unknown, MS
+**Location:** Indianola, MS
 
 **EPA Facility ID:** 100000003658
 

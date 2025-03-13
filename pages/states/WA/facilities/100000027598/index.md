@@ -1,6 +1,6 @@
-# Unknown
+# Lamb Weston Richland Facility
 
-**Location:** Unknown, WA
+**Location:** Richland, WA
 
 **EPA Facility ID:** 100000027598
 

@@ -1,6 +1,6 @@
-# Unknown
+# Weylchem US Inc
 
-**Location:** Unknown, SC
+**Location:** Elgin, SC
 
 **EPA Facility ID:** 100000089637
 

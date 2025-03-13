@@ -1,6 +1,6 @@
-# Unknown
+# St. Joseph Water Filtration Plant
 
-**Location:** Unknown, MI
+**Location:** St. Joseph, MI
 
 **EPA Facility ID:** 100000095489
 

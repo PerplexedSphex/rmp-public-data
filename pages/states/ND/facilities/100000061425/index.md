@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.-West Fargo
 
-**Location:** Unknown, ND
+**Location:** West Fargo, ND
 
 **EPA Facility ID:** 100000061425
 

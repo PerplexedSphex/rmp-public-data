@@ -1,6 +1,6 @@
-# Unknown
+# Anitox Corp., Lawrenceville Plant
 
-**Location:** Unknown, GA
+**Location:** Lawrenceville, GA
 
 **EPA Facility ID:** 100000171547
 

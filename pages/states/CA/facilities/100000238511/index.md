@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Big Bear
 
-**Location:** Unknown, CA
+**Location:** Los Angeles, CA
 
 **EPA Facility ID:** 100000238511
 

@@ -1,6 +1,6 @@
-# Unknown
+# Edison Filtration Plant and Well Field
 
-**Location:** Unknown, IN
+**Location:** South Bend, IN
 
 **EPA Facility ID:** 100000109802
 

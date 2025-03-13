@@ -1,6 +1,6 @@
-# Unknown
+# Shaws Creek Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Aiken, SC
 
 **EPA Facility ID:** 100000044383
 

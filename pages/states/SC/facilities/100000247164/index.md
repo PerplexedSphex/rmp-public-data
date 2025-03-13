@@ -1,6 +1,6 @@
-# Unknown
+# Hydera, LLC
 
-**Location:** Unknown, SC
+**Location:** Goose Creek, SC
 
 **EPA Facility ID:** 100000247164
 

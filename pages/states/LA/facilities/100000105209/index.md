@@ -1,6 +1,6 @@
-# Unknown
+# Libbey Glass, Inc
 
-**Location:** Unknown, LA
+**Location:** Shreveport, LA
 
 **EPA Facility ID:** 100000105209
 

@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative - Chapman
 
-**Location:** Unknown, NE
+**Location:** Chapman, NE
 
 **EPA Facility ID:** 100000005442
 

@@ -1,6 +1,6 @@
-# Unknown
+# LaGrange, OH
 
-**Location:** Unknown, OH
+**Location:** Oberlin, OH
 
 **EPA Facility ID:** 100000152005
 

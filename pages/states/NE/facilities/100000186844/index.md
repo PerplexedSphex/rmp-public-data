@@ -1,6 +1,6 @@
-# Unknown
+# Agri Co-op - Loomis Trailer Storage
 
-**Location:** Unknown, NE
+**Location:** Loomis, NE
 
 **EPA Facility ID:** 100000186844
 

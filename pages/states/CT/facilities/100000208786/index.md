@@ -1,6 +1,6 @@
-# Unknown
+# Guida Seibert Dairy Co.
 
-**Location:** Unknown, CT
+**Location:** New Britain, CT
 
 **EPA Facility ID:** 100000208786
 

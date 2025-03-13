@@ -1,6 +1,6 @@
-# Unknown
+# Seaboard Foods LLC
 
-**Location:** Unknown, OK
+**Location:** Guymon, OK
 
 **EPA Facility ID:** 100000154496
 

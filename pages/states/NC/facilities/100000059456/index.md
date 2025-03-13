@@ -1,6 +1,6 @@
-# Unknown
+# City of Hendersonville Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Mills River, NC
 
 **EPA Facility ID:** 100000059456
 

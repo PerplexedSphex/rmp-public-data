@@ -1,6 +1,6 @@
-# Unknown
+# Hidatsa North Pad
 
-**Location:** Unknown, ND
+**Location:** New Town, ND
 
 **EPA Facility ID:** 100000238085
 

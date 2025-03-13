@@ -1,6 +1,6 @@
-# Unknown
+# Homer City Generating Station
 
-**Location:** Unknown, PA
+**Location:** Homer City, PA
 
 **EPA Facility ID:** 100000172733
 

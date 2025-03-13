@@ -1,6 +1,6 @@
-# Unknown
+# Central Dakota Frontier Cooperative Hettinger
 
-**Location:** Unknown, ND
+**Location:** Hettinger, ND
 
 **EPA Facility ID:** 100000021558
 

@@ -1,6 +1,6 @@
-# Unknown
+# Jayhawk Fine Chemicals Corp.
 
-**Location:** Unknown, KS
+**Location:** Galena, KS
 
 **EPA Facility ID:** 100000129292
 

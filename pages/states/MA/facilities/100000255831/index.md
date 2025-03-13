@@ -1,6 +1,6 @@
-# Unknown
+# Eastern Ice Co.
 
-**Location:** Unknown, MA
+**Location:** Fall River, MA
 
 **EPA Facility ID:** 100000255831
 

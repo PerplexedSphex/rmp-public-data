@@ -1,6 +1,6 @@
-# Unknown
+# Salt Lake City Terminal
 
-**Location:** Unknown, UT
+**Location:** Salt Lake City, UT
 
 **EPA Facility ID:** 100000237497
 

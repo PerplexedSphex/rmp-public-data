@@ -1,6 +1,6 @@
-# Unknown
+# Freeman Fertilizer Co. Inc.
 
-**Location:** Unknown, SD
+**Location:** Freeman, SD
 
 **EPA Facility ID:** 100000007477
 

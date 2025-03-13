@@ -1,6 +1,6 @@
-# Unknown
+# Royal Adhesives & Sealants, LLC-Bendix Warehouse
 
-**Location:** Unknown, IN
+**Location:** South Bend, IN
 
 **EPA Facility ID:** 100000243854
 

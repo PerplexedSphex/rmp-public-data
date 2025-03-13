@@ -1,6 +1,6 @@
-# Unknown
+# Olympic Products, LLC
 
-**Location:** Unknown, NC
+**Location:** Greensboro, NC
 
 **EPA Facility ID:** 100000065216
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lear Corporation
 
-**Location:** Unknown, AL
+**Location:** Selma, AL
 
 **EPA Facility ID:** 100000200016
 

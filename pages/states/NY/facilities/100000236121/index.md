@@ -1,6 +1,6 @@
-# Unknown
+# Montgomery, NY LPG Storage Terminal
 
-**Location:** Unknown, NY
+**Location:** Montgomery, NY
 
 **EPA Facility ID:** 100000236121
 

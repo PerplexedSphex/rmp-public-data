@@ -1,6 +1,6 @@
-# Unknown
+# Friona Wheat Growers-Grady, New Mexico
 
-**Location:** Unknown, NM
+**Location:** Grady, NM
 
 **EPA Facility ID:** 100000013031
 

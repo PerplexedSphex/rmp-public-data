@@ -1,6 +1,6 @@
-# Unknown
+# U.S. GAIN RNG Facility S&S
 
-**Location:** Unknown, WI
+**Location:** Sturgeon Bay, WI
 
 **EPA Facility ID:** 100000243471
 

@@ -1,6 +1,6 @@
-# Unknown
+# Edwards Chemicals, Inc.
 
-**Location:** Unknown, KS
+**Location:** Elwood, KS
 
 **EPA Facility ID:** 100000217491
 

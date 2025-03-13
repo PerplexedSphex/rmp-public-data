@@ -1,6 +1,6 @@
-# Unknown
+# Franklin, KY 439
 
-**Location:** Unknown, KY
+**Location:** Franklin, KY
 
 **EPA Facility ID:** 100000125875
 

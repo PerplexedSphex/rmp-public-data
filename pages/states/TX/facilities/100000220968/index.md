@@ -1,6 +1,6 @@
-# Unknown
+# Bone Springs Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Barstow, TX
 
 **EPA Facility ID:** 100000220968
 

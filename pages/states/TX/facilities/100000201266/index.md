@@ -1,6 +1,6 @@
-# Unknown
+# Carthage Plant
 
-**Location:** Unknown, TX
+**Location:** Carthage, TX
 
 **EPA Facility ID:** 100000201266
 

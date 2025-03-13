@@ -1,6 +1,6 @@
-# Unknown
+# Pharmasol Corporation
 
-**Location:** Unknown, MA
+**Location:** South Easton, MA
 
 **EPA Facility ID:** 100000196058
 

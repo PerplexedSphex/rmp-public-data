@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Co-op -Lacona
 
-**Location:** Unknown, IA
+**Location:** Lacona, IA
 
 **EPA Facility ID:** 100000165723
 

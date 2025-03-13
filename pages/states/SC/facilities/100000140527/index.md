@@ -1,6 +1,6 @@
-# Unknown
+# Bostik Inc
 
-**Location:** Unknown, SC
+**Location:** Piedmont, SC
 
 **EPA Facility ID:** 100000140527
 

@@ -1,6 +1,6 @@
-# Unknown
+# Davidson Water, Inc., Water Plant
 
-**Location:** Unknown, NC
+**Location:** Lexington, NC
 
 **EPA Facility ID:** 100000016662
 

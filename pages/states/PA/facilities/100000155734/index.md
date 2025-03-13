@@ -1,6 +1,6 @@
-# Unknown
+# Better Baked Foods of Erie, LLC
 
-**Location:** Unknown, PA
+**Location:** Erie, PA
 
 **EPA Facility ID:** 100000155734
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Charlotte
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000195594
 

@@ -1,6 +1,6 @@
-# Unknown
+# CIG Latigo Station
 
-**Location:** Unknown, CO
+**Location:** Byers, CO
 
 **EPA Facility ID:** 100000060408
 

@@ -1,6 +1,6 @@
-# Unknown
+# Camp Grove, IL 2317 Satellite
 
-**Location:** Unknown, IL
+**Location:** Camp Grove, IL
 
 **EPA Facility ID:** 100000099083
 

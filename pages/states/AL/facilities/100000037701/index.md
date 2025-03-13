@@ -1,6 +1,6 @@
-# Unknown
+# Georgia-Pacific Naheola LLC
 
-**Location:** Unknown, AL
+**Location:** Pennington, AL
 
 **EPA Facility ID:** 100000037701
 

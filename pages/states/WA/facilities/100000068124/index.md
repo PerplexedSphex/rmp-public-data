@@ -1,6 +1,6 @@
-# Unknown
+# Endicott, WA 2
 
-**Location:** Unknown, WA
+**Location:** Endicott, WA
 
 **EPA Facility ID:** 100000068124
 

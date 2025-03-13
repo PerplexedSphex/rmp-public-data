@@ -1,6 +1,6 @@
-# Unknown
+# La Jolla Cold Storage
 
-**Location:** Unknown, CA
+**Location:** Delano, CA
 
 **EPA Facility ID:** 100000178014
 

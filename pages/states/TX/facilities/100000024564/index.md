@@ -1,6 +1,6 @@
-# Unknown
+# City of Greenville Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Greenville, TX
 
 **EPA Facility ID:** 100000024564
 

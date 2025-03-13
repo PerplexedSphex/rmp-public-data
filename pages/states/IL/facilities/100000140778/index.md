@@ -1,6 +1,6 @@
-# Unknown
+# Allerton Supply Company Inc. (Fairmont)
 
-**Location:** Unknown, IL
+**Location:** Fairmont, IL
 
 **EPA Facility ID:** 100000140778
 

@@ -1,6 +1,6 @@
-# Unknown
+# Global Fort Edward Rail Yard
 
-**Location:** Unknown, NY
+**Location:** Hudson Falls, NY
 
 **EPA Facility ID:** 100000236407
 

@@ -1,6 +1,6 @@
-# Unknown
+# Halfway Farm Chemical & Grain Company
 
-**Location:** Unknown, TX
+**Location:** Plainview, TX
 
 **EPA Facility ID:** 100000176524
 

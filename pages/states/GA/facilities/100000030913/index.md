@@ -1,6 +1,6 @@
-# Unknown
+# Augusta Water Treatment FilterPlant
 
-**Location:** Unknown, GA
+**Location:** Augusta, GA
 
 **EPA Facility ID:** 100000030913
 

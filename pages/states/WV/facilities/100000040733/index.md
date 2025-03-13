@@ -1,6 +1,6 @@
-# Unknown
+# SABIC Innovative Plastics - Washington
 
-**Location:** Unknown, WV
+**Location:** Washington, WV
 
 **EPA Facility ID:** 100000040733
 

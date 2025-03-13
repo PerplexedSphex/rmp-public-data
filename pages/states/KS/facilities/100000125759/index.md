@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Ag Inc-Seguin
 
-**Location:** Unknown, KS
+**Location:** Hoxie, KS
 
 **EPA Facility ID:** 100000125759
 

@@ -1,6 +1,6 @@
-# Unknown
+# Pullman, WA 7
 
-**Location:** Unknown, WA
+**Location:** Pullman, WA
 
 **EPA Facility ID:** 100000069196
 

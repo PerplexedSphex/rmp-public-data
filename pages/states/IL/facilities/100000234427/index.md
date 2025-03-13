@@ -1,6 +1,6 @@
-# Unknown
+# Brown Produce Company
 
-**Location:** Unknown, IL
+**Location:** Farina, IL
 
 **EPA Facility ID:** 100000234427
 

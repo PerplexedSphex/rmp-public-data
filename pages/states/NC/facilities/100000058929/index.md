@@ -1,6 +1,6 @@
-# Unknown
+# T.J. Ellison Water Plant
 
-**Location:** Unknown, NC
+**Location:** Kings Mountain, NC
 
 **EPA Facility ID:** 100000058929
 

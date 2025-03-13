@@ -1,6 +1,6 @@
-# Unknown
+# City of Johnsonville Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Johnsonville, SC
 
 **EPA Facility ID:** 100000087032
 

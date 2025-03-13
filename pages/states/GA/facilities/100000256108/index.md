@@ -1,6 +1,6 @@
-# Unknown
+# Link Snacks, Inc.
 
-**Location:** Unknown, GA
+**Location:** Perry, GA
 
 **EPA Facility ID:** 100000256108
 

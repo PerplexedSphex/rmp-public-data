@@ -1,6 +1,6 @@
-# Unknown
+# Blue Ridge Paper Products LLC
 
-**Location:** Unknown, NC
+**Location:** Canton, NC
 
 **EPA Facility ID:** 100000095899
 

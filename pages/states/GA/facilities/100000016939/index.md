@@ -1,6 +1,6 @@
-# Unknown
+# Georgia Pacific Resins, Inc. - Port Wentworth
 
-**Location:** Unknown, GA
+**Location:** Port Wentworth, GA
 
 **EPA Facility ID:** 100000016939
 

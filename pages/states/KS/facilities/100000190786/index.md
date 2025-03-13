@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company
 
-**Location:** Unknown, KS
+**Location:** Garden City, KS
 
 **EPA Facility ID:** 100000190786
 

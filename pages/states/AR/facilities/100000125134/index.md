@@ -1,6 +1,6 @@
-# Unknown
+# Frez-N-Stor Inc.
 
-**Location:** Unknown, AR
+**Location:** Springdale, AR
 
 **EPA Facility ID:** 100000125134
 

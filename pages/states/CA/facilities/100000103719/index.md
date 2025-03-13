@@ -1,6 +1,6 @@
-# Unknown
+# KIK SoCal Inc.
 
-**Location:** Unknown, CA
+**Location:** Santa Fe Springs, CA
 
 **EPA Facility ID:** 100000103719
 

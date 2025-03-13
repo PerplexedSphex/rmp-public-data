@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South, Inc.
 
-**Location:** Unknown, SC
+**Location:** Duncan, SC
 
 **EPA Facility ID:** 100000043311
 

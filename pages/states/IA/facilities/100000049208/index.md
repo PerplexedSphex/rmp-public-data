@@ -1,6 +1,6 @@
-# Unknown
+# Great Lakes Cooperative - Spencer NH3
 
-**Location:** Unknown, IA
+**Location:** Spencer, IA
 
 **EPA Facility ID:** 100000049208
 

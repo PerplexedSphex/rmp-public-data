@@ -1,6 +1,6 @@
-# Unknown
+# Bowerman Landfill Gas Processing Facility
 
-**Location:** Unknown, CA
+**Location:** Irvine, CA
 
 **EPA Facility ID:** 100000197477
 

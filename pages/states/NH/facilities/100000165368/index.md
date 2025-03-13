@@ -1,6 +1,6 @@
-# Unknown
+# Sea-3, LLC
 
-**Location:** Unknown, NH
+**Location:** Newington, NH
 
 **EPA Facility ID:** 100000165368
 

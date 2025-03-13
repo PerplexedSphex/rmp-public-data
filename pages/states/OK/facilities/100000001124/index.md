@@ -1,6 +1,6 @@
-# Unknown
+# Thomas Natural Gas Processing Plant
 
-**Location:** Unknown, OK
+**Location:** Thomas, OK
 
 **EPA Facility ID:** 100000001124
 

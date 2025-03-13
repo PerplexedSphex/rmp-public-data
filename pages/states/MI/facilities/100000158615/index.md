@@ -1,6 +1,6 @@
-# Unknown
+# THE DOW CHEMICAL COMPANY- LUDINGTON, MI PLANT
 
-**Location:** Unknown, MI
+**Location:** LUDINGTON, MI
 
 **EPA Facility ID:** 100000158615
 

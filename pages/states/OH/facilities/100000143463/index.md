@@ -1,6 +1,6 @@
-# Unknown
+# West Liberty Fertilizer
 
-**Location:** Unknown, OH
+**Location:** West Liberty, OH
 
 **EPA Facility ID:** 100000143463
 

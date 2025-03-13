@@ -1,6 +1,6 @@
-# Unknown
+# Organichem Corporation
 
-**Location:** Unknown, NY
+**Location:** Rensselaer, NY
 
 **EPA Facility ID:** 100000093061
 

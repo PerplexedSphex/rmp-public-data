@@ -1,6 +1,6 @@
-# Unknown
+# Bradford, IA 7
 
-**Location:** Unknown, IA
+**Location:** Bradford, IA
 
 **EPA Facility ID:** 100000096852
 

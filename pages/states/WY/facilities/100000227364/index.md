@@ -1,6 +1,6 @@
-# Unknown
+# Bucking Horse Plant
 
-**Location:** Unknown, WY
+**Location:** Douglas, WY
 
 **EPA Facility ID:** 100000227364
 

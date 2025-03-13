@@ -1,6 +1,6 @@
-# Unknown
+# Grosse Pointe Farms Water Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Grosse Pointe Farms, MI
 
 **EPA Facility ID:** 100000104139
 

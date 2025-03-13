@@ -1,6 +1,6 @@
-# Unknown
+# Koch Fertilizer, LLC - Aurora Terminal
 
-**Location:** Unknown, NE
+**Location:** Aurora, NE
 
 **EPA Facility ID:** 100000048469
 

@@ -1,6 +1,6 @@
-# Unknown
+# Koch Fertilizer Beatrice, LLC
 
-**Location:** Unknown, NE
+**Location:** Beatrice, NE
 
 **EPA Facility ID:** 100000036999
 

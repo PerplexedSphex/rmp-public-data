@@ -1,6 +1,6 @@
-# Unknown
+# American Midstream - Chatom Gas Plant
 
-**Location:** Unknown, AL
+**Location:** Chatom, AL
 
 **EPA Facility ID:** 100000114949
 

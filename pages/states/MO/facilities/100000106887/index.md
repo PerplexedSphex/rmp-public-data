@@ -1,6 +1,6 @@
-# Unknown
+# Missouri American Water Company Blendville Plant
 
-**Location:** Unknown, MO
+**Location:** Joplin, MO
 
 **EPA Facility ID:** 100000106887
 

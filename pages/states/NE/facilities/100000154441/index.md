@@ -1,6 +1,6 @@
-# Unknown
+# TROTTER FERTILIZER
 
-**Location:** Unknown, NE
+**Location:** Litchfield, NE
 
 **EPA Facility ID:** 100000154441
 

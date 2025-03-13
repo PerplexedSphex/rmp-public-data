@@ -1,6 +1,6 @@
-# Unknown
+# Point Loma Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** SAN DIEGO, CA
 
 **EPA Facility ID:** 100000090313
 

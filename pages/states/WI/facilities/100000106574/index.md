@@ -1,6 +1,6 @@
-# Unknown
+# Appleton Wastewater Treatment Facility
 
-**Location:** Unknown, WI
+**Location:** Appleton, WI
 
 **EPA Facility ID:** 100000106574
 

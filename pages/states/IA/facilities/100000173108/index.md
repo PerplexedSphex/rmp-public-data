@@ -1,6 +1,6 @@
-# Unknown
+# Beatrice Cheese, Inc.
 
-**Location:** Unknown, IA
+**Location:** Fredericksburg, IA
 
 **EPA Facility ID:** 100000173108
 

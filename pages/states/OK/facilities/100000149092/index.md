@@ -1,6 +1,6 @@
-# Unknown
+# Bar-S Foods Co. - Clinton Plant
 
-**Location:** Unknown, OK
+**Location:** Clinton, OK
 
 **EPA Facility ID:** 100000149092
 

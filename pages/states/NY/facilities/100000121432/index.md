@@ -1,6 +1,6 @@
-# Unknown
+# Hinckley Water Treatment Plant
 
-**Location:** Unknown, NY
+**Location:** Prospect, NY
 
 **EPA Facility ID:** 100000121432
 

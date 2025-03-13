@@ -1,6 +1,6 @@
-# Unknown
+# Prochem Inc
 
-**Location:** Unknown, IL
+**Location:** Seward, IL
 
 **EPA Facility ID:** 100000214136
 

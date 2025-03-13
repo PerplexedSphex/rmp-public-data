@@ -1,6 +1,6 @@
-# Unknown
+# Water Works & Industrial Supply Company
 
-**Location:** Unknown, KY
+**Location:** Lexington, KY
 
 **EPA Facility ID:** 100000156332
 

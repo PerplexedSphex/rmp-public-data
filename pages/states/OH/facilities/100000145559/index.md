@@ -1,6 +1,6 @@
-# Unknown
+# City of Zanesville Wastewater Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Zanesville, OH
 
 **EPA Facility ID:** 100000145559
 

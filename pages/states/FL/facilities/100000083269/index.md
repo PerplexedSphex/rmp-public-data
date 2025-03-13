@@ -1,6 +1,6 @@
-# Unknown
+# East Central Regional Waste Water Treatment Facili
 
-**Location:** Unknown, FL
+**Location:** West Palm Beach, FL
 
 **EPA Facility ID:** 100000083269
 

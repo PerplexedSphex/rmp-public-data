@@ -1,6 +1,6 @@
-# Unknown
+# Seguin Water Plant
 
-**Location:** Unknown, TX
+**Location:** Seguin, TX
 
 **EPA Facility ID:** 100000018198
 

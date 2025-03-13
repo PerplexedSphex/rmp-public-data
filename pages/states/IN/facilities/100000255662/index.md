@@ -1,6 +1,6 @@
-# Unknown
+# Kingman, IN Satellite
 
-**Location:** Unknown, IN
+**Location:** Kingman, IN
 
 **EPA Facility ID:** 100000255662
 

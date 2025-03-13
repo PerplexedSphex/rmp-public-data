@@ -1,6 +1,6 @@
-# Unknown
+# Flav-O-Rich Greensboro, NC
 
-**Location:** Unknown, NC
+**Location:** Greensboro, NC
 
 **EPA Facility ID:** 100000112763
 

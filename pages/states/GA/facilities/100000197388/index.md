@@ -1,6 +1,6 @@
-# Unknown
+# Global Companies - Bainbridge Terminal 
 
-**Location:** Unknown, GA
+**Location:** Bainbridge, GA
 
 **EPA Facility ID:** 100000197388
 

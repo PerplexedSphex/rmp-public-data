@@ -1,6 +1,6 @@
-# Unknown
+# Piedmont LLC DBA Voyant Beauty
 
-**Location:** Unknown, GA
+**Location:** Gainesville, GA
 
 **EPA Facility ID:** 100000156001
 

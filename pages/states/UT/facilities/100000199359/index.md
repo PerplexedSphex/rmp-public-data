@@ -1,6 +1,6 @@
-# Unknown
+# Brundage Plant
 
-**Location:** Unknown, UT
+**Location:** Roosevelt, UT
 
 **EPA Facility ID:** 100000199359
 

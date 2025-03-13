@@ -1,6 +1,6 @@
-# Unknown
+# Buffalo Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Stanton, TX
 
 **EPA Facility ID:** 100000231643
 

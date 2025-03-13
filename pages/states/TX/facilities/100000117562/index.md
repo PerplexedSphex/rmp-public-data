@@ -1,6 +1,6 @@
-# Unknown
+# Occidental Chemical Corp. - Deer Park VCM Plant
 
-**Location:** Unknown, TX
+**Location:** Deer Park, TX
 
 **EPA Facility ID:** 100000117562
 

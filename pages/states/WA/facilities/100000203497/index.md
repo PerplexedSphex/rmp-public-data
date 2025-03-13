@@ -1,6 +1,6 @@
-# Unknown
+# Euclid Ave. Plant
 
-**Location:** Unknown, WA
+**Location:** Wenatchee, WA
 
 **EPA Facility ID:** 100000203497
 

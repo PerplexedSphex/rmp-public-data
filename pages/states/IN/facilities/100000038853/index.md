@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Alloys, L.L.C. - Tipton, IN
 
-**Location:** Unknown, IN
+**Location:** Tipton, IN
 
 **EPA Facility ID:** 100000038853
 

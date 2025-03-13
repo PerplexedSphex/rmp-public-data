@@ -1,6 +1,6 @@
-# Unknown
+# Loma Rica Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Grass Valley, CA
 
 **EPA Facility ID:** 100000040582
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc - Hoffman
 
-**Location:** Unknown, MN
+**Location:** Hoffman, MN
 
 **EPA Facility ID:** 100000214957
 

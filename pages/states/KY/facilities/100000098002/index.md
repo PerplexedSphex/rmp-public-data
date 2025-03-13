@@ -1,6 +1,6 @@
-# Unknown
+# Glasgow Wastewater Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Glasgow, KY
 
 **EPA Facility ID:** 100000098002
 

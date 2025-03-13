@@ -1,6 +1,6 @@
-# Unknown
+# Coop Association #2 Bulk Plant
 
-**Location:** Unknown, MO
+**Location:** Washington, MO
 
 **EPA Facility ID:** 100000032984
 

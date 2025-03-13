@@ -1,6 +1,6 @@
-# Unknown
+# Indeck - Corinth Energy Center
 
-**Location:** Unknown, NY
+**Location:** Corinth, NY
 
 **EPA Facility ID:** 100000128676
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Elkton, SD
 
-**Location:** Unknown, SD
+**Location:** Elkton, SD
 
 **EPA Facility ID:** 100000178336
 

@@ -1,6 +1,6 @@
-# Unknown
+# Beeco Technology
 
-**Location:** Unknown, IL
+**Location:** CHICAGO, IL
 
 **EPA Facility ID:** 100000158081
 

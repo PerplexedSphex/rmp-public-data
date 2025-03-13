@@ -1,6 +1,6 @@
-# Unknown
+# Whiting Clean Energy
 
-**Location:** Unknown, IN
+**Location:** Whiting, IN
 
 **EPA Facility ID:** 100000176445
 

@@ -1,6 +1,6 @@
-# Unknown
+# East Troy - NH3
 
-**Location:** Unknown, WI
+**Location:** East Troy, WI
 
 **EPA Facility ID:** 100000082652
 

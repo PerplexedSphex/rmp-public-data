@@ -1,6 +1,6 @@
-# Unknown
+# Gering Anhydrous Ammonia Storage
 
-**Location:** Unknown, NE
+**Location:** Gering, NE
 
 **EPA Facility ID:** 100000207108
 

@@ -1,6 +1,6 @@
-# Unknown
+# Law Enforcement Center
 
-**Location:** Unknown, NC
+**Location:** Franklin, NC
 
 **EPA Facility ID:** 100000000697
 

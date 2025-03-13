@@ -1,6 +1,6 @@
-# Unknown
+# City of Buena Vista Wastewater Treatment Plant
 
-**Location:** Unknown, VA
+**Location:** Buena Vista, VA
 
 **EPA Facility ID:** 100000209142
 

@@ -1,6 +1,6 @@
-# Unknown
+# Haubstadt, IN 342
 
-**Location:** Unknown, IN
+**Location:** Haubstadt, IN
 
 **EPA Facility ID:** 100000006101
 

@@ -1,6 +1,6 @@
-# Unknown
+# GRAINCO FS, Inc. Streator Facility
 
-**Location:** Unknown, IL
+**Location:** Streator, IL
 
 **EPA Facility ID:** 100000024369
 

@@ -1,6 +1,6 @@
-# Unknown
+# East River Wastewater Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Gadsden, AL
 
 **EPA Facility ID:** 100000035482
 

@@ -1,6 +1,6 @@
-# Unknown
+# Westlake Longview Corporation
 
-**Location:** Unknown, TX
+**Location:** Longview, TX
 
 **EPA Facility ID:** 100000227346
 

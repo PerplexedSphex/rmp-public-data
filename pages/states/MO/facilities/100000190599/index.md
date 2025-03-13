@@ -1,6 +1,6 @@
-# Unknown
+# Twin River Foods, Inc.
 
-**Location:** Unknown, MO
+**Location:** Neosho, MO
 
 **EPA Facility ID:** 100000190599
 

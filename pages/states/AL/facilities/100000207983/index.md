@@ -1,6 +1,6 @@
-# Unknown
+# Western International Gas - Lincoln
 
-**Location:** Unknown, AL
+**Location:** Lincoln, AL
 
 **EPA Facility ID:** 100000207983
 

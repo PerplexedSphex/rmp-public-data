@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Auburn Main
 
-**Location:** Unknown, NE
+**Location:** Auburn, NE
 
 **EPA Facility ID:** 100000162209
 

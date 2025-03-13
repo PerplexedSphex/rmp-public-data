@@ -1,6 +1,6 @@
-# Unknown
+# Gateway FS, Inc. - Sparta
 
-**Location:** Unknown, IL
+**Location:** Sparta, IL
 
 **EPA Facility ID:** 100000040109
 

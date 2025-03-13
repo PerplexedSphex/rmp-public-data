@@ -1,6 +1,6 @@
-# Unknown
+# Fair Oaks Foods, LLC (East)
 
-**Location:** Unknown, WI
+**Location:** Pleasant Prairie, WI
 
 **EPA Facility ID:** 100000143212
 

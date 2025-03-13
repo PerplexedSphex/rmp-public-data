@@ -1,6 +1,6 @@
-# Unknown
+# Global Companies - Dallas Terminal
 
-**Location:** Unknown, TX
+**Location:** Dallas, TX
 
 **EPA Facility ID:** 100000229852
 

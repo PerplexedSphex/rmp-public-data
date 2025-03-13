@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Wykoff
 
-**Location:** Unknown, MN
+**Location:** Wykoff, MN
 
 **EPA Facility ID:** 100000084268
 

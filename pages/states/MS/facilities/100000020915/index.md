@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Farms, Inc. - Carthage MS Processing Plant
 
-**Location:** Unknown, MS
+**Location:** Carthage, MS
 
 **EPA Facility ID:** 100000020915
 

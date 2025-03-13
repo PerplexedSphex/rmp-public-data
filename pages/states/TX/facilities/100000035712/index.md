@@ -1,6 +1,6 @@
-# Unknown
+# Gruene Road Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** New Braunfels, TX
 
 **EPA Facility ID:** 100000035712
 

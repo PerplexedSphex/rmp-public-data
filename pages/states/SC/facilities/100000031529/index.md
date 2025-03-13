@@ -1,6 +1,6 @@
-# Unknown
+# Lake City Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Lake City, SC
 
 **EPA Facility ID:** 100000031529
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mexichem Specialty Resins, Inc.
 
-**Location:** Unknown, NJ
+**Location:** Pedricktown, NJ
 
 **EPA Facility ID:** 100000131957
 

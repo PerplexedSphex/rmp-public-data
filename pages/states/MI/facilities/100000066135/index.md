@@ -1,6 +1,6 @@
-# Unknown
+# City of Port Huron Water Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Port Huron, MI
 
 **EPA Facility ID:** 100000066135
 

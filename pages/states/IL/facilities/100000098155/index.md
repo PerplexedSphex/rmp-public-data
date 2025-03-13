@@ -1,6 +1,6 @@
-# Unknown
+# Hammond, IL Satellite
 
-**Location:** Unknown, IL
+**Location:** Hammond, IL
 
 **EPA Facility ID:** 100000098155
 

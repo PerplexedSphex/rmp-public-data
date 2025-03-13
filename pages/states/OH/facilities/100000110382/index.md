@@ -1,6 +1,6 @@
-# Unknown
+# Lake County Water Treatment East
 
-**Location:** Unknown, OH
+**Location:** Painesville, OH
 
 **EPA Facility ID:** 100000110382
 

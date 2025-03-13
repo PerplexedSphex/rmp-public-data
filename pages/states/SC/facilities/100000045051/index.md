@@ -1,6 +1,6 @@
-# Unknown
+# City of Lancaster Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Lancaster, SC
 
 **EPA Facility ID:** 100000045051
 

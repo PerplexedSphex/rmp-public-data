@@ -1,6 +1,6 @@
-# Unknown
+# WT2 Waterman Road WTP
 
-**Location:** Unknown, CA
+**Location:** Elk Grove, CA
 
 **EPA Facility ID:** 100000106967
 

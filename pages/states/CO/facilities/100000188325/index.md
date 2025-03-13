@@ -1,6 +1,6 @@
-# Unknown
+# Red Cedar Gathering  Company, Coyote Gulch Plant
 
-**Location:** Unknown, CO
+**Location:** Durnago, CO
 
 **EPA Facility ID:** 100000188325
 

@@ -1,6 +1,6 @@
-# Unknown
+# Hydrite Chemical Co. - Visalia
 
-**Location:** Unknown, CA
+**Location:** Visalia, CA
 
 **EPA Facility ID:** 100000230939
 

@@ -1,6 +1,6 @@
-# Unknown
+# Harvard Chemical, Inc.
 
-**Location:** Unknown, NE
+**Location:** Harvard, NE
 
 **EPA Facility ID:** 100000049379
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lonesome Creek Gas Plant
 
-**Location:** Unknown, ND
+**Location:** Alexander, ND
 
 **EPA Facility ID:** 100000232474
 

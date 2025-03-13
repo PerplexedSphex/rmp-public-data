@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center #7079
 
-**Location:** Unknown, MN
+**Location:** Mankato, MN
 
 **EPA Facility ID:** 100000230145
 

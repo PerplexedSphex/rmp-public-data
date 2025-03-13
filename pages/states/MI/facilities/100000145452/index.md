@@ -1,6 +1,6 @@
-# Unknown
+# Chesterfield Trim Plant
 
-**Location:** Unknown, MI
+**Location:** Chesterfield, MI
 
 **EPA Facility ID:** 100000145452
 

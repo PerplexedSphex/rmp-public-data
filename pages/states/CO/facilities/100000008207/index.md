@@ -1,6 +1,6 @@
-# Unknown
+# LAMAR : NH3 PLT
 
-**Location:** Unknown, CO
+**Location:** LAMAR, CO
 
 **EPA Facility ID:** 100000008207
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Troy, Ohio - Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Troy, OH
 
 **EPA Facility ID:** 100000113968
 

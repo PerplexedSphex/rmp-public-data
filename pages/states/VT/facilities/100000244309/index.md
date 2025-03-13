@@ -1,6 +1,6 @@
-# Unknown
+# Leicester
 
-**Location:** Unknown, VT
+**Location:** Leicester, VT
 
 **EPA Facility ID:** 100000244309
 

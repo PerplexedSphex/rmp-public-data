@@ -1,6 +1,6 @@
-# Unknown
+# Morrow County Grain Growers, Inc., Ione
 
-**Location:** Unknown, OR
+**Location:** Ione, OR
 
 **EPA Facility ID:** 100000013228
 

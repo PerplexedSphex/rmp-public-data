@@ -1,6 +1,6 @@
-# Unknown
+# Grayson Field Gas Plant
 
-**Location:** Unknown, AR
+**Location:** Magnolia, AR
 
 **EPA Facility ID:** 100000072681
 

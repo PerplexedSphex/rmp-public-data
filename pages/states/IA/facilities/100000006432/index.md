@@ -1,6 +1,6 @@
-# Unknown
+# Chem Gro of Houghton, Inc. - Yarmouth Facility
 
-**Location:** Unknown, IA
+**Location:** Yarmouth, IA
 
 **EPA Facility ID:** 100000006432
 

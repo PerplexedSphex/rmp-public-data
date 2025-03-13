@@ -1,6 +1,6 @@
-# Unknown
+# Polychemie Inc. - Taylor, PA Facility
 
-**Location:** Unknown, PA
+**Location:** Taylor, PA
 
 **EPA Facility ID:** 100000112745
 

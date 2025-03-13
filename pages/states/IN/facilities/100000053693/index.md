@@ -1,6 +1,6 @@
-# Unknown
+# Genpak LLC - Scottsburg
 
-**Location:** Unknown, IN
+**Location:** Scottsburg, IN
 
 **EPA Facility ID:** 100000053693
 

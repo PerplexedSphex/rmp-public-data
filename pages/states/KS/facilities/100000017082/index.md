@@ -1,6 +1,6 @@
-# Unknown
+# Elkhart Cooperative Equity Exchange - Elkhart
 
-**Location:** Unknown, KS
+**Location:** Elkhart, KS
 
 **EPA Facility ID:** 100000017082
 

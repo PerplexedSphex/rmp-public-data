@@ -1,6 +1,6 @@
-# Unknown
+# Equistar Chemicals, LP  Clinton Plant
 
-**Location:** Unknown, IA
+**Location:** Clinton, IA
 
 **EPA Facility ID:** 100000139085
 

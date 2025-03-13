@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Charleston Palmetto
 
-**Location:** Unknown, SC
+**Location:** North Charleston, SC
 
 **EPA Facility ID:** 100000243097
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gerber Products Company
 
-**Location:** Unknown, AR
+**Location:** Fort Smith, AR
 
 **EPA Facility ID:** 100000169337
 

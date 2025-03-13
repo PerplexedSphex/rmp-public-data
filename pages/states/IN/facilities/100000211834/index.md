@@ -1,6 +1,6 @@
-# Unknown
+# Linde - Whiting, IN #5,6
 
-**Location:** Unknown, IN
+**Location:** East Chicago, IN
 
 **EPA Facility ID:** 100000211834
 

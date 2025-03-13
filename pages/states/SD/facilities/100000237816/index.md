@@ -1,6 +1,6 @@
-# Unknown
+# Dakota Provisions West
 
-**Location:** Unknown, SD
+**Location:** Huron, SD
 
 **EPA Facility ID:** 100000237816
 

@@ -1,6 +1,6 @@
-# Unknown
+# Chromcraft Furniture
 
-**Location:** Unknown, MS
+**Location:** Senatobia, MS
 
 **EPA Facility ID:** 100000104825
 

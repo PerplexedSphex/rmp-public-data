@@ -1,6 +1,6 @@
-# Unknown
+# Tanner Industries, Inc. - Swansea
 
-**Location:** Unknown, SC
+**Location:** Swansea, SC
 
 **EPA Facility ID:** 100000047335
 

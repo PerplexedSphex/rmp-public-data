@@ -1,6 +1,6 @@
-# Unknown
+# ORTEC, INC.
 
-**Location:** Unknown, SC
+**Location:** Easley, SC
 
 **EPA Facility ID:** 100000055183
 

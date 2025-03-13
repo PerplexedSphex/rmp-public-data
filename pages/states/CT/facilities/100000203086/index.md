@@ -1,6 +1,6 @@
-# Unknown
+# BJ's Distribution - Rocky Hill, CT
 
-**Location:** Unknown, CT
+**Location:** Rocky Hill, CT
 
 **EPA Facility ID:** 100000203086
 

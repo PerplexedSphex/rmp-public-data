@@ -1,6 +1,6 @@
-# Unknown
+# Mun. Sanitary Auth. of the City of New Kensington
 
-**Location:** Unknown, PA
+**Location:** New Kensington, PA
 
 **EPA Facility ID:** 100000090019
 

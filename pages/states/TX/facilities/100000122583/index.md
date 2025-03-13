@@ -1,6 +1,6 @@
-# Unknown
+# City of Katy Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Katy, TX
 
 **EPA Facility ID:** 100000122583
 

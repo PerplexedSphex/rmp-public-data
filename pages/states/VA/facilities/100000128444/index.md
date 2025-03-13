@@ -1,6 +1,6 @@
-# Unknown
+# Upper Smith River Water Filtration Plant
 
-**Location:** Unknown, VA
+**Location:** Bassett, VA
 
 **EPA Facility ID:** 100000128444
 

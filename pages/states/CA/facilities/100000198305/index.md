@@ -1,6 +1,6 @@
-# Unknown
+# Exeter Specialties
 
-**Location:** Unknown, CA
+**Location:** Exeter, CA
 
 **EPA Facility ID:** 100000198305
 

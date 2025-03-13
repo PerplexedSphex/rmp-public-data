@@ -1,6 +1,6 @@
-# Unknown
+# Otay Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Chula Vista, CA
 
 **EPA Facility ID:** 100000143891
 

@@ -1,6 +1,6 @@
-# Unknown
+# Garfield, WA 3
 
-**Location:** Unknown, WA
+**Location:** Garfield, WA
 
 **EPA Facility ID:** 100000068213
 

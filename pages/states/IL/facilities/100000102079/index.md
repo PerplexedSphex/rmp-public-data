@@ -1,6 +1,6 @@
-# Unknown
+# AQUA Illinois, Inc.
 
-**Location:** Unknown, IL
+**Location:** Kankakee, IL
 
 **EPA Facility ID:** 100000102079
 

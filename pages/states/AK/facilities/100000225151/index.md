@@ -1,6 +1,6 @@
-# Unknown
+# Silver Bay Seafoods - Naknek
 
-**Location:** Unknown, AK
+**Location:** Naknek, AK
 
 **EPA Facility ID:** 100000225151
 

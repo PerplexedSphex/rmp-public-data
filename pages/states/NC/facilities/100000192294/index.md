@@ -1,6 +1,6 @@
-# Unknown
+# DG Distribution NC LLC
 
-**Location:** Unknown, NC
+**Location:** Clayton, NC
 
 **EPA Facility ID:** 100000192294
 

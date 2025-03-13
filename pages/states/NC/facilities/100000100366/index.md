@@ -1,6 +1,6 @@
-# Unknown
+# Town of Elizabethtown Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Elizabethtown, NC
 
 **EPA Facility ID:** 100000100366
 

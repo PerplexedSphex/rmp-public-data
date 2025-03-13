@@ -1,6 +1,6 @@
-# Unknown
+# Palm Beach County Water Treatment Plant #2
 
-**Location:** Unknown, FL
+**Location:** West Palm Beach, FL
 
 **EPA Facility ID:** 100000019473
 

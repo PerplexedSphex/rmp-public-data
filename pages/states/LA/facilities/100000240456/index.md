@@ -1,6 +1,6 @@
-# Unknown
+# Lotte Chemical Louisiana LLC
 
-**Location:** Unknown, LA
+**Location:** Westlake, LA
 
 **EPA Facility ID:** 100000240456
 

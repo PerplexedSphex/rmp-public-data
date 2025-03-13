@@ -1,6 +1,6 @@
-# Unknown
+# City of Waterbury Water Treatment Plant
 
-**Location:** Unknown, CT
+**Location:** Thomaston, CT
 
 **EPA Facility ID:** 100000092311
 

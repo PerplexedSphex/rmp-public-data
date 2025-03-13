@@ -1,6 +1,6 @@
-# Unknown
+# PSE Ferndale Generating Station
 
-**Location:** Unknown, WA
+**Location:** Ferndale, WA
 
 **EPA Facility ID:** 100000115804
 

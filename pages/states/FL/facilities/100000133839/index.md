@@ -1,6 +1,6 @@
-# Unknown
+# Northside Generating Station
 
-**Location:** Unknown, FL
+**Location:** Jacksonville, FL
 
 **EPA Facility ID:** 100000133839
 

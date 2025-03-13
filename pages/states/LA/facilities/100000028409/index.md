@@ -1,6 +1,6 @@
-# Unknown
+# Gradney Street Water Treatment Facility
 
-**Location:** Unknown, LA
+**Location:** Sulphur, LA
 
 **EPA Facility ID:** 100000028409
 

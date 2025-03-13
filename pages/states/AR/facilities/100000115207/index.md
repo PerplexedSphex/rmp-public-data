@@ -1,6 +1,6 @@
-# Unknown
+# El Dorado Chemical Company
 
-**Location:** Unknown, AR
+**Location:** El Dorado, AR
 
 **EPA Facility ID:** 100000115207
 

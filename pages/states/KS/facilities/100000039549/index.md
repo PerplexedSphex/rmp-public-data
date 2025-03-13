@@ -1,6 +1,6 @@
-# Unknown
+# Helena Chemical Company - Scott City, Kansas
 
-**Location:** Unknown, KS
+**Location:** Scott City, KS
 
 **EPA Facility ID:** 100000039549
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of La Porte - Water Works - Lake Street Plant
 
-**Location:** Unknown, IN
+**Location:** La Porte, IN
 
 **EPA Facility ID:** 100000109241
 

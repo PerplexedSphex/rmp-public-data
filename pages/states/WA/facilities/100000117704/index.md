@@ -1,6 +1,6 @@
-# Unknown
+# Simplot U.S. Food Group Holdings, LLC.
 
-**Location:** Unknown, WA
+**Location:** Othello, WA
 
 **EPA Facility ID:** 100000117704
 

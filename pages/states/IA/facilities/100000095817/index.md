@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Cooperative Elevator Co. - Emery
 
-**Location:** Unknown, IA
+**Location:** Mason City, IA
 
 **EPA Facility ID:** 100000095817
 

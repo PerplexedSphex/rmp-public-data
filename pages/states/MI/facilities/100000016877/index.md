@@ -1,6 +1,6 @@
-# Unknown
+# Cooperative Elevator Co., Ruth, MI Facility
 
-**Location:** Unknown, MI
+**Location:** Ruth, MI
 
 **EPA Facility ID:** 100000016877
 

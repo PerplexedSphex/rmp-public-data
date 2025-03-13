@@ -1,6 +1,6 @@
-# Unknown
+# Harmon Creek Plant
 
-**Location:** Unknown, PA
+**Location:** Bulger, PA
 
 **EPA Facility ID:** 100000240152
 

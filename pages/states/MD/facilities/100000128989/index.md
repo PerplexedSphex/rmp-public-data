@@ -1,6 +1,6 @@
-# Unknown
+# Republic Engineered Steels, Inc.
 
-**Location:** Unknown, MD
+**Location:** Baltimore, MD
 
 **EPA Facility ID:** 100000128989
 

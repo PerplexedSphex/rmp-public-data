@@ -1,6 +1,6 @@
-# Unknown
+# Hershey Creamery Co. Middletown
 
-**Location:** Unknown, PA
+**Location:** Middletown, PA
 
 **EPA Facility ID:** 100000094435
 

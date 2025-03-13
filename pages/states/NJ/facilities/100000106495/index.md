@@ -1,6 +1,6 @@
-# Unknown
+# Church & Dwight Company Inc.
 
-**Location:** Unknown, NJ
+**Location:** Lakewood, NJ
 
 **EPA Facility ID:** 100000106495
 

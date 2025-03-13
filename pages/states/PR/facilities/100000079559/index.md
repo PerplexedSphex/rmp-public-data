@@ -1,6 +1,6 @@
-# Unknown
+# Clorox Manufacturing Company of Puerto Rico, Inc.
 
-**Location:** Unknown, PR
+**Location:** Caguas, PR
 
 **EPA Facility ID:** 100000079559
 

@@ -1,6 +1,6 @@
-# Unknown
+# La Grande Wastewater Wetlands
 
-**Location:** Unknown, OR
+**Location:** La Grande, OR
 
 **EPA Facility ID:** 100000181527
 

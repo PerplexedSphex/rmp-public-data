@@ -1,6 +1,6 @@
-# Unknown
+# Kao Specialties Americas LLC
 
-**Location:** Unknown, NC
+**Location:** High Point, NC
 
 **EPA Facility ID:** 100000039184
 

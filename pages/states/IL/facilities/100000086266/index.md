@@ -1,6 +1,6 @@
-# Unknown
+# West Central FS, Inc LaHarpe
 
-**Location:** Unknown, IL
+**Location:** LaHarpe, IL
 
 **EPA Facility ID:** 100000086266
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sanitary District of Decatur
 
-**Location:** Unknown, IL
+**Location:** Decatur, IL
 
 **EPA Facility ID:** 100000141731
 

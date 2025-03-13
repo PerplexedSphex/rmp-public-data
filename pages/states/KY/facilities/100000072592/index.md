@@ -1,6 +1,6 @@
-# Unknown
+# ULRICH CHEMICAL, INC.
 
-**Location:** Unknown, KY
+**Location:** LEXINGTON, KY
 
 **EPA Facility ID:** 100000072592
 

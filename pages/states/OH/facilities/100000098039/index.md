@@ -1,6 +1,6 @@
-# Unknown
+# ICP Building Solutions Group - Norton Plant
 
-**Location:** Unknown, OH
+**Location:** Norton, OH
 
 **EPA Facility ID:** 100000098039
 

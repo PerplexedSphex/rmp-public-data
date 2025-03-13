@@ -1,6 +1,6 @@
-# Unknown
+# IMCO Recycling of Utah, Inc.
 
-**Location:** Unknown, UT
+**Location:** Wendover City, UT
 
 **EPA Facility ID:** 100000077515
 

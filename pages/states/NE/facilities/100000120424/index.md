@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Coop - Henderson
 
-**Location:** Unknown, NE
+**Location:** Henderson, NE
 
 **EPA Facility ID:** 100000120424
 

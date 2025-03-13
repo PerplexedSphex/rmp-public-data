@@ -1,6 +1,6 @@
-# Unknown
+# City of Edinburg Dechlorination Injection Station
 
-**Location:** Unknown, TX
+**Location:** Edinburg, TX
 
 **EPA Facility ID:** 100000162012
 

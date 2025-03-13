@@ -1,6 +1,6 @@
-# Unknown
+# City of Georgetown Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Georgetown, SC
 
 **EPA Facility ID:** 100000035446
 

@@ -1,6 +1,6 @@
-# Unknown
+# Northeast Knox Utility District WTP
 
-**Location:** Unknown, TN
+**Location:** Knoxville, TN
 
 **EPA Facility ID:** 100000156216
 

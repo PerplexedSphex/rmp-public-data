@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.- Baltic
 
-**Location:** Unknown, SD
+**Location:** Baltic, SD
 
 **EPA Facility ID:** 100000004176
 

@@ -1,6 +1,6 @@
-# Unknown
+# LOMAC LLC
 
-**Location:** Unknown, MI
+**Location:** MUSKEGON, MI
 
 **EPA Facility ID:** 100000127926
 

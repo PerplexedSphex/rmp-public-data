@@ -1,6 +1,6 @@
-# Unknown
+# Barbasol LLC
 
-**Location:** Unknown, OH
+**Location:** Ashland, OH
 
 **EPA Facility ID:** 100000212897
 

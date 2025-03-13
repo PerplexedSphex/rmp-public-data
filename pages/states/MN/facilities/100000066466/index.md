@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Hallock
 
-**Location:** Unknown, MN
+**Location:** Hallock, MN
 
 **EPA Facility ID:** 100000066466
 

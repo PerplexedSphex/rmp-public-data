@@ -1,6 +1,6 @@
-# Unknown
+# J.W. Smith Water Production Plant
 
-**Location:** Unknown, GA
+**Location:** Hampton, GA
 
 **EPA Facility ID:** 100000021399
 

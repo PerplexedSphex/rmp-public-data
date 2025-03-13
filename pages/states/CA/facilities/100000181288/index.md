@@ -1,6 +1,6 @@
-# Unknown
+# High Desert Power Project
 
-**Location:** Unknown, CA
+**Location:** Victorville, CA
 
 **EPA Facility ID:** 100000181288
 

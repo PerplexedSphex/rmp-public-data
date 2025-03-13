@@ -1,6 +1,6 @@
-# Unknown
+# Hobart Ranch Plant
 
-**Location:** Unknown, TX
+**Location:** Canadian, TX
 
 **EPA Facility ID:** 100000136159
 

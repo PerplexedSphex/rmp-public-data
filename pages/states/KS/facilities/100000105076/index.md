@@ -1,6 +1,6 @@
-# Unknown
+# Lancaster NH3
 
-**Location:** Unknown, KS
+**Location:** Lancaster, KS
 
 **EPA Facility ID:** 100000105076
 

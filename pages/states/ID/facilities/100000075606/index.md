@@ -1,6 +1,6 @@
-# Unknown
+# XL Four Star Beef Inc.
 
-**Location:** Unknown, ID
+**Location:** Nampa, ID
 
 **EPA Facility ID:** 100000075606
 

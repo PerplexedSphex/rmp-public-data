@@ -1,6 +1,6 @@
-# Unknown
+# Hydrite Chemical Co. - Cottage Grove East
 
-**Location:** Unknown, WI
+**Location:** Cottage Grove, WI
 
 **EPA Facility ID:** 100000078079
 

@@ -1,6 +1,6 @@
-# Unknown
+# Costco Wholesale - Van Buren Depot #1204
 
-**Location:** Unknown, MI
+**Location:** Van Buren Township, MI
 
 **EPA Facility ID:** 100000230804
 

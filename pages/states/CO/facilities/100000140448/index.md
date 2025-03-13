@@ -1,6 +1,6 @@
-# Unknown
+# Reddy Ice-Denver (368)
 
-**Location:** Unknown, CO
+**Location:** Denver, CO
 
 **EPA Facility ID:** 100000140448
 

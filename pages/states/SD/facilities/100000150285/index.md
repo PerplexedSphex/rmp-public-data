@@ -1,6 +1,6 @@
-# Unknown
+# Canova Coop
 
-**Location:** Unknown, SD
+**Location:** Canova, SD
 
 **EPA Facility ID:** 100000150285
 

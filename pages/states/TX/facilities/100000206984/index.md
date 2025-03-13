@@ -1,6 +1,6 @@
-# Unknown
+# Rosewood Dew Point Control Station
 
-**Location:** Unknown, TX
+**Location:** Gilmer, TX
 
 **EPA Facility ID:** 100000206984
 

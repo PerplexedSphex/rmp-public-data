@@ -1,6 +1,6 @@
-# Unknown
+# Wymore Fertilizer/Krider
 
-**Location:** Unknown, NE
+**Location:** Odell, NE
 
 **EPA Facility ID:** 100000222699
 

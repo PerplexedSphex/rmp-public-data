@@ -1,6 +1,6 @@
-# Unknown
+# Arizona Chemical Company, LLC
 
-**Location:** Unknown, OH
+**Location:** Dover, OH
 
 **EPA Facility ID:** 100000151275
 

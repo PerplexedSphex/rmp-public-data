@@ -1,6 +1,6 @@
-# Unknown
+# City of Bartlesville Ted D. Lockin Water Tmt Plant
 
-**Location:** Unknown, OK
+**Location:** Bartlesville, OK
 
 **EPA Facility ID:** 100000198939
 

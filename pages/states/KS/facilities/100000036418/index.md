@@ -1,6 +1,6 @@
-# Unknown
+# Coldwater Location
 
-**Location:** Unknown, KS
+**Location:** Coldwater, KS
 
 **EPA Facility ID:** 100000036418
 

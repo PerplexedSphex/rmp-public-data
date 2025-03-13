@@ -1,6 +1,6 @@
-# Unknown
+# GRAINCO FS, Inc. Lostant Plant
 
-**Location:** Unknown, IL
+**Location:** Lostant, IL
 
 **EPA Facility ID:** 100000024831
 

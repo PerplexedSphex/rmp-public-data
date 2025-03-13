@@ -1,6 +1,6 @@
-# Unknown
+# West Knox Utility District WWTP
 
-**Location:** Unknown, TN
+**Location:** Knoxville, TN
 
 **EPA Facility ID:** 100000070282
 

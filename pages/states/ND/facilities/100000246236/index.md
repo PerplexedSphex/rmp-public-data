@@ -1,6 +1,6 @@
-# Unknown
+# FGC-003 Tailgunner
 
-**Location:** Unknown, ND
+**Location:** McKenzie County, ND
 
 **EPA Facility ID:** 100000246236
 

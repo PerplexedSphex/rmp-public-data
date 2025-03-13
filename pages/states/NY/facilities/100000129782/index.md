@@ -1,6 +1,6 @@
-# Unknown
+# U. S. Vanadium Corporation
 
-**Location:** Unknown, NY
+**Location:** Niagara Falls, NY
 
 **EPA Facility ID:** 100000129782
 

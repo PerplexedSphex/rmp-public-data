@@ -1,6 +1,6 @@
-# Unknown
+# New Britain Water Department
 
-**Location:** Unknown, CT
+**Location:** New Britain, CT
 
 **EPA Facility ID:** 100000046853
 

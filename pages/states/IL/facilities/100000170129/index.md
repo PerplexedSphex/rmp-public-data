@@ -1,6 +1,6 @@
-# Unknown
+# Edgewood, IL 700
 
-**Location:** Unknown, IL
+**Location:** Edgewood, IL
 
 **EPA Facility ID:** 100000170129
 

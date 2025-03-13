@@ -1,6 +1,6 @@
-# Unknown
+# CITY OF DICKSON WATER TREATMENT PLANT
 
-**Location:** Unknown, TN
+**Location:** DICKSON, TN
 
 **EPA Facility ID:** 100000160498
 

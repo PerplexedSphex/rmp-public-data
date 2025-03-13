@@ -1,6 +1,6 @@
-# Unknown
+# Norse Plant
 
-**Location:** Unknown, ND
+**Location:** McGregor, ND
 
 **EPA Facility ID:** 100000207901
 

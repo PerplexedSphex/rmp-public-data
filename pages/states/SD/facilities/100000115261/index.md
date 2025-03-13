@@ -1,6 +1,6 @@
-# Unknown
+# GEDDES FARMERS COOP
 
-**Location:** Unknown, SD
+**Location:** GEDDES, SD
 
 **EPA Facility ID:** 100000115261
 

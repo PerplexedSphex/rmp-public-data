@@ -1,6 +1,6 @@
-# Unknown
+# Sulphur Springs Waste Water Plant
 
-**Location:** Unknown, TX
+**Location:** Sulphur Springs, TX
 
 **EPA Facility ID:** 100000033698
 

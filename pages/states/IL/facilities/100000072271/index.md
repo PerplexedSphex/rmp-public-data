@@ -1,6 +1,6 @@
-# Unknown
+# GE Betz - Addison Plant
 
-**Location:** Unknown, IL
+**Location:** Addison, IL
 
 **EPA Facility ID:** 100000072271
 

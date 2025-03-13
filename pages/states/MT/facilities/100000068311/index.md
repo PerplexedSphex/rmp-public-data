@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.-Havre
 
-**Location:** Unknown, MT
+**Location:** Havre, MT
 
 **EPA Facility ID:** 100000068311
 

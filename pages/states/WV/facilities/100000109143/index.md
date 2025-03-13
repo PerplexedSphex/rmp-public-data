@@ -1,6 +1,6 @@
-# Unknown
+# Beckley Water Company (Sweeneysburg Plant)
 
-**Location:** Unknown, WV
+**Location:** Beckley, WV
 
 **EPA Facility ID:** 100000109143
 

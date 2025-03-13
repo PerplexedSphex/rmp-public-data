@@ -1,6 +1,6 @@
-# Unknown
+# Hutchinson Co-op/ Lester Prairie Site
 
-**Location:** Unknown, MN
+**Location:** Lester Prairie, MN
 
 **EPA Facility ID:** 100000068044
 

@@ -1,6 +1,6 @@
-# Unknown
+# Pomona Valley Pool Chlor
 
-**Location:** Unknown, CA
+**Location:** Upland, CA
 
 **EPA Facility ID:** 100000146406
 

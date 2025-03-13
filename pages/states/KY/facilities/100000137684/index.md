@@ -1,6 +1,6 @@
-# Unknown
+# Hartford, KY
 
-**Location:** Unknown, KY
+**Location:** Hartford, KY
 
 **EPA Facility ID:** 100000137684
 

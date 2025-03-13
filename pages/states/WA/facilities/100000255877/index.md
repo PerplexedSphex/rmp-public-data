@@ -1,6 +1,6 @@
-# Unknown
+# J.R. Simplot Company Columbia Basin
 
-**Location:** Unknown, WA
+**Location:** Moses Lake, WA
 
 **EPA Facility ID:** 100000255877
 

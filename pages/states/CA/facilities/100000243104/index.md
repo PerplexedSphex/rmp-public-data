@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center 8852 - Shafter, CA
 
-**Location:** Unknown, CA
+**Location:** Shafter, CA
 
 **EPA Facility ID:** 100000243104
 

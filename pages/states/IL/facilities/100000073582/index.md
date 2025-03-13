@@ -1,6 +1,6 @@
-# Unknown
+# 3M Chemical Operations' Cordova Facility
 
-**Location:** Unknown, IL
+**Location:** Cordova, IL
 
 **EPA Facility ID:** 100000073582
 

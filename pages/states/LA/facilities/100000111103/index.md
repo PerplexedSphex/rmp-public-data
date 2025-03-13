@@ -1,6 +1,6 @@
-# Unknown
+# East Jefferson Water Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Jefferson, LA
 
 **EPA Facility ID:** 100000111103
 

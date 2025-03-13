@@ -1,6 +1,6 @@
-# Unknown
+# SCC Chemical Corporation
 
-**Location:** Unknown, CA
+**Location:** San Bernardino, CA
 
 **EPA Facility ID:** 100000147192
 

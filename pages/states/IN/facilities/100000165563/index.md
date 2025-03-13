@@ -1,6 +1,6 @@
-# Unknown
+# Petrogas Griffith Terminal
 
-**Location:** Unknown, IN
+**Location:** Griffith, IN
 
 **EPA Facility ID:** 100000165563
 

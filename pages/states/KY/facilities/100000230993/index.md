@@ -1,6 +1,6 @@
-# Unknown
+# City of Stanford Water Plant
 
-**Location:** Unknown, KY
+**Location:** Stanford, KY
 
 **EPA Facility ID:** 100000230993
 

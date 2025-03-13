@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co. -Ellery
 
-**Location:** Unknown, IL
+**Location:** Ellery, IL
 
 **EPA Facility ID:** 100000068794
 

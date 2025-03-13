@@ -1,6 +1,6 @@
-# Unknown
+# Kentucky Glass Plant
 
-**Location:** Unknown, KY
+**Location:** Lexington, KY
 
 **EPA Facility ID:** 100000086462
 

@@ -1,6 +1,6 @@
-# Unknown
+# AmeriGas - Reno, NV Terminal
 
-**Location:** Unknown, NV
+**Location:** Reno, NV
 
 **EPA Facility ID:** 100000170405
 

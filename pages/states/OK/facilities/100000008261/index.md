@@ -1,6 +1,6 @@
-# Unknown
+# City of Durant Water Treatment Plant
 
-**Location:** Unknown, OK
+**Location:** Armstrong, OK
 
 **EPA Facility ID:** 100000008261
 

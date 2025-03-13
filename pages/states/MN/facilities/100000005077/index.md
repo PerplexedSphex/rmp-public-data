@@ -1,6 +1,6 @@
-# Unknown
+# NORTHERN RESOURCES COOPERATIVE-WEST PLANT
 
-**Location:** Unknown, MN
+**Location:** ROSEAU, MN
 
 **EPA Facility ID:** 100000005077
 

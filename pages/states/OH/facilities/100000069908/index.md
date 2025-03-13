@@ -1,6 +1,6 @@
-# Unknown
+# Detrex Chemicals
 
-**Location:** Unknown, OH
+**Location:** Ashtabula, OH
 
 **EPA Facility ID:** 100000069908
 

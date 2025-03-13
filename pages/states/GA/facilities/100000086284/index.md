@@ -1,6 +1,6 @@
-# Unknown
+# Pilgrim's Pride - Ellijay Processing Plant
 
-**Location:** Unknown, GA
+**Location:** Ellijay, GA
 
 **EPA Facility ID:** 100000086284
 

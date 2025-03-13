@@ -1,6 +1,6 @@
-# Unknown
+# Costco Wholesale - West Palm Beach
 
-**Location:** Unknown, FL
+**Location:** West Palm Beach, FL
 
 **EPA Facility ID:** 100000183892
 

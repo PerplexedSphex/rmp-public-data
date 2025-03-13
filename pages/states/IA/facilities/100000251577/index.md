@@ -1,6 +1,6 @@
-# Unknown
+# Lenox, IA 320
 
-**Location:** Unknown, IA
+**Location:** Lenox, IA
 
 **EPA Facility ID:** 100000251577
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Ostrander
 
-**Location:** Unknown, MN
+**Location:** Ostrander, MN
 
 **EPA Facility ID:** 100000079176
 

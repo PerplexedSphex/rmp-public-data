@@ -1,6 +1,6 @@
-# Unknown
+# Taylors WWTP
 
-**Location:** Unknown, SC
+**Location:** Taylors, SC
 
 **EPA Facility ID:** 100000142552
 

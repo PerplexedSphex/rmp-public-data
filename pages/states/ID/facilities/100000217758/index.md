@@ -1,6 +1,6 @@
-# Unknown
+# Micron Technology, Inc.
 
-**Location:** Unknown, ID
+**Location:** Boise, ID
 
 **EPA Facility ID:** 100000217758
 

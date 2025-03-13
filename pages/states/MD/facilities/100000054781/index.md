@@ -1,6 +1,6 @@
-# Unknown
+# Maryland Chemical Company
 
-**Location:** Unknown, MD
+**Location:** Baltimore, MD
 
 **EPA Facility ID:** 100000054781
 

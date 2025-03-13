@@ -1,6 +1,6 @@
-# Unknown
+# Mason Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Lebanon, OH
 
 **EPA Facility ID:** 100000062861
 

@@ -1,6 +1,6 @@
-# Unknown
+# Oxarc, Inc. Dietrich
 
-**Location:** Unknown, WA
+**Location:** Pasco, WA
 
 **EPA Facility ID:** 100000230699
 

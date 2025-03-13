@@ -1,6 +1,6 @@
-# Unknown
+# Havana Water Treatment  Plant
 
-**Location:** Unknown, TX
+**Location:** La Joya, TX
 
 **EPA Facility ID:** 100000151961
 

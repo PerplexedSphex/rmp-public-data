@@ -1,6 +1,6 @@
-# Unknown
+# City of Claremore WWTP
 
-**Location:** Unknown, OK
+**Location:** Claremore, OK
 
 **EPA Facility ID:** 100000057136
 

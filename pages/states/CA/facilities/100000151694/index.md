@@ -1,6 +1,6 @@
-# Unknown
+# South Bay Power Plant
 
-**Location:** Unknown, CA
+**Location:** Chula Vista, CA
 
 **EPA Facility ID:** 100000151694
 

@@ -1,6 +1,6 @@
-# Unknown
+# Frenchman Valley Coop - Sidney
 
-**Location:** Unknown, NE
+**Location:** Sidney, NE
 
 **EPA Facility ID:** 100000045113
 

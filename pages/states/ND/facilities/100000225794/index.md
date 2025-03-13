@@ -1,6 +1,6 @@
-# Unknown
+# Central Dakota Frontier Cooperative
 
-**Location:** Unknown, ND
+**Location:** Steele, ND
 
 **EPA Facility ID:** 100000225794
 

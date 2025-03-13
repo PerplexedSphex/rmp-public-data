@@ -1,6 +1,6 @@
-# Unknown
+# Hog Slat, Inc. - Newton Grove Facility
 
-**Location:** Unknown, NC
+**Location:** Newton Grove, NC
 
 **EPA Facility ID:** 100000017368
 

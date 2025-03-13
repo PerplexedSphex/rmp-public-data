@@ -1,6 +1,6 @@
-# Unknown
+# East Honolulu WWTP
 
-**Location:** Unknown, HI
+**Location:** Honolulu, HI
 
 **EPA Facility ID:** 100000103942
 

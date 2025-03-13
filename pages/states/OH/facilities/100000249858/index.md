@@ -1,6 +1,6 @@
-# Unknown
+# Lorain RNG Plant
 
-**Location:** Unknown, OH
+**Location:** Oberlin, OH
 
 **EPA Facility ID:** 100000249858
 

@@ -1,6 +1,6 @@
-# Unknown
+# Pendleton Grain Growers - Juniper Elevator
 
-**Location:** Unknown, OR
+**Location:** Helix, OR
 
 **EPA Facility ID:** 100000113744
 

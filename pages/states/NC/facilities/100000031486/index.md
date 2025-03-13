@@ -1,6 +1,6 @@
-# Unknown
+# City of Hickory Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Hickory, NC
 
 **EPA Facility ID:** 100000031486
 

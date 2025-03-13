@@ -1,6 +1,6 @@
-# Unknown
+# New Horizon Farm & Home - Blue Mound
 
-**Location:** Unknown, KS
+**Location:** Blue Mound, KS
 
 **EPA Facility ID:** 100000197315
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Fredericksburg Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Fredericksburg, TX
 
 **EPA Facility ID:** 100000076561
 

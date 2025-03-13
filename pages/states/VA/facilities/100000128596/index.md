@@ -1,6 +1,6 @@
-# Unknown
+# City of Danville Northside WWTP
 
-**Location:** Unknown, VA
+**Location:** Danville, VA
 
 **EPA Facility ID:** 100000128596
 

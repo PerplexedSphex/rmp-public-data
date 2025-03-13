@@ -1,6 +1,6 @@
-# Unknown
+# North Sligo Refrigeration Facility
 
-**Location:** Unknown, LA
+**Location:** Haughton, LA
 
 **EPA Facility ID:** 100000185168
 

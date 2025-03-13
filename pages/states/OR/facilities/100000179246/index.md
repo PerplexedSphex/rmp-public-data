@@ -1,6 +1,6 @@
-# Unknown
+# Hermiston Power, LLC
 
-**Location:** Unknown, OR
+**Location:** Hermiston, OR
 
 **EPA Facility ID:** 100000179246
 

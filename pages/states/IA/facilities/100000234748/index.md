@@ -1,6 +1,6 @@
-# Unknown
+# Dike, IA Satellite
 
-**Location:** Unknown, IA
+**Location:** Dike, IA
 
 **EPA Facility ID:** 100000234748
 

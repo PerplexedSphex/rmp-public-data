@@ -1,6 +1,6 @@
-# Unknown
+# Star of the West Milling Co.
 
-**Location:** Unknown, IN
+**Location:** Ligonier, IN
 
 **EPA Facility ID:** 100000123984
 

@@ -1,6 +1,6 @@
-# Unknown
+# Macomb Water Treatment Plant
 
-**Location:** Unknown, IL
+**Location:** Macomb, IL
 
 **EPA Facility ID:** 100000032092
 

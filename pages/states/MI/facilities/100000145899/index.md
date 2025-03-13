@@ -1,6 +1,6 @@
-# Unknown
+# Leprino Foods Company Allendale, MI Facility
 
-**Location:** Unknown, MI
+**Location:** Allendale, MI
 
 **EPA Facility ID:** 100000145899
 

@@ -1,6 +1,6 @@
-# Unknown
+# Twin City Foods Inc
 
-**Location:** Unknown, MI
+**Location:** Lake Odessa, MI
 
 **EPA Facility ID:** 100000110934
 

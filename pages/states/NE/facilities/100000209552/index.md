@@ -1,6 +1,6 @@
-# Unknown
+# Crete Core Ingredients
 
-**Location:** Unknown, NE
+**Location:** Crete, NE
 
 **EPA Facility ID:** 100000209552
 

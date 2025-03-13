@@ -1,6 +1,6 @@
-# Unknown
+# Washington Steel - Washington Plant
 
-**Location:** Unknown, PA
+**Location:** Canton Township, PA
 
 **EPA Facility ID:** 100000050865
 

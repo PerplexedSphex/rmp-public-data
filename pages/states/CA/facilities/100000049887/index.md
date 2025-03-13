@@ -1,6 +1,6 @@
-# Unknown
+# Sun Pacific Lerdo Highway Cold Storage
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000049887
 

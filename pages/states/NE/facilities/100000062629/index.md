@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc.-Magnet
 
-**Location:** Unknown, NE
+**Location:** Magnet, NE
 
 **EPA Facility ID:** 100000062629
 

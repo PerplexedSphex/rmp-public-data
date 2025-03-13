@@ -1,6 +1,6 @@
-# Unknown
+# Hexion Inc. - La Grande
 
-**Location:** Unknown, OR
+**Location:** ISLAND CITY, OR
 
 **EPA Facility ID:** 100000049547
 

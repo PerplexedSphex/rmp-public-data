@@ -1,6 +1,6 @@
-# Unknown
+# Konoike-Pacific California, Inc.
 
-**Location:** Unknown, CA
+**Location:** Wilmington, CA
 
 **EPA Facility ID:** 100000208759
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Sarles
 
-**Location:** Unknown, ND
+**Location:** Sarles, ND
 
 **EPA Facility ID:** 100000069267
 

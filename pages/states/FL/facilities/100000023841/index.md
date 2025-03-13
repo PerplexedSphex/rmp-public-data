@@ -1,6 +1,6 @@
-# Unknown
+# Lake City Water Treatment Facility
 
-**Location:** Unknown, FL
+**Location:** Lake City, FL
 
 **EPA Facility ID:** 100000023841
 

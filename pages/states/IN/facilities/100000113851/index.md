@@ -1,6 +1,6 @@
-# Unknown
+# Midland Co-op, Monrovia
 
-**Location:** Unknown, IN
+**Location:** Monrovia, IN
 
 **EPA Facility ID:** 100000113851
 

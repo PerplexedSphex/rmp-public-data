@@ -1,6 +1,6 @@
-# Unknown
+# Metro Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Columbia, SC
 
 **EPA Facility ID:** 100000020345
 

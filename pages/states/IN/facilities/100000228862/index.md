@@ -1,6 +1,6 @@
-# Unknown
+# Duke Energy-Cayuga Generating Station
 
-**Location:** Unknown, IN
+**Location:** Cayuga, IN
 
 **EPA Facility ID:** 100000228862
 

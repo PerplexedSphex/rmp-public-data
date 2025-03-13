@@ -1,6 +1,6 @@
-# Unknown
+# Quincy Street Inc.
 
-**Location:** Unknown, MI
+**Location:** Holland, MI
 
 **EPA Facility ID:** 100000224919
 

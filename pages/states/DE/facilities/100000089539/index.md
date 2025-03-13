@@ -1,6 +1,6 @@
-# Unknown
+# Occidental Chemical Corp., Delaware City Plant
 
-**Location:** Unknown, DE
+**Location:** New Castle, DE
 
 **EPA Facility ID:** 100000089539
 

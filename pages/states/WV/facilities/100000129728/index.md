@@ -1,6 +1,6 @@
-# Unknown
+# Huntington Sanitary Board Wastewater Treatment Plt
 
-**Location:** Unknown, WV
+**Location:** Huntington, WV
 
 **EPA Facility ID:** 100000129728
 

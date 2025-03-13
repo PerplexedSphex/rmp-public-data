@@ -1,6 +1,6 @@
-# Unknown
+# Prairie Packaging - Bedford Park Plant
 
-**Location:** Unknown, IL
+**Location:** Bedford Park, IL
 
 **EPA Facility ID:** 100000126936
 

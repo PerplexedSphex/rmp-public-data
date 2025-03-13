@@ -1,6 +1,6 @@
-# Unknown
+# Key Cooperative Baxter
 
-**Location:** Unknown, IA
+**Location:** Baxter, IA
 
 **EPA Facility ID:** 100000095498
 

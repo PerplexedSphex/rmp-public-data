@@ -1,6 +1,6 @@
-# Unknown
+# Shelby #1 Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Center, TX
 
 **EPA Facility ID:** 100000198671
 

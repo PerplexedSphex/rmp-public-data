@@ -1,6 +1,6 @@
-# Unknown
+# Schuyler Cooperative Assn. Richland Location
 
-**Location:** Unknown, NE
+**Location:** Richland, NE
 
 **EPA Facility ID:** 100000001437
 

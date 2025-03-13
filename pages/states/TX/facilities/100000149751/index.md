@@ -1,6 +1,6 @@
-# Unknown
+#  Phoenix Arrington Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Canadian, TX
 
 **EPA Facility ID:** 100000149751
 

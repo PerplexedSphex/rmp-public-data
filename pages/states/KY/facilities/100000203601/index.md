@@ -1,6 +1,6 @@
-# Unknown
+# Mizkan America
 
-**Location:** Unknown, KY
+**Location:** Owensboro, KY
 
 **EPA Facility ID:** 100000203601
 

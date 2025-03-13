@@ -1,6 +1,6 @@
-# Unknown
+# Bowie Fertilizer, Inc.
 
-**Location:** Unknown, NE
+**Location:** Miller, NE
 
 **EPA Facility ID:** 100000122878
 

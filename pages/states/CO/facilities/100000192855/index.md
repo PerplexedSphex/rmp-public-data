@@ -1,6 +1,6 @@
-# Unknown
+# King Soopers Bakery
 
-**Location:** Unknown, CO
+**Location:** Denver, CO
 
 **EPA Facility ID:** 100000192855
 

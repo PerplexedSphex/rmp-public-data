@@ -1,6 +1,6 @@
-# Unknown
+# Stovall Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Travelers Rest, SC
 
 **EPA Facility ID:** 100000167115
 

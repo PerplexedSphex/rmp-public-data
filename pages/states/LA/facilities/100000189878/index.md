@@ -1,6 +1,6 @@
-# Unknown
+# Braden No. 1 Facility
 
-**Location:** Unknown, LA
+**Location:** Lake Charles, LA
 
 **EPA Facility ID:** 100000189878
 

@@ -1,6 +1,6 @@
-# Unknown
+# Continental General Tire, Inc
 
-**Location:** Unknown, GA
+**Location:** Barnesville, GA
 
 **EPA Facility ID:** 100000083223
 

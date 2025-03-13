@@ -1,6 +1,6 @@
-# Unknown
+# Georgia Gulf Chemicals & Vinyls, LLC - OKC Plant
 
-**Location:** Unknown, OK
+**Location:** Oklahoma City, OK
 
 **EPA Facility ID:** 100000094284
 

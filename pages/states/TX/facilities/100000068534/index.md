@@ -1,6 +1,6 @@
-# Unknown
+# Canadian Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Canadian, TX
 
 **EPA Facility ID:** 100000068534
 

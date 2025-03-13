@@ -1,6 +1,6 @@
-# Unknown
+# Lamb Weston Boardman-East Facility
 
-**Location:** Unknown, OR
+**Location:** Boardman, OR
 
 **EPA Facility ID:** 100000197011
 

@@ -1,6 +1,6 @@
-# Unknown
+# West Lebanon, IN 3523
 
-**Location:** Unknown, IN
+**Location:** West Lebanon, IN
 
 **EPA Facility ID:** 100000083697
 

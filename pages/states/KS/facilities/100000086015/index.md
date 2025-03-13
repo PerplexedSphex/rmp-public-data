@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Ag Inc-Kanorado
 
-**Location:** Unknown, KS
+**Location:** Kanorado, KS
 
 **EPA Facility ID:** 100000086015
 

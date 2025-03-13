@@ -1,6 +1,6 @@
-# Unknown
+# Mid-West Fertilizer, LLC. - Chanute
 
-**Location:** Unknown, KS
+**Location:** Chanute, KS
 
 **EPA Facility ID:** 100000122725
 

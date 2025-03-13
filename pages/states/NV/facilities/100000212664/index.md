@@ -1,6 +1,6 @@
-# Unknown
+# Goodsprings Energy Recovery Station
 
-**Location:** Unknown, NV
+**Location:** Jean, NV
 
 **EPA Facility ID:** 100000212664
 

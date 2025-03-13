@@ -1,6 +1,6 @@
-# Unknown
+# Wyoming, IA 485 Satellite
 
-**Location:** Unknown, IA
+**Location:** Wyoming, IA
 
 **EPA Facility ID:** 100000197066
 

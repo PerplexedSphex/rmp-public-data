@@ -1,6 +1,6 @@
-# Unknown
+# Buffalo Lake Agronomy
 
-**Location:** Unknown, MN
+**Location:** Buffalo Lake, MN
 
 **EPA Facility ID:** 100000135178
 

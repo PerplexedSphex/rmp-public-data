@@ -1,6 +1,6 @@
-# Unknown
+# Global Tungsten and Powders
 
-**Location:** Unknown, PA
+**Location:** Towanda, PA
 
 **EPA Facility ID:** 100000062576
 

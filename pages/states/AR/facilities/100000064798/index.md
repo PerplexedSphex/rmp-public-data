@@ -1,6 +1,6 @@
-# Unknown
+# Texarkana Water Utility Millwood Water Plant
 
-**Location:** Unknown, AR
+**Location:** Ashdown, AR
 
 **EPA Facility ID:** 100000064798
 

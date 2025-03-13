@@ -1,6 +1,6 @@
-# Unknown
+# Valspar Coatings - Rockford
 
-**Location:** Unknown, IL
+**Location:** Rockford, IL
 
 **EPA Facility ID:** 100000079611
 

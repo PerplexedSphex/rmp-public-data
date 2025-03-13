@@ -1,6 +1,6 @@
-# Unknown
+# Wildhorse Terminal
 
-**Location:** Unknown, OK
+**Location:** Cushing, OK
 
 **EPA Facility ID:** 100000244327
 

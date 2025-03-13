@@ -1,6 +1,6 @@
-# Unknown
+# West Regional Wastewater Treatment Facility
 
-**Location:** Unknown, FL
+**Location:** Vero Beach, FL
 
 **EPA Facility ID:** 100000016715
 

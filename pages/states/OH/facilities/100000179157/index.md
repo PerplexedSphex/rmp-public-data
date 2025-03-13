@@ -1,6 +1,6 @@
-# Unknown
+# Wright Distribution Center, Inc.
 
-**Location:** Unknown, OH
+**Location:** Lima, OH
 
 **EPA Facility ID:** 100000179157
 

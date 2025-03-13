@@ -1,6 +1,6 @@
-# Unknown
+# Ladish Co Inc
 
-**Location:** Unknown, WI
+**Location:** Cudahy, WI
 
 **EPA Facility ID:** 100000115252
 

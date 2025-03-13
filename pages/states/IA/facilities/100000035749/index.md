@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. - Davenport
 
-**Location:** Unknown, IA
+**Location:** Davenport, IA
 
 **EPA Facility ID:** 100000035749
 

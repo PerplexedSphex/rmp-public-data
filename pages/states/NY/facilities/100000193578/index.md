@@ -1,6 +1,6 @@
-# Unknown
+# Price Chopper- Rotterdam Freezer
 
-**Location:** Unknown, NY
+**Location:** Schenectady, NY
 
 **EPA Facility ID:** 100000193578
 

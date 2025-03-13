@@ -1,6 +1,6 @@
-# Unknown
+# Reclaimed Water Plant
 
-**Location:** Unknown, SC
+**Location:** Hilton Head Island, SC
 
 **EPA Facility ID:** 100000153567
 

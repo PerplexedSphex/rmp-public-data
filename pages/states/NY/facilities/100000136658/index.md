@@ -1,6 +1,6 @@
-# Unknown
+# City of Oswego Water Treatment Facility
 
-**Location:** Unknown, NY
+**Location:** Oswego, NY
 
 **EPA Facility ID:** 100000136658
 

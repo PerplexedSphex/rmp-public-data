@@ -1,6 +1,6 @@
-# Unknown
+# Dixie Lexington Terminal
 
-**Location:** Unknown, SC
+**Location:** Lexington, SC
 
 **EPA Facility ID:** 100000165616
 

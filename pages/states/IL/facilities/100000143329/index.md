@@ -1,6 +1,6 @@
-# Unknown
+# The Mennel Milling Company of Illinois
 
-**Location:** Unknown, IL
+**Location:** Mt. Olive, IL
 
 **EPA Facility ID:** 100000143329
 

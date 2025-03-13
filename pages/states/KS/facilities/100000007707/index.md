@@ -1,6 +1,6 @@
-# Unknown
+# SEK Coop Inc
 
-**Location:** Unknown, KS
+**Location:** Fredonia, KS
 
 **EPA Facility ID:** 100000007707
 

@@ -1,6 +1,6 @@
-# Unknown
+# White Castle Distributing LLC
 
-**Location:** Unknown, OH
+**Location:** Vandalia, OH
 
 **EPA Facility ID:** 100000223162
 

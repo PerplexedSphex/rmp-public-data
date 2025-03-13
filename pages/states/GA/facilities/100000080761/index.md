@@ -1,6 +1,6 @@
-# Unknown
+# Snapfinger Advanced Wastewater Treatment Facility
 
-**Location:** Unknown, GA
+**Location:** Decatur, GA
 
 **EPA Facility ID:** 100000080761
 

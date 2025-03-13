@@ -1,6 +1,6 @@
-# Unknown
+# Huntingburg, IN 302
 
-**Location:** Unknown, IN
+**Location:** Huntingburg, IN
 
 **EPA Facility ID:** 100000014726
 

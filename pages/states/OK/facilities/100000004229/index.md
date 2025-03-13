@@ -1,6 +1,6 @@
-# Unknown
+# Coop Services Inc., Chattanooga
 
-**Location:** Unknown, OK
+**Location:** Chattanooga, OK
 
 **EPA Facility ID:** 100000004229
 

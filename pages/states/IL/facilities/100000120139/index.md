@@ -1,6 +1,6 @@
-# Unknown
+# Arkema Coating Resins
 
-**Location:** Unknown, IL
+**Location:** Alsip, IL
 
 **EPA Facility ID:** 100000120139
 

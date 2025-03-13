@@ -1,6 +1,6 @@
-# Unknown
+# CENTRAL FARMERS COOPERATIVE-CLEARWATER, NE
 
-**Location:** Unknown, NE
+**Location:** CLEARWATER, NE
 
 **EPA Facility ID:** 100000005139
 

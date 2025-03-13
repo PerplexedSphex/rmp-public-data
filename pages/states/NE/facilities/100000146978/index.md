@@ -1,6 +1,6 @@
-# Unknown
+# JBS USA - Omaha Beef Processing Facility
 
-**Location:** Unknown, NE
+**Location:** Omaha, NE
 
 **EPA Facility ID:** 100000146978
 

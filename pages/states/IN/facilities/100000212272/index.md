@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Muncie
 
-**Location:** Unknown, IN
+**Location:** Muncie, IN
 
 **EPA Facility ID:** 100000212272
 

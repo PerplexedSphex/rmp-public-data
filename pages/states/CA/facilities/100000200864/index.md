@@ -1,6 +1,6 @@
-# Unknown
+# Merced Power LLC
 
-**Location:** Unknown, CA
+**Location:** Merced, CA
 
 **EPA Facility ID:** 100000200864
 

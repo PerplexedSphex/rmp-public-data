@@ -1,6 +1,6 @@
-# Unknown
+# Inland Plymouth Terminal
 
-**Location:** Unknown, CT
+**Location:** Terryville, CT
 
 **EPA Facility ID:** 100000244283
 

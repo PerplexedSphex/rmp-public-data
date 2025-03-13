@@ -1,6 +1,6 @@
-# Unknown
+# United Farmers Coop-Lafayette
 
-**Location:** Unknown, MN
+**Location:** Lafayette, MN
 
 **EPA Facility ID:** 100000016449
 

@@ -1,6 +1,6 @@
-# Unknown
+# Laurel WWTP #1
 
-**Location:** Unknown, MS
+**Location:** Laurel, MS
 
 **EPA Facility ID:** 100000154012
 

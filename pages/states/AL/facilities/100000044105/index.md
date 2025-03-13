@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Mid-South, Inc.
 
-**Location:** Unknown, AL
+**Location:** Madison, AL
 
 **EPA Facility ID:** 100000044105
 

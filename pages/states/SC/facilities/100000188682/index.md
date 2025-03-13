@@ -1,6 +1,6 @@
-# Unknown
+# Amick Farms, LLC
 
-**Location:** Unknown, SC
+**Location:** Batesburg, SC
 
 **EPA Facility ID:** 100000188682
 

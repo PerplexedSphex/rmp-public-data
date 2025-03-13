@@ -1,6 +1,6 @@
-# Unknown
+# Olmitz Nh3 Plant
 
-**Location:** Unknown, KS
+**Location:** Olmitz, KS
 
 **EPA Facility ID:** 100000023039
 

@@ -1,6 +1,6 @@
-# Unknown
+# George S. Coyne Chemical Co., Inc.
 
-**Location:** Unknown, PA
+**Location:** Croydon, PA
 
 **EPA Facility ID:** 100000070969
 

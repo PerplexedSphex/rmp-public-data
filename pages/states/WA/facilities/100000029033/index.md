@@ -1,6 +1,6 @@
-# Unknown
+# Lamb Weston Connell Facility
 
-**Location:** Unknown, WA
+**Location:** Connell, WA
 
 **EPA Facility ID:** 100000029033
 

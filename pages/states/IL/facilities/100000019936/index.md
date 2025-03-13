@@ -1,6 +1,6 @@
-# Unknown
+# Hoopeston Fertilizer Co.
 
-**Location:** Unknown, IL
+**Location:** Hoopeston, IL
 
 **EPA Facility ID:** 100000019936
 

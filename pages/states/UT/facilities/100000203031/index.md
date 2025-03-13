@@ -1,6 +1,6 @@
-# Unknown
+# Worthington Foods Inc., Clearfield Plant
 
-**Location:** Unknown, UT
+**Location:** Clearfield, UT
 
 **EPA Facility ID:** 100000203031
 

@@ -1,6 +1,6 @@
-# Unknown
+# KIK (Georgia) LLC
 
-**Location:** Unknown, GA
+**Location:** Hampton, GA
 
 **EPA Facility ID:** 100000081154
 

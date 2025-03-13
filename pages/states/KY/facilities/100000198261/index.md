@@ -1,6 +1,6 @@
-# Unknown
+# Alltech Inc.
 
-**Location:** Unknown, KY
+**Location:** Nicholasville, KY
 
 **EPA Facility ID:** 100000198261
 

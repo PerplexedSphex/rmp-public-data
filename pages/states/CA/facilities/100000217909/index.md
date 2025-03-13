@@ -1,6 +1,6 @@
-# Unknown
+# Fresh and Easy Campus Kitchen
 
-**Location:** Unknown, CA
+**Location:** Riverside, CA
 
 **EPA Facility ID:** 100000217909
 

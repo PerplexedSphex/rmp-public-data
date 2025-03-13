@@ -1,6 +1,6 @@
-# Unknown
+# Malti Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Watonga, OK
 
 **EPA Facility ID:** 100000181992
 

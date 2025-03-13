@@ -1,6 +1,6 @@
-# Unknown
+# Wyandotte Wastewater Treatment Facility
 
-**Location:** Unknown, MI
+**Location:** Wyandotte, MI
 
 **EPA Facility ID:** 100000038648
 

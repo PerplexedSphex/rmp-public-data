@@ -1,6 +1,6 @@
-# Unknown
+# City of Franklin Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Franklin, TN
 
 **EPA Facility ID:** 100000157867
 

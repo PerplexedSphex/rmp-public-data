@@ -1,6 +1,6 @@
-# Unknown
+# Vidalia Water Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Vidalia, LA
 
 **EPA Facility ID:** 100000022879
 

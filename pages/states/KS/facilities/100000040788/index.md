@@ -1,6 +1,6 @@
-# Unknown
+# Greensburg, KS 673
 
-**Location:** Unknown, KS
+**Location:** Greensburg, KS
 
 **EPA Facility ID:** 100000040788
 

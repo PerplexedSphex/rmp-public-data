@@ -1,6 +1,6 @@
-# Unknown
+# City of Auburn Water Purification Plant
 
-**Location:** Unknown, NY
+**Location:** Auburn, NY
 
 **EPA Facility ID:** 100000020773
 

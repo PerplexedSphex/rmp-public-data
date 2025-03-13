@@ -1,6 +1,6 @@
-# Unknown
+# TROTTER FERTILIZER
 
-**Location:** Unknown, NE
+**Location:** Hazard, NE
 
 **EPA Facility ID:** 100000154511
 

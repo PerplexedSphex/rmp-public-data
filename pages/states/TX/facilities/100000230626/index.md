@@ -1,6 +1,6 @@
-# Unknown
+# Blue Cube Operations, LLC
 
-**Location:** Unknown, TX
+**Location:** Freeport, TX
 
 **EPA Facility ID:** 100000230626
 

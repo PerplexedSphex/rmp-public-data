@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Onida
 
-**Location:** Unknown, SD
+**Location:** Onida, SD
 
 **EPA Facility ID:** 100000069506
 

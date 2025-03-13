@@ -1,6 +1,6 @@
-# Unknown
+# Spirit Creek Wastewater Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Augusta, GA
 
 **EPA Facility ID:** 100000133009
 

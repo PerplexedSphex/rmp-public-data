@@ -1,6 +1,6 @@
-# Unknown
+# Palos Verdes Reservoir Outlet Chlorination Station
 
-**Location:** Unknown, CA
+**Location:** Rancho Palos Verdes, CA
 
 **EPA Facility ID:** 100000138344
 

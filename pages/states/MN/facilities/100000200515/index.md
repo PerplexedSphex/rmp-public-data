@@ -1,6 +1,6 @@
-# Unknown
+# J&B Cold Storage, LLC
 
-**Location:** Unknown, MN
+**Location:** St. Michael, MN
 
 **EPA Facility ID:** 100000200515
 

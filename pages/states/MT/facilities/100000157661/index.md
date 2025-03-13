@@ -1,6 +1,6 @@
-# Unknown
+# Highwood Plant
 
-**Location:** Unknown, MT
+**Location:** N. of Highwood, MT
 
 **EPA Facility ID:** 100000157661
 

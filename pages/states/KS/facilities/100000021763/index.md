@@ -1,6 +1,6 @@
-# Unknown
+# Fort Scott Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Fort Scott, KS
 
 **EPA Facility ID:** 100000021763
 

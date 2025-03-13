@@ -1,6 +1,6 @@
-# Unknown
+# BRADY GEOTHERMAL POWER PLANT
 
-**Location:** Unknown, NV
+**Location:** Fernley, NV
 
 **EPA Facility ID:** 100000183428
 

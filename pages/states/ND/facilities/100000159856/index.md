@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - LaMoure Facility
 
-**Location:** Unknown, ND
+**Location:** LaMoure, ND
 
 **EPA Facility ID:** 100000159856
 

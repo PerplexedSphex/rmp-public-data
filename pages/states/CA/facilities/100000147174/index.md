@@ -1,6 +1,6 @@
-# Unknown
+# Whittier Narrows Water Reclamation Plant
 
-**Location:** Unknown, CA
+**Location:** South El Monte, CA
 
 **EPA Facility ID:** 100000147174
 

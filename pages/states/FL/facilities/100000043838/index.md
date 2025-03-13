@@ -1,6 +1,6 @@
-# Unknown
+# Fancy Flora Inc.
 
-**Location:** Unknown, FL
+**Location:** Miami, FL
 
 **EPA Facility ID:** 100000043838
 

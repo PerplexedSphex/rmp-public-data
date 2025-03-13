@@ -1,6 +1,6 @@
-# Unknown
+# George Chiala Farms, Inc
 
-**Location:** Unknown, CA
+**Location:** Hollister, CA
 
 **EPA Facility ID:** 100000231359
 

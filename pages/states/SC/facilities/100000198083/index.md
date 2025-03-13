@@ -1,6 +1,6 @@
-# Unknown
+# McEntire Produce Inc.
 
-**Location:** Unknown, SC
+**Location:** Columbia, SC
 
 **EPA Facility ID:** 100000198083
 

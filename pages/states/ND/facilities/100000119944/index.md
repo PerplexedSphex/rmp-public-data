@@ -1,6 +1,6 @@
-# Unknown
+# Mandan Water Treatment Plant
 
-**Location:** Unknown, ND
+**Location:** Mandan, ND
 
 **EPA Facility ID:** 100000119944
 

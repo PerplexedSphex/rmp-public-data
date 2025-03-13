@@ -1,6 +1,6 @@
-# Unknown
+# Seneca Foods Corp.-Proc Facility, Rochester, MN
 
-**Location:** Unknown, MN
+**Location:** Rochester, MN
 
 **EPA Facility ID:** 100000042722
 

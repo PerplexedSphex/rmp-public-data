@@ -1,6 +1,6 @@
-# Unknown
+# Iroquois Bio-Energy Company
 
-**Location:** Unknown, IN
+**Location:** Rensselaer, IN
 
 **EPA Facility ID:** 100000202531
 

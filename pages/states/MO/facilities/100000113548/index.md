@@ -1,6 +1,6 @@
-# Unknown
+# Poplar Bluff Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Poplar Bluff, MO
 
 **EPA Facility ID:** 100000113548
 

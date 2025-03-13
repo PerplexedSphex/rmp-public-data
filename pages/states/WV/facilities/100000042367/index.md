@@ -1,6 +1,6 @@
-# Unknown
+# City of Charleston Wastewater Treatment Plant
 
-**Location:** Unknown, WV
+**Location:** Charleston, WV
 
 **EPA Facility ID:** 100000042367
 

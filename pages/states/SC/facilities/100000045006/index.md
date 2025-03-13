@@ -1,6 +1,6 @@
-# Unknown
+# Lower Berkeley Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** GOOSE CREEK, SC
 
 **EPA Facility ID:** 100000045006
 

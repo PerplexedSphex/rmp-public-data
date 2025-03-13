@@ -1,6 +1,6 @@
-# Unknown
+# Brimfield, IL
 
-**Location:** Unknown, IL
+**Location:** Brimfield, IL
 
 **EPA Facility ID:** 100000097307
 

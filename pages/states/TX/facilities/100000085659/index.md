@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Cooperative- Plainview, TX (72249)
 
-**Location:** Unknown, TX
+**Location:** Plainview, TX
 
 **EPA Facility ID:** 100000085659
 

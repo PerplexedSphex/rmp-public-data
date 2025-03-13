@@ -1,6 +1,6 @@
-# Unknown
+# Tip H. Allen Water Treatment Plant
 
-**Location:** Unknown, MS
+**Location:** Canton, MS
 
 **EPA Facility ID:** 100000164788
 

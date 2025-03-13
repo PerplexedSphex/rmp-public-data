@@ -1,6 +1,6 @@
-# Unknown
+# DuPont Burley Plant
 
-**Location:** Unknown, ID
+**Location:** Burley, ID
 
 **EPA Facility ID:** 100000245727
 

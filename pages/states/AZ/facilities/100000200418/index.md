@@ -1,6 +1,6 @@
-# Unknown
+# Pinal Energy, LLC
 
-**Location:** Unknown, AZ
+**Location:** Maricopa, AZ
 
 **EPA Facility ID:** 100000200418
 

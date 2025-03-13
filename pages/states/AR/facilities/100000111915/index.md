@@ -1,6 +1,6 @@
-# Unknown
+# Thorn Apple Valley, Dixie Foods Division
 
-**Location:** Unknown, AR
+**Location:** Forrest City, AR
 
 **EPA Facility ID:** 100000111915
 

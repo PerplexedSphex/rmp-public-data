@@ -1,6 +1,6 @@
-# Unknown
+# Cenex Harvest States-Canton
 
-**Location:** Unknown, MN
+**Location:** Canton, MN
 
 **EPA Facility ID:** 100000069025
 

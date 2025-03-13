@@ -1,6 +1,6 @@
-# Unknown
+# Cedar Crest Ice Cream
 
-**Location:** Unknown, WI
+**Location:** Manitowoc, WI
 
 **EPA Facility ID:** 100000228041
 

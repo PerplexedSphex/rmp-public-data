@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Grangeville
 
-**Location:** Unknown, ID
+**Location:** Grangeville, ID
 
 **EPA Facility ID:** 100000023583
 

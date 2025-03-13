@@ -1,6 +1,6 @@
-# Unknown
+# Amerochem Corporation
 
-**Location:** Unknown, NC
+**Location:** New Bern, NC
 
 **EPA Facility ID:** 100000231778
 

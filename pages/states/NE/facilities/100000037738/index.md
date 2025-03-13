@@ -1,6 +1,6 @@
-# Unknown
+# Panhandle Cooperative Fertilizer
 
-**Location:** Unknown, NE
+**Location:** Dalton, NE
 
 **EPA Facility ID:** 100000037738
 

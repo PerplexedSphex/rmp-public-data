@@ -1,6 +1,6 @@
-# Unknown
+# Diamond Vogel - North Inc.
 
-**Location:** Unknown, MN
+**Location:** Minneapolis, MN
 
 **EPA Facility ID:** 100000145611
 

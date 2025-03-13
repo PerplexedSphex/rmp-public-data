@@ -1,6 +1,6 @@
-# Unknown
+# Ephrata Borough Wastewater Treatment Plant # 1
 
-**Location:** Unknown, PA
+**Location:** Ephrata, PA
 
 **EPA Facility ID:** 100000017661
 

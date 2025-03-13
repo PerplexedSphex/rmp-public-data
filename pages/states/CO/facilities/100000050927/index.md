@@ -1,6 +1,6 @@
-# Unknown
+# Industrial Chemicals Corporation
 
-**Location:** Unknown, CO
+**Location:** Arvada, CO
 
 **EPA Facility ID:** 100000050927
 

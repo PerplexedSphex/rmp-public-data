@@ -1,6 +1,6 @@
-# Unknown
+# Genoa Ag Center Inc.
 
-**Location:** Unknown, NY
+**Location:** Genoa, NY
 
 **EPA Facility ID:** 100000048959
 

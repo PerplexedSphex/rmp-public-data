@@ -1,6 +1,6 @@
-# Unknown
+# Water Plant #2
 
-**Location:** Unknown, KS
+**Location:** Lansing, KS
 
 **EPA Facility ID:** 100000202595
 

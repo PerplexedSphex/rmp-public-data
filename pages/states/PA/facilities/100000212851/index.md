@@ -1,6 +1,6 @@
-# Unknown
+# Giorgio Fresh Company
 
-**Location:** Unknown, PA
+**Location:** Blandon, PA
 
 **EPA Facility ID:** 100000212851
 

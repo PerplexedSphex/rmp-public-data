@@ -1,6 +1,6 @@
-# Unknown
+# Arrhowhead Regional Medical Center
 
-**Location:** Unknown, CA
+**Location:** Colton, CA
 
 **EPA Facility ID:** 100000161512
 

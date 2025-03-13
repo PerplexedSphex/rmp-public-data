@@ -1,6 +1,6 @@
-# Unknown
+# Western International Gas - Berwick
 
-**Location:** Unknown, PA
+**Location:** Berwick, PA
 
 **EPA Facility ID:** 100000208009
 

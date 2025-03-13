@@ -1,6 +1,6 @@
-# Unknown
+# Terminal Freezers, LLC dba Lineage- Oxnard
 
-**Location:** Unknown, CA
+**Location:** Oxnard, CA
 
 **EPA Facility ID:** 100000065966
 

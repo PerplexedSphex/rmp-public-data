@@ -1,6 +1,6 @@
-# Unknown
+# EMCO Chemical Packaging
 
-**Location:** Unknown, IL
+**Location:** Columbia, IL
 
 **EPA Facility ID:** 100000183534
 

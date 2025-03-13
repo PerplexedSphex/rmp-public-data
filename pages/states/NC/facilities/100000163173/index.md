@@ -1,6 +1,6 @@
-# Unknown
+# Elizabeth City, NC Satellite
 
-**Location:** Unknown, NC
+**Location:** Elizabeth City, NC
 
 **EPA Facility ID:** 100000163173
 

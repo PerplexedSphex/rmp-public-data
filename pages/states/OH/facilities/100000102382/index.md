@@ -1,6 +1,6 @@
-# Unknown
+# Akron Water Supply Plant
 
-**Location:** Unknown, OH
+**Location:** Kent, OH
 
 **EPA Facility ID:** 100000102382
 

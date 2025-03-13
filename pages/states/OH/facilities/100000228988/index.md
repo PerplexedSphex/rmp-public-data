@@ -1,6 +1,6 @@
-# Unknown
+# Leesville Cryogenic Plant 
 
-**Location:** Unknown, OH
+**Location:** Dennison, OH
 
 **EPA Facility ID:** 100000228988
 

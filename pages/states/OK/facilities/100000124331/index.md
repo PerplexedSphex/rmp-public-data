@@ -1,6 +1,6 @@
-# Unknown
+# Duke Farm Center Inc. - Rail Location
 
-**Location:** Unknown, OK
+**Location:** Duke, OK
 
 **EPA Facility ID:** 100000124331
 

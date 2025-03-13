@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Union Oil Company, Goodridge
 
-**Location:** Unknown, MN
+**Location:** Goodridge, MN
 
 **EPA Facility ID:** 100000018759
 

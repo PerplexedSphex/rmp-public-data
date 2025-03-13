@@ -1,6 +1,6 @@
-# Unknown
+# Artesia Gas Plant
 
-**Location:** Unknown, NM
+**Location:** Artesia, NM
 
 **EPA Facility ID:** 100000013889
 

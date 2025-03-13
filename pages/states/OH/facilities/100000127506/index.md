@@ -1,6 +1,6 @@
-# Unknown
+# Huntsman Advanced Materials Americas, LLC
 
-**Location:** Unknown, OH
+**Location:** Akron, OH
 
 **EPA Facility ID:** 100000127506
 

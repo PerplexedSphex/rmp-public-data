@@ -1,6 +1,6 @@
-# Unknown
+# Southwestern Pennsylvania Water Authority - WTP
 
-**Location:** Unknown, PA
+**Location:** Rices Landing, PA
 
 **EPA Facility ID:** 100000093481
 

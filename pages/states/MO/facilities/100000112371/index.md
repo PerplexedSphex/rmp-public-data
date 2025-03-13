@@ -1,6 +1,6 @@
-# Unknown
+# Central Cooperatives, Inc.
 
-**Location:** Unknown, MO
+**Location:** Medford, MO
 
 **EPA Facility ID:** 100000112371
 

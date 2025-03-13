@@ -1,6 +1,6 @@
-# Unknown
+# West Morgan-East Lawrence Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Hillsboro, AL
 
 **EPA Facility ID:** 100000041698
 

@@ -1,6 +1,6 @@
-# Unknown
+# Enel Cove Fort LLC
 
-**Location:** Unknown, UT
+**Location:** Beaver, UT
 
 **EPA Facility ID:** 100000223304
 

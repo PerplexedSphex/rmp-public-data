@@ -1,6 +1,6 @@
-# Unknown
+# SCLIWC Bolton Point Water System
 
-**Location:** Unknown, NY
+**Location:** Ithaca, NY
 
 **EPA Facility ID:** 100000118115
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Wiggins
 
-**Location:** Unknown, CO
+**Location:** Wiggins, CO
 
 **EPA Facility ID:** 100000236522
 

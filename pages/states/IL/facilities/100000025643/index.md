@@ -1,6 +1,6 @@
-# Unknown
+# VDF Manteno Cold Storage
 
-**Location:** Unknown, IL
+**Location:** Manteno, IL
 
 **EPA Facility ID:** 100000025643
 

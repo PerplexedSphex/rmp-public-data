@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Greenville, NC
 
 **EPA Facility ID:** 100000123172
 

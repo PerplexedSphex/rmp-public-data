@@ -1,6 +1,6 @@
-# Unknown
+# Gold-Eagle Cooperative-Eagle Grove
 
-**Location:** Unknown, IA
+**Location:** Eagle Grove, IA
 
 **EPA Facility ID:** 100000153442
 

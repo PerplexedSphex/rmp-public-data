@@ -1,6 +1,6 @@
-# Unknown
+# Whole Foods Market NDC
 
-**Location:** Unknown, CT
+**Location:** Cheshire, CT
 
 **EPA Facility ID:** 100000244498
 

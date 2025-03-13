@@ -1,6 +1,6 @@
-# Unknown
+# The Champion Company
 
-**Location:** Unknown, OH
+**Location:** Springfield, OH
 
 **EPA Facility ID:** 100000150613
 

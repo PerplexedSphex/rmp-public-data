@@ -1,6 +1,6 @@
-# Unknown
+# Scott's Liquid Gold--Inc.
 
-**Location:** Unknown, CO
+**Location:** Denver, CO
 
 **EPA Facility ID:** 100000040298
 

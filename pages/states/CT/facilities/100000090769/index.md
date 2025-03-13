@@ -1,6 +1,6 @@
-# Unknown
+# Lender's Bagel Bakery - New Haven
 
-**Location:** Unknown, CT
+**Location:** New Haven, CT
 
 **EPA Facility ID:** 100000090769
 

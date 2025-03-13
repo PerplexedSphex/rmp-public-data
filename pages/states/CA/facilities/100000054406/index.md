@@ -1,6 +1,6 @@
-# Unknown
+# Penske Logistics - Union City
 
-**Location:** Unknown, CA
+**Location:** Union City, CA
 
 **EPA Facility ID:** 100000054406
 

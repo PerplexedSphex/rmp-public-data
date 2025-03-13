@@ -1,6 +1,6 @@
-# Unknown
+# Clorox Products Manufacturing Company
 
-**Location:** Unknown, FL
+**Location:** Tampa, FL
 
 **EPA Facility ID:** 100000100259
 

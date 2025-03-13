@@ -1,6 +1,6 @@
-# Unknown
+# Locklin's Bottled Gas
 
-**Location:** Unknown, PA
+**Location:** Hamlin, PA
 
 **EPA Facility ID:** 100000006227
 

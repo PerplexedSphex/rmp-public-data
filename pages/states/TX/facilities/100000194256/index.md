@@ -1,6 +1,6 @@
-# Unknown
+# Western Canyon Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Canyon Lake, TX
 
 **EPA Facility ID:** 100000194256
 

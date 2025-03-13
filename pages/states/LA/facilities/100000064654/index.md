@@ -1,6 +1,6 @@
-# Unknown
+# Hico Plant
 
-**Location:** Unknown, LA
+**Location:** Hico, LA
 
 **EPA Facility ID:** 100000064654
 

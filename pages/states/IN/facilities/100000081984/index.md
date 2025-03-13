@@ -1,6 +1,6 @@
-# Unknown
+# Alcoa Inc. Warrick Operations
 
-**Location:** Unknown, IN
+**Location:** Newburgh, IN
 
 **EPA Facility ID:** 100000081984
 

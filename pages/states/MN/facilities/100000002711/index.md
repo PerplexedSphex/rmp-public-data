@@ -1,6 +1,6 @@
-# Unknown
+# CRYSTAL VALLEY COOPERATIVE  (4) MAD AG
 
-**Location:** Unknown, MN
+**Location:** Madelia, MN
 
 **EPA Facility ID:** 100000002711
 

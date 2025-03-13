@@ -1,6 +1,6 @@
-# Unknown
+# Tarkio Cooperative, Inc.
 
-**Location:** Unknown, MO
+**Location:** Tarkio, MO
 
 **EPA Facility ID:** 100000168436
 

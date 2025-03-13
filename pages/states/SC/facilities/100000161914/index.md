@@ -1,6 +1,6 @@
-# Unknown
+# Varnco, Inc.
 
-**Location:** Unknown, SC
+**Location:** Ehrhardt, SC
 
 **EPA Facility ID:** 100000161914
 

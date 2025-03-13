@@ -1,6 +1,6 @@
-# Unknown
+# St. Charles Wastewater Treatment Facility
 
-**Location:** Unknown, IL
+**Location:** St. Charles, IL
 
 **EPA Facility ID:** 100000022049
 

@@ -1,6 +1,6 @@
-# Unknown
+# AES Redondo Beach, LLC
 
-**Location:** Unknown, CA
+**Location:** Redondo Beach, CA
 
 **EPA Facility ID:** 100000149788
 

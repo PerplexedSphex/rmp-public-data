@@ -1,6 +1,6 @@
-# Unknown
+# Sunrise Co-op - New Washington
 
-**Location:** Unknown, OH
+**Location:** New Washington, OH
 
 **EPA Facility ID:** 100000108037
 

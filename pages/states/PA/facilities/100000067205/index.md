@@ -1,6 +1,6 @@
-# Unknown
+# St. Marys Wastewater Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** St. Marys, PA
 
 **EPA Facility ID:** 100000067205
 

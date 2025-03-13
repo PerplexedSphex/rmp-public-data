@@ -1,6 +1,6 @@
-# Unknown
+# DIAB LP DBA/DIAB, Inc
 
-**Location:** Unknown, TX
+**Location:** DeSoto, TX
 
 **EPA Facility ID:** 100000032555
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gold Star FS Inc.-Garden Plain
 
-**Location:** Unknown, IL
+**Location:** Fulton, IL
 
 **EPA Facility ID:** 100000143418
 

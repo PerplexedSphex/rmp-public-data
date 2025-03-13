@@ -1,6 +1,6 @@
-# Unknown
+# Plant McDonough Combined Cycle
 
-**Location:** Unknown, GA
+**Location:** Atlanta, GA
 
 **EPA Facility ID:** 100000214788
 

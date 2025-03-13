@@ -1,6 +1,6 @@
-# Unknown
+# Hamilton Cold Storage Inc.
 
-**Location:** Unknown, CA
+**Location:** Reedley, CA
 
 **EPA Facility ID:** 100000228096
 

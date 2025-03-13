@@ -1,6 +1,6 @@
-# Unknown
+# Laotto Farm Supplies, Inc.
 
-**Location:** Unknown, IN
+**Location:** Laotto, IN
 
 **EPA Facility ID:** 100000169774
 

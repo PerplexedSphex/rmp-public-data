@@ -1,6 +1,6 @@
-# Unknown
+# Natural Gas Odorizing, Inc.
 
-**Location:** Unknown, TX
+**Location:** Baytown, TX
 
 **EPA Facility ID:** 100000097049
 

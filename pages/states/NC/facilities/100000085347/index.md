@@ -1,6 +1,6 @@
-# Unknown
+# SYNTHRON, INC.
 
-**Location:** Unknown, NC
+**Location:** MORGANTON, NC
 
 **EPA Facility ID:** 100000085347
 

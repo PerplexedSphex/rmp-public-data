@@ -1,6 +1,6 @@
-# Unknown
+# West Johnson County Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Godley, TX
 
 **EPA Facility ID:** 100000197841
 

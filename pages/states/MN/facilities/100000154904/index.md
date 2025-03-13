@@ -1,6 +1,6 @@
-# Unknown
+# Minnesota Specialty Yeast, LLC
 
-**Location:** Unknown, MN
+**Location:** Hutchinson, MN
 
 **EPA Facility ID:** 100000154904
 

@@ -1,6 +1,6 @@
-# Unknown
+# Redwash 24B Gas Plant
 
-**Location:** Unknown, UT
+**Location:** South of Vernal, UT
 
 **EPA Facility ID:** 100000057092
 

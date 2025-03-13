@@ -1,6 +1,6 @@
-# Unknown
+# Greensboro 1 Terminal
 
-**Location:** Unknown, NC
+**Location:** Greensboro, NC
 
 **EPA Facility ID:** 100000222065
 

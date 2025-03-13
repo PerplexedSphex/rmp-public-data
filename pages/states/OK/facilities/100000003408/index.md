@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Grain Company - Clyde
 
-**Location:** Unknown, OK
+**Location:** Medford, OK
 
 **EPA Facility ID:** 100000003408
 

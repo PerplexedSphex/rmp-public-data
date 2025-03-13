@@ -1,6 +1,6 @@
-# Unknown
+# City of Red Bluff Wastewater Reclamation Plant
 
-**Location:** Unknown, CA
+**Location:** Red Bluff, CA
 
 **EPA Facility ID:** 100000178112
 

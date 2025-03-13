@@ -1,6 +1,6 @@
-# Unknown
+# Pitman Creek Wastewater Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Somerset, KY
 
 **EPA Facility ID:** 100000057387
 

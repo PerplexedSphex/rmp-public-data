@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Loma
 
-**Location:** Unknown, ND
+**Location:** Loma, ND
 
 **EPA Facility ID:** 100000062683
 

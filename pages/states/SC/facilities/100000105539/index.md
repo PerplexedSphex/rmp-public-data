@@ -1,6 +1,6 @@
-# Unknown
+# 3V Sigma USA Inc.
 
-**Location:** Unknown, SC
+**Location:** Georgetown, SC
 
 **EPA Facility ID:** 100000105539
 

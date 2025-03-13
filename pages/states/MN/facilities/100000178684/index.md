@@ -1,6 +1,6 @@
-# Unknown
+# Black Dog Generating Plant
 
-**Location:** Unknown, MN
+**Location:** Burnsville, MN
 
 **EPA Facility ID:** 100000178684
 

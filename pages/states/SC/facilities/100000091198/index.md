@@ -1,6 +1,6 @@
-# Unknown
+# Liberty Manufacturing, Inc.
 
-**Location:** Unknown, SC
+**Location:** Liberty, SC
 
 **EPA Facility ID:** 100000091198
 

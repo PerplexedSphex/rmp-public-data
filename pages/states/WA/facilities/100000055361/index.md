@@ -1,6 +1,6 @@
-# Unknown
+# BORDEN CHEMICAL, INC. - KENT PLANT
 
-**Location:** Unknown, WA
+**Location:** KENT, WA
 
 **EPA Facility ID:** 100000055361
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sentinel Polyolefins, LLC
 
-**Location:** Unknown, NY
+**Location:** Queensbury, NY
 
 **EPA Facility ID:** 100000166394
 

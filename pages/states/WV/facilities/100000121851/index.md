@@ -1,6 +1,6 @@
-# Unknown
+# Wayne Refrigeration Plant
 
-**Location:** Unknown, WV
+**Location:** Wayne, WV
 
 **EPA Facility ID:** 100000121851
 

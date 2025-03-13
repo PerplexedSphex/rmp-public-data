@@ -1,6 +1,6 @@
-# Unknown
+# Triad Terminal Company
 
-**Location:** Unknown, NC
+**Location:** Greensboro, NC
 
 **EPA Facility ID:** 100000132055
 

@@ -1,6 +1,6 @@
-# Unknown
+# Lipton - Dallas, TX
 
-**Location:** Unknown, TX
+**Location:** Dallas, TX
 
 **EPA Facility ID:** 100000060596
 

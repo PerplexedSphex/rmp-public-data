@@ -1,6 +1,6 @@
-# Unknown
+# Peninsula Chemical Co.
 
-**Location:** Unknown, CA
+**Location:** San Mateo, CA
 
 **EPA Facility ID:** 100000099984
 

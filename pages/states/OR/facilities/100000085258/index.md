@@ -1,6 +1,6 @@
-# Unknown
+# City of Dallas Water Treatment Plant
 
-**Location:** Unknown, OR
+**Location:** Dallas, OR
 
 **EPA Facility ID:** 100000085258
 

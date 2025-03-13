@@ -1,6 +1,6 @@
-# Unknown
+# Iowa Fertilizer Sales Inc.  NH3
 
-**Location:** Unknown, IA
+**Location:** Marcus, IA
 
 **EPA Facility ID:** 100000104264
 

@@ -1,6 +1,6 @@
-# Unknown
+# Quadra Chemicals Western, Inc. - Idaho Falls
 
-**Location:** Unknown, ID
+**Location:** Idaho Falls, ID
 
 **EPA Facility ID:** 100000091848
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rich Products Corporation, Appleton Division
 
-**Location:** Unknown, WI
+**Location:** Appleton, WI
 
 **EPA Facility ID:** 100000074938
 

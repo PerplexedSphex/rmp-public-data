@@ -1,6 +1,6 @@
-# Unknown
+# Sysco Allentown, PA
 
-**Location:** Unknown, PA
+**Location:** Northampton, PA
 
 **EPA Facility ID:** 100000253744
 

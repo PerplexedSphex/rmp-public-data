@@ -1,6 +1,6 @@
-# Unknown
+# Cholla Water Treatment Plant
 
-**Location:** Unknown, AZ
+**Location:** Glendale, AZ
 
 **EPA Facility ID:** 100000093891
 

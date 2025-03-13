@@ -1,6 +1,6 @@
-# Unknown
+# Ticona Polymers, Inc.
 
-**Location:** Unknown, TX
+**Location:** Bishop, TX
 
 **EPA Facility ID:** 100000139398
 

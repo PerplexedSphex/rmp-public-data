@@ -1,6 +1,6 @@
-# Unknown
+# Mary Jane Mine
 
-**Location:** Unknown, WV
+**Location:** Kingwood, WV
 
 **EPA Facility ID:** 100000165144
 

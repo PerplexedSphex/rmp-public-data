@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Ag Inc-Utica
 
-**Location:** Unknown, KS
+**Location:** Utica, KS
 
 **EPA Facility ID:** 100000166704
 

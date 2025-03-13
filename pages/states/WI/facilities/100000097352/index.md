@@ -1,6 +1,6 @@
-# Unknown
+# Nichols Bulk Facility
 
-**Location:** Unknown, WI
+**Location:** Nichols, WI
 
 **EPA Facility ID:** 100000097352
 

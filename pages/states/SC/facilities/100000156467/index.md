@@ -1,6 +1,6 @@
-# Unknown
+# Kings Laboratory, Inc.
 
-**Location:** Unknown, SC
+**Location:** Blythewood, SC
 
 **EPA Facility ID:** 100000156467
 

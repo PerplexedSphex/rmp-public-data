@@ -1,6 +1,6 @@
-# Unknown
+# Spoetzl Brewery, Inc.
 
-**Location:** Unknown, TX
+**Location:** Shiner, TX
 
 **EPA Facility ID:** 100000170183
 

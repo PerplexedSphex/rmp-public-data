@@ -1,6 +1,6 @@
-# Unknown
+# Coalinga Farmers Cooperative Gin, Inc.
 
-**Location:** Unknown, CA
+**Location:** Coalinga, CA
 
 **EPA Facility ID:** 100000128685
 

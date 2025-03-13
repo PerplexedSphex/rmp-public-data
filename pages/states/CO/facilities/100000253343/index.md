@@ -1,6 +1,6 @@
-# Unknown
+# Johnson RNG and Injection Site
 
-**Location:** Unknown, CO
+**Location:** Eaton, CO
 
 **EPA Facility ID:** 100000253343
 

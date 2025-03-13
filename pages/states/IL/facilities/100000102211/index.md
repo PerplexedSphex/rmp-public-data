@@ -1,6 +1,6 @@
-# Unknown
+# Lafayette, IL Satellite
 
-**Location:** Unknown, IL
+**Location:** Lafayette, IL
 
 **EPA Facility ID:** 100000102211
 

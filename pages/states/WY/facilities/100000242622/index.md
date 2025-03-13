@@ -1,6 +1,6 @@
-# Unknown
+# Pale Horse Compressor Station
 
-**Location:** Unknown, WY
+**Location:** Douglas, WY
 
 **EPA Facility ID:** 100000242622
 

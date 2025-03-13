@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics Hazelton, PA
 
-**Location:** Unknown, PA
+**Location:** Hazle Township, PA
 
 **EPA Facility ID:** 100000253762
 

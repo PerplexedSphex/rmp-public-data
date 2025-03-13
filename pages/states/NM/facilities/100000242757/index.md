@@ -1,6 +1,6 @@
-# Unknown
+# Cowboy CDP
 
-**Location:** Unknown, NM
+**Location:** Malaga, NM
 
 **EPA Facility ID:** 100000242757
 

@@ -1,6 +1,6 @@
-# Unknown
+# US Foods, Inc. - Little Rock
 
-**Location:** Unknown, AR
+**Location:** North Little Rock, AR
 
 **EPA Facility ID:** 100000247128
 

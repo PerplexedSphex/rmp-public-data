@@ -1,6 +1,6 @@
-# Unknown
+# Barnard - Loy Fertilizer
 
-**Location:** Unknown, KS
+**Location:** Barnard, KS
 
 **EPA Facility ID:** 100000010463
 

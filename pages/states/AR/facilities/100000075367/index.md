@@ -1,6 +1,6 @@
-# Unknown
+# Planters Service & Sales, Inc.
 
-**Location:** Unknown, AR
+**Location:** Helena, AR
 
 **EPA Facility ID:** 100000075367
 

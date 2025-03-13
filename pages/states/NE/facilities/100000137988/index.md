@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Brainard
 
-**Location:** Unknown, NE
+**Location:** Brainard, NE
 
 **EPA Facility ID:** 100000137988
 

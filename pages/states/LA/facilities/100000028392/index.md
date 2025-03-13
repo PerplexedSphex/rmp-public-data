@@ -1,6 +1,6 @@
-# Unknown
+# CITY OF SULPHUR REGIONAL WASTEWATER FACILITY
 
-**Location:** Unknown, LA
+**Location:** WESTLAKE, LA
 
 **EPA Facility ID:** 100000028392
 

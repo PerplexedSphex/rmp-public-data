@@ -1,6 +1,6 @@
-# Unknown
+# Tamarack Farms Dairy
 
-**Location:** Unknown, OH
+**Location:** Newark, OH
 
 **EPA Facility ID:** 100000090126
 

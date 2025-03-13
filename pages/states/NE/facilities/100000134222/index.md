@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Cooperative - Cedar Bluffs
 
-**Location:** Unknown, NE
+**Location:** Cedar Bluffs, NE
 
 **EPA Facility ID:** 100000134222
 

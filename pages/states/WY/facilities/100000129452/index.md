@@ -1,6 +1,6 @@
-# Unknown
+# Newcastle Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Newcastle, WY
 
 **EPA Facility ID:** 100000129452
 

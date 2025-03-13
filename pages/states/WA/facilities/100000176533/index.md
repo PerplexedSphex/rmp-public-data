@@ -1,6 +1,6 @@
-# Unknown
+# Lineage-Othello
 
-**Location:** Unknown, WA
+**Location:** Othello, WA
 
 **EPA Facility ID:** 100000176533
 

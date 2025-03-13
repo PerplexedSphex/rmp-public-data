@@ -1,6 +1,6 @@
-# Unknown
+# BHC Trap Falls Water Treatment Plant
 
-**Location:** Unknown, CT
+**Location:** Shelton, CT
 
 **EPA Facility ID:** 100000060211
 

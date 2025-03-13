@@ -1,6 +1,6 @@
-# Unknown
+# Washington, Indiana CO2 Plant
 
-**Location:** Unknown, IN
+**Location:** Washington, IN
 
 **EPA Facility ID:** 100000176622
 

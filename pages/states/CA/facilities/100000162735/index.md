@@ -1,6 +1,6 @@
-# Unknown
+# California Chemical of Santa Barbara County
 
-**Location:** Unknown, CA
+**Location:** Nipomo, CA
 
 **EPA Facility ID:** 100000162735
 

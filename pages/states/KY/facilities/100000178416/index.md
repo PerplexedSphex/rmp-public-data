@@ -1,6 +1,6 @@
-# Unknown
+# Spurlock Power Station
 
-**Location:** Unknown, KY
+**Location:** Maysville, KY
 
 **EPA Facility ID:** 100000178416
 

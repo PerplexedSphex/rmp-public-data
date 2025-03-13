@@ -1,6 +1,6 @@
-# Unknown
+# Odfjell Terminals (Charleston), LLC
 
-**Location:** Unknown, SC
+**Location:** North Charleston, SC
 
 **EPA Facility ID:** 100000226702
 

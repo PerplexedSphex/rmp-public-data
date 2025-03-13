@@ -1,6 +1,6 @@
-# Unknown
+# Bonded Chemicals Inc.
 
-**Location:** Unknown, OH
+**Location:** Columbus, OH
 
 **EPA Facility ID:** 100000130663
 

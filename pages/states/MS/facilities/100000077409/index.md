@@ -1,6 +1,6 @@
-# Unknown
+# O.B.Curtis WaterTreatment Plant
 
-**Location:** Unknown, MS
+**Location:** Ridgeland, MS
 
 **EPA Facility ID:** 100000077409
 

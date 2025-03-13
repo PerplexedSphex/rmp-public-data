@@ -1,6 +1,6 @@
-# Unknown
+# Absorbent Technologies, Inc.
 
-**Location:** Unknown, OR
+**Location:** Albany, OR
 
 **EPA Facility ID:** 100000194041
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Elkton
 
-**Location:** Unknown, MN
+**Location:** Elkton, MN
 
 **EPA Facility ID:** 100000068053
 

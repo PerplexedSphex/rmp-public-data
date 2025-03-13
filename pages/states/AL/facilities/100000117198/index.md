@@ -1,6 +1,6 @@
-# Unknown
+# E. C. Gaston Electric Generating Plant
 
-**Location:** Unknown, AL
+**Location:** Wilsonville, AL
 
 **EPA Facility ID:** 100000117198
 

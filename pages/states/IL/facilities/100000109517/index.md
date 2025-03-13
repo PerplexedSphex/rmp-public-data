@@ -1,6 +1,6 @@
-# Unknown
+# Litchfield Wastewater Treatment Facility
 
-**Location:** Unknown, IL
+**Location:** Litchfield, IL
 
 **EPA Facility ID:** 100000109517
 

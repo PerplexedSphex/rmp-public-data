@@ -1,6 +1,6 @@
-# Unknown
+# Granite Falls Energy, LLC
 
-**Location:** Unknown, MN
+**Location:** Granite Falls, MN
 
 **EPA Facility ID:** 100000199634
 

@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Cooperative- Cordele, GA (7620)
 
-**Location:** Unknown, GA
+**Location:** Cordele, GA
 
 **EPA Facility ID:** 100000085739
 

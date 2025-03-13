@@ -1,6 +1,6 @@
-# Unknown
+# Zinus USA Inc.
 
-**Location:** Unknown, GA
+**Location:** McDonough, GA
 
 **EPA Facility ID:** 100000246183
 

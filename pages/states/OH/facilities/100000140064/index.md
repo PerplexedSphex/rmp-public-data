@@ -1,6 +1,6 @@
-# Unknown
+# Canton Sugar Creek Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Strasburg, OH
 
 **EPA Facility ID:** 100000140064
 

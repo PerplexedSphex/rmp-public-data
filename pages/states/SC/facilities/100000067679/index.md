@@ -1,6 +1,6 @@
-# Unknown
+# Walterboro Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Walterboro, SC
 
 **EPA Facility ID:** 100000067679
 

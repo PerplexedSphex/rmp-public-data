@@ -1,6 +1,6 @@
-# Unknown
+# Entergy  Arkansas Hot Spring Energy Facility
 
-**Location:** Unknown, AR
+**Location:** Malvern, AR
 
 **EPA Facility ID:** 100000252219
 

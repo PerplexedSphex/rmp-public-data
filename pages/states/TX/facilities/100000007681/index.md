@@ -1,6 +1,6 @@
-# Unknown
+# City Of Port  Arthur (Water Purification Plant)
 
-**Location:** Unknown, TX
+**Location:** Port Arthur, TX
 
 **EPA Facility ID:** 100000007681
 

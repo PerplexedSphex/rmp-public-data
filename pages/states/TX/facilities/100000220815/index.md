@@ -1,6 +1,6 @@
-# Unknown
+# Campbell Soup Supply Company L.L.C. Paris Plant
 
-**Location:** Unknown, TX
+**Location:** Paris, TX
 
 **EPA Facility ID:** 100000220815
 

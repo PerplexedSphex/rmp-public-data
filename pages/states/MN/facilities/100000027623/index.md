@@ -1,6 +1,6 @@
-# Unknown
+# Lamb-Weston/RDO Frozen
 
-**Location:** Unknown, MN
+**Location:** Park Rapids, MN
 
 **EPA Facility ID:** 100000027623
 

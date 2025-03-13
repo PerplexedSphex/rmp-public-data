@@ -1,6 +1,6 @@
-# Unknown
+# Henry Gas Processing Complex
 
-**Location:** Unknown, LA
+**Location:** Erath, LA
 
 **EPA Facility ID:** 100000109866
 

@@ -1,6 +1,6 @@
-# Unknown
+# Burns Point Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Centerville, LA
 
 **EPA Facility ID:** 100000089548
 

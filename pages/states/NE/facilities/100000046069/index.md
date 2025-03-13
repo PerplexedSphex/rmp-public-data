@@ -1,6 +1,6 @@
-# Unknown
+# Equalizer Midwest, Incorporated
 
-**Location:** Unknown, NE
+**Location:** Hastings, NE
 
 **EPA Facility ID:** 100000046069
 

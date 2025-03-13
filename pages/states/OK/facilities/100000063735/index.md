@@ -1,6 +1,6 @@
-# Unknown
+# Leedey Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Leedey, OK
 
 **EPA Facility ID:** 100000063735
 

@@ -1,6 +1,6 @@
-# Unknown
+# Hockanum River Water Pollution Control Facility
 
-**Location:** Unknown, CT
+**Location:** Manchester, CT
 
 **EPA Facility ID:** 100000056057
 

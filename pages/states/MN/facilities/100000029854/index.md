@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Comstock
 
-**Location:** Unknown, MN
+**Location:** Comstock, MN
 
 **EPA Facility ID:** 100000029854
 

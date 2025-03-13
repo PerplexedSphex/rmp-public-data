@@ -1,6 +1,6 @@
-# Unknown
+# Golden Triangle Energy
 
-**Location:** Unknown, MO
+**Location:** Craig, MO
 
 **EPA Facility ID:** 100000180163
 

@@ -1,6 +1,6 @@
-# Unknown
+# Berne Co-op Association / Ida Grove
 
-**Location:** Unknown, IA
+**Location:** Ida Grove, IA
 
 **EPA Facility ID:** 100000134669
 

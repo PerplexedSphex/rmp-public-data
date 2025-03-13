@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Auburn (South Plant)
 
-**Location:** Unknown, NE
+**Location:** Auburn, NE
 
 **EPA Facility ID:** 100000164289
 

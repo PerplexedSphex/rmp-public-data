@@ -1,6 +1,6 @@
-# Unknown
+# JCG Foods of Alabama, LLC
 
-**Location:** Unknown, AL
+**Location:** Collinsville, AL
 
 **EPA Facility ID:** 100000222074
 

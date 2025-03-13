@@ -1,6 +1,6 @@
-# Unknown
+# Big R Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Powell, TX
 
 **EPA Facility ID:** 100000213191
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Hamilton Farm Bureau
 
-**Location:** Unknown, MI
+**Location:** Hamilton, MI
 
 **EPA Facility ID:** 100000118491
 

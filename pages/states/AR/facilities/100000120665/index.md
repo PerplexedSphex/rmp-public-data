@@ -1,6 +1,6 @@
-# Unknown
+# Lake Fort Smith Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Mountainburg, AR
 
 **EPA Facility ID:** 100000120665
 

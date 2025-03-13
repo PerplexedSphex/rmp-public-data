@@ -1,6 +1,6 @@
-# Unknown
+# Guadalupe Cooling Company
 
-**Location:** Unknown, CA
+**Location:** Nipomo, CA
 
 **EPA Facility ID:** 100000122011
 

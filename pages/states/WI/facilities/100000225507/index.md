@@ -1,6 +1,6 @@
-# Unknown
+# Kwik Trip, Inc - Bakery Sweets Facility
 
-**Location:** Unknown, WI
+**Location:** La Crosse, WI
 
 **EPA Facility ID:** 100000225507
 

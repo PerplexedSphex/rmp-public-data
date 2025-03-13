@@ -1,6 +1,6 @@
-# Unknown
+# American Water Heater Company, Inc.
 
-**Location:** Unknown, TN
+**Location:** Johnson City, TN
 
 **EPA Facility ID:** 100000191838
 

@@ -1,6 +1,6 @@
-# Unknown
+# Seneca Wastewater Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Eagan, MN
 
 **EPA Facility ID:** 100000066251
 

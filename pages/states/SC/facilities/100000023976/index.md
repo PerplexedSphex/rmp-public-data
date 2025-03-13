@@ -1,6 +1,6 @@
-# Unknown
+# Clemson University Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Clemson, SC
 
 **EPA Facility ID:** 100000023976
 

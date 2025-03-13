@@ -1,6 +1,6 @@
-# Unknown
+# Wes Brown Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Thornton, CO
 
 **EPA Facility ID:** 100000115305
 

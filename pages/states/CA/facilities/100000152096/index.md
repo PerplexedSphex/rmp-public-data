@@ -1,6 +1,6 @@
-# Unknown
+# Chuckawalla Valley State Prison
 
-**Location:** Unknown, CA
+**Location:** Blythe, CA
 
 **EPA Facility ID:** 100000152096
 

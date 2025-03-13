@@ -1,6 +1,6 @@
-# Unknown
+# The Eggo Company
 
-**Location:** Unknown, CA
+**Location:** San Jose, CA
 
 **EPA Facility ID:** 100000083358
 

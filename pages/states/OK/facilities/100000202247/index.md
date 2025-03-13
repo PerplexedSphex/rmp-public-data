@@ -1,6 +1,6 @@
-# Unknown
+# Waynoka Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Alva, OK
 
 **EPA Facility ID:** 100000202247
 

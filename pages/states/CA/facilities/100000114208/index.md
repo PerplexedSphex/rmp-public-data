@@ -1,6 +1,6 @@
-# Unknown
+# California Chemical of San Jose, Inc.
 
-**Location:** Unknown, CA
+**Location:** San Jose, CA
 
 **EPA Facility ID:** 100000114208
 

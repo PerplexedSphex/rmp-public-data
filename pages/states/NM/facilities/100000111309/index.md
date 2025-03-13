@@ -1,6 +1,6 @@
-# Unknown
+# Denton Gas Plant
 
-**Location:** Unknown, NM
+**Location:** Lovington, NM
 
 **EPA Facility ID:** 100000111309
 

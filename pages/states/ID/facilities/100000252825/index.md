@@ -1,6 +1,6 @@
-# Unknown
+# Midway Dairy Farm
 
-**Location:** Unknown, ID
+**Location:** Declo, ID
 
 **EPA Facility ID:** 100000252825
 

@@ -1,6 +1,6 @@
-# Unknown
+# Dixie Chemical Company
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000074475
 

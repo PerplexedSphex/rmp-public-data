@@ -1,6 +1,6 @@
-# Unknown
+# Globe Hollow Water Treatment Plant
 
-**Location:** Unknown, CT
+**Location:** Manchester, CT
 
 **EPA Facility ID:** 100000053862
 

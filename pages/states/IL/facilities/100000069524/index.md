@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-Ridgway
 
-**Location:** Unknown, IL
+**Location:** Ridgway, IL
 
 **EPA Facility ID:** 100000069524
 

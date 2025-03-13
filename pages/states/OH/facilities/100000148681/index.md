@@ -1,6 +1,6 @@
-# Unknown
+# Lima Refining Company
 
-**Location:** Unknown, OH
+**Location:** Lima, OH
 
 **EPA Facility ID:** 100000148681
 

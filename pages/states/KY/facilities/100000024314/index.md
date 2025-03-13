@@ -1,6 +1,6 @@
-# Unknown
+# Kentucky Hydrocarbon- Dwale Plant
 
-**Location:** Unknown, KY
+**Location:** Dwale, KY
 
 **EPA Facility ID:** 100000024314
 

@@ -1,6 +1,6 @@
-# Unknown
+# Kendrick, ID 33
 
-**Location:** Unknown, ID
+**Location:** Kendrick, ID
 
 **EPA Facility ID:** 100000069132
 

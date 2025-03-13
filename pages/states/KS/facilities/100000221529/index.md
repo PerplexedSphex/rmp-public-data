@@ -1,6 +1,6 @@
-# Unknown
+# Ag Partners Coop - Fanning
 
-**Location:** Unknown, KS
+**Location:** Troy, KS
 
 **EPA Facility ID:** 100000221529
 

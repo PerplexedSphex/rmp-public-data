@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-Springerton
 
-**Location:** Unknown, IL
+**Location:** Springerton, IL
 
 **EPA Facility ID:** 100000069659
 

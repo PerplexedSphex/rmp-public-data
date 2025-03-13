@@ -1,6 +1,6 @@
-# Unknown
+# Lawrenceburg Wastewater Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Lawrenceburg, TN
 
 **EPA Facility ID:** 100000021941
 

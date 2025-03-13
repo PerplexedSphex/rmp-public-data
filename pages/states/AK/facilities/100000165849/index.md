@@ -1,6 +1,6 @@
-# Unknown
+# Trident Seafoods Corporation-Pillar Mountain Plant
 
-**Location:** Unknown, AK
+**Location:** Kodiak, AK
 
 **EPA Facility ID:** 100000165849
 

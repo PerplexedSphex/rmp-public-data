@@ -1,6 +1,6 @@
-# Unknown
+# Golden Valley, Inc. - Rozel
 
-**Location:** Unknown, KS
+**Location:** Rozel, KS
 
 **EPA Facility ID:** 100000166553
 

@@ -1,6 +1,6 @@
-# Unknown
+# Fort Benning Wastewater Treatment Plant No. 2
 
-**Location:** Unknown, GA
+**Location:** Fort Benning, GA
 
 **EPA Facility ID:** 100000191339
 

@@ -1,6 +1,6 @@
-# Unknown
+# Dry Creek Gas  Plant
 
-**Location:** Unknown, MT
+**Location:** Bridger, MT
 
 **EPA Facility ID:** 100000098887
 

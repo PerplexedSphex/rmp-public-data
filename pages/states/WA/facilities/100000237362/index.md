@@ -1,6 +1,6 @@
-# Unknown
+# South Baker Flats
 
-**Location:** Unknown, WA
+**Location:** East Wenatchee, WA
 
 **EPA Facility ID:** 100000237362
 

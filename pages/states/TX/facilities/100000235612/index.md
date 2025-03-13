@@ -1,6 +1,6 @@
-# Unknown
+# Newberry Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Midland, TX
 
 **EPA Facility ID:** 100000235612
 

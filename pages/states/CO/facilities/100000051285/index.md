@@ -1,6 +1,6 @@
-# Unknown
+# Charles A. Strain Water Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Clifton, CO
 
 **EPA Facility ID:** 100000051285
 

@@ -1,6 +1,6 @@
-# Unknown
+# Guilford Terminal
 
-**Location:** Unknown, NC
+**Location:** Greensboro, NC
 
 **EPA Facility ID:** 100000222742
 

@@ -1,6 +1,6 @@
-# Unknown
+# North Star Foods Inc.
 
-**Location:** Unknown, MN
+**Location:** St. Charles, MN
 
 **EPA Facility ID:** 100000186229
 

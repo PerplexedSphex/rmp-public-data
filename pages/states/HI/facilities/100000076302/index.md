@@ -1,6 +1,6 @@
-# Unknown
+# Waimea Water Treatment Plant
 
-**Location:** Unknown, HI
+**Location:** Kamuela, HI
 
 **EPA Facility ID:** 100000076302
 

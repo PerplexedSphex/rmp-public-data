@@ -1,6 +1,6 @@
-# Unknown
+# Indian Village Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Reeves, LA
 
 **EPA Facility ID:** 100000198181
 

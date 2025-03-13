@@ -1,6 +1,6 @@
-# Unknown
+# El Dorado Hills Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** El Dorado Hills, CA
 
 **EPA Facility ID:** 100000099813
 

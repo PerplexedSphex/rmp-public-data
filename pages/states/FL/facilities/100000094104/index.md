@@ -1,6 +1,6 @@
-# Unknown
+# Lauderhill Water Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Lauderhill, FL
 
 **EPA Facility ID:** 100000094104
 

@@ -1,6 +1,6 @@
-# Unknown
+# Nucor Insulated Panel Group Utah
 
-**Location:** Unknown, UT
+**Location:** Brigham City, UT
 
 **EPA Facility ID:** 100000252175
 

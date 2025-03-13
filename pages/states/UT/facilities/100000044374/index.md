@@ -1,6 +1,6 @@
-# Unknown
+# Lewiston Branch
 
-**Location:** Unknown, UT
+**Location:** Lewiston, UT
 
 **EPA Facility ID:** 100000044374
 

@@ -1,6 +1,6 @@
-# Unknown
+# Georgia-Pacific Resins, Inc. - Elk Grove, CA
 
-**Location:** Unknown, CA
+**Location:** Elk Grove, CA
 
 **EPA Facility ID:** 100000133544
 

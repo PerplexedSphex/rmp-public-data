@@ -1,6 +1,6 @@
-# Unknown
+# Smith Lake Water Treatment Facility
 
-**Location:** Unknown, VA
+**Location:** Stafford, VA
 
 **EPA Facility ID:** 100000013424
 

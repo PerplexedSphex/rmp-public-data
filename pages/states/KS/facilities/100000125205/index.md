@@ -1,6 +1,6 @@
-# Unknown
+# DANVILLE COOPERATIVE ASSOCIATION (FREEPORT BRANCH)
 
-**Location:** Unknown, KS
+**Location:** Freeport, KS
 
 **EPA Facility ID:** 100000125205
 

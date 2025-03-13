@@ -1,6 +1,6 @@
-# Unknown
+# Reddy Ice-Gaffney (435)
 
-**Location:** Unknown, SC
+**Location:** Gaffney, SC
 
 **EPA Facility ID:** 100000176999
 

@@ -1,6 +1,6 @@
-# Unknown
+# PPG Architectural Finishes - Dallas, TX
 
-**Location:** Unknown, TX
+**Location:** Dallas, TX
 
 **EPA Facility ID:** 100000164911
 

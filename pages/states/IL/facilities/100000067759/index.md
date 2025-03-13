@@ -1,6 +1,6 @@
-# Unknown
+# Burkart Foam, Inc.
 
-**Location:** Unknown, IL
+**Location:** Cairo, IL
 
 **EPA Facility ID:** 100000067759
 

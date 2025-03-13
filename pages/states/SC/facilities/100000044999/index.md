@@ -1,6 +1,6 @@
-# Unknown
+# Pocotaligo Wastewater Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Sumter, SC
 
 **EPA Facility ID:** 100000044999
 

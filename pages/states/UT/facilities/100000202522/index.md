@@ -1,6 +1,6 @@
-# Unknown
+# PacifiCorp - Blundell Geothermal Plant
 
-**Location:** Unknown, UT
+**Location:** Milford, UT
 
 **EPA Facility ID:** 100000202522
 

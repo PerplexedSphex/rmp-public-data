@@ -1,6 +1,6 @@
-# Unknown
+# River Valley Cooperative - Galva Plaza
 
-**Location:** Unknown, IL
+**Location:** Galva, IL
 
 **EPA Facility ID:** 100000114672
 

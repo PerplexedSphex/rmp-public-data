@@ -1,6 +1,6 @@
-# Unknown
+# Lucas Water Treatment Plant
 
-**Location:** Unknown, KY
+**Location:** Glasgow, KY
 
 **EPA Facility ID:** 100000095844
 

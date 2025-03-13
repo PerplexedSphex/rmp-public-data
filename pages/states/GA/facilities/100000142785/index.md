@@ -1,6 +1,6 @@
-# Unknown
+# Towaliga River Water Treatment Facility
 
-**Location:** Unknown, GA
+**Location:** Locust Grove, GA
 
 **EPA Facility ID:** 100000142785
 

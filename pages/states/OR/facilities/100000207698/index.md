@@ -1,6 +1,6 @@
-# Unknown
+# Umpqua Dairy Products Company
 
-**Location:** Unknown, OR
+**Location:** Roseburg, OR
 
 **EPA Facility ID:** 100000207698
 

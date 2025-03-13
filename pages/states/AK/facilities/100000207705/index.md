@@ -1,6 +1,6 @@
-# Unknown
+# Trident Seafoods - North Cordova
 
-**Location:** Unknown, AK
+**Location:** Cordova, AK
 
 **EPA Facility ID:** 100000207705
 

@@ -1,6 +1,6 @@
-# Unknown
+# Hereford Plant
 
-**Location:** Unknown, CO
+**Location:** Grover, CO
 
 **EPA Facility ID:** 100000222207
 

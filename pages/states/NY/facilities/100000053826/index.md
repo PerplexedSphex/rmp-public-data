@@ -1,6 +1,6 @@
-# Unknown
+# Saranac Power Partners, L.P.
 
-**Location:** Unknown, NY
+**Location:** Plattsburgh, NY
 
 **EPA Facility ID:** 100000053826
 

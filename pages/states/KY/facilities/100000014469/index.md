@@ -1,6 +1,6 @@
-# Unknown
+# Mayfield Grain Co., Inc. - Brewer
 
-**Location:** Unknown, KY
+**Location:** Benton, KY
 
 **EPA Facility ID:** 100000014469
 

@@ -1,6 +1,6 @@
-# Unknown
+# Adams RNG
 
-**Location:** Unknown, NY
+**Location:** Randolph, NY
 
 **EPA Facility ID:** 100000250738
 

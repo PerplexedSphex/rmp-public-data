@@ -1,6 +1,6 @@
-# Unknown
+# Henkel Surface Technologies
 
-**Location:** Unknown, GA
+**Location:** Calhoun, GA
 
 **EPA Facility ID:** 100000024895
 

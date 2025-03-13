@@ -1,6 +1,6 @@
-# Unknown
+# Ecotec Manufacturing, Inc.
 
-**Location:** Unknown, FL
+**Location:** Okeechobee, FL
 
 **EPA Facility ID:** 100000184891
 

@@ -1,6 +1,6 @@
-# Unknown
+# Emigrant Trail Gas Plant (rev 1)
 
-**Location:** Unknown, WY
+**Location:** Lyman, WY
 
 **EPA Facility ID:** 100000065047
 

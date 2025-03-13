@@ -1,6 +1,6 @@
-# Unknown
+# HANCOCK COOPERATIVE INC.
 
-**Location:** Unknown, MN
+**Location:** HANCOCK, MN
 
 **EPA Facility ID:** 100000128239
 

@@ -1,6 +1,6 @@
-# Unknown
+# Carmel Area Wastewater District treatment facility
 
-**Location:** Unknown, CA
+**Location:** Carmel, CA
 
 **EPA Facility ID:** 100000151382
 

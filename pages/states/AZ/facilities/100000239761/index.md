@@ -1,6 +1,6 @@
-# Unknown
+# Cool Fresh LLC
 
-**Location:** Unknown, AZ
+**Location:** Yuma, AZ
 
 **EPA Facility ID:** 100000239761
 

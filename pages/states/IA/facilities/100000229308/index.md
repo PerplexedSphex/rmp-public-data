@@ -1,6 +1,6 @@
-# Unknown
+# Chem Gro of Houghton, Inc. - Salem Facility
 
-**Location:** Unknown, IA
+**Location:** Salem, IA
 
 **EPA Facility ID:** 100000229308
 

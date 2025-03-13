@@ -1,6 +1,6 @@
-# Unknown
+# Rush Reservoir
 
-**Location:** Unknown, NY
+**Location:** Rush, NY
 
 **EPA Facility ID:** 100000057699
 

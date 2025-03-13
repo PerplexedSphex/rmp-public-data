@@ -1,6 +1,6 @@
-# Unknown
+# Lineage-Lithia Springs
 
-**Location:** Unknown, GA
+**Location:** Lithia Springs, GA
 
 **EPA Facility ID:** 100000244988
 

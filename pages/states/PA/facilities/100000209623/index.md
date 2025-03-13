@@ -1,6 +1,6 @@
-# Unknown
+# Church & Dwight Company, Inc.
 
-**Location:** Unknown, PA
+**Location:** York, PA
 
 **EPA Facility ID:** 100000209623
 

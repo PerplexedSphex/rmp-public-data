@@ -1,6 +1,6 @@
-# Unknown
+# UNI-KOOL & MILLS COOLER
 
-**Location:** Unknown, CA
+**Location:** SALINAS, CA
 
 **EPA Facility ID:** 100000174606
 

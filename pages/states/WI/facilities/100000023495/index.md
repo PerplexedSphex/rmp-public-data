@@ -1,6 +1,6 @@
-# Unknown
+# Allied Cooperative - West Salem
 
-**Location:** Unknown, WI
+**Location:** West Salem, WI
 
 **EPA Facility ID:** 100000023495
 

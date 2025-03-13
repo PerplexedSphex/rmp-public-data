@@ -1,6 +1,6 @@
-# Unknown
+# North Industrial Chemicals, Inc.
 
-**Location:** Unknown, PA
+**Location:** York, PA
 
 **EPA Facility ID:** 100000100204
 

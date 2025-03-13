@@ -1,6 +1,6 @@
-# Unknown
+# Lake Blalock Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Spartanburg, SC
 
 **EPA Facility ID:** 100000011774
 

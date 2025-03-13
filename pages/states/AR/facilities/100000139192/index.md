@@ -1,6 +1,6 @@
-# Unknown
+# CWS Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Greers Ferry, AR
 
 **EPA Facility ID:** 100000139192
 

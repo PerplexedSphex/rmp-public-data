@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics -  Hobart
 
-**Location:** Unknown, IN
+**Location:** Hobart, IN
 
 **EPA Facility ID:** 100000200793
 

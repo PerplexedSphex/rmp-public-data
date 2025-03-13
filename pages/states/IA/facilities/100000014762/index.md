@@ -1,6 +1,6 @@
-# Unknown
+# MaxYield Cooperative - Garner
 
-**Location:** Unknown, IA
+**Location:** Garner, IA
 
 **EPA Facility ID:** 100000014762
 

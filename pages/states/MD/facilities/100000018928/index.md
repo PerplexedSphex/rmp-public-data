@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics Federalsburg
 
-**Location:** Unknown, MD
+**Location:** Federalsburg, MD
 
 **EPA Facility ID:** 100000018928
 

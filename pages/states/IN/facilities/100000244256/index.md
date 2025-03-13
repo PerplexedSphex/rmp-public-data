@@ -1,6 +1,6 @@
-# Unknown
+# Peer Foods
 
-**Location:** Unknown, IN
+**Location:** Edinburgh, IN
 
 **EPA Facility ID:** 100000244256
 

@@ -1,6 +1,6 @@
-# Unknown
+# Inland Joseph Fruit Wapato Plant
 
-**Location:** Unknown, WA
+**Location:** Wapato, WA
 
 **EPA Facility ID:** 100000162254
 

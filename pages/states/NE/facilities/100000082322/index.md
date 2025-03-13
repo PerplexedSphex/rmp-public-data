@@ -1,6 +1,6 @@
-# Unknown
+# Farmer's Cooperative - Gordon
 
-**Location:** Unknown, NE
+**Location:** Gordon, NE
 
 **EPA Facility ID:** 100000082322
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.-Elrosa
 
-**Location:** Unknown, MN
+**Location:** Elrosa, MN
 
 **EPA Facility ID:** 100000070451
 

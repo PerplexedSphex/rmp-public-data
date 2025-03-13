@@ -1,6 +1,6 @@
-# Unknown
+# Hurdfield Grain Inc.-North Plant
 
-**Location:** Unknown, ND
+**Location:** Hurdsfield, ND
 
 **EPA Facility ID:** 100000152684
 

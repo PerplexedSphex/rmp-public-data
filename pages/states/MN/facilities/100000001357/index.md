@@ -1,6 +1,6 @@
-# Unknown
+# RED LAKE COUNTY COOP
 
-**Location:** Unknown, MN
+**Location:** ERSKINE, MN
 
 **EPA Facility ID:** 100000001357
 

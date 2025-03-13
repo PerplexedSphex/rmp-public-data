@@ -1,6 +1,6 @@
-# Unknown
+# Third Creek Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Statesville, NC
 
 **EPA Facility ID:** 100000115813
 

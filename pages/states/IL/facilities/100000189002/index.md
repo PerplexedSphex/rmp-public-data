@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics University Park ILL
 
-**Location:** Unknown, IL
+**Location:** University Park, IL
 
 **EPA Facility ID:** 100000189002
 

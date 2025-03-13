@@ -1,6 +1,6 @@
-# Unknown
+# Northern Star Co.
 
-**Location:** Unknown, MN
+**Location:** Chaska, MN
 
 **EPA Facility ID:** 100000210229
 

@@ -1,6 +1,6 @@
-# Unknown
+# York Energy Center
 
-**Location:** Unknown, PA
+**Location:** Delta, PA
 
 **EPA Facility ID:** 100000214975
 

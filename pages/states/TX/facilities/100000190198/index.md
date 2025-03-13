@@ -1,6 +1,6 @@
-# Unknown
+# City of Sweetwater Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Sweetwater, TX
 
 **EPA Facility ID:** 100000190198
 

@@ -1,6 +1,6 @@
-# Unknown
+# Alpha Resins, LLC
 
-**Location:** Unknown, MI
+**Location:** Detroit, MI
 
 **EPA Facility ID:** 100000220432
 

@@ -1,6 +1,6 @@
-# Unknown
+# Galata Chemicals - Taft Facility
 
-**Location:** Unknown, LA
+**Location:** Hahnville, LA
 
 **EPA Facility ID:** 100000065822
 

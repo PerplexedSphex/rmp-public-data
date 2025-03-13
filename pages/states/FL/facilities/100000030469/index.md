@@ -1,6 +1,6 @@
-# Unknown
+# Hood Road Water Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** Palm Beach Gardens, FL
 
 **EPA Facility ID:** 100000030469
 

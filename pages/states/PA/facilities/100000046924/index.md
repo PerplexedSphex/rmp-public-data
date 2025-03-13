@@ -1,6 +1,6 @@
-# Unknown
+# City of Sunbury Wastewater Treatment Facility
 
-**Location:** Unknown, PA
+**Location:** Sunbury, PA
 
 **EPA Facility ID:** 100000046924
 

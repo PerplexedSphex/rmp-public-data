@@ -1,6 +1,6 @@
-# Unknown
+# VANDERBILT CHEMICALS, LLC Bethel
 
-**Location:** Unknown, CT
+**Location:** BETHEL, CT
 
 **EPA Facility ID:** 100000076749
 

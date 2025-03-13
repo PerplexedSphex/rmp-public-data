@@ -1,6 +1,6 @@
-# Unknown
+# CHANDLER COOP , SLAYTON
 
-**Location:** Unknown, MN
+**Location:** SLAYTON, MN
 
 **EPA Facility ID:** 100000000713
 

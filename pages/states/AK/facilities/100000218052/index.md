@@ -1,6 +1,6 @@
-# Unknown
+# Silver Bay Seafoods - Sitka
 
-**Location:** Unknown, AK
+**Location:** Sitka, AK
 
 **EPA Facility ID:** 100000218052
 

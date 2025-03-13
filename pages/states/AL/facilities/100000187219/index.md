@@ -1,6 +1,6 @@
-# Unknown
+# Piggly Wiggly Alabama Distributing Company
 
-**Location:** Unknown, AL
+**Location:** Bessemer, AL
 
 **EPA Facility ID:** 100000187219
 

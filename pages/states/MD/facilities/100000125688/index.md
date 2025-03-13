@@ -1,6 +1,6 @@
-# Unknown
+# Hanover Foods Corporation - Ridgely, MD Facility
 
-**Location:** Unknown, MD
+**Location:** Ridgely, MD
 
 **EPA Facility ID:** 100000125688
 

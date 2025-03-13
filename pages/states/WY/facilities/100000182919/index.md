@@ -1,6 +1,6 @@
-# Unknown
+# Pretty Water Gas Processing Facility
 
-**Location:** Unknown, WY
+**Location:** Rock Springs, WY
 
 **EPA Facility ID:** 100000182919
 

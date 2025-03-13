@@ -1,6 +1,6 @@
-# Unknown
+# TVA Bull Run Fossil Plant
 
-**Location:** Unknown, TN
+**Location:** Clinton, TN
 
 **EPA Facility ID:** 100000185881
 

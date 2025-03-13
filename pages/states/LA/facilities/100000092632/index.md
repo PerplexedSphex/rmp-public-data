@@ -1,6 +1,6 @@
-# Unknown
+# Ada Plant
 
-**Location:** Unknown, LA
+**Location:** Ada, LA
 
 **EPA Facility ID:** 100000092632
 

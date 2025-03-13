@@ -1,6 +1,6 @@
-# Unknown
+# Ardent Mills, LLC
 
-**Location:** Unknown, IL
+**Location:** Chester, IL
 
 **EPA Facility ID:** 100000111265
 

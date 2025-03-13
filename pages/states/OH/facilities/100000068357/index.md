@@ -1,6 +1,6 @@
-# Unknown
+# Gerald Grain Center Inc.
 
-**Location:** Unknown, OH
+**Location:** Napoleon, OH
 
 **EPA Facility ID:** 100000068357
 

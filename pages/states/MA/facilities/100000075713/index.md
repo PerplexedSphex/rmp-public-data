@@ -1,6 +1,6 @@
-# Unknown
+# Synthomer Inc. (Fitchburg, MA Plant)
 
-**Location:** Unknown, MA
+**Location:** Fitchburg, MA
 
 **EPA Facility ID:** 100000075713
 

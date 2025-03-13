@@ -1,6 +1,6 @@
-# Unknown
+# City of Paso Robles Wastewater Treatment Facility
 
-**Location:** Unknown, CA
+**Location:** Paso Robles, CA
 
 **EPA Facility ID:** 100000160862
 

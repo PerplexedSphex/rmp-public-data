@@ -1,6 +1,6 @@
-# Unknown
+# LEHIGH
 
-**Location:** Unknown, KS
+**Location:** Lehigh, KS
 
 **EPA Facility ID:** 100000134785
 

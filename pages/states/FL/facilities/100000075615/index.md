@@ -1,6 +1,6 @@
-# Unknown
+# Lansing Smith Electric Generating Plant
 
-**Location:** Unknown, FL
+**Location:** Southport, FL
 
 **EPA Facility ID:** 100000075615
 

@@ -1,6 +1,6 @@
-# Unknown
+# INDSPEC Chemical Corporation
 
-**Location:** Unknown, PA
+**Location:** Petrolia, PA
 
 **EPA Facility ID:** 100000068222
 

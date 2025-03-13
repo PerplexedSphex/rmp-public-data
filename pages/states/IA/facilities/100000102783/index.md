@@ -1,6 +1,6 @@
-# Unknown
+# Linn Co-op - Blairstown
 
-**Location:** Unknown, IA
+**Location:** Blairstown, IA
 
 **EPA Facility ID:** 100000102783
 

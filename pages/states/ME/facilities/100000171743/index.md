@@ -1,6 +1,6 @@
-# Unknown
+# Rumford Power LLC
 
-**Location:** Unknown, ME
+**Location:** Rumford, ME
 
 **EPA Facility ID:** 100000171743
 

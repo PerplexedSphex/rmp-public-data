@@ -1,6 +1,6 @@
-# Unknown
+# Heartland Coop-Kellogg
 
-**Location:** Unknown, IA
+**Location:** Kellogg, IA
 
 **EPA Facility ID:** 100000095014
 

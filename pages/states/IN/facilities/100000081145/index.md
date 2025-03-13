@@ -1,6 +1,6 @@
-# Unknown
+# Huntington, IN 90002 Satellite
 
-**Location:** Unknown, IN
+**Location:** Huntington, IN
 
 **EPA Facility ID:** 100000081145
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Gastonia Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Gastonia, NC
 
 **EPA Facility ID:** 100000067394
 

@@ -1,6 +1,6 @@
-# Unknown
+# CENDAK COOPERATIVE, CHEMICAL PLANT
 
-**Location:** Unknown, ND
+**Location:** FESSENDEN, ND
 
 **EPA Facility ID:** 100000024724
 

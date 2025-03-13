@@ -1,6 +1,6 @@
-# Unknown
+# Reddy Ice-Houston (312)
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000135409
 

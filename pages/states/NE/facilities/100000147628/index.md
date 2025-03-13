@@ -1,6 +1,6 @@
-# Unknown
+# District Energy Corporation 9th & K Thermal Plant
 
-**Location:** Unknown, NE
+**Location:** Lincoln, NE
 
 **EPA Facility ID:** 100000147628
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sherwin-Williams Co. - Flora
 
-**Location:** Unknown, IL
+**Location:** Flora, IL
 
 **EPA Facility ID:** 100000186773
 

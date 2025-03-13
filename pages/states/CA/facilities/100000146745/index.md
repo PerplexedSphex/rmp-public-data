@@ -1,6 +1,6 @@
-# Unknown
+# Carpinteria Oil and Gas Plant
 
-**Location:** Unknown, CA
+**Location:** Carpinteria, CA
 
 **EPA Facility ID:** 100000146745
 

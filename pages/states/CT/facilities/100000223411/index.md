@@ -1,6 +1,6 @@
-# Unknown
+# Bridgeport Fuel Cell Park, LLC
 
-**Location:** Unknown, CT
+**Location:** Bridgeport, CT
 
 **EPA Facility ID:** 100000223411
 

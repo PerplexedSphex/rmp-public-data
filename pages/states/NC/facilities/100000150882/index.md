@@ -1,6 +1,6 @@
-# Unknown
+# Bartlett Milling Company - Statesville NC
 
-**Location:** Unknown, NC
+**Location:** Statesville, NC
 
 **EPA Facility ID:** 100000150882
 

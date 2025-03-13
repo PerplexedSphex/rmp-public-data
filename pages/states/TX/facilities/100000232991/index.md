@@ -1,6 +1,6 @@
-# Unknown
+# T-Bar Rechlorination Station
 
-**Location:** Unknown, TX
+**Location:** Midland, TX
 
 **EPA Facility ID:** 100000232991
 

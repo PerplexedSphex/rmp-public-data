@@ -1,6 +1,6 @@
-# Unknown
+# Elk City Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Elk City, OK
 
 **EPA Facility ID:** 100000056538
 

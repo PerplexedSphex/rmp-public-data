@@ -1,6 +1,6 @@
-# Unknown
+# Laurinburg & Southern Transload Terminal
 
-**Location:** Unknown, NC
+**Location:** Laurinburg, NC
 
 **EPA Facility ID:** 100000213529
 

@@ -1,6 +1,6 @@
-# Unknown
+# Western Sintering Co. Inc.
 
-**Location:** Unknown, WA
+**Location:** Richland, WA
 
 **EPA Facility ID:** 100000003541
 

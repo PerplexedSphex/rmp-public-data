@@ -1,6 +1,6 @@
-# Unknown
+# IMC CHEMICALS, INC. - LAKE OPERATIONS #1
 
-**Location:** Unknown, CA
+**Location:** TRONA, CA
 
 **EPA Facility ID:** 100000127917
 

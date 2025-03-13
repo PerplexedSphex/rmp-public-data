@@ -1,6 +1,6 @@
-# Unknown
+# Wasson CO2 Recovery Plant
 
-**Location:** Unknown, TX
+**Location:** Denver City, TX
 
 **EPA Facility ID:** 100000114887
 

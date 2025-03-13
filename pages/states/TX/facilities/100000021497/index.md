@@ -1,6 +1,6 @@
-# Unknown
+# Garden City Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Sterling City, TX
 
 **EPA Facility ID:** 100000021497
 

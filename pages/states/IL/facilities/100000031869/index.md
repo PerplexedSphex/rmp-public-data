@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.- Hidalgo
 
-**Location:** Unknown, IL
+**Location:** Hidalgo, IL
 
 **EPA Facility ID:** 100000031869
 

@@ -1,6 +1,6 @@
-# Unknown
+# Future Foam, Inc
 
-**Location:** Unknown, KS
+**Location:** Newton, KS
 
 **EPA Facility ID:** 100000101043
 

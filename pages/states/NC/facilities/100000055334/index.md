@@ -1,6 +1,6 @@
-# Unknown
+# Radicispandex Corporation
 
-**Location:** Unknown, NC
+**Location:** Gastonia, NC
 
 **EPA Facility ID:** 100000055334
 

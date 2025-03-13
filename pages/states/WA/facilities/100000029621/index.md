@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Dimond Spear
 
-**Location:** Unknown, WA
+**Location:** ST. JOHN, WA
 
 **EPA Facility ID:** 100000029621
 

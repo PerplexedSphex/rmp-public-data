@@ -1,6 +1,6 @@
-# Unknown
+# William J Hooper Water Production Plant
 
-**Location:** Unknown, GA
+**Location:** Stockbridge, GA
 
 **EPA Facility ID:** 100000023468
 

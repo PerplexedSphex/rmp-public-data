@@ -1,6 +1,6 @@
-# Unknown
+# JCI Jones Chemicals, Inc. - Charlotte, NC
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000137568
 

@@ -1,6 +1,6 @@
-# Unknown
+# Beatrice Foods - Denison Plant
 
-**Location:** Unknown, TX
+**Location:** Denison, TX
 
 **EPA Facility ID:** 100000076687
 

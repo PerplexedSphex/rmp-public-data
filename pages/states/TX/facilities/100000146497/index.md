@@ -1,6 +1,6 @@
-# Unknown
+# Galveston Bay Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Baytown, TX
 
 **EPA Facility ID:** 100000146497
 

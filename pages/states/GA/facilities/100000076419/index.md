@@ -1,6 +1,6 @@
-# Unknown
+# Clark Hill  Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Appling, GA
 
 **EPA Facility ID:** 100000076419
 

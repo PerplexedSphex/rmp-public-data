@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Deli, Inc. Concordia MO
 
-**Location:** Unknown, MO
+**Location:** Concordia, MO
 
 **EPA Facility ID:** 100000078701
 

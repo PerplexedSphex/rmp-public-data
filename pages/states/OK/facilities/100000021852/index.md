@@ -1,6 +1,6 @@
-# Unknown
+# TEXOMA FARM SUPPLY, INC. (DUKE FACILITY)
 
-**Location:** Unknown, OK
+**Location:** DUKE, OK
 
 **EPA Facility ID:** 100000021852
 

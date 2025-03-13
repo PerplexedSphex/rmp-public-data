@@ -1,6 +1,6 @@
-# Unknown
+# Brown Packing Co., Inc.
 
-**Location:** Unknown, SC
+**Location:** Gaffney, SC
 
 **EPA Facility ID:** 100000240349
 

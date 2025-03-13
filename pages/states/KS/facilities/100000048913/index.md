@@ -1,6 +1,6 @@
-# Unknown
+# Bartlett Cooperative Association   (Mound Valley)
 
-**Location:** Unknown, KS
+**Location:** Mound Valley, KS
 
 **EPA Facility ID:** 100000048913
 

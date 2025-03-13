@@ -1,6 +1,6 @@
-# Unknown
+# City of Del City Pollution Control Plant
 
-**Location:** Unknown, OK
+**Location:** Del City, OK
 
 **EPA Facility ID:** 100000102907
 

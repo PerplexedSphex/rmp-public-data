@@ -1,6 +1,6 @@
-# Unknown
+# JCI Jones Chemicals Inc. - Torrance
 
-**Location:** Unknown, CA
+**Location:** Torrance, CA
 
 **EPA Facility ID:** 100000141394
 

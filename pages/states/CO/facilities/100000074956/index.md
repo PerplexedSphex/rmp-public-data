@@ -1,6 +1,6 @@
-# Unknown
+# Thornton Water Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Thornton, CO
 
 **EPA Facility ID:** 100000074956
 

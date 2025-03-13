@@ -1,6 +1,6 @@
-# Unknown
+# Nogales International Wastewater Treatment Plant
 
-**Location:** Unknown, AZ
+**Location:** Rio Rico, AZ
 
 **EPA Facility ID:** 100000120086
 

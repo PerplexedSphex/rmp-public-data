@@ -1,6 +1,6 @@
-# Unknown
+# Belton Junction
 
-**Location:** Unknown, SC
+**Location:** Belton, SC
 
 **EPA Facility ID:** 100000255207
 

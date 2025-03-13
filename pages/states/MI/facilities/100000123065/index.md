@@ -1,6 +1,6 @@
-# Unknown
+# Lake Township Water System
 
-**Location:** Unknown, MI
+**Location:** Bridgman, MI
 
 **EPA Facility ID:** 100000123065
 

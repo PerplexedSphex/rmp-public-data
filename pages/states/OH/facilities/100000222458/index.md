@@ -1,6 +1,6 @@
-# Unknown
+# Harrison Hub Complex
 
-**Location:** Unknown, OH
+**Location:** Scio, OH
 
 **EPA Facility ID:** 100000222458
 

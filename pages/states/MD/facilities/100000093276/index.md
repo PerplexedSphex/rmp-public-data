@@ -1,6 +1,6 @@
-# Unknown
+# Clean Harbors of Baltimore, Inc.
 
-**Location:** Unknown, MD
+**Location:** Baltimore, MD
 
 **EPA Facility ID:** 100000093276
 

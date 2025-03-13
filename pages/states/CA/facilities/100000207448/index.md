@@ -1,6 +1,6 @@
-# Unknown
+# J&J Snack Foods Corporation
 
-**Location:** Unknown, CA
+**Location:** Vernon, CA
 
 **EPA Facility ID:** 100000207448
 

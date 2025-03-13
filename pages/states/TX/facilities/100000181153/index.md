@@ -1,6 +1,6 @@
-# Unknown
+# Rusk Hwy. 84 West Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Rusk, TX
 
 **EPA Facility ID:** 100000181153
 

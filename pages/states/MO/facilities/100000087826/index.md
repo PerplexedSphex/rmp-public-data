@@ -1,6 +1,6 @@
-# Unknown
+# Kansas City, Missouri Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Kansas City, MO
 
 **EPA Facility ID:** 100000087826
 

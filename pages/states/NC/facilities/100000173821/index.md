@@ -1,6 +1,6 @@
-# Unknown
+# LinPac Plastics, Inc.
 
-**Location:** Unknown, NC
+**Location:** Wilson, NC
 
 **EPA Facility ID:** 100000173821
 

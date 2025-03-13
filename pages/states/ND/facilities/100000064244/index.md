@@ -1,6 +1,6 @@
-# Unknown
+# ProPoint Cooperative Midway Plant
 
-**Location:** Unknown, ND
+**Location:** Amidon, ND
 
 **EPA Facility ID:** 100000064244
 

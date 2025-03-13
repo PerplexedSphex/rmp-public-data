@@ -1,6 +1,6 @@
-# Unknown
+# Johnny Appleseed / Zirkle Fruit Co.
 
-**Location:** Unknown, WA
+**Location:** Malott, WA
 
 **EPA Facility ID:** 100000141704
 

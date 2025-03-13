@@ -1,6 +1,6 @@
-# Unknown
+# Ames - Ames Fertilizer Service, Inc.
 
-**Location:** Unknown, KS
+**Location:** Concordia, KS
 
 **EPA Facility ID:** 100000010445
 

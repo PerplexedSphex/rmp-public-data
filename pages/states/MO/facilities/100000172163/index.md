@@ -1,6 +1,6 @@
-# Unknown
+# U.S. Water Company
 
-**Location:** Unknown, MO
+**Location:** Lexington, MO
 
 **EPA Facility ID:** 100000172163
 

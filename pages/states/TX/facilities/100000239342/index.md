@@ -1,6 +1,6 @@
-# Unknown
+# Aldi Denton Distribution Center
 
-**Location:** Unknown, TX
+**Location:** Denton, TX
 
 **EPA Facility ID:** 100000239342
 

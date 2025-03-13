@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center #6072
 
-**Location:** Unknown, MS
+**Location:** New Albany, MS
 
 **EPA Facility ID:** 100000125161
 

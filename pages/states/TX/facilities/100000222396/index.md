@@ -1,6 +1,6 @@
-# Unknown
+# Red Bluff Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Orla, TX
 
 **EPA Facility ID:** 100000222396
 

@@ -1,6 +1,6 @@
-# Unknown
+# South Ice Cream Plant
 
-**Location:** Unknown, IA
+**Location:** Le Mars, IA
 
 **EPA Facility ID:** 100000130477
 

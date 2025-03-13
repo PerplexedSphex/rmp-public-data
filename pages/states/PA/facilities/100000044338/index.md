@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Northeast, LLC
 
-**Location:** Unknown, PA
+**Location:** Reading, PA
 
 **EPA Facility ID:** 100000044338
 

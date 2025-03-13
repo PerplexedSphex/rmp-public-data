@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Shipman Jerseyville (Otterville)
 
-**Location:** Unknown, IL
+**Location:** Jerseyville, IL
 
 **EPA Facility ID:** 100000211068
 

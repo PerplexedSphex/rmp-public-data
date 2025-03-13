@@ -1,6 +1,6 @@
-# Unknown
+# Smith Frozen Foods, INC
 
-**Location:** Unknown, OR
+**Location:** Weston, OR
 
 **EPA Facility ID:** 100000112665
 

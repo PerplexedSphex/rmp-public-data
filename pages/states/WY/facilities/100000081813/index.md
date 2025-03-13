@@ -1,6 +1,6 @@
-# Unknown
+# Power Resources, Inc. - Highland Uranium Project
 
-**Location:** Unknown, WY
+**Location:** Douglas, WY
 
 **EPA Facility ID:** 100000081813
 

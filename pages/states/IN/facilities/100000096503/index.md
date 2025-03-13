@@ -1,6 +1,6 @@
-# Unknown
+# Hydrite Chemical Co. - Terre Haute
 
-**Location:** Unknown, IN
+**Location:** Terre Haute, IN
 
 **EPA Facility ID:** 100000096503
 

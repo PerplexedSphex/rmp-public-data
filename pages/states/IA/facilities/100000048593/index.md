@@ -1,6 +1,6 @@
-# Unknown
+# WT-8 Algona Terminal
 
-**Location:** Unknown, IA
+**Location:** Algona, IA
 
 **EPA Facility ID:** 100000048593
 

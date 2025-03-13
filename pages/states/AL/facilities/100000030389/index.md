@@ -1,6 +1,6 @@
-# Unknown
+# Robert A. Betts Filter Plant
 
-**Location:** Unknown, AL
+**Location:** Valley, AL
 
 **EPA Facility ID:** 100000030389
 

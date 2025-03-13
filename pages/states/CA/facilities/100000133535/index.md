@@ -1,6 +1,6 @@
-# Unknown
+# City of Arcata Wastewater Treatment Facility
 
-**Location:** Unknown, CA
+**Location:** Arcata, CA
 
 **EPA Facility ID:** 100000133535
 

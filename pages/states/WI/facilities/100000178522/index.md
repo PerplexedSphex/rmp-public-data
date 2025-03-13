@@ -1,6 +1,6 @@
-# Unknown
+# Brenntag Great Lakes, LLC - Menomonee Falls
 
-**Location:** Unknown, WI
+**Location:** Menomonee Falls, WI
 
 **EPA Facility ID:** 100000178522
 

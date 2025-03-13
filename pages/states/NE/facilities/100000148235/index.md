@@ -1,6 +1,6 @@
-# Unknown
+# TERRA INTERNATIONAL, INC  (BLOOMFIELD, NE)
 
-**Location:** Unknown, NE
+**Location:** BLOOMFIELD, NE
 
 **EPA Facility ID:** 100000148235
 

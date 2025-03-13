@@ -1,6 +1,6 @@
-# Unknown
+# Eastman Chemical Company, Tyler Terminal
 
-**Location:** Unknown, TX
+**Location:** Tyler, TX
 
 **EPA Facility ID:** 100000160283
 

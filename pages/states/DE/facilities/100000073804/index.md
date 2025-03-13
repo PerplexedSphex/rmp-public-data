@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Coop.- Milford Coop. Inc. (15841B)
 
-**Location:** Unknown, DE
+**Location:** Milford, DE
 
 **EPA Facility ID:** 100000073804
 

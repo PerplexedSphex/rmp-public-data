@@ -1,6 +1,6 @@
-# Unknown
+# United Dairy, Fike's Division
 
-**Location:** Unknown, PA
+**Location:** Uniontown, PA
 
 **EPA Facility ID:** 100000188343
 

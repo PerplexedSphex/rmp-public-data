@@ -1,6 +1,6 @@
-# Unknown
+# Pool Chlor of Arizona, Inc.
 
-**Location:** Unknown, AZ
+**Location:** Tempe, AZ
 
 **EPA Facility ID:** 100000029462
 

@@ -1,6 +1,6 @@
-# Unknown
+# United Equity, Inc. - Kossuth Branch
 
-**Location:** Unknown, OH
+**Location:** Spencerville, OH
 
 **EPA Facility ID:** 100000107332
 

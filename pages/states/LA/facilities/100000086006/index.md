@@ -1,6 +1,6 @@
-# Unknown
+# West Bank Water Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Marrero, LA
 
 **EPA Facility ID:** 100000086006
 

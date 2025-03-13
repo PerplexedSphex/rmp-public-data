@@ -1,6 +1,6 @@
-# Unknown
+# Tyson Foods Sherman, TX Case Ready Plant
 
-**Location:** Unknown, TX
+**Location:** Sherman, TX
 
 **EPA Facility ID:** 100000194112
 

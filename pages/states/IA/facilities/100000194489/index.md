@@ -1,6 +1,6 @@
-# Unknown
+# Fareway Stores, Inc.
 
-**Location:** Unknown, IA
+**Location:** Boone, IA
 
 **EPA Facility ID:** 100000194489
 

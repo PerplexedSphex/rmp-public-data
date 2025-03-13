@@ -1,6 +1,6 @@
-# Unknown
+# Bradley Chemical Corp.
 
-**Location:** Unknown, FL
+**Location:** Oldsmar, FL
 
 **EPA Facility ID:** 100000113735
 

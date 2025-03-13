@@ -1,6 +1,6 @@
-# Unknown
+# Contra Costa Generating Station
 
-**Location:** Unknown, CA
+**Location:** Antioch, CA
 
 **EPA Facility ID:** 100000174802
 

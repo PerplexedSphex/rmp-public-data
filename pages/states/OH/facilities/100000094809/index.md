@@ -1,6 +1,6 @@
-# Unknown
+# Owens Corning Newark plant
 
-**Location:** Unknown, OH
+**Location:** Newark, OH
 
 **EPA Facility ID:** 100000094809
 

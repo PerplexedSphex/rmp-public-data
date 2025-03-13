@@ -1,6 +1,6 @@
-# Unknown
+# Perry's Ice Cream Company, Inc.
 
-**Location:** Unknown, NY
+**Location:** Akron, NY
 
 **EPA Facility ID:** 100000046568
 

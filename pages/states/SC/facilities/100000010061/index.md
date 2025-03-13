@@ -1,6 +1,6 @@
-# Unknown
+# City of Bishopville Wastewater Treatment Facility
 
-**Location:** Unknown, SC
+**Location:** Bishopville, SC
 
 **EPA Facility ID:** 100000010061
 

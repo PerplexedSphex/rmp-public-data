@@ -1,6 +1,6 @@
-# Unknown
+# Congdon Packing Compant, LLC
 
-**Location:** Unknown, WA
+**Location:** Yakima, WA
 
 **EPA Facility ID:** 100000206591
 

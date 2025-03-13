@@ -1,6 +1,6 @@
-# Unknown
+# Goodrich Corporation - Spokane, WA
 
-**Location:** Unknown, WA
+**Location:** Spokane, WA
 
 **EPA Facility ID:** 100000076632
 

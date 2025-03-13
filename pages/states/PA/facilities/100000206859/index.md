@@ -1,6 +1,6 @@
-# Unknown
+# PAW Clarion Wastewater
 
-**Location:** Unknown, PA
+**Location:** Clarion, PA
 
 **EPA Facility ID:** 100000206859
 

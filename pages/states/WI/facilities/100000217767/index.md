@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Appleton
 
-**Location:** Unknown, WI
+**Location:** Grand Chute, WI
 
 **EPA Facility ID:** 100000217767
 

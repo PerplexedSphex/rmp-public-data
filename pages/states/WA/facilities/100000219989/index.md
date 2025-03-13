@@ -1,6 +1,6 @@
-# Unknown
+# New Columbia Fruit Packers, LLC
 
-**Location:** Unknown, WA
+**Location:** Yakima, WA
 
 **EPA Facility ID:** 100000219989
 

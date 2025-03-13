@@ -1,6 +1,6 @@
-# Unknown
+# Wingo, KY 269 
 
-**Location:** Unknown, KY
+**Location:** Wingo, KY
 
 **EPA Facility ID:** 100000027605
 

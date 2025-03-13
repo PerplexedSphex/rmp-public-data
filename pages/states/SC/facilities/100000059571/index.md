@@ -1,6 +1,6 @@
-# Unknown
+# City of Florence Pee Dee River WWTP
 
-**Location:** Unknown, SC
+**Location:** Florence, SC
 
 **EPA Facility ID:** 100000059571
 

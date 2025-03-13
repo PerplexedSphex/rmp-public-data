@@ -1,6 +1,6 @@
-# Unknown
+# The Gilman Brothers Company
 
-**Location:** Unknown, CT
+**Location:** Gilman, CT
 
 **EPA Facility ID:** 100000215536
 

@@ -1,6 +1,6 @@
-# Unknown
+# Eldorado Propane Terminal
 
-**Location:** Unknown, KS
+**Location:** Eldorado, KS
 
 **EPA Facility ID:** 100000166232
 

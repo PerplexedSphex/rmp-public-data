@@ -1,6 +1,6 @@
-# Unknown
+# Phillips 66 Spokane Parkwater Terminal
 
-**Location:** Unknown, WA
+**Location:** Spokane Valley, WA
 
 **EPA Facility ID:** 100000235499
 

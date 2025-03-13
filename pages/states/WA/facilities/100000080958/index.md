@@ -1,6 +1,6 @@
-# Unknown
+# Fred Meyer - Puyallup Distribution Center
 
-**Location:** Unknown, WA
+**Location:** Puyallup, WA
 
 **EPA Facility ID:** 100000080958
 

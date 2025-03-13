@@ -1,6 +1,6 @@
-# Unknown
+# SalonCentric NE
 
-**Location:** Unknown, NE
+**Location:** La Vista, NE
 
 **EPA Facility ID:** 100000227462
 

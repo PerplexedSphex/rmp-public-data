@@ -1,6 +1,6 @@
-# Unknown
+# Olinda Water Treatment Facility
 
-**Location:** Unknown, HI
+**Location:** Makawao, HI
 
 **EPA Facility ID:** 100000030263
 

@@ -1,6 +1,6 @@
-# Unknown
+# Meadowland Farmers Coop
 
-**Location:** Unknown, MN
+**Location:** LUCAN, MN
 
 **EPA Facility ID:** 100000026152
 

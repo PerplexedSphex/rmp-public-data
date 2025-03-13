@@ -1,6 +1,6 @@
-# Unknown
+# North Springfield Plant
 
-**Location:** Unknown, VT
+**Location:** North Springfield, VT
 
 **EPA Facility ID:** 100000081083
 

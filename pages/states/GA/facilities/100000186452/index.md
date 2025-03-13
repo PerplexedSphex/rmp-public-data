@@ -1,6 +1,6 @@
-# Unknown
+# Fairburn Regional Distribution Center
 
-**Location:** Unknown, GA
+**Location:** Fairburn, GA
 
 **EPA Facility ID:** 100000186452
 

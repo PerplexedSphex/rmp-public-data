@@ -1,6 +1,6 @@
-# Unknown
+# Specialty Steel Treating, Inc.
 
-**Location:** Unknown, MI
+**Location:** Fraser, MI
 
 **EPA Facility ID:** 100000184418
 

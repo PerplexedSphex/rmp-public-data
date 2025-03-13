@@ -1,6 +1,6 @@
-# Unknown
+# Clarksburg Wastewater Treatment Plant
 
-**Location:** Unknown, WV
+**Location:** Clarksburg, WV
 
 **EPA Facility ID:** 100000093837
 

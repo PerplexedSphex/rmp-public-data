@@ -1,6 +1,6 @@
-# Unknown
+# Legacy Cooperative - Cando Location
 
-**Location:** Unknown, ND
+**Location:** Cando, ND
 
 **EPA Facility ID:** 100000032412
 

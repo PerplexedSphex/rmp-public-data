@@ -1,6 +1,6 @@
-# Unknown
+# Henderson Community Co-op - Lushton
 
-**Location:** Unknown, NE
+**Location:** Lushton, NE
 
 **EPA Facility ID:** 100000020096
 

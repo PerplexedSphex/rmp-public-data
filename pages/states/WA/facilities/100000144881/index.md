@@ -1,6 +1,6 @@
-# Unknown
+# Lineage-Quincy
 
-**Location:** Unknown, WA
+**Location:** Quincy, WA
 
 **EPA Facility ID:** 100000144881
 

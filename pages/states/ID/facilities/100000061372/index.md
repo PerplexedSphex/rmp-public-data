@@ -1,6 +1,6 @@
-# Unknown
+# CHS, Inc - Ferdinand
 
-**Location:** Unknown, ID
+**Location:** Ferdinand, ID
 
 **EPA Facility ID:** 100000061372
 

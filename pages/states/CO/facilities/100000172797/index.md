@@ -1,6 +1,6 @@
-# Unknown
+# Elkhart Cooperative Equity Exchange - Springfield
 
-**Location:** Unknown, CO
+**Location:** Springfield, CO
 
 **EPA Facility ID:** 100000172797
 

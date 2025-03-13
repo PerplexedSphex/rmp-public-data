@@ -1,6 +1,6 @@
-# Unknown
+# City of Goldsboro Wastewater Treatlment Plant
 
-**Location:** Unknown, NC
+**Location:** Goldsboro, NC
 
 **EPA Facility ID:** 100000148887
 

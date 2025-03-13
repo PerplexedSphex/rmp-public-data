@@ -1,6 +1,6 @@
-# Unknown
+# Dothan Warehouse Freezer Storage
 
-**Location:** Unknown, AL
+**Location:** Dothan, AL
 
 **EPA Facility ID:** 100000240562
 

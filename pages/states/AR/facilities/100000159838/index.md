@@ -1,6 +1,6 @@
-# Unknown
+# Americold, Russellville Elmira -  Plant #78417
 
-**Location:** Unknown, AR
+**Location:** Russellville, AR
 
 **EPA Facility ID:** 100000159838
 

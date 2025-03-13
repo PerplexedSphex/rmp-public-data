@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC  -  SMITHFIELD   
 
-**Location:** Unknown, NE
+**Location:** Smithfield, NE
 
 **EPA Facility ID:** 100000143506
 

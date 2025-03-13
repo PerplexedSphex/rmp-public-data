@@ -1,6 +1,6 @@
-# Unknown
+# Cascades Tissue Group - WI, Inc.
 
-**Location:** Unknown, WI
+**Location:** Eau Claire, WI
 
 **EPA Facility ID:** 100000118829
 

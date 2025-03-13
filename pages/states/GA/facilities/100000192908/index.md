@@ -1,6 +1,6 @@
-# Unknown
+# John Soules Foods Inc.
 
-**Location:** Unknown, GA
+**Location:** Gainesville, GA
 
 **EPA Facility ID:** 100000192908
 

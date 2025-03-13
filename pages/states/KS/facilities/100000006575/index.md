@@ -1,6 +1,6 @@
-# Unknown
+# City of Winfield Municipal Swimming Pool
 
-**Location:** Unknown, KS
+**Location:** Winfield, KS
 
 **EPA Facility ID:** 100000006575
 

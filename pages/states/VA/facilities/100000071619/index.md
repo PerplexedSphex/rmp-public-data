@@ -1,6 +1,6 @@
-# Unknown
+# Giant Resource Recovery - Arvonia, Inc.
 
-**Location:** Unknown, VA
+**Location:** Arvonia, VA
 
 **EPA Facility ID:** 100000071619
 

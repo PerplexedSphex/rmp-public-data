@@ -1,6 +1,6 @@
-# Unknown
+# SalonCentric Alabama Distribution Center
 
-**Location:** Unknown, AL
+**Location:** McCalla, AL
 
 **EPA Facility ID:** 100000224241
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sanford M. Anderson Water Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Inglewood, CA
 
 **EPA Facility ID:** 100000157028
 

@@ -1,6 +1,6 @@
-# Unknown
+# Gatesville Water Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Gatesville, TX
 
 **EPA Facility ID:** 100000152292
 

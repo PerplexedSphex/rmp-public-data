@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Henderson
 
-**Location:** Unknown, CO
+**Location:** Henderson, CO
 
 **EPA Facility ID:** 100000189921
 

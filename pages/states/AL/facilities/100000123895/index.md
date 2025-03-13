@@ -1,6 +1,6 @@
-# Unknown
+# U.S. Army Aviation Center and Fort Rucker
 
-**Location:** Unknown, AL
+**Location:** Fort Rucker, AL
 
 **EPA Facility ID:** 100000123895
 

@@ -1,6 +1,6 @@
-# Unknown
+# Red Cedar Gathering Company Simpson Treating Plant
 
-**Location:** Unknown, CO
+**Location:** Durango, CO
 
 **EPA Facility ID:** 100000214485
 

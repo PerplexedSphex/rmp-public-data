@@ -1,6 +1,6 @@
-# Unknown
+# Lebanon WaterTreatment Plant
 
-**Location:** Unknown, TN
+**Location:** Lebanon, TN
 
 **EPA Facility ID:** 100000078998
 

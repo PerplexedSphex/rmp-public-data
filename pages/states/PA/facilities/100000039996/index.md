@@ -1,6 +1,6 @@
-# Unknown
+# Indian Creek Supply Filtration Plant
 
-**Location:** Unknown, PA
+**Location:** Connellsville, PA
 
 **EPA Facility ID:** 100000039996
 

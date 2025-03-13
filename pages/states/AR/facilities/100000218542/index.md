@@ -1,6 +1,6 @@
-# Unknown
+# Turk Power Plant
 
-**Location:** Unknown, AR
+**Location:** Fulton, AR
 
 **EPA Facility ID:** 100000218542
 

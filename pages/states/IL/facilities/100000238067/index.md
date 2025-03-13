@@ -1,6 +1,6 @@
-# Unknown
+# KRONOS FOODS CORP
 
-**Location:** Unknown, IL
+**Location:** Glendale heights, IL
 
 **EPA Facility ID:** 100000238067
 

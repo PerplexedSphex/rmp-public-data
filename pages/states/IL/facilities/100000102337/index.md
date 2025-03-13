@@ -1,6 +1,6 @@
-# Unknown
+# dba Dean Illinois Dairies, LLC - Huntley
 
-**Location:** Unknown, IL
+**Location:** Huntley, IL
 
 **EPA Facility ID:** 100000102337
 

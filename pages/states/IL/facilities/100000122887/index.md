@@ -1,6 +1,6 @@
-# Unknown
+# Walmart Distribution Center #6059
 
-**Location:** Unknown, IL
+**Location:** Olney, IL
 
 **EPA Facility ID:** 100000122887
 

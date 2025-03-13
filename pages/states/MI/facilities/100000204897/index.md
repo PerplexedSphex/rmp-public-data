@@ -1,6 +1,6 @@
-# Unknown
+# Hartland 36 Gas Plant
 
-**Location:** Unknown, MI
+**Location:** Milford, MI
 
 **EPA Facility ID:** 100000204897
 

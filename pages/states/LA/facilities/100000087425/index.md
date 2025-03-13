@@ -1,6 +1,6 @@
-# Unknown
+# City of West Monroe Wastewater Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** West Monroe, LA
 
 **EPA Facility ID:** 100000087425
 

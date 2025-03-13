@@ -1,6 +1,6 @@
-# Unknown
+# Novozymes North America, Inc.
 
-**Location:** Unknown, NC
+**Location:** Franklinton, NC
 
 **EPA Facility ID:** 100000109937
 

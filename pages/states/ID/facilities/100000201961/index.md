@@ -1,6 +1,6 @@
-# Unknown
+# Henningsen Cold Storage Co.Twin Falls Mfg.
 
-**Location:** Unknown, ID
+**Location:** Twin Falls, ID
 
 **EPA Facility ID:** 100000201961
 

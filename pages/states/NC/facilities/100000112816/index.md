@@ -1,6 +1,6 @@
-# Unknown
+# Land-O-Sun Dairies, LLC
 
-**Location:** Unknown, NC
+**Location:** Hickory, NC
 
 **EPA Facility ID:** 100000112816
 

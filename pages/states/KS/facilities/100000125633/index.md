@@ -1,6 +1,6 @@
-# Unknown
+# Hartford, KS Satellite
 
-**Location:** Unknown, KS
+**Location:** HARTFORD, KS
 
 **EPA Facility ID:** 100000125633
 

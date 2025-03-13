@@ -1,6 +1,6 @@
-# Unknown
+# John Soules Foods, Inc.
 
-**Location:** Unknown, TX
+**Location:** Tyler, TX
 
 **EPA Facility ID:** 100000111327
 

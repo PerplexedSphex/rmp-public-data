@@ -1,6 +1,6 @@
-# Unknown
+# Las Vegas Street Wastewater Treatment Plant
 
-**Location:** Unknown, CO
+**Location:** Colorado Springs, CO
 
 **EPA Facility ID:** 100000033938
 

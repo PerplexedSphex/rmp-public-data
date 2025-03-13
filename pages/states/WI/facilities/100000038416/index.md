@@ -1,6 +1,6 @@
-# Unknown
+# Intertractor America Corporation
 
-**Location:** Unknown, WI
+**Location:** Elkhorn, WI
 
 **EPA Facility ID:** 100000038416
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Philippi Water Treatment Plant
 
-**Location:** Unknown, WV
+**Location:** Philippi, WV
 
 **EPA Facility ID:** 100000180537
 

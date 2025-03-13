@@ -1,6 +1,6 @@
-# Unknown
+# Elm Grove Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Elm Grove, LA
 
 **EPA Facility ID:** 100000165714
 

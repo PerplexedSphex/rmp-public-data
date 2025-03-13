@@ -1,6 +1,6 @@
-# Unknown
+# CHEM QUIP, INC. (White House Sales)
 
-**Location:** Unknown, CA
+**Location:** REDDING, CA
 
 **EPA Facility ID:** 100000188227
 

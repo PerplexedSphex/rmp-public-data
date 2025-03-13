@@ -1,6 +1,6 @@
-# Unknown
+# Bellingham Cold Storage Co. - Orchard Facility
 
-**Location:** Unknown, WA
+**Location:** Bellingham, WA
 
 **EPA Facility ID:** 100000141973
 

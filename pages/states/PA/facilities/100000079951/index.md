@@ -1,6 +1,6 @@
-# Unknown
+# Latrobe Brewing Company, LLC
 
-**Location:** Unknown, PA
+**Location:** Latrobe, PA
 
 **EPA Facility ID:** 100000079951
 

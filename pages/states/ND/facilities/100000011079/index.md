@@ -1,6 +1,6 @@
-# Unknown
+# Dennis Haugen Farm
 
-**Location:** Unknown, ND
+**Location:** Hannaford, ND
 
 **EPA Facility ID:** 100000011079
 

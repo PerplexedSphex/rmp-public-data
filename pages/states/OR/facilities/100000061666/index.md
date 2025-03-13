@@ -1,6 +1,6 @@
-# Unknown
+# National Frozen Foods Corporation
 
-**Location:** Unknown, OR
+**Location:** Albany, OR
 
 **EPA Facility ID:** 100000061666
 

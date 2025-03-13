@@ -1,6 +1,6 @@
-# Unknown
+# Tybee Island Wastewater Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Tybee Island, GA
 
 **EPA Facility ID:** 100000133143
 

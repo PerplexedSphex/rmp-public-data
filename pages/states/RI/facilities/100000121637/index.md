@@ -1,6 +1,6 @@
-# Unknown
+# Ocean State Power
 
-**Location:** Unknown, RI
+**Location:** Harrisville, RI
 
 **EPA Facility ID:** 100000121637
 

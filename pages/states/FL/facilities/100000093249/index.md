@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Cooperative- Lake City, FL (71969)
 
-**Location:** Unknown, FL
+**Location:** Lake City, FL
 
 **EPA Facility ID:** 100000093249
 

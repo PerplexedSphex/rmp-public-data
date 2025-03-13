@@ -1,6 +1,6 @@
-# Unknown
+# Mankato Wastewater Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Mankato, MN
 
 **EPA Facility ID:** 100000060827
 

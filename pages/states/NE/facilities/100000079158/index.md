@@ -1,6 +1,6 @@
-# Unknown
+# Farmers Coop Grain Co. Gates NH3
 
-**Location:** Unknown, NE
+**Location:** Sargent, NE
 
 **EPA Facility ID:** 100000079158
 

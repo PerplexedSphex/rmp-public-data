@@ -1,6 +1,6 @@
-# Unknown
+# Charleroi Propane Terminal
 
-**Location:** Unknown, PA
+**Location:** Charleroi, PA
 
 **EPA Facility ID:** 100000214001
 

@@ -1,6 +1,6 @@
-# Unknown
+# Haviland Products Company - Kalamazoo
 
-**Location:** Unknown, MI
+**Location:** Kalamazoo, MI
 
 **EPA Facility ID:** 100000207064
 

@@ -1,6 +1,6 @@
-# Unknown
+# J.B. Latham Regional Plant
 
-**Location:** Unknown, CA
+**Location:** Dana Point, CA
 
 **EPA Facility ID:** 100000057225
 

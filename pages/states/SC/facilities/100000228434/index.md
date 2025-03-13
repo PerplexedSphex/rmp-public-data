@@ -1,6 +1,6 @@
-# Unknown
+# Americold Charleston
 
-**Location:** Unknown, SC
+**Location:** Summerville, SC
 
 **EPA Facility ID:** 100000228434
 

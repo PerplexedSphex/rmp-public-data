@@ -1,6 +1,6 @@
-# Unknown
+# BHC Easton LakeTreatment Plant
 
-**Location:** Unknown, CT
+**Location:** Easton, CT
 
 **EPA Facility ID:** 100000087791
 

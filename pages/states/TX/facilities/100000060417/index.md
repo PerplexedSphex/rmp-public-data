@@ -1,6 +1,6 @@
-# Unknown
+# Georgia Pacific Resins Inc. Houston, Texas Plant
 
-**Location:** Unknown, TX
+**Location:** Houston, TX
 
 **EPA Facility ID:** 100000060417
 

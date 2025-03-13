@@ -1,6 +1,6 @@
-# Unknown
+# Blue Island Phenol, LLC
 
-**Location:** Unknown, IL
+**Location:** Alsip, IL
 
 **EPA Facility ID:** 100000047371
 

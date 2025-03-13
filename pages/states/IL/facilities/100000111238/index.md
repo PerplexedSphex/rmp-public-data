@@ -1,6 +1,6 @@
-# Unknown
+# Ardent Mills
 
-**Location:** Unknown, IL
+**Location:** Alton, IL
 
 **EPA Facility ID:** 100000111238
 

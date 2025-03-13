@@ -1,6 +1,6 @@
-# Unknown
+# West Springfield LPG Terminal
 
-**Location:** Unknown, MA
+**Location:** West Springfield, MA
 
 **EPA Facility ID:** 100000220101
 

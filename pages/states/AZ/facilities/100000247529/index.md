@@ -1,6 +1,6 @@
-# Unknown
+# Desert Fresh Cooling, LLC
 
-**Location:** Unknown, AZ
+**Location:** Yuma, AZ
 
 **EPA Facility ID:** 100000247529
 

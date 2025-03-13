@@ -1,6 +1,6 @@
-# Unknown
+# Bazine NH3 Plant
 
-**Location:** Unknown, KS
+**Location:** Bazine, KS
 
 **EPA Facility ID:** 100000003239
 

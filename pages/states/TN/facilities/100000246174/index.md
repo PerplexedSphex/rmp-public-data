@@ -1,6 +1,6 @@
-# Unknown
+# TYSON FARMS, INC. HUMBOLDT POULTRY PROCESSING
 
-**Location:** Unknown, TN
+**Location:** Humboldt, TN
 
 **EPA Facility ID:** 100000246174
 

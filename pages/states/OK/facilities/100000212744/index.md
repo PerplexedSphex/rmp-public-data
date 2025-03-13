@@ -1,6 +1,6 @@
-# Unknown
+# Burbank Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Burbank, OK
 
 **EPA Facility ID:** 100000212744
 

@@ -1,6 +1,6 @@
-# Unknown
+# Giant Food LLC - Fresh Food Facility
 
-**Location:** Unknown, MD
+**Location:** Jessup, MD
 
 **EPA Facility ID:** 100000182991
 

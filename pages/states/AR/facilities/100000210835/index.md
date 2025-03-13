@@ -1,6 +1,6 @@
-# Unknown
+# HWTG - Fort Smith
 
-**Location:** Unknown, AR
+**Location:** Fort Smith, AR
 
 **EPA Facility ID:** 100000210835
 

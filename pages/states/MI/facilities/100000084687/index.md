@@ -1,6 +1,6 @@
-# Unknown
+# City of Wyoming Clean Water Plant
 
-**Location:** Unknown, MI
+**Location:** Wyoming, MI
 
 **EPA Facility ID:** 100000084687
 

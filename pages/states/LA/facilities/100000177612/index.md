@@ -1,6 +1,6 @@
-# Unknown
+# Ergon - Baton Rouge, Inc.
 
-**Location:** Unknown, LA
+**Location:** Baton Rouge, LA
 
 **EPA Facility ID:** 100000177612
 

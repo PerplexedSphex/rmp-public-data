@@ -1,6 +1,6 @@
-# Unknown
+# Gold Eagle Cooperative / Goldfield
 
-**Location:** Unknown, IA
+**Location:** Goldfield, IA
 
 **EPA Facility ID:** 100000172662
 

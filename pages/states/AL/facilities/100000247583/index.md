@@ -1,6 +1,6 @@
-# Unknown
+# John Soules Foods
 
-**Location:** Unknown, AL
+**Location:** Valley, AL
 
 **EPA Facility ID:** 100000247583
 

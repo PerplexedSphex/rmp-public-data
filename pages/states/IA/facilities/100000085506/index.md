@@ -1,6 +1,6 @@
-# Unknown
+# North Central Cooperative - Clarion Plant
 
-**Location:** Unknown, IA
+**Location:** Clarion, IA
 
 **EPA Facility ID:** 100000085506
 

@@ -1,6 +1,6 @@
-# Unknown
+# Leprino Foods, Greeley
 
-**Location:** Unknown, CO
+**Location:** Greeley, CO
 
 **EPA Facility ID:** 100000215377
 

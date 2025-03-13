@@ -1,6 +1,6 @@
-# Unknown
+# West Guthrie Gas Processing Plant
 
-**Location:** Unknown, OK
+**Location:** Edmond, OK
 
 **EPA Facility ID:** 100000067125
 

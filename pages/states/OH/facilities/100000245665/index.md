@@ -1,6 +1,6 @@
-# Unknown
+# Whirlpool Corp. Ottawa Ohio
 
-**Location:** Unknown, OH
+**Location:** Ottawa, OH
 
 **EPA Facility ID:** 100000245665
 

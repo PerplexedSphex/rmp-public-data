@@ -1,6 +1,6 @@
-# Unknown
+# Peak Foods LLC
 
-**Location:** Unknown, OH
+**Location:** Troy, OH
 
 **EPA Facility ID:** 100000174278
 

@@ -1,6 +1,6 @@
-# Unknown
+# Struktol Company of America
 
-**Location:** Unknown, OH
+**Location:** Stow, OH
 
 **EPA Facility ID:** 100000197164
 

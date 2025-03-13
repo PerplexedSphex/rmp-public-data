@@ -1,6 +1,6 @@
-# Unknown
+# Little Missouri Gas Plant
 
-**Location:** Unknown, ND
+**Location:** Watford City, ND
 
 **EPA Facility ID:** 100000214911
 

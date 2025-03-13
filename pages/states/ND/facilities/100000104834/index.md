@@ -1,6 +1,6 @@
-# Unknown
+# Great Plains Synfuels Plant
 
-**Location:** Unknown, ND
+**Location:** Beulah, ND
 
 **EPA Facility ID:** 100000104834
 

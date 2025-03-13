@@ -1,6 +1,6 @@
-# Unknown
+# Michael C. O'Laughlin Municipal Water Plant
 
-**Location:** Unknown, NY
+**Location:** Niagara Falls, NY
 
 **EPA Facility ID:** 100000044846
 

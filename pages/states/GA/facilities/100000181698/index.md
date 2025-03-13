@@ -1,6 +1,6 @@
-# Unknown
+# Grain Craft (Barnesville, GA)
 
-**Location:** Unknown, GA
+**Location:** Barnesville, GA
 
 **EPA Facility ID:** 100000181698
 

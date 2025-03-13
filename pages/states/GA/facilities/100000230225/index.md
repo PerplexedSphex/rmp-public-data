@@ -1,6 +1,6 @@
-# Unknown
+# Ardent Mills, LLC
 
-**Location:** Unknown, GA
+**Location:** Macon, GA
 
 **EPA Facility ID:** 100000230225
 

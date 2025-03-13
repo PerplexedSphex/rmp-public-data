@@ -1,6 +1,6 @@
-# Unknown
+# Underwood Fruit & Warehouse Company
 
-**Location:** Unknown, WA
+**Location:** Bingen, WA
 
 **EPA Facility ID:** 100000084829
 

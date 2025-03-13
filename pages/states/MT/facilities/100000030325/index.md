@@ -1,6 +1,6 @@
-# Unknown
+# Lewistown Propane & Fertilizer Co-Denton Plant
 
-**Location:** Unknown, MT
+**Location:** Denton, MT
 
 **EPA Facility ID:** 100000030325
 

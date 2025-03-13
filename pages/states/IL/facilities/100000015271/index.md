@@ -1,6 +1,6 @@
-# Unknown
+# Lincoln Ag Center Co. Inc
 
-**Location:** Unknown, IL
+**Location:** Lincoln, IL
 
 **EPA Facility ID:** 100000015271
 

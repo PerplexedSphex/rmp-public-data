@@ -1,6 +1,6 @@
-# Unknown
+# Koch Foods Berteau
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000201373
 

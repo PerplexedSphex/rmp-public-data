@@ -1,6 +1,6 @@
-# Unknown
+# Brainerd Chemical Co., Inc.
 
-**Location:** Unknown, OK
+**Location:** Tulsa, OK
 
 **EPA Facility ID:** 100000181073
 

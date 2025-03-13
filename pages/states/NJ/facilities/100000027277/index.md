@@ -1,6 +1,6 @@
-# Unknown
+# Edward P. Decher Secondary Wastewater Trmt. Plant
 
-**Location:** Unknown, NJ
+**Location:** Elizabeth, NJ
 
 **EPA Facility ID:** 100000027277
 

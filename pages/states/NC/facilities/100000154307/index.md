@@ -1,6 +1,6 @@
-# Unknown
+# Waynesville Water Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Waynesville, NC
 
 **EPA Facility ID:** 100000154307
 

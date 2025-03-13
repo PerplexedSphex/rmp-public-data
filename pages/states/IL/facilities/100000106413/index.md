@@ -1,6 +1,6 @@
-# Unknown
+# Flexible Products Company
 
-**Location:** Unknown, IL
+**Location:** Joliet, IL
 
 **EPA Facility ID:** 100000106413
 

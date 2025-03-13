@@ -1,6 +1,6 @@
-# Unknown
+# Ruiz Food Products, Inc. - Florence
 
-**Location:** Unknown, SC
+**Location:** Florence, SC
 
 **EPA Facility ID:** 100000208919
 

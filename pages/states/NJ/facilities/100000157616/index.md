@@ -1,6 +1,6 @@
-# Unknown
+# Pfister Chemical Inc.
 
-**Location:** Unknown, NJ
+**Location:** Ridgefield, NJ
 
 **EPA Facility ID:** 100000157616
 

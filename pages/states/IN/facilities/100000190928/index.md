@@ -1,6 +1,6 @@
-# Unknown
+# KEMIRA WATER SOLUTIONS, Inc.
 
-**Location:** Unknown, IN
+**Location:** East Chicago, IN
 
 **EPA Facility ID:** 100000190928
 

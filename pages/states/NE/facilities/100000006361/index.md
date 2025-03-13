@@ -1,6 +1,6 @@
-# Unknown
+# Central Valley Ag Cooperative - Elgin East
 
-**Location:** Unknown, NE
+**Location:** Elgin, NE
 
 **EPA Facility ID:** 100000006361
 

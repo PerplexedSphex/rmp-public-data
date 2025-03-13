@@ -1,6 +1,6 @@
-# Unknown
+# Watres Water Treatment Plant
 
-**Location:** Unknown, PA
+**Location:** Plains Township, PA
 
 **EPA Facility ID:** 100000000624
 

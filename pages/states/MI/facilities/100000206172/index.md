@@ -1,6 +1,6 @@
-# Unknown
+# Highland Central Processing Facility
 
-**Location:** Unknown, MI
+**Location:** Highland, MI
 
 **EPA Facility ID:** 100000206172
 

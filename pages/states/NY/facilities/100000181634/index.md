@@ -1,6 +1,6 @@
-# Unknown
+# Town of Bethlehem Dinmore Rd. Chlorination Station
 
-**Location:** Unknown, NY
+**Location:** Selkirk, NY
 
 **EPA Facility ID:** 100000181634
 

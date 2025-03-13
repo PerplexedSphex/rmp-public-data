@@ -1,6 +1,6 @@
-# Unknown
+# Smithfield Packaged Meats Corp. - Peru, IN
 
-**Location:** Unknown, IN
+**Location:** Peru, IN
 
 **EPA Facility ID:** 100000189477
 

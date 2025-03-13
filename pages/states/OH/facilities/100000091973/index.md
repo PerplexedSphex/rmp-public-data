@@ -1,6 +1,6 @@
-# Unknown
+# Kraton Corporation
 
-**Location:** Unknown, OH
+**Location:** Belpre, OH
 
 **EPA Facility ID:** 100000091973
 

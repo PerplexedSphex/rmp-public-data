@@ -1,6 +1,6 @@
-# Unknown
+# US Foods, Inc. Lexington
 
-**Location:** Unknown, NC
+**Location:** Lexington, NC
 
 **EPA Facility ID:** 100000215787
 

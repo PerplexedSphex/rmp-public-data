@@ -1,6 +1,6 @@
-# Unknown
+# Southern States Coop.- Hale Center, TX (71819)
 
-**Location:** Unknown, TX
+**Location:** Hale Center, TX
 
 **EPA Facility ID:** 100000095283
 

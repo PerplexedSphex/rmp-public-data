@@ -1,6 +1,6 @@
-# Unknown
+# Niklor Chemical Company, Inc.
 
-**Location:** Unknown, CA
+**Location:** Carson, CA
 
 **EPA Facility ID:** 100000056155
 

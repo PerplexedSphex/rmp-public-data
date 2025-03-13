@@ -1,6 +1,6 @@
-# Unknown
+# City of Wellington, KS Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Wellington, KS
 
 **EPA Facility ID:** 100000098262
 

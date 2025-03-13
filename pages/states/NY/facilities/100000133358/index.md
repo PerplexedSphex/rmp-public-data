@@ -1,6 +1,6 @@
-# Unknown
+# VanDeMark Chemical Inc.
 
-**Location:** Unknown, NY
+**Location:** Lockport, NY
 
 **EPA Facility ID:** 100000133358
 

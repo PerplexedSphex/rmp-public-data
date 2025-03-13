@@ -1,6 +1,6 @@
-# Unknown
+# Western Lake Superior Sanitary District
 
-**Location:** Unknown, MN
+**Location:** Duluth, MN
 
 **EPA Facility ID:** 100000129149
 

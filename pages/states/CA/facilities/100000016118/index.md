@@ -1,6 +1,6 @@
-# Unknown
+# Alameda Chemical & Scientific - HTP
 
-**Location:** Unknown, CA
+**Location:** Oakland, CA
 
 **EPA Facility ID:** 100000016118
 

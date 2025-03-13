@@ -1,6 +1,6 @@
-# Unknown
+# Lear Corporation - Detroit Operations
 
-**Location:** Unknown, MI
+**Location:** Detroit, MI
 
 **EPA Facility ID:** 100000037961
 

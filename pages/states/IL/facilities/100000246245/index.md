@@ -1,6 +1,6 @@
-# Unknown
+# FW Logistics 26th Street Facility
 
-**Location:** Unknown, IL
+**Location:** East St. Louis, IL
 
 **EPA Facility ID:** 100000246245
 

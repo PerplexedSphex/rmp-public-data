@@ -1,6 +1,6 @@
-# Unknown
+# Merck & Co., Inc., Flint River Plant
 
-**Location:** Unknown, GA
+**Location:** Albany, GA
 
 **EPA Facility ID:** 100000118561
 

@@ -1,6 +1,6 @@
-# Unknown
+# Wilbur-Ellis Company (Potlatch, ID)
 
-**Location:** Unknown, ID
+**Location:** Potlatch, ID
 
 **EPA Facility ID:** 100000072761
 

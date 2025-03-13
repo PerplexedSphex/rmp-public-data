@@ -1,6 +1,6 @@
-# Unknown
+# Franklin Logistics
 
-**Location:** Unknown, PA
+**Location:** Chambersburg, PA
 
 **EPA Facility ID:** 100000247002
 

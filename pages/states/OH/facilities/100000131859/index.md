@@ -1,6 +1,6 @@
-# Unknown
+# City of Dayton Miami Water Treatment Plant
 
-**Location:** Unknown, OH
+**Location:** Dayton, OH
 
 **EPA Facility ID:** 100000131859
 

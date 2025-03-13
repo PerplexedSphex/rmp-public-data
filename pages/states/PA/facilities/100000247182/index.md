@@ -1,6 +1,6 @@
-# Unknown
+# United Natural Foods, Inc. - Allentown
 
-**Location:** Unknown, PA
+**Location:** Schnecksville, PA
 
 **EPA Facility ID:** 100000247182
 

@@ -1,6 +1,6 @@
-# Unknown
+# Camp Douglas Farmers Co-op
 
-**Location:** Unknown, WI
+**Location:** Camp Douglas, WI
 
 **EPA Facility ID:** 100000132199
 

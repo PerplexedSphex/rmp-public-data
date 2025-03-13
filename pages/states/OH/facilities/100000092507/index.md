@@ -1,6 +1,6 @@
-# Unknown
+# W. H. Sammis Plant
 
-**Location:** Unknown, OH
+**Location:** Stratton, OH
 
 **EPA Facility ID:** 100000092507
 

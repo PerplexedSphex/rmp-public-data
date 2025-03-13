@@ -1,6 +1,6 @@
-# Unknown
+# Black Lake Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Goldonna, LA
 
 **EPA Facility ID:** 100000174777
 

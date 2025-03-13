@@ -1,6 +1,6 @@
-# Unknown
+# Intermountain Adhesives, L.L.C.
 
-**Location:** Unknown, SD
+**Location:** Rapid City, SD
 
 **EPA Facility ID:** 100000161139
 

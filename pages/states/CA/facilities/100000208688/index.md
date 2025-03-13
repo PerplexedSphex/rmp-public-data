@@ -1,6 +1,6 @@
-# Unknown
+# Royal Wine Corporation
 
-**Location:** Unknown, CA
+**Location:** Bakersfield, CA
 
 **EPA Facility ID:** 100000208688
 

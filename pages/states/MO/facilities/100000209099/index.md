@@ -1,6 +1,6 @@
-# Unknown
+# Savannah Drinking WTP
 
-**Location:** Unknown, MO
+**Location:** Amazonia, MO
 
 **EPA Facility ID:** 100000209099
 

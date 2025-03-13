@@ -1,6 +1,6 @@
-# Unknown
+# Charlotte #2 Terminal
 
-**Location:** Unknown, NC
+**Location:** Charlotte, NC
 
 **EPA Facility ID:** 100000217534
 

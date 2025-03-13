@@ -1,6 +1,6 @@
-# Unknown
+# Haltermann Products
 
-**Location:** Unknown, TX
+**Location:** Channelview, TX
 
 **EPA Facility ID:** 100000100384
 

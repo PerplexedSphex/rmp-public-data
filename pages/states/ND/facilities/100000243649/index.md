@@ -1,6 +1,6 @@
-# Unknown
+# Hay Butte NGL Upgrader
 
-**Location:** Unknown, ND
+**Location:** Alexander, ND
 
 **EPA Facility ID:** 100000243649
 

@@ -1,6 +1,6 @@
-# Unknown
+# THE DELONG CO., INC.  -  WINNEBAGO
 
-**Location:** Unknown, IL
+**Location:** WINNEBAGO, IL
 
 **EPA Facility ID:** 100000162272
 

@@ -1,6 +1,6 @@
-# Unknown
+# Limestone RNG Plant
 
-**Location:** Unknown, OH
+**Location:** Lowellville, OH
 
 **EPA Facility ID:** 100000249849
 

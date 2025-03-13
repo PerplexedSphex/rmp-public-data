@@ -1,6 +1,6 @@
-# Unknown
+# Grand Island Wastewater Treatment Plant
 
-**Location:** Unknown, NY
+**Location:** Grand Island, NY
 
 **EPA Facility ID:** 100000097815
 

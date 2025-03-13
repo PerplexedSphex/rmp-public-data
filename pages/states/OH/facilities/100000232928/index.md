@@ -1,6 +1,6 @@
-# Unknown
+# Austin Powder Red Diamond Facility
 
-**Location:** Unknown, OH
+**Location:** McArthur, OH
 
 **EPA Facility ID:** 100000232928
 

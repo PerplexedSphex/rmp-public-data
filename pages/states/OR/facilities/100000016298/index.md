@@ -1,6 +1,6 @@
-# Unknown
+# Hermiston Generating Plant
 
-**Location:** Unknown, OR
+**Location:** Hermiston, OR
 
 **EPA Facility ID:** 100000016298
 

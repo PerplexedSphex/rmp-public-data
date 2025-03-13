@@ -1,6 +1,6 @@
-# Unknown
+# North Louisiana Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Frierson, LA
 
 **EPA Facility ID:** 100000222877
 

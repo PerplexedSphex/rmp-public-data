@@ -1,6 +1,6 @@
-# Unknown
+# The Stroh Brewery Company, Longview
 
-**Location:** Unknown, TX
+**Location:** Longview, TX
 
 **EPA Facility ID:** 100000054273
 

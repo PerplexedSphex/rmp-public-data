@@ -1,6 +1,6 @@
-# Unknown
+# Lewisburg Water Treatment Plant
 
-**Location:** Unknown, TN
+**Location:** Lewisburg, TN
 
 **EPA Facility ID:** 100000113673
 

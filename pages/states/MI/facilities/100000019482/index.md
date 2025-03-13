@@ -1,6 +1,6 @@
-# Unknown
+# Allnex USA Inc.
 
-**Location:** Unknown, MI
+**Location:** Kalamazoo, MI
 
 **EPA Facility ID:** 100000019482
 

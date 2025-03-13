@@ -1,6 +1,6 @@
-# Unknown
+# Speltz Elevator, Inc.
 
-**Location:** Unknown, MN
+**Location:** Glenville, MN
 
 **EPA Facility ID:** 100000008626
 

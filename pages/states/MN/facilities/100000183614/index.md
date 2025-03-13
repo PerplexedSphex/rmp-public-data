@@ -1,6 +1,6 @@
-# Unknown
+# City of Waite Park Water Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Waite Park, MN
 
 **EPA Facility ID:** 100000183614
 

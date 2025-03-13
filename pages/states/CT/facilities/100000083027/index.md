@@ -1,6 +1,6 @@
-# Unknown
+# HP Hood LLC - Suffield, CT
 
-**Location:** Unknown, CT
+**Location:** Suffield, CT
 
 **EPA Facility ID:** 100000083027
 

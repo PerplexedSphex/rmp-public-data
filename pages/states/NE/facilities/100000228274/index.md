@@ -1,6 +1,6 @@
-# Unknown
+# Panhandle Cooperative Assn
 
-**Location:** Unknown, NE
+**Location:** Alliance, NE
 
 **EPA Facility ID:** 100000228274
 

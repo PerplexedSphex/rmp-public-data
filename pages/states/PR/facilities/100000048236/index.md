@@ -1,6 +1,6 @@
-# Unknown
+# Industrial Chemicals Corporation
 
-**Location:** Unknown, PR
+**Location:** Peñuelas, PR
 
 **EPA Facility ID:** 100000048236
 

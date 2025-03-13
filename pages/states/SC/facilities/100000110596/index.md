@@ -1,6 +1,6 @@
-# Unknown
+# Celanese Emulsions
 
-**Location:** Unknown, SC
+**Location:** Enoree, SC
 
 **EPA Facility ID:** 100000110596
 

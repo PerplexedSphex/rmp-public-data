@@ -1,6 +1,6 @@
-# Unknown
+# North Sauty Creek Water Treatment Plant
 
-**Location:** Unknown, AL
+**Location:** Scottsboro, AL
 
 **EPA Facility ID:** 100000203843
 

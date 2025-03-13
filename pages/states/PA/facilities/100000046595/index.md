@@ -1,6 +1,6 @@
-# Unknown
+# Evitts Creek Water Company
 
-**Location:** Unknown, PA
+**Location:** Bedford, PA
 
 **EPA Facility ID:** 100000046595
 

@@ -1,6 +1,6 @@
-# Unknown
+# Cottonwood Coop Oil Co.
 
-**Location:** Unknown, MN
+**Location:** Cottonwood, MN
 
 **EPA Facility ID:** 100000002132
 

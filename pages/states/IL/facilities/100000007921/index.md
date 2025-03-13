@@ -1,6 +1,6 @@
-# Unknown
+# City of Quincy, Water Department Filtration Facili
 
-**Location:** Unknown, IL
+**Location:** Quincy, IL
 
 **EPA Facility ID:** 100000007921
 

@@ -1,6 +1,6 @@
-# Unknown
+# Los Coyotes Water Reclamation Plant
 
-**Location:** Unknown, CA
+**Location:** Cerritos, CA
 
 **EPA Facility ID:** 100000145489
 

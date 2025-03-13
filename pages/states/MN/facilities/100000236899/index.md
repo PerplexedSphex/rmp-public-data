@@ -1,6 +1,6 @@
-# Unknown
+# Wellness Pet Company
 
-**Location:** Unknown, MN
+**Location:** South St Paul, MN
 
 **EPA Facility ID:** 100000236899
 

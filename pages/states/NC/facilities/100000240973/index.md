@@ -1,6 +1,6 @@
-# Unknown
+# Clinton Terminal Rail Tank Car Storage Site
 
-**Location:** Unknown, NC
+**Location:** Clinton, NC
 
 **EPA Facility ID:** 100000240973
 

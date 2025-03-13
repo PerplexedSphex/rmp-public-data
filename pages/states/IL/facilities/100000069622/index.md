@@ -1,6 +1,6 @@
-# Unknown
+# Wabash Valley Service Co.-Belle Prairie
 
-**Location:** Unknown, IL
+**Location:** Dahlgren, IL
 
 **EPA Facility ID:** 100000069622
 

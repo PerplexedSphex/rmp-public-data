@@ -1,6 +1,6 @@
-# Unknown
+# Pelican Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Patterson, LA
 
 **EPA Facility ID:** 100000101212
 

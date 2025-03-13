@@ -1,6 +1,6 @@
-# Unknown
+# Harrington, WA 320
 
-**Location:** Unknown, WA
+**Location:** Harrington, WA
 
 **EPA Facility ID:** 100000027295
 

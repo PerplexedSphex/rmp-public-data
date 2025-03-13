@@ -1,6 +1,6 @@
-# Unknown
+# Troudt 18-27 Pad
 
-**Location:** Unknown, CO
+**Location:** Greeley, CO
 
 **EPA Facility ID:** 100000239146
 

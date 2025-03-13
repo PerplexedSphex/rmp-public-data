@@ -1,6 +1,6 @@
-# Unknown
+# Kodak Park Site - 12/12/2005 Revision
 
-**Location:** Unknown, NY
+**Location:** Rochester, NY
 
 **EPA Facility ID:** 100000067045
 

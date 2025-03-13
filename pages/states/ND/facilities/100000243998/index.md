@@ -1,6 +1,6 @@
-# Unknown
+# Legacy Cooperative - Hwy 3
 
-**Location:** Unknown, ND
+**Location:** Willow City, ND
 
 **EPA Facility ID:** 100000243998
 

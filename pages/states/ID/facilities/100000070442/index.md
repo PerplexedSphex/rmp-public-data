@@ -1,6 +1,6 @@
-# Unknown
+# Lewiston Grain Growers-Cavendish
 
-**Location:** Unknown, ID
+**Location:** Cavendish, ID
 
 **EPA Facility ID:** 100000070442
 

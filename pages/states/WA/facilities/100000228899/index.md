@@ -1,6 +1,6 @@
-# Unknown
+# Fossum Facility
 
-**Location:** Unknown, WA
+**Location:** Yakima, WA
 
 **EPA Facility ID:** 100000228899
 

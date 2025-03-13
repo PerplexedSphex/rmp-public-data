@@ -1,6 +1,6 @@
-# Unknown
+# Lockhart Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Lockhart, TX
 
 **EPA Facility ID:** 100000140796
 

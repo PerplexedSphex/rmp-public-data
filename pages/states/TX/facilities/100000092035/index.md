@@ -1,6 +1,6 @@
-# Unknown
+# Ineos US Chemicals Company Texas City Plant
 
-**Location:** Unknown, TX
+**Location:** Texas City, TX
 
 **EPA Facility ID:** 100000092035
 

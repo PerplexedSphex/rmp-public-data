@@ -1,6 +1,6 @@
-# Unknown
+# J.B. Gifford WWTP
 
-**Location:** Unknown, IN
+**Location:** Michigan City, IN
 
 **EPA Facility ID:** 100000213262
 

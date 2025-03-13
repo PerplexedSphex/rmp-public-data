@@ -1,6 +1,6 @@
-# Unknown
+# East Grand Forks Simplot Grower Solutions
 
-**Location:** Unknown, MN
+**Location:** East Grand Forks, MN
 
 **EPA Facility ID:** 100000052925
 

@@ -1,6 +1,6 @@
-# Unknown
+# Dexter LPG Terminal
 
-**Location:** Unknown, MO
+**Location:** Dexter, MO
 
 **EPA Facility ID:** 100000161709
 

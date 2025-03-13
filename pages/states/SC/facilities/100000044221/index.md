@@ -1,6 +1,6 @@
-# Unknown
+# Manchester Creek Waste Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Rock Hill, SC
 
 **EPA Facility ID:** 100000044221
 

@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water-Shelbyville
 
-**Location:** Unknown, IN
+**Location:** Shelbyville, IN
 
 **EPA Facility ID:** 100000025019
 

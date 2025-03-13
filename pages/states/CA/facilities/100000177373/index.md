@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics - Bandini
 
-**Location:** Unknown, CA
+**Location:** Vernon, CA
 
 **EPA Facility ID:** 100000177373
 

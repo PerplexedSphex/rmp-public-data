@@ -1,6 +1,6 @@
-# Unknown
+# NORPAC Foods Inc. - Plant #7
 
-**Location:** Unknown, OR
+**Location:** Salem, OR
 
 **EPA Facility ID:** 100000033402
 

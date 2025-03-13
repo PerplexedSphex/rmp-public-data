@@ -1,6 +1,6 @@
-# Unknown
+# Nicholas and Company
 
-**Location:** Unknown, UT
+**Location:** Salt lake City, UT
 
 **EPA Facility ID:** 100000203488
 

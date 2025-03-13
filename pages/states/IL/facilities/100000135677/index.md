@@ -1,6 +1,6 @@
-# Unknown
+# Logan Agri-Service, Inc
 
-**Location:** Unknown, IL
+**Location:** Griggsville, IL
 
 **EPA Facility ID:** 100000135677
 

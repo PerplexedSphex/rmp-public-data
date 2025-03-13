@@ -1,6 +1,6 @@
-# Unknown
+# Kaneka North America LLC
 
-**Location:** Unknown, TX
+**Location:** Pasadena, TX
 
 **EPA Facility ID:** 100000025705
 

@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - Holyoke
 
-**Location:** Unknown, CO
+**Location:** Holyoke, CO
 
 **EPA Facility ID:** 100000102202
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bellingham Cold Storage Co. - Squalicum
 
-**Location:** Unknown, WA
+**Location:** Bellingham, WA
 
 **EPA Facility ID:** 100000122574
 

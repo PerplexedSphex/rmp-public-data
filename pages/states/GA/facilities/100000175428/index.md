@@ -1,6 +1,6 @@
-# Unknown
+# Land Application System
 
-**Location:** Unknown, GA
+**Location:** Dalton, GA
 
 **EPA Facility ID:** 100000175428
 

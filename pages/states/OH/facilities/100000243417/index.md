@@ -1,6 +1,6 @@
-# Unknown
+# Terminal Warehouse, Inc.
 
-**Location:** Unknown, OH
+**Location:** Akron, OH
 
 **EPA Facility ID:** 100000243417
 

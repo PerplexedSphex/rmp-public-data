@@ -1,6 +1,6 @@
-# Unknown
+# Escalante Station
 
-**Location:** Unknown, NM
+**Location:** Prewitt, NM
 
 **EPA Facility ID:** 100000078042
 

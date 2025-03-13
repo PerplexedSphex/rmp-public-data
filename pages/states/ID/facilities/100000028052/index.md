@@ -1,6 +1,6 @@
-# Unknown
+# Lamb Weston American Falls Facility
 
-**Location:** Unknown, ID
+**Location:** American Falls, ID
 
 **EPA Facility ID:** 100000028052
 

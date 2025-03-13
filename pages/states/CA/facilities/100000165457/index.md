@@ -1,6 +1,6 @@
-# Unknown
+# City of Fort Bragg Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Fort Bragg, CA
 
 **EPA Facility ID:** 100000165457
 

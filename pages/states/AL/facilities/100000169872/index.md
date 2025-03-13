@@ -1,6 +1,6 @@
-# Unknown
+# U.S. Army Garrison - Redstone Arsenal (WTP 3)
 
-**Location:** Unknown, AL
+**Location:** Redstone Arsenal, AL
 
 **EPA Facility ID:** 100000169872
 

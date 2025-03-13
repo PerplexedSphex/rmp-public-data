@@ -1,6 +1,6 @@
-# Unknown
+# Landus Cooperative - Dedham
 
-**Location:** Unknown, IA
+**Location:** Dedham, IA
 
 **EPA Facility ID:** 100000108894
 

@@ -1,6 +1,6 @@
-# Unknown
+# Russell NH3 Plant
 
-**Location:** Unknown, KS
+**Location:** Russell, KS
 
 **EPA Facility ID:** 100000138273
 

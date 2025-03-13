@@ -1,6 +1,6 @@
-# Unknown
+# Aurora Cooperative  Harvard NH3 Plant
 
-**Location:** Unknown, NE
+**Location:** Harvard, NE
 
 **EPA Facility ID:** 100000250382
 

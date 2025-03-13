@@ -1,6 +1,6 @@
-# Unknown
+# Suzanna's Kitchen, Inc.
 
-**Location:** Unknown, GA
+**Location:** Duluth, GA
 
 **EPA Facility ID:** 100000166606
 

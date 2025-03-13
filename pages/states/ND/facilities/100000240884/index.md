@@ -1,6 +1,6 @@
-# Unknown
+# Flarecatcher at the Pelton Pad
 
-**Location:** Unknown, ND
+**Location:** Killdeer, ND
 
 **EPA Facility ID:** 100000240884
 

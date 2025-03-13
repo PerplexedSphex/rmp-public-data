@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Cooperative - Greenwood
 
-**Location:** Unknown, NE
+**Location:** Greenwood, NE
 
 **EPA Facility ID:** 100000079595
 

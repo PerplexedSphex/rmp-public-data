@@ -1,6 +1,6 @@
-# Unknown
+# American Refining Group, Bradford Refinery
 
-**Location:** Unknown, PA
+**Location:** Bradford, PA
 
 **EPA Facility ID:** 100000140563
 

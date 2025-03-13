@@ -1,6 +1,6 @@
-# Unknown
+# Lancaster Propane Gas Terminal
 
-**Location:** Unknown, PA
+**Location:** Mount Joy, PA
 
 **EPA Facility ID:** 100000181279
 

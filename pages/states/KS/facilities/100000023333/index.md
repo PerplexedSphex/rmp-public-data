@@ -1,6 +1,6 @@
-# Unknown
+# Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Osawatomie, KS
 
 **EPA Facility ID:** 100000023333
 

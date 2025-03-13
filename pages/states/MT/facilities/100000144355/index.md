@@ -1,6 +1,6 @@
-# Unknown
+# Montana Sulphur & Chemical Company
 
-**Location:** Unknown, MT
+**Location:** NE of Billings, MT
 
 **EPA Facility ID:** 100000144355
 

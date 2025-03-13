@@ -1,6 +1,6 @@
-# Unknown
+# Chipeta Gas Plant
 
-**Location:** Unknown, UT
+**Location:** Vernal, UT
 
 **EPA Facility ID:** 100000200668
 

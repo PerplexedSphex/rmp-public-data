@@ -1,6 +1,6 @@
-# Unknown
+# City of Gallup Wastewater Treatment Plant
 
-**Location:** Unknown, NM
+**Location:** Gallup, NM
 
 **EPA Facility ID:** 100000148271
 

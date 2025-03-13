@@ -1,6 +1,6 @@
-# Unknown
+# Harcros Chemicals Inc. - Vicksburg
 
-**Location:** Unknown, MS
+**Location:** Vicksburg, MS
 
 **EPA Facility ID:** 100000196995
 

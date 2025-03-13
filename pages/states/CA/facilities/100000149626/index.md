@@ -1,6 +1,6 @@
-# Unknown
+# City of Fortuna Wastewater Treatment Plant
 
-**Location:** Unknown, CA
+**Location:** Fortuna, CA
 
 **EPA Facility ID:** 100000149626
 

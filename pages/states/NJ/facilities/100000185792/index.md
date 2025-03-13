@@ -1,6 +1,6 @@
-# Unknown
+# PSEG Fossil, LLC - Mercer Generating Station
 
-**Location:** Unknown, NJ
+**Location:** Hamilton, NJ
 
 **EPA Facility ID:** 100000185792
 

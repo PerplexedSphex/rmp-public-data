@@ -1,6 +1,6 @@
-# Unknown
+# Ag Partners Coop - Ellsworth
 
-**Location:** Unknown, WI
+**Location:** East Ellsworth, WI
 
 **EPA Facility ID:** 100000001614
 

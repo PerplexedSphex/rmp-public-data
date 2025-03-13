@@ -1,6 +1,6 @@
-# Unknown
+# Southern Resin, Inc.
 
-**Location:** Unknown, NC
+**Location:** Thomasville, NC
 
 **EPA Facility ID:** 100000167204
 

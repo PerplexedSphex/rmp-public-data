@@ -1,6 +1,6 @@
-# Unknown
+# Lost Pines 1 Power Plant
 
-**Location:** Unknown, TX
+**Location:** Bastrop, TX
 
 **EPA Facility ID:** 100000175017
 

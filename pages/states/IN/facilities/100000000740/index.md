@@ -1,6 +1,6 @@
-# Unknown
+# City of Madison, POTW
 
-**Location:** Unknown, IN
+**Location:** Madison, IN
 
 **EPA Facility ID:** 100000000740
 

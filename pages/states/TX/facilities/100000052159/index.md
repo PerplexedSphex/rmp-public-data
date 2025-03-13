@@ -1,6 +1,6 @@
-# Unknown
+# INEOS USA LLC - Hobbs Fractionation Complex
 
-**Location:** Unknown, TX
+**Location:** Seminole, TX
 
 **EPA Facility ID:** 100000052159
 

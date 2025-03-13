@@ -1,6 +1,6 @@
-# Unknown
+# Enchanted Parks, Inc.
 
-**Location:** Unknown, WA
+**Location:** Federal Way, WA
 
 **EPA Facility ID:** 100000171146
 

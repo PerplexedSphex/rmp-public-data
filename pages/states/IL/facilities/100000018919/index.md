@@ -1,6 +1,6 @@
-# Unknown
+# Herrin, LTD (Buffalo)
 
-**Location:** Unknown, IL
+**Location:** Buffalo, IL
 
 **EPA Facility ID:** 100000018919
 

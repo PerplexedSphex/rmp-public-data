@@ -1,6 +1,6 @@
-# Unknown
+# Gordo's, LLC
 
-**Location:** Unknown, GA
+**Location:** Atlanta, GA
 
 **EPA Facility ID:** 100000061782
 

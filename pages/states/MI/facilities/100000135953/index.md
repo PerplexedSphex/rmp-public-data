@@ -1,6 +1,6 @@
-# Unknown
+# Fritz Products, Inc
 
-**Location:** Unknown, MI
+**Location:** River Rouge, MI
 
 **EPA Facility ID:** 100000135953
 

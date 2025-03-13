@@ -1,6 +1,6 @@
-# Unknown
+# Olin Chlor-Alkali, Charleston Plant
 
-**Location:** Unknown, TN
+**Location:** Charleston, TN
 
 **EPA Facility ID:** 100000074439
 

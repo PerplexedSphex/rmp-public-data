@@ -1,6 +1,6 @@
-# Unknown
+# J. G. Beacham Water Treatment Plant
 
-**Location:** Unknown, GA
+**Location:** Athens, GA
 
 **EPA Facility ID:** 100000163324
 

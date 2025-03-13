@@ -1,6 +1,6 @@
-# Unknown
+# Gaysport Processing Plant
 
-**Location:** Unknown, OH
+**Location:** Blue Rock, OH
 
 **EPA Facility ID:** 100000228112
 

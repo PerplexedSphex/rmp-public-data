@@ -1,6 +1,6 @@
-# Unknown
+# Highwater Ethanol, LLC
 
-**Location:** Unknown, MN
+**Location:** Lamberton, MN
 
 **EPA Facility ID:** 100000210719
 

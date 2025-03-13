@@ -1,6 +1,6 @@
-# Unknown
+# BrucePac - Durant
 
-**Location:** Unknown, OK
+**Location:** Durant, OK
 
 **EPA Facility ID:** 100000231858
 

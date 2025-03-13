@@ -1,6 +1,6 @@
-# Unknown
+# Rohm and Haas Chemicals, LLC, Ringwood Facility
 
-**Location:** Unknown, IL
+**Location:** Ringwood, IL
 
 **EPA Facility ID:** 100000042759
 

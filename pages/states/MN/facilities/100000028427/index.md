@@ -1,6 +1,6 @@
-# Unknown
+# Hopkins Cold Storage
 
-**Location:** Unknown, MN
+**Location:** Hopkins, MN
 
 **EPA Facility ID:** 100000028427
 

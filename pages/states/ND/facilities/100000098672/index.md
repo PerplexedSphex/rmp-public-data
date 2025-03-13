@@ -1,6 +1,6 @@
-# Unknown
+# Lake Region Grain Cooperative - Crary Station
 
-**Location:** Unknown, ND
+**Location:** Crary, ND
 
 **EPA Facility ID:** 100000098672
 

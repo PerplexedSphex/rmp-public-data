@@ -1,6 +1,6 @@
-# Unknown
+# Thorn Apple Valley, Inc.   Grand Rapids Division
 
-**Location:** Unknown, MI
+**Location:** Grand Rapids, MI
 
 **EPA Facility ID:** 100000015075
 

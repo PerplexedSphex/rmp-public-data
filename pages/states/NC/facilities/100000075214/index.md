@@ -1,6 +1,6 @@
-# Unknown
+# Gold Kist Siler City Processing Plant
 
-**Location:** Unknown, NC
+**Location:** Siler City, NC
 
 **EPA Facility ID:** 100000075214
 

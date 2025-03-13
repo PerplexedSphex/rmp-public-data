@@ -1,6 +1,6 @@
-# Unknown
+# CHS INC - Galchutt
 
-**Location:** Unknown, ND
+**Location:** Galchutt, ND
 
 **EPA Facility ID:** 100000070111
 

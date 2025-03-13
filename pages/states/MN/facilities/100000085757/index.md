@@ -1,6 +1,6 @@
-# Unknown
+# Brooten, MN
 
-**Location:** Unknown, MN
+**Location:** Brooten, MN
 
 **EPA Facility ID:** 100000085757
 

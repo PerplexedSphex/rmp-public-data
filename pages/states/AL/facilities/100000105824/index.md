@@ -1,6 +1,6 @@
-# Unknown
+# Dothan Utilities Omussee Creek WWTP
 
-**Location:** Unknown, AL
+**Location:** Dothan, AL
 
 **EPA Facility ID:** 100000105824
 

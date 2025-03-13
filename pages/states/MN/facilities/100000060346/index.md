@@ -1,6 +1,6 @@
-# Unknown
+# Central Rivers Coop
 
-**Location:** Unknown, MN
+**Location:** Albertville, MN
 
 **EPA Facility ID:** 100000060346
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Waxahachie Wastewater Treatment Plant
 
-**Location:** Unknown, TX
+**Location:** Waxahachie, TX
 
 **EPA Facility ID:** 100000119711
 

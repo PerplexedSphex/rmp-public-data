@@ -1,6 +1,6 @@
-# Unknown
+# Raptor Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Cotulla, TX
 
 **EPA Facility ID:** 100000235319
 

@@ -1,6 +1,6 @@
-# Unknown
+# Medford Compressor Station
 
-**Location:** Unknown, OK
+**Location:** Medford, OK
 
 **EPA Facility ID:** 100000221912
 

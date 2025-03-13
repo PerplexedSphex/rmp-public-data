@@ -1,6 +1,6 @@
-# Unknown
+# Mahoning Valley Sanitary District
 
-**Location:** Unknown, OH
+**Location:** Mineral Ridge, OH
 
 **EPA Facility ID:** 100000028579
 

@@ -1,6 +1,6 @@
-# Unknown
+# City of Seaside Water Treatment Plant
 
-**Location:** Unknown, OR
+**Location:** Seaside, OR
 
 **EPA Facility ID:** 100000176347
 

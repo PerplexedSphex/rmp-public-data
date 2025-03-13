@@ -1,6 +1,6 @@
-# Unknown
+# INEOS USA LLC -  Stratton Ridge Facility
 
-**Location:** Unknown, TX
+**Location:** Richwood, TX
 
 **EPA Facility ID:** 100000103675
 

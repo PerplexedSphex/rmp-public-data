@@ -1,6 +1,6 @@
-# Unknown
+# Chippewa Valley Ethanol Company, LLLP
 
-**Location:** Unknown, MN
+**Location:** Benson, MN
 
 **EPA Facility ID:** 100000015583
 

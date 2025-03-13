@@ -1,6 +1,6 @@
-# Unknown
+# City of Hickory Northeast WWTP
 
-**Location:** Unknown, NC
+**Location:** Hickory, NC
 
 **EPA Facility ID:** 100000032234
 

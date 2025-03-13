@@ -1,6 +1,6 @@
-# Unknown
+# Water Reclamation Plant No. 9
 
-**Location:** Unknown, CA
+**Location:** Palm Desert, CA
 
 **EPA Facility ID:** 100000167721
 

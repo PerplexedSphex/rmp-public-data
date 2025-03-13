@@ -1,6 +1,6 @@
-# Unknown
+# Coho Moose Lodge Production Facility
 
-**Location:** Unknown, MS
+**Location:** Laurel, MS
 
 **EPA Facility ID:** 100000104308
 

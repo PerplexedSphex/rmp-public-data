@@ -1,6 +1,6 @@
-# Unknown
+# Gregory Natural Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Sinton, TX
 
 **EPA Facility ID:** 100000013362
 

@@ -1,6 +1,6 @@
-# Unknown
+# Golden State Foods
 
-**Location:** Unknown, AL
+**Location:** Opelika, AL
 
 **EPA Facility ID:** 100000241142
 

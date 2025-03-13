@@ -1,6 +1,6 @@
-# Unknown
+# The Upper Bear Creek Water Filter Plant
 
-**Location:** Unknown, AL
+**Location:** Bear Creek, AL
 
 **EPA Facility ID:** 100000022487
 

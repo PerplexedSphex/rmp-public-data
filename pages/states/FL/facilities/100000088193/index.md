@@ -1,6 +1,6 @@
-# Unknown
+# City of West Palm Beach Water Treatment Plant
 
-**Location:** Unknown, FL
+**Location:** West Palm Beach, FL
 
 **EPA Facility ID:** 100000088193
 

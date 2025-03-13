@@ -1,6 +1,6 @@
-# Unknown
+# City of Bend Water Treatment Facility
 
-**Location:** Unknown, OR
+**Location:** Bend, OR
 
 **EPA Facility ID:** 100000156662
 

@@ -1,6 +1,6 @@
-# Unknown
+# Kenova Natural Gas Liquids Extraction Facility
 
-**Location:** Unknown, WV
+**Location:** Kenova, WV
 
 **EPA Facility ID:** 100000020577
 

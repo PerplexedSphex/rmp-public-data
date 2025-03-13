@@ -1,6 +1,6 @@
-# Unknown
+# Helena Agri-Enterprises, LLC - Wayne, OH Facility
 
-**Location:** Unknown, OH
+**Location:** Wayne, OH
 
 **EPA Facility ID:** 100000246708
 

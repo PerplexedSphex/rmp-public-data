@@ -1,6 +1,6 @@
-# Unknown
+# Phibro-Tech, Inc.
 
-**Location:** Unknown, SC
+**Location:** Sumter, SC
 
 **EPA Facility ID:** 100000043534
 

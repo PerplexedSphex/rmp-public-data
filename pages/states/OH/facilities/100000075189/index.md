@@ -1,6 +1,6 @@
-# Unknown
+# Pilot Chemical Company of Ohio Lockland Plant
 
-**Location:** Unknown, OH
+**Location:** LOCKLAND, OH
 
 **EPA Facility ID:** 100000075189
 

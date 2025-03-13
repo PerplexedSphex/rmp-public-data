@@ -1,6 +1,6 @@
-# Unknown
+# DRP Gibbstown Logistics Center
 
-**Location:** Unknown, NJ
+**Location:** Gibbstown, NJ
 
 **EPA Facility ID:** 100000163093
 

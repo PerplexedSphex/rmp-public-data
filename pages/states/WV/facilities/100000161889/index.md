@@ -1,6 +1,6 @@
-# Unknown
+# Elkins Water Works
 
-**Location:** Unknown, WV
+**Location:** Elkins, WV
 
 **EPA Facility ID:** 100000161889
 

@@ -1,6 +1,6 @@
-# Unknown
+# Pennexx Foods
 
-**Location:** Unknown, PA
+**Location:** Philadelphia, PA
 
 **EPA Facility ID:** 100000139995
 

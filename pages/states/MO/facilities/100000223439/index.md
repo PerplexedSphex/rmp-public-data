@@ -1,6 +1,6 @@
-# Unknown
+# MoKan Seed & Chemical LLC
 
-**Location:** Unknown, MO
+**Location:** Harrisonville, MO
 
 **EPA Facility ID:** 100000223439
 

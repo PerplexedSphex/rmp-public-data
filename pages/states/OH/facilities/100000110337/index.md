@@ -1,6 +1,6 @@
-# Unknown
+# Lake County Water Treatment West
 
-**Location:** Unknown, OH
+**Location:** Willoughby, OH
 
 **EPA Facility ID:** 100000110337
 

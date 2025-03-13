@@ -1,6 +1,6 @@
-# Unknown
+# Daniel Electric Generating Plant
 
-**Location:** Unknown, MS
+**Location:** Moss Point, MS
 
 **EPA Facility ID:** 100000136186
 

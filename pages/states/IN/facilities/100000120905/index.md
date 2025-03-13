@@ -1,6 +1,6 @@
-# Unknown
+# Laughery Valley Ag - North Plant
 
-**Location:** Unknown, IN
+**Location:** Osgood, IN
 
 **EPA Facility ID:** 100000120905
 

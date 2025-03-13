@@ -1,6 +1,6 @@
-# Unknown
+# Enterprise North Terrebonne Gas Plant
 
-**Location:** Unknown, LA
+**Location:** Gibson, LA
 
 **EPA Facility ID:** 100000000802
 

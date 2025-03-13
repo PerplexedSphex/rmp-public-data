@@ -1,6 +1,6 @@
-# Unknown
+# Wenatchee Wastewater Treatment Plant
 
-**Location:** Unknown, WA
+**Location:** Wenatchee, WA
 
 **EPA Facility ID:** 100000147058
 

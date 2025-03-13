@@ -1,6 +1,6 @@
-# Unknown
+# Sewage Treatment Plant No. 2
 
-**Location:** Unknown, KS
+**Location:** Wichita, KS
 
 **EPA Facility ID:** 100000107699
 

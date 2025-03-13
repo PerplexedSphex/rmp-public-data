@@ -1,6 +1,6 @@
-# Unknown
+# Glo-Tex International, Inc.
 
-**Location:** Unknown, SC
+**Location:** Spartanburg, SC
 
 **EPA Facility ID:** 100000197379
 

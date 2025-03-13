@@ -1,6 +1,6 @@
-# Unknown
+# Americold Logistics - Plant City, Frontage
 
-**Location:** Unknown, FL
+**Location:** Plant City, FL
 
 **EPA Facility ID:** 100000133367
 

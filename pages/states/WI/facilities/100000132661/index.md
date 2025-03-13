@@ -1,6 +1,6 @@
-# Unknown
+# Ripon Foods, Inc.
 
-**Location:** Unknown, WI
+**Location:** Ripon, WI
 
 **EPA Facility ID:** 100000132661
 

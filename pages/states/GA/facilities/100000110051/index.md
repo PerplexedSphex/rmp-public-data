@@ -1,6 +1,6 @@
-# Unknown
+# Duron Paints and Wallcoverings
 
-**Location:** Unknown, GA
+**Location:** Atlanta, GA
 
 **EPA Facility ID:** 100000110051
 

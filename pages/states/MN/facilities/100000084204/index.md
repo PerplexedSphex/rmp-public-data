@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc. - LeRoy
 
-**Location:** Unknown, MN
+**Location:** Leroy, MN
 
 **EPA Facility ID:** 100000084204
 

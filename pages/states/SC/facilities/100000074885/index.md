@@ -1,6 +1,6 @@
-# Unknown
+# Hitachi Electronic Devices (USA), Inc.
 
-**Location:** Unknown, SC
+**Location:** Greenville, SC
 
 **EPA Facility ID:** 100000074885
 

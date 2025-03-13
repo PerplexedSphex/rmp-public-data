@@ -1,6 +1,6 @@
-# Unknown
+# Hopeton Gas Plant
 
-**Location:** Unknown, OK
+**Location:** Dacoma, OK
 
 **EPA Facility ID:** 100000209589
 

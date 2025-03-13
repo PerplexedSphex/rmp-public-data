@@ -1,6 +1,6 @@
-# Unknown
+# Northeast Waste Water Treatment Plant
 
-**Location:** Unknown, LA
+**Location:** Lafayette, LA
 
 **EPA Facility ID:** 100000051347
 

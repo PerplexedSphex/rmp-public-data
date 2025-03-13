@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc.- Denton
 
-**Location:** Unknown, MT
+**Location:** Denton, MT
 
 **EPA Facility ID:** 100000167106
 

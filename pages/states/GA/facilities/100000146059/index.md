@@ -1,6 +1,6 @@
-# Unknown
+# Paulk & Griffin, Inc.
 
-**Location:** Unknown, GA
+**Location:** Ambrose, GA
 
 **EPA Facility ID:** 100000146059
 

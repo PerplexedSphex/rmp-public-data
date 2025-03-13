@@ -1,6 +1,6 @@
-# Unknown
+# Ottawa Water Treatment Plant
 
-**Location:** Unknown, KS
+**Location:** Ottawa, KS
 
 **EPA Facility ID:** 100000155743
 

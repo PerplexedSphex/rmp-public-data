@@ -1,6 +1,6 @@
-# Unknown
+# Frontier Coop - Adams
 
-**Location:** Unknown, NE
+**Location:** Adams, NE
 
 **EPA Facility ID:** 100000152979
 

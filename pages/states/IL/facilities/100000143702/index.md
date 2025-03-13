@@ -1,6 +1,6 @@
-# Unknown
+# Nalco Company -- Plant 1
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000143702
 

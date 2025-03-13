@@ -1,6 +1,6 @@
-# Unknown
+# SJWD Water Treatment Plant
 
-**Location:** Unknown, SC
+**Location:** Lyman, SC
 
 **EPA Facility ID:** 100000035124
 

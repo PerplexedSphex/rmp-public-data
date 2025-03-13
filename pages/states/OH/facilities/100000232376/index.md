@@ -1,6 +1,6 @@
-# Unknown
+# Daisy Brand - Wooster
 
-**Location:** Unknown, OH
+**Location:** Wooster, OH
 
 **EPA Facility ID:** 100000232376
 

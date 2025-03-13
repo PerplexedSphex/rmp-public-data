@@ -1,6 +1,6 @@
-# Unknown
+# Benedum Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Midkiff, TX
 
 **EPA Facility ID:** 100000063682
 

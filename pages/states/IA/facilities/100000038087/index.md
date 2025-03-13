@@ -1,6 +1,6 @@
-# Unknown
+# NEW HORIZON FS, INC.
 
-**Location:** Unknown, IA
+**Location:** PRAIRIEBURG, IA
 
 **EPA Facility ID:** 100000038087
 

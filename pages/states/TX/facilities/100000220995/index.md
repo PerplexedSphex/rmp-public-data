@@ -1,6 +1,6 @@
-# Unknown
+# T-Bar Intermediate Chlorination Station
 
-**Location:** Unknown, TX
+**Location:** Goldsmith, TX
 
 **EPA Facility ID:** 100000220995
 

@@ -1,6 +1,6 @@
-# Unknown
+# Arkema Coating Resins Torrance Facility
 
-**Location:** Unknown, CA
+**Location:** Torrance, CA
 
 **EPA Facility ID:** 100000057458
 

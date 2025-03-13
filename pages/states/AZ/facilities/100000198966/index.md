@@ -1,6 +1,6 @@
-# Unknown
+# Republic Plastics, L.P.
 
-**Location:** Unknown, AZ
+**Location:** San Manuel, AZ
 
 **EPA Facility ID:** 100000198966
 

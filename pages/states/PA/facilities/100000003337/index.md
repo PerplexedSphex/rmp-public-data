@@ -1,6 +1,6 @@
-# Unknown
+# Greensburg Propane
 
-**Location:** Unknown, PA
+**Location:** Scottdale, PA
 
 **EPA Facility ID:** 100000003337
 

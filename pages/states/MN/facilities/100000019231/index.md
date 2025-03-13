@@ -1,6 +1,6 @@
-# Unknown
+# New Vision Coop
 
-**Location:** Unknown, MN
+**Location:** Jeffers, MN
 
 **EPA Facility ID:** 100000019231
 

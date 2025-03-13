@@ -1,6 +1,6 @@
-# Unknown
+# Carthage Water and Electric
 
-**Location:** Unknown, MO
+**Location:** Carthage, MO
 
 **EPA Facility ID:** 100000053425
 

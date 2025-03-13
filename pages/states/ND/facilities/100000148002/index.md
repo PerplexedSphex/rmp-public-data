@@ -1,6 +1,6 @@
-# Unknown
+# Scranton Equity Exchange Anhydrous Plant
 
-**Location:** Unknown, ND
+**Location:** Scranton, ND
 
 **EPA Facility ID:** 100000148002
 

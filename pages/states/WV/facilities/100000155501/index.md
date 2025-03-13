@@ -1,6 +1,6 @@
-# Unknown
+# Vandalia Resources, Inc.
 
-**Location:** Unknown, WV
+**Location:** Bickmore, WV
 
 **EPA Facility ID:** 100000155501
 

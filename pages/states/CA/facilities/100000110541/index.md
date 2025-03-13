@@ -1,6 +1,6 @@
-# Unknown
+# Water Pollutional Control Plant
 
-**Location:** Unknown, CA
+**Location:** Richmond, CA
 
 **EPA Facility ID:** 100000110541
 

@@ -1,6 +1,6 @@
-# Unknown
+# Southland Chemical Company
 
-**Location:** Unknown, CA
+**Location:** Sylmar, CA
 
 **EPA Facility ID:** 100000084419
 

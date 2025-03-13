@@ -1,6 +1,6 @@
-# Unknown
+# Monitor Sugar Company
 
-**Location:** Unknown, MI
+**Location:** Bay City, MI
 
 **EPA Facility ID:** 100000042232
 

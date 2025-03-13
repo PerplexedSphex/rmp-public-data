@@ -1,6 +1,6 @@
-# Unknown
+# Wheeler Gas Plant
 
-**Location:** Unknown, TX
+**Location:** Wheeler, TX
 
 **EPA Facility ID:** 100000222387
 

@@ -1,6 +1,6 @@
-# Unknown
+# Mammoth Complex
 
-**Location:** Unknown, CA
+**Location:** Mammoth Lakes, CA
 
 **EPA Facility ID:** 100000091713
 

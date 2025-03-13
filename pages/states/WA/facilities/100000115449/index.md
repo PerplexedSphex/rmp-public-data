@@ -1,6 +1,6 @@
-# Unknown
+# Simplot U.S. Food Group Holdings, LLC
 
-**Location:** Unknown, WA
+**Location:** Moses Lake, WA
 
 **EPA Facility ID:** 100000115449
 

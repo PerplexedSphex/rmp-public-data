@@ -1,6 +1,6 @@
-# Unknown
+# Cedar NH3
 
-**Location:** Unknown, KS
+**Location:** Cedar, KS
 
 **EPA Facility ID:** 100000104889
 

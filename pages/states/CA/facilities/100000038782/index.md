@@ -1,6 +1,6 @@
-# Unknown
+# GWP Utility Operations Center Storage
 
-**Location:** Unknown, CA
+**Location:** Glendale, CA
 
 **EPA Facility ID:** 100000038782
 

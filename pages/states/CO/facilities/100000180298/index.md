@@ -1,6 +1,6 @@
-# Unknown
+# Cotter Corporation Canon City Milling Facility
 
-**Location:** Unknown, CO
+**Location:** Canon City, CO
 
 **EPA Facility ID:** 100000180298
 

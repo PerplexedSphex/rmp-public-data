@@ -1,6 +1,6 @@
-# Unknown
+# Neoga, IL 725
 
-**Location:** Unknown, IL
+**Location:** Neoga, IL
 
 **EPA Facility ID:** 100000116144
 

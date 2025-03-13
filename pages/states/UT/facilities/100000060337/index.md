@@ -1,6 +1,6 @@
-# Unknown
+# Natural Buttes Station
 
-**Location:** Unknown, UT
+**Location:** Vernal, UT
 
 **EPA Facility ID:** 100000060337
 

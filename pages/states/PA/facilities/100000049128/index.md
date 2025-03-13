@@ -1,6 +1,6 @@
-# Unknown
+# Susquehanna Steam Electric Station
 
-**Location:** Unknown, PA
+**Location:** Berwick, PA
 
 **EPA Facility ID:** 100000049128
 

@@ -1,6 +1,6 @@
-# Unknown
+# Sedalia Water Treatment Plant
 
-**Location:** Unknown, MO
+**Location:** Sedalia, MO
 
 **EPA Facility ID:** 100000075982
 

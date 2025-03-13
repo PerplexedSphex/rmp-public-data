@@ -1,6 +1,6 @@
-# Unknown
+# LTV Steel Co., Chicago Works
 
-**Location:** Unknown, IL
+**Location:** Chicago, IL
 
 **EPA Facility ID:** 100000028597
 

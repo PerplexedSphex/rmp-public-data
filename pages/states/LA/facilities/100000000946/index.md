@@ -1,6 +1,6 @@
-# Unknown
+# S & M Fertilizer & Seed Co., Inc.
 
-**Location:** Unknown, LA
+**Location:** Franklinton, LA
 
 **EPA Facility ID:** 100000000946
 

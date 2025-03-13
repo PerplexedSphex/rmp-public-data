@@ -1,6 +1,6 @@
-# Unknown
+# Trinity Manufacturing, Inc.
 
-**Location:** Unknown, NC
+**Location:** Hamlet, NC
 
 **EPA Facility ID:** 100000059278
 

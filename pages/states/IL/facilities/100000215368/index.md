@@ -1,6 +1,6 @@
-# Unknown
+# Stephenson Sevrice Co. - Elizabeth/Sproule
 
-**Location:** Unknown, IL
+**Location:** Elizabeth, IL
 
 **EPA Facility ID:** 100000215368
 

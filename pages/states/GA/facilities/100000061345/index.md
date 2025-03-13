@@ -1,6 +1,6 @@
-# Unknown
+# Long Cane Creek Water Pollution Control Plant
 
-**Location:** Unknown, GA
+**Location:** LaGrange, GA
 
 **EPA Facility ID:** 100000061345
 

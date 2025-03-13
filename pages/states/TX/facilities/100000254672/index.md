@@ -1,6 +1,6 @@
-# Unknown
+# West Seminole RCF Plant
 
-**Location:** Unknown, TX
+**Location:** Seminole, TX
 
 **EPA Facility ID:** 100000254672
 

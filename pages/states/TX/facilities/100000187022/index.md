@@ -1,6 +1,6 @@
-# Unknown
+# The LYCRA Company La Porte Plant 
 
-**Location:** Unknown, TX
+**Location:** LaPorte, TX
 
 **EPA Facility ID:** 100000187022
 

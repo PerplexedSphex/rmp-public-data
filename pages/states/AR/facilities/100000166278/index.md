@@ -1,6 +1,6 @@
-# Unknown
+# CoorsTek, Arkansas Operations
 
-**Location:** Unknown, AR
+**Location:** Benton, AR
 
 **EPA Facility ID:** 100000166278
 

@@ -1,6 +1,6 @@
-# Unknown
+# ADM Milling Co.
 
-**Location:** Unknown, IN
+**Location:** Beech Grove, IN
 
 **EPA Facility ID:** 100000069203
 

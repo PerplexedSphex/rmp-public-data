@@ -1,6 +1,6 @@
-# Unknown
+# Silver Bay Seafoods - California, LLC (Hilltop)
 
-**Location:** Unknown, CA
+**Location:** Moss Landing, CA
 
 **EPA Facility ID:** 100000241856
 

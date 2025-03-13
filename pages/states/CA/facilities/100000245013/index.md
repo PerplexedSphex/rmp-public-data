@@ -1,6 +1,6 @@
-# Unknown
+# Specialty Products and Leasing
 
-**Location:** Unknown, CA
+**Location:** Taft, CA
 
 **EPA Facility ID:** 100000245013
 

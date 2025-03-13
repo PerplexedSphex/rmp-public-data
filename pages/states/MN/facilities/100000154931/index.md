@@ -1,6 +1,6 @@
-# Unknown
+# Americold - Newport
 
-**Location:** Unknown, MN
+**Location:** Newport, MN
 
 **EPA Facility ID:** 100000154931
 

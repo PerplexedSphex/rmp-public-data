@@ -1,6 +1,6 @@
-# Unknown
+# The Sherwin-Williams Co - Effingham DSC
 
-**Location:** Unknown, IL
+**Location:** Effingham, IL
 
 **EPA Facility ID:** 100000143784
 

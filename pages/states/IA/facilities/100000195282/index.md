@@ -1,6 +1,6 @@
-# Unknown
+# Lincolnway Energy, LLC
 
-**Location:** Unknown, IA
+**Location:** Nevada, IA
 
 **EPA Facility ID:** 100000195282
 

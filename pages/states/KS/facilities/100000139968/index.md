@@ -1,6 +1,6 @@
-# Unknown
+# Hoxie Grain Inc.
 
-**Location:** Unknown, KS
+**Location:** Hoxie, KS
 
 **EPA Facility ID:** 100000139968
 

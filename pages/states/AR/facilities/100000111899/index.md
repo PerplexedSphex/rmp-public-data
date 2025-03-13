@@ -1,6 +1,6 @@
-# Unknown
+# Viskase Corporation
 
-**Location:** Unknown, AR
+**Location:** Osceola, AR
 
 **EPA Facility ID:** 100000111899
 

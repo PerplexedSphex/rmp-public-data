@@ -1,6 +1,6 @@
-# Unknown
+# CHS Inc - Cuba
 
-**Location:** Unknown, ND
+**Location:** VALLEY CITY, ND
 
 **EPA Facility ID:** 100000160979
 

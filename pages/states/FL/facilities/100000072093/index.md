@@ -1,6 +1,6 @@
-# Unknown
+# Peddie Chemical Company, Inc.
 
-**Location:** Unknown, FL
+**Location:** Tallahassee, FL
 
 **EPA Facility ID:** 100000072093
 

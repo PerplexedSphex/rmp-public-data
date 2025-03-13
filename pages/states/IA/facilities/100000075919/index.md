@@ -1,6 +1,6 @@
-# Unknown
+# Hydrite Chemical Co. - Waterloo
 
-**Location:** Unknown, IA
+**Location:** Waterloo, IA
 
 **EPA Facility ID:** 100000075919
 

@@ -1,6 +1,6 @@
-# Unknown
+# Zeco Inc
 
-**Location:** Unknown, TN
+**Location:** Chattanooga, TN
 
 **EPA Facility ID:** 100000224651
 

@@ -1,6 +1,6 @@
-# Unknown
+# Giant Eagle American Seaway
 
-**Location:** Unknown, OH
+**Location:** Bedford Heights, OH
 
 **EPA Facility ID:** 100000137844
 

@@ -1,6 +1,6 @@
-# Unknown
+# WICK GRAIN COMPANY-UTICA
 
-**Location:** Unknown, KS
+**Location:** UTICA, KS
 
 **EPA Facility ID:** 100000078426
 

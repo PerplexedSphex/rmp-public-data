@@ -1,6 +1,6 @@
-# Unknown
+# Chem Lab Products, Inc.
 
-**Location:** Unknown, FL
+**Location:** Ocala, FL
 
 **EPA Facility ID:** 100000054665
 

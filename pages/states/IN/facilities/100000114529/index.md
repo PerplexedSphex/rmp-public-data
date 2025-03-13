@@ -1,6 +1,6 @@
-# Unknown
+# Midland Co-op, Quincy Plant
 
-**Location:** Unknown, IN
+**Location:** Quincy, IN
 
 **EPA Facility ID:** 100000114529
 

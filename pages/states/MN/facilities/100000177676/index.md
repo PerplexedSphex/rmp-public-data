@@ -1,6 +1,6 @@
-# Unknown
+# City of Litchfield Wastewater Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** Litchfield, MN
 
 **EPA Facility ID:** 100000177676
 

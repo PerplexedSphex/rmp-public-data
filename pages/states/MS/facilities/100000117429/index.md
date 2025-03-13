@@ -1,6 +1,6 @@
-# Unknown
+# JBS Prepared Foods -  Booneville Facility
 
-**Location:** Unknown, MS
+**Location:** Booneville, MS
 
 **EPA Facility ID:** 100000117429
 

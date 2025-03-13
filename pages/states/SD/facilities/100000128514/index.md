@@ -1,6 +1,6 @@
-# Unknown
+# Union County Fertilizer
 
-**Location:** Unknown, SD
+**Location:** Elk Point, SD
 
 **EPA Facility ID:** 100000128514
 

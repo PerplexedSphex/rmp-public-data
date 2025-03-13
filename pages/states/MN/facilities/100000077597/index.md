@@ -1,6 +1,6 @@
-# Unknown
+# East Grand Forks Water Treatment Plant
 
-**Location:** Unknown, MN
+**Location:** East Grand Forks, MN
 
 **EPA Facility ID:** 100000077597
 

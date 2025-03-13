@@ -1,6 +1,6 @@
-# Unknown
+# PPG Industries Ohio, Inc.
 
-**Location:** Unknown, OH
+**Location:** Delaware, OH
 
 **EPA Facility ID:** 100000073993
 

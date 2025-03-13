@@ -1,6 +1,6 @@
-# Unknown
+# Maine Propane Distributors Ellsworth Plant
 
-**Location:** Unknown, ME
+**Location:** Ellsworth, ME
 
 **EPA Facility ID:** 100000220487
 

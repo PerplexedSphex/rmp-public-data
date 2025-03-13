@@ -1,6 +1,6 @@
-# Unknown
+# Foothill Orange Coast Chemical
 
-**Location:** Unknown, CA
+**Location:** Upland, CA
 
 **EPA Facility ID:** 100000114066
 

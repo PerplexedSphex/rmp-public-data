@@ -1,6 +1,6 @@
-# Unknown
+# StanChem, Inc.
 
-**Location:** Unknown, CT
+**Location:** East Berlin, CT
 
 **EPA Facility ID:** 100000146308
 

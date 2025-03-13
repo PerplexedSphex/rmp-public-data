@@ -1,6 +1,6 @@
-# Unknown
+# Pilot Creek WWTP
 
-**Location:** Unknown, NC
+**Location:** Kings Mountain, NC
 
 **EPA Facility ID:** 100000058965
 

@@ -1,6 +1,6 @@
-# Unknown
+# Skyland Grain, LLC - Hugoton West
 
-**Location:** Unknown, KS
+**Location:** Hugoton, KS
 
 **EPA Facility ID:** 100000188762
 

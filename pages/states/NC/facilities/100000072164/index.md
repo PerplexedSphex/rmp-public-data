@@ -1,6 +1,6 @@
-# Unknown
+# City of Reidsville Wastewater Treatment Plant
 
-**Location:** Unknown, NC
+**Location:** Reidsville, NC
 
 **EPA Facility ID:** 100000072164
 

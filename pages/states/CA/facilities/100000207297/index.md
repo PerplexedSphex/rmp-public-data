@@ -1,6 +1,6 @@
-# Unknown
+# Clean Energy California LNG Plant #1
 
-**Location:** Unknown, CA
+**Location:** Boron, CA
 
 **EPA Facility ID:** 100000207297
 

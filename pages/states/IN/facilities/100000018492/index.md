@@ -1,6 +1,6 @@
-# Unknown
+# Vincennes Wastewater Treatment Facility
 
-**Location:** Unknown, IN
+**Location:** Vincennes, IN
 
 **EPA Facility ID:** 100000018492
 

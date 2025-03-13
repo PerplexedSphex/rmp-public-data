@@ -1,6 +1,6 @@
-# Unknown
+# PANOLA II GAS PLANT
 
-**Location:** Unknown, TX
+**Location:** CARTHAGE, TX
 
 **EPA Facility ID:** 100000218114
 

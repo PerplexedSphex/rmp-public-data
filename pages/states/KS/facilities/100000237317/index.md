@@ -1,6 +1,6 @@
-# Unknown
+# CENTRAL PRAIRIE CO-OP - STERLING HUB
 
-**Location:** Unknown, KS
+**Location:** Sterling, KS
 
 **EPA Facility ID:** 100000237317
 

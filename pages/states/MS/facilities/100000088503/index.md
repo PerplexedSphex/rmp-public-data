@@ -1,6 +1,6 @@
-# Unknown
+# Sanderson Farms, LLC
 
-**Location:** Unknown, MS
+**Location:** Laurel, MS
 
 **EPA Facility ID:** 100000088503
 

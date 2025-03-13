@@ -1,6 +1,6 @@
-# Unknown
+# Ryder Integrated Logistics Inc.
 
-**Location:** Unknown, MI
+**Location:** Kalamazoo, MI
 
 **EPA Facility ID:** 100000002043
 

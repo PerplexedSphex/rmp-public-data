@@ -1,6 +1,6 @@
-# Unknown
+# GlobalFoundries Fab 8
 
-**Location:** Unknown, NY
+**Location:** Malta, NY
 
 **EPA Facility ID:** 100000227319
 

@@ -1,6 +1,6 @@
-# Unknown
+# Rose Creek Water Pollution Control Plant
 
-**Location:** Unknown, GA
+**Location:** Woodstock, GA
 
 **EPA Facility ID:** 100000105174
 

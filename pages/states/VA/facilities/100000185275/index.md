@@ -1,6 +1,6 @@
-# Unknown
+# Tenaska Virginia Generating Station
 
-**Location:** Unknown, VA
+**Location:** Scottsville, VA
 
 **EPA Facility ID:** 100000185275
 

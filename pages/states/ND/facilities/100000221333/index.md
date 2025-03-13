@@ -1,6 +1,6 @@
-# Unknown
+# Red Wing Creek Gas Plant II
 
-**Location:** Unknown, ND
+**Location:** Arnegard, ND
 
 **EPA Facility ID:** 100000221333
 

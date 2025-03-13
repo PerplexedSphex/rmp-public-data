@@ -1,6 +1,6 @@
-# Unknown
+# West Hartford Water Treatment Facility
 
-**Location:** Unknown, CT
+**Location:** West Hartford, CT
 
 **EPA Facility ID:** 100000100375
 

@@ -1,6 +1,6 @@
-# Unknown
+# Latham Gas Plant
 
-**Location:** Unknown, CO
+**Location:** Platteville, CO
 
 **EPA Facility ID:** 100000243024
 

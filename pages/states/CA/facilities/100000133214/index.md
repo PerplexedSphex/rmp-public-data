@@ -1,6 +1,6 @@
-# Unknown
+# Lemoore North Well Field Chlorination Facility
 
-**Location:** Unknown, CA
+**Location:** Lemoore, CA
 
 **EPA Facility ID:** 100000133214
 

@@ -1,6 +1,6 @@
-# Unknown
+# Bermco Aluminum
 
-**Location:** Unknown, AL
+**Location:** Birmingham, AL
 
 **EPA Facility ID:** 100000059795
 

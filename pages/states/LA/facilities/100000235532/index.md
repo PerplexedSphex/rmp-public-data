@@ -1,6 +1,6 @@
-# Unknown
+# Sorrento Gas Storage
 
-**Location:** Unknown, LA
+**Location:** Sorrento, LA
 
 **EPA Facility ID:** 100000235532
 

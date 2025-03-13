@@ -1,6 +1,6 @@
-# Unknown
+# Planters Ginning Company
 
-**Location:** Unknown, CA
+**Location:** Brawley, CA
 
 **EPA Facility ID:** 100000030101
 

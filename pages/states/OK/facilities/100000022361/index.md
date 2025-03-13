@@ -1,6 +1,6 @@
-# Unknown
+# CASSIDY GRAIN CO., INC.   (FREDERICK FACILITY)
 
-**Location:** Unknown, OK
+**Location:** Frederick, OK
 
 **EPA Facility ID:** 100000022361
 

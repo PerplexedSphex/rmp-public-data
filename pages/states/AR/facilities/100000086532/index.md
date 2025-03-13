@@ -1,6 +1,6 @@
-# Unknown
+# Jack H. Wilson Water Treatment Plant
 
-**Location:** Unknown, AR
+**Location:** Little Rock, AR
 
 **EPA Facility ID:** 100000086532
 

@@ -1,6 +1,6 @@
-# Unknown
+# Spaulding Composites  Company
 
-**Location:** Unknown, IL
+**Location:** DeKalb, IL
 
 **EPA Facility ID:** 100000160247
 

@@ -1,6 +1,6 @@
-# Unknown
+# Red Desert Gas Plant
 
-**Location:** Unknown, WY
+**Location:** Green River, WY
 
 **EPA Facility ID:** 100000126678
 

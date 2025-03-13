@@ -1,6 +1,6 @@
-# Unknown
+# Vantage Specialties Inc.
 
-**Location:** Unknown, IL
+**Location:** Gurnee, IL
 
 **EPA Facility ID:** 100000028702
 

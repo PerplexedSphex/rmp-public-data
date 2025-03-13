@@ -1,6 +1,6 @@
-# Unknown
+# City of Enid Water Plant #2 PWSID 2002445
 
-**Location:** Unknown, OK
+**Location:** Enid, OK
 
 **EPA Facility ID:** 100000106672
 

@@ -1,6 +1,6 @@
-# Unknown
+# Dry Fork Station
 
-**Location:** Unknown, WY
+**Location:** Gillette, WY
 
 **EPA Facility ID:** 100000214387
 

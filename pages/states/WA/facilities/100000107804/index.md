@@ -1,6 +1,6 @@
-# Unknown
+# Washington Beef LLC
 
-**Location:** Unknown, WA
+**Location:** Toppenish, WA
 
 **EPA Facility ID:** 100000107804
 

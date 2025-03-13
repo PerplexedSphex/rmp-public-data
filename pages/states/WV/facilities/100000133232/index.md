@@ -1,6 +1,6 @@
-# Unknown
+# SAL Chemical Company Inc
 
-**Location:** Unknown, WV
+**Location:** Weirton, WV
 
 **EPA Facility ID:** 100000133232
 

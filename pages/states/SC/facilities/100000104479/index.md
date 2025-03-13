@@ -1,6 +1,6 @@
-# Unknown
+# Solvay USA , LLC (Spartanburg, SC Facility)
 
-**Location:** Unknown, SC
+**Location:** Spartanburg, SC
 
 **EPA Facility ID:** 100000104479
 

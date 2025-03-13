@@ -1,6 +1,6 @@
-# Unknown
+# Indiana American Water, Northwest, Ogden Dunes
 
-**Location:** Unknown, IN
+**Location:** Portage, IN
 
 **EPA Facility ID:** 100000055165
 

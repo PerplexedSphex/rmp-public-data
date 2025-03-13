@@ -1,6 +1,6 @@
-# Unknown
+# Lowell Regional Water Utility Treatment Plant
 
-**Location:** Unknown, MA
+**Location:** Lowell, MA
 
 **EPA Facility ID:** 100000139254
 

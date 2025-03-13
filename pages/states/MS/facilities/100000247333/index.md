@@ -1,6 +1,6 @@
-# Unknown
+# Superior Fish Products
 
-**Location:** Unknown, MS
+**Location:** Macon, MS
 
 **EPA Facility ID:** 100000247333
 

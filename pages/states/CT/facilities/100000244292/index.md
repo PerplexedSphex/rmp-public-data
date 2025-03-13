@@ -1,6 +1,6 @@
-# Unknown
+# Inland Bridgeport Terminal
 
-**Location:** Unknown, CT
+**Location:** Bridgeport, CT
 
 **EPA Facility ID:** 100000244292
 

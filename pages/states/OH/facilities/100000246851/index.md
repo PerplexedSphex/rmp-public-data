@@ -1,6 +1,6 @@
-# Unknown
+# Lineage Logistics
 
-**Location:** Unknown, OH
+**Location:** Columbus, OH
 
 **EPA Facility ID:** 100000246851
 

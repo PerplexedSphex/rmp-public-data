@@ -1,6 +1,6 @@
-# Unknown
+# QUIVIRA MINING COMPANY - AMBROSIA LAKE FACILITY
 
-**Location:** Unknown, NM
+**Location:** GRANTS, NM
 
 **EPA Facility ID:** 100000154548
 

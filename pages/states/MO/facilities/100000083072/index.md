@@ -1,6 +1,6 @@
-# Unknown
+# Ingredion Incorporated North Kansas City Plant
 
-**Location:** Unknown, MO
+**Location:** North Kansas City, MO
 
 **EPA Facility ID:** 100000083072
 

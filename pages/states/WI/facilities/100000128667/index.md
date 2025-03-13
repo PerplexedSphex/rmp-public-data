@@ -1,6 +1,6 @@
-# Unknown
+# Rockwood Facility
 
-**Location:** Unknown, WI
+**Location:** Manitowoc, WI
 
 **EPA Facility ID:** 100000128667
 

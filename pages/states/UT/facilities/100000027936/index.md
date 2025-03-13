@@ -1,6 +1,6 @@
-# Unknown
+# Ashley Valley Water Treatment Plant
 
-**Location:** Unknown, UT
+**Location:** Vernal, UT
 
 **EPA Facility ID:** 100000027936
 

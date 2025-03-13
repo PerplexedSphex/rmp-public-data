@@ -1,6 +1,6 @@
-# Unknown
+# City of Port Huron Wastewater Treatment Plant
 
-**Location:** Unknown, MI
+**Location:** Port Huron, MI
 
 **EPA Facility ID:** 100000064306
 

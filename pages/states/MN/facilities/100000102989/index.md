@@ -1,6 +1,6 @@
-# Unknown
+# HIBBING PUBLIC UTILITIES WATER TREATMENT PLANT
 
-**Location:** Unknown, MN
+**Location:** HIBBING, MN
 
 **EPA Facility ID:** 100000102989
 

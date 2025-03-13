@@ -1,6 +1,6 @@
-# Unknown
+# Pyramid Water Treatment Plant
 
-**Location:** Unknown, AK
+**Location:** Unalaska, AK
 
 **EPA Facility ID:** 100000194773
 

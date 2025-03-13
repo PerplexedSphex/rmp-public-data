@@ -1,6 +1,6 @@
-# Unknown
+# Blencor, LLC
 
-**Location:** Unknown, TX
+**Location:** Sealy, TX
 
 **EPA Facility ID:** 100000212968
 

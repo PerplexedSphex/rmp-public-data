@@ -1,6 +1,6 @@
-# Unknown
+# JBS Prepared Foods - Columbia
 
-**Location:** Unknown, MO
+**Location:** Columbia, MO
 
 **EPA Facility ID:** 100000249493
 

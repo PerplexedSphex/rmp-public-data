@@ -1,6 +1,6 @@
-# Unknown
+# Akron Services, Inc.
 
-**Location:** Unknown, IL
+**Location:** Elmwood, IL
 
 **EPA Facility ID:** 100000242007
 

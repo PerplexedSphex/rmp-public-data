@@ -1,6 +1,6 @@
-# Unknown
+# Zartic LLC - West Rome Division
 
-**Location:** Unknown, GA
+**Location:** Rome, GA
 
 **EPA Facility ID:** 100000145176
 
